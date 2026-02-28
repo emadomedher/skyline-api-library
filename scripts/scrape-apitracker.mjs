@@ -601,6 +601,7 @@ async function main() {
       category: profile.category,
       authType: profile.authType,
       selfHostable: false,
+      website: profile.website || '',
       profilePath: `profiles/${profile.id}/profile.json`,
     })
   }
