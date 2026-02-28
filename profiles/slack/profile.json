@@ -1,0 +1,18 @@
+{
+  "$schema": "../../schemas/api-profile-v1.json",
+  "id": "slack",
+  "title": "Slack",
+  "subtitle": "Team messaging and workflow automation platform",
+  "logo": "logos/slack.svg",
+  "tags": ["communication", "messaging", "productivity", "webhooks", "bots"],
+  "category": "Communication",
+  "comments": "Using spec directly from the GitHub repo (slackapi/slack-api-specs) because the deployed version at api.slack.com/specs is outdated and causes parsing errors with Skyline's Swagger 2.0 parser.",
+  "specUrl": "https://raw.githubusercontent.com/slackapi/slack-api-specs/master/web-api/slack_web_openapi_v2.json",
+  "specType": "swagger2",
+  "baseUrl": "https://slack.com/api",
+  "authType": "bearer",
+  "authNotes": "Requires a Slack Bot Token (xoxb-...) or User Token (xoxp-...). Create a Slack App at https://api.slack.com/apps and install it to your workspace to get a token.",
+  "website": "https://slack.com",
+  "docsUrl": "https://api.slack.com/docs",
+  "selfHostable": false
+}

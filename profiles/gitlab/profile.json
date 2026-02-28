@@ -1,0 +1,29 @@
+{
+  "$schema": "../../schemas/api-profile-v1.json",
+  "id": "gitlab",
+  "title": "GitLab",
+  "subtitle": "DevOps lifecycle platform with Git repos, CI/CD, and project management",
+  "logo": "logos/gitlab.svg",
+  "tags": ["devops", "git", "ci-cd", "project-management", "code-review", "containers"],
+  "category": "DevOps",
+  "comments": "GitLab exposes both a REST API (OpenAPI spec) and a GraphQL API. The REST spec is fetched from the official repo. For self-hosted instances, the spec URL is {instance}/api/openapi.json. CRUD grouping optimization is auto-enabled for both REST and GraphQL.",
+  "specUrl": "https://gitlab.com/gitlab-org/gitlab/-/raw/master/doc/api/openapi/openapi_v2.yaml",
+  "specType": "swagger2",
+  "baseUrl": "https://gitlab.com",
+  "authType": "bearer",
+  "authNotes": "Requires a Personal Access Token (PAT). Generate one at {instance}/-/user_settings/personal_access_tokens. The token is sent via the PRIVATE-TOKEN header.",
+  "website": "https://gitlab.com",
+  "docsUrl": "https://docs.gitlab.com/ee/api/rest/",
+  "selfHostable": true,
+  "additionalSpecUrls": [
+    {
+      "label": "GraphQL API",
+      "specUrl": "https://gitlab.com/api/graphql",
+      "specType": "graphql"
+    }
+  ],
+  "detectionHints": {
+    "probePaths": ["/api/openapi.json"],
+    "urlPatterns": ["gitlab"]
+  }
+}

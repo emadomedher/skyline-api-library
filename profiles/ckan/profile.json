@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/api-profile-v1.json",
+  "id": "ckan",
+  "title": "CKAN",
+  "subtitle": "Open data portal platform used by governments and organizations worldwide",
+  "logo": "logos/ckan.svg",
+  "tags": ["open-data", "government", "datasets", "data-catalog", "public-data"],
+  "category": "Open Data",
+  "comments": "CKAN does not publish a standard OpenAPI spec. Skyline uses a native adapter with 7 hardcoded actions (package_search, package_list, package_show, resource_show, datastore_search, organization_list, tag_list). Set spec_type to 'ckan' to activate the built-in adapter. Most CKAN portals do not require authentication for read access.",
+  "specType": "ckan",
+  "baseUrl": "https://data.gov",
+  "authType": "none",
+  "authNotes": "Most CKAN portals allow anonymous read access. For write operations, an API key is required (usually found in your CKAN user profile settings).",
+  "website": "https://ckan.org",
+  "docsUrl": "https://docs.ckan.org/en/latest/api/",
+  "selfHostable": true,
+  "detectionHints": {
+    "probePaths": ["/api/3/action/package_list"]
+  }
+}

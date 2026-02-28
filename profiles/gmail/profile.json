@@ -1,0 +1,21 @@
+{
+  "$schema": "../../schemas/api-profile-v1.json",
+  "id": "gmail",
+  "title": "Gmail",
+  "subtitle": "Google email service with full read/write API access",
+  "logo": "logos/gmail.svg",
+  "tags": ["email", "google", "productivity", "oauth"],
+  "category": "Email",
+  "comments": "Uses Google Discovery Document format instead of OpenAPI. Requires OAuth 2.0 with a Google Cloud project that has the Gmail API enabled. The PKCE flow is handled in the Skyline MCP admin UI.",
+  "specUrl": "https://gmail.googleapis.com/$discovery/rest?version=v1",
+  "specType": "google-discovery",
+  "baseUrl": "https://gmail.googleapis.com",
+  "authType": "oauth2",
+  "authNotes": "Requires a Google Cloud project with Gmail API enabled. Create OAuth 2.0 credentials (Web application type) at https://console.cloud.google.com/apis/credentials. The Skyline admin UI handles the consent flow to obtain a refresh token.",
+  "website": "https://mail.google.com",
+  "docsUrl": "https://developers.google.com/gmail/api/reference/rest",
+  "selfHostable": false,
+  "detectionHints": {
+    "urlPatterns": ["gmail\\.googleapis\\.com"]
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "../../schemas/api-profile-v1.json",
+  "id": "jira",
+  "title": "Jira",
+  "subtitle": "Issue tracking and agile project management by Atlassian",
+  "logo": "logos/jira.svg",
+  "tags": ["project-management", "issue-tracking", "agile", "scrum", "kanban", "atlassian"],
+  "category": "Project Management",
+  "comments": "Supports both Jira Cloud (.atlassian.net) and Jira Server/Data Center. Cloud uses basic auth (email + API token), Server uses bearer PAT. The /rest/api/2/search and /rest/api/3/search endpoints are deprecated on Cloud (return HTTP 410) and are blocked by provider overrides.",
+  "specUrl": "https://developer.atlassian.com/cloud/jira/platform/swagger-v3.v3.json",
+  "specType": "openapi",
+  "baseUrl": "https://your-domain.atlassian.net",
+  "authType": "basic",
+  "authNotes": "Cloud: use your email + API token (generate at https://id.atlassian.com/manage-profile/security/api-tokens). Server/Data Center: use a Personal Access Token as bearer auth.",
+  "website": "https://www.atlassian.com/software/jira",
+  "docsUrl": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/",
+  "selfHostable": true,
+  "providerOverrides": {
+    "reason": "Deprecated search endpoints return HTTP 410 on Jira Cloud",
+    "blockedOperations": [
+      {
+        "method": "GET",
+        "path": "/rest/api/2/search",
+        "reason": "Deprecated on Cloud, returns 410. Use /rest/api/2/search/jql instead."
+      },
+      {
+        "method": "POST",
+        "path": "/rest/api/2/search",
+        "reason": "Deprecated on Cloud, returns 410. Use /rest/api/2/search/jql instead."
+      },
+      {
+        "method": "GET",
+        "path": "/rest/api/3/search",
+        "reason": "Deprecated on Cloud, returns 410. Use /rest/api/3/search/jql instead."
+      },
+      {
+        "method": "POST",
+        "path": "/rest/api/3/search",
+        "reason": "Deprecated on Cloud, returns 410. Use /rest/api/3/search/jql instead."
+      }
+    ]
+  },
+  "detectionHints": {
+    "probePaths": ["/rest/api/3/serverInfo"],
+    "urlPatterns": ["\\.atlassian\\.net"]
+  }
+}

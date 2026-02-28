@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "generated_at": "2026-02-28T00:00:00Z",
+  "profiles": [
+    {
+      "id": "slack",
+      "title": "Slack",
+      "subtitle": "Team messaging and workflow automation platform",
+      "logo": "logos/slack.svg",
+      "tags": ["communication", "messaging", "productivity", "webhooks", "bots"],
+      "category": "Communication",
+      "authType": "bearer",
+      "selfHostable": false,
+      "profilePath": "profiles/slack/profile.json"
+    },
+    {
+      "id": "gitlab",
+      "title": "GitLab",
+      "subtitle": "DevOps lifecycle platform with Git repos, CI/CD, and project management",
+      "logo": "logos/gitlab.svg",
+      "tags": ["devops", "git", "ci-cd", "project-management", "code-review", "containers"],
+      "category": "DevOps",
+      "authType": "bearer",
+      "selfHostable": true,
+      "profilePath": "profiles/gitlab/profile.json"
+    },
+    {
+      "id": "jira",
+      "title": "Jira",
+      "subtitle": "Issue tracking and agile project management by Atlassian",
+      "logo": "logos/jira.svg",
+      "tags": ["project-management", "issue-tracking", "agile", "scrum", "kanban", "atlassian"],
+      "category": "Project Management",
+      "authType": "basic",
+      "selfHostable": true,
+      "profilePath": "profiles/jira/profile.json"
+    },
+    {
+      "id": "gmail",
+      "title": "Gmail",
+      "subtitle": "Google email service with full read/write API access",
+      "logo": "logos/gmail.svg",
+      "tags": ["email", "google", "productivity", "oauth"],
+      "category": "Email",
+      "authType": "oauth2",
+      "selfHostable": false,
+      "profilePath": "profiles/gmail/profile.json"
+    },
+    {
+      "id": "kubernetes",
+      "title": "Kubernetes",
+      "subtitle": "Container orchestration platform API for managing clusters and workloads",
+      "logo": "logos/kubernetes.svg",
+      "tags": ["cloud", "containers", "orchestration", "devops", "infrastructure", "networking"],
+      "category": "Cloud",
+      "authType": "bearer",
+      "selfHostable": true,
+      "profilePath": "profiles/kubernetes/profile.json"
+    },
+    {
+      "id": "ckan",
+      "title": "CKAN",
+      "subtitle": "Open data portal platform used by governments and organizations worldwide",
+      "logo": "logos/ckan.svg",
+      "tags": ["open-data", "government", "datasets", "data-catalog", "public-data"],
+      "category": "Open Data",
+      "authType": "none",
+      "selfHostable": true,
+      "profilePath": "profiles/ckan/profile.json"
+    },
+    {
+      "id": "jenkins",
+      "title": "Jenkins",
+      "subtitle": "Open source automation server for CI/CD pipelines",
+      "logo": "logos/jenkins.svg",
+      "tags": ["ci-cd", "automation", "devops", "builds", "pipelines"],
+      "category": "CI/CD",
+      "authType": "basic",
+      "selfHostable": true,
+      "profilePath": "profiles/jenkins/profile.json"
+    }
+  ]
+}

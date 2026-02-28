@@ -1,0 +1,20 @@
+{
+  "$schema": "../../schemas/api-profile-v1.json",
+  "id": "kubernetes",
+  "title": "Kubernetes",
+  "subtitle": "Container orchestration platform API for managing clusters and workloads",
+  "logo": "logos/kubernetes.svg",
+  "tags": ["cloud", "containers", "orchestration", "devops", "infrastructure", "networking"],
+  "category": "Cloud",
+  "comments": "No fixed spec URL -- the OpenAPI spec is served dynamically by each cluster at /openapi/v2 or /openapi/v3. Skyline auto-detects by probing both endpoints. Initial detection works without auth (AllowUnauth) to confirm it's a Kubernetes API before requesting credentials.",
+  "specType": "auto-detect",
+  "authType": "bearer",
+  "authNotes": "Requires a service account token or kubeconfig file. The Skyline admin UI supports pasting a kubeconfig to extract the token automatically.",
+  "website": "https://kubernetes.io",
+  "docsUrl": "https://kubernetes.io/docs/reference/kubernetes-api/",
+  "selfHostable": true,
+  "detectionHints": {
+    "probePaths": ["/openapi/v2", "/openapi/v3"],
+    "urlPatterns": ["kubernetes\\.default\\.svc", ":\\d+/api(s)?/"]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "$schema": "../../schemas/api-profile-v1.json",
+  "id": "jenkins",
+  "title": "Jenkins",
+  "subtitle": "Open source automation server for CI/CD pipelines",
+  "logo": "logos/jenkins.svg",
+  "tags": ["ci-cd", "automation", "devops", "builds", "pipelines"],
+  "category": "CI/CD",
+  "comments": "Jenkins does not have a standard OpenAPI spec. Skyline uses a custom adapter that discovers available jobs and actions from the /api/json endpoint. Write operations (triggerJob, triggerJobWithParameters) must be explicitly opted in via the jenkins.allow_writes config field.",
+  "specType": "jenkins",
+  "authType": "basic",
+  "authNotes": "Use your Jenkins username and an API token. Generate a token at {instance}/user/{username}/configure under the API Token section.",
+  "website": "https://www.jenkins.io",
+  "docsUrl": "https://www.jenkins.io/doc/book/using/remote-access-api/",
+  "selfHostable": true,
+  "detectionHints": {
+    "probePaths": ["/api/json"]
+  }
+}

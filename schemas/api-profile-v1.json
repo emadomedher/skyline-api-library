@@ -1,0 +1,163 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://skyline.projex.cc/schemas/api-profile-v1.json",
+  "title": "Skyline API Profile",
+  "description": "Schema for API profiles in the Skyline API Library. Each profile describes a known API integration that Skyline MCP can consume.",
+  "type": "object",
+  "required": ["id", "title", "subtitle", "tags", "category", "specType", "authType"],
+  "additionalProperties": false,
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "description": "Reference to this schema file"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]*$",
+      "description": "Unique identifier (lowercase, kebab-case). Must match the profile directory name."
+    },
+    "title": {
+      "type": "string",
+      "description": "Display name of the API service"
+    },
+    "subtitle": {
+      "type": "string",
+      "description": "One-line description of what the API does"
+    },
+    "logo": {
+      "type": "string",
+      "description": "Path to the logo file relative to the repo root (e.g. logos/slack.svg)"
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Freeform tags for search and filtering"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "Communication",
+        "DevOps",
+        "Cloud",
+        "Project Management",
+        "Email",
+        "Open Data",
+        "CI/CD",
+        "Monitoring",
+        "Security",
+        "Analytics",
+        "Storage",
+        "Other"
+      ],
+      "description": "Primary grouping category"
+    },
+    "comments": {
+      "type": "string",
+      "description": "Operational notes explaining non-obvious choices, known issues, or workarounds"
+    },
+    "specUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the API specification document. Omit if the spec is discovered dynamically."
+    },
+    "specType": {
+      "type": "string",
+      "enum": [
+        "openapi",
+        "swagger2",
+        "graphql",
+        "google-discovery",
+        "openrpc",
+        "wsdl",
+        "odata",
+        "ckan",
+        "jenkins",
+        "grpc",
+        "postman",
+        "auto-detect"
+      ],
+      "description": "The specification format. Use auto-detect when the spec type is probed at runtime."
+    },
+    "baseUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "Default base URL for API requests. May be overridden by the user (e.g. self-hosted instances)."
+    },
+    "authType": {
+      "type": "string",
+      "enum": ["bearer", "basic", "api-key", "oauth2", "none"],
+      "description": "Primary authentication method"
+    },
+    "authNotes": {
+      "type": "string",
+      "description": "Human-readable notes about authentication (e.g. where to get tokens, scopes needed)"
+    },
+    "website": {
+      "type": "string",
+      "format": "uri",
+      "description": "Official website of the API provider"
+    },
+    "docsUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "Link to the API documentation"
+    },
+    "selfHostable": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether this API can be self-hosted (meaning baseUrl would vary per user)"
+    },
+    "additionalSpecUrls": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label", "specUrl", "specType"],
+        "properties": {
+          "label": { "type": "string" },
+          "specUrl": { "type": "string", "format": "uri" },
+          "specType": { "type": "string" }
+        }
+      },
+      "description": "Additional spec endpoints (e.g. GitLab has both REST and GraphQL)"
+    },
+    "providerOverrides": {
+      "type": "object",
+      "properties": {
+        "reason": {
+          "type": "string",
+          "description": "Why certain operations are blocked"
+        },
+        "blockedOperations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["method", "path"],
+            "properties": {
+              "method": { "type": "string" },
+              "path": { "type": "string" },
+              "reason": { "type": "string" }
+            }
+          }
+        }
+      },
+      "description": "Operations that should be blocked or overridden for this provider"
+    },
+    "detectionHints": {
+      "type": "object",
+      "properties": {
+        "probePaths": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "URL paths to probe when auto-detecting this API"
+        },
+        "urlPatterns": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Regex patterns that match this API's base URL"
+        }
+      },
+      "description": "Hints for Skyline MCP to auto-detect this API type from a base URL"
+    }
+  }
+}
