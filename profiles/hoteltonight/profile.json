@@ -1,0 +1,14 @@
+{
+  "id": "hoteltonight",
+  "title": "HotelTonight",
+  "subtitle": "Amazing last-minute deals at top-rated hotels. Book tonight, tomorrow and beyond.",
+  "tags": [
+    "ota",
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448027/icons/hoteltonight.png",
+  "website": "https://www.hoteltonight.com/"
+}

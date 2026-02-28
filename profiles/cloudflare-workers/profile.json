@@ -1,0 +1,15 @@
+{
+  "id": "cloudflare-workers",
+  "title": "Cloudflare Workers",
+  "subtitle": "Build your next application with Cloudflare Workers",
+  "tags": [
+    "serverless",
+    "static-site-hosting"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606567913/icons/cloudflare-workers.jpg",
+  "website": "https://workers.cloudflare.com/",
+  "docsUrl": "https://workers.cloudflare.com/docs"
+}

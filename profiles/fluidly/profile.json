@@ -1,0 +1,13 @@
+{
+  "id": "fluidly",
+  "title": "Fluidly",
+  "subtitle": "Fluidly delivers intelligent cashflow management software to help businesses forecast and optimise finance. Powered b...",
+  "tags": [
+    "cash-flow-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579894509/catalog/fluidly/icon128x128.jpg",
+  "website": "https://fluidly.com/"
+}

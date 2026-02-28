@@ -1,0 +1,14 @@
+{
+  "id": "clari",
+  "title": "Clari",
+  "subtitle": "Forecasting, Activity Intelligence and Pipeline Management for B2B Revenue teams.",
+  "tags": [
+    "revenue-operations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826066/catalog/clari/icon128x128.jpg",
+  "website": "https://clari.com",
+  "docsUrl": "https://developer.clari.com/"
+}

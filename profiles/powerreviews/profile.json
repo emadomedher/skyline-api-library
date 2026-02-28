@@ -1,0 +1,13 @@
+{
+  "id": "powerreviews",
+  "title": "PowerReviews",
+  "subtitle": "Trusted user-generated content and customer reviews solutions for brands and retailers. Create better customer experi...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721573/catalog/powerreviews/icon128x128.png",
+  "website": "https://powerreviews.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "getfront",
+  "title": "Front",
+  "subtitle": "Building and scaling financial products is easy with Front's API solutions. Account Aggregation, Asset Transfer & Dat...",
+  "tags": [
+    "unified-apis",
+    "defi"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663459274/icons/getfront.jpg",
+  "website": "https://www.getfront.com/"
+}

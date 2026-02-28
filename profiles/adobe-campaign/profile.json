@@ -1,0 +1,13 @@
+{
+  "id": "adobe-campaign",
+  "title": "Adobe Campaign",
+  "subtitle": "Step up your cross-channel campaign management game with features such as dynamic content, triggered emails, audience...",
+  "tags": [
+    "customer-journey-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801312/catalog/adobe-campaign/icon128x128.jpg",
+  "website": "https://www.adobe.com/marketing/campaign.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "commerceai",
+  "title": "Commerce.AI",
+  "subtitle": "Commerce.AI utilizes artificial intelligence and Deep Product Learning to automate product-related decision making an...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826121/catalog/commerceai/icon128x128.jpg",
+  "website": "https://commerce.ai"
+}

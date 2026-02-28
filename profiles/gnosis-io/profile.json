@@ -1,0 +1,14 @@
+{
+  "id": "gnosis-io",
+  "title": "Gnosis",
+  "subtitle": "Gnosis builds new market mechanisms to redistribute the future. Including prediction market platforms, decentralized ...",
+  "tags": [
+    "crypto",
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602009499/icons/gnosis-io.jpg",
+  "website": "https://gnosis.io/"
+}

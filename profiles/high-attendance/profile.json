@@ -1,0 +1,13 @@
+{
+  "id": "high-attendance",
+  "title": "High Attendance",
+  "subtitle": "High Attendance API integration",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963816/catalog/high-attendance/icon128x128.png",
+  "website": "https://highattendance.com"
+}

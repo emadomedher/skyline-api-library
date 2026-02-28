@@ -1,0 +1,13 @@
+{
+  "id": "altcampus-io",
+  "title": "AltCampus",
+  "subtitle": "AltCampus is a 6 month intensive program that helps you learn full-stack web development. A Programming bootcamp in I...",
+  "tags": [
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642520300/icons/altcampus-io.jpg",
+  "website": "https://altcampus.io/"
+}

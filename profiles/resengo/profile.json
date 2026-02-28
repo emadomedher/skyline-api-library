@@ -1,0 +1,13 @@
+{
+  "id": "resengo",
+  "title": "Resengo",
+  "subtitle": "Reserveer bij je favoriete restaurant of wellness, nodig vrienden uit en haal inspiratie uit reviews. Via Resengo beh...",
+  "tags": [
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796477/catalog/resengo/icon128x128.jpg",
+  "website": "https://wwc.resengo.com/"
+}

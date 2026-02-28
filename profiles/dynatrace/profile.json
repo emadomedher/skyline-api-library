@@ -1,0 +1,15 @@
+{
+  "id": "dynatrace",
+  "title": "Dynatrace",
+  "subtitle": "Monitor, optimize, and scale every app, in any cloud. Advanced cloud observability from the market leader. Sign up fo...",
+  "tags": [
+    "mobile-apps",
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947111/catalog/dynatrace/icon128x128.jpg",
+  "website": "https://dynatrace.com",
+  "docsUrl": "https://www.dynatrace.com/support/doc"
+}

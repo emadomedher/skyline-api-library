@@ -1,0 +1,13 @@
+{
+  "id": "cloudradial",
+  "title": "CloudRadial",
+  "subtitle": "CloudRadial is the #1 client and ticketing portal with account management for MSPs and Microsoft CSPs. Integrates wit...",
+  "tags": [
+    "msp-client-portal"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607941976/icons/cloudradial.jpg",
+  "website": "https://www.cloudradial.com/"
+}

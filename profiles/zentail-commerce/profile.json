@@ -1,0 +1,13 @@
+{
+  "id": "zentail-commerce",
+  "title": "Zentail Commerce",
+  "subtitle": "Zentail Commerce API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961872/catalog/zentail-commerce/icon128x128.png",
+  "website": "https://zentail.com"
+}

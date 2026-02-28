@@ -1,0 +1,13 @@
+{
+  "id": "zillow",
+  "title": "Zillow",
+  "subtitle": "Zillow is the leading real estate and home-related information marketplace beloved by home-buyers and brokers alike!",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306586/catalog/zillow/icon128x128.png",
+  "website": "https://www.zillow.com/captchaPerimeterX/"
+}

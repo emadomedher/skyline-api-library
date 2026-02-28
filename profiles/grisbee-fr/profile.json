@@ -1,0 +1,13 @@
+{
+  "id": "grisbee-fr",
+  "title": "Grisbee",
+  "subtitle": "Avec Grisbee, gérez votre patrimoine en ligne : pilotez votre patrimoine en un seul lieu et prenez les bonnes décisio...",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592569010/icons/grisbee-fr.jpg",
+  "website": "https://www.grisbee.fr/"
+}

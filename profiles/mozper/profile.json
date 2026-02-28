@@ -1,0 +1,13 @@
+{
+  "id": "mozper",
+  "title": "Mozper",
+  "subtitle": "Mozper is a digital financial platform designed for children and managed by parents that works with a mobile app and ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585773814/catalog/mozper/icon128x128.jpg",
+  "website": "https://www.mozper.com/"
+}

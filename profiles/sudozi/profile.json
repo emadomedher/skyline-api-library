@@ -1,0 +1,14 @@
+{
+  "id": "sudozi",
+  "title": "Sudozi",
+  "subtitle": "Track, collaborate, budget, approve and optimize all in one integrated awesome-to-use real-time platform.",
+  "tags": [
+    "saas-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655115701/icons/sudozi.png",
+  "website": "https://www.sudozi.com/",
+  "docsUrl": "https://docs.google.com/document/d/1whzcns71jvkdh2sci0s9b1k_ajga-uo5kqoooav2wce/edit#bookmark=id.ihv636"
+}

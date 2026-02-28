@@ -1,0 +1,13 @@
+{
+  "id": "campaigner",
+  "title": "Campaigner",
+  "subtitle": "Email Marketing Automation through a reliable, stable and secure platform. Drive higher ROI through advanced features...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719344/catalog/campaigner/icon128x128.jpg",
+  "website": "https://campaigner.com"
+}

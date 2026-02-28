@@ -1,0 +1,14 @@
+{
+  "id": "shiprocket-in",
+  "title": "Shiprocket",
+  "subtitle": "Shiprocket is India's most used eCommerce logistics and shipping software solution. Avail features like COD (Cash on ...",
+  "tags": [
+    "shipping-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589208736/catalog/shiprocket-in/icon128x128.jpg",
+  "website": "https://www.shiprocket.in/",
+  "docsUrl": "https://www.shiprocket.in/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zix",
+  "title": "Zix",
+  "subtitle": "Zix API integration",
+  "tags": [
+    "email-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587218290/catalog/zix/icon128x128.jpg",
+  "website": "https://zix.com/"
+}

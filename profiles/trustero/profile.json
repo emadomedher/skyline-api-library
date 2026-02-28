@@ -1,0 +1,13 @@
+{
+  "id": "trustero",
+  "title": "Trustero",
+  "subtitle": "Trustero provides an industry-leading SOC 2 Compliance as a Service solution. Learn how we can help your organization...",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663081999/icons/trustero.png",
+  "website": "https://trustero.com/"
+}

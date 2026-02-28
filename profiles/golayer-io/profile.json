@@ -1,0 +1,13 @@
+{
+  "id": "golayer-io",
+  "title": "Layer",
+  "subtitle": "A cloud application that adds granular access control, process transparency, sophisticated data consolidation, and mu...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594884782/icons/golayer-io.png",
+  "website": "https://golayer.io/"
+}

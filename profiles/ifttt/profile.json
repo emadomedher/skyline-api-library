@@ -1,0 +1,14 @@
+{
+  "id": "ifttt",
+  "title": "IFTTT",
+  "subtitle": "IFTTT helps your apps and devices work together. If This Then That, also known as IFTTT, is a free web-based service ...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546980860/catalog/ifttt/icon128x128.png",
+  "website": "https://ifttt.com/",
+  "docsUrl": "https://platform.ifttt.com/docs/"
+}

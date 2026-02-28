@@ -1,0 +1,14 @@
+{
+  "id": "revaluate",
+  "title": "Revaluate",
+  "subtitle": "Revaluate helps real estate agents, brokers, mortgage professionals, and others know when people planning on moving u...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591167550/icons/revaluate.jpg",
+  "website": "https://revaluate.com/",
+  "docsUrl": "https://revaluate.com/docs"
+}

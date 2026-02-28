@@ -1,0 +1,13 @@
+{
+  "id": "nextphasesystems",
+  "title": "NextPhase Systems",
+  "subtitle": "NextPhase is a Bay Area advanced analytics consultant. For 15 years, we've helping global companies staff, migrate to...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327356/icons/nextphasesystems.jpg",
+  "website": "https://nextphasesystems.com"
+}

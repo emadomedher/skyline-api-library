@@ -1,0 +1,14 @@
+{
+  "id": "stoplight-io",
+  "title": "Stoplight",
+  "subtitle": "Using Stoplight you can create OpenAPI Specifications, documentation, mock servers much faster than other API tools w...",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559239340/catalog/stoplight-io/icon128x128.png",
+  "website": "https://stoplight.io",
+  "docsUrl": "https://stoplight.io/documentation"
+}

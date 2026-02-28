@@ -1,0 +1,13 @@
+{
+  "id": "picturepark",
+  "title": "Picturepark",
+  "subtitle": "Content Management software for building content-driven solution that manage and route file-based and file-less conte...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721477/catalog/picturepark/icon128x128.jpg",
+  "website": "https://picturepark.com"
+}

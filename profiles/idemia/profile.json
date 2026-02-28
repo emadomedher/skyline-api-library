@@ -1,0 +1,14 @@
+{
+  "id": "idemia",
+  "title": "IDEMIA",
+  "subtitle": "Securing our identity has become mission critical in the world we live in today. By standing for Augmented Identity, ...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599521408/icons/idemia.jpg",
+  "website": "https://www.idemia.com/",
+  "docsUrl": "https://www.idemia.com/docseal"
+}

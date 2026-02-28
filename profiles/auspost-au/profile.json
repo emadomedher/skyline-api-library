@@ -1,0 +1,15 @@
+{
+  "id": "auspost-au",
+  "title": "Australia Post",
+  "subtitle": "Australia Post provides reliable and affordable postal, retail, financial and travel services. ",
+  "tags": [
+    "shipping-carriers",
+    "postal-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573130952/catalog/auspost-au/icon128x128.png",
+  "website": "https://auspost.com.au/",
+  "docsUrl": "https://developers.auspost.com.au"
+}

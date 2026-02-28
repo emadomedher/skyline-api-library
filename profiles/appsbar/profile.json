@@ -1,0 +1,13 @@
+{
+  "id": "appsbar",
+  "title": "Appsbar",
+  "subtitle": "Appsbar is your free mobile app builder - free to all app builders and app lovers. Create an app for free today!",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947269/catalog/appsbar/icon128x128.jpg",
+  "website": "https://appsbar.com"
+}

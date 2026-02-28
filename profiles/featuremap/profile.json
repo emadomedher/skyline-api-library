@@ -1,0 +1,13 @@
+{
+  "id": "featuremap",
+  "title": "Featuremap",
+  "subtitle": "Discover FeatureMap story mapping, simple & effective realtime collaboration and collective intelligence tool.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720065/catalog/featuremap/icon128x128.png",
+  "website": "https://featuremap.co"
+}

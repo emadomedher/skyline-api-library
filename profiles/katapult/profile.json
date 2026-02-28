@@ -1,0 +1,15 @@
+{
+  "id": "katapult",
+  "title": "Katapult",
+  "subtitle": "Katapult | Lease to Own | No Credit Required | Don't Let the Price Tag Win",
+  "tags": [
+    "lease-to-own",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610219528/icons/katapult.png",
+  "website": "https://katapult.com/",
+  "docsUrl": "https://katapult.com/app/#change-information"
+}

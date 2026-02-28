@@ -1,0 +1,13 @@
+{
+  "id": "leankor",
+  "title": "Leankor",
+  "subtitle": "Leankor is a visual, customer-centric enterprise project and work management solution built on the world’s #1 leading...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720804/catalog/leankor/icon128x128.jpg",
+  "website": "https://leankor.com"
+}

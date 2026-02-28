@@ -1,0 +1,13 @@
+{
+  "id": "anecdotes-ai",
+  "title": "anecdotes",
+  "subtitle": "anecdotes is the first enterprise-grade compliance management platform. Compatible with SOC 2, PCI, ISO, ITGC, HIPAA ...",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677864063/icons/anecdotes-ai.png",
+  "website": "https://www.anecdotes.ai/"
+}

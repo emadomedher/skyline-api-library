@@ -1,0 +1,13 @@
+{
+  "id": "longshot-ai",
+  "title": "LongShot AI",
+  "subtitle": "LongShot is the AI platform for fresh, authentic, high ranking content. Our custom AI saves you 4 hours a day while w...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645518420/icons/longshot-ai.jpg",
+  "website": "https://www.longshot.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "better-proposals",
+  "title": "Better Proposals",
+  "subtitle": "Better Proposals is a simple, web-based proposal creation tool that lets you send professionally designed proposals.",
+  "tags": [
+    "proposals-&-invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304485/catalog/better-proposals/icon128x128.png",
+  "docsUrl": "https://betterproposals.io/resources/api/"
+}

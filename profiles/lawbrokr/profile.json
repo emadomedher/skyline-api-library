@@ -1,0 +1,13 @@
+{
+  "id": "lawbrokr",
+  "title": "lawbrokr.",
+  "subtitle": "Simplifying Legal.",
+  "tags": [
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637980015/icons/lawbrokr.jpg",
+  "website": "https://www.lawbrokr.com/"
+}

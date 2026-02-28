@@ -1,0 +1,13 @@
+{
+  "id": "roblox",
+  "title": "Roblox",
+  "subtitle": "At Roblox, our mission is to bring the world together through play.",
+  "tags": [
+    "game-development"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565647335/catalog/roblox/icon128x128.png",
+  "website": "https://corp.roblox.com/"
+}

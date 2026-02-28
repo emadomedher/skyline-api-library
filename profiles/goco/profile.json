@@ -1,0 +1,14 @@
+{
+  "id": "goco",
+  "title": "GoCo",
+  "subtitle": "GoCo is a free all-in-one HR platform serviced by the nation's leading benefit advisors. 250 benefit experts across 3...",
+  "tags": [
+    "talent-management",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720261/catalog/goco/icon128x128.png",
+  "website": "https://goco.io"
+}

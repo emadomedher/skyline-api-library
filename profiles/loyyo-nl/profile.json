@@ -1,0 +1,13 @@
+{
+  "id": "loyyo-nl",
+  "title": "Loyyo",
+  "subtitle": "We turn payments into loyalty points and buyers into unified and loyal customers.",
+  "tags": [
+    "card-linked-loyalty"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612537323/icons/loyyo-nl.jpg",
+  "website": "https://www.loyyo.nl/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "voilanorbert",
+  "title": "VoilaNorbert",
+  "subtitle": "VoilaNorbert is an easy tool to find anyone's email address and reach out to them.",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306454/catalog/voilanorbert/icon128x128.png",
+  "website": "https://voilanorbert.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "predy",
+  "title": "Predy",
+  "subtitle": "landing page template for saas companies",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721574/catalog/predy/icon128x128.jpg",
+  "website": "https://getpredy.com"
+}

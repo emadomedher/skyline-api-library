@@ -1,0 +1,13 @@
+{
+  "id": "quebble",
+  "title": "Quebble",
+  "subtitle": "Bespaar 1,5e dag per maand met onze software voor de kinderopvang. Quebble brengt verschillende informatiestromen sam...",
+  "tags": [
+    "time-registration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634905034/icons/quebble.jpg",
+  "website": "https://www.quebble.com/"
+}

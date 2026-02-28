@@ -1,0 +1,13 @@
+{
+  "id": "123signup",
+  "title": "123Signup",
+  "subtitle": "123Signups Association & Event Management Software helps you and your business build better experiences with unlimite...",
+  "tags": [
+    "events-meetings-and-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717132/catalog/123signup/icon128x128.jpg",
+  "website": "https://123signup.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "singlestore",
+  "title": "SingleStore",
+  "subtitle": "SingleStore is a modern relational database for cloud and on-premises that delivers immediate insights for modern app...",
+  "tags": [
+    "streaming-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192474/icons/singlestore.png",
+  "website": "https://www.singlestore.com/",
+  "docsUrl": "https://docs.singlestore.com"
+}

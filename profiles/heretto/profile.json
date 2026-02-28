@@ -1,0 +1,14 @@
+{
+  "id": "heretto",
+  "title": "Heretto",
+  "subtitle": "Heretto is a content operations platform for knowledge management that turns your product content into engaging digit...",
+  "tags": [
+    "product-documentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638213326/icons/heretto.png",
+  "website": "https://heretto.com/",
+  "docsUrl": "https://heretto.com/product-documentation"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "helpwise-io",
+  "title": "Helpwise",
+  "subtitle": "Helpwise is an easy to use shared inbox and email collaboration software for teams to manage team email accounts like...",
+  "tags": [
+    "team-inbox"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616155008/icons/helpwise-io.jpg",
+  "website": "https://helpwise.io/",
+  "docsUrl": "https://helpwise.io/developers"
+}

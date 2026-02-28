@@ -1,0 +1,16 @@
+{
+  "id": "pluralsight",
+  "title": "Pluralsight",
+  "subtitle": "SAVE $100 off Personal Annual and Premium subscriptions for a limited time. Gain access to THE technology skills plat...",
+  "tags": [
+    "online-education",
+    "courses",
+    "knowledge"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568943841/catalog/pluralsight/icon128x128.jpg",
+  "website": "https://www.pluralsight.com/",
+  "docsUrl": "https://www.pluralsight.com/role-iq/java-developer"
+}

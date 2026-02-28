@@ -1,0 +1,12 @@
+{
+  "id": "everhour",
+  "title": "Everhour",
+  "subtitle": "Everhour is a time tracking software equipped with budgeting, forward resource planning, expenses tracking, visual da...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284513/catalog/everhour/icon128x128.png"
+}

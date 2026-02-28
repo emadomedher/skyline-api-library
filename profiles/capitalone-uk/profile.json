@@ -1,0 +1,13 @@
+{
+  "id": "capitalone-uk",
+  "title": "Capital One UK",
+  "subtitle": "Capital One is one of the UK’s top ten largest card providers starting back in 1996 and has based its ethos around a ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588039300/catalog/capitalone-uk/icon128x128.jpg",
+  "website": "https://www.capitalone.co.uk/"
+}

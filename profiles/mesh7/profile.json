@@ -1,0 +1,13 @@
+{
+  "id": "mesh7",
+  "title": "Mesh7",
+  "subtitle": "Mesh7 delivers highly distributed micro API firewall with gateway to secure Cloud-Native Applications and microservices.",
+  "tags": [
+    "api-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643353030/icons/mesh7.jpg",
+  "website": "https://mesh7.com/"
+}

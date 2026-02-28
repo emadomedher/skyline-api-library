@@ -1,0 +1,13 @@
+{
+  "id": "yucopia",
+  "title": "Yucopia",
+  "subtitle": "Het gratis software platform waarmee je gemiddeld 35% bespaart op al jouw algemene aankopen zoals kantoormateriaal, d...",
+  "tags": [
+    "group-purchasing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583935066/catalog/yucopia/icon128x128.jpg",
+  "website": "https://www.yucopia.com/"
+}

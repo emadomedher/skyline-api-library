@@ -1,0 +1,14 @@
+{
+  "id": "hologram-io",
+  "title": "Hologram",
+  "subtitle": "The easiest to use cellular platform for IoT devices. Scale deployments with a single global SIM and network in over ...",
+  "tags": [
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628694838/icons/hologram-io.jpg",
+  "website": "https://www.hologram.io/",
+  "docsUrl": "https://www.hologram.io/docs"
+}

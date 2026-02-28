@@ -1,0 +1,13 @@
+{
+  "id": "ongage",
+  "title": "Ongage",
+  "subtitle": "Ongage API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946754/catalog/ongage/icon128x128.png",
+  "website": "https://ongage.com"
+}

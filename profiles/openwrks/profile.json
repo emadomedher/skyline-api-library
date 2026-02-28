@@ -1,0 +1,14 @@
+{
+  "id": "openwrks",
+  "title": "OpenWrks",
+  "subtitle": "We make Open Banking work. Helping people easily and securely share their financial information with the businesses t...",
+  "tags": [
+    "open-banking",
+    "banking-api-aggregators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311389/catalog/openwrks/icon128x128.jpg",
+  "website": "https://www.openwrks.com/"
+}

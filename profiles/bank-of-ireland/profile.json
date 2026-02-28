@@ -1,0 +1,13 @@
+{
+  "id": "bank-of-ireland",
+  "title": "Bank of Ireland",
+  "subtitle": "Bank of Ireland Group plc is a commercial bank operation in Ireland and one of the traditional 'Big Four' Irish banks...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607767297/icons/bank-of-ireland.jpg",
+  "website": "https://www.bankofireland.com/"
+}

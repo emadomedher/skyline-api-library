@@ -1,0 +1,14 @@
+{
+  "id": "meemo-ai",
+  "title": "Meemo",
+  "subtitle": "Meemo is a secure way to safely send money with intention between friends. \nTreat your friends to meaningful moments,...",
+  "tags": [
+    "social-fintech",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437745/icons/meemo-ai.jpg",
+  "website": "https://meemo.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "reactx",
+  "title": "Reactx",
+  "subtitle": "Reactx API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436845/catalog/reactx/icon128x128.png",
+  "website": "https://reactx.com"
+}

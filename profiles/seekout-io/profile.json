@@ -1,0 +1,13 @@
+{
+  "id": "seekout-io",
+  "title": "SeekOut",
+  "subtitle": "SeekOut, an AI-powered talent search engine to help you search for hard-to-find and diverse talent. Integrates with w...",
+  "tags": [
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612995236/icons/seekout-io.jpg",
+  "website": "https://www.seekout.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "surfly",
+  "title": "Surfly",
+  "subtitle": "Surfly enables you to create collaborative and compliant digital journeys without needing to change your applications...",
+  "tags": [
+    "co-browsing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023404/icons/surfly.png",
+  "website": "https://www.surfly.com/",
+  "docsUrl": "https://docs.surfly.com/index.html"
+}

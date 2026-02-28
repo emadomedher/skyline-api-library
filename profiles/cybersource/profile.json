@@ -1,0 +1,14 @@
+{
+  "id": "cybersource",
+  "title": "CyberSource",
+  "subtitle": "CyberSource is a leading global provider of credit card processing, fraud and security risk management solutions.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563149767/catalog/cybersource/icon128x128.jpg",
+  "website": "https://cybersource.com",
+  "docsUrl": "https://www.cybersource.com/developers.html"
+}

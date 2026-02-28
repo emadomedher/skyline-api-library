@@ -1,0 +1,14 @@
+{
+  "id": "fintecture",
+  "title": "Fintecture",
+  "subtitle": "Fintecture is a standarized and secure one-stop shop API gateway connecting businesses to banks for payment initiatio...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596752972/icons/fintecture.jpg",
+  "website": "https://www.fintecture.com/",
+  "docsUrl": "https://docs.fintecture.com"
+}

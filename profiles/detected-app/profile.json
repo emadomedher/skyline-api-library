@@ -1,0 +1,13 @@
+{
+  "id": "detected-app",
+  "title": "Detected",
+  "subtitle": "Detected fills the critical KYB gap in the payments technology stack. Customers can complete Know Your Business requi...",
+  "tags": [
+    "kyb"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647178343/icons/detected-app.png",
+  "website": "https://www.detected.app/"
+}

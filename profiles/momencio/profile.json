@@ -1,0 +1,14 @@
+{
+  "id": "momencio",
+  "title": "momencio",
+  "subtitle": "momencio is the lead retrieval and activation platform that you will want for all of your events. Maximize your event...",
+  "tags": [
+    "events-meetings-and-webinars",
+    "lead-capture"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721153/catalog/momencio/icon128x128.jpg",
+  "website": "https://momencio.com"
+}

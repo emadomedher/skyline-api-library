@@ -1,0 +1,13 @@
+{
+  "id": "massmailer",
+  "title": "MassMailer",
+  "subtitle": "MassMailer provides the best Mass Email solution for Salesforce CRM customers whose marketing, sales, and other teams...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721029/catalog/massmailer/icon128x128.jpg",
+  "website": "https://massmailer.io"
+}

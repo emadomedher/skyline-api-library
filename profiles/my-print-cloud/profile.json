@@ -1,0 +1,12 @@
+{
+  "id": "my-print-cloud",
+  "title": "My Print Cloud",
+  "subtitle": "MyPRINTCloud is a web based software solution provider specifically for the print and graphics arts community worldwi...",
+  "tags": [
+    "printing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305487/catalog/my-print-cloud/icon128x128.png"
+}

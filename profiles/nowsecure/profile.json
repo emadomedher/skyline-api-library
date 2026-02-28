@@ -1,0 +1,15 @@
+{
+  "id": "nowsecure",
+  "title": "NowSecure",
+  "subtitle": "The mobile security technology company for enterprises struggling with mobile-centric workforces, dual-use devices, a...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193149/catalog/nowsecure/icon128x128.png",
+  "website": "https://www.nowsecure.com",
+  "docsUrl": "https://docs.nowsecure.com/lab-automated-api"
+}

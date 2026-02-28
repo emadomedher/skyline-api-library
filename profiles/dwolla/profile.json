@@ -1,0 +1,16 @@
+{
+  "id": "dwolla",
+  "title": "Dwolla",
+  "subtitle": "Dwolla’s ACH API makes it easy to integrate bank transfers. Facilitate ACH payments, or verify customer and bank acco...",
+  "tags": [
+    "payment-processing",
+    "ach-payments-api",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055865/catalog/dwolla/icon128x128.png",
+  "website": "https://www.dwolla.com/",
+  "docsUrl": "https://discuss.dwolla.com"
+}

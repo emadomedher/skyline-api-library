@@ -1,0 +1,15 @@
+{
+  "id": "microsoft-turing-nlg",
+  "title": "Turing-NLG",
+  "subtitle": "T-NLG is a Transformer-based generative language model, which means it can generate words to complete open-ended text...",
+  "tags": [
+    "language-models",
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614643428/icons/microsoft-turing-nlg.png",
+  "website": "https://msturing.org/",
+  "docsUrl": "http://developer.msturing.org/docs/services"
+}

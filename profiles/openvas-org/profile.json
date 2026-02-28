@@ -1,0 +1,15 @@
+{
+  "id": "openvas-org",
+  "title": "OpenVAS",
+  "subtitle": "OpenVAS API integration",
+  "tags": [
+    "vulnerability-scanners",
+    "security",
+    "open-source"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581262378/catalog/openvas-org/icon128x128.png",
+  "website": "https://www.openvas.org/"
+}

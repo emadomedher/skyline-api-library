@@ -1,0 +1,13 @@
+{
+  "id": "splashtop",
+  "title": "Splashtop",
+  "subtitle": "Splashtop remote computer access software allows remote connection to your PC, Mac, Linux, iOS, or Android device. Ov...",
+  "tags": [
+    "remote-access"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579550549/catalog/splashtop/icon128x128.png",
+  "website": "https://www.splashtop.com/"
+}

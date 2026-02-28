@@ -1,0 +1,14 @@
+{
+  "id": "b2mobility-de",
+  "title": "B2Mobility",
+  "subtitle": "B2Mobility is a wholly owned subsidiary of BP and can build on more than 3 decades of experience in payment card and ...",
+  "tags": [
+    "card-issuing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605600806/icons/b2mobility-de.png",
+  "website": "https://www.b2mobility.de/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "urvenue",
+  "title": "UrVenue",
+  "subtitle": "UrVenue empowers hospitality companies with innovative technology solutions to manage and grow their businesses. Take...",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634599513/icons/urvenue.jpg",
+  "website": "https://www.urvenue.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "myob-payglobal",
+  "title": "MYOB PayGlobal",
+  "subtitle": "MYOB PayGlobal is the comprehensive way to simplify workflow and workforce management. See more of our Payroll and HR...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1693292098/icons/myob-payglobal.jpg",
+  "website": "https://www.myob.com/au/enterprise/software-systems/payglobal"
+}

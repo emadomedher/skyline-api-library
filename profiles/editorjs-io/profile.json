@@ -1,0 +1,15 @@
+{
+  "id": "editorjs-io",
+  "title": "Editor.js",
+  "subtitle": "A block-styled editor with clean JSON output",
+  "tags": [
+    "rich-text-editors",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597741959/icons/editorjs-io.png",
+  "website": "https://editorjs.io/",
+  "docsUrl": "https://editorjs.io/base-concepts"
+}

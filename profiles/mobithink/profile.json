@@ -1,0 +1,13 @@
+{
+  "id": "mobithink",
+  "title": "Mobithink",
+  "subtitle": "Mobithink API integration",
+  "tags": [
+    "affiliate-marketing-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561399994/catalog/mobithink/icon128x128.png",
+  "website": "https://mobithink.com"
+}

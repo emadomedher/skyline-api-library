@@ -1,0 +1,15 @@
+{
+  "id": "siteminder",
+  "title": "SiteMinder",
+  "subtitle": "SiteMinder helps your hotel save time and money. ✓ Eliminate manual entry and mistakes ✓ Call one number for support",
+  "tags": [
+    "hospitality",
+    "guest-management",
+    "hotel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578143612/catalog/siteminder/icon128x128.jpg",
+  "website": "https://www.siteminder.com/"
+}

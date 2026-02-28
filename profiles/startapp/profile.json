@@ -1,0 +1,13 @@
+{
+  "id": "startapp",
+  "title": "StartApp",
+  "subtitle": "StartApp API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962218/catalog/startapp/icon128x128.png",
+  "website": "https://startapp.com"
+}

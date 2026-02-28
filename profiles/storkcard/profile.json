@@ -1,0 +1,13 @@
+{
+  "id": "storkcard",
+  "title": "StorkCard",
+  "subtitle": "Raising a family is expensive. StorkCard helps parents take control of their spending, save money on baby purchases a...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598255889/icons/storkcard.jpg",
+  "website": "https://www.storkcard.com/"
+}

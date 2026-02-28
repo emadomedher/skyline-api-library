@@ -1,0 +1,14 @@
+{
+  "id": "payu-in",
+  "title": "PayUmoney",
+  "subtitle": "PayU payment gateway enables businesses in India to accept online payments with all payment modes including credit ca...",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576165988/catalog/payu-in/icon128x128.png",
+  "website": "https://www.payu.in/",
+  "docsUrl": "https://www.payu.in/developers"
+}

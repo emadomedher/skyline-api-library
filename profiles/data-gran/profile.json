@@ -1,0 +1,13 @@
+{
+  "id": "data-gran",
+  "title": "Data Gran",
+  "subtitle": "Data Gran API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964096/catalog/data-gran/icon128x128.png",
+  "website": "https://datagran.co"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dapi-co",
+  "title": "Dapi",
+  "subtitle": "The world’s leading Banking API, that enables applications to securely initiate payments ",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598443746/icons/dapi-co.png",
+  "website": "https://dapi.co/",
+  "docsUrl": "https://docs.dapi.co/"
+}

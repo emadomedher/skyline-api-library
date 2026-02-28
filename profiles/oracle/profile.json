@@ -1,0 +1,14 @@
+{
+  "id": "oracle",
+  "title": "Oracle",
+  "subtitle": "Oracle API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963431/catalog/oracle/icon128x128.png",
+  "website": "https://oracle.com",
+  "docsUrl": "http://docs.oracle.com/en/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "theneo-io",
+  "title": "Theneo",
+  "subtitle": "Generate Stripe-like API docs in just a few clicks. We support OpenAPI, Postman, GraphQL and much more",
+  "tags": [
+    "developer-docs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647976959/icons/theneo-io.jpg",
+  "website": "https://www.theneo.io/",
+  "docsUrl": "https://app.theneo.io/demo/docs"
+}

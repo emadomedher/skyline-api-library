@@ -1,0 +1,14 @@
+{
+  "id": "uplifterinc",
+  "title": "Uplifter",
+  "subtitle": "Get membership software that saves clubs up to 24 hrs/week. We're a trusted provider of national and provincial membe...",
+  "tags": [
+    "fitness",
+    "member-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570558884/catalog/uplifterinc/icon128x128.jpg",
+  "website": "https://www.uplifterinc.com/"
+}

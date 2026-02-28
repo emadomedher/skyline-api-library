@@ -1,0 +1,13 @@
+{
+  "id": "plugandpay",
+  "title": "Plug&pay",
+  "subtitle": "Betaalpagina op je website? Koppel met Mollie en kies kant-en-klare betaalpagina templates. Ideaal voor eenmalige én ...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562339833/catalog/plugandpay/icon128x128.jpg",
+  "website": "https://plugandpay.nl"
+}

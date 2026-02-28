@@ -1,0 +1,13 @@
+{
+  "id": "hellobrigit",
+  "title": "Brigit",
+  "subtitle": "Get up to $250 when you're in a pinch. Budget. Save. Earn. Brigit helps you spend wisely, avoid overdrafts & build in...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612714211/icons/hellobrigit.jpg",
+  "website": "https://www.hellobrigit.com/"
+}

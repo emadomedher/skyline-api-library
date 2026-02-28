@@ -1,0 +1,13 @@
+{
+  "id": "cambeo",
+  "title": "Cambeo",
+  "subtitle": "Sign up for the Cambeo app for retail and restaurant store managers. Create and assign tasks, send a quick training, ...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433566/catalog/cambeo/icon128x128.png",
+  "website": "https://cambeoretail.com"
+}

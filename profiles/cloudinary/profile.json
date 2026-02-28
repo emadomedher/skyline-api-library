@@ -1,0 +1,16 @@
+{
+  "id": "cloudinary",
+  "title": "Cloudinary",
+  "subtitle": "Streamline media management and improve user experience by automatically delivering images and videos, enhanced and o...",
+  "tags": [
+    "video",
+    "files",
+    "developer-tools"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304657/catalog/cloudinary/icon128x128.png",
+  "website": "https://cloudinary.com",
+  "docsUrl": "https://cloudinary.com/solutions/cloudinary_for_developers"
+}

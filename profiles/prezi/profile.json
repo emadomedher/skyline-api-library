@@ -1,0 +1,13 @@
+{
+  "id": "prezi",
+  "title": "Prezi",
+  "subtitle": "Welcome to Prezi, the presentation software that uses motion, zoom, and spatial relationships to bring your ideas to ...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827250/catalog/prezi/icon128x128.png",
+  "website": "https://prezi.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zellepay",
+  "title": "Zelle",
+  "subtitle": "Zelle® is a fast, safe and easy way to send and receive money with friends, family and others you trust. Look for Zel...",
+  "tags": [
+    "digital-payment-networks",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625451927/icons/zellepay.jpg",
+  "website": "https://www.zellepay.com/"
+}

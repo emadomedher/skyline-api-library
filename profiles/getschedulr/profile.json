@@ -1,0 +1,13 @@
+{
+  "id": "getschedulr",
+  "title": "Ricky",
+  "subtitle": "Schedulr - Easily schedule meetings",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406244/icons/getschedulr.jpg",
+  "website": "https://getschedulr.com/"
+}

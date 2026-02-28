@@ -1,0 +1,14 @@
+{
+  "id": "scale",
+  "title": "Scale",
+  "subtitle": "Trusted by world class companies, Scale delivers high quality training data for AI applications such as self-driving ...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565018106/catalog/scale/icon128x128.png",
+  "website": "https://scale.com",
+  "docsUrl": "https://scale.com/docs"
+}

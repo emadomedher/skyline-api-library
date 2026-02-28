@@ -1,0 +1,14 @@
+{
+  "id": "chipperci",
+  "title": "Chipper CI",
+  "subtitle": "Painless Continuous Integration for Laravel",
+  "tags": [
+    "laravel",
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565280236/catalog/chipperci/icon128x128.jpg",
+  "website": "https://chipperci.com"
+}

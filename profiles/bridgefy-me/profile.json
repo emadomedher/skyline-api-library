@@ -1,0 +1,14 @@
+{
+  "id": "bridgefy-me",
+  "title": "Bridgefy",
+  "subtitle": "Bridgefy is a plug-and-play SDK that makes your Android and iOS apps work without the Internet by using mesh networks...",
+  "tags": [
+    "offline-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604485492/icons/bridgefy-me.png",
+  "website": "https://bridgefy.me/",
+  "docsUrl": "https://github.com/bridgefy"
+}

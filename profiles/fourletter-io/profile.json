@@ -1,0 +1,13 @@
+{
+  "id": "fourletter-io",
+  "title": "fourLetter",
+  "subtitle": "fourLetter API integration",
+  "tags": [
+    "sales-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573090468/catalog/fourletter-io/icon128x128.png",
+  "website": "https://www.fourletter.io/"
+}

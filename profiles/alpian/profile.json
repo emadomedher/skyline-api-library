@@ -1,0 +1,13 @@
+{
+  "id": "alpian",
+  "title": "Alpian",
+  "subtitle": "A new Swiss financial services firm that will combine everyday banking services, personal wealth management, and tail...",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588773476/catalog/alpian/icon128x128.jpg",
+  "website": "https://alpian.com/"
+}

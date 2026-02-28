@@ -1,0 +1,13 @@
+{
+  "id": "ansira",
+  "title": "Ansira",
+  "subtitle": "Marketing agency Ansira arms brands and their partners with solutions to design relevant, persuasive experiences for ...",
+  "tags": [
+    "through-channel-marketing-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594081829/icons/ansira.jpg",
+  "website": "https://ansira.com/"
+}

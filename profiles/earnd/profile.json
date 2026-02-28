@@ -1,0 +1,14 @@
+{
+  "id": "earnd",
+  "title": "Earnd",
+  "subtitle": "Earnd API integration",
+  "tags": [
+    "payday-lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675414/catalog/earnd/icon128x128.png",
+  "website": "https://earnd.com/"
+}

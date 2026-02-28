@@ -1,0 +1,16 @@
+{
+  "id": "unblu",
+  "title": "unblu",
+  "subtitle": "Messenger, Chat, Video or Co-Browsing for meaningful conversations with customers. Tailored for the Financial Sector. ",
+  "tags": [
+    "chat-bots",
+    "fintech",
+    "live-chat-and-chatbots"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722620/catalog/unblu/icon128x128.jpg",
+  "website": "https://unblu.com",
+  "docsUrl": "https://www.unblu.com/en/doc/latest"
+}

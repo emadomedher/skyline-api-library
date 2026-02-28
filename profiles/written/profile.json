@@ -1,0 +1,13 @@
+{
+  "id": "written",
+  "title": "Written",
+  "subtitle": "We've created the first clean, well-lighted place for content licensing between bloggers and marketers.  We're driven...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946336/catalog/written/icon128x128.jpg",
+  "website": "https://written.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "poppr-be",
+  "title": "Poppr",
+  "subtitle": "Poppr creates conversion through immersion through premium Virtual Reality, Augmented Reality, 360 & 3D experiences. ...",
+  "tags": [
+    "virtual-reality",
+    "virtual-tours"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595336787/icons/poppr-be.png",
+  "website": "https://www.poppr.be/"
+}

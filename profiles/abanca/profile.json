@@ -1,0 +1,13 @@
+{
+  "id": "abanca",
+  "title": "ABANCA",
+  "subtitle": "ABANCA Corporación Bancaria, S.A. is a Spanish bank based in Galicia. It was created in 2011 following the \"bankisati...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622932346/icons/abanca.jpg",
+  "website": "https://www.abanca.com/es/"
+}

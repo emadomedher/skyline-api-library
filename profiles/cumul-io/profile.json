@@ -1,0 +1,14 @@
+{
+  "id": "cumul-io",
+  "title": "Cumul.io",
+  "subtitle": "Create powerful dashboards in minutes. Share with your teams, or integrate in your SaaS platform. Drive growth in you...",
+  "tags": [
+    "dashboard"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559910844/catalog/cumul-io/icon128x128.jpg",
+  "website": "https://cumul.io",
+  "docsUrl": "https://developer.cumul.io"
+}

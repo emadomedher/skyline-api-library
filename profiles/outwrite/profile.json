@@ -1,0 +1,14 @@
+{
+  "id": "outwrite",
+  "title": "Outwrite",
+  "subtitle": "Become a better writer with Outwrite. Our AI writing assistant is more than a grammar checker—it helps turn your idea...",
+  "tags": [
+    "ai-copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676572010/icons/outwrite.jpg",
+  "website": "https://www.outwrite.com/",
+  "docsUrl": "https://www.outwrite.com/docs"
+}

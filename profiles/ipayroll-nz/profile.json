@@ -1,0 +1,13 @@
+{
+  "id": "ipayroll-nz",
+  "title": "iPayroll",
+  "subtitle": "iPayroll API integration",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675745/catalog/ipayroll-nz/icon128x128.jpg",
+  "website": "https://www.ipayroll.co.nz/"
+}

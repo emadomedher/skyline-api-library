@@ -1,0 +1,16 @@
+{
+  "id": "zenegy",
+  "title": "Zenegy",
+  "subtitle": "Zenegy is a complete salary system with advanced features such as time, vacation, material and mileage registration.",
+  "tags": [
+    "hr",
+    "payroll",
+    "expense-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284664/catalog/zenegy/icon128x128.png",
+  "website": "https://zenegy.com/",
+  "docsUrl": "https://developers.zenegy.com/"
+}

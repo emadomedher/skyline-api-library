@@ -1,0 +1,13 @@
+{
+  "id": "stellaservice",
+  "title": "StellaService",
+  "subtitle": "Stella Connect is a software platform that increases agent happiness and supercharges contact center coaching and QA....",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946527/catalog/stellaservice/icon128x128.png",
+  "website": "https://stellaservice.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "combidesk",
+  "title": "Combidesk",
+  "subtitle": "Combidesk API integration",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555071058/catalog/combidesk/icon128x128.png",
+  "website": "https://combidesk.com/"
+}

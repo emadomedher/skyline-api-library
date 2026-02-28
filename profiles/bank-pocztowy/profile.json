@@ -1,0 +1,13 @@
+{
+  "id": "bank-pocztowy",
+  "title": "Bank Pocztowy",
+  "subtitle": "Bank Pocztowy SA is a commercial bank in Poland, offering financial services for individual customers with a compleme...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600227776/icons/bank-pocztowy.jpg",
+  "website": "https://www.pocztowy.pl/"
+}

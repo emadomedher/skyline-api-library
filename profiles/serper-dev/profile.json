@@ -1,0 +1,14 @@
+{
+  "id": "serper-dev",
+  "title": "Serper",
+  "subtitle": "Google Search API for only $0.30/1k queries at high volumes. Submit a query and receive SERP results in 1-2s.",
+  "tags": [
+    "seo",
+    "scraping"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679535605/icons/serper-dev.png",
+  "website": "https://serper.dev/"
+}

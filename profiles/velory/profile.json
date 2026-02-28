@@ -1,0 +1,13 @@
+{
+  "id": "velory",
+  "title": "Velory",
+  "subtitle": "Velory API integration",
+  "tags": [
+    "employee-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678969216/icons/velory.jpg",
+  "website": "https://www.velory.com/"
+}

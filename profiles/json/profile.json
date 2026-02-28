@@ -1,0 +1,14 @@
+{
+  "id": "json",
+  "title": "JSON",
+  "subtitle": "JSON (JavaScript Object Notation) is a lightweight data-interchange format. It is easy for humans to read and write. ...",
+  "tags": [
+    "files",
+    "javascript"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590427485/catalog/json/icon128x128.png",
+  "website": "https://www.json.org/json-en.html"
+}

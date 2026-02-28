@@ -1,0 +1,14 @@
+{
+  "id": "aircall",
+  "title": "Aircall",
+  "subtitle": "Cloud based phone system and call center software all-in-one with Cloud Telephony Integrations (CTI) with your favori...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624491280/icons/aircall.jpg",
+  "website": "https://aircall.io/",
+  "docsUrl": "https://developer.aircall.io/"
+}

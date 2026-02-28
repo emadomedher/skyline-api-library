@@ -1,0 +1,15 @@
+{
+  "id": "equensworldline",
+  "title": "equensWorldline",
+  "subtitle": "equensWorldline is the pan-European leader in payments and transactional services. Your trusted partner for seamless,...",
+  "tags": [
+    "payments",
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606933154/icons/equensworldline.png",
+  "website": "https://equensworldline.com/",
+  "docsUrl": "https://equensworldline.com/en/home/developer.html"
+}

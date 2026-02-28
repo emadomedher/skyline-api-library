@@ -1,0 +1,13 @@
+{
+  "id": "promptstacks",
+  "title": "Promptstacks",
+  "subtitle": "We offer a suite of free ChatGPT prompts curated for large language models and delivered through prompt engineering s...",
+  "tags": [
+    "prompt-engineering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674309753/icons/promptstacks.jpg",
+  "website": "https://www.promptstacks.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zenlytic",
+  "title": "Zenlytic",
+  "subtitle": "Zenlytic helps you make sense of your data faster",
+  "tags": [
+    "bi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637939/icons/zenlytic.jpg",
+  "website": "https://www.zenlytic.com/",
+  "docsUrl": "https://docs.zenlytic.com"
+}

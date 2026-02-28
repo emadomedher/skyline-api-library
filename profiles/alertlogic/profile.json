@@ -1,0 +1,15 @@
+{
+  "id": "alertlogic",
+  "title": "Alert Logic",
+  "subtitle": "Alert Logic seamlessly connects an award-winning security platform, cutting-edge threat intelligence, and expert defe...",
+  "tags": [
+    "security",
+    "threat-intelligence"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612023/catalog/alertlogic/icon128x128.jpg",
+  "website": "https://www.alertlogic.com/",
+  "docsUrl": "https://www.alertlogic.com/docs/Alert_Logic_Policy_Responsible_Disclosure_Policy.pdf"
+}

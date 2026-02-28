@@ -1,0 +1,14 @@
+{
+  "id": "watchdata-io",
+  "title": "WatchData",
+  "subtitle": "WatchData provides infrastructure for stable access to data from blockchain nodes",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643226767/icons/watchdata-io.png",
+  "website": "https://www.watchdata.io/",
+  "docsUrl": "https://docs.watchdata.io"
+}

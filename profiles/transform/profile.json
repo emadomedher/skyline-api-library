@@ -1,0 +1,12 @@
+{
+  "id": "transform",
+  "title": "TransForm",
+  "subtitle": "Transform lets you easily build mobile forms. Features include the ability to capture photos and audio recordings wit...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284637/catalog/transform/icon128x128.png"
+}

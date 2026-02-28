@@ -1,0 +1,14 @@
+{
+  "id": "scener",
+  "title": "Scener",
+  "subtitle": "Sync up and enjoy watching streaming shows and movies, together!",
+  "tags": [
+    "streaming",
+    "virtual-movie-watching"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589737989/catalog/scener/icon128x128.jpg",
+  "website": "https://scener.com/"
+}

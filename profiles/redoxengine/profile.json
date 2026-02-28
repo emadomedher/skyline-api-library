@@ -1,0 +1,15 @@
+{
+  "id": "redoxengine",
+  "title": "Redox",
+  "subtitle": "Grow your health product using the Redox for EHR integrations. Redox's network connects you to hundreds of providers ...",
+  "tags": [
+    "healthcare",
+    "unified-apis"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635691250/icons/redoxengine.png",
+  "website": "https://www.redoxengine.com/",
+  "docsUrl": "https://www.redoxengine.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "the-shelf",
+  "title": "The Shelf",
+  "subtitle": "The Shelf is a data-driven influencer marketing platform that connects \nbrands with the bloggers and social media inf...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946477/catalog/the-shelf/icon128x128.jpg",
+  "website": "https://theshelf.com"
+}

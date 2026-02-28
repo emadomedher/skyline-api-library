@@ -1,0 +1,15 @@
+{
+  "id": "networkradius",
+  "title": "Network RADIUS",
+  "subtitle": "Network RADIUS - network access architects. We're experts at building RADIUS server software solutions with the highe...",
+  "tags": [
+    "server",
+    "authentication"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591444968/icons/networkradius.jpg",
+  "website": "https://networkradius.com/",
+  "docsUrl": "https://networkradius.com/freeradius-documentation"
+}

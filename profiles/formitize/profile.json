@@ -1,0 +1,13 @@
+{
+  "id": "formitize",
+  "title": "Formitize",
+  "subtitle": "Formitize is an all around customizable solution for moving from paper based forms to electronic based solutions. The...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304957/catalog/formitize/icon128x128.jpg",
+  "website": "https://formitize.com/"
+}

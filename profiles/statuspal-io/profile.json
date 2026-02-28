@@ -1,0 +1,14 @@
+{
+  "id": "statuspal-io",
+  "title": "Statuspal",
+  "subtitle": "Monitor and communicate the status of your site, app or API with your very own status page. Create it in less than a ...",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565024865/catalog/statuspal-io/icon128x128.png",
+  "website": "https://statuspal.io",
+  "docsUrl": "https://statuspal.io/api-docs"
+}

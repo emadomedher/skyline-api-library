@@ -1,0 +1,15 @@
+{
+  "id": "kern-ai",
+  "title": "Kern AI",
+  "subtitle": "Powering data-centric natural language processing",
+  "tags": [
+    "machine-learning",
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680600603/icons/kern-ai.jpg",
+  "website": "https://www.kern.ai/",
+  "docsUrl": "https://docs.kern.ai/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "leadpath",
+  "title": "LeadPath",
+  "subtitle": "LeadPath API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720792/catalog/leadpath/icon128x128.png",
+  "website": "https://leadpath.com"
+}

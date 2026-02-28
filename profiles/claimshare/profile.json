@@ -1,0 +1,13 @@
+{
+  "id": "claimshare",
+  "title": "ClaimShare",
+  "subtitle": "Bedrijven en overheden maken fouten. Benadeelden staan er vaak alleen voor. Via ClaimShare vorm je een groep met mede...",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615053319/icons/claimshare.jpg",
+  "website": "https://www.claimshare.com/"
+}

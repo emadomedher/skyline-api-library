@@ -1,0 +1,13 @@
+{
+  "id": "rebellionpay",
+  "title": "Rebellion",
+  "subtitle": "Like no bank  #BeRebel",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261106/icons/rebellionpay.jpg",
+  "website": "https://rebellionpay.com/"
+}

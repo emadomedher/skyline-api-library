@@ -1,0 +1,14 @@
+{
+  "id": "picovoice-ai",
+  "title": "Picovoice",
+  "subtitle": "Speech-to-Text Voice Search Wake Word Speech-to-Intent Voice Activity Detection to build on-device audio transcriptio...",
+  "tags": [
+    "speech-to-text"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672254733/icons/picovoice-ai.png",
+  "website": "https://picovoice.ai/",
+  "docsUrl": "https://picovoice.ai/docs"
+}

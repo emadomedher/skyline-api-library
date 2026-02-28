@@ -1,0 +1,13 @@
+{
+  "id": "apideck-unify",
+  "title": "Apideck Unify",
+  "subtitle": "Unified APIs to build SaaS integrations. Launch the integrations your customers need in record time.",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760640/icons/apideck-unify.jpg",
+  "website": "https://apideck.com"
+}

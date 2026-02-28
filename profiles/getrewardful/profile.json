@@ -1,0 +1,13 @@
+{
+  "id": "getrewardful",
+  "title": "Rewardful",
+  "subtitle": "Turn your biggest fans into your best marketers. Rewardful is a simple way for SaaS & subscription companies to setup...",
+  "tags": [
+    "advocacy-loyalty-and-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611247048/icons/getrewardful.png",
+  "website": "https://www.getrewardful.com/"
+}

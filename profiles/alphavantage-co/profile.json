@@ -1,0 +1,17 @@
+{
+  "id": "alphavantage-co",
+  "title": "Alpha Vantage",
+  "subtitle": "Alpha Vantage offers free APIs in JSON and CSV formats for realtime and historical stock and forex data, digital/cryp...",
+  "tags": [
+    "stocks",
+    "data-api",
+    "fintech",
+    "stock-data"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566555749/catalog/alphavantage-co/icon128x128.jpg",
+  "website": "https://www.alphavantage.co/",
+  "docsUrl": "https://www.alphavantage.co/documentation"
+}

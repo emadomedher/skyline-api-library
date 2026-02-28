@@ -1,0 +1,12 @@
+{
+  "id": "lms365",
+  "title": "LMS365",
+  "subtitle": "LMS365 provides a modern, cloud based and secure learning management system, fit for the Modern Digital Workplace. It...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264802/catalog/lms365/icon128x128.png"
+}

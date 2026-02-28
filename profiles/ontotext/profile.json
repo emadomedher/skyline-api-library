@@ -1,0 +1,14 @@
+{
+  "id": "ontotext",
+  "title": "Ontotext",
+  "subtitle": "Building big knowledge graphs to link diverse data, enrich it via text analysis pipelines and index it in RDF Triiple...",
+  "tags": [
+    "graph-databases",
+    "knowledge-graphs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587947183/catalog/ontotext/icon128x128.png",
+  "website": "https://www.ontotext.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "payshield-au",
+  "title": "Payshield",
+  "subtitle": "Payshield is the PCI DSS solutions company",
+  "tags": [
+    "pci-dss-compliance",
+    "compliance",
+    "payments"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599928323/icons/payshield-au.png",
+  "website": "https://payshield.com.au/"
+}

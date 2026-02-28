@@ -1,0 +1,14 @@
+{
+  "id": "bizzabo",
+  "title": "Bizzabo",
+  "subtitle": "Bizzabo is the world’s most loved event software. Our platform empowers every organizer, marketer, exhibitor, and att...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640050236/icons/bizzabo.jpg",
+  "website": "https://www.bizzabo.com/",
+  "docsUrl": "https://bizzabo.api-docs.io/"
+}

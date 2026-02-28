@@ -1,0 +1,13 @@
+{
+  "id": "webbank",
+  "title": "WebBank",
+  "subtitle": "WebBank is an FDIC insured, state-chartered industrial bank headquartered in Salt Lake City, Utah. It was organized u...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577066795/catalog/webbank/icon128x128.jpg",
+  "website": "https://www.webbank.com/"
+}

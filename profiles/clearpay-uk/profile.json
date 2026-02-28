@@ -1,0 +1,13 @@
+{
+  "id": "clearpay-uk",
+  "title": "Afterpay",
+  "subtitle": "Afterpay is fully integrated with all your favorite stores. Shop as usual, then choose Afterpay as your payment metho...",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643028345/icons/clearpay-uk.jpg",
+  "website": "https://www.clearpay.co.uk/"
+}

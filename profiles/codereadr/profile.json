@@ -1,0 +1,12 @@
+{
+  "id": "codereadr",
+  "title": "CodeREADr",
+  "subtitle": "Codereadr is a barcode scanner app for iOS and Android OS devices to control event access, track attendance and track...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304674/catalog/codereadr/icon128x128.png"
+}

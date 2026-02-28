@@ -1,0 +1,14 @@
+{
+  "id": "videoly-co",
+  "title": "Videoly",
+  "subtitle": "Videoly API integration",
+  "tags": [
+    "videos",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571041818/catalog/videoly-co/icon128x128.jpg",
+  "website": "https://videoly.co/"
+}

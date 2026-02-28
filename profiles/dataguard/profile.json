@@ -1,0 +1,14 @@
+{
+  "id": "dataguard",
+  "title": "DataGuard",
+  "subtitle": "Based in Munich, DataGuard acts as a data protection officer (DPO), we are your first point of contact for all data p...",
+  "tags": [
+    "data-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645154129/icons/dataguard.jpg",
+  "website": "https://www.dataguard.com/",
+  "docsUrl": "https://www.dataguard.com/consent-and-preference-management"
+}

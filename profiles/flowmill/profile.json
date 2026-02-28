@@ -1,0 +1,15 @@
+{
+  "id": "flowmill",
+  "title": "Flowmill",
+  "subtitle": "Cloud network visibility in real time with negligible overhead, no sampling, and no code changes.",
+  "tags": [
+    "observability",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606326378/icons/flowmill.jpg",
+  "website": "https://www.flowmill.com/",
+  "docsUrl": "https://docs.flowmill.com"
+}

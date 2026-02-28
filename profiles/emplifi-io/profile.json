@@ -1,0 +1,13 @@
+{
+  "id": "emplifi-io",
+  "title": "Emplifi",
+  "subtitle": "Optimize the digital customer journey. Emplifi's unified platform of customer experience software & social media mana...",
+  "tags": [
+    "customer-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231803/icons/emplifi-io.png",
+  "website": "https://emplifi.io/"
+}

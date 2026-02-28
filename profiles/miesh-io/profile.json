@@ -1,0 +1,13 @@
+{
+  "id": "miesh-io",
+  "title": "Miesh",
+  "subtitle": "Looking for ways to automate your business processes and integrate your favourite tools? Other solutions too “complex...",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675229341/icons/miesh-io.jpg",
+  "website": "https://miesh.io/"
+}

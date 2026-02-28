@@ -1,0 +1,15 @@
+{
+  "id": "readyplayer-me",
+  "title": "Ready Player Me",
+  "subtitle": "Create a full-body 3D avatar with a selfie and use it in the metaverse. Developer? Integrate our avatar platform into...",
+  "tags": [
+    "virtual-avatars",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639854681/icons/readyplayer-me.jpg",
+  "website": "https://readyplayer.me/",
+  "docsUrl": "https://readyplayer.me/developers"
+}

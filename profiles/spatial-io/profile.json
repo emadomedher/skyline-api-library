@@ -1,0 +1,16 @@
+{
+  "id": "spatial-io",
+  "title": "Spatial",
+  "subtitle": "Spatial turns the space around you into a 3d shared workplace. Remote users can collaborate, search, brainstorm and s...",
+  "tags": [
+    "virtual-office",
+    "workplace-augmentation",
+    "ar",
+    "vr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311380/catalog/spatial-io/icon128x128.jpg",
+  "website": "https://spatial.io/"
+}

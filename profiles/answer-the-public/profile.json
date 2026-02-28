@@ -1,0 +1,13 @@
+{
+  "id": "answer-the-public",
+  "title": "Answer the Public",
+  "subtitle": "Answer the Public API integration",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964318/catalog/answer-the-public/icon128x128.png",
+  "website": "https://answerthepublic.com"
+}

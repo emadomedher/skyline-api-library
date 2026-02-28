@@ -1,0 +1,15 @@
+{
+  "id": "digiteal-eu",
+  "title": "Digiteal",
+  "subtitle": "Digiteal - your invoicing and payment solution whether you are a businesse or an individual. Simple, fast and secure ...",
+  "tags": [
+    "invoicing",
+    "b2b-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604860512/icons/digiteal-eu.jpg",
+  "website": "https://www.digiteal.eu/",
+  "docsUrl": "https://docs.digiteal.eu/technical/index.html#registration-process"
+}

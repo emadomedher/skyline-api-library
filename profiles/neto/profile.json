@@ -1,0 +1,13 @@
+{
+  "id": "neto",
+  "title": "Neto",
+  "subtitle": "Build an online store, process sales at your bricks-and-mortar store, and showcase your products through eBay and soc...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305500/catalog/neto/icon128x128.png",
+  "website": "https://neto.com.au"
+}

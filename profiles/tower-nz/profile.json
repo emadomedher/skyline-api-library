@@ -1,0 +1,14 @@
+{
+  "id": "tower-nz",
+  "title": "Tower Insurance",
+  "subtitle": "Get a quote and buy insurance online with Tower. Plus, save up to 20% with our multi-policy discount. Compare our pol...",
+  "tags": [
+    "insurance",
+    "non-software"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604703250/icons/tower-nz.jpg",
+  "website": "https://www.tower.co.nz/"
+}

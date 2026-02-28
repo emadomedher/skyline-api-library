@@ -1,0 +1,15 @@
+{
+  "id": "getmesh-io",
+  "title": "Gentics Mesh",
+  "subtitle": "Gentics Mesh API integration",
+  "tags": [
+    "headless-cms",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522285/icons/getmesh-io.jpg",
+  "website": "https://getmesh.io/",
+  "docsUrl": "https://getmesh.io/docs"
+}

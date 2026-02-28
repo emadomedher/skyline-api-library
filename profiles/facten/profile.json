@@ -1,0 +1,12 @@
+{
+  "id": "facten",
+  "title": "Facten",
+  "subtitle": "Facten API integration",
+  "tags": [
+    "prospecting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178352/catalog/facten/icon128x128.png"
+}

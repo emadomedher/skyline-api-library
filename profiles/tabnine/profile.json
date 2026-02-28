@@ -1,0 +1,15 @@
+{
+  "id": "tabnine",
+  "title": "Tabnine",
+  "subtitle": "Tabnine’s AI code completion IDE plugin completes code based on millions of programs in all languages and on your own...",
+  "tags": [
+    "developer-tools",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610070916/icons/tabnine.jpg",
+  "website": "https://www.tabnine.com/",
+  "docsUrl": "https://techcrunch.com/2020/04/27/codota-picks-up-12m-for-an-ai-platform-that-auto-completes-developers-code"
+}

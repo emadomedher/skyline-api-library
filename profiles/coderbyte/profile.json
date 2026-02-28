@@ -1,0 +1,14 @@
+{
+  "id": "coderbyte",
+  "title": "Coderbyte",
+  "subtitle": "Improve your coding skills with our library of 300+ challenges and prepare for coding interviews with content from le...",
+  "tags": [
+    "technical-skill-assessment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629577670/icons/coderbyte.jpg",
+  "website": "https://coderbyte.com/",
+  "docsUrl": "https://www.youtube.com/c/coderbytedevelopers/featured"
+}

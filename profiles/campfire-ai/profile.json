@@ -1,0 +1,16 @@
+{
+  "id": "campfire-ai",
+  "title": "Campfire",
+  "subtitle": "Campfire is the modern accounting platform that provides core accounting and revenue automation to startups and mid-s...",
+  "tags": [
+    "accounting",
+    "erp",
+    "finance"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/icons/campfire-ai",
+  "website": "https://www.campfire.ai/",
+  "docsUrl": "https://docs.campfire.ai"
+}

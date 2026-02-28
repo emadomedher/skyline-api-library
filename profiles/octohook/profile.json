@@ -1,0 +1,15 @@
+{
+  "id": "octohook",
+  "title": "Octohook ",
+  "subtitle": "Octohook  API integration",
+  "tags": [
+    "workflow-builders",
+    "developer-tools",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614391409/icons/octohook.png",
+  "website": "https://octohook.com/"
+}

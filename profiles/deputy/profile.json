@@ -1,0 +1,14 @@
+{
+  "id": "deputy",
+  "title": "Deputy",
+  "subtitle": "Manage your workday from any device with Deputy’s flexible scheduling software & time clock app designed for any type...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560957399/catalog/deputy/icon128x128.jpg",
+  "website": "https://www.deputy.com/",
+  "docsUrl": "https://developer.deputy.com/deputy-docs/docs"
+}

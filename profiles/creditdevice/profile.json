@@ -1,0 +1,14 @@
+{
+  "id": "creditdevice",
+  "title": "CreditDevice",
+  "subtitle": "A comprehensive solution for credit management. Everything you need in one single package. Credit information | Debto...",
+  "tags": [
+    "credit-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648597387/icons/creditdevice.png",
+  "website": "https://creditdevice.com/en",
+  "docsUrl": "https://creditdevice.com/en/credit-information/integrations"
+}

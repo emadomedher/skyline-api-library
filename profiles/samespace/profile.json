@@ -1,0 +1,14 @@
+{
+  "id": "samespace",
+  "title": "Samespace",
+  "subtitle": "Cloud Contact Center Software. Centered on Experience.",
+  "tags": [
+    "contact-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652666887/icons/samespace.jpg",
+  "website": "https://www.samespace.com/",
+  "docsUrl": "https://www.samespace.com/platform/developers"
+}

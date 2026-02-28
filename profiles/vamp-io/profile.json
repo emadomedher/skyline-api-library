@@ -1,0 +1,14 @@
+{
+  "id": "vamp-io",
+  "title": "Vamp.io",
+  "subtitle": "Vamp is a Cloud-Native AIOps platform that provides self-service release and cost optimization capabilites. Vamp auto...",
+  "tags": [
+    "release-orchestration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620758618/icons/vamp-io.jpg",
+  "website": "https://vamp.io/",
+  "docsUrl": "https://docs.vamp.cloud"
+}

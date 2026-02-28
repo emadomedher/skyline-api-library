@@ -1,0 +1,14 @@
+{
+  "id": "archbee-io",
+  "title": "Archbee",
+  "subtitle": "Archbee is a lightweight, flexible docs tool. Build product documentation, internal wikis, knowledge bases, API refer...",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627503921/icons/archbee-io.jpg",
+  "website": "https://www.archbee.io/",
+  "docsUrl": "https://www.archbee.io/software-documentation-tool"
+}

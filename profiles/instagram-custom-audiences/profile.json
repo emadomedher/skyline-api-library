@@ -1,0 +1,13 @@
+{
+  "id": "instagram-custom-audiences",
+  "title": "Instagram Custom Audiences",
+  "subtitle": "Instagram Custom Audiences make signing up for business information easy for people and more valuable for businesses....",
+  "tags": [
+    "facebook",
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284538/catalog/instagram-custom-audiences/icon128x128.jpg"
+}

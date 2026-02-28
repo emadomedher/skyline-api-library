@@ -1,0 +1,17 @@
+{
+  "id": "strongsalt",
+  "title": "StrongSalt",
+  "subtitle": "StrongSalt API integration",
+  "tags": [
+    "privacy",
+    "encryption",
+    "api",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576160113/catalog/strongsalt/icon128x128.jpg",
+  "website": "https://www.strongsalt.com/",
+  "docsUrl": "https://api.strongsalt.com/swagger"
+}

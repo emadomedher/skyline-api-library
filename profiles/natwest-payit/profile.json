@@ -1,0 +1,13 @@
+{
+  "id": "natwest-payit",
+  "title": "Payit™ by NatWest",
+  "subtitle": "Payit is our simple and secure Open Banking solution to help merchants collect ecommerce payments.\nPayit will facilit...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593442134/icons/natwest-payit.jpg",
+  "website": "https://www.business.natwest.com/business/business-services/payit.html"
+}

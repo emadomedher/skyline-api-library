@@ -1,0 +1,13 @@
+{
+  "id": "perxeive",
+  "title": "Perxeive",
+  "subtitle": "Let AI produce documents for you on any subject you choose with just a few taps of your device.",
+  "tags": [
+    "document-writing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639528619/icons/perxeive.png",
+  "website": "https://www.perxeive.com/"
+}

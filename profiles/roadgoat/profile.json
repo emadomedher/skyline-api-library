@@ -1,0 +1,14 @@
+{
+  "id": "roadgoat",
+  "title": "RoadGoat",
+  "subtitle": "RoadGoat is a lively travel planner. Our users rate, rank, and tag millions of travel destinations so that you can fi...",
+  "tags": [
+    "travel-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618435369/icons/roadgoat.jpg",
+  "website": "https://www.roadgoat.com/",
+  "docsUrl": "https://www.roadgoat.com/business/cities-api"
+}

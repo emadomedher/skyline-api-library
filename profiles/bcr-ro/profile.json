@@ -1,0 +1,13 @@
+{
+  "id": "bcr-ro",
+  "title": "BCR (Banca Comercială Română)",
+  "subtitle": "Banca Comercială Română, a member of Erste Group, is the most important financial group in Romania, including operati...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261156/icons/bcr-ro.png",
+  "website": "https://www.bcr.ro/en"
+}

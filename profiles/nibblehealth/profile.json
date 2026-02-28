@@ -1,0 +1,14 @@
+{
+  "id": "nibblehealth",
+  "title": "Nibble Health",
+  "subtitle": "Nibble Health eliminates financial barriers to great healthcare, keeps your employees healthy, and saves your company...",
+  "tags": [
+    "employee-benefits",
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655856344/icons/nibblehealth.png",
+  "website": "https://www.nibblehealth.com/"
+}

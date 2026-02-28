@@ -1,0 +1,13 @@
+{
+  "id": "napoleoncat",
+  "title": "NapoleonCat",
+  "subtitle": "Analytics, engagement & publishing platform for social media marketing.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946796/catalog/napoleoncat/icon128x128.jpg",
+  "website": "https://napoleoncat.com"
+}

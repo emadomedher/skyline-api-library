@@ -1,0 +1,14 @@
+{
+  "id": "frase-io",
+  "title": "Frase",
+  "subtitle": "Frase helps your brand create and deliver answers to questions that your target buyer is asking in search, and on you...",
+  "tags": [
+    "content-marketing",
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613353348/icons/frase-io.png",
+  "website": "https://www.frase.io/"
+}

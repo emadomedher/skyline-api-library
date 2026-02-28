@@ -1,0 +1,14 @@
+{
+  "id": "infravision",
+  "title": "InfraVision",
+  "subtitle": "InfraVision API integration",
+  "tags": [
+    "consulting",
+    "it-service-management-consulting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581003560/catalog/infravision/icon128x128.jpg",
+  "website": "https://infravision.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sistrix",
+  "title": "Sistrix",
+  "subtitle": "Sistrix API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437372/catalog/sistrix/icon128x128.png",
+  "website": "https://sistrix.com"
+}

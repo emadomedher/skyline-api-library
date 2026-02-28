@@ -1,0 +1,13 @@
+{
+  "id": "myob-advanced-payroll",
+  "title": "MYOB Advanced Payroll",
+  "subtitle": "Manage your payroll, leave, super and Single Touch Payroll easily with MYOB cloud payroll software. Try for FREE for ...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1693292097/icons/myob-advanced-payroll.jpg",
+  "website": "https://www.myob.com/au/features/payroll-software"
+}

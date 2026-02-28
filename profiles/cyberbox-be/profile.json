@@ -1,0 +1,13 @@
+{
+  "id": "cyberbox-be",
+  "title": "Cyberbox",
+  "subtitle": "Cyberbox API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562928067/catalog/cyberbox-be/icon128x128.jpg",
+  "website": "https://cyberbox.be"
+}

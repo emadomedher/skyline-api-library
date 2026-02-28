@@ -1,0 +1,13 @@
+{
+  "id": "onelinq",
+  "title": "OneLinQ",
+  "subtitle": "OneLinQ SalaryPay heeft een koppeling gemaakt die er voor zorgt dat goedgekeurde salarisbetalingen en loonafdrachten ...",
+  "tags": [
+    "cash-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256960/catalog/onelinq/icon128x128.png",
+  "website": "https://www.onelinq.com/"
+}

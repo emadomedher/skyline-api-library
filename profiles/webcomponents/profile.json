@@ -1,0 +1,15 @@
+{
+  "id": "webcomponents",
+  "title": "webcomponents",
+  "subtitle": "webcomponents API integration",
+  "tags": [
+    "ui",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611599502/icons/webcomponents.png",
+  "website": "https://www.webcomponents.org/",
+  "docsUrl": "https://developer.microsoft.com/en-us/microsoft-edge/platform/status/templateelement"
+}

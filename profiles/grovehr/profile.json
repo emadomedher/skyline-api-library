@@ -1,0 +1,14 @@
+{
+  "id": "grovehr",
+  "title": "GroveHR",
+  "subtitle": "Discover the new way of HR - agile, mobile and social to power up everything recruitment, onboarding, performance, en...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642409793/icons/grovehr.jpg",
+  "website": "https://www.grovehr.com/",
+  "docsUrl": "https://www.grovehr.com/products/performance-enablement#"
+}

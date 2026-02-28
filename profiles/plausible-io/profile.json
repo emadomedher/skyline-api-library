@@ -1,0 +1,14 @@
+{
+  "id": "plausible-io",
+  "title": "Uku Täht",
+  "subtitle": "Plausible is a lightweight and open-source web analytics tool. Your website data is 100% yours and the privacy of you...",
+  "tags": [
+    "analytics",
+    "privacy"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597507922/icons/plausible-io.png",
+  "website": "https://plausible.io/"
+}

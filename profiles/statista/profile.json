@@ -1,0 +1,14 @@
+{
+  "id": "statista",
+  "title": "Statista",
+  "subtitle": "Find statistics, consumer survey results and industry studies\n                    from over 22,500 sources on over 60...",
+  "tags": [
+    "market-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618333969/icons/statista.png",
+  "website": "https://www.statista.com/",
+  "docsUrl": "https://www.statista.com/api/v2/doc"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "finxact",
+  "title": "Finxact",
+  "subtitle": "Cloud banking platform built for integration. The Open API, component architecture, & customer extensible design prov...",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644305205/icons/finxact.jpg",
+  "website": "https://finxact.com/"
+}

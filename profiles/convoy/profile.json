@@ -1,0 +1,13 @@
+{
+  "id": "convoy",
+  "title": "Convoy",
+  "subtitle": "Convoy is the most efficient digital freight network. We connect shippers to carriers to move millions of truckloads,...",
+  "tags": [
+    "freight-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231806/icons/convoy.jpg",
+  "website": "https://convoy.com/"
+}

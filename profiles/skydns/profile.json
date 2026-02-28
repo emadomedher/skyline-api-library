@@ -1,0 +1,13 @@
+{
+  "id": "skydns",
+  "title": "SkyDNS",
+  "subtitle": "SkyDNS API integration",
+  "tags": [
+    "service-discovery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614333/catalog/skydns/icon128x128.png",
+  "website": "https://github.com/skynetservices/skydns"
+}

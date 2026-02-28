@@ -1,0 +1,13 @@
+{
+  "id": "revamp-crm",
+  "title": "Revamp CRM",
+  "subtitle": "Revamp CRM is a Sales & Marketing CRM. Make more sales whether you are using multiple sales pipelines or an eCommerce...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284593/catalog/revamp-crm/icon128x128.png",
+  "website": "https://revampcrm.com"
+}

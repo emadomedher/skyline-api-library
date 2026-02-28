@@ -1,0 +1,13 @@
+{
+  "id": "sniply",
+  "title": "Sniply",
+  "subtitle": "Sniply is the only link shortener that drives conversion. Convert your followers into users and customers. Embed Call...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306147/catalog/sniply/icon128x128.png",
+  "website": "https://snip.ly/"
+}

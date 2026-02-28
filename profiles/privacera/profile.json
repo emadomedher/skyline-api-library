@@ -1,0 +1,16 @@
+{
+  "id": "privacera",
+  "title": "Privacera",
+  "subtitle": "Privacera enables consistent data governance, security, and compliance across all your data services - on-premises an...",
+  "tags": [
+    "data-governance",
+    "security",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615498546/icons/privacera.jpg",
+  "website": "https://privacera.com/",
+  "docsUrl": "https://docs2.privacera.com"
+}

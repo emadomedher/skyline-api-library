@@ -1,0 +1,13 @@
+{
+  "id": "proinsight-co",
+  "title": "ProInsight",
+  "subtitle": "ProInsight is a plug-and-play planning and budgeting solution that guides leaders to make better business decisions w...",
+  "tags": [
+    "financial-budgetting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633578150/icons/proinsight-co.jpg",
+  "website": "https://www.proinsight.co/"
+}

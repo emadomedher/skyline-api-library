@@ -1,0 +1,14 @@
+{
+  "id": "agari",
+  "title": "Agari",
+  "subtitle": "Defend against advanced email attacks with Agari. Our enterprise email security leverages unique AI technology to pro...",
+  "tags": [
+    "email-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624732853/icons/agari.jpg",
+  "website": "https://www.agari.com/",
+  "docsUrl": "https://agari.com/privacy-policy/#communications"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mapp-cloud",
+  "title": "Mapp cloud",
+  "subtitle": "Mapp Cloud is a badass digital marketing platform for companies that don’t want to follow the flock.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720984/catalog/mapp-cloud/icon128x128.jpg",
+  "website": "https://mapp.com"
+}

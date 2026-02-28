@@ -1,0 +1,13 @@
+{
+  "id": "apsis",
+  "title": "Apsis",
+  "subtitle": "Discover our Customer Data Platform and explore our tools for segmentation, customer profiles, marketing automation, ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718989/catalog/apsis/icon128x128.jpg",
+  "website": "https://apsis.com"
+}

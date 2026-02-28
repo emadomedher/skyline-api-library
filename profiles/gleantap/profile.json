@@ -1,0 +1,13 @@
+{
+  "id": "gleantap",
+  "title": "Gleantap",
+  "subtitle": "We are a customer engagement platform that helps businesses drive growth. Boost loyalty by engaging customers through...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720245/catalog/gleantap/icon128x128.jpg",
+  "website": "https://gleantap.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "opslevel",
+  "title": "OpsLevel",
+  "subtitle": "OpsLevel’s Microservice Catalog helps your teams track service ownership and ship more secure & resilient systems, al...",
+  "tags": [
+    "devops",
+    "microservice-catalog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623343872/icons/opslevel.png",
+  "website": "https://www.opslevel.com/",
+  "docsUrl": "https://www.opslevel.com/docs"
+}

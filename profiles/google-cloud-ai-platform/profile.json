@@ -1,0 +1,15 @@
+{
+  "id": "google-cloud-ai-platform",
+  "title": "Google Cloud AI Platform",
+  "subtitle": "End-to-end platform for data science and machine learning where you can build and deploy models quickly and manage yo...",
+  "tags": [
+    "ai",
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605096387/icons/google-cloud-ai-platform.jpg",
+  "website": "https://cloud.google.com/ai-platform",
+  "docsUrl": "https://cloud.google.com/solutions/new-channels-using-apis"
+}

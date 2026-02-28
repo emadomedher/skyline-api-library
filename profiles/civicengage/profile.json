@@ -1,0 +1,12 @@
+{
+  "id": "civicengage",
+  "title": "CivicEngage",
+  "subtitle": "CivicEngage is a local-government website design and hosting platform. This platform is used by 2,500+ clients and 55...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304609/catalog/civicengage/icon128x128.png"
+}

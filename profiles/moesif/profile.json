@@ -1,0 +1,14 @@
+{
+  "id": "moesif",
+  "title": "Moesif",
+  "subtitle": "Over 2,000 organizations use Moesif API Analytics for REST & GraphQL APIs to make smarter decisions and build for gro...",
+  "tags": [
+    "api-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564075248/catalog/moesif/icon128x128.jpg",
+  "website": "https://moesif.com",
+  "docsUrl": "https://www.moesif.com/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "payescape",
+  "title": "Payescape",
+  "subtitle": "Payescape is a leader in UK cloud-based payroll services, providing cost-effective payroll software for small and med...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093473/icons/payescape.jpg",
+  "website": "https://www.payescape.com/"
+}

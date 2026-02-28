@@ -1,0 +1,13 @@
+{
+  "id": "act-on",
+  "title": "Act-On",
+  "subtitle": "Act-On has been awarded TRUSTe's Privacy Seal. This is our Master Services Agreement.",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304339/catalog/act-on/icon128x128.png",
+  "website": "https://www.act-on.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pesto-app",
+  "title": "Pesto",
+  "subtitle": "Pesto is the digitally native, authentically human workplace.",
+  "tags": [
+    "remote-workplace"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904823/icons/pesto-app.jpg",
+  "website": "https://pesto.app/"
+}

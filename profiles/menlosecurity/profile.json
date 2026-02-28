@@ -1,0 +1,15 @@
+{
+  "id": "menlosecurity",
+  "title": "Menlo Security",
+  "subtitle": "Global cloud secure web gateway platform, built on an Isolation Core™, delivering 100% malware elimination for web se...",
+  "tags": [
+    "security",
+    "malware",
+    "phishing-prevention"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605266460/icons/menlosecurity.jpg",
+  "website": "https://www.menlosecurity.com/"
+}

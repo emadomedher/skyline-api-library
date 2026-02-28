@@ -1,0 +1,14 @@
+{
+  "id": "deliveroo",
+  "title": "Deliveroo",
+  "subtitle": "Order high-quality takeaway online from top restaurants, fast delivery straight to your home or office",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576167514/catalog/deliveroo/icon128x128.jpg",
+  "website": "https://deliveroo.com",
+  "docsUrl": "https://developers.deliveroo.com/"
+}

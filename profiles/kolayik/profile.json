@@ -1,0 +1,13 @@
+{
+  "id": "kolayik",
+  "title": "Kolay İK",
+  "subtitle": "Leave management, performance evaluation, shift, and compensation review in one tool. Digitize the HR processes and f...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655078859/icons/kolayik.jpg",
+  "website": "https://kolayik.com/en"
+}

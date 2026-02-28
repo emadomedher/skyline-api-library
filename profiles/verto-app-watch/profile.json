@@ -1,0 +1,13 @@
+{
+  "id": "verto-app-watch",
+  "title": "Verto App Watch",
+  "subtitle": "Measure cross-platform consumer behavior and get the rapid insights you need to provide a seamless digital experience...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722720/catalog/verto-app-watch/icon128x128.png",
+  "website": "https://vertoanalytics.com"
+}

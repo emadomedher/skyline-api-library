@@ -1,0 +1,13 @@
+{
+  "id": "twenga-solutions",
+  "title": "Twenga Solutions",
+  "subtitle": "Twenga Solutions API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438112/catalog/twenga-solutions/icon128x128.png",
+  "website": "https://twenga-solutions.com"
+}

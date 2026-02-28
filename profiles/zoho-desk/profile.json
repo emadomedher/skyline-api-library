@@ -1,0 +1,12 @@
+{
+  "id": "zoho-desk",
+  "title": "Zoho Desk",
+  "subtitle": "Zoho Desk is web-based customer service software designed to help you focus more on creating customer happiness every...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284672/catalog/zoho-desk/icon128x128.jpg"
+}

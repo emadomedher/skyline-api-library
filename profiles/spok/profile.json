@@ -1,0 +1,14 @@
+{
+  "id": "spok",
+  "title": "Spok",
+  "subtitle": "We deliver clinical information to care teams when and where it matters most to improve patient outcomes. More than 2...",
+  "tags": [
+    "clinical-communication",
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528007/icons/spok.png",
+  "website": "https://www.spok.com/"
+}

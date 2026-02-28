@@ -1,0 +1,14 @@
+{
+  "id": "borica-bg",
+  "title": "BORICA AD",
+  "subtitle": "БОРИКА АД е в основата на технологичната инфраструктура на платежната индустрия в България и лидер в предоставянето н...",
+  "tags": [
+    "card-issuing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605055356/icons/borica-bg.png",
+  "website": "https://www.borica.bg/"
+}

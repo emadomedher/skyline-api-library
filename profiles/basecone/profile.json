@@ -1,0 +1,14 @@
+{
+  "id": "basecone",
+  "title": "Basecone",
+  "subtitle": "Factuurherkenning, factuurautorisatie en meer. Ontdek het gemak van online boekhouden met Basecone, probeer 14 dagen ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576113252/catalog/basecone/icon128x128.png",
+  "website": "https://www.basecone.com/",
+  "docsUrl": "https://developers.basecone.com"
+}

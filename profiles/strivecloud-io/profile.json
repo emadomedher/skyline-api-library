@@ -1,0 +1,13 @@
+{
+  "id": "strivecloud-io",
+  "title": "StriveCloud",
+  "subtitle": "Hello there! StriveCloud helps companies change customer behavior, and supercharges engagement and retention within a...",
+  "tags": [
+    "gamification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632097522/icons/strivecloud-io.jpg",
+  "website": "https://strivecloud.io/"
+}

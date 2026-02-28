@@ -1,0 +1,13 @@
+{
+  "id": "bambu",
+  "title": "Bambu",
+  "subtitle": "Bambu by Sprout Social is a communication platform built for employee advocacy that helps brands amplify their reach ...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304455/catalog/bambu/icon128x128.png",
+  "website": "https://getbambu.com"
+}

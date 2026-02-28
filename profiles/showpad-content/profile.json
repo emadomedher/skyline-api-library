@@ -1,0 +1,13 @@
+{
+  "id": "showpad-content",
+  "title": "Showpad Content",
+  "subtitle": "Showpad's content management platform is leveraged by marketing and sales teams to quickly equip sales teams with ide...",
+  "tags": [
+    "sales-assets"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574346596/catalog/showpad-content/icon128x128.png",
+  "website": "https://www.showpad.com/product/showpad-content/"
+}

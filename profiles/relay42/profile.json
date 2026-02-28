@@ -1,0 +1,13 @@
+{
+  "id": "relay42",
+  "title": "Relay42",
+  "subtitle": "Built for AI-driven customer journeys with real-time connectivity to all systems and touchpoints. Turn your data into...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721795/catalog/relay42/icon128x128.jpg",
+  "website": "https://relay42.com"
+}

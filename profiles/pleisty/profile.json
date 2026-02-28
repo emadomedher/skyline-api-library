@@ -1,0 +1,13 @@
+{
+  "id": "pleisty",
+  "title": "Pleisty",
+  "subtitle": "Pleisty API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389711/catalog/pleisty/icon128x128.png",
+  "website": "https://pleisty.com"
+}

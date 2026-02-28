@@ -1,0 +1,13 @@
+{
+  "id": "viziapps",
+  "title": "ViziApps",
+  "subtitle": "Rapidly build mobile apps with our enterprise cloud-based app builder including database access, using drag and drop ...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946381/catalog/viziapps/icon128x128.jpg",
+  "website": "https://viziapps.com"
+}

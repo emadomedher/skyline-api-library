@@ -1,0 +1,13 @@
+{
+  "id": "picatic",
+  "title": "Picatic",
+  "subtitle": "Picatic makes it simple to create stunning event pages, manage registrations, and sell tickets anywhere.",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305663/catalog/picatic/icon128x128.png",
+  "website": "https://www.picatic.com/"
+}

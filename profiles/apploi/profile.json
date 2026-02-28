@@ -1,0 +1,15 @@
+{
+  "id": "apploi",
+  "title": "Apploi",
+  "subtitle": "Apploi is your one-stop-shop for recruitment, onboarding, and credentialing, serving the healthcare industry nation-w...",
+  "tags": [
+    "recruitment",
+    "healthcare"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615772644/icons/apploi.jpg",
+  "website": "https://www.apploi.com/",
+  "docsUrl": "https://intercom.help/apploi-client-dashboard/en/articles/4105773-apploi-api-overview"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "apiary",
+  "title": "Apiary",
+  "subtitle": "Apiary provides the leading API-First platform designed specifically to help companies accelerate and control the des...",
+  "tags": [
+    "api-documentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557288672/catalog/apiary/icon128x128.png",
+  "website": "https://apiary.io"
+}

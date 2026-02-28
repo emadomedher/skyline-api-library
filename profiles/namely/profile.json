@@ -1,0 +1,15 @@
+{
+  "id": "namely",
+  "title": "Namely",
+  "subtitle": "Namely is the only HR, payroll, benefits, and talent management platform your employees will love. It’s more than HR ...",
+  "tags": [
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554428042/catalog/namely/icon128x128.jpg",
+  "website": "https://www.namely.com/",
+  "docsUrl": "https://developers.namely.com"
+}

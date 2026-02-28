@@ -1,0 +1,13 @@
+{
+  "id": "odoo-accounting",
+  "title": "Odoo Accounting",
+  "subtitle": "Keep control of your global finances. Integrate book keeping with all your operations to avoid double entry.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622848264/icons/odoo-accounting.jpg",
+  "website": "https://www.odoo.com/app/accounting"
+}

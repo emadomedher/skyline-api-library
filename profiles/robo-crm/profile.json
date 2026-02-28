@@ -1,0 +1,13 @@
+{
+  "id": "robo-crm",
+  "title": "Robo CRM",
+  "subtitle": "Robo CRM is a full-fledged Sales CRM software for Business > You dont need multiple tools to drive sales anymore > Fr...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946655/catalog/robo-crm/icon128x128.jpg",
+  "website": "https://robocrm.inversionslab.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "at-cafe",
+  "title": "Café",
+  "subtitle": "No more spreadsheets! See who’s at the office and meet in 1 click!.",
+  "tags": [
+    "workplace-planning",
+    "office-culture"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622407939/icons/at-cafe.png",
+  "website": "https://at.cafe/"
+}

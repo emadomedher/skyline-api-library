@@ -1,0 +1,14 @@
+{
+  "id": "datagrail-io",
+  "title": "DataGrail",
+  "subtitle": "DataGrail provides businesses with a platform to manage data across third-party systems. Comply with CCPA, GDPR, and ...",
+  "tags": [
+    "compliance",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573090470/catalog/datagrail-io/icon128x128.jpg",
+  "website": "https://datagrail.io/"
+}

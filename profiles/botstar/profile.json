@@ -1,0 +1,13 @@
+{
+  "id": "botstar",
+  "title": "BotStar",
+  "subtitle": "Design and build a chatbot solution for your business effortlessly. Easy to use flow editor, built-in CMS, Audience S...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284463/catalog/botstar/icon128x128.png",
+  "website": "https://botstar.com/"
+}

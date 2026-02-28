@@ -1,0 +1,14 @@
+{
+  "id": "twist",
+  "title": "Twist",
+  "subtitle": "Collaborate on your timeline, not everyone else's. No presence indicators, no endless group chats, no pressure to res...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306394/catalog/twist/icon128x128.png",
+  "website": "https://twist.com/",
+  "docsUrl": "https://blog.doist.com/microverse-twist-remote-software-developer-training"
+}

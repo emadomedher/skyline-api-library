@@ -1,0 +1,13 @@
+{
+  "id": "curacity",
+  "title": "Curacity",
+  "subtitle": "The first and largest end-to-end content measurement and monetization platform that drives direct hotel bookings from...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268426/icons/curacity.jpg",
+  "website": "https://curacity.com"
+}

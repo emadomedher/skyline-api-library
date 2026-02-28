@@ -1,0 +1,13 @@
+{
+  "id": "taiga",
+  "title": "Taiga",
+  "subtitle": "Taiga is a project management platform for agile developers & designers who want a simple, beautiful tool that makes ...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722426/catalog/taiga/icon128x128.png",
+  "website": "https://taiga.io"
+}

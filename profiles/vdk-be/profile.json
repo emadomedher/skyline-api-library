@@ -1,0 +1,14 @@
+{
+  "id": "vdk-be",
+  "title": "VDK Bank",
+  "subtitle": "vdk bank is de bank die bewust midden in de maatschappij van vandaag en morgen staat. Faire producten met een fair re...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568422572/catalog/vdk-be/icon128x128.jpg",
+  "website": "https://vdk.be",
+  "docsUrl": "https://xs2a-devportal.vdk.be"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mcthings",
+  "title": "mcThings",
+  "subtitle": "An affordable and powerful platform for the Internet of Things that enables users to start creating custom IoT soluti...",
+  "tags": [
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593186846/icons/mcthings.jpg",
+  "website": "https://www.mcthings.com/"
+}

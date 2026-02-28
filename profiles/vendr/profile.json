@@ -1,0 +1,13 @@
+{
+  "id": "vendr",
+  "title": "Vendr",
+  "subtitle": "Vendr.com helps the world's fastest growing companies buy and renew software.",
+  "tags": [
+    "saas-management-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566603512/catalog/vendr/icon128x128.png",
+  "website": "https://www.vendr.com/"
+}

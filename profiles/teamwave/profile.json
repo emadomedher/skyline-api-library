@@ -1,0 +1,13 @@
+{
+  "id": "teamwave",
+  "title": "TeamWave",
+  "subtitle": "TeamWave is an unified platform for project management, CRM, and HR software for small businesses.",
+  "tags": [
+    "project-management",
+    "crm"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306289/catalog/teamwave/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pocket",
+  "title": "Pocket",
+  "subtitle": "Pocket is the best way to save articles, videos and links to view on any device, any time.",
+  "tags": [
+    "bookmarks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456627/catalog/pocket/icon128x128.png",
+  "website": "https://getpocket.com/"
+}

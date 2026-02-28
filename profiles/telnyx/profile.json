@@ -1,0 +1,15 @@
+{
+  "id": "telnyx",
+  "title": "Telnyx",
+  "subtitle": "We built a communication platform that enables anyone to deliver enterprise-grade real-time communications over the i...",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576574777/catalog/telnyx/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/team-telnyx/openapi/master/openapi/spec3.yml",
+  "website": "https://telnyx.com/",
+  "docsUrl": "https://developers.telnyx.com/docs"
+}

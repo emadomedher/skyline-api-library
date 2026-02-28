@@ -1,0 +1,14 @@
+{
+  "id": "easyrecrue",
+  "title": "EASYRECRUE",
+  "subtitle": "A single platform to manage the talent lifecycle, from job application to career development.",
+  "tags": [
+    "recruitment",
+    "video-interviews"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582914373/catalog/easyrecrue/icon128x128.jpg",
+  "website": "https://www.easyrecrue.com/"
+}

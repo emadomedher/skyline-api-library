@@ -1,0 +1,16 @@
+{
+  "id": "truework",
+  "title": "Truework",
+  "subtitle": "Truework automates employment and income verification requests for your HR Team. We’re giving employees control of th...",
+  "tags": [
+    "employment-verification",
+    "income-verification",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564679901/catalog/truework/icon128x128.jpg",
+  "website": "https://truework.com",
+  "docsUrl": "https://www.truework.com/docs/verifications-overview"
+}

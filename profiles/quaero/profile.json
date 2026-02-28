@@ -1,0 +1,13 @@
+{
+  "id": "quaero",
+  "title": "Quaero",
+  "subtitle": "A customer data platform (CDP) helping brands, agencies, retailers and publishers bring in all of their consumer data...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721676/catalog/quaero/icon128x128.jpg",
+  "website": "https://Quaero.com"
+}

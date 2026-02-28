@@ -1,0 +1,13 @@
+{
+  "id": "codestart-xyz",
+  "title": "codeStarter",
+  "subtitle": "codeStarter allows you to instantly generate web apps using any framework: React, NextJS, Angular, Vue, Svelte, and m...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635714073/icons/codestart-xyz.png",
+  "website": "https://www.codestart.xyz/"
+}

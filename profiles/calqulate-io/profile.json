@@ -1,0 +1,14 @@
+{
+  "id": "calqulate-io",
+  "title": "Calqulate",
+  "subtitle": "Growth metrics for SaaS ",
+  "tags": [
+    "financial-analytics",
+    "cashflow-forecasting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609010934/icons/calqulate-io.jpg",
+  "website": "https://www.calqulate.io/"
+}

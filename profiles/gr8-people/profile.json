@@ -1,0 +1,13 @@
+{
+  "id": "gr8-people",
+  "title": "gr8 People",
+  "subtitle": "GR8 People is the recruitment software foundation that brings career sites, CRM, applicant tracking, analytics and more.",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720270/catalog/gr8-people/icon128x128.jpg",
+  "website": "https://gr8people.com"
+}

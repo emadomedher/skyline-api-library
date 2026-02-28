@@ -1,0 +1,14 @@
+{
+  "id": "nymcard",
+  "title": "NymCard",
+  "subtitle": "NymCard API integration",
+  "tags": [
+    "banking-as-a-service",
+    "card-linked-loyalty"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612187947/icons/nymcard.jpg",
+  "website": "https://nymcard.com/"
+}

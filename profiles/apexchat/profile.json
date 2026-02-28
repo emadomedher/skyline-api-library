@@ -1,0 +1,14 @@
+{
+  "id": "apexchat",
+  "title": "ApexChat",
+  "subtitle": "We chat with your website visitors with our unique live chat conversion software and live chat agents. Boost your con...",
+  "tags": [
+    "live-chat-and-chatbots",
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718957/catalog/apexchat/icon128x128.jpg",
+  "website": "https://apexchat.com"
+}

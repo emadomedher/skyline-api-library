@@ -1,0 +1,14 @@
+{
+  "id": "nylas",
+  "title": "Nylas",
+  "subtitle": "The Nylas email, calendar and contacts API powers your application with two-way email sync and send, scheduling, and ...",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559755114/catalog/nylas/icon128x128.jpg",
+  "website": "https://nylas.com",
+  "docsUrl": "https://www.nylas.com/developers"
+}

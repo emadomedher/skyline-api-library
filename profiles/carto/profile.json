@@ -1,0 +1,14 @@
+{
+  "id": "carto",
+  "title": "Carto",
+  "subtitle": "CARTO's software turns Location Data into Business Outcomes. Our APIs and SDKs allow Data Scientists, Developers and ...",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964185/catalog/carto/icon128x128.png",
+  "website": "https://carto.com",
+  "docsUrl": "https://carto.com/developers"
+}

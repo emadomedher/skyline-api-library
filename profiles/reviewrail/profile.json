@@ -1,0 +1,13 @@
+{
+  "id": "reviewrail",
+  "title": "ReviewRail",
+  "subtitle": "We help you get more online reviews on Google, Yelp, Facebook and other sites. You'll also get a ton of customer feed...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581018359/catalog/reviewrail/icon128x128.png",
+  "website": "https://reviewrail.com/"
+}

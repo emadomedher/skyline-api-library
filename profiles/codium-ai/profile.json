@@ -1,0 +1,14 @@
+{
+  "id": "codium-ai",
+  "title": "CodiumAI",
+  "subtitle": "With CodiumAI, you get non-trivial tests suggested right inside your IDE, so you can code smart, create more value, a...",
+  "tags": [
+    "test-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681326103/icons/codium-ai.png",
+  "website": "https://www.codium.ai/",
+  "docsUrl": "https://techcrunch.com/2023/03/22/codiumai-is-using-generative-ai-to-help-developers-build-code-logic-tests-automatically/?guccounter=1&guce_referrer=ahr0chm6ly93d3cuz29vz2xllmnvbs8&guce_referrer_sig=aqaaal53jbvr_hpra62ofjluworanvoni5bivpb2elgf7rlmxeca08bpxrhxa16jnv6dgbvxbzcg8xbfqibenuppel4l-4xt-meydves3n-n853ncpnldd9q2cq6lkgsu7d4btfuwoijccidy-fyykth4ljnn2mpnttuejex9c2o5_qn"
+}

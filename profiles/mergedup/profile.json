@@ -1,0 +1,16 @@
+{
+  "id": "mergedup",
+  "title": "Merge",
+  "subtitle": "One API to power banking and payments for the web3 economy",
+  "tags": [
+    "web3",
+    "unified-apis",
+    "payments"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653956359/icons/mergedup.jpg",
+  "website": "https://www.mergedup.com/",
+  "docsUrl": "https://www.mergedup.com/"
+}

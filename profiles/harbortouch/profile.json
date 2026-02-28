@@ -1,0 +1,13 @@
+{
+  "id": "harbortouch",
+  "title": "Harbortouch POS System",
+  "subtitle": "Get your FREE Harbortouch POS system for any business type. Increase sales, streamline operations with a fast and rel...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638576529/icons/harbortouch.jpg",
+  "website": "https://www.harbortouchpossoftware.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lead-app",
+  "title": "LEAD",
+  "subtitle": "LEAD helps companies enhance employee experience, develop leaders, and retain talent through AI technologies.LEAD is ...",
+  "tags": [
+    "employee-engagement",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569307821/catalog/lead-app/icon128x128.png",
+  "website": "https://www.lead.app/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dougs-fr",
+  "title": "Dougs",
+  "subtitle": "Expert comptable pas cher : Dougs est le seul expert comptable en ligne 100% sans paperasse. Votre comptabilité en li...",
+  "tags": [
+    "accounting",
+    "accounting-service"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796492/catalog/dougs-fr/icon128x128.jpg",
+  "website": "https://www.dougs.fr/"
+}

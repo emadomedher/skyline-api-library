@@ -1,0 +1,14 @@
+{
+  "id": "virgingalactic",
+  "title": "Virgin Galactic",
+  "subtitle": "Virgin Galactic recognizes that the answers to many of the challenges we face in sustaining life on our beautiful pla...",
+  "tags": [
+    "spaceflights",
+    "spacetech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610288534/icons/virgingalactic.png",
+  "website": "https://www.virgingalactic.com/"
+}

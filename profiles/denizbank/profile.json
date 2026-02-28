@@ -1,0 +1,13 @@
+{
+  "id": "denizbank",
+  "title": "DenizBank",
+  "subtitle": "DenizBank A.Ş. is a large private bank in Turkey. It is currently owned by Emirates NBD. It was owned and controlled ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591640869/icons/denizbank.jpg",
+  "website": "https://www.denizbank.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tillypay",
+  "title": "Tillypay",
+  "subtitle": "A platform that allows you to create single & recurring payment forms just by sharing a link. The tool is powered by ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585314678/catalog/tillypay/icon128x128.png",
+  "website": "https://tillypay.com/"
+}

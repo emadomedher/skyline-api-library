@@ -1,0 +1,13 @@
+{
+  "id": "glances",
+  "title": "Glances",
+  "subtitle": "The single customer view you have always wanted is here. See relevant data from your applications such as Salesforce ...",
+  "tags": [
+    "customer-insights"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667945491/icons/glances.jpg",
+  "website": "https://glances.com/"
+}

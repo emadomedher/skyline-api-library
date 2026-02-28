@@ -1,0 +1,13 @@
+{
+  "id": "comanage-me",
+  "title": "CoManage",
+  "subtitle": "With CoManage, you can easily manage all your customers, appointments, invoices, offers and projects. Save tons of ti...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566654313/catalog/comanage-me/icon128x128.jpg",
+  "website": "https://comanage.me/"
+}

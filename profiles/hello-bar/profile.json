@@ -1,0 +1,13 @@
+{
+  "id": "hello-bar",
+  "title": "Hello Bar",
+  "subtitle": "Convert visitors into customers with Hello Bar",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305100/catalog/hello-bar/icon128x128.png",
+  "website": "https://www.hellobar.com/"
+}

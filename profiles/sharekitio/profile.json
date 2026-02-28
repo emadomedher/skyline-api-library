@@ -1,0 +1,13 @@
+{
+  "id": "sharekitio",
+  "title": "ShareKit.io",
+  "subtitle": "Customize how your link will appear on social media, without getting your IT team involved",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946609/catalog/sharekitio/icon128x128.jpg",
+  "website": "https://sharekit.io"
+}

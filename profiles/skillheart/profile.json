@@ -1,0 +1,13 @@
+{
+  "id": "skillheart",
+  "title": "SkillHeart AS",
+  "subtitle": "SkillHeart AS API integration",
+  "tags": [
+    "video-interviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641977791/icons/skillheart.png",
+  "website": "http://www.skillheart.com/"
+}

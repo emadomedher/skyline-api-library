@@ -1,0 +1,13 @@
+{
+  "id": "firstbusiness-bank",
+  "title": "First Business Bank",
+  "subtitle": "First Business Financial Services, Inc. is a bank holding company involved in the commercial banking business through...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635981856/icons/firstbusiness-bank.jpg",
+  "website": "https://firstbusiness.bank/"
+}

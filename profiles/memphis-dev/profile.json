@@ -1,0 +1,14 @@
+{
+  "id": "memphis-dev",
+  "title": "Memphis",
+  "subtitle": "Simple as RabbitMQ, Robust as Apache Kafka, and Perfect for event-driven apps.",
+  "tags": [
+    "message-broker"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672640276/icons/memphis-dev.jpg",
+  "website": "https://memphis.dev/",
+  "docsUrl": "https://memphis.dev/docs"
+}

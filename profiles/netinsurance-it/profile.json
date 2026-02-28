@@ -1,0 +1,13 @@
+{
+  "id": "netinsurance-it",
+  "title": "Net Insurance",
+  "subtitle": "Net Insurance è una compagnia assicurativa che offre soluzioni di protezione dedicate alla persona, alla famiglia e a...",
+  "tags": [
+    "insurance-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613458923/icons/netinsurance-it.jpg",
+  "website": "https://www.netinsurance.it/"
+}

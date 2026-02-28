@@ -1,0 +1,15 @@
+{
+  "id": "arkea",
+  "title": "Crédit Mutuel Arkéa",
+  "subtitle": "Crédit Mutuel Arkéa API integration",
+  "tags": [
+    "banking",
+    "insurrance"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592565269/icons/arkea.png",
+  "website": "https://www.arkea.com/",
+  "docsUrl": "https://www.arkea.com/banque/assurance/credit/upload/docs/application/pdf/2018-02/communique_arkea_paprec_vdef.pdf"
+}

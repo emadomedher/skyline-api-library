@@ -1,0 +1,13 @@
+{
+  "id": "atex",
+  "title": "Atex",
+  "subtitle": "Easy to use content management that makes your business fly. Atex Digital Media is a flexible content management plat...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433122/catalog/atex/icon128x128.png",
+  "website": "https://atex.com"
+}

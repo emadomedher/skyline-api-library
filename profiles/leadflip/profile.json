@@ -1,0 +1,12 @@
+{
+  "id": "leadflip",
+  "title": "LeadFlip",
+  "subtitle": "LeadFlip is a lead generation platform for businesses. You can generate high quality leads using the power of chatbots.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305277/catalog/leadflip/icon128x128.png"
+}

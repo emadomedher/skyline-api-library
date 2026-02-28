@@ -1,0 +1,13 @@
+{
+  "id": "cloudpay",
+  "title": "CloudPay",
+  "subtitle": "CloudPay is defining the modern pay experience by providing a unified global payroll, treasury, and on-demand pay sol...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638252933/icons/cloudpay.jpg",
+  "website": "https://www.cloudpay.com/"
+}

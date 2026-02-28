@@ -1,0 +1,13 @@
+{
+  "id": "gleanview",
+  "title": "GleanView",
+  "subtitle": "Transform lead generation and conversion with the power of automation",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720242/catalog/gleanview/icon128x128.png",
+  "website": "https://gleanview.com"
+}

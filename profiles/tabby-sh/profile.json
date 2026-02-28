@@ -1,0 +1,13 @@
+{
+  "id": "tabby-sh",
+  "title": "Tabby",
+  "subtitle": "Tabby is a free and open source SSH, local and Telnet terminal with everything you'll ever need.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647206893/icons/tabby-sh.png",
+  "website": "https://tabby.sh/"
+}

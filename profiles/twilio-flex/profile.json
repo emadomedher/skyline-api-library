@@ -1,0 +1,14 @@
+{
+  "id": "twilio-flex",
+  "title": "Twilio Flex",
+  "subtitle": "The programmable contact center that fits your business rather than the other way around.",
+  "tags": [
+    "cloud-contact-center"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603878943/icons/twilio-flex.png",
+  "website": "https://www.twilio.com/flex",
+  "docsUrl": "https://www.twilio.com/docs/flexs"
+}

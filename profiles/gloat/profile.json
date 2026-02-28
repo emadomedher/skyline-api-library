@@ -1,0 +1,13 @@
+{
+  "id": "gloat",
+  "title": "Gloat",
+  "subtitle": "Gloat is a Workforce Agility and Talent Marketplace platform. Gloat helps enterprises democratize career development,...",
+  "tags": [
+    "talent-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406242/icons/gloat.jpg",
+  "website": "https://gloat.com/"
+}

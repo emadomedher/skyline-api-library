@@ -1,0 +1,13 @@
+{
+  "id": "growth-champ",
+  "title": "Growth Champ",
+  "subtitle": "Growth Champ is a service which manages your social media profiles and helps you increase your influence.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720289/catalog/growth-champ/icon128x128.jpg",
+  "website": "https://growthchamp.com"
+}

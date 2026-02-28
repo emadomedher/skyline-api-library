@@ -1,0 +1,15 @@
+{
+  "id": "lusha",
+  "title": "Lusha",
+  "subtitle": "Lusha is the easiest way to find email addresses & phone numbers from anywhere on the web, with just one click.",
+  "tags": [
+    "contacts",
+    "sales-prospection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305331/catalog/lusha/icon128x128.png",
+  "website": "https://www.lusha.co/",
+  "docsUrl": "https://www.lusha.co/docs"
+}

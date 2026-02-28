@@ -1,0 +1,14 @@
+{
+  "id": "banqup",
+  "title": "banqUP",
+  "subtitle": "banqUP API integration",
+  "tags": [
+    "banking-api-aggregators",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571852651/catalog/banqup/icon128x128.jpg",
+  "website": "https://banqup.com/"
+}

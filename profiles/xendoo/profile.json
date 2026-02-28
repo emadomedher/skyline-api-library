@@ -1,0 +1,13 @@
+{
+  "id": "xendoo",
+  "title": "Xendoo",
+  "subtitle": "At Xendoo, we take the hassle out of bookkeeping with reliable tech and a dedicated team. Get started with online boo...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606090613/icons/xendoo.jpg",
+  "website": "https://xendoo.com/"
+}

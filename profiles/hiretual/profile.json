@@ -1,0 +1,14 @@
+{
+  "id": "hiretual",
+  "title": "Hiretual",
+  "subtitle": "Hiretual AI sourcing tools use machine learning to source the strongest talent, 10x faster. See just how easy it is t...",
+  "tags": [
+    "hiring",
+    "talent-sourcing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573090463/catalog/hiretual/icon128x128.jpg",
+  "website": "https://hiretual.com/"
+}

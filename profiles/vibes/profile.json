@@ -1,0 +1,13 @@
+{
+  "id": "vibes",
+  "title": "Vibes",
+  "subtitle": "Vibes API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961994/catalog/vibes/icon128x128.png",
+  "website": "https://vibes.com"
+}

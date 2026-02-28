@@ -1,0 +1,13 @@
+{
+  "id": "thomasreuters-mypaysolutions",
+  "title": "MyPay Solutions",
+  "subtitle": "Get accurate, timely online payroll services and payroll tax services for your business with myPay Solutions.",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476428/icons/thomasreuters-mypaysolutions.jpg",
+  "website": "https://mypaysolutions.thomsonreuters.com/en.html"
+}

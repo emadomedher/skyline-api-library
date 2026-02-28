@@ -1,0 +1,15 @@
+{
+  "id": "ank-app",
+  "title": "ank",
+  "subtitle": "ank API integration",
+  "tags": [
+    "fintech",
+    "personal-finance-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602351258/icons/ank-app.png",
+  "website": "https://ank.app/",
+  "docsUrl": "https://ank.app/docs/politicas-de-privacidad-ank.pdf"
+}

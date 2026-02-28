@@ -1,0 +1,16 @@
+{
+  "id": "apache-couchdb",
+  "title": "CouchDB",
+  "subtitle": "Apache CouchDB is an open-source document-oriented NoSQL database, implemented in Erlang. CouchDB uses multiple forma...",
+  "tags": [
+    "open-source",
+    "nosql",
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603725581/icons/apache-couchdb.jpg",
+  "website": "https://couchdb.apache.org/",
+  "docsUrl": "http://docs.couchdb.org"
+}

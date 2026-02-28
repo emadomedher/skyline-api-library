@@ -1,0 +1,14 @@
+{
+  "id": "unbox-ai",
+  "title": "Unbox",
+  "subtitle": "Collaborative QA for machine learning",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723358/icons/unbox-ai.png",
+  "website": "https://www.unbox.ai/",
+  "docsUrl": "https://docs.unbox.ai"
+}

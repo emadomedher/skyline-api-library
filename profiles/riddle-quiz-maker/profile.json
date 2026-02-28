@@ -1,0 +1,12 @@
+{
+  "id": "riddle-quiz-maker",
+  "title": "Riddle Quiz Maker",
+  "subtitle": "Riddle is a quiz marketing platform with built-in lead generation forms. In addition to quizzes you can also create p...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305893/catalog/riddle-quiz-maker/icon128x128.png"
+}

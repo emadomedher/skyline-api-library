@@ -1,0 +1,13 @@
+{
+  "id": "jitterbit",
+  "title": "Jitterbit",
+  "subtitle": "Jitterbit API transformation combines the power of APIs and integration to connect SaaS, on-premise and cloud apps, a...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720607/catalog/jitterbit/icon128x128.jpg",
+  "website": "https://jitterbit.com"
+}

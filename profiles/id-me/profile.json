@@ -1,0 +1,14 @@
+{
+  "id": "id-me",
+  "title": "ID.me",
+  "subtitle": "ID.me simplifies how individuals share and prove their identity online. ID.me's next generation platform facilitates ...",
+  "tags": [
+    "identity-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644983620/icons/id-me.jpg",
+  "website": "https://www.id.me/",
+  "docsUrl": "https://developers.id.me"
+}

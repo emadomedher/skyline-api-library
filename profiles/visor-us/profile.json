@@ -1,0 +1,14 @@
+{
+  "id": "visor-us",
+  "title": "Visor",
+  "subtitle": "Visor is a revolutionary new way to collaborate using data from apps that run your business. Make better decisions to...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651043729/icons/visor-us.jpg",
+  "website": "https://www.visor.us/",
+  "docsUrl": "https://developer.atlassian.com/platform/marketplace/security-self-assessment-program"
+}

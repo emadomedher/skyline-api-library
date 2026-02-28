@@ -1,0 +1,13 @@
+{
+  "id": "trust-metrics",
+  "title": "Trust Metrics",
+  "subtitle": "Trust Metrics API integration",
+  "tags": [
+    "affiliate-marketing-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827874/catalog/trust-metrics/icon128x128.png",
+  "website": "https://trustmetrics.com"
+}

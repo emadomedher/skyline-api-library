@@ -1,0 +1,13 @@
+{
+  "id": "bluevenn",
+  "title": "BlueVenn",
+  "subtitle": "BlueVenn API integration",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433359/catalog/bluevenn/icon128x128.png",
+  "website": "https://bluevenn.com"
+}

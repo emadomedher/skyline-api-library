@@ -1,0 +1,13 @@
+{
+  "id": "heritage-bank-nigeria",
+  "title": "Heritage Bank Nigeria",
+  "subtitle": "Heritage Bank Plc is a large financial services provider in Nigeria. Currently licensed as a National Bank, it offers...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622134871/icons/heritage-bank-nigeria.jpg",
+  "website": "https://www.hbng.com/"
+}

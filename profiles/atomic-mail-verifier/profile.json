@@ -1,0 +1,13 @@
+{
+  "id": "atomic-mail-verifier",
+  "title": "Atomic Mail Verifier",
+  "subtitle": "Atomic Mail Verifier API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555982625/catalog/atomic-mail-verifier/icon128x128.png",
+  "website": "https://atompark.com"
+}

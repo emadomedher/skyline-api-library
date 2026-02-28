@@ -1,0 +1,13 @@
+{
+  "id": "sendible",
+  "title": "Sendible",
+  "subtitle": "Sendible is a social media management tool that helps agencies and companies boost their productivity on social media...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946621/catalog/sendible/icon128x128.jpg",
+  "website": "https://sendible.com"
+}

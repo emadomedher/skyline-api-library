@@ -1,0 +1,13 @@
+{
+  "id": "officereports",
+  "title": "OfficeReports",
+  "subtitle": "Creating charts, tables and other infographics in Excel and PowerPoint has never been easier!",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721313/catalog/officereports/icon128x128.png",
+  "website": "https://officereports.com"
+}

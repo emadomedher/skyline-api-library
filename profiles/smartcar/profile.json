@@ -1,0 +1,17 @@
+{
+  "id": "smartcar",
+  "title": "Smartcar",
+  "subtitle": "Smartcar allows mobility apps to locate, unlock, read the odometer, and send other requests to cars across brands wit...",
+  "tags": [
+    "automotive",
+    "car-api",
+    "unified-apis",
+    "mobility"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601893602/icons/smartcar.png",
+  "website": "https://smartcar.com/",
+  "docsUrl": "https://smartcar.com/docs"
+}

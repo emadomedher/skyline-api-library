@@ -1,0 +1,14 @@
+{
+  "id": "virtuoso-qa",
+  "title": "Virtuoso",
+  "subtitle": "Virtuoso combines Natural Language Processing and Robotic Process Automation into a single platform that is self-heal...",
+  "tags": [
+    "test-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642409743/icons/virtuoso-qa.jpg",
+  "website": "https://www.virtuoso.qa/",
+  "docsUrl": "https://docs.virtuoso.qa/guide"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kubo-education",
+  "title": "KUBO Robotics",
+  "subtitle": "KUBO is a multi-award winning classroom solution, that breaks down barriers to teaching computer science and coding t...",
+  "tags": [
+    "robots",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571041824/catalog/kubo-education/icon128x128.jpg",
+  "website": "https://kubo.education/"
+}

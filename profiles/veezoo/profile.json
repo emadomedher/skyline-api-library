@@ -1,0 +1,14 @@
+{
+  "id": "veezoo",
+  "title": "Veezoo",
+  "subtitle": "Veezoo empowers individuals to find actionable insights from data by literally just asking questions in plain English!",
+  "tags": [
+    "data-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638517610/icons/veezoo.png",
+  "website": "https://www.veezoo.com/",
+  "docsUrl": "https://docs.veezoo.com/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "gameanalytics",
+  "title": "GameAnalytics",
+  "subtitle": "Measure, understand and control player experiences in a single free tool, trusted by 80,000+ game developers across t...",
+  "tags": [
+    "game-analytics",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941480/icons/gameanalytics.png",
+  "website": "https://gameanalytics.com/",
+  "docsUrl": "https://gameanalytics.com/docs"
+}

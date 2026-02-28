@@ -1,0 +1,13 @@
+{
+  "id": "magnews",
+  "title": "MagNews",
+  "subtitle": "With the MagNews multichannel solution: E-mail Marketing, Social Media and SMS marketing just a click away",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720954/catalog/magnews/icon128x128.jpg",
+  "website": "https://magnews.com"
+}

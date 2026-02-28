@@ -1,0 +1,13 @@
+{
+  "id": "accenture",
+  "title": "Accenture",
+  "subtitle": "Accenture unlocks opportunity by harnessing the possibilities that spring from disruption in every industry, in every...",
+  "tags": [
+    "optimization-personalization-and-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717089/catalog/accenture/icon128x128.jpg",
+  "website": "https://accenture.com"
+}

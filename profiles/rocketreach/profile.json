@@ -1,0 +1,13 @@
+{
+  "id": "rocketreach",
+  "title": "RocketReach",
+  "subtitle": "RocketReach helps you find email, phone and social links for over 250 million professionals, across 6 million compani...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284595/catalog/rocketreach/icon128x128.png",
+  "website": "https://rocketreach.co"
+}

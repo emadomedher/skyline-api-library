@@ -1,0 +1,13 @@
+{
+  "id": "zaxaa",
+  "title": "Zaxaa",
+  "subtitle": "Zaxaa is a platform that helps online course creators, coaches, and small businesses selling digital products to grow...",
+  "tags": [
+    "marketing-automation",
+    "e-commerce"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539033/catalog/zaxaa/icon128x128.png"
+}

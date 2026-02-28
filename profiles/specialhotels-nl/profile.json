@@ -1,0 +1,14 @@
+{
+  "id": "specialhotels-nl",
+  "title": "Specialhotels",
+  "subtitle": "Romantische hotels en bijzondere B&B's in Nederland, België en Luxemburg.❤️",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641118/icons/specialhotels-nl.jpg",
+  "website": "https://www.specialhotels.nl/"
+}

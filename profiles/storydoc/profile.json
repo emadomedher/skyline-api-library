@@ -1,0 +1,13 @@
+{
+  "id": "storydoc",
+  "title": "Storydoc",
+  "subtitle": "Easily transform your static slides into interactive web presentations that generate lasting interest. Boost your con...",
+  "tags": [
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975823/icons/storydoc.jpg",
+  "website": "https://www.storydoc.com/"
+}

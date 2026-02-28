@@ -1,0 +1,13 @@
+{
+  "id": "helloguru-io",
+  "title": "HelloGuru",
+  "subtitle": "HelloGuru creates your website, mobile app, or whatever software you can imagine with a No-Code approach. Faster, aff...",
+  "tags": [
+    "internal-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471968/icons/helloguru-io.jpg",
+  "website": "https://www.helloguru.io/"
+}

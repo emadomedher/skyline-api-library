@@ -1,0 +1,13 @@
+{
+  "id": "synthesio",
+  "title": "Synthesio",
+  "subtitle": "Social media intelligence suite by Synthesio, featuring leading social listening platform, audience insights tool, an...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946505/catalog/synthesio/icon128x128.jpg",
+  "website": "https://synthesio.com"
+}

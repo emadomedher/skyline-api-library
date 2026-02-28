@@ -1,0 +1,14 @@
+{
+  "id": "arcpublishing",
+  "title": "Arc Publishing",
+  "subtitle": "Arc helps content teams power their businesses through innovation, better customer experiences and storytelling with ...",
+  "tags": [
+    "publishing",
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609900080/icons/arcpublishing.png",
+  "website": "https://www.arcpublishing.com/"
+}

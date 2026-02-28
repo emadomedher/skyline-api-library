@@ -1,0 +1,13 @@
+{
+  "id": "corkcrm",
+  "title": "CorkCRM",
+  "subtitle": "Painting software for the 21st Century: All-in-one software to manage leads, contracts, proposals, payroll, jobs and ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433974/catalog/corkcrm/icon128x128.png",
+  "website": "https://corkcrm.com"
+}

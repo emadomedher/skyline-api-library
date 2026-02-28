@@ -1,0 +1,14 @@
+{
+  "id": "akamai",
+  "title": "Akamai",
+  "subtitle": "Akamai is the leading content delivery network (CDN) services provider for media and software delivery, and cloud sec...",
+  "tags": [
+    "cdn-(content-delivery-network)"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567118044/catalog/akamai/icon128x128.jpg",
+  "website": "https://akamai.com",
+  "docsUrl": "https://learn.akamai.com"
+}

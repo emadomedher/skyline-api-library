@@ -1,0 +1,13 @@
+{
+  "id": "thanksio",
+  "title": "thanks.io",
+  "subtitle": "Thanks.io is a way to automatically send ‘handwritten’ postcards at scale for as low as $.49 per card.",
+  "tags": [
+    "printing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830038/catalog/thanksio/icon128x128.png",
+  "website": "https://thanks.io"
+}

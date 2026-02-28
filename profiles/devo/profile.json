@@ -1,0 +1,14 @@
+{
+  "id": "devo",
+  "title": "Devo",
+  "subtitle": "Devo is the cloud-native logging and security analytics solution that delivers real-time visibility for security and ...",
+  "tags": [
+    "soar"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677089621/icons/devo.jpg",
+  "website": "https://www.devo.com/",
+  "docsUrl": "https://docs.devo.com"
+}

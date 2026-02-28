@@ -1,0 +1,14 @@
+{
+  "id": "clockodo",
+  "title": "Clockodo",
+  "subtitle": "Fast and easy time tracking for work & project hours! Cloud ✓ App ✓ Made in Germany ✓ Thousands of satisfied customer...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674167242/icons/clockodo.jpg",
+  "website": "https://www.clockodo.com/",
+  "docsUrl": "https://www.clockodo.com/en/api"
+}

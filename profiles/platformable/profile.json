@@ -1,0 +1,16 @@
+{
+  "id": "platformable",
+  "title": "Platformable",
+  "subtitle": "Help digital government and businesses including open banking to measure their ecosystem value and to build platforms...",
+  "tags": [
+    "api",
+    "platforms",
+    "consultancy",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595255533/icons/platformable.jpg",
+  "website": "https://platformable.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "inline-manual",
+  "title": "Inline Manual",
+  "subtitle": "Light the way to success for your users - Guide your users with interactive tours, tips and tutorials to reach their ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720488/catalog/inline-manual/icon128x128.png",
+  "website": "https://inlinemanual.com"
+}

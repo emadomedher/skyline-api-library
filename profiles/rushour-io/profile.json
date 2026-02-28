@@ -1,0 +1,13 @@
+{
+  "id": "rushour-io",
+  "title": "RusHour.io",
+  "subtitle": "RusHour allows restaurants to centralize all their delivery and takeout orders on a single tablet and a single printer.",
+  "tags": [
+    "ordering-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609900074/icons/rushour-io.jpg",
+  "website": "https://www.rushour.io/home"
+}

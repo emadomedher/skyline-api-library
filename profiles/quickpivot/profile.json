@@ -1,0 +1,13 @@
+{
+  "id": "quickpivot",
+  "title": "QuickPivot",
+  "subtitle": "QuickPivot offers a wide scope of customer data aggregation, segmentation, and processing tools that includes a compl...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721691/catalog/quickpivot/icon128x128.jpg",
+  "website": "https://quickpivot.com"
+}

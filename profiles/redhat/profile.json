@@ -1,0 +1,14 @@
+{
+  "id": "redhat",
+  "title": "Red Hat",
+  "subtitle": "Red Hat is the world’s leading provider of enterprise open source solutions, including high-performing Linux, cloud, ...",
+  "tags": [
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565028274/catalog/redhat/icon128x128.png",
+  "website": "https://redhat.com",
+  "docsUrl": "https://developers.redhat.com"
+}

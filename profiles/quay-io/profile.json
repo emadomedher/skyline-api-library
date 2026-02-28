@@ -1,0 +1,14 @@
+{
+  "id": "quay-io",
+  "title": "Red Hat Quay",
+  "subtitle": "Hosted private Docker repositories. Includes full user management and history. \n                     Free for public ...",
+  "tags": [
+    "container-registries",
+    "kubernetes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691960725/icons/quay-io.png",
+  "website": "https://quay.io/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "retrium",
+  "title": "Retrium",
+  "subtitle": "Retrium powers better agile and scrum retrospective meetings to enable teams to continuously improve faster.",
+  "tags": [
+    "sprint-retrospective",
+    "agile",
+    "agile-and-lean-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946673/catalog/retrium/icon128x128.png",
+  "website": "https://retrium.com",
+  "docsUrl": "https://stripe.com/docs/security"
+}

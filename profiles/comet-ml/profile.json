@@ -1,0 +1,14 @@
+{
+  "id": "comet-ml",
+  "title": "Comet ML",
+  "subtitle": "Comet ML API integration",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587645906/catalog/comet-ml/icon128x128.jpg",
+  "website": "https://www.comet.ml/",
+  "docsUrl": "https://www.comet.ml/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ocrolus",
+  "title": "Ocrolus",
+  "subtitle": "Ocrolus turns documents into actionable data with amazing accuracy. Our human in the loop machine learning model elim...",
+  "tags": [
+    "document-analysis",
+    "document-capture"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591803952/icons/ocrolus.jpg",
+  "website": "https://www.ocrolus.com/",
+  "docsUrl": "https://www.ocrolus.com/api-docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "azure-cognitive-services",
+  "title": "Azure Cognitive Services",
+  "subtitle": "Azure Cognitive Services brings AI to developers through APIs that don't require machine-learning expertise. Learn ho...",
+  "tags": [
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635981864/icons/azure-cognitive-services.png",
+  "website": "https://azure.microsoft.com/en-us/services/cognitive-services/"
+}

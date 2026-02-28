@@ -1,0 +1,13 @@
+{
+  "id": "funnelcake",
+  "title": "FunnelCake",
+  "subtitle": "With FunnelCake, visibility into sales performance drives accountability \nand changes rep behaviour. Instead of tradi...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434725/catalog/funnelcake/icon128x128.png",
+  "website": "https://getfunnelCake.com"
+}

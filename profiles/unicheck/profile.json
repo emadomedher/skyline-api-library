@@ -1,0 +1,13 @@
+{
+  "id": "unicheck",
+  "title": "Unicheck",
+  "subtitle": "Cloud-based plagiarism detection software that finds similarities, citations and references in a set of text.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861272/catalog/unicheck/icon128x128.png",
+  "website": "https://unicheck.com"
+}

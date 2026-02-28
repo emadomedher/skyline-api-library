@@ -1,0 +1,13 @@
+{
+  "id": "athena-au",
+  "title": "Athena Home Loans",
+  "subtitle": "We’re radically changing mortgages so you own your home sooner. Athena can get you a better home loan, and help you g...",
+  "tags": [
+    "mortgages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571995836/catalog/athena-au/icon128x128.jpg",
+  "website": "https://www.athena.com.au/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "helpaccess-io",
+  "title": "helpAccess ",
+  "subtitle": "Discover More, Browse Smarter. Faster Forever",
+  "tags": [
+    "web-accessibility"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641096103/icons/helpaccess-io.png",
+  "website": "https://helpaccess.io/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "goformz",
+  "title": "GoFormz",
+  "subtitle": "GoFormz gives you a complete mobile forms solution that lets you capture data electronically with mobile forms that l...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305038/catalog/goformz/icon128x128.png"
+}

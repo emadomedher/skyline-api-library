@@ -1,0 +1,13 @@
+{
+  "id": "userecho",
+  "title": "UserEcho",
+  "subtitle": "UserEcho is an online customer support software. UserEcho allow to create helpdesk, ideas forum, livechat and knowled...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056536/catalog/userecho/icon128x128.png",
+  "website": "https://userecho.com/"
+}

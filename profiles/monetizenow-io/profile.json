@@ -1,0 +1,14 @@
+{
+  "id": "monetizenow-io",
+  "title": "MonetizeNow",
+  "subtitle": "World's First Integrated Quoting & Billing Platform built for the Modern SaaS Enterprise",
+  "tags": [
+    "usage-based-billing",
+    "subscription-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659480581/icons/monetizenow-io.jpg",
+  "website": "https://www.monetizenow.io/"
+}

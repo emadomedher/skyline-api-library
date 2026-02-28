@@ -1,0 +1,13 @@
+{
+  "id": "adaptiveu",
+  "title": "AdaptiveU",
+  "subtitle": "AdaptiveU provides a free cloud based training platform for today's modern workforce.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304363/catalog/adaptiveu/icon128x128.png",
+  "website": "https://www.adaptiveu.io/"
+}

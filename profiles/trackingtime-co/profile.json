@@ -1,0 +1,14 @@
+{
+  "id": "trackingtime-co",
+  "title": "TrackingTime",
+  "subtitle": "TrackingTime is an intuitive Time Tracking Software. Simplify Timesheets. Get accurate clients, project and employee ...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674498372/icons/trackingtime-co.jpg",
+  "website": "https://trackingtime.co/",
+  "docsUrl": "https://support.trackingtime.co/en/articles/1134693-public-api"
+}

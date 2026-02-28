@@ -1,0 +1,13 @@
+{
+  "id": "marcus",
+  "title": "Marcus by Goldman Sachs",
+  "subtitle": "Marcus by Goldman Sachs® provides no-fee personal loans & high-yield online savings for individuals. Committed to hel...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610843819/icons/marcus.png",
+  "website": "https://www.marcus.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dimdata",
+  "title": "DIMDATA",
+  "subtitle": "DIMDATA is a trusted data processor. Provide search platform and Paperless solutions.",
+  "tags": [
+    "search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610365785/icons/dimdata.jpg",
+  "website": "https://www.dimdata.com/",
+  "docsUrl": "https://www.dimdata.com/docs"
+}

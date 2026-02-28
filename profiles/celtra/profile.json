@@ -1,0 +1,13 @@
+{
+  "id": "celtra",
+  "title": "Celtra",
+  "subtitle": "Celtra API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433631/catalog/celtra/icon128x128.png",
+  "website": "https://celtra.com"
+}

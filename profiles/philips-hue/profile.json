@@ -1,0 +1,14 @@
+{
+  "id": "philips-hue",
+  "title": "Philips Hue",
+  "subtitle": "Philips Hue is your personal wireless lighting system that lets you easily control your light and create the right am...",
+  "tags": [
+    "video",
+    "devices"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830010/catalog/philips-hue/icon128x128.png",
+  "website": "https://meethue.com"
+}

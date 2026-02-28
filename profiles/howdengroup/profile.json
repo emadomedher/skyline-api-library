@@ -1,0 +1,13 @@
+{
+  "id": "howdengroup",
+  "title": "Howden Insurance Brokers AB",
+  "subtitle": "Howden Broking is part of Howden Group Holdings; a global insurance group with employee ownership at its heart. Begin...",
+  "tags": [
+    "insurance-groups"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618977956/icons/howdengroup.jpg",
+  "website": "https://www.howdengroup.com/"
+}

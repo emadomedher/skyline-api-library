@@ -1,0 +1,14 @@
+{
+  "id": "mesibo",
+  "title": "mesibo",
+  "subtitle": "mesibo is a real-time communication platform, provides chat API and messaging SDK to add messaging, voice and video c...",
+  "tags": [
+    "chat-and-messaging-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630375687/icons/mesibo.jpg",
+  "website": "https://mesibo.com/",
+  "docsUrl": "https://mesibo.com/#"
+}

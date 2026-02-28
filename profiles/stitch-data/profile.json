@@ -1,0 +1,13 @@
+{
+  "id": "stitch-data",
+  "title": "Stitch",
+  "subtitle": "All your data. Where you want it. In minutes. Stitch is a cloud-first, developer-focused platform for rapidly moving ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439357/catalog/stitch-data/icon128x128.svg",
+  "website": "https://stitchdata.com"
+}

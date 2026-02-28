@@ -1,0 +1,14 @@
+{
+  "id": "flowiseai",
+  "title": "Flowise",
+  "subtitle": "Open source UI visual tool to build your customized LLM flow using Langchain",
+  "tags": [
+    "llm-ops",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683273293/icons/flowiseai.png",
+  "website": "https://flowiseai.com/"
+}

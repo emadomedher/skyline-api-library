@@ -1,0 +1,14 @@
+{
+  "id": "factorialhr",
+  "title": "Factorial",
+  "subtitle": "An HR software small & medium-sized businesses. Document manager, reports, Holidays, sick leaves, organizational char...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588161887/catalog/factorialhr/icon128x128.jpg",
+  "website": "https://factorialhr.com/",
+  "docsUrl": "https://apidoc.factorialhr.com/"
+}

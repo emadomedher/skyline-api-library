@@ -1,0 +1,13 @@
+{
+  "id": "campaignercrm",
+  "title": "CampaignerCRM",
+  "subtitle": "CampaignerCRM provides web based CRM software for small to mid-sized businesses. Experience Mobile CRM today. Watch D...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719343/catalog/campaignercrm/icon128x128.png",
+  "website": "https://campaignercrm.com"
+}

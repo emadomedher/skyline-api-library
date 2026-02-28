@@ -1,0 +1,15 @@
+{
+  "id": "josh-ai",
+  "title": "Josh.ai",
+  "subtitle": "Voice Control - Artificial Intelligence - Smart Home Automation",
+  "tags": [
+    "voice-control",
+    "virtual-assistants",
+    "smart-speakers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601846799/icons/josh-ai.jpg",
+  "website": "https://www.josh.ai/"
+}

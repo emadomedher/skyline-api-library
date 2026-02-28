@@ -1,0 +1,14 @@
+{
+  "id": "shopify",
+  "title": "Shopify",
+  "subtitle": "Sell anywhere, to anyone, with Shopify’s ecommerce platform and point of sale features.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png",
+  "website": "https://www.shopify.com/",
+  "docsUrl": "https://shopify.dev"
+}

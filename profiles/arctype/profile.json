@@ -1,0 +1,14 @@
+{
+  "id": "arctype",
+  "title": "Arctype",
+  "subtitle": "Arctype is the fast and easy-to-use database client for writing queries, building dashboards, and sharing data with y...",
+  "tags": [
+    "sql-editors"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471996/icons/arctype.png",
+  "website": "https://arctype.com/",
+  "docsUrl": "https://docs.arctype.com"
+}

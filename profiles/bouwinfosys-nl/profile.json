@@ -1,0 +1,14 @@
+{
+  "id": "bouwinfosys-nl",
+  "title": "BouwInfosys",
+  "subtitle": "BouwInfosys levert de beste ERP software voor de bouw-, infra- en installatiebranche: BouwOffice, InfraOffice, Instal...",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572123105/catalog/bouwinfosys-nl/icon128x128.jpg",
+  "website": "https://www.bouwinfosys.nl/",
+  "docsUrl": "https://www.bouwinfosys.nl/docs/nederland_ict_voorwaarden.pdf"
+}

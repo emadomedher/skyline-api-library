@@ -1,0 +1,13 @@
+{
+  "id": "everfi",
+  "title": "EVERFI",
+  "subtitle": "EVERFI is a pioneer in the Community Engagement industry and serves as a powerful operating system that enables insti...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579607011/catalog/everfi/icon128x128.jpg",
+  "website": "https://everfi.com/"
+}

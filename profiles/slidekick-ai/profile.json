@@ -1,0 +1,13 @@
+{
+  "id": "slidekick-ai",
+  "title": "Slidekick",
+  "subtitle": "Slidekick is your personal AI presentation assistant. It asks you a few questions about the slide deck you want to ma...",
+  "tags": [
+    "presentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640194193/icons/slidekick-ai.png",
+  "website": "https://slidekick.ai/"
+}

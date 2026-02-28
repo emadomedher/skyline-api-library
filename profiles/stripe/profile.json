@@ -1,0 +1,17 @@
+{
+  "id": "stripe",
+  "title": "Stripe",
+  "subtitle": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for busines...",
+  "tags": [
+    "payments",
+    "api",
+    "subscription-billing"
+  ],
+  "category": "Payments",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.yaml",
+  "website": "https://stripe.com/",
+  "docsUrl": "https://stripe.com/docs"
+}

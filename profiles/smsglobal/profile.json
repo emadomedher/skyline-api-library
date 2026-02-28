@@ -1,0 +1,14 @@
+{
+  "id": "smsglobal",
+  "title": "SMSGlobal",
+  "subtitle": "Create bulk SMS campaigns, engage your customers & grow your business with our premium SMS Gateway. Email to SMS, API...",
+  "tags": [
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594088520/icons/smsglobal.png",
+  "website": "https://www.smsglobal.com/",
+  "docsUrl": "https://www.smsglobal.com/developers"
+}

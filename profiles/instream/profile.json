@@ -1,0 +1,13 @@
+{
+  "id": "instream",
+  "title": "InStream",
+  "subtitle": "InStream is an online CRM, which helps build strong relationships with customers. Sign up for free today!",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946908/catalog/instream/icon128x128.png",
+  "website": "https://instream.io"
+}

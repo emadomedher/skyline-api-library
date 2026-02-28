@@ -1,0 +1,13 @@
+{
+  "id": "velocityglobal",
+  "title": "Velocity Global",
+  "subtitle": "Velocity Global lets you hire, pay, and manage talent in 185+ countries. Simplify global workforce management with ou...",
+  "tags": [
+    "remote-hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691960720/icons/velocityglobal.jpg",
+  "website": "https://velocityglobal.com/"
+}

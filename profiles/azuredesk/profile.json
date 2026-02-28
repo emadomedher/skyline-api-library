@@ -1,0 +1,13 @@
+{
+  "id": "azuredesk",
+  "title": "Azuredesk",
+  "subtitle": "Azuredesk API integration",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433202/catalog/azuredesk/icon128x128.png",
+  "website": "https://azuredesk.co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nationbuilder-nexus",
+  "title": "NationBuilder Nexus",
+  "subtitle": "NationBuilder is a community organizing system that brings together a comprehensive suite of tools that today's leade...",
+  "tags": [
+    "management-tools",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305497/catalog/nationbuilder-nexus/icon128x128.png"
+}

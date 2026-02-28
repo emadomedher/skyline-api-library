@@ -1,0 +1,14 @@
+{
+  "id": "florencehc",
+  "title": "Florence Healthcare",
+  "subtitle": "10,000+ sites trust Florence for their eISF, and hundreds of sponsors and CROs turn to Florence for remote site acces...",
+  "tags": [
+    "clinical-trial"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631220844/icons/florencehc.jpg",
+  "website": "https://www.florencehc.com/",
+  "docsUrl": "https://gdpr-info.eu/art-4-gdpr"
+}

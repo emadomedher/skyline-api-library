@@ -1,0 +1,14 @@
+{
+  "id": "carrd-co",
+  "title": "Carrd",
+  "subtitle": "A free platform for building simple, fully responsive one-page sites for pretty much anything.",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567513013/catalog/carrd-co/icon128x128.jpg",
+  "website": "https://carrd.co/",
+  "docsUrl": "https://carrd.co/docs"
+}

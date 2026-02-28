@@ -1,0 +1,13 @@
+{
+  "id": "offerit",
+  "title": "Offerit",
+  "subtitle": "Offerit API integration",
+  "tags": [
+    "affiliate-marketing-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963469/catalog/offerit/icon128x128.png",
+  "website": "https://offerit.com"
+}

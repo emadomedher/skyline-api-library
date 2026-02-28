@@ -1,0 +1,14 @@
+{
+  "id": "cocoonbarcelona",
+  "title": "Cocoon Barcelona",
+  "subtitle": "Cocoon apartments in Barcelona offers you a unique selection of holiday rentals. 100% Barcelona experience for all bu...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612714215/icons/cocoonbarcelona.png",
+  "website": "http://www.cocoonbarcelona.com/"
+}

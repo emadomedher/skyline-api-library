@@ -1,0 +1,14 @@
+{
+  "id": "medialets",
+  "title": "Medialets",
+  "subtitle": "Medialets API integration",
+  "tags": [
+    "ad-creation",
+    "ad-server"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581440206/catalog/medialets/icon128x128.png",
+  "website": "http://www.medialets.com/"
+}

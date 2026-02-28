@@ -1,0 +1,13 @@
+{
+  "id": "nexi-it",
+  "title": "Nexi",
+  "subtitle": "Nexi è la PayTech che costruisce il futuro dei pagamenti digitali in Italia, insieme alle sue Banche Partner, con sol...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595194334/icons/nexi-it.jpg",
+  "website": "https://www.nexi.it/"
+}

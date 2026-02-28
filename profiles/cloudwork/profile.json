@@ -1,0 +1,13 @@
+{
+  "id": "cloudwork",
+  "title": "CloudWork",
+  "subtitle": "The easiest way to sync data between business apps including CRM, Invoicing, Emailing, Support, Project Management an...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719513/catalog/cloudwork/icon128x128.png",
+  "website": "https://cloudwork.com"
+}

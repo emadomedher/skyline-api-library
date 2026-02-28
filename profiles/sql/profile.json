@@ -1,0 +1,13 @@
+{
+  "id": "sql",
+  "title": "SQL",
+  "subtitle": "SQL is a domain-specific language used in programming and designed for managing data held in a relational database ma...",
+  "tags": [
+    "query-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624987893/icons/sql.png",
+  "website": "https://en.wikipedia.org/wiki/SQL"
+}

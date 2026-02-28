@@ -1,0 +1,13 @@
+{
+  "id": "aion-be",
+  "title": "Aion",
+  "subtitle": "Aion API integration",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583189374/catalog/aion-be/icon128x128.png",
+  "website": "https://www.aion.be/"
+}

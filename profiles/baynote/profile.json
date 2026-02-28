@@ -1,0 +1,13 @@
+{
+  "id": "baynote",
+  "title": "Baynote",
+  "subtitle": "Kibo provides cloud commerce solutions you can count on. eCommerce, Order Management, Personalization, and Mobile Poi...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719093/catalog/baynote/icon128x128.jpg",
+  "website": "https://baynote.com"
+}

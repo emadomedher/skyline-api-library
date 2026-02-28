@@ -1,0 +1,15 @@
+{
+  "id": "itembase",
+  "title": "Itembase",
+  "subtitle": "Itembase API integration",
+  "tags": [
+    "e-commerce",
+    "unified-api"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578099361/catalog/itembase/icon128x128.png",
+  "website": "https://www.itembase.com/",
+  "docsUrl": "https://itembase.com/documentation"
+}

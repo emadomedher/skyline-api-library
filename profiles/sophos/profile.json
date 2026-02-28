@@ -1,0 +1,14 @@
+{
+  "id": "sophos",
+  "title": "Sophos",
+  "subtitle": "Cybersecurity Evolved. Advanced Endpoint, EDR, Network, Mobile, Cloud, Wi-Fi, Phishing Email and Encryption Security ...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583189294/catalog/sophos/icon128x128.jpg",
+  "website": "https://www.sophos.com/",
+  "docsUrl": "https://secure2.sophos.com/en-us/support/documentation.aspx"
+}

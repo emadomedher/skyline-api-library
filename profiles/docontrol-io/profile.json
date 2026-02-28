@@ -1,0 +1,13 @@
+{
+  "id": "docontrol-io",
+  "title": "DoControl",
+  "subtitle": "DoControl gives organizations automated, self-service tools to take full control of their SaaS security and prevent S...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414423/icons/docontrol-io.png",
+  "website": "https://www.docontrol.io/"
+}

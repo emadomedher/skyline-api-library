@@ -1,0 +1,15 @@
+{
+  "id": "codility",
+  "title": "Codility",
+  "subtitle": "Codility is a software platform that helps technical recruiters hire and train stronger engineers. Learn how to test ...",
+  "tags": [
+    "technical-skills-screening",
+    "engineering-tests"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581961525/catalog/codility/icon128x128.jpg",
+  "website": "https://www.codility.com/",
+  "docsUrl": "https://www.codility.com/resources/research/2019-developer-report"
+}

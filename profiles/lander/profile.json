@@ -1,0 +1,13 @@
+{
+  "id": "lander",
+  "title": "Lander",
+  "subtitle": "Lander is a powerful online tool that lets you create beautiful Landing Pages with an easy step-by-step process. Buil...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305267/catalog/lander/icon128x128.png",
+  "website": "https://landerapp.com/"
+}

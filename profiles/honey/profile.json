@@ -1,0 +1,13 @@
+{
+  "id": "honey",
+  "title": "Honey",
+  "subtitle": "Honey is a beautiful and intuitive social intranet for your company. Built to connect global teams, share resources, ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946935/catalog/honey/icon128x128.jpg",
+  "website": "https://honey.is"
+}

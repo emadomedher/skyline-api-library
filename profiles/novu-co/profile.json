@@ -1,0 +1,14 @@
+{
+  "id": "novu-co",
+  "title": "Novu",
+  "subtitle": "The ultimate library for managing multi-channel transactional notifications with a single API.",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658260062/icons/novu-co.jpg",
+  "website": "https://novu.co/",
+  "docsUrl": "https://docs.novu.co/overview/introduction"
+}

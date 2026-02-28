@@ -1,0 +1,12 @@
+{
+  "id": "upviral",
+  "title": "UpViral",
+  "subtitle": "UpViral is a referral platform to run viral giveaways and sweepstakes.",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284647/catalog/upviral/icon128x128.png"
+}

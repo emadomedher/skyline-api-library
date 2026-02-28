@@ -1,0 +1,15 @@
+{
+  "id": "swoop-funding",
+  "title": "Swoop Funding",
+  "subtitle": "Swoop simplifies and speeds-up access to loans, grants and equity funding for businesses in the UK & Ireland.",
+  "tags": [
+    "fintech",
+    "lending",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567217505/catalog/swoop-funding/icon128x128.png",
+  "website": "https://swoopfunding.com"
+}

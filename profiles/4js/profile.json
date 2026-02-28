@@ -1,0 +1,15 @@
+{
+  "id": "4js",
+  "title": "Four J's Development Tools",
+  "subtitle": "Welcome to the Four Js Website - - Genero programming: Genero is a development and deployment infrastructure designed...",
+  "tags": [
+    "low-code",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623630/icons/4js.png",
+  "website": "https://4js.com/",
+  "docsUrl": "https://4js.com/download/documentation"
+}

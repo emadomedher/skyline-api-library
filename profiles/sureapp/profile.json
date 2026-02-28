@@ -1,0 +1,14 @@
+{
+  "id": "sureapp",
+  "title": "Sure",
+  "subtitle": "The most sophisticated global brands and carriers rely on Sure's technology to build, launch, and scale digital insur...",
+  "tags": [
+    "insurtech",
+    "embedded-insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612494651/icons/sureapp.jpg",
+  "website": "https://www.sureapp.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "uscreen",
+  "title": "Uscreen",
+  "subtitle": "Uscreen is a fully hosted video platform enabling you to sell and distribute your videos online.",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284650/catalog/uscreen/icon128x128.png"
+}

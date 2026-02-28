@@ -1,0 +1,13 @@
+{
+  "id": "freckle",
+  "title": "Freckle",
+  "subtitle": "Freckle helps you manage your time and see the big picture: which days have you been working? How much, and on what? ...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304980/catalog/freckle/icon128x128.png",
+  "website": "https://letsfreckle.com/"
+}

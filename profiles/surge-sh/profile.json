@@ -1,0 +1,14 @@
+{
+  "id": "surge-sh",
+  "title": "Surge",
+  "subtitle": "Shipping web projects should be fast, easy, and low risk. Surge is static web publishing for Front-End Developers, ri...",
+  "tags": [
+    "developer-tools",
+    "static-web-hosting"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574476965/catalog/surge-sh/icon128x128.png",
+  "website": "https://surge.sh"
+}

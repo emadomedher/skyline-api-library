@@ -1,0 +1,14 @@
+{
+  "id": "eventy-io",
+  "title": "Eventy",
+  "subtitle": "Eventy is the app for user group leaders, conference organisers, speakers, attendees, sponsors and venue owners.",
+  "tags": [
+    "event-management",
+    "meetups"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571121294/catalog/eventy-io/icon128x128.jpg",
+  "website": "https://eventy.io/"
+}

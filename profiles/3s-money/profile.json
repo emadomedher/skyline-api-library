@@ -1,0 +1,14 @@
+{
+  "id": "3s-money",
+  "title": "3S MONEY",
+  "subtitle": "3S Money (also stylised as 3s.money) is a London-based challenger bank, focusing on international trade.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618704569/icons/3s-money.png",
+  "website": "https://www.3s.money/",
+  "docsUrl": "http://demo.api.3s.money/api-docs"
+}

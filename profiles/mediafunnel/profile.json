@@ -1,0 +1,13 @@
+{
+  "id": "mediafunnel",
+  "title": "MediaFunnel",
+  "subtitle": "MediaFunnel API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721062/catalog/mediafunnel/icon128x128.png",
+  "website": "https://mediafunnel.com"
+}

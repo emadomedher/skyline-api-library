@@ -1,0 +1,14 @@
+{
+  "id": "oauth-2",
+  "title": "OAuth 2.0",
+  "subtitle": "OAuth 2.0 API integration",
+  "tags": [
+    "identity",
+    "api"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522275/icons/oauth-2.jpg",
+  "website": "https://oauth.net/2/"
+}

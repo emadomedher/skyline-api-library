@@ -1,0 +1,14 @@
+{
+  "id": "breakcold",
+  "title": "Arnaud Belinga",
+  "subtitle": "Breakcold is your social selling and sales automation software, all in one. Engage and contact prospects with LinkedI...",
+  "tags": [
+    "sales-automation",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657816212/icons/breakcold.jpg",
+  "website": "https://www.breakcold.com/"
+}

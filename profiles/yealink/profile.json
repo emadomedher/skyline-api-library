@@ -1,0 +1,13 @@
+{
+  "id": "yealink",
+  "title": "Yealink",
+  "subtitle": "Yealink (Stock Code: 300628) is a global brand that specializes in video conferencing, voice communications and colla...",
+  "tags": [
+    "video-conferencing-hardware"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631974029/icons/yealink.jpg",
+  "website": "https://www.yealink.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "eznet-crm",
+  "title": "eZnet CRM",
+  "subtitle": "CRM Software for all kind of businesses - we provide remarkable services for managing employees, vendors and partner ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947021/catalog/eznet-crm/icon128x128.png",
+  "website": "https://eznetcrm.com"
+}

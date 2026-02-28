@@ -1,0 +1,14 @@
+{
+  "id": "habito",
+  "title": "Habito",
+  "subtitle": "Don't go through hell to get a mortgage. Habito is a free online mortgage broker – we'll sort it from start to finish...",
+  "tags": [
+    "mortgages",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565432666/catalog/habito/icon128x128.jpg",
+  "website": "https://habito.com"
+}

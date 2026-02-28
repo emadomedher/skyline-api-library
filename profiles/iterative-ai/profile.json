@@ -1,0 +1,13 @@
+{
+  "id": "iterative-ai",
+  "title": "Iterative.ai",
+  "subtitle": "Collaboration platform for data and machine learning projects.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327360/icons/iterative-ai.jpg",
+  "website": "https://iterative.ai"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pennylane",
+  "title": "Pennylane",
+  "subtitle": "Pennylane est la plateforme tout-en-un de gestion financière et comptabilité des dirigeants d'entreprise et de leurs ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568744/icons/pennylane.png",
+  "website": "https://www.pennylane.com/fr/",
+  "docsUrl": "https://pennylane.readme.io/"
+}

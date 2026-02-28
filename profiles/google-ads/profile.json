@@ -1,0 +1,13 @@
+{
+  "id": "google-ads",
+  "title": "Google Ads",
+  "subtitle": "Google Ads (formerly Google AdWords) is an online advertising platform developed by Google, where advertisers pay to ...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633141049/icons/google-ads.jpg",
+  "website": "https://ads.google.com"
+}

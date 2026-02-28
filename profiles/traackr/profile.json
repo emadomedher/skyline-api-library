@@ -1,0 +1,13 @@
+{
+  "id": "traackr",
+  "title": "Traackr",
+  "subtitle": "Traackr is the leading influencer management platform. We help you manage, validate, measure, and scale influencer ma...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722548/catalog/traackr/icon128x128.jpg",
+  "website": "https://traackr.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tellagence",
+  "title": "Tellagence",
+  "subtitle": "Tellagence provides television networks, agencies and brands the ability to \nsegment social tv audiences based on how...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946486/catalog/tellagence/icon128x128.jpg",
+  "website": "https://tellagence.com"
+}

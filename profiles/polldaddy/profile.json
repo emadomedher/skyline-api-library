@@ -1,0 +1,13 @@
+{
+  "id": "polldaddy",
+  "title": "Polldaddy",
+  "subtitle": "Make flexible surveys with Crowdsignal. Collect, organize and analyze data from a variety of sources, including socia...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721539/catalog/polldaddy/icon128x128.jpg",
+  "website": "https://polldaddy.com"
+}

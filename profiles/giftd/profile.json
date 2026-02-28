@@ -1,0 +1,13 @@
+{
+  "id": "giftd",
+  "title": "Giftd",
+  "subtitle": "Инструменты для онлайн-ритейла: повышаем средний чек, удерживаем и возвращаем посетителей, собираем контакты для расс...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946970/catalog/giftd/icon128x128.jpg",
+  "website": "https://giftd.tech"
+}

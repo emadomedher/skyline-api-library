@@ -1,0 +1,13 @@
+{
+  "id": "unifiedfinance",
+  "title": "Unified",
+  "subtitle": "Alternative Digital Banking. Operating from the UK in more than 20 world currencies.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628273026/icons/unifiedfinance.png",
+  "website": "https://unifiedfinance.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mercury-web-parser",
+  "title": "Mercury Web Parser",
+  "subtitle": "Mercury Web Parser takes any web article and returns only the relevant content (e.g., headline, author, body text).",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305433/catalog/mercury-web-parser/icon128x128.png"
+}

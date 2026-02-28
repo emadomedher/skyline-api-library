@@ -1,0 +1,13 @@
+{
+  "id": "akselworks",
+  "title": "Akselworks",
+  "subtitle": "Akselworks API integration",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774773/catalog/akselworks/icon128x128.jpg",
+  "website": "https://powermemo.com"
+}

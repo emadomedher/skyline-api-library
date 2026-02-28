@@ -1,0 +1,14 @@
+{
+  "id": "goose-ai",
+  "title": "Goose",
+  "subtitle": "Stop overpaying for your AI infrastructure. Fully managed NLP-as-a-Service delivered via API",
+  "tags": [
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652053550/icons/goose-ai.jpg",
+  "website": "https://goose.ai/",
+  "docsUrl": "https://goose.ai/docs"
+}

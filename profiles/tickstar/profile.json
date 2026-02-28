@@ -1,0 +1,14 @@
+{
+  "id": "tickstar",
+  "title": "Tickstar",
+  "subtitle": "Peppol infrastructure as a cloud service.",
+  "tags": [
+    "e-invoicing-infrastructure",
+    "consulting-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616586876/icons/tickstar.jpg",
+  "website": "https://www.tickstar.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "automox",
+  "title": "Automox",
+  "subtitle": "Superior Cyber Hygiene - Patch Any System, Any Software, in Any Location in seconds. Cloud-native, automated patch ma...",
+  "tags": [
+    "patch-management",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494237/catalog/automox/icon128x128.png",
+  "website": "https://www.automox.com/",
+  "docsUrl": "https://support.automox.com/en/collections/1600168-automox-product-documentation"
+}

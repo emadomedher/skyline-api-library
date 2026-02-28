@@ -1,0 +1,13 @@
+{
+  "id": "justwatch",
+  "title": "JustWatch",
+  "subtitle": "All your streaming services in one app.",
+  "tags": [
+    "streaming-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592563803/icons/justwatch.png",
+  "website": "https://www.justwatch.com/"
+}

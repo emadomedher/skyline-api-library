@@ -1,0 +1,15 @@
+{
+  "id": "ckeditor",
+  "title": "CKEditor",
+  "subtitle": "Rock-solid, free WYSIWYG editor with collaborative editing, 200+ features, full documentation and support. Join Micro...",
+  "tags": [
+    "text-editors",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579797333/catalog/ckeditor/icon128x128.jpg",
+  "website": "https://ckeditor.com/",
+  "docsUrl": "https://ckeditor.com/docs"
+}

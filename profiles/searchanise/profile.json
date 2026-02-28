@@ -1,0 +1,14 @@
+{
+  "id": "searchanise",
+  "title": "Searchanise",
+  "subtitle": "Smart search & Instant search by Searchanise is an application for an on-site search that provides a fast and relevan...",
+  "tags": [
+    "hosted-search",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586894463/catalog/searchanise/icon128x128.png",
+  "website": "https://www.searchanise.com/"
+}

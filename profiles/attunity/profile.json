@@ -1,0 +1,13 @@
+{
+  "id": "attunity",
+  "title": "Attunity",
+  "subtitle": "Data integration and big data management solutions from Attunity including real-time enterprise data solutions.",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719049/catalog/attunity/icon128x128.jpg",
+  "website": "https://attunity.com"
+}

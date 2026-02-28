@@ -1,0 +1,14 @@
+{
+  "id": "plesk",
+  "title": "Plesk",
+  "subtitle": "Plesk is the only web hosting control panel you'll ever need to build, secure and run websites and applications in th...",
+  "tags": [
+    "hosting-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565280233/catalog/plesk/icon128x128.png",
+  "website": "https://plesk.com",
+  "docsUrl": "https://docs.plesk.com"
+}

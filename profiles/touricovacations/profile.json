@@ -1,0 +1,13 @@
+{
+  "id": "touricovacations",
+  "title": "Tourico Holidays",
+  "subtitle": "Tourico Holidays API integration",
+  "tags": [
+    "wholesalertour-operator"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751536/icons/touricovacations.png",
+  "website": "https://www.touricovacations.com/"
+}

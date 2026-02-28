@@ -1,0 +1,13 @@
+{
+  "id": "clearbit-reveal",
+  "title": "Clearbit Reveal",
+  "subtitle": "Clearbit Reveal API integration",
+  "tags": [
+    "anonymous-traffic-identification",
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439157/catalog/clearbit-reveal/icon128x128.svg"
+}

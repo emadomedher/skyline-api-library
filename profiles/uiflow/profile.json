@@ -1,0 +1,13 @@
+{
+  "id": "uiflow",
+  "title": "UiFlow",
+  "subtitle": "The Fastest Way To Go From Idea to Production",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619985339/icons/uiflow.png",
+  "website": "https://www.uiflow.com/"
+}

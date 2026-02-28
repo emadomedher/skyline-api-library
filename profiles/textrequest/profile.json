@@ -1,0 +1,13 @@
+{
+  "id": "textrequest",
+  "title": "Text Request",
+  "subtitle": "Text Request is an online text messaging service for small businesses. Login from any device to send and receive text...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591173715/icons/textrequest.jpg",
+  "website": "https://www.textrequest.com/"
+}

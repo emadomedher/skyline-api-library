@@ -1,0 +1,14 @@
+{
+  "id": "localazy",
+  "title": "Localazy",
+  "subtitle": "Software & content localization on autopilot. Productive software developers choose Localazy for automated SW i18n an...",
+  "tags": [
+    "localization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640617462/icons/localazy.jpg",
+  "website": "https://localazy.com/",
+  "docsUrl": "https://localazy.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "instant-teleseminar",
+  "title": "Instant Teleseminar",
+  "subtitle": "Instant Teleseminar is a teleseminar, webinar, and telesummit marketing system for coaches, speakers, and marketers. ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720511/catalog/instant-teleseminar/icon128x128.png",
+  "website": "https://instantteleseminar.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "vimcal",
+  "title": "Vimcal",
+  "subtitle": "The world's fastest calendar, beautiful designed for the prosumer.",
+  "tags": [
+    "calendar",
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635622861/icons/vimcal.jpg",
+  "website": "https://www.vimcal.com/"
+}

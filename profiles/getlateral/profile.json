@@ -1,0 +1,13 @@
+{
+  "id": "getlateral",
+  "title": "Lateral Technology",
+  "subtitle": "Lateral Technology offers next generation automation software including \ncredit control software, government debt rec...",
+  "tags": [
+    "debt-collection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606764781/icons/getlateral.png",
+  "website": "https://getlateral.com/"
+}

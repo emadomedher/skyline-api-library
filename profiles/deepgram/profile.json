@@ -1,0 +1,14 @@
+{
+  "id": "deepgram",
+  "title": "Deepgram",
+  "subtitle": "Deepgram helps companies harness the potential of their voice data with intelligent, tailored speech models built to ...",
+  "tags": [
+    "speech-recognition"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584648264/catalog/deepgram/icon128x128.jpg",
+  "website": "https://www.deepgram.com/",
+  "docsUrl": "https://www.deepgram.com/docs"
+}

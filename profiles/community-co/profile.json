@@ -1,0 +1,13 @@
+{
+  "id": "community-co",
+  "title": "Community.co",
+  "subtitle": "At Community.co, our pioneering methodology enables brands to transform their customer base into highly engaged, cura...",
+  "tags": [
+    "community-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653929582/icons/community-co.png",
+  "website": "https://community.co/"
+}

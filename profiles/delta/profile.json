@@ -1,0 +1,14 @@
+{
+  "id": "delta",
+  "title": "Delta Air Lines",
+  "subtitle": "Delta Air Lines, a leader in domestic and international travel, offers airline tickets & flights to over 300 destinat...",
+  "tags": [
+    "airlines",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615785179/icons/delta.jpg",
+  "website": "https://www.delta.com/"
+}

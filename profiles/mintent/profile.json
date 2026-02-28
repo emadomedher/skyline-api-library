@@ -1,0 +1,13 @@
+{
+  "id": "mintent",
+  "title": "Mintent",
+  "subtitle": "Project Management Software Built for Marketers. Create, manage and measure all of your marketing projects in one place.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946819/catalog/mintent/icon128x128.jpg",
+  "website": "https://getmintent.com"
+}

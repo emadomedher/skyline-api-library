@@ -1,0 +1,16 @@
+{
+  "id": "wayscript",
+  "title": "WayScript",
+  "subtitle": "Run Python, Java, and JavaScript in the cloud, automate SQL queries, and seamlessly integrate with your favorite APIs.",
+  "tags": [
+    "developer-tools",
+    "ipaas",
+    "scripting-platforms"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603145936/icons/wayscript.png",
+  "website": "https://wayscript.com/",
+  "docsUrl": "https://docs.wayscript.com"
+}

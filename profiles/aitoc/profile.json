@@ -1,0 +1,13 @@
+{
+  "id": "aitoc",
+  "title": "Aitoc",
+  "subtitle": "Aitoc API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964363/catalog/aitoc/icon128x128.png",
+  "website": "https://aitoc.com"
+}

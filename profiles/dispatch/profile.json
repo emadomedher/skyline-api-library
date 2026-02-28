@@ -1,0 +1,12 @@
+{
+  "id": "dispatch",
+  "title": "Dispatch",
+  "subtitle": "Deliver exceptional customer experiences. Book, track and manage with the world's most powerful on-demand services pl...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304787/catalog/dispatch/icon128x128.png"
+}

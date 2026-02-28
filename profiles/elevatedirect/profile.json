@@ -1,0 +1,14 @@
+{
+  "id": "elevatedirect",
+  "title": "Elevate Direct",
+  "subtitle": "The Elevate AI-Powered sourcing platform seamlessly integrates with your ATS empowering your recruitment consultants ...",
+  "tags": [
+    "candidate-sourcing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642445636/icons/elevatedirect.jpg",
+  "website": "https://www.elevatedirect.com/",
+  "docsUrl": "https://candidates.helpdocs.com"
+}

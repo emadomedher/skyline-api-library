@@ -1,0 +1,14 @@
+{
+  "id": "playpass-be",
+  "title": "PlayPass",
+  "subtitle": "PlayPass is specialized in RFID/NFC Technologies which can be used for Cashless Payment Solutions, Access control, Ac...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567089251/catalog/playpass-be/icon128x128.png",
+  "website": "https://playpass.be",
+  "docsUrl": "https://www.playpass.be/what-we-do"
+}

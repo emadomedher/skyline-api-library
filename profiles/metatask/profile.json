@@ -1,0 +1,12 @@
+{
+  "id": "metatask",
+  "title": "Metatask",
+  "subtitle": "Metatask is a simple tool to organize and control internal processes that lets normal users quickly build and execute...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305441/catalog/metatask/icon128x128.png"
+}

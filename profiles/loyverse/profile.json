@@ -1,0 +1,14 @@
+{
+  "id": "loyverse",
+  "title": "Loyverse",
+  "subtitle": "Transform your smartphone or tablet into a mobile free point of sale. Loyverse POS System for small stores, coffee sh...",
+  "tags": [
+    "advocacy-loyalty-and-referrals",
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720915/catalog/loyverse/icon128x128.jpg",
+  "website": "https://loyverse.com"
+}

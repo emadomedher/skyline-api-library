@@ -1,0 +1,13 @@
+{
+  "id": "emlen-io",
+  "title": "emlen.io",
+  "subtitle": "B2B SaaS solution for Buyer Enablement\nFocus on the buyer experience to save time, accelerate sales, increase convers...",
+  "tags": [
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887443/icons/emlen-io.jpg",
+  "website": "https://www.emlen.io/en/home"
+}

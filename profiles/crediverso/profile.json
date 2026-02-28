@@ -1,0 +1,14 @@
+{
+  "id": "crediverso",
+  "title": "Crediverso",
+  "subtitle": "Crediverso - Get Smarter About Your Credit. Crediverso is here to help you with all your financial decisions.",
+  "tags": [
+    "financial-product-review-websites",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606142363/icons/crediverso.png",
+  "website": "https://crediverso.com/"
+}

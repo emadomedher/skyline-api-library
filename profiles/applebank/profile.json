@@ -1,0 +1,13 @@
+{
+  "id": "applebank",
+  "title": "Apple Bank",
+  "subtitle": "Apple Bank for Savings is a bank holding company headquartered in Manhasset, New York and operating in the New York m...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630375702/icons/applebank.jpg",
+  "website": "https://www.applebank.com/"
+}

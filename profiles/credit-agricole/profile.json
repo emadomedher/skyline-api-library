@@ -1,0 +1,13 @@
+{
+  "id": "credit-agricole",
+  "title": "Crédit Agricole",
+  "subtitle": "Crédit Agricole Group, sometimes called \"la banque verte\" due to its historical ties to farming, is the world's large...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569631990/catalog/credit-agricole/icon128x128.jpg",
+  "website": "https://www.credit-agricole.com/"
+}

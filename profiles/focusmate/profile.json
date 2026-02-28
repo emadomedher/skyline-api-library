@@ -1,0 +1,13 @@
+{
+  "id": "focusmate",
+  "title": "Focusmate",
+  "subtitle": "Focusmate virtual coworking helps you get things done. Create a free account today.",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311400/catalog/focusmate/icon128x128.jpg",
+  "website": "https://www.focusmate.com/"
+}

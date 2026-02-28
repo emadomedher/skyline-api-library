@@ -1,0 +1,13 @@
+{
+  "id": "lunar-app",
+  "title": "Lunar",
+  "subtitle": "Lunar’s banking app makes managing your spending, budget and savings easy with its sublime user experience for both p...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591804547/icons/lunar-app.jpg",
+  "website": "https://lunar.app/"
+}

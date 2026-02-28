@@ -1,0 +1,14 @@
+{
+  "id": "froala",
+  "title": "Froala",
+  "subtitle": "The best WYSIWYG HTML editor. An impressive Javascript rich text editor with mobile support, complete documentation, ...",
+  "tags": [
+    "rich-text-editors"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562106797/catalog/froala/icon128x128.jpg",
+  "website": "https://froala.com",
+  "docsUrl": "https://www.froala.com/wysiwyg-editor/docs"
+}

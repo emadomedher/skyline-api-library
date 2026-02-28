@@ -1,0 +1,13 @@
+{
+  "id": "blendo",
+  "title": "Blendo",
+  "subtitle": "Blendo is a self-serve data integration platform that allows you to collect and sync your data with any data warehous...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719149/catalog/blendo/icon128x128.jpg",
+  "website": "https://blendo.co"
+}

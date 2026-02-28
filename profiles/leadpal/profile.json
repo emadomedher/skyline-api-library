@@ -1,0 +1,13 @@
+{
+  "id": "leadpal",
+  "title": "LeadPal",
+  "subtitle": "Boost your sales with our lead generation services. Highly converting personalized messages will be delivered to your...",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720790/catalog/leadpal/icon128x128.jpg",
+  "website": "https://leadpal.co"
+}

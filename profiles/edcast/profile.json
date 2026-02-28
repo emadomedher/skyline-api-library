@@ -1,0 +1,13 @@
+{
+  "id": "edcast",
+  "title": "EdCast",
+  "subtitle": "Learning Experience, Skilling Experience, Career Mobility platform. Attract Develop and Retain highly productive, hig...",
+  "tags": [
+    "learning-experience-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626657743/icons/edcast.jpg",
+  "website": "https://www.edcast.com/"
+}

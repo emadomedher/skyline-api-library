@@ -1,0 +1,14 @@
+{
+  "id": "wonderdynamics",
+  "title": "Wonder Dynamics",
+  "subtitle": "Wonder Dynamics API integration",
+  "tags": [
+    "video-editing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678546241/icons/wonderdynamics.png",
+  "website": "https://wonderdynamics.com/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlsdly3_mqumeqby-mzcyxhope2yk5buisqecjct0eluqcux4qa/viewform"
+}

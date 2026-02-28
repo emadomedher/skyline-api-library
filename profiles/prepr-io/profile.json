@@ -1,0 +1,14 @@
+{
+  "id": "prepr-io",
+  "title": "Prepr",
+  "subtitle": "We are Prepr, the first headless CMS that combines the power of content and data to help you deliver digital content ...",
+  "tags": [
+    "headless-cms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628557312/icons/prepr-io.jpg",
+  "website": "https://prepr.io/",
+  "docsUrl": "https://developers.prepr.io"
+}

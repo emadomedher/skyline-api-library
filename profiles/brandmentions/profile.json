@@ -1,0 +1,12 @@
+{
+  "id": "brandmentions",
+  "title": "BrandMentions",
+  "subtitle": "BrandMentions is a monitoring tool that helps you find every relevant mention about anyone or anything in a heartbeat.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304536/catalog/brandmentions/icon128x128.png"
+}

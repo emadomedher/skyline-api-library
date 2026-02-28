@@ -1,0 +1,13 @@
+{
+  "id": "channelkonnect",
+  "title": "Channelkonnect",
+  "subtitle": "Secondary Sales Software - An enterprise solution that facilitates brands and its channel partners to collaborate and...",
+  "tags": [
+    "partner-relationship-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437764/icons/channelkonnect.png",
+  "website": "https://www.channelkonnect.com/"
+}

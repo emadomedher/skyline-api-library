@@ -1,0 +1,13 @@
+{
+  "id": "jobdescription-ai",
+  "title": "Job Description AI",
+  "subtitle": "Job description generator. Attract top candidates and diverse talent with inclusive, engaging and SEO optimized job d...",
+  "tags": [
+    "job-description-generators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623349703/icons/jobdescription-ai.jpg",
+  "website": "https://www.jobdescription.ai/"
+}

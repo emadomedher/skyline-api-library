@@ -1,0 +1,13 @@
+{
+  "id": "ooma",
+  "title": "Ooma",
+  "subtitle": "Ooma is a state of the art internet phone service provider for business and home, plus smart security systems. Call 8...",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630869001/icons/ooma.jpg",
+  "website": "https://www.ooma.com/"
+}

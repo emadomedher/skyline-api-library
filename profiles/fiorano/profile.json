@@ -1,0 +1,15 @@
+{
+  "id": "fiorano",
+  "title": "Fiorano Software",
+  "subtitle": "Fiorano Software provides an API-led hybrid integration technology to customers enabling interoperability agility, pr...",
+  "tags": [
+    "open-banking",
+    "psd-2"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738465/catalog/fiorano/icon128x128.jpg",
+  "website": "https://www.fiorano.com/",
+  "docsUrl": "https://www.fiorano.com/resources/product_documentation"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adcrowd",
+  "title": "Adcrowd",
+  "subtitle": "Adcrowd API integration",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432759/catalog/adcrowd/icon128x128.png",
+  "website": "https://adcrowd.com"
+}

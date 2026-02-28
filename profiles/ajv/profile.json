@@ -1,0 +1,15 @@
+{
+  "id": "ajv",
+  "title": "AJV",
+  "subtitle": "The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8...",
+  "tags": [
+    "api-tooling",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628557351/icons/ajv.jpg",
+  "website": "https://ajv.js.org/",
+  "docsUrl": "https://developer.mozilla.org"
+}

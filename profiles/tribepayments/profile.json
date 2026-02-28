@@ -1,0 +1,14 @@
+{
+  "id": "tribepayments",
+  "title": "Tribe Payments",
+  "subtitle": "Tribe Payments API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573703588/catalog/tribepayments/icon128x128.png",
+  "website": "https://www.tribepayments.com/",
+  "docsUrl": "https://www.tribepayments.com/developers"
+}

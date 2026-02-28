@@ -1,0 +1,14 @@
+{
+  "id": "liveblocks-io",
+  "title": "Liveblocks",
+  "subtitle": "Liveblocks is a set of APIs and tools that helps you create performant and reliable collaborative experiences.",
+  "tags": [
+    "real-time-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627571561/icons/liveblocks-io.jpg",
+  "website": "https://liveblocks.io",
+  "docsUrl": "https://liveblocks.io/docs"
+}

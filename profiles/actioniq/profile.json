@@ -1,0 +1,13 @@
+{
+  "id": "actioniq",
+  "title": "ActionIQ",
+  "subtitle": "Learn about the enterprise customer data platform (CDP) that delivers personalized customer experiences at scale, so ...",
+  "tags": [
+    "marketing-analytics-performance-and-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432708/catalog/actioniq/icon128x128.png",
+  "website": "https://actioniq.com"
+}

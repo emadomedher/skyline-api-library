@@ -1,0 +1,14 @@
+{
+  "id": "pliant-io",
+  "title": "Pliant",
+  "subtitle": "Build Robust I.T. Automation for rapidly changing, complex infrastructure. Automate in minutes, not weeks, with Low/N...",
+  "tags": [
+    "infrastructure-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616958168/icons/pliant-io.png",
+  "website": "https://pliant.io/",
+  "docsUrl": "https://netbox.readthedocs.io/en/stable"
+}

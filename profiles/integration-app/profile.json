@@ -1,0 +1,14 @@
+{
+  "id": "integration-app",
+  "title": "Integration.app",
+  "subtitle": "Integrating your app with everything else your customers use has never been this simple.",
+  "tags": [
+    "embedded-ipaas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681847251/icons/integration-app.jpg",
+  "website": "https://integration.app/",
+  "docsUrl": "https://docs.integration.app"
+}

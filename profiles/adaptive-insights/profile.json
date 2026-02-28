@@ -1,0 +1,13 @@
+{
+  "id": "adaptive-insights",
+  "title": "Adaptive Insights",
+  "subtitle": "Plan better. Budget faster. Forecast smarter. Adaptive Insights, a Workday company, makes financial planning software...",
+  "tags": [
+    "budgeting-and-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717121/catalog/adaptive-insights/icon128x128.jpg",
+  "website": "https://adaptiveinsights.com"
+}

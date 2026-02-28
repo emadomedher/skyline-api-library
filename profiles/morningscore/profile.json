@@ -1,0 +1,13 @@
+{
+  "id": "morningscore",
+  "title": "Morningscore",
+  "subtitle": "Morningscore API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963541/catalog/morningscore/icon128x128.png",
+  "website": "https://morningscore.io"
+}

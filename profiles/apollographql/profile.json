@@ -1,0 +1,16 @@
+{
+  "id": "apollographql",
+  "title": "Apollo",
+  "subtitle": "Apollo Data Graph Platform— unify APIs, microservices, and databases into a data graph that you can query with GraphQL",
+  "tags": [
+    "graphql",
+    "developer-tools",
+    "api"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571955932/catalog/apollographql/icon128x128.jpg",
+  "website": "https://www.apollographql.com/",
+  "docsUrl": "https://www.apollographql.com/docs"
+}

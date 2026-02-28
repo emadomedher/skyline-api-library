@@ -1,0 +1,13 @@
+{
+  "id": "senseon-io",
+  "title": "Senseon",
+  "subtitle": "Senseon's award-winning cybersecurity platform uses unique 'AI \nTriangulation' to automate threat detection and respo...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580407140/catalog/senseon-io/icon128x128.jpg",
+  "website": "https://senseon.io"
+}

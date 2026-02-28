@@ -1,0 +1,13 @@
+{
+  "id": "adobe-photoshop",
+  "title": "Adobe Photoshop",
+  "subtitle": "Adobe Photoshop API integration",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564834281/catalog/adobe-photoshop/icon128x128.png",
+  "website": "https://www.adobe.com/products/photoshopfamily.html"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "nets-eu",
+  "title": "Nets Group",
+  "subtitle": "We help financial institutions, businesses and merchants make tomorrow easier for their customers while delivering un...",
+  "tags": [
+    "payments",
+    "account-to-account-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589177243/catalog/nets-eu/icon128x128.jpg",
+  "website": "https://www.nets.eu/",
+  "docsUrl": "https://www.nets.eu/developer"
+}

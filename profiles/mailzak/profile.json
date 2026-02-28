@@ -1,0 +1,13 @@
+{
+  "id": "mailzak",
+  "title": "MailZak",
+  "subtitle": "MailZak makes your email marketing effective and effortless. We do the heavy lifting so you can focus on your custome...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721000/catalog/mailzak/icon128x128.jpg",
+  "website": "https://mailzak.com"
+}

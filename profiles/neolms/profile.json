@@ -1,0 +1,13 @@
+{
+  "id": "neolms",
+  "title": "NEO LMS",
+  "subtitle": "NEO is a cloud-hosted LMS for Schools and Universities that boosts student engagement and makes teaching easier",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892871/catalog/neolms/icon128x128.png",
+  "website": "https://www.neolms.com/"
+}

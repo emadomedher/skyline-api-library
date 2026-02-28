@@ -1,0 +1,12 @@
+{
+  "id": "route4me",
+  "title": "Route4Me",
+  "subtitle": "Route4Me optimizes where, when, and how your people, vehicles, assets, and routes should work.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305912/catalog/route4me/icon128x128.png"
+}

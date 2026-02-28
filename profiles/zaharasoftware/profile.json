@@ -1,0 +1,13 @@
+{
+  "id": "zaharasoftware",
+  "title": "Zahara",
+  "subtitle": "Zahara Software is all-in-one cloud based advanced AP automation solution that easily manage, raise ,approve purchase...",
+  "tags": [
+    "ap-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674851868/icons/zaharasoftware.jpg",
+  "website": "https://www.zaharasoftware.com/"
+}

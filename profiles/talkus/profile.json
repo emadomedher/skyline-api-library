@@ -1,0 +1,13 @@
+{
+  "id": "talkus",
+  "title": "Talkus",
+  "subtitle": "Talkus turns Slack into a simple help desk platform. Get all the necessary tools to provide awesome experiences to yo...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722440/catalog/talkus/icon128x128.jpg",
+  "website": "https://talkus.io"
+}

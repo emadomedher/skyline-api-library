@@ -1,0 +1,15 @@
+{
+  "id": "zorabots",
+  "title": "ZORA ROBOT",
+  "subtitle": "ZORA ROBOT API integration",
+  "tags": [
+    "robotics"
+  ],
+  "category": "Other",
+  "specType": "asyncapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616474888/icons/zorabots.png",
+  "specUrl": "https://bitbucket.org/qbmt/zbos-mqtt-api/raw/25ee18cee0db90d9f370e0bcf1bfbb6fbb7621ce/zbos_mqtt-all-asyncapi.json",
+  "website": "https://zorabots.be/",
+  "docsUrl": "https://docs.zorabots.be"
+}

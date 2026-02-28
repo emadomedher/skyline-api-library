@@ -1,0 +1,13 @@
+{
+  "id": "lolli",
+  "title": "Lolli",
+  "subtitle": "Lolli is a rewards application that gives you bitcoin when you shop at your favorite stores.",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963655/catalog/lolli/icon128x128.png",
+  "website": "https://lolli.com"
+}

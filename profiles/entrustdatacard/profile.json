@@ -1,0 +1,14 @@
+{
+  "id": "entrustdatacard",
+  "title": "Entrust Datacard",
+  "subtitle": "Consumers, citizens and employees increasingly expect anywhere-anytime experiences—whether they are making purchases,...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584964339/catalog/entrustdatacard/icon128x128.png",
+  "website": "https://www.entrustdatacard.com/",
+  "docsUrl": "https://www.entrustdatacard.com/resource-center/documents/documentation"
+}

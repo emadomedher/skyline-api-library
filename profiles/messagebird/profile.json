@@ -1,0 +1,15 @@
+{
+  "id": "messagebird",
+  "title": "MessageBird",
+  "subtitle": "Reach 7 billion phones in seconds via SMS, Chat & Voice. Try it for free and improve your communication.",
+  "tags": [
+    "chat-and-messaging-api",
+    "sms"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305436/catalog/messagebird/icon128x128.png",
+  "website": "https://messagebird.com",
+  "docsUrl": "https://developers.messagebird.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ecomexpress-in",
+  "title": "Ecom-Express",
+  "subtitle": "Ecom-Express API integration",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589238926/catalog/ecomexpress-in/icon128x128.png",
+  "website": "https://ecomexpress.in/"
+}

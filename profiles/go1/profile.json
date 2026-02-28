@@ -1,0 +1,13 @@
+{
+  "id": "go1",
+  "title": "GO1",
+  "subtitle": "GO1 is an online training marketplace helping companies find, book, deliver and track their employee capability and c...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305034/catalog/go1/icon128x128.png",
+  "website": "https://www.go1.com/"
+}

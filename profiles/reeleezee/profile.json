@@ -1,0 +1,12 @@
+{
+  "id": "reeleezee",
+  "title": "Reeleezee",
+  "subtitle": "Real easy boekhouden in de cloud voor de ondernemer die zelf zijn administratie wil doen, of in samenwerking met een ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256968/catalog/reeleezee/icon128x128.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "delhivery",
+  "title": "Delhivery",
+  "subtitle": "Delhivery Private Limited is India's largest B2B & C2C Logistic Courier Service Provider in India. We provide fastest...",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589208747/catalog/delhivery/icon128x128.png",
+  "website": "https://www.delhivery.com/",
+  "docsUrl": "https://www.delhivery.com/docs/csrpolicy.pdf"
+}

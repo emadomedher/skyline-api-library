@@ -1,0 +1,14 @@
+{
+  "id": "nium",
+  "title": "NIUM",
+  "subtitle": "The world's payment infrastructure in a single API integration. Embed global payment services for Pay Out, Pay In and...",
+  "tags": [
+    "crypto-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635814189/icons/nium.jpg",
+  "website": "https://www.nium.com/",
+  "docsUrl": "https://docs.nium.com"
+}

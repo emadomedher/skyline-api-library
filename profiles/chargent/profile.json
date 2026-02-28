@@ -1,0 +1,15 @@
+{
+  "id": "chargent",
+  "title": "Chargent",
+  "subtitle": "Chargent API integration",
+  "tags": [
+    "payments",
+    "salesforce"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563110758/catalog/chargent/icon128x128.png",
+  "website": "https://appfrontier.com",
+  "docsUrl": "https://www.appfrontier.com/support.html"
+}

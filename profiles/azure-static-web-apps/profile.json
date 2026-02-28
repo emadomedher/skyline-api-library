@@ -1,0 +1,15 @@
+{
+  "id": "azure-static-web-apps",
+  "title": "App Service Static Web Apps",
+  "subtitle": "A modern web app service that offers streamlined full-stack development from source code to global high availability.",
+  "tags": [
+    "developer-tools",
+    "static-site-hosting",
+    "jamstack"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075913/icons/azure-static-web-apps.png",
+  "website": "https://azure.microsoft.com/en-us/services/app-service/static/"
+}

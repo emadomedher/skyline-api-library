@@ -1,0 +1,13 @@
+{
+  "id": "adobe-acrobat",
+  "title": "Adobe Acrobat",
+  "subtitle": "Adobe Acrobat API integration",
+  "tags": [
+    "pdf-readers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941510/icons/adobe-acrobat.jpg",
+  "website": "https://get.adobe.com/reader/"
+}

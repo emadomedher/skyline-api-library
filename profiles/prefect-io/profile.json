@@ -1,0 +1,15 @@
+{
+  "id": "prefect-io",
+  "title": "Prefect",
+  "subtitle": "Prefect API integration",
+  "tags": [
+    "data-pipelines",
+    "dataflow-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570907105/catalog/prefect-io/icon128x128.jpg",
+  "website": "https://www.prefect.io/",
+  "docsUrl": "https://docs.prefect.io"
+}

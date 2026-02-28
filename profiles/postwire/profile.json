@@ -1,0 +1,13 @@
+{
+  "id": "postwire",
+  "title": "Postwire",
+  "subtitle": "Automatically keep your sales and account reps up to date with all of the content you're producing.  Enable them to e...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436578/catalog/postwire/icon128x128.png",
+  "website": "https://postwire.com"
+}

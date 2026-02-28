@@ -1,0 +1,14 @@
+{
+  "id": "affine-pro",
+  "title": "AFFiNE",
+  "subtitle": "AFFiNE API integration",
+  "tags": [
+    "notes",
+    "open-source"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "bearer",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660740399/icons/affine-pro.jpg",
+  "website": "https://affine.pro/"
+}

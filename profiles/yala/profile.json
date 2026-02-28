@@ -1,0 +1,13 @@
+{
+  "id": "yala",
+  "title": "Yala",
+  "subtitle": "Yala - Social Video Ads",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946326/catalog/yala/icon128x128.jpg",
+  "website": "https://yala.social"
+}

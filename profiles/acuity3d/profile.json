@@ -1,0 +1,13 @@
+{
+  "id": "acuity3d",
+  "title": "Acuity3D",
+  "subtitle": "Acuity, a Salesforce AppExchange Partner, is a Smart Process Automation (SPA) software company that uses AI technolog...",
+  "tags": [
+    "sales-automation-enablement-and-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432720/catalog/acuity3d/icon128x128.png",
+  "website": "https://acuitysds.com"
+}

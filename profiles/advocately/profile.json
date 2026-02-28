@@ -1,0 +1,13 @@
+{
+  "id": "advocately",
+  "title": "Advocately",
+  "subtitle": "Advocately is an intuitive platform for managing and mobilising your happiest customers.",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947306/catalog/advocately/icon128x128.jpg",
+  "website": "https://advocate.ly"
+}

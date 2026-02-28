@@ -1,0 +1,14 @@
+{
+  "id": "udemy",
+  "title": "Udemy",
+  "subtitle": "Udemy is an online learning and teaching marketplace with over 100,000 courses and 24 million students. Learn program...",
+  "tags": [
+    "online-courses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578991285/catalog/udemy/icon128x128.png",
+  "website": "https://www.udemy.com/",
+  "docsUrl": "https://www.udemy.com/course/the-web-developer-bootcamp"
+}

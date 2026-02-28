@@ -1,0 +1,13 @@
+{
+  "id": "feedback-company",
+  "title": "Feedback Company",
+  "subtitle": "Collect company reviews, product reviews & gain customer insights. Create trust, improve findability, and grow your b...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720063/catalog/feedback-company/icon128x128.jpg",
+  "website": "https://feedbackcompany.com"
+}

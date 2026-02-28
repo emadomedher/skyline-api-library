@@ -1,0 +1,14 @@
+{
+  "id": "surveysensum",
+  "title": "SURVEYSENSUM",
+  "subtitle": "SurveySensum is an Ai-Enabled Experience Management Platform helps brands to decode customers feedback into actionabl...",
+  "tags": [
+    "survey",
+    "customer-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794269/icons/surveysensum.jpg",
+  "website": "https://www.surveysensum.com/"
+}

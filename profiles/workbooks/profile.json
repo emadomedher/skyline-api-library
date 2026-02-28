@@ -1,0 +1,13 @@
+{
+  "id": "workbooks",
+  "title": "Workbooks CRM",
+  "subtitle": "Workbooks CRM is specifically designed for mid-sized and growing companies. Run marketing campaigns, capture leads, c...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306532/catalog/workbooks/icon128x128.png",
+  "website": "https://workbooks.com"
+}

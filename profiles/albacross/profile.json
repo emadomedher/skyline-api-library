@@ -1,0 +1,14 @@
+{
+  "id": "albacross",
+  "title": "Albacross",
+  "subtitle": "Capture leads from companies that visit your website, see their business information, and the contacts of the key dec...",
+  "tags": [
+    "lead-generation",
+    "anonymous-traffic-identification"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284438/catalog/albacross/icon128x128.png",
+  "website": "https://albacross.com"
+}

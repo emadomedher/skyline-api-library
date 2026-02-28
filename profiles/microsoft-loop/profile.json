@@ -1,0 +1,14 @@
+{
+  "id": "microsoft-loop",
+  "title": "Microsoft Loop",
+  "subtitle": "Introducing Microsoft Loop, the new app that combines a powerful and flexible canvas with components that stay in syn...",
+  "tags": [
+    "visual-collaboration",
+    "collaborative-canvas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636511344/icons/microsoft-loop.png",
+  "website": "https://www.microsoft.com/en-us/microsoft-loop"
+}

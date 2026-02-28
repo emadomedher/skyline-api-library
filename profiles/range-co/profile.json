@@ -1,0 +1,13 @@
+{
+  "id": "range-co",
+  "title": "Range",
+  "subtitle": "Range helps teams know what’s happening, stay in sync, and actually feel like a team. It’s thoughtfully designed soft...",
+  "tags": [
+    "team-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562812098/catalog/range-co/icon128x128.jpg",
+  "website": "https://range.co"
+}

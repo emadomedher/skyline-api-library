@@ -1,0 +1,16 @@
+{
+  "id": "passbase",
+  "title": "Passbase",
+  "subtitle": "Passbase offers a full-stack Identity Verification solution for Your Business. Integrate seamless, bank-level identit...",
+  "tags": [
+    "kyc",
+    "identity-verification",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569446911/catalog/passbase/icon128x128.png",
+  "website": "https://www.passbase.com/",
+  "docsUrl": "https://passbase.com/docs"
+}

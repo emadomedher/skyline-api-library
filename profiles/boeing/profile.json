@@ -1,0 +1,14 @@
+{
+  "id": "boeing",
+  "title": "Boeing",
+  "subtitle": "Welcome to the official corporate site for the world's largest aerospace company and leading manufacturer of commerci...",
+  "tags": [
+    "airliner-manufacturers",
+    "aerospace"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621797229/icons/boeing.jpg",
+  "website": "https://www.boeing.com/"
+}

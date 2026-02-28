@@ -1,0 +1,13 @@
+{
+  "id": "mondovo",
+  "title": "Mondovo",
+  "subtitle": "Mondovo API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435956/catalog/mondovo/icon128x128.png",
+  "website": "https://mondovo.com"
+}

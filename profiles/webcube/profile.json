@@ -1,0 +1,13 @@
+{
+  "id": "webcube",
+  "title": "Webcube",
+  "subtitle": "eCommerce & CMS together at last! Web Cube is the seamless integration between your website content & your eCommerce ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828005/catalog/webcube/icon128x128.jpg",
+  "website": "https://getwebcube.com"
+}

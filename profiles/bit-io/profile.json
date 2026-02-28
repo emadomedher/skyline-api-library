@@ -1,0 +1,15 @@
+{
+  "id": "bit-io",
+  "title": "bit.io",
+  "subtitle": "bit.io API integration",
+  "tags": [
+    "data-sharing",
+    "database-tooling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616205761/icons/bit-io.jpg",
+  "website": "https://bit.io/",
+  "docsUrl": "https://docs.bit.io"
+}

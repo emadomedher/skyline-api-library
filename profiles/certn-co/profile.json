@@ -1,0 +1,13 @@
+{
+  "id": "certn-co",
+  "title": "Certn",
+  "subtitle": "Fast, compliant, affordable criminal & other background checks for businesses, landlords, property managers & others....",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602198692/icons/certn-co.png",
+  "website": "https://certn.co/"
+}

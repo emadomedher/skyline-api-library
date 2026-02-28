@@ -1,0 +1,14 @@
+{
+  "id": "cronofy",
+  "title": "Cronofy",
+  "subtitle": "Calendar API connectivity for enterprise applications. Build secure, real-time, two-way calendar integration without ...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559327923/catalog/cronofy/icon128x128.jpg",
+  "website": "https://cronofy.com",
+  "docsUrl": "https://www.cronofy.com"
+}

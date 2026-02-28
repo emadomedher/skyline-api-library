@@ -1,0 +1,13 @@
+{
+  "id": "selz",
+  "title": "Selz",
+  "subtitle": "Selz is a seriously simple way to create an online store, and sell from existing websites and your social networks.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305996/catalog/selz/icon128x128.png",
+  "website": "https://selz.com/"
+}

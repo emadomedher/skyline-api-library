@@ -1,0 +1,14 @@
+{
+  "id": "dealnotes-io",
+  "title": "Dealnotes",
+  "subtitle": "Dealnotes API integration",
+  "tags": [
+    "sales-notes",
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635541647/icons/dealnotes-io.svg",
+  "website": "https://dealnotes.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "backtrace-io",
+  "title": "Backtrace",
+  "subtitle": "Backtrace shortens crash and exception debugging time through automated capture, monitoring, deduplication, symbolica...",
+  "tags": [
+    "error-management",
+    "error-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582966237/catalog/backtrace-io/icon128x128.jpg",
+  "website": "https://backtrace.io/"
+}

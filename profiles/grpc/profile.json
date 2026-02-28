@@ -1,0 +1,15 @@
+{
+  "id": "grpc",
+  "title": "gRPC",
+  "subtitle": "A high-performance, open source universal RPC framework",
+  "tags": [
+    "frameworks",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597482079/icons/grpc.png",
+  "website": "https://grpc.io/",
+  "docsUrl": "https://grpc.io/docs"
+}

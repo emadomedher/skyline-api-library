@@ -1,0 +1,15 @@
+{
+  "id": "usetilt",
+  "title": "Tilt Property Software",
+  "subtitle": "Property lettings and sales software solutions for estate agencies, letting agents and landlords. Formerly RentPro. S...",
+  "tags": [
+    "proptech",
+    "pms",
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302462/icons/usetilt.png",
+  "website": "https://www.usetilt.com/"
+}

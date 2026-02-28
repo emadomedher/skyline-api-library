@@ -1,0 +1,14 @@
+{
+  "id": "lancerkit",
+  "title": "Lancerkit",
+  "subtitle": "Lancerkit provides everything a freelancer needs to succeed in the digital economy, from document generation to invoi...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677089611/icons/lancerkit.jpg",
+  "website": "https://lancerkit.com/",
+  "docsUrl": "https://apidoc.lancerkit.com"
+}

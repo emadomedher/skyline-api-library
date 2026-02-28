@@ -1,0 +1,13 @@
+{
+  "id": "websphere-application-server",
+  "title": "IBM",
+  "subtitle": "Explore IBM WebSphere Application Server products — the most advanced application server for building and running Jav...",
+  "tags": [
+    "application-servers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231771/icons/websphere-application-server.jpg",
+  "website": "https://www.ibm.com/be-en/cloud/websphere-application-server"
+}

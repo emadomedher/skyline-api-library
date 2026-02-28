@@ -1,0 +1,15 @@
+{
+  "id": "payhawk",
+  "title": "Payhawk",
+  "subtitle": "Payhawk API integration",
+  "tags": [
+    "expense-management",
+    "fintech",
+    "spend-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584551409/catalog/payhawk/icon128x128.png",
+  "website": "https://payhawk.com/"
+}

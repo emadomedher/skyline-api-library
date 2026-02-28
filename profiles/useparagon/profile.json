@@ -1,0 +1,17 @@
+{
+  "id": "useparagon",
+  "title": "Paragon",
+  "subtitle": "Scale your business faster by building workflows to automate tasks, integrate APIs, and connect data across your comp...",
+  "tags": [
+    "low-code",
+    "integrations",
+    "devops",
+    "workflow-builders"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595961334/icons/useparagon.jpg",
+  "website": "https://www.useparagon.com/",
+  "docsUrl": "https://docs.useparagon.com/docs/functions"
+}

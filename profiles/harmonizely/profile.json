@@ -1,0 +1,14 @@
+{
+  "id": "harmonizely",
+  "title": "Harmonizely",
+  "subtitle": "Harmonizely is an app that helps you to find the right meetings times and schedule meetings directly in your online c...",
+  "tags": [
+    "calendar-scheduling",
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588621981/catalog/harmonizely/icon128x128.jpg",
+  "website": "https://harmonizely.com/"
+}

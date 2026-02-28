@@ -1,0 +1,13 @@
+{
+  "id": "bpay-au",
+  "title": "BPAY",
+  "subtitle": "BPAY lets you keep track of bills and pay them securely from within your online banking. An easy way to pay bills. Sa...",
+  "tags": [
+    "business-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629140722/icons/bpay-au.jpg",
+  "website": "https://bpay.com.au/"
+}

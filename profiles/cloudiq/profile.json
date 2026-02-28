@@ -1,0 +1,13 @@
+{
+  "id": "cloudiq",
+  "title": "Cloud.IQ",
+  "subtitle": "Cloud.IQ API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433795/catalog/cloudiq/icon128x128.png",
+  "website": "https://cloud-iq.com"
+}

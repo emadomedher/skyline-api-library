@@ -1,0 +1,14 @@
+{
+  "id": "t-mobile",
+  "title": "T-Mobile",
+  "subtitle": "T-Mobile, is an American wireless network operator. Its largest shareholder is the German telecommunications company ...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591653396/icons/t-mobile.jpg",
+  "website": "https://www.t-mobile.com/",
+  "docsUrl": "https://developer.t-mobile.com/"
+}

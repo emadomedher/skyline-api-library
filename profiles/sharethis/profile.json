@@ -1,0 +1,13 @@
+{
+  "id": "sharethis",
+  "title": "ShareThis",
+  "subtitle": "Customize, download and install our easy-to-use share buttons and other publishing tools for your website or blog. Gr...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946607/catalog/sharethis/icon128x128.jpg",
+  "website": "https://sharethis.com"
+}

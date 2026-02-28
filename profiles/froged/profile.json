@@ -1,0 +1,14 @@
+{
+  "id": "froged",
+  "title": "FROGED",
+  "subtitle": "Discover Customer Experience tools to scale your business. Reduce churn, improve onboarding & provide customer suppor...",
+  "tags": [
+    "customer-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568767/icons/froged.jpg",
+  "website": "https://froged.com/",
+  "docsUrl": "https://support.froged.com/docs/en/88370705-whatsapp-integration"
+}

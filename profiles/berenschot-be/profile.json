@@ -1,0 +1,14 @@
+{
+  "id": "berenschot-be",
+  "title": "Berenschot",
+  "subtitle": "De groep Berenschot, met ruim 350 medewerkers in de Benelux-landen, is sedert meer dan 80 jaar actief, zowel in de pr...",
+  "tags": [
+    "hr-advice",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602235657/icons/berenschot-be.jpg",
+  "website": "https://www.berenschot.be/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "postman",
+  "title": "Postman",
+  "subtitle": "Postman is the only complete API development environment used by more than 6 million developers and 200,000 companies...",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559140985/catalog/postman/icon128x128.jpg",
+  "website": "https://getpostman.com",
+  "docsUrl": "https://learning.postman.com/docs/developer/intro-api/"
+}

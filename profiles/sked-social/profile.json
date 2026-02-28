@@ -1,0 +1,13 @@
+{
+  "id": "sked-social",
+  "title": "Sked Social",
+  "subtitle": "Meet Sked Social, the only all-in-one Instagram scheduler you'll ever need. Plan and automatically post your spicy vi...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722116/catalog/sked-social/icon128x128.jpg",
+  "website": "https://skedsocial.com"
+}

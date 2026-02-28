@@ -1,0 +1,16 @@
+{
+  "id": "paylocity",
+  "title": "Paylocity",
+  "subtitle": "Discover our unified HCM platform that drives strategic decision-making in the areas of benefits, core HR, payroll, t...",
+  "tags": [
+    "hris",
+    "human-capital-management",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264825/catalog/paylocity/icon128x128.png",
+  "website": "https://www.paylocity.com/",
+  "docsUrl": "https://docs.paylocity.com/weblink/guides/Paylocity_Web_Services_API/Paylocity_Web_Services_API.htm"
+}

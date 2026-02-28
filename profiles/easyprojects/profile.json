@@ -1,0 +1,13 @@
+{
+  "id": "easyprojects",
+  "title": "EasyProjects",
+  "subtitle": "Ranked as Enterprise and Portfolio Project Management Software Leader in 2018. Includes time tracking, budgeting, res...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775060/catalog/easyprojects/icon128x128.jpg",
+  "website": "https://easyprojects.net"
+}

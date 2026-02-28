@@ -1,0 +1,13 @@
+{
+  "id": "picreel",
+  "title": "Picreel",
+  "subtitle": "Picreel provides exit offers for your website to allow you recover abandoning visitors and improve your conversion ra...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305660/catalog/picreel/icon128x128.png",
+  "website": "https://picreel.com"
+}

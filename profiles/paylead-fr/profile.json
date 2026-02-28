@@ -1,0 +1,14 @@
+{
+  "id": "paylead-fr",
+  "title": "PayLead",
+  "subtitle": "We create personalized and effortless rewards experiences in consumer daily banking applications that drive online an...",
+  "tags": [
+    "card-linked-loyalty"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612488684/icons/paylead-fr.jpg",
+  "website": "https://www.paylead.fr/",
+  "docsUrl": "https://github.com/redocly/redoc"
+}

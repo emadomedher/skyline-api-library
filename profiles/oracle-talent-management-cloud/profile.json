@@ -1,0 +1,14 @@
+{
+  "id": "oracle-talent-management-cloud",
+  "title": "Oracle Talent Management Cloud",
+  "subtitle": "Oracle Talent Management Cloud API integration",
+  "tags": [
+    "talent-management",
+    "recruiting"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574193796/catalog/oracle-talent-management-cloud/icon128x128.jpg",
+  "website": "https://www.oracle.com/applications/taleo.html"
+}

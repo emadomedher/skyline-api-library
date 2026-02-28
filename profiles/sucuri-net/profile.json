@@ -1,0 +1,13 @@
+{
+  "id": "sucuri-net",
+  "title": "Sucuri",
+  "subtitle": "A website security & protection platform that delivers peace of mind. Stop worrying about website security threats an...",
+  "tags": [
+    "website-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565624055/catalog/sucuri-net/icon128x128.png",
+  "website": "https://sucuri.net/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "salestarget",
+  "title": "SalesTarget",
+  "subtitle": "SalesTarget is a leading Sales Acceleration Software application.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830024/catalog/salestarget/icon128x128.png",
+  "website": "https://salestarget.io"
+}

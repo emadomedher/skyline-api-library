@@ -1,0 +1,13 @@
+{
+  "id": "iboss",
+  "title": "iboss",
+  "subtitle": "Secure Internet access on any device, from any location, in the cloud",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632178777/icons/iboss.jpg",
+  "website": "https://www.iboss.com/"
+}

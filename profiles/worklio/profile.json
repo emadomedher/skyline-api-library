@@ -1,0 +1,13 @@
+{
+  "id": "worklio",
+  "title": "Worklio",
+  "subtitle": "Build your own payroll + PEO product in weeks not years. Increase profits up to 2X vs other solutions with a robust p...",
+  "tags": [
+    "embedded-payroll"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660569856/icons/worklio.jpg",
+  "website": "https://www.worklio.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "niceincontact",
+  "title": "NICE CXone",
+  "subtitle": "Cloud contact center software – move your business forward with NICE CXone cloud contact center software. Our custome...",
+  "tags": [
+    "cloud-contact-center"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633532388/icons/niceincontact.jpg",
+  "website": "https://www.niceincontact.com/",
+  "docsUrl": "https://developer.niceincontact.com"
+}

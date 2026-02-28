@@ -1,0 +1,13 @@
+{
+  "id": "ivvy-venues",
+  "title": "iVvy Venues",
+  "subtitle": "iVvy",
+  "tags": [
+    "venue-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565607099/catalog/ivvy-venues/icon128x128.png",
+  "website": "https://www.ivvy.com.au/venues"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "good-co",
+  "title": "Good&Co",
+  "subtitle": "Good&Co's next generation culture-fit assessments matches you to your dream job, keeps teams motivated and engaged, a...",
+  "tags": [
+    "hiring",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567028572/catalog/good-co/icon128x128.jpg",
+  "website": "https://good.co/"
+}

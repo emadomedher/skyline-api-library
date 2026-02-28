@@ -1,0 +1,14 @@
+{
+  "id": "vuepress",
+  "title": "VuePress",
+  "subtitle": "Vue-powered Static Site Generator",
+  "tags": [
+    "static-site-generators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606542543/icons/vuepress.png",
+  "website": "https://vuepress.vuejs.org/",
+  "docsUrl": "https://v0.vuepress.vuejs.org"
+}

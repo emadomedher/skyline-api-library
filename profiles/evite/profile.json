@@ -1,0 +1,13 @@
+{
+  "id": "evite",
+  "title": "Evite",
+  "subtitle": "Send online invitations for all occasions by email or text message. Create invites for birthdays, baby showers, save ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947040/catalog/evite/icon128x128.png",
+  "website": "https://evite.com"
+}

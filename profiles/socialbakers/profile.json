@@ -1,0 +1,13 @@
+{
+  "id": "socialbakers",
+  "title": "Socialbakers",
+  "subtitle": "Manage and measure everything from social media to your audiences in one place. Discover your customer personas, what...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946565/catalog/socialbakers/icon128x128.jpg",
+  "website": "https://socialbakers.com"
+}

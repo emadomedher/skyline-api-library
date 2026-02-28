@@ -1,0 +1,13 @@
+{
+  "id": "conversica",
+  "title": "Conversica",
+  "subtitle": "Conversational AI Software For Marketing, Sales & Customer Success",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826173/catalog/conversica/icon128x128.jpg",
+  "website": "https://conversica.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "oxwall",
+  "title": "Oxwall",
+  "subtitle": "Turnkey solutions for your social community. Custom projects with personal customer service. Create your own social n...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963404/catalog/oxwall/icon128x128.png",
+  "website": "https://oxwall.com"
+}

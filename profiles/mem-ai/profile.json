@@ -1,0 +1,13 @@
+{
+  "id": "mem-ai",
+  "title": "Mem",
+  "subtitle": "Let AI organize your team’s work—from meeting notes, projects, to knowledge bases. All instantly searchable and readi...",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668171285/icons/mem-ai.png",
+  "website": "https://get.mem.ai/"
+}

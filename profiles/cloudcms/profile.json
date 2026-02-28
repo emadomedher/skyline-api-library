@@ -1,0 +1,13 @@
+{
+  "id": "cloudcms",
+  "title": "CloudCMS",
+  "subtitle": "Shatter the limits imposed by your old, legacy CMS. Our headless, API-first Content Management System provides everyt...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826099/catalog/cloudcms/icon128x128.jpg",
+  "website": "https://cloudcms.com"
+}

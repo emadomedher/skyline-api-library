@@ -1,0 +1,15 @@
+{
+  "id": "complyadvantage",
+  "title": "ComplyAdvantage",
+  "subtitle": "Real-time financial crime insight that puts you in control. ComplyAdvantage gives you the most powerful and flexible ...",
+  "tags": [
+    "compliance",
+    "fintech",
+    "aml"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570527756/catalog/complyadvantage/icon128x128.png",
+  "website": "https://complyadvantage.com/"
+}

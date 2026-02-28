@@ -1,0 +1,13 @@
+{
+  "id": "adsolut-be",
+  "title": "Adsolut",
+  "subtitle": "Adsolut levert en implementeert software voor de KMO (klein, groot of starter) ter ondersteuning van diverse processe...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576113254/catalog/adsolut-be/icon128x128.png",
+  "website": "http://www.adsolut.be/"
+}

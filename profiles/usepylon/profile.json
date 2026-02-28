@@ -1,0 +1,15 @@
+{
+  "id": "usepylon",
+  "title": "Pylon",
+  "subtitle": "Talk to your customers over Slack, Microsoft Teams, or Discord? Meet Pylon. We'll help you scale your sales, success,...",
+  "tags": [
+    "slack-support",
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687026210/icons/usepylon.png",
+  "website": "https://www.usepylon.com/",
+  "docsUrl": "https://www.usepylon.com/security.pdf"
+}

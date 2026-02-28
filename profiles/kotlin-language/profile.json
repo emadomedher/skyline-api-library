@@ -1,0 +1,14 @@
+{
+  "id": "kotlin-language",
+  "title": "Kotlin",
+  "subtitle": "Kotlin API integration",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599025770/icons/kotlin-language.png",
+  "website": "https://kotlinlang.org/",
+  "docsUrl": "https://kotlinlang.org/docs/reference"
+}

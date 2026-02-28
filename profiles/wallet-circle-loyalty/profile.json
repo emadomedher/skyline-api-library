@@ -1,0 +1,13 @@
+{
+  "id": "wallet-circle-loyalty",
+  "title": "Wallet Circle Loyalty",
+  "subtitle": "Wallet Circle Loyalty API integration",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438391/catalog/wallet-circle-loyalty/icon128x128.png",
+  "website": "https://walletcircle.com"
+}

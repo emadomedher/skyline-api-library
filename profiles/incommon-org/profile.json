@@ -1,0 +1,14 @@
+{
+  "id": "incommon-org",
+  "title": "InCommon",
+  "subtitle": "InCommon provides integrated single sign-on, cloud access, and global collaboration for students, faculty, staff, and...",
+  "tags": [
+    "sso",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821130/catalog/incommon-org/icon128x128.jpg",
+  "website": "https://www.incommon.org/"
+}

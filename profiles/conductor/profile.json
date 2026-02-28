@@ -1,0 +1,13 @@
+{
+  "id": "conductor",
+  "title": "Conductor",
+  "subtitle": "Get discovered online by customers who are looking to buy. Increase your marketing ROI with Conductor's content and S...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947197/catalog/conductor/icon128x128.png",
+  "website": "https://conductor.com"
+}

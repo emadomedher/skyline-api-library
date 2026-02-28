@@ -1,0 +1,13 @@
+{
+  "id": "wordtail",
+  "title": "Wordtail",
+  "subtitle": "Wordtail API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961927/catalog/wordtail/icon128x128.png",
+  "website": "https://wordtail.com"
+}

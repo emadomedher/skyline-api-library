@@ -1,0 +1,15 @@
+{
+  "id": "stepzen",
+  "title": "StepZen",
+  "subtitle": "Serverless GraphQL API for fast application development.",
+  "tags": [
+    "graphql",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606922969/icons/stepzen.png",
+  "website": "https://stepzen.com/",
+  "docsUrl": "https://stepzen.com/developers"
+}

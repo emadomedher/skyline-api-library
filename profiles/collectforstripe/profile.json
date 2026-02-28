@@ -1,0 +1,14 @@
+{
+  "id": "collectforstripe",
+  "title": "Collect for Stripe",
+  "subtitle": "The Instant Stripe-powered point of sale. Start accepting card-present payments right now, directly to your Stripe ac...",
+  "tags": [
+    "mobile-pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638922171/icons/collectforstripe.png",
+  "website": "https://collectforstripe.com/",
+  "docsUrl": "https://app.collectforstripe.com/docs"
+}

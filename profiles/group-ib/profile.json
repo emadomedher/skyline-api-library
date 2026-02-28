@@ -1,0 +1,13 @@
+{
+  "id": "group-ib",
+  "title": "Group-IB",
+  "subtitle": "Leading provider of cybersecurity solutions - Threat Intelligence, antifraud, anti-APT. Protect better, respond faste...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249006/icons/group-ib.jpg",
+  "website": "https://group-ib.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adext-ai",
+  "title": "Adext",
+  "subtitle": "Enhance the performance of your Google, YouTube, Facebook and Instagram Ads by merging with Artificial Intelligence (...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187667/catalog/adext-ai/icon128x128.jpg",
+  "website": "https://www.adext.ai/"
+}

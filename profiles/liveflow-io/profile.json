@@ -1,0 +1,13 @@
+{
+  "id": "liveflow-io",
+  "title": "LiveFlow",
+  "subtitle": "The fastest way to connect QuickBooks to Google Sheets. Automate your reporting, consolidate your accounts and collab...",
+  "tags": [
+    "financial-reporting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664246956/icons/liveflow-io.jpg",
+  "website": "https://www.liveflow.io"
+}

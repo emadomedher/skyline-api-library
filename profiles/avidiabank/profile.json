@@ -1,0 +1,13 @@
+{
+  "id": "avidiabank",
+  "title": "Avidia Bank",
+  "subtitle": "Avidia Bank is a mutual community bank headquartered in Hudson, Massachusetts and founded in 2007, from the merger ag...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622932344/icons/avidiabank.jpg",
+  "website": "https://www.avidiabank.com/"
+}

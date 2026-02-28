@@ -1,0 +1,13 @@
+{
+  "id": "shyfter-co",
+  "title": "Shyfter.co",
+  "subtitle": "Digitalisez les horaires et plannings du personnel, gérez les demandes de congés et absences en deux clics. Enregistr...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650143662/icons/shyfter-co.jpg",
+  "website": "https://shyfter.co/"
+}

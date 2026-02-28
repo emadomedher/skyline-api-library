@@ -1,0 +1,13 @@
+{
+  "id": "invoicehippo-nl",
+  "title": "InvoiceHippo",
+  "subtitle": "InvoiceHippo API integration",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584051181/catalog/invoicehippo-nl/icon128x128.png",
+  "website": "https://www.invoicehippo.nl/"
+}

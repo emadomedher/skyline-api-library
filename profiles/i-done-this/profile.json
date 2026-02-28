@@ -1,0 +1,13 @@
+{
+  "id": "i-done-this",
+  "title": "I Done This",
+  "subtitle": "I Done This makes it easy to track and celebrate the progress that you and your colleagues make at work every day. We...",
+  "tags": [
+    "reports"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305149/catalog/i-done-this/icon128x128.png",
+  "website": "https://idonethis.com/"
+}

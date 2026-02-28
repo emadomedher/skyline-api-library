@@ -1,0 +1,13 @@
+{
+  "id": "referral-candy",
+  "title": "Referral Candy",
+  "subtitle": "ReferralCandy powers referral marketing programs for online stores of all shapes and sizes. Start your free trial today!",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721788/catalog/referral-candy/icon128x128.jpg",
+  "website": "https://referralcandy.com"
+}

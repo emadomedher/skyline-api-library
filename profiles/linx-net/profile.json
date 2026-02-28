@@ -1,0 +1,14 @@
+{
+  "id": "linx-net",
+  "title": "London Internet Exchange",
+  "subtitle": "The London Internet Exchange (LINX) is one of the largest Internet exchanges in the world, connecting over 900 member...",
+  "tags": [
+    "mutually-governed-internet-exchange-points"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666384/icons/linx-net.jpg",
+  "website": "https://www.linx.net/",
+  "docsUrl": "https://portal.linx.net/tech-info-help/alicelg"
+}

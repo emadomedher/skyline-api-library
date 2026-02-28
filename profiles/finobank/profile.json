@@ -1,0 +1,13 @@
+{
+  "id": "finobank",
+  "title": "Fino Payments Bank",
+  "subtitle": "Fino Payments Bank comes to you from an institution that has served the country’s banking needs for over a decade. Ou...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627772760/icons/finobank.jpg",
+  "website": "https://www.finobank.com/"
+}

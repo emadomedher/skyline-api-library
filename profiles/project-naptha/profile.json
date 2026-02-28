@@ -1,0 +1,15 @@
+{
+  "id": "project-naptha",
+  "title": "Project Naptha",
+  "subtitle": "Project Naptha API integration",
+  "tags": [
+    "computer-vision",
+    "ocr",
+    "open-source"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670770696/icons/project-naptha.png",
+  "website": "https://projectnaptha.com/"
+}

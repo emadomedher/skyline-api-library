@@ -1,0 +1,13 @@
+{
+  "id": "rewango",
+  "title": "rewango",
+  "subtitle": "rewango API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436984/catalog/rewango/icon128x128.png",
+  "website": "https://rewango.com"
+}

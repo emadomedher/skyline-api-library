@@ -1,0 +1,15 @@
+{
+  "id": "jelastic",
+  "title": "Jelastic",
+  "subtitle": "DevOps Platform-as-a-Service (PaaS) for running microservice and legacy applications in public, private and multi-clo...",
+  "tags": [
+    "paas",
+    "cloud-providers"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603131581/icons/jelastic.png",
+  "website": "https://jelastic.com/",
+  "docsUrl": "https://docs.jelastic.com/"
+}

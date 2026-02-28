@@ -1,0 +1,13 @@
+{
+  "id": "buzzdeck",
+  "title": "BuzzDeck",
+  "subtitle": "Buzzdeck is a digital analytics platform designed to help you optimise your online marketing campaigns and maximise y...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719295/catalog/buzzdeck/icon128x128.png",
+  "website": "https://buzzdeck.com"
+}

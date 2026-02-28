@@ -1,0 +1,13 @@
+{
+  "id": "intercom-meetings",
+  "title": "Intercom Meetings",
+  "subtitle": "Intercom's scheduling apps make it easier than ever to book meetings with prospects and customers via live chat, so y...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619145279/icons/intercom-meetings.png",
+  "website": "https://go.intercom.com/meetings"
+}

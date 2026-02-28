@@ -1,0 +1,15 @@
+{
+  "id": "happeo",
+  "title": "Happeo",
+  "subtitle": "The digital workplace and social intranet software, built for Google G Suite. Happeo is a Google technology partner, ...",
+  "tags": [
+    "employee-communication",
+    "enterprise-social-networks",
+    "social-intranets"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588161885/catalog/happeo/icon128x128.jpg",
+  "website": "https://www.happeo.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "authorize-net",
+  "title": "Authorize.Net",
+  "subtitle": "Authorize.Net provides payment processing and payment management services to help businesses accept credit card and e...",
+  "tags": [
+    "payment-processing",
+    "payment-gateways"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055779/catalog/authorize-net/icon128x128.png",
+  "website": "https://www.authorize.net/",
+  "docsUrl": "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html"
+}

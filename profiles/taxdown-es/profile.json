@@ -1,0 +1,13 @@
+{
+  "id": "taxdown-es",
+  "title": "TaxDown",
+  "subtitle": "TaxDown automates income tax filing by calculating regional deductions due to users so they don’t have to navigate co...",
+  "tags": [
+    "tax-filing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615571309/icons/taxdown-es.jpg",
+  "website": "https://taxdown.es/"
+}

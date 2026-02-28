@@ -1,0 +1,14 @@
+{
+  "id": "fisglobal",
+  "title": "FIS",
+  "subtitle": "FIS provides financial software, world-class services and global business solutions. Let us help you compete and win ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571962510/catalog/fisglobal/icon128x128.jpg",
+  "website": "https://www.fisglobal.com/",
+  "docsUrl": "https://www.fisglobal.com/preferencecenter"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dropbox-paper",
+  "title": "Dropbox Paper",
+  "subtitle": "Dropbox Paper is a new type of document designed for creative work. Collaborate in real time, assign tasks, make to-d...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562812101/catalog/dropbox-paper/icon128x128.png",
+  "website": "https://dropbox.com",
+  "docsUrl": "https://www.dropbox.com/developers"
+}

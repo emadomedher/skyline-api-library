@@ -1,0 +1,13 @@
+{
+  "id": "mydigi-eu",
+  "title": "MyDigi",
+  "subtitle": "With our technological legoblocks we build your software that goes far beyond CRM, ERP, WFM or DMS systems. Dream IT,...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589447833/catalog/mydigi-eu/icon128x128.png",
+  "website": "https://www.mydigi.eu/"
+}

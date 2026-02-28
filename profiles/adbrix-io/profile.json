@@ -1,0 +1,13 @@
+{
+  "id": "adbrix-io",
+  "title": "adbrix",
+  "subtitle": "Experience the most advanced performance tracking and user analytics features.",
+  "tags": [
+    "marketing-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579186233/catalog/adbrix-io/icon128x128.jpg",
+  "website": "http://adbrix.io/"
+}

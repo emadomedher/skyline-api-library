@@ -1,0 +1,13 @@
+{
+  "id": "venuenext",
+  "title": "VenueNext",
+  "subtitle": "VenueNext API integration",
+  "tags": [
+    "mobile-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588444265/catalog/venuenext/icon128x128.jpg",
+  "website": "https://www.venuenext.com/"
+}

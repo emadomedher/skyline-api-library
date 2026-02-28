@@ -1,0 +1,13 @@
+{
+  "id": "paytunes",
+  "title": "PayTunes",
+  "subtitle": "PayTunes API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963380/catalog/paytunes/icon128x128.png",
+  "website": "https://paytunes.in"
+}

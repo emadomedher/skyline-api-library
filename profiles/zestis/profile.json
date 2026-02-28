@@ -1,0 +1,13 @@
+{
+  "id": "zestis",
+  "title": "Zest.is",
+  "subtitle": "Zest.is API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946313/catalog/zestis/icon128x128.jpg",
+  "website": "https://zest.is"
+}

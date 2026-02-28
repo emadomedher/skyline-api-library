@@ -1,0 +1,12 @@
+{
+  "id": "bugherd",
+  "title": "BugHerd",
+  "subtitle": "Project management and bug tracking for web developers and designers. BugHerd helps you capture feedback, resolve iss...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304547/catalog/bugherd/icon128x128.png"
+}

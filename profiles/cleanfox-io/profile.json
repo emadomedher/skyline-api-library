@@ -1,0 +1,14 @@
+{
+  "id": "cleanfox-io",
+  "title": "Cleanfox",
+  "subtitle": "Clean out your mailbox for free with Cleanfox. No more newsletters and spam!",
+  "tags": [
+    "privacy",
+    "anti-spam"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583758046/catalog/cleanfox-io/icon128x128.png",
+  "website": "https://www.cleanfox.io/"
+}

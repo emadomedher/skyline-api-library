@@ -1,0 +1,13 @@
+{
+  "id": "pootsy-be",
+  "title": "Pootsy",
+  "subtitle": "Pootsy is the easiest way to book home cleaning service at home with Service Vouchers ( Titres-Services / Dienstenche...",
+  "tags": [
+    "home-services-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912827/icons/pootsy-be.jpg",
+  "website": "https://pootsy.be/"
+}

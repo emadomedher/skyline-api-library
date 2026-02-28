@@ -1,0 +1,12 @@
+{
+  "id": "coupon-carrier",
+  "title": "Coupon Carrier",
+  "subtitle": "Coupon Carrier is a coupon and code distribution service to help you generate and distribute your unique codes. You c...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304697/catalog/coupon-carrier/icon128x128.png"
+}

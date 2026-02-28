@@ -1,0 +1,13 @@
+{
+  "id": "edgar",
+  "title": "MeetEdgar",
+  "subtitle": "MeetEdgar is a social media scheduling tool that catalogues your posts in a library and publishes them on a recurring...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304834/catalog/edgar/icon128x128.png",
+  "website": "https://meetedgar.com/"
+}

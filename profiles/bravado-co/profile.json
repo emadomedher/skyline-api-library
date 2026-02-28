@@ -1,0 +1,13 @@
+{
+  "id": "bravado-co",
+  "title": "Bravado",
+  "subtitle": "Bravado is a community for sales professionals centered around premium content, community events, and our sales mento...",
+  "tags": [
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565163194/catalog/bravado-co/icon128x128.jpg",
+  "website": "https://bravado.co"
+}

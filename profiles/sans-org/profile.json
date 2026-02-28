@@ -1,0 +1,16 @@
+{
+  "id": "sans-org",
+  "title": "SANS",
+  "subtitle": "SANS Institute is the most trusted resource for information security training, cyber security certifications and rese...",
+  "tags": [
+    "cyber-security",
+    "security",
+    "training",
+    "certification"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569446909/catalog/sans-org/icon128x128.jpg",
+  "website": "https://www.sans.org/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "leocare-eu",
+  "title": "Leocare",
+  "subtitle": "Assurance auto, habitation et voiture",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611123671/icons/leocare-eu.jpg",
+  "website": "https://leocare.eu/"
+}

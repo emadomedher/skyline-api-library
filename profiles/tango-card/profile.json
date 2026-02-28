@@ -1,0 +1,14 @@
+{
+  "id": "tango-card",
+  "title": "Tango Card",
+  "subtitle": "Tango Card allows you to send gift cards for 100+ brands.",
+  "tags": [
+    "payment-processing",
+    "customer-appreciation"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306255/catalog/tango-card/icon128x128.png",
+  "website": "https://tangocard.com"
+}

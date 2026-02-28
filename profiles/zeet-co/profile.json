@@ -1,0 +1,15 @@
+{
+  "id": "zeet-co",
+  "title": "Zeet",
+  "subtitle": "The easiest way to deploy your code",
+  "tags": [
+    "developer-tools",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626155758/icons/zeet-co.jpg",
+  "website": "https://zeet.co/",
+  "docsUrl": "https://docs.zeet.co"
+}

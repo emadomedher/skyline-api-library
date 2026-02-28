@@ -1,0 +1,13 @@
+{
+  "id": "flashtalking",
+  "title": "Flashtalking",
+  "subtitle": "Flashtalking is the leading independent ad server for sophisticated \nadvertisers. We use data to personalize advertis...",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556126786/catalog/flashtalking/icon128x128.png",
+  "website": "https://flashtalking.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cloudcart",
+  "title": "CloudCart",
+  "subtitle": "Start your FREE online store with CloudCart today! Use CloudCart for FREE until you hit your first $1,000 in revenue!...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304658/catalog/cloudcart/icon128x128.png",
+  "website": "https://cloudcart.com"
+}

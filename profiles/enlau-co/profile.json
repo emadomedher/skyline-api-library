@@ -1,0 +1,15 @@
+{
+  "id": "enlau-co",
+  "title": "en la U",
+  "subtitle": "Descarga la Super App de las Universidades, encontrarás las mejores promociones, las mejores ofertas de empleo para e...",
+  "tags": [
+    "education",
+    "tutor-marketplaces",
+    "university"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311401/catalog/enlau-co/icon128x128.png",
+  "website": "https://enlau.co/"
+}

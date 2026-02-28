@@ -1,0 +1,13 @@
+{
+  "id": "colabers",
+  "title": "Colabers",
+  "subtitle": "A Contextual Collaboration Platform – where everything is connected. Just as in real life.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433823/catalog/colabers/icon128x128.png",
+  "website": "https://colabers.com"
+}

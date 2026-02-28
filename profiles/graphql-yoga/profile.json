@@ -1,0 +1,14 @@
+{
+  "id": "graphql-yoga",
+  "title": "GraphQL Yoga",
+  "subtitle": "Fully-featured, simple to set up, performant and extendable GraphQL NodeJS (JavaScript/TypeScript) server",
+  "tags": [
+    "graphql-server"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652998222/icons/graphql-yoga.jpg",
+  "website": "https://www.graphql-yoga.com/",
+  "docsUrl": "https://www.graphql-yoga.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "digisureglobal",
+  "title": "DigiSure",
+  "subtitle": "DigiSure API integration",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629589949/icons/digisureglobal.png",
+  "website": "https://www.digisureglobal.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dreamdata-io",
+  "title": "Dreamdata.io",
+  "subtitle": "Dreamdata uses tracking and integrations to offer attribution and lead \nscoring for B2B companies.",
+  "tags": [
+    "attribution"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582634842/catalog/dreamdata-io/icon128x128.png",
+  "website": "https://dreamdata.io/"
+}

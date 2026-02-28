@@ -1,0 +1,15 @@
+{
+  "id": "documo",
+  "title": "Documo",
+  "subtitle": "Next-generation document workflow solutions. We make working with documents easy, more secure, and better for our pla...",
+  "tags": [
+    "online-fax",
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630869010/icons/documo.png",
+  "website": "https://www.documo.com/",
+  "docsUrl": "https://docs.documo.com"
+}

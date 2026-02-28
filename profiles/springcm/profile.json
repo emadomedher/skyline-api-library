@@ -1,0 +1,13 @@
+{
+  "id": "springcm",
+  "title": "SpringCM",
+  "subtitle": "A top rated Contract and Document Management company. Our cloud based product integrates with CRM systems like Salesf...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946544/catalog/springcm/icon128x128.jpg",
+  "website": "https://springcm.com"
+}

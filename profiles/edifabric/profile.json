@@ -1,0 +1,14 @@
+{
+  "id": "edifabric",
+  "title": "EdiFabric",
+  "subtitle": "EDI software tools to translate, generate, validate and acknowledge X12, HIPAA, EDIFACT, EANCOM, VDA, PNRGOV, HL7, NC...",
+  "tags": [
+    "edi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631220852/icons/edifabric.png",
+  "website": "https://www.edifabric.com/",
+  "docsUrl": "https://www.edifabric.com/#"
+}

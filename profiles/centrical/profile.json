@@ -1,0 +1,13 @@
+{
+  "id": "centrical",
+  "title": "Centrical",
+  "subtitle": "Centrical helps businesses improve employee engagement, proficiency, and performance through gamification, microlearn...",
+  "tags": [
+    "performance-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635713767/icons/centrical.png",
+  "website": "https://centrical.com/"
+}

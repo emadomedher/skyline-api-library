@@ -1,0 +1,13 @@
+{
+  "id": "slidebean",
+  "title": "Slidebean",
+  "subtitle": "Design powerful, professional presentations in minutes, not hours. Presentation software has never been easier: just ...",
+  "tags": [
+    "presentation-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576014970/catalog/slidebean/icon128x128.png",
+  "website": "https://slidebean.com/"
+}

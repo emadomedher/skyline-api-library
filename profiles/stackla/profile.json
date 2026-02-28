@@ -1,0 +1,13 @@
+{
+  "id": "stackla",
+  "title": "Stackla",
+  "subtitle": "Stackla is a social content marketing platform used by hundreds of global brands, agencies, media companies, and nonp...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306184/catalog/stackla/icon128x128.png",
+  "website": "https://stackla.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shocklogic",
+  "title": "Shocklogic",
+  "subtitle": "Shocklogic API integration",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775616/catalog/shocklogic/icon128x128.png",
+  "website": "https://shocklogic.com"
+}

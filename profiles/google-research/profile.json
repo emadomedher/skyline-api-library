@@ -1,0 +1,13 @@
+{
+  "id": "google-research",
+  "title": "Google Research",
+  "subtitle": "Researchers across Google are innovating across many domains. We challenge conventions and reimagine technology so th...",
+  "tags": [
+    "research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615772636/icons/google-research.png",
+  "website": "https://research.google/"
+}

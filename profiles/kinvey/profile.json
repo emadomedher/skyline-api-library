@@ -1,0 +1,13 @@
+{
+  "id": "kinvey",
+  "title": "Kinvey",
+  "subtitle": "Progress offers the modern alternative to traditional low-code with better application experiences, faster cycles of ...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720694/catalog/kinvey/icon128x128.png",
+  "website": "https://progress.com"
+}

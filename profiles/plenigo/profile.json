@@ -1,0 +1,13 @@
+{
+  "id": "plenigo",
+  "title": "plenigo",
+  "subtitle": "plenigo offers eCommerce Software and Expertise to help Publishers, Media Companies and Bloggers build paid Content r...",
+  "tags": [
+    "publishing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597509807/icons/plenigo.png",
+  "website": "https://www.plenigo.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mailcampaigns-nl",
+  "title": "MailCampaigns",
+  "subtitle": "Effectieve e-mail marketing, oplossingen op maat. Concrete afspraken en commitment op resultaat. B2B, e-commerce en o...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637851178/icons/mailcampaigns-nl.jpg",
+  "website": "https://www.mailcampaigns.nl/"
+}

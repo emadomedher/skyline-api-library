@@ -1,0 +1,15 @@
+{
+  "id": "gupshup-io",
+  "title": "Gupshup",
+  "subtitle": "Gupshup provides a platform for developers to build bots for SMS, Twitter, Slack, WeChat, Teamchat and others with a ...",
+  "tags": [
+    "chat-and-messaging-api",
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570970772/catalog/gupshup-io/icon128x128.jpg",
+  "website": "https://www.gupshup.io",
+  "docsUrl": "https://www.gupshup.io/developer/rcs"
+}

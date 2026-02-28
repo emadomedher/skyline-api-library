@@ -1,0 +1,13 @@
+{
+  "id": "agencyanalytics",
+  "title": "AgencyAnalytics",
+  "subtitle": "AgencyAnalytics helps 2,500+ digital marketing agencies create reports for clients. Create custom dashboards for SEO,...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947303/catalog/agencyanalytics/icon128x128.jpg",
+  "website": "https://agencyanalytics.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "canaree-co",
+  "title": "Canaree",
+  "subtitle": "Canaree is a financial modeling tool that makes it easy for small businesses to build models and forecast their finan...",
+  "tags": [
+    "financial-modelling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642409812/icons/canaree-co.png",
+  "website": "https://www.canaree.co/"
+}

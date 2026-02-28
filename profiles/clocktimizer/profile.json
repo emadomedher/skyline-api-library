@@ -1,0 +1,14 @@
+{
+  "id": "clocktimizer",
+  "title": "Clocktimizer",
+  "subtitle": "Our natural language processing algorithms read time card narratives to provide actionable data on matter management,...",
+  "tags": [
+    "matter-management",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583231618/catalog/clocktimizer/icon128x128.jpg",
+  "website": "https://www.clocktimizer.com/"
+}

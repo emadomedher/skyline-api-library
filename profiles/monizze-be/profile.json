@@ -1,0 +1,14 @@
+{
+  "id": "monizze-be",
+  "title": "Monizze",
+  "subtitle": "Monizze provides gift, eco and meal voucher one one card. Choosing for the Monizze solution improves the overall perf...",
+  "tags": [
+    "employee-benefits",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583910850/catalog/monizze-be/icon128x128.jpg",
+  "website": "https://www.monizze.be/"
+}

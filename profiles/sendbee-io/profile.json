@@ -1,0 +1,16 @@
+{
+  "id": "sendbee-io",
+  "title": "Sendbee",
+  "subtitle": "WhatsApp Business solution for SMBs. Sendbee enables your team to use whatsapp on multiple devices. Manage messages b...",
+  "tags": [
+    "customer-support",
+    "team-inbox",
+    "conversational-commerce"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603297603/icons/sendbee-io.png",
+  "website": "https://sendbee.io/",
+  "docsUrl": "https://developer.sendbee.io"
+}

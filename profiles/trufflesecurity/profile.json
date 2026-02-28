@@ -1,0 +1,13 @@
+{
+  "id": "trufflesecurity",
+  "title": "Truffle Security",
+  "subtitle": "Truffle Security offers the first automated solution to continuously scan \nyour environment for secrets like private ...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649112349/icons/trufflesecurity.jpg",
+  "website": "https://trufflesecurity.com/"
+}

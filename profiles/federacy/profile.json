@@ -1,0 +1,13 @@
+{
+  "id": "federacy",
+  "title": "Federacy",
+  "subtitle": "Security testing, by humans",
+  "tags": [
+    "bug-bounty-programs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626665490/icons/federacy.jpg",
+  "website": "https://www.federacy.com/"
+}

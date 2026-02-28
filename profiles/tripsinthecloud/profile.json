@@ -1,0 +1,13 @@
+{
+  "id": "tripsinthecloud",
+  "title": "Trips in the Cloud",
+  "subtitle": "De beste GPS oplossing voor uw fiscale rittenregistratie en kilometerregistratie. Direct beginnen met de automatische...",
+  "tags": [
+    "gps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652969046/icons/tripsinthecloud.jpg",
+  "website": "https://tripsinthecloud.com/"
+}

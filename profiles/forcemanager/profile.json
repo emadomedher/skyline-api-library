@@ -1,0 +1,13 @@
+{
+  "id": "forcemanager",
+  "title": "ForceManager",
+  "subtitle": "ForceManager is a mobile CRM that allows you to measure, analyse and improve your sales team’s performance.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304947/catalog/forcemanager/icon128x128.png",
+  "website": "https://forcemanager.com"
+}

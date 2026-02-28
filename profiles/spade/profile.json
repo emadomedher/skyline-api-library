@@ -1,0 +1,15 @@
+{
+  "id": "spade",
+  "title": "Spade",
+  "subtitle": "Transaction Enrichment REST API. Get logos and location data quickly and easily!",
+  "tags": [
+    "transaction-data",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677864036/icons/spade.jpg",
+  "website": "https://spade.com/",
+  "docsUrl": "https://docs.spade.com"
+}

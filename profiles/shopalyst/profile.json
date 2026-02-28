@@ -1,0 +1,14 @@
+{
+  "id": "shopalyst",
+  "title": "Shopalyst",
+  "subtitle": "Super app for cross-channel online advertising. Use Shopalyst's no code digital marketing platform to create and mana...",
+  "tags": [
+    "ecommerce-advertising",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611922332/icons/shopalyst.jpg",
+  "website": "https://www.shopalyst.com/"
+}

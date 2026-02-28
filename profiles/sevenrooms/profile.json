@@ -1,0 +1,15 @@
+{
+  "id": "sevenrooms",
+  "title": "SEVENROOMS",
+  "subtitle": "Get SevenRooms, the #1 restaurant reservation system that boosts your bottom line with direct reservations, guest pro...",
+  "tags": [
+    "restech",
+    "restaurant-reservation-system"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578919351/catalog/sevenrooms/icon128x128.jpg",
+  "website": "https://sevenrooms.com/",
+  "docsUrl": "https://sevenrooms.com/en/membership-clubs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "infoflo",
+  "title": "InfoFlo",
+  "subtitle": "$99/user basic package is a One Time Cost and include free upgrades for life! Reap the benefits of InfoFlo CRM Softwa...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946917/catalog/infoflo/icon128x128.png",
+  "website": "https://infoflocrm.com"
+}

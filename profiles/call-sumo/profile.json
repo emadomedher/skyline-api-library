@@ -1,0 +1,13 @@
+{
+  "id": "call-sumo",
+  "title": "Call Sumo",
+  "subtitle": "Call Sumo is the most comprehensive and intelligent call tracking software. It allows you to take advantage of market...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947222/catalog/call-sumo/icon128x128.jpg",
+  "website": "https://callsumo.com"
+}

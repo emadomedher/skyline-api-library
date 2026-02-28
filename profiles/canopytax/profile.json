@@ -1,0 +1,14 @@
+{
+  "id": "canopytax",
+  "title": "Canopy",
+  "subtitle": "Canopy is professional tax software for the modern accounting practice. Practice Management, Tax Resolution, Tax Prep...",
+  "tags": [
+    "tax-practice"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062138/catalog/canopytax/icon128x128.jpg",
+  "website": "https://www.canopytax.com/",
+  "docsUrl": "https://www.getcanopy.com/integrations/api?hslang=en"
+}

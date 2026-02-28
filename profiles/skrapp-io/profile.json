@@ -1,0 +1,14 @@
+{
+  "id": "skrapp-io",
+  "title": "Skrapp",
+  "subtitle": "Skrapp.io is the easiest solution to extract leads from Linkedin. In few seconds, you can find email addresses and la...",
+  "tags": [
+    "email-verification",
+    "contacts"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578495804/catalog/skrapp-io/icon128x128.jpg",
+  "website": "https://skrapp.io/"
+}

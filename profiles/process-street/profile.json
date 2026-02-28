@@ -1,0 +1,14 @@
+{
+  "id": "process-street",
+  "title": "Process Street",
+  "subtitle": "Simple workflow software for businesses. Create recurring checklists, workflows and standard operating procedures in ...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305745/catalog/process-street/icon128x128.png",
+  "website": "https://www.process.st/",
+  "docsUrl": "https://www.process.st/help/docs/gdpr-statement"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hungrybuffs",
+  "title": "LoDel HQ",
+  "subtitle": "Take your pick of featured restaurants in Boulder. Place your delivery order online for free.",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171251/catalog/hungrybuffs/icon128x128.jpg",
+  "website": "https://hungrybuffs.com/"
+}

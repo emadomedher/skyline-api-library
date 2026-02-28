@@ -1,0 +1,14 @@
+{
+  "id": "avatarapi",
+  "title": "Avatar API.com",
+  "subtitle": "Avatar API is an API that allows developers and marketers create a more personal feel to their website and emails, \n\t...",
+  "tags": [
+    "avatars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645154143/icons/avatarapi.webp",
+  "website": "https://avatarapi.com/",
+  "docsUrl": "https://docs.google.com/document/d/1ztgdycp-dvzp_njiawxpjmmsb-tqibhut3h1j5enfh0/export?format=pdf"
+}

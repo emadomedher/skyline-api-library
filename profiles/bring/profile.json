@@ -1,0 +1,13 @@
+{
+  "id": "bring",
+  "title": "Bring",
+  "subtitle": "bring.com",
+  "tags": [
+    "shipping-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572342134/catalog/bring/icon128x128.png",
+  "website": "https://www.bring.com/"
+}

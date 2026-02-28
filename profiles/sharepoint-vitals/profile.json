@@ -1,0 +1,13 @@
+{
+  "id": "sharepoint-vitals",
+  "title": "Sharepoint Vitals",
+  "subtitle": "Real-time analytics for SharePoint and Office 365. SharePoint Vitals tracks and analyzes SharePoint user activity, th...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946606/catalog/sharepoint-vitals/icon128x128.jpg",
+  "website": "https://sharepointvitals.com"
+}

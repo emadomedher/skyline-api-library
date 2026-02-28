@@ -1,0 +1,13 @@
+{
+  "id": "neon",
+  "title": "Neon",
+  "subtitle": "Thousands of nonprofits use Neon to manage their fundraising, membership, events, and website — and ultimately grow t...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721228/catalog/neon/icon128x128.jpg",
+  "website": "https://neoncrm.com"
+}

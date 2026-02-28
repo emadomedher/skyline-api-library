@@ -1,0 +1,13 @@
+{
+  "id": "trading212",
+  "title": "Trading 212",
+  "subtitle": "Handelen en training in echte aandelen en CFD's zonder commissie. Valuta, Aandelen, Goud, Oliehandel. FOREX makelaar....",
+  "tags": [
+    "investing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603144328/icons/trading212.jpg",
+  "website": "https://www.trading212.com/"
+}

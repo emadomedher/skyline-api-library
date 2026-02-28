@@ -1,0 +1,13 @@
+{
+  "id": "bsurance",
+  "title": "bsurance",
+  "subtitle": "Eingebettete Versicherung Die integrierte Versicherung direkt am Point of Sale Unterstützung von Unternehmen bei der ...",
+  "tags": [
+    "embedded-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635622866/icons/bsurance.jpg",
+  "website": "https://www.bsurance.com/"
+}

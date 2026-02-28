@@ -1,0 +1,14 @@
+{
+  "id": "whatsapp-business",
+  "title": "WhatsApp Business",
+  "subtitle": "WhatsApp Messenger: More than 2 billion people in over 180 countries use WhatsApp to stay in touch with friends and f...",
+  "tags": [
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578330150/catalog/whatsapp-business/icon128x128.jpg",
+  "website": "https://www.whatsapp.com/business/",
+  "docsUrl": "https://developers.facebook.com/docs/whatsapp"
+}

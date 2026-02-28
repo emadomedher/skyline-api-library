@@ -1,0 +1,13 @@
+{
+  "id": "biggerpockets",
+  "title": "BiggerPockets",
+  "subtitle": "Learn how to invest in real estate with educational resources, evaluate properties using expert tools, and connect wi...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612562371/icons/biggerpockets.jpg",
+  "website": "https://www.biggerpockets.com/"
+}

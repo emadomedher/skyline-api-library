@@ -1,0 +1,13 @@
+{
+  "id": "oqlis",
+  "title": "OQLIS",
+  "subtitle": "Business Data Analytics on OQLIS…",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721382/catalog/oqlis/icon128x128.png",
+  "website": "https://oqlis.com"
+}

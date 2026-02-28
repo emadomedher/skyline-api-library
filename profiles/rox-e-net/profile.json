@@ -1,0 +1,14 @@
+{
+  "id": "rox-e-net",
+  "title": "ROX-E.NET",
+  "subtitle": "Voor zelfstandigen en KMO’s, in samenwerking met boekhouders & accountants. Waarom kiezen voor Rox-e.NET? Cloud-datab...",
+  "tags": [
+    "accounting",
+    "invoicing"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572476106/catalog/rox-e-net/icon128x128.png",
+  "website": "https://www.rox-e.net/"
+}

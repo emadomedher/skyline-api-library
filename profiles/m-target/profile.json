@@ -1,0 +1,12 @@
+{
+  "id": "m-target",
+  "title": "M-target",
+  "subtitle": "An API for marketers and developers  to send one or a campaign SMS.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305338/catalog/m-target/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "firstup-io",
+  "title": "Firstup",
+  "subtitle": "Transforming the digital employee experience by empowering companies to put employees first by reaching, connecting, ...",
+  "tags": [
+    "employee-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655938441/icons/firstup-io.jpg",
+  "website": "https://firstup.io/",
+  "docsUrl": "https://firstup.io/legal"
+}

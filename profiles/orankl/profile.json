@@ -1,0 +1,13 @@
+{
+  "id": "orankl",
+  "title": "Orankl",
+  "subtitle": "Online reviews made easy for any online store. A new solution to increase sales and connect with your customers. Get ...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963429/catalog/orankl/icon128x128.png",
+  "website": "https://orankl.com"
+}

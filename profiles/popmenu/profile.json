@@ -1,0 +1,13 @@
+{
+  "id": "popmenu",
+  "title": "Popmenu",
+  "subtitle": "Popmenu turns your restaurant website menu into a customer conversion engine by putting the experience consumers crav...",
+  "tags": [
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623866086/icons/popmenu.png",
+  "website": "https://get.popmenu.com/"
+}

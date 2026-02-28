@@ -1,0 +1,13 @@
+{
+  "id": "paradigm-co",
+  "title": "Paradigm",
+  "subtitle": "Paradigm automates bilateral price negotiation and settlement workflows for institutional digital asset traders. It's...",
+  "tags": [
+    "digital-asset-trading"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625450230/icons/paradigm-co.jpg",
+  "website": "https://www.paradigm.co/"
+}

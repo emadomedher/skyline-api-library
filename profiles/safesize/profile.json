@@ -1,0 +1,14 @@
+{
+  "id": "safesize",
+  "title": "SafeSize",
+  "subtitle": "SafeSize is a brilliant shoe discovery that is here to untie retailers hands. Our 3D scanner creates shoes that fit p...",
+  "tags": [
+    "shoe-fitting",
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574179159/catalog/safesize/icon128x128.jpg",
+  "website": "https://www.safesize.com/"
+}

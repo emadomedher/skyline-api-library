@@ -1,0 +1,12 @@
+{
+  "id": "nedap-pep",
+  "title": "Nedap PEP",
+  "subtitle": "PEP is een product van Nedap. Met deze applicatie kunnen zowel vaste medewerkers als uitzendkrachten op een eenvoudig...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256958/catalog/nedap-pep/icon128x128.jpg"
+}

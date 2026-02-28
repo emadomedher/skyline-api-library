@@ -1,0 +1,13 @@
+{
+  "id": "playmaker-crm",
+  "title": "PlayMaker CRM",
+  "subtitle": "PlayMaker CRM API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963360/catalog/playmaker-crm/icon128x128.png",
+  "website": "https://playmakercrm.com"
+}

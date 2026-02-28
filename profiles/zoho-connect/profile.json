@@ -1,0 +1,12 @@
+{
+  "id": "zoho-connect",
+  "title": "Zoho Connect",
+  "subtitle": "From ideas to execution, Zoho Connect is your organization's private social network that redefines the way your emplo...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306595/catalog/zoho-connect/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "keyword-tool",
+  "title": "Keyword Tool",
+  "subtitle": "Keyword Tool API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963718/catalog/keyword-tool/icon128x128.png",
+  "website": "https://keywordtool.io"
+}

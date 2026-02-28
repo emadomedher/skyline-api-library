@@ -1,0 +1,14 @@
+{
+  "id": "geodynamics-be",
+  "title": "GeoDynamics",
+  "subtitle": "GeoDynamics nv is a Belgian company that specializes in the development of professional location-based solutions. Geo...",
+  "tags": [
+    "time-registration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912836/icons/geodynamics-be.jpg",
+  "website": "https://public.geodynamics.be/",
+  "docsUrl": "https://support.geodynamics.be/webservice/"
+}

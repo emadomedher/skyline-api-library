@@ -1,0 +1,13 @@
+{
+  "id": "hirevue",
+  "title": "HireVue",
+  "subtitle": "HireVue’s enterprise-level hiring platform is a full-service solution including video interviewing, assessments, auto...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946942/catalog/hirevue/icon128x128.jpg",
+  "website": "https://hirevue.com"
+}

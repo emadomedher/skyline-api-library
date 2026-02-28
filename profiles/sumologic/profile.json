@@ -1,0 +1,15 @@
+{
+  "id": "sumologic",
+  "title": "Sumo Logic",
+  "subtitle": "Sumo Logic is industry’s leading, secure, cloud-based service for logs & metrics management for modern apps, providin...",
+  "tags": [
+    "devops",
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565395408/catalog/sumologic/icon128x128.png",
+  "website": "https://sumologic.com",
+  "docsUrl": "https://help.sumologic.com"
+}

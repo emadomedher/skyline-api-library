@@ -1,0 +1,13 @@
+{
+  "id": "mediatoolkit",
+  "title": "Mediatoolkit",
+  "subtitle": "Mediatoolkit is a media monitoring tool that tracks relevant mentions of your brand across the web and social media i...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305414/catalog/mediatoolkit/icon128x128.png",
+  "website": "https://mediatoolkit.com"
+}

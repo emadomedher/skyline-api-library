@@ -1,0 +1,14 @@
+{
+  "id": "marks-spencer-financial-services",
+  "title": "M&S Bank",
+  "subtitle": "M&S Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569632016/catalog/marks-spencer-financial-services/icon128x128.jpg",
+  "website": "https://bank.marksandspencer.com/",
+  "docsUrl": "https://api.hsbc.com/"
+}

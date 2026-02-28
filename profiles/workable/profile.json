@@ -1,0 +1,15 @@
+{
+  "id": "workable",
+  "title": "Workable",
+  "subtitle": "More than an applicant tracking system, Workable's talent acquisition software helps teams find candidates, evaluate ...",
+  "tags": [
+    "ats",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306532/catalog/workable/icon128x128.png",
+  "website": "https://workable.com",
+  "docsUrl": "https://developers.workable.com"
+}

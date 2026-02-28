@@ -1,0 +1,15 @@
+{
+  "id": "neterium-io",
+  "title": "Neterium",
+  "subtitle": "Watchlist Screening API Easily integrate screening into your platform DISCOVER OUR SOLUTIONS Screening in the ageofDi...",
+  "tags": [
+    "kyc",
+    "aml"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625561014/icons/neterium-io.jpg",
+  "website": "https://neterium.io/",
+  "docsUrl": "https://neterium.io/developers"
+}

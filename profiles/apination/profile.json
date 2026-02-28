@@ -1,0 +1,14 @@
+{
+  "id": "apination",
+  "title": "Apination",
+  "subtitle": "At API Nation we integrate software to save you time and money. Our most popular syncs include Quickbooks, Google Con...",
+  "tags": [
+    "ipaas",
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567806013/catalog/apination/icon128x128.jpg",
+  "website": "https://www.apination.com/"
+}

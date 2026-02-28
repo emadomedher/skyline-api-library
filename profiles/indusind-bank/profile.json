@@ -1,0 +1,13 @@
+{
+  "id": "indusind-bank",
+  "title": "IndusInd Bank",
+  "subtitle": "IndusInd Bank Limited is a new-generation Indian bank headquartered in Pune. The bank offers commercial, transactiona...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630869006/icons/indusind-bank.jpg",
+  "website": "https://www.indusind.com/in/en/personal.html"
+}

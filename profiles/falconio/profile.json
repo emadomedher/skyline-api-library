@@ -1,0 +1,13 @@
+{
+  "id": "falconio",
+  "title": "Falcon.io",
+  "subtitle": "Falcon is your social media marketing platform built on social analytics, community engagement and governance for Fac...",
+  "tags": [
+    "social-media"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826425/catalog/falconio/icon128x128.jpg",
+  "website": "https://falcon.io"
+}

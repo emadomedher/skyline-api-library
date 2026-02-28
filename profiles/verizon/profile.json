@@ -1,0 +1,13 @@
+{
+  "id": "verizon",
+  "title": "Verizon",
+  "subtitle": "Explore Verizon's full selection small and medium business solutions including FiOS, high speed internet, phone, and ...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075857/icons/verizon.jpg",
+  "website": "https://www.verizon.com/"
+}

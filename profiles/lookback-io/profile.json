@@ -1,0 +1,13 @@
+{
+  "id": "lookback-io",
+  "title": "Lookback",
+  "subtitle": "User experience recording made simple. See the screen, face, voice and touches of your users. Record in-house or remo...",
+  "tags": [
+    "user-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583421264/catalog/lookback-io/icon128x128.jpg",
+  "website": "https://lookback.io/"
+}

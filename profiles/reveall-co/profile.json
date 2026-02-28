@@ -1,0 +1,13 @@
+{
+  "id": "reveall-co",
+  "title": "Reveall",
+  "subtitle": "Reveall helps businesses better understand their customers by facilitating the gathering, sharing and use of customer...",
+  "tags": [
+    "customer-insights"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639528612/icons/reveall-co.jpg",
+  "website": "https://www.reveall.co/"
+}

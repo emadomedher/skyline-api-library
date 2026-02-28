@@ -1,0 +1,14 @@
+{
+  "id": "remotedebug-org",
+  "title": "remotedebug",
+  "subtitle": "remotedebug API integration",
+  "tags": [
+    "debugging",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589447829/catalog/remotedebug-org/icon128x128.png",
+  "website": "https://remotedebug.org/"
+}

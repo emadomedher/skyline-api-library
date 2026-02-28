@@ -1,0 +1,14 @@
+{
+  "id": "amazon-redshift",
+  "title": "Amazon Redshift",
+  "subtitle": "No other data warehouse makes it as easy to gain new insights from all your data. With Redshift you can query petabyt...",
+  "tags": [
+    "data-warehouses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054198/catalog/amazon-redshift/icon128x128.png",
+  "website": "https://aws.amazon.com/redshift/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=default"
+}

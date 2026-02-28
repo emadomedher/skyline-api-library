@@ -1,0 +1,14 @@
+{
+  "id": "propertybase",
+  "title": "Propertybase",
+  "subtitle": "Capture and manage leads with a simple yet powerful real estate crm. Propertybase provides robust marketing automatio...",
+  "tags": [
+    "property-management-software",
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567806004/catalog/propertybase/icon128x128.png",
+  "website": "https://www.propertybase.com/"
+}

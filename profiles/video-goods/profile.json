@@ -1,0 +1,13 @@
+{
+  "id": "video-goods",
+  "title": "Video Goods",
+  "subtitle": "Video Goods API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961991/catalog/video-goods/icon128x128.png",
+  "website": "https://videogoods.co"
+}

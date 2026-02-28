@@ -1,0 +1,14 @@
+{
+  "id": "lemonade",
+  "title": "Lemonade",
+  "subtitle": "Lemonade offers contents and personal liability insurance powered by tech and driven by social good. ❤ We promise zer...",
+  "tags": [
+    "rent-insurance",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578099359/catalog/lemonade/icon128x128.jpg",
+  "website": "https://www.lemonade.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "caser-es",
+  "title": "Caser Seguros",
+  "subtitle": "Disponemos de las mejores pólizas en Seguros: médico, salud, vida, coche, hogar, dental, empresas, autónomos. Tu aseg...",
+  "tags": [
+    "insurance",
+    "non-software"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590770321/catalog/caser-es/icon128x128.jpg",
+  "website": "https://www.caser.es/"
+}

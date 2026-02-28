@@ -1,0 +1,14 @@
+{
+  "id": "metronome",
+  "title": "Metronome",
+  "subtitle": "Metronome helps software companies launch, iterate, and scale their usage-based business models, with billing infrast...",
+  "tags": [
+    "usage-based-billing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653513029/icons/metronome.png",
+  "website": "https://metronome.com/",
+  "docsUrl": "https://docs.getmetronome.com"
+}

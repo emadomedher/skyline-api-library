@@ -1,0 +1,14 @@
+{
+  "id": "striktlysoftware",
+  "title": "Striktly",
+  "subtitle": "Jouw dagelijkse administratie op een uiterst efficiënte manier verwerken en beheren in één platform. Probeer 21 dagen...",
+  "tags": [
+    "invoicing",
+    "crm"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627767070/icons/striktlysoftware.png",
+  "website": "https://striktlysoftware.com/"
+}

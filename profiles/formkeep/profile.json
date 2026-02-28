@@ -1,0 +1,13 @@
+{
+  "id": "formkeep",
+  "title": "FormKeep",
+  "subtitle": "Form endpoints for designers and developers. No iframes, JavaScript embeds, or CSS overrides.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304965/catalog/formkeep/icon128x128.png",
+  "website": "https://formkeep.com/"
+}

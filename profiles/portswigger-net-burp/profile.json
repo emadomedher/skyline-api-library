@@ -1,0 +1,15 @@
+{
+  "id": "portswigger-net-burp",
+  "title": "Burp Suite",
+  "subtitle": "Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger. Find out more, and request your ...",
+  "tags": [
+    "vulnerability-scanners",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581261873/catalog/portswigger-net-burp/icon128x128.jpg",
+  "website": "https://portswigger.net/burp",
+  "docsUrl": "https://portswigger.net/developers"
+}

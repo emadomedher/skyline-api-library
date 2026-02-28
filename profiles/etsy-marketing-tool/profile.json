@@ -1,0 +1,13 @@
+{
+  "id": "etsy-marketing-tool",
+  "title": "Etsy Marketing Tool",
+  "subtitle": "Etsy Marketing Tool API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434452/catalog/etsy-marketing-tool/icon128x128.png",
+  "website": "https://etsymarketingtool.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ixopay",
+  "title": "IXOPAY",
+  "subtitle": "A PCI-DSS level 1 certified Payment Orchestration System enables Enterprises to orchestrate, unify & optimize the pro...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661844533/icons/ixopay.png",
+  "website": "https://ixopay.com/",
+  "docsUrl": "https://gateway.ixopay.com/documentation/gateway"
+}

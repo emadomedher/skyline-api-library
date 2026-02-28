@@ -1,0 +1,14 @@
+{
+  "id": "adobe-illustrator-draw",
+  "title": "Adobe Illustrator Draw",
+  "subtitle": "Create beautiful, scalable vector designs on your iPad with Adobe Illustrator Draw and sync your design across Adobe ...",
+  "tags": [
+    "design",
+    "illustration"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600227780/icons/adobe-illustrator-draw.png",
+  "website": "https://www.adobe.com/be_en/products/draw.html"
+}

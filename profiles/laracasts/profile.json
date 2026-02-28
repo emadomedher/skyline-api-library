@@ -1,0 +1,15 @@
+{
+  "id": "laracasts",
+  "title": "Laracasts",
+  "subtitle": "Push your web developments skills to the next level, through expert screencasts on Laravel, Vue, and so much more. ",
+  "tags": [
+    "laravel",
+    "education",
+    "videos"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572617490/catalog/laracasts/icon128x128.jpg",
+  "website": "https://laracasts.com/"
+}

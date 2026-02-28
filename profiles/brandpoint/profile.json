@@ -1,0 +1,13 @@
+{
+  "id": "brandpoint",
+  "title": "Brandpoint",
+  "subtitle": "Brandpoint is a full-service content marketing agency built to deliver amazing results for you and your organization....",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825945/catalog/brandpoint/icon128x128.jpg",
+  "website": "https://brandpoint.com"
+}

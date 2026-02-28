@@ -1,0 +1,14 @@
+{
+  "id": "appmachine",
+  "title": "Appmachine",
+  "subtitle": "Create your own app with the AppMachine designer. The fast, no-code app building platform for PWA Web apps, iOS and A...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964298/catalog/appmachine/icon128x128.png",
+  "website": "https://appmachine.com",
+  "docsUrl": "https://www.appmachine.com/developers"
+}

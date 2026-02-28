@@ -1,0 +1,13 @@
+{
+  "id": "viralcontentbee",
+  "title": "ViralContentBee",
+  "subtitle": "Viral Content Bee (formerly Viral Content Buzz) is a free social media promotion platform allowing users to put their...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946389/catalog/viralcontentbee/icon128x128.jpg",
+  "website": "https://viralcontentbee.com"
+}

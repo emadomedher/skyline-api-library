@@ -1,0 +1,13 @@
+{
+  "id": "electricimp",
+  "title": "Electric Imp",
+  "subtitle": "Electric Imp simplifies connecting and managing devices from prototype-to-production through end-of-life so companies...",
+  "tags": [
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581196303/catalog/electricimp/icon128x128.jpg",
+  "website": "https://www.electricimp.com/"
+}

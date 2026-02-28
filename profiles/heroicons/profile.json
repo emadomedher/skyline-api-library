@@ -1,0 +1,14 @@
+{
+  "id": "heroicons",
+  "title": "Heroicons",
+  "subtitle": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+  "tags": [
+    "icons",
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598821747/icons/heroicons.png",
+  "website": "https://heroicons.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "crelan-be",
+  "title": "Crelan",
+  "subtitle": "Welkom bij Crelan, uw cooperatieve bank.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563414785/catalog/crelan-be/icon128x128.jpg",
+  "website": "https://crelan.be"
+}

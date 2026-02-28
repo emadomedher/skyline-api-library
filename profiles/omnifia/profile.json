@@ -1,0 +1,13 @@
+{
+  "id": "omnifia",
+  "title": "Omnifia",
+  "subtitle": "One workplace hub with all your favourite apps.\nDiscover all your workplace updates in one glance.\nSearch across all ...",
+  "tags": [
+    "knowledge-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641338962/icons/omnifia.png",
+  "website": "https://www.omnifia.com/"
+}

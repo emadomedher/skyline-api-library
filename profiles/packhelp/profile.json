@@ -1,0 +1,16 @@
+{
+  "id": "packhelp",
+  "title": "Packhelp",
+  "subtitle": "⭐️ ⭐️ ⭐️ ⭐️ ⭐️ Design and print custom packaging with Packhelp! Starting at €0.26 a piece. ✅ Free shipping ✅ Low mini...",
+  "tags": [
+    "custom-packaging",
+    "ecommerce",
+    "packaging",
+    "marketplace"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570558888/catalog/packhelp/icon128x128.png",
+  "website": "https://packhelp.com/"
+}

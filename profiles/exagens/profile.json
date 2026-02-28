@@ -1,0 +1,13 @@
+{
+  "id": "exagens",
+  "title": "exagens",
+  "subtitle": "Exagens is focused on delivering behavioral banking solutions to create better relational engagement and more product...",
+  "tags": [
+    "behavioral-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617783804/icons/exagens.png",
+  "website": "https://exagens.com/"
+}

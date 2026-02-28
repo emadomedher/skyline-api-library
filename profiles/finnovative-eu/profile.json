@@ -1,0 +1,13 @@
+{
+  "id": "finnovative-eu",
+  "title": "Finnovative",
+  "subtitle": "Developing the Financial Services Innovating with Open Banking PSD2 and Open Banking is changing the banking landscap...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632592960/icons/finnovative-eu.png",
+  "website": "https://finnovative.eu/"
+}

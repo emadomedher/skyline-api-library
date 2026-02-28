@@ -1,0 +1,15 @@
+{
+  "id": "stashinvest",
+  "title": "Stash",
+  "subtitle": "Invest with as little as $5. Get the only debit card that earns Stock-Back rewards. Save for a brighter financial fut...",
+  "tags": [
+    "investing",
+    "fintech",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577072216/catalog/stashinvest/icon128x128.jpg",
+  "website": "https://www.stashinvest.com/"
+}

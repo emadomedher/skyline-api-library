@@ -1,0 +1,13 @@
+{
+  "id": "teejlab-apidiscovery",
+  "title": "API Discovery",
+  "subtitle": "API Discovery API integration",
+  "tags": [
+    "api-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597787925/icons/teejlab-apidiscovery.jpg",
+  "website": "https://apidiscovery.teejlab.com/"
+}

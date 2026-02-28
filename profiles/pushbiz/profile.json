@@ -1,0 +1,12 @@
+{
+  "id": "pushbiz",
+  "title": "PushBIZ",
+  "subtitle": "PushBIZ helps you send Push Notification on web and mobile. It makes your business Visible to your Customers, even wh...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305784/catalog/pushbiz/icon128x128.png"
+}

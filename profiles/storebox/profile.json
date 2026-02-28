@@ -1,0 +1,14 @@
+{
+  "id": "storebox",
+  "title": "Storebox",
+  "subtitle": "100% gratis elektronisk kvittering. Få adgang til alle dine kvitteringer hurtigt og let, online eller på mobil.",
+  "tags": [
+    "digital-receipt"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648737856/icons/storebox.jpg",
+  "website": "https://www.storebox.com/",
+  "docsUrl": "https://www.storebox.com/#"
+}

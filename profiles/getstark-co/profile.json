@@ -1,0 +1,13 @@
+{
+  "id": "getstark-co",
+  "title": "Stark",
+  "subtitle": "Stark – The color-blind simulator and contrast checker. Design with accessibility in mind.",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564834275/catalog/getstark-co/icon128x128.png",
+  "website": "https://getstark.co"
+}

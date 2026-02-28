@@ -1,0 +1,13 @@
+{
+  "id": "fidorbank",
+  "title": "Fidor Bank",
+  "subtitle": "Fidor Bank API integration",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661007975/icons/fidorbank.png",
+  "website": "https://www.fidor.de/en"
+}

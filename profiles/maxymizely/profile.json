@@ -1,0 +1,13 @@
+{
+  "id": "maxymizely",
+  "title": "Maxymizely",
+  "subtitle": "Simple integration, all types of analytics, and A/B testing with one tool.",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721042/catalog/maxymizely/icon128x128.png",
+  "website": "https://maxymizely.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "iabtechlab",
+  "title": "IAB Tech Lab",
+  "subtitle": "Established in 2014, the IAB Technology Laboratory (Tech Lab) is a non-profit consortium that engages a member commun...",
+  "tags": [
+    "advertising",
+    "compliance",
+    "certifications"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599954251/icons/iabtechlab.png",
+  "website": "https://iabtechlab.com/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlscwwobhlnpbnween1ejr0wjhtqvmi2paynh233l9bkzopgnlw/viewform"
+}

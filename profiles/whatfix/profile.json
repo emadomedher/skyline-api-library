@@ -1,0 +1,14 @@
+{
+  "id": "whatfix",
+  "title": "Whatfix",
+  "subtitle": "Provide employees with a personalized user onboarding experience and drive digital adoption of your enterprise applic...",
+  "tags": [
+    "customer-experience-service-and-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946362/catalog/whatfix/icon128x128.jpg",
+  "website": "https://whatfix.com",
+  "docsUrl": "https://docs.microsoft.com/en-us/azure/security"
+}

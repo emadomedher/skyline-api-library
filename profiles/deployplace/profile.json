@@ -1,0 +1,14 @@
+{
+  "id": "deployplace",
+  "title": "DeployPlace",
+  "subtitle": "DeployPlace is an automated deployment tool for easy deployment of complex applications to your servers or to the cloud.",
+  "tags": [
+    "deployment-automation",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633273082/icons/deployplace.jpg",
+  "website": "https://deployplace.com/"
+}

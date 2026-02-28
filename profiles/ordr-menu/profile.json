@@ -1,0 +1,13 @@
+{
+  "id": "ordr-menu",
+  "title": "ORDR",
+  "subtitle": "Restaurants, foodstalls and takeaways use ORDR to speed up food prep and increase revenue.",
+  "tags": [
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621428347/icons/ordr-menu.png",
+  "website": "https://ordr.menu/"
+}

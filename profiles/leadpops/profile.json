@@ -1,0 +1,12 @@
+{
+  "id": "leadpops",
+  "title": "leadPops",
+  "subtitle": "leadPops develops lead generation technology and marketing solutions for mortgage, real estate, and insurance pros.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305286/catalog/leadpops/icon128x128.png"
+}

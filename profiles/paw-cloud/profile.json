@@ -1,0 +1,14 @@
+{
+  "id": "paw-cloud",
+  "title": "Paw",
+  "subtitle": "Paw is a full-featured and beautifully designed Mac app that makes interaction with REST services delightful.Whether ...",
+  "tags": [
+    "api-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611247041/icons/paw-cloud.jpg",
+  "website": "https://paw.cloud/",
+  "docsUrl": "https://paw.cloud/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "get-satisfaction",
+  "title": "Get Satisfaction",
+  "subtitle": "Get Satisfaction is a simple way add support forums to your site. Get Satisfaction lets you create a forum for users ...",
+  "tags": [
+    "customer-support",
+    "customer-appreciation"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055916/catalog/get-satisfaction/icon128x128.png"
+}

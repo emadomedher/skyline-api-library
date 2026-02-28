@@ -1,0 +1,14 @@
+{
+  "id": "getgrab",
+  "title": "Grab",
+  "subtitle": "Grab API integration",
+  "tags": [
+    "airport-mobile-ordering",
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576754474/catalog/getgrab/icon128x128.png",
+  "website": "https://getgrab.com/"
+}

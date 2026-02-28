@@ -1,0 +1,14 @@
+{
+  "id": "bucket-co",
+  "title": "Bucket",
+  "subtitle": "Bucket empowers product teams with a repeatable approach to shipping features that customers crave.",
+  "tags": [
+    "feature-reporting",
+    "product-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885677/icons/bucket-co.jpg",
+  "website": "https://bucket.co/"
+}

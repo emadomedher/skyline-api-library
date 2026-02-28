@@ -1,0 +1,13 @@
+{
+  "id": "fintrax-io",
+  "title": "Fintrax",
+  "subtitle": "Uitkeringsattest, financieel plan en bedrijfswaardering. Fintrax is je vaste partner voor alle digitale tools voor de...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609179375/icons/fintrax-io.png",
+  "website": "https://fintrax.io/"
+}

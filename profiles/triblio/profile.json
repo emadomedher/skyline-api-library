@@ -1,0 +1,13 @@
+{
+  "id": "triblio",
+  "title": "Triblio",
+  "subtitle": "Triblio's account-based marketing platform runs ad, web, and sales campaigns so that marketers can scale 1:1 account ...",
+  "tags": [
+    "account-based-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438054/catalog/triblio/icon128x128.png",
+  "website": "https://triblio.com"
+}

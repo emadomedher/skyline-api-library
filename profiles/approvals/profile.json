@@ -1,0 +1,12 @@
+{
+  "id": "approvals",
+  "title": "Approvals",
+  "subtitle": "Enables approvals in workflows.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264738/catalog/approvals/icon128x128.svg"
+}

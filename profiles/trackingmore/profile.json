@@ -1,0 +1,14 @@
+{
+  "id": "trackingmore",
+  "title": "TrackingMore",
+  "subtitle": "TrackingMore: all-in-one global package tracking tool. Support track and trace international 472 couriers. API docs, ...",
+  "tags": [
+    "parcel-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570970764/catalog/trackingmore/icon128x128.png",
+  "website": "https://www.trackingmore.com/",
+  "docsUrl": "https://www.trackingmore.com/api-index.html"
+}

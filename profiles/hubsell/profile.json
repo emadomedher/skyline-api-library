@@ -1,0 +1,13 @@
+{
+  "id": "hubsell",
+  "title": "hubsell",
+  "subtitle": "hubsell enables you to build sales pipeline within a few weeks by providing on-demand generated data and outreach aut...",
+  "tags": [
+    "sales-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580820518/catalog/hubsell/icon128x128.jpg",
+  "website": "https://hubsell.com/"
+}

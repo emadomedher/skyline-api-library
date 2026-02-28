@@ -1,0 +1,13 @@
+{
+  "id": "superoffice",
+  "title": "SuperOffice",
+  "subtitle": "SuperOffice CRM helps sales, marketing and customer service teams build better customer relationships. Founded in 199...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946516/catalog/superoffice/icon128x128.jpg",
+  "website": "https://superoffice.com"
+}

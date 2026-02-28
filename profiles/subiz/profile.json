@@ -1,0 +1,13 @@
+{
+  "id": "subiz",
+  "title": "Subiz",
+  "subtitle": "Subiz is a customer communication platform to support businesses communicate to customers throughout the process of m...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722370/catalog/subiz/icon128x128.jpg",
+  "website": "https://subiz.com"
+}

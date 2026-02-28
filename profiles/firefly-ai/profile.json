@@ -1,0 +1,13 @@
+{
+  "id": "firefly-ai",
+  "title": "Firefly.ai",
+  "subtitle": "AI IN A SNAP - An automated machine learning platform for business impact.",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564776967/catalog/firefly-ai/icon128x128.jpg",
+  "website": "https://firefly.ai"
+}

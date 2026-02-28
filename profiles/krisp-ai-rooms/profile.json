@@ -1,0 +1,13 @@
+{
+  "id": "krisp-ai-rooms",
+  "title": "Krisp Rooms",
+  "subtitle": "Can’t hear your colleagues speaking because of noise and room echo? Krisp Rooms solves the two pain points of the con...",
+  "tags": [
+    "meetings"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584563554/catalog/krisp-ai-rooms/icon128x128.jpg",
+  "website": "https://krisp.ai/krisp-rooms"
+}

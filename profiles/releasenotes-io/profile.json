@@ -1,0 +1,13 @@
+{
+  "id": "releasenotes-io",
+  "title": "ReleaseNotes.io",
+  "subtitle": "ReleaseNotes.io is a changelog tool to share your product release notes with your users. We make it easy to publish &...",
+  "tags": [
+    "changelog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587105406/catalog/releasenotes-io/icon128x128.png",
+  "website": "https://releasenotes.io/"
+}

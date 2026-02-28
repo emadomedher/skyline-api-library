@@ -1,0 +1,13 @@
+{
+  "id": "sparkle",
+  "title": "Sparkle",
+  "subtitle": "Create social media displays by visualizing social media content and user generated content, beautifully across any d...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962245/catalog/sparkle/icon128x128.png",
+  "website": "https://getsparkle.io"
+}

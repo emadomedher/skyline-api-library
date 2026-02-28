@@ -1,0 +1,13 @@
+{
+  "id": "planner-dale",
+  "title": "Planner Dale",
+  "subtitle": "Planner Dale API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963365/catalog/planner-dale/icon128x128.png",
+  "website": "https://plannerdale.com"
+}

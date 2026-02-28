@@ -1,0 +1,13 @@
+{
+  "id": "zoomin",
+  "title": "Zoomin",
+  "subtitle": "Zoomin’s technology allows you to deliver always-updated, personalized product documentation, to ensure your users fi...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828113/catalog/zoomin/icon128x128.png",
+  "website": "https://zoominsoftware.com"
+}

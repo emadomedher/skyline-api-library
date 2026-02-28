@@ -1,0 +1,13 @@
+{
+  "id": "transform-co",
+  "title": "Transform",
+  "subtitle": "Make metrics the real language of data.",
+  "tags": [
+    "product-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624221128/icons/transform-co.jpg",
+  "website": "https://transform.co/"
+}

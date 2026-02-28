@@ -1,0 +1,14 @@
+{
+  "id": "openchannel-io",
+  "title": "OpenChannel",
+  "subtitle": "Build, brand and launch your own app store platform - Apps and add ons for your product, submitted by developers, dis...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563041302/catalog/openchannel-io/icon128x128.jpg",
+  "website": "https://openchannel.io",
+  "docsUrl": "https://support.openchannel.io"
+}

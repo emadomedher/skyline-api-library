@@ -1,0 +1,13 @@
+{
+  "id": "prolifiq",
+  "title": "Prolifiq",
+  "subtitle": "PROLIFIQ offers the #1 suite of Salesforce native sales enablement applications that enable your sales teams to win a...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827268/catalog/prolifiq/icon128x128.jpg",
+  "website": "https://prolifiq.com"
+}

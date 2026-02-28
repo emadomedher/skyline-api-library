@@ -1,0 +1,13 @@
+{
+  "id": "equipsme",
+  "title": "Equipsme",
+  "subtitle": "Equipsme offers business health insurance plans for employees and their families. Bespoke for Businesses. Empower you...",
+  "tags": [
+    "health-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592321644/icons/equipsme.jpg",
+  "website": "https://www.equipsme.com/"
+}

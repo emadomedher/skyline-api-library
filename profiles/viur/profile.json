@@ -1,0 +1,13 @@
+{
+  "id": "viur",
+  "title": "Viur",
+  "subtitle": "Viur is a business intelligence solution that helps companies to unlock the value of data, through visualization and ...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722783/catalog/viur/icon128x128.jpg",
+  "website": "https://viurdata.com"
+}

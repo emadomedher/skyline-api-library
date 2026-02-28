@@ -1,0 +1,13 @@
+{
+  "id": "binfire",
+  "title": "BinFire",
+  "subtitle": " Tracking everyone’s work and getting true status of your projects is hard work! Use Binfire to plan, track and manag...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947238/catalog/binfire/icon128x128.jpg",
+  "website": "https://binfire.com"
+}

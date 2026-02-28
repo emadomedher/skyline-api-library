@@ -1,0 +1,12 @@
+{
+  "id": "zoho-sign",
+  "title": "Zoho Sign",
+  "subtitle": "Zoho Sign is a complete digital signature app that allows you to securely sign, send, and manage business documents o...",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830053/catalog/zoho-sign/icon128x128.png"
+}

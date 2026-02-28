@@ -1,0 +1,14 @@
+{
+  "id": "pabbly-connect",
+  "title": "Pabbly",
+  "subtitle": "Sign In Sign Up Free One platform to automate all your integrations With Pabbly Connect, you can create automated wor...",
+  "tags": [
+    "integration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599586070/icons/pabbly-connect.png",
+  "website": "https://www.pabbly.com/connect/",
+  "docsUrl": "https://www.pabbly.com/connect/#"
+}

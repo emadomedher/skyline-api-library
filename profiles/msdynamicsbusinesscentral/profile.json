@@ -1,0 +1,14 @@
+{
+  "id": "msdynamicsbusinesscentral",
+  "title": "Microsoft Dynamics 365 Business Central",
+  "subtitle": "Microsoft Dynamics 365 Business Central API integration",
+  "tags": [
+    "finance",
+    "project-management",
+    "inventory"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378797/catalog/msdynamicsbusinesscentral/icon128x128.png"
+}

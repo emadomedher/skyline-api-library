@@ -1,0 +1,14 @@
+{
+  "id": "stenography-dev",
+  "title": "Stenography",
+  "subtitle": "Stenography API integration",
+  "tags": [
+    "developers-tools",
+    "code-explanation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634108796/icons/stenography-dev.jpg",
+  "website": "https://stenography.dev/"
+}

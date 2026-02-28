@@ -1,0 +1,13 @@
+{
+  "id": "smintly",
+  "title": "Smintly",
+  "subtitle": "Smintly API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389986/catalog/smintly/icon128x128.png",
+  "website": "https://smintly.com"
+}

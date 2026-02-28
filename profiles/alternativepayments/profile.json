@@ -1,0 +1,14 @@
+{
+  "id": "alternativepayments",
+  "title": "Alternative Payments",
+  "subtitle": "Alternative Payments can supercharge your eCommerce business and help meet the needs of millions of customers that do...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599741722/icons/alternativepayments.jpg",
+  "website": "https://www.alternativepayments.com/",
+  "docsUrl": "https://www.alternativepayments.com/developers"
+}

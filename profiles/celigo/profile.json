@@ -1,0 +1,15 @@
+{
+  "id": "celigo",
+  "title": "Celigo",
+  "subtitle": "Celigo is the best integration platform (iPaaS) to connect applications and to automate your business",
+  "tags": [
+    "ipaas-clouddata-integration-and-tag-management",
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719380/catalog/celigo/icon128x128.jpg",
+  "website": "https://celigo.com",
+  "docsUrl": "https://docs.celigo.com"
+}

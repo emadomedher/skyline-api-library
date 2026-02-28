@@ -1,0 +1,14 @@
+{
+  "id": "novopayment",
+  "title": "NovoPayment",
+  "subtitle": "Enable your digital banking, payment and card solutions in record time with our API-based platform.",
+  "tags": [
+    "banking-as-a-serivce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650579917/icons/novopayment.png",
+  "website": "https://novopayment.com/",
+  "docsUrl": "https://developer.novopayment.com"
+}

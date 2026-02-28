@@ -1,0 +1,14 @@
+{
+  "id": "bitstamp-net",
+  "title": "Bitstamp",
+  "subtitle": "Buy and sell leading cryptocurrencies at Bitstamp – the world's\n        longest-standing crypto exchange. Low fees, r...",
+  "tags": [
+    "crypto-exchanges"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605533752/icons/bitstamp-net.jpg",
+  "website": "https://www.bitstamp.net/",
+  "docsUrl": "https://www.bitstamp.net/api"
+}

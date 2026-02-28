@@ -1,0 +1,15 @@
+{
+  "id": "picnichealth",
+  "title": "PicnicHealth",
+  "subtitle": "We collect all your medical records in a secure, digital timeline. And we empower you to be part of something bigger ...",
+  "tags": [
+    "patient-data",
+    "health",
+    "patient-health-record-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598984795/icons/picnichealth.jpg",
+  "website": "https://picnichealth.com/"
+}

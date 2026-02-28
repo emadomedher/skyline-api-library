@@ -1,0 +1,13 @@
+{
+  "id": "zinc-work",
+  "title": "Zinc",
+  "subtitle": "Zinc is a secure, all-in-one, global background checking solution. Save time by requesting checks directly from your ...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990322/icons/zinc-work.jpg",
+  "website": "https://zinc.work/"
+}

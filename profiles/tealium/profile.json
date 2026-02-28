@@ -1,0 +1,16 @@
+{
+  "id": "tealium",
+  "title": "Tealium",
+  "subtitle": "All of your data. Fully integrated. Tealium’s Customer Data Hub connects your mobile, web, offline, and other data so...",
+  "tags": [
+    "customer-data-platform",
+    "tag-management",
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722466/catalog/tealium/icon128x128.jpg",
+  "website": "https://tealium.com",
+  "docsUrl": "https://tealium.com/docs-overview"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ghostlamp",
+  "title": "Ghostlamp",
+  "subtitle": "Ghostlamp enables brands and agencies to create on-demand micro influencer campaigns, anywhere in the world through m...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946972/catalog/ghostlamp/icon128x128.jpg",
+  "website": "https://ghostlamp.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "optimail",
+  "title": "Optimail",
+  "subtitle": "Optimail is an intelligent marketing automation platform that automatically optimizes your email campaigns through ad...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946740/catalog/optimail/icon128x128.jpg",
+  "website": "https://optimail.io"
+}

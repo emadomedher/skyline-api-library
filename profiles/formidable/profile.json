@@ -1,0 +1,14 @@
+{
+  "id": "formidable",
+  "title": "Formidable Forms",
+  "subtitle": "Formidable Forms is a WordPress plugin that helps you create beautiful drag and drop forms with custom styling. You a...",
+  "tags": [
+    "wordpress",
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304961/catalog/formidable/icon128x128.png",
+  "website": "https://formidableforms.com/"
+}

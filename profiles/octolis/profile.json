@@ -1,0 +1,14 @@
+{
+  "id": "octolis",
+  "title": "Octolis",
+  "subtitle": "Octolis is the easiest way to prepare customer data from multiple sources, and sync it to any business system.",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679688027/icons/octolis.png",
+  "website": "https://octolis.com/",
+  "docsUrl": "https://help.octolis.com"
+}

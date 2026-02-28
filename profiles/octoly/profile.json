@@ -1,0 +1,13 @@
+{
+  "id": "octoly",
+  "title": "Octoly",
+  "subtitle": "Octoly is a gifting platform that connects a community of more than 10,000 influencers with the best Beauty, Fashion ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946764/catalog/octoly/icon128x128.jpg",
+  "website": "https://octoly.com"
+}

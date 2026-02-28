@@ -1,0 +1,13 @@
+{
+  "id": "piermontbank",
+  "title": "Piermont Bank",
+  "subtitle": "Piermont is redefining the commercial banking experience with its technology platform and innovative process as a new...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635900779/icons/piermontbank.jpg",
+  "website": "https://www.piermontbank.com/"
+}

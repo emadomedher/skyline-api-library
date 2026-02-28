@@ -1,0 +1,13 @@
+{
+  "id": "upcall",
+  "title": "Upcall",
+  "subtitle": "Upcall provides phone callers on demand. Import phone numbers and our professional callers will make sales and market...",
+  "tags": [
+    "phone-&-sms",
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306409/catalog/upcall/icon128x128.png"
+}

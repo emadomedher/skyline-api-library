@@ -1,0 +1,13 @@
+{
+  "id": "chainlink",
+  "title": "Chainlink",
+  "subtitle": "Chainlink is full-service digital marketing agency based in NYC helping companies and brands reach targeted audiences...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719393/catalog/chainlink/icon128x128.png",
+  "website": "https://chainlinkmarketing.com"
+}

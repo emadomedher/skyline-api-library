@@ -1,0 +1,14 @@
+{
+  "id": "docusaurus",
+  "title": "Docusaurus",
+  "subtitle": "An optimized site generator in React. Docusaurus helps you to move fast and write content. Build documentation websit...",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616276015/icons/docusaurus.jpg",
+  "website": "https://v2.docusaurus.io/",
+  "docsUrl": "https://v2.docusaurus.io/docs"
+}

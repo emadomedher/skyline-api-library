@@ -1,0 +1,13 @@
+{
+  "id": "the-many",
+  "title": "The Many",
+  "subtitle": " Investering for helt almindelige mennesker. Investér i ejendomme og, meget snart, bæredygtig energi med The Many. Læ...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613353331/icons/the-many.jpg",
+  "website": "https://the-many.com/en"
+}

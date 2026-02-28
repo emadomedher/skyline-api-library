@@ -1,0 +1,13 @@
+{
+  "id": "uwpayroll-be",
+  "title": "Uw Payroll",
+  "subtitle": "SOCIAAL BUREAU - Terwijl u zich 100 % focust op uw werk draagt UwPayroll er zorg voor dat de berekening van de lonen ...",
+  "tags": [
+    "payroll-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626428637/icons/uwpayroll-be.png",
+  "website": "https://uwpayroll.be/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jumpstory",
+  "title": "JumpStory",
+  "subtitle": "With JumpStory™ you get one simple license, one low price and 25 million photos, videos, icons and vectors to choose ...",
+  "tags": [
+    "stock-images"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587573646/catalog/jumpstory/icon128x128.png",
+  "website": "https://jumpstory.com/"
+}

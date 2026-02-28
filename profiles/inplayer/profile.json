@@ -1,0 +1,15 @@
+{
+  "id": "inplayer",
+  "title": "InPlayer",
+  "subtitle": "Build a loyal audience and increase your revenue on subscriptions and on-demand content. An entire monetisation platf...",
+  "tags": [
+    "paywall",
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305962/catalog/inplayer/icon128x128.jpg",
+  "website": "https://inplayer.com",
+  "docsUrl": "https://developers.inplayer.com"
+}

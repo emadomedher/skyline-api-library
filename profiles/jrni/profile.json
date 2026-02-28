@@ -1,0 +1,14 @@
+{
+  "id": "jrni",
+  "title": "JRNI",
+  "subtitle": "The experiential relationship management platform for enterprise organizations to deliver personalized customer appoi...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231796/icons/jrni.jpg",
+  "website": "https://www.jrni.com/",
+  "docsUrl": "https://api-docs.jrni.com"
+}

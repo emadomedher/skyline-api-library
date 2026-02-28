@@ -1,0 +1,13 @@
+{
+  "id": "buncee",
+  "title": "Buncee",
+  "subtitle": "Buncee API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825969/catalog/buncee/icon128x128.jpg",
+  "website": "https://edu.buncee.com"
+}

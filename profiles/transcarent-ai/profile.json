@@ -1,0 +1,13 @@
+{
+  "id": "transcarent-ai",
+  "title": "Transcarent",
+  "subtitle": "We put people in charge of their health and care",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623808058/icons/transcarent-ai.jpg",
+  "website": "https://transcarent.ai/"
+}

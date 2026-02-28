@@ -1,0 +1,15 @@
+{
+  "id": "zyte",
+  "title": "Zyte",
+  "subtitle": "We used to be Scrapinghub. Now we’re Zyte. Access clean, valuable data with web scraping services that drive your bus...",
+  "tags": [
+    "data-extraction",
+    "web-scraping"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632258379/icons/zyte.jpg",
+  "website": "https://www.zyte.com/",
+  "docsUrl": "https://www.zyte.com/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "slagersonline-be",
+  "title": "Slagersonline.be",
+  "subtitle": "Order your delicious meat online. Pay in advance or at the shop. More than 300 butcheries in Belgium and far beyond a...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567089249/catalog/slagersonline-be/icon128x128.png",
+  "website": "https://slagersonline.be"
+}

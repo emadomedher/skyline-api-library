@@ -1,0 +1,15 @@
+{
+  "id": "atos",
+  "title": "Atos",
+  "subtitle": "Atos is a global leader in digital transformation with 110,000 employees in 73 countries and annual revenue of € 12 b...",
+  "tags": [
+    "it-services",
+    "consultancy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604863363/icons/atos.png",
+  "website": "https://atos.net/",
+  "docsUrl": "https://engage.atos.net/preference-center"
+}

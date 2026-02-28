@@ -1,0 +1,14 @@
+{
+  "id": "productvoice-io",
+  "title": "ProductVoice",
+  "subtitle": "ProductVoice is platform for informing and market product announcements as well as learn and measure from the same. I...",
+  "tags": [
+    "changelogs",
+    "customer-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581018360/catalog/productvoice-io/icon128x128.jpg",
+  "website": "https://www.productvoice.io/"
+}

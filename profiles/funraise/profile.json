@@ -1,0 +1,14 @@
+{
+  "id": "funraise",
+  "title": "Funraise",
+  "subtitle": "Funraise makes nonprofit fundraising a piece of cake. With our delightful donor CRM, managing donor data is easier th...",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618619400/icons/funraise.jpg",
+  "website": "https://www.funraise.org/",
+  "docsUrl": "https://help.funraise.io"
+}

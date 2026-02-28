@@ -1,0 +1,13 @@
+{
+  "id": "hippo",
+  "title": "Hippo",
+  "subtitle": "Simpler, smarter home and condo insurance for up to 25% less. Hippo has modernized home insurance. We calculate quote...",
+  "tags": [
+    "home-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630350455/icons/hippo.jpg",
+  "website": "https://www.hippo.com/"
+}

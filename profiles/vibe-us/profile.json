@@ -1,0 +1,13 @@
+{
+  "id": "vibe-us",
+  "title": "Vibe",
+  "subtitle": "Vibe packs digital whiteboard technology, video conferencing, wireless screencasting, third-party app integrations, a...",
+  "tags": [
+    "remote-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600227782/icons/vibe-us.jpg",
+  "website": "https://vibe.us/"
+}

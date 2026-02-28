@@ -1,0 +1,15 @@
+{
+  "id": "brandfetch-io",
+  "title": "Brandfetch",
+  "subtitle": "Every brand at your fingertips. Instantly search millions of brands whether you're looking for a logo, colors, images...",
+  "tags": [
+    "personalization-api",
+    "data-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584552616/catalog/brandfetch-io/icon128x128.png",
+  "website": "https://brandfetch.io/",
+  "docsUrl": "https://docs.brandfetch.com"
+}

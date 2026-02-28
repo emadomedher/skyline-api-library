@@ -1,0 +1,15 @@
+{
+  "id": "greenomy-io",
+  "title": "Greenomy",
+  "subtitle": "Prepare your Taxonomy alignment report with our digital solutions. Simple - Automated - Affordable. Your one stop Saa...",
+  "tags": [
+    "eu-taxonomy",
+    "sfdr-solution",
+    "sustainability-reporting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638042381/icons/greenomy-io.jpg",
+  "website": "https://greenomy.io/"
+}

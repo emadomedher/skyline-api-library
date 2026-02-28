@@ -1,0 +1,13 @@
+{
+  "id": "holvi",
+  "title": "Holvi",
+  "subtitle": "Holvi is the business account for sole traders and the self-employed. Send invoices, track expenses and prepare for t...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623620/icons/holvi.jpg",
+  "website": "https://www.holvi.com/"
+}

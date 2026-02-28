@@ -1,0 +1,14 @@
+{
+  "id": "truly-co",
+  "title": "Truly",
+  "subtitle": "Meet the #1 rated phone solution for sales teams who track, analyze, and coach on their customer conversations.",
+  "tags": [
+    "sales-enablement",
+    "voip"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574179153/catalog/truly-co/icon128x128.jpg",
+  "website": "https://truly.co/"
+}

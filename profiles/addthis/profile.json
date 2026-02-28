@@ -1,0 +1,13 @@
+{
+  "id": "addthis",
+  "title": "AddThis",
+  "subtitle": "AddThis share buttons, targeting tools and content recommendations help you get more likes, shares and followers and ...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432795/catalog/addthis/icon128x128.png",
+  "website": "https://addthis.com"
+}

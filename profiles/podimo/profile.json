@@ -1,0 +1,13 @@
+{
+  "id": "podimo",
+  "title": "Podimo_Global",
+  "subtitle": "Unlimited access to exclusive True-Crime series, inspiring podcasts and your favorite audiobooks. First days for free...",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637851176/icons/podimo.jpg",
+  "website": "https://podimo.com/"
+}

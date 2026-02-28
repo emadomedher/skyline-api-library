@@ -1,0 +1,14 @@
+{
+  "id": "ingestai-io",
+  "title": "IngestAI",
+  "subtitle": "IngestAI API integration",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681298703/icons/ingestai-io.jpg",
+  "website": "https://ingestai.io/",
+  "docsUrl": "https://ingestai.io/docs"
+}

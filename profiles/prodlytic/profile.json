@@ -1,0 +1,13 @@
+{
+  "id": "prodlytic",
+  "title": "Prodlytic",
+  "subtitle": "Specialized analytics for product people - automatically record every user interaction with a single snippet of code.",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721587/catalog/prodlytic/icon128x128.jpg",
+  "website": "https://prodlytic.com"
+}

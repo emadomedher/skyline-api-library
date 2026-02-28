@@ -1,0 +1,12 @@
+{
+  "id": "datascope-forms",
+  "title": "DataScope Forms",
+  "subtitle": "DataScope Forms is a mobile solution to automate your operation. Collect data offline, manage field teams and share b...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284492/catalog/datascope-forms/icon128x128.jpg"
+}

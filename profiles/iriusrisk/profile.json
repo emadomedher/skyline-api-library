@@ -1,0 +1,15 @@
+{
+  "id": "iriusrisk",
+  "title": "Continuum Security SLNE",
+  "subtitle": "Continuum Security SLNE API integration",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193129/catalog/iriusrisk/icon128x128.png",
+  "website": "https://www.iriusrisk.com",
+  "docsUrl": "https://support.iriusrisk.com"
+}

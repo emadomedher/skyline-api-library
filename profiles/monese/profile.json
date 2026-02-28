@@ -1,0 +1,13 @@
+{
+  "id": "monese",
+  "title": "Monese",
+  "subtitle": "Ouvrez un compte mobile en euro pour gérer rapidement et facilement votre argent en ligne avec votre propre carte de ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632178801/icons/monese.jpg",
+  "website": "https://monese.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gopersonas",
+  "title": "Personas",
+  "subtitle": "B2B lead generation platform that helps startups increase qualified meetings, reduce time prospecting, and increase r...",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633385812/icons/gopersonas.png",
+  "website": "https://www.gopersonas.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rewire",
+  "title": "Rewire",
+  "subtitle": "Send money home with Rewire. Secure and trusted financial services designed to help migrants make cross-border money ...",
+  "tags": [
+    "challenger-banks",
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598784358/icons/rewire.jpg",
+  "website": "https://www.rewire.com/"
+}

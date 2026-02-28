@@ -1,0 +1,15 @@
+{
+  "id": "cookiebot",
+  "title": "Cookiebot",
+  "subtitle": "Cookiebot is a GDPR and ePrivacy compliant cookie and online tracking solution. Sign-up for free and make your websit...",
+  "tags": [
+    "cookies",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565351566/catalog/cookiebot/icon128x128.jpg",
+  "website": "https://cookiebot.com"
+}

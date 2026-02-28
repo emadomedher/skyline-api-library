@@ -1,0 +1,14 @@
+{
+  "id": "anychart",
+  "title": "AnyChart",
+  "subtitle": "AnyChart is a lightweight and robust JavaScript charting solution with great API and documentation. The chart types a...",
+  "tags": [
+    "charting-libraries"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006441/icons/anychart.jpg",
+  "website": "https://www.anychart.com/",
+  "docsUrl": "https://docs.anychart.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "guideblocks",
+  "title": "Guideblocks",
+  "subtitle": "Use Guideblocks to provide personalized and dynamic user assistance without developers and additional coding. Seamles...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434972/catalog/guideblocks/icon128x128.png",
+  "website": "https://guideblocks.com"
+}

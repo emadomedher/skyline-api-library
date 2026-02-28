@@ -1,0 +1,13 @@
+{
+  "id": "urenoverzicht-nl",
+  "title": "Nanda",
+  "subtitle": "Jouw uren bijhouden met Nanda? Dan werk je snel, simpel en slim. Een online urenregistratie zonder contracten en voor...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509285/catalog/urenoverzicht-nl/icon128x128.png",
+  "website": "https://www.urenoverzicht.nl/"
+}

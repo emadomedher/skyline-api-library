@@ -1,0 +1,13 @@
+{
+  "id": "pushover",
+  "title": "Pushover",
+  "subtitle": "Pushover is a simple push notification service to instantly send alerts to Android and iOS devices.",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305794/catalog/pushover/icon128x128.png",
+  "website": "https://pushover.net/"
+}

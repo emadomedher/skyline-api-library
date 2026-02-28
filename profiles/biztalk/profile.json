@@ -1,0 +1,14 @@
+{
+  "id": "biztalk",
+  "title": "Microsoft BizTalk",
+  "subtitle": "Microsoft BizTalk gives companies the ability to automate business processes through the use of \"adapters\". Adapters ...",
+  "tags": [
+    "microsoft",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055827/catalog/biztalk/icon128x128.png",
+  "website": "https://www.microsoft.com/en-us/cloud-platform/biztalk"
+}

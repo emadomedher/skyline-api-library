@@ -1,0 +1,13 @@
+{
+  "id": "govly",
+  "title": "Govly",
+  "subtitle": "Govly is the #1 Market Network for Government Contractors.",
+  "tags": [
+    "government-procurement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670902822/icons/govly.png",
+  "website": "https://www.govly.com/"
+}

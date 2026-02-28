@@ -1,0 +1,13 @@
+{
+  "id": "visitordata-nl",
+  "title": "VisitorData",
+  "subtitle": "VisitorData API integration",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612673135/icons/visitordata-nl.jpg",
+  "website": "https://www.visitordata.nl/"
+}

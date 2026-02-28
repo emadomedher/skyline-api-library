@@ -1,0 +1,16 @@
+{
+  "id": "voiceflow",
+  "title": "Voiceflow",
+  "subtitle": "Visually design, prototype and publish Alexa Skills and Google Actions without writing code.",
+  "tags": [
+    "voice-apps",
+    "communications",
+    "bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599353391/icons/voiceflow.png",
+  "website": "https://www.voiceflow.com/",
+  "docsUrl": "https://docs.voiceflow.com"
+}

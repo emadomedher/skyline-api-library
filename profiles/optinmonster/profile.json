@@ -1,0 +1,14 @@
+{
+  "id": "optinmonster",
+  "title": "OptinMonster",
+  "subtitle": "Powerful lead generation software that converts abandoning visitors into subscribers with our dynamic marketing tools...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963436/catalog/optinmonster/icon128x128.png",
+  "website": "https://optinmonster.com",
+  "docsUrl": "https://optinmonster.com/docs"
+}

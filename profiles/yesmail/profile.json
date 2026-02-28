@@ -1,0 +1,13 @@
+{
+  "id": "yesmail",
+  "title": "Yesmail",
+  "subtitle": "Since 2000, we use our services, technology and data to help you get your customers to \"yes\".",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722968/catalog/yesmail/icon128x128.jpg",
+  "website": "https://yesmail.com"
+}

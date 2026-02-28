@@ -1,0 +1,15 @@
+{
+  "id": "pandadoc",
+  "title": "PandaDoc",
+  "subtitle": "Create, approve, track, eSign documents 40% faster with PandaDoc – Number 1 document automation solution by G2 as of ...",
+  "tags": [
+    "documents",
+    "contract-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539014/catalog/pandadoc/icon128x128.png",
+  "website": "https://pandadoc.com",
+  "docsUrl": "https://developers.pandadoc.com/"
+}

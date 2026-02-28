@@ -1,0 +1,15 @@
+{
+  "id": "paygreen-io",
+  "title": "PayGreen",
+  "subtitle": "PayGreen permet à chaque entreprise d'accepter les paiements à distance en cartes bancaires et cartes titre-resto en ...",
+  "tags": [
+    "payments",
+    "climate"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599064699/icons/paygreen-io.jpg",
+  "website": "https://www.paygreen.io/",
+  "docsUrl": "https://paygreen.fr/documentation/api-documentation-categorie?cat=paiement"
+}

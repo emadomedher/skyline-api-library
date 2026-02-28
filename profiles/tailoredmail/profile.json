@@ -1,0 +1,13 @@
+{
+  "id": "tailoredmail",
+  "title": "TailoredMail",
+  "subtitle": "TailoredMail is a powerful email marketing and automation solution that exclusively offers embedded-video-in-email, d...",
+  "tags": [
+    "marketing-automation",
+    "email-newsletters"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306258/catalog/tailoredmail/icon128x128.png"
+}

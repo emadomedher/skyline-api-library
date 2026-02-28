@@ -1,0 +1,13 @@
+{
+  "id": "vextras",
+  "title": "Vextras",
+  "subtitle": "An app which offers connectivity with Volusion ecommerce stores.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306433/catalog/vextras/icon128x128.jpg",
+  "website": "https://vextras.com"
+}

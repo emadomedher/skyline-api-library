@@ -1,0 +1,14 @@
+{
+  "id": "hashport-network",
+  "title": "hashport",
+  "subtitle": "hashport is a public utility that facilitates the movement of digital assets between networks in a quick, secure, and...",
+  "tags": [
+    "digital-asset-management"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643305944/icons/hashport-network.jpg",
+  "website": "https://www.hashport.network/",
+  "docsUrl": "https://www.hashport.network/#"
+}

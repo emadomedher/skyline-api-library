@@ -1,0 +1,14 @@
+{
+  "id": "parsec-app",
+  "title": "Parsec",
+  "subtitle": "Parsec connects millions of people to their work, games, and friends from anywhere, across any device in silky smooth...",
+  "tags": [
+    "remote-desktop"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608117575/icons/parsec-app.jpg",
+  "website": "https://parsec.app/",
+  "docsUrl": "https://parsec.app/sdk"
+}

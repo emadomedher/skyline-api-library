@@ -1,0 +1,13 @@
+{
+  "id": "shortlist-freelancer-management-shortlist-project-inc",
+  "title": "Shortlist Freelancer Management (Shortlist Project Inc)",
+  "subtitle": "Shortlist Freelancer Management (Shortlist Project Inc) API integration",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437314/catalog/shortlist-freelancer-management-shortlist-project-inc/icon128x128.png",
+  "website": "https://shortlist.co"
+}

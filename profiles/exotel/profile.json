@@ -1,0 +1,14 @@
+{
+  "id": "exotel",
+  "title": "Exotel",
+  "subtitle": "The most reliable cloud communication company providing the best in class APIs for voice, messages, and user verifica...",
+  "tags": [
+    "phone-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642520277/icons/exotel.png",
+  "website": "https://exotel.com/",
+  "docsUrl": "https://developer.exotel.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "goldmansachs",
+  "title": "Goldman Sachs",
+  "subtitle": "The Goldman Sachs Group, Inc. is a leading global investment banking, securities and investment management firm that ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590612399/catalog/goldmansachs/icon128x128.jpg",
+  "website": "https://www.goldmansachs.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "osohq",
+  "title": "Oso",
+  "subtitle": "A batteries-included library for building authorization in your application — with support for role-based access cont...",
+  "tags": [
+    "role-based-access-control"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642619995/icons/osohq.png",
+  "website": "https://www.osohq.com/",
+  "docsUrl": "https://docs.osohq.com"
+}

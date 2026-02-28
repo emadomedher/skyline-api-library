@@ -1,0 +1,13 @@
+{
+  "id": "oracle-peoplesoft",
+  "title": "Oracle Peoplesoft",
+  "subtitle": "Oracle Peoplesoft API integration",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796481/catalog/oracle-peoplesoft/icon128x128.png",
+  "website": "https://www.oracle.com/applications/peoplesoft"
+}

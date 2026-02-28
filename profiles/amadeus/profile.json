@@ -1,0 +1,14 @@
+{
+  "id": "amadeus",
+  "title": "Amadeus",
+  "subtitle": "Amadeus travel technology helps businesses connect to the global travel ecosystem, manage operations more effectively...",
+  "tags": [
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557151314/catalog/amadeus/icon128x128.jpg",
+  "website": "https://amadeus.com",
+  "docsUrl": "https://developers.amadeus.com/"
+}

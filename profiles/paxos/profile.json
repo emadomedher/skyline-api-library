@@ -1,0 +1,15 @@
+{
+  "id": "paxos",
+  "title": "Paxos",
+  "subtitle": "Previous Next Paxos is a regulated financial institution building infrastructure to enable movement between physical ...",
+  "tags": [
+    "crypto-brokerage",
+    "crypto-api",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594901058/icons/paxos.jpg",
+  "website": "https://www.paxos.com/"
+}

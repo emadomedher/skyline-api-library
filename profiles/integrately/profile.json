@@ -1,0 +1,13 @@
+{
+  "id": "integrately",
+  "title": "Integrately  -  Integrate Your Apps In 1 Click",
+  "subtitle": "Get 3 months for FREE! Click to learn more.",
+  "tags": [
+    "integration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601755956/icons/integrately.png",
+  "website": "https://integrately.com/"
+}

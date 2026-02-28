@@ -1,0 +1,13 @@
+{
+  "id": "finway-de",
+  "title": "finway",
+  "subtitle": "finway is the SaaS solution for holistic spend management and smart corporate cards for SMEs in Europe. We put the fu...",
+  "tags": [
+    "spend-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630015797/icons/finway-de.png",
+  "website": "https://finway.de"
+}

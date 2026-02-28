@@ -1,0 +1,12 @@
+{
+  "id": "timelive",
+  "title": "TimeLive",
+  "subtitle": "TimeLive time and expense tracking software.",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306343/catalog/timelive/icon128x128.png"
+}

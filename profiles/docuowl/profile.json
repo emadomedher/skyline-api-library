@@ -1,0 +1,13 @@
+{
+  "id": "docuowl",
+  "title": "Docuowl",
+  "subtitle": " A documentation generator. Contribute to docuowl/docuowl development by creating an account on GitHub.",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620989216/icons/docuowl.png",
+  "website": "https://github.com/docuowl/docuowl"
+}

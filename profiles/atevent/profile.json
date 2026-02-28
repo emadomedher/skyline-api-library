@@ -1,0 +1,13 @@
+{
+  "id": "atevent",
+  "title": "atEvent",
+  "subtitle": "Qualify event leads from mobile devices and automatically sync to marketing automation systems for rapid, personalize...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825819/catalog/atevent/icon128x128.jpg",
+  "website": "https://at-event.com"
+}

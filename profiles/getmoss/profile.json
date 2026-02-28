@@ -1,0 +1,13 @@
+{
+  "id": "getmoss",
+  "title": "Moss",
+  "subtitle": "All business expenses in one place: ✓ Corporate credit cards ✓ Employee expenses ✓ Invoice management ✓ Digital accou...",
+  "tags": [
+    "spend-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629774624/icons/getmoss.jpg",
+  "website": "https://en.getmoss.com/"
+}

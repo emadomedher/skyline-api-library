@@ -1,0 +1,13 @@
+{
+  "id": "zinc",
+  "title": "Zinc",
+  "subtitle": "Zinc API integration",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556772578/catalog/zinc/icon128x128.png",
+  "website": "https://zinc.it"
+}

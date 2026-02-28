@@ -1,0 +1,14 @@
+{
+  "id": "moneyhub",
+  "title": "Moneyhub",
+  "subtitle": "Moneyhub app description, including accounts all in one place, \nunderstanding your money using spending and income an...",
+  "tags": [
+    "personal-finance-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567665469/catalog/moneyhub/icon128x128.jpg",
+  "website": "https://www.moneyhub.com/home"
+}

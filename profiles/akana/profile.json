@@ -1,0 +1,14 @@
+{
+  "id": "akana",
+  "title": "Akana by Perforce",
+  "subtitle": "Akana by Perforce is the easiest way to securely transform your enterprise with APIs. Find out what sets Akana’s full...",
+  "tags": [
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615596748/icons/akana.jpg",
+  "website": "https://www.akana.com/",
+  "docsUrl": "http://docs.akana.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dieboldnixdorf",
+  "title": "Diebold Nixdorf",
+  "subtitle": "Diebold Nixdorf offers world-leading banking solutions and retail technology systems that help banks, credit unions a...",
+  "tags": [
+    "banking",
+    "ecommerce"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598531259/icons/dieboldnixdorf.jpg",
+  "website": "https://www.dieboldnixdorf.com/",
+  "docsUrl": "https://www.dieboldnixdorf.com/en-us/support/documentation-services"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "employes-nl",
+  "title": "Employes",
+  "subtitle": "Employes is online salarisadministratie. Snel ingericht, eenvoudig in gebruik en speciaal voor het MKB. Probeer nu 30...",
+  "tags": [
+    "payroll",
+    "hr",
+    "payroll-management"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509320/catalog/employes-nl/icon128x128.png",
+  "website": "https://employes.nl/"
+}

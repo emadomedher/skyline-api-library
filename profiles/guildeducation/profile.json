@@ -1,0 +1,14 @@
+{
+  "id": "guildeducation",
+  "title": "Guild Education",
+  "subtitle": "Guild Education is redefining the future of work and adult education with tuition reimbursement, online programs and ...",
+  "tags": [
+    "employee-benefits",
+    "upskilling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609179376/icons/guildeducation.jpg",
+  "website": "https://www.guildeducation.com/"
+}

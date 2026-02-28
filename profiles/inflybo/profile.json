@@ -1,0 +1,13 @@
+{
+  "id": "inflybo",
+  "title": "Inflybo",
+  "subtitle": "Inflybo API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590424541/catalog/inflybo/icon128x128.jpg",
+  "website": "https://inflybo.com/"
+}

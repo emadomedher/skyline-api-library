@@ -1,0 +1,13 @@
+{
+  "id": "streak",
+  "title": "Streak",
+  "subtitle": "Streak is a flexible CRM and process management system that lives inside your Gmail inbox.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456779/catalog/streak/icon128x128.png",
+  "website": "https://www.streak.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "luos-io",
+  "title": "Luos",
+  "subtitle": "Open source architecture for efficiently designing, testing and deploying embedded applications.",
+  "tags": [
+    "embedded-application",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698441/icons/luos-io.jpg",
+  "website": "https://www.luos.io/",
+  "docsUrl": "https://docs.luos.io"
+}

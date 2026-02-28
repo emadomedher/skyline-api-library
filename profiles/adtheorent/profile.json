@@ -1,0 +1,13 @@
+{
+  "id": "adtheorent",
+  "title": "AdTheorent",
+  "subtitle": "We use machine learning to collect, organize, and analyze data to inform decisions for impactful advertising campaigns.",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964403/catalog/adtheorent/icon128x128.png",
+  "website": "https://adtheorent.com"
+}

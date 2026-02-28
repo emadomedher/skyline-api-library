@@ -1,0 +1,14 @@
+{
+  "id": "fintoc",
+  "title": "Fintoc",
+  "subtitle": "Fintoc is an API that lets you pull transactional data and balances from your users' bank accounts. Automate bank rec...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615517351/icons/fintoc.png",
+  "website": "https://en.fintoc.com/",
+  "docsUrl": "https://docs.fintoc.com"
+}

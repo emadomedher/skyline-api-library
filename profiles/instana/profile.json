@@ -1,0 +1,14 @@
+{
+  "id": "instana",
+  "title": "Instana",
+  "subtitle": "Instana's automated Application Performance Monitoring solution for microservice and cloud-native applications uses A...",
+  "tags": [
+    "application-performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595255540/icons/instana.jpg",
+  "website": "https://www.instana.com/",
+  "docsUrl": "https://www.instana.com/application-performance-monitoring-for-developers"
+}

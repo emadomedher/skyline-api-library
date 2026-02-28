@@ -1,0 +1,13 @@
+{
+  "id": "liveramp-an-acxiom-company",
+  "title": "LiveRamp An Acxiom Company",
+  "subtitle": "LiveRamp is an identity resolution provider offering data onboarding. We tie all of your marketing data back to real ...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720866/catalog/liveramp-an-acxiom-company/icon128x128.jpg",
+  "website": "https://LiveRamp.com"
+}

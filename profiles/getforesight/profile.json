@@ -1,0 +1,14 @@
+{
+  "id": "getforesight",
+  "title": "Foresight Commercial Insurance",
+  "subtitle": "Workers compensation insurance built to improve safety and lower rates. Brokers look to Foresight to provide unparall...",
+  "tags": [
+    "insurtech",
+    "construction-worker-compensation"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608629366/icons/getforesight.jpg",
+  "website": "https://getforesight.com/"
+}

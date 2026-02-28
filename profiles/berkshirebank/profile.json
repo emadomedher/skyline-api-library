@@ -1,0 +1,13 @@
+{
+  "id": "berkshirebank",
+  "title": "Berkshire Bank",
+  "subtitle": "Berkshire Bank is a bank headquartered in Boston, Massachusetts. It is a subsidiary of Berkshire Hills Bancorp, a ban...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623277739/icons/berkshirebank.jpg",
+  "website": "https://www.berkshirebank.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "amazon-sqs",
+  "title": "Amazon SQS",
+  "subtitle": "Amazon Simple Queue Service is a simple but powerful services for generating and consuming messages. It can help deco...",
+  "tags": [
+    "developer-tools",
+    "aws"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055772/catalog/amazon-sqs/icon128x128.png"
+}

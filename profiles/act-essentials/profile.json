@@ -1,0 +1,13 @@
+{
+  "id": "act-essentials",
+  "title": "Act! Essentials",
+  "subtitle": "Act! 365 is a sales pipeline and marketing App designed to help businesses close more deals, find new leads, and grow...",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304339/catalog/act-essentials/icon128x128.png",
+  "website": "https://www.act.com/products/act-365"
+}

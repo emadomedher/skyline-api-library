@@ -1,0 +1,13 @@
+{
+  "id": "spotx",
+  "title": "SpotX",
+  "subtitle": "SpotX API integration",
+  "tags": [
+    "video-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962238/catalog/spotx/icon128x128.png",
+  "website": "https://spotx.tv"
+}

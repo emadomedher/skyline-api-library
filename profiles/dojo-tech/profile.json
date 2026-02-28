@@ -1,0 +1,13 @@
+{
+  "id": "dojo-tech",
+  "title": "Dojo",
+  "subtitle": "With no long-term contracts and next day transfers, Dojo's payment solutions enable businesses to accept debit and cr...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691960728/icons/dojo-tech.jpg",
+  "website": "https://dojo.tech/"
+}

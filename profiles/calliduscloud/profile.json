@@ -1,0 +1,13 @@
+{
+  "id": "calliduscloud",
+  "title": "CallidusCloud",
+  "subtitle": "CallidusCloud's award winning Lead to Money suite gives sales, marketing, finance, HR, and legal teams the tools to b...",
+  "tags": [
+    "channel-finance-pricing-and-inventory"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719322/catalog/calliduscloud/icon128x128.jpg",
+  "website": "https://www.calliduscloud.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "binance",
+  "title": "Binance",
+  "subtitle": "Binance cryptocurrency exchange - We operate the worlds biggest bitcoin exchange and altcoin crypto exchange in the w...",
+  "tags": [
+    "crypto-exchanges"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614391421/icons/binance.jpg",
+  "website": "https://www.binance.com/",
+  "docsUrl": "https://binance-docs.github.io/apidocs/spot/en"
+}

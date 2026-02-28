@@ -1,0 +1,14 @@
+{
+  "id": "nannyml",
+  "title": "NannyML",
+  "subtitle": "Open Source Library for post deployment data science; estimating model performance, drift detection, model monitoring...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652666911/icons/nannyml.png",
+  "website": "https://www.nannyml.com/",
+  "docsUrl": "https://nannyml.readthedocs.io/en/latest"
+}

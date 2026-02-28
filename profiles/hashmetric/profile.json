@@ -1,0 +1,13 @@
+{
+  "id": "hashmetric",
+  "title": "Hash Metric",
+  "subtitle": "We provide fully managed multi-channel campaigns across search, programmatic display, video, and connected TV.",
+  "tags": [
+    "programmatic-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625838964/icons/hashmetric.jpg",
+  "website": "https://www.hashmetric.com/"
+}

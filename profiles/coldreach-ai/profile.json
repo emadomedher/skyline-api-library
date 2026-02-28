@@ -1,0 +1,14 @@
+{
+  "id": "coldreach-ai",
+  "title": "Coldreach",
+  "subtitle": "Coldreach drives personalized outreach at scale. Close more deals saving 90% of time drafting LinkedIn cold messages ...",
+  "tags": [
+    "lead-generation",
+    "sales-automation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686868873/icons/coldreach-ai.png",
+  "website": "https://coldreach.ai/"
+}

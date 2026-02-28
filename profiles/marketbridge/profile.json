@@ -1,0 +1,13 @@
+{
+  "id": "marketbridge",
+  "title": "MarketBridge",
+  "subtitle": "MarketBridge API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435755/catalog/marketbridge/icon128x128.png",
+  "website": "https://market-bridge.com"
+}

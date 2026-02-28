@@ -1,0 +1,15 @@
+{
+  "id": "wyre",
+  "title": "Wyre",
+  "subtitle": "Wyre is a secure and compliant bridge between fiat currencies and cryptocurrency. Exchange crypto safely and securely.",
+  "tags": [
+    "fintech",
+    "crypto-exhanges"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559755109/catalog/wyre/icon128x128.jpg",
+  "website": "https://sendwyre.com",
+  "docsUrl": "https://docs.sendwyre.com"
+}

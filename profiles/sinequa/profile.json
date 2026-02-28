@@ -1,0 +1,14 @@
+{
+  "id": "sinequa",
+  "title": "Sinequa",
+  "subtitle": "Become Information-Driven with Sinequa's Insight Platform and Cognitive search to extract valuable insights from your...",
+  "tags": [
+    "search",
+    "enterprise-search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580816777/catalog/sinequa/icon128x128.jpg",
+  "website": "https://www.sinequa.com/"
+}

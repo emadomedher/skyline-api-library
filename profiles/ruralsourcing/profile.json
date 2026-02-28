@@ -1,0 +1,14 @@
+{
+  "id": "ruralsourcing",
+  "title": "Rural Sourcing",
+  "subtitle": "Rural Sourcing delivers agile software development using only US-based development centers.",
+  "tags": [
+    "outsourcing",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622944932/icons/ruralsourcing.jpg",
+  "website": "https://www.ruralsourcing.com/"
+}

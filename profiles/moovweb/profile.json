@@ -1,0 +1,13 @@
+{
+  "id": "moovweb",
+  "title": "Moovweb",
+  "subtitle": "Moovweb API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963553/catalog/moovweb/icon128x128.png",
+  "website": "https://moovweb.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "angieslist",
+  "title": "Angie's List",
+  "subtitle": "Check Angie's List for FREE to access top-rated Pros, exclusive online deals and more than 12 million verified review...",
+  "tags": [
+    "review-websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577703219/catalog/angieslist/icon128x128.jpg",
+  "website": "https://www.angieslist.com/"
+}

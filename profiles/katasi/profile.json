@@ -1,0 +1,13 @@
+{
+  "id": "katasi",
+  "title": "Katasi",
+  "subtitle": "Katasi is creating focused drivers by eliminating distracted driving at the source with their Groove product.",
+  "tags": [
+    "vehicle-safety"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630510652/icons/katasi.png",
+  "website": "https://katasi.com/"
+}

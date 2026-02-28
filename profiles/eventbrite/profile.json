@@ -1,0 +1,13 @@
+{
+  "id": "eventbrite",
+  "title": "Eventbrite",
+  "subtitle": "Eventbrite is an event management tool that makes it simple to create, manage, promote, and sell out your event.",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456138/catalog/eventbrite/icon128x128.png",
+  "website": "https://www.eventbrite.com/"
+}

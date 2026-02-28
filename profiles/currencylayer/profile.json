@@ -1,0 +1,15 @@
+{
+  "id": "currencylayer",
+  "title": "Currencylayer",
+  "subtitle": "Free and startup-friendly currency converter JSON API for real-time and historical exchange rates - reliable and accu...",
+  "tags": [
+    "currency-exchange-rates-api",
+    "data-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591351446/icons/currencylayer.png",
+  "website": "https://currencylayer.com/",
+  "docsUrl": "https://currencylayer.com/documentation"
+}

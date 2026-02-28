@@ -1,0 +1,13 @@
+{
+  "id": "compose-ai",
+  "title": "Compose.ai",
+  "subtitle": "Compose is a free Chrome extension that lets you automate your writing using AI. We shouldn't be spending 40% of our ...",
+  "tags": [
+    "ai-writing-assistants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616567464/icons/compose-ai.jpg",
+  "website": "https://www.compose.ai/"
+}

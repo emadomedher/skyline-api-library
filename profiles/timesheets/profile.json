@@ -1,0 +1,13 @@
+{
+  "id": "timesheets",
+  "title": "Timesheets.com",
+  "subtitle": "Timesheets.com time tracking service is a powerful online time, expense, and HR system for small businesses.",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414343/icons/timesheets.jpg",
+  "website": "https://www.timesheets.com/"
+}

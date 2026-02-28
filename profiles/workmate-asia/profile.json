@@ -1,0 +1,13 @@
+{
+  "id": "workmate-asia",
+  "title": "Workmate",
+  "subtitle": "Workmate is a leading provider of tech-driven staffing and workforce management solutions from hiring to operations. ...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1690989488/icons/workmate-asia.jpg",
+  "website": "https://www.workmate.asia/"
+}

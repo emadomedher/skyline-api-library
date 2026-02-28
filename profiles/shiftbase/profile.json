@@ -1,0 +1,14 @@
+{
+  "id": "shiftbase",
+  "title": "ShiftBase",
+  "subtitle": "Employee scheduling and time tracking software by Shiftbase is an easy-to-use tool to manage online schedules and tim...",
+  "tags": [
+    "employee-scheduling",
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187627/catalog/shiftbase/icon128x128.jpg",
+  "website": "https://www.shiftbase.com/"
+}

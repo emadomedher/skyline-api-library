@@ -1,0 +1,13 @@
+{
+  "id": "truthset-io",
+  "title": "Truthset.io",
+  "subtitle": "Truthset.io API integration",
+  "tags": [
+    "data-quality"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590745665/catalog/truthset-io/icon128x128.jpg",
+  "website": "https://www.truthset.io/"
+}

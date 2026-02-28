@@ -1,0 +1,14 @@
+{
+  "id": "paywithbolt",
+  "title": "Pay with Bolt",
+  "subtitle": "Pay with Bolt enables SaaS to connect to multiple payment providers with one API; win more merchants by allowing them...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570350230/catalog/paywithbolt/icon128x128.png",
+  "website": "https://www.paywithbolt.com/",
+  "docsUrl": "https://www.paywithbolt.com/1weekchallenge"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nomo-es",
+  "title": "Nomo",
+  "subtitle": "Nomo is an innovative fintech platform for freelancers & SMEs that allows them to take control of their professional ...",
+  "tags": [
+    "fintech",
+    "accounting"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625453533/icons/nomo-es.jpg",
+  "website": "https://nomo.es/"
+}

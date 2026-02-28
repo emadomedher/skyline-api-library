@@ -1,0 +1,13 @@
+{
+  "id": "zeniq",
+  "title": "ZenIQ",
+  "subtitle": "Uncover, prioritize and engage with demand on the 6sense Account Based Orchestration Platform, powered by AI.",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1103390675402338304/jeEA34py_400x400.png",
+  "website": "https://zeniq.io"
+}

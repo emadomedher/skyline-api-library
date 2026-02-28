@@ -1,0 +1,16 @@
+{
+  "id": "salt-security",
+  "title": "Salt Security",
+  "subtitle": "The Salt Security solution detects and prevents API attacks with the power of AI and Big Data. Deploys in minutes. No...",
+  "tags": [
+    "application-security",
+    "security",
+    "api-security",
+    "api"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193168/catalog/salt-security/icon128x128.jpg",
+  "website": "https://salt.security"
+}

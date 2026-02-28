@@ -1,0 +1,13 @@
+{
+  "id": "ivvy-events",
+  "title": "iVvy Events",
+  "subtitle": "iVvy",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565607102/catalog/ivvy-events/icon128x128.png",
+  "website": "https://www.ivvy.com.au/events"
+}

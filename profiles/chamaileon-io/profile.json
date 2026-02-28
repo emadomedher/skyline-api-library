@@ -1,0 +1,14 @@
+{
+  "id": "chamaileon-io",
+  "title": "Chamaileon",
+  "subtitle": "HTML email template builder and collaborative content management platform for professionals to design nice responsive...",
+  "tags": [
+    "email-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606090623/icons/chamaileon-io.jpg",
+  "website": "https://chamaileon.io",
+  "docsUrl": "https://chamaileon.io/manual-docs"
+}

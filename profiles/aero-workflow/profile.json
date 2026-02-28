@@ -1,0 +1,13 @@
+{
+  "id": "aero-workflow",
+  "title": "Aero Workflow",
+  "subtitle": "Aero Workflow is a workflow application for accountants by accountants.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304367/catalog/aero-workflow/icon128x128.png",
+  "website": "https://www.aeroworkflow.com/"
+}

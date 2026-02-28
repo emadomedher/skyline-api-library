@@ -1,0 +1,13 @@
+{
+  "id": "axent-intelligence",
+  "title": "Axent Intelligence",
+  "subtitle": "Axent Intelligence API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433193/catalog/axent-intelligence/icon128x128.png",
+  "website": "https://pxtech.com"
+}

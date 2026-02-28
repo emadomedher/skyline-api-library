@@ -1,0 +1,14 @@
+{
+  "id": "rockset",
+  "title": "Rockset",
+  "subtitle": "Rockset is the real-time indexing database in the cloud. Rockset allows you to build data-driven applications on Mong...",
+  "tags": [
+    "data-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015076/icons/rockset.png",
+  "website": "https://rockset.com/",
+  "docsUrl": "https://rockset.com/developer-corner"
+}

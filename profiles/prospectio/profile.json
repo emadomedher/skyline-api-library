@@ -1,0 +1,14 @@
+{
+  "id": "prospectio",
+  "title": "Prospect.io",
+  "subtitle": "Prospect.io organise the mess of sales automation with a simple and elegant sales prospecting tool. Discover the best...",
+  "tags": [
+    "drip-emails",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305771/catalog/prospectio/icon128x128.png",
+  "website": "https://prospect.io"
+}

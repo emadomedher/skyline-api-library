@@ -1,0 +1,13 @@
+{
+  "id": "lushboard",
+  "title": "Lushboard",
+  "subtitle": "Create reports in under a minute. Easy AF.",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652394992/icons/lushboard.png",
+  "website": "https://lushboard.com/"
+}

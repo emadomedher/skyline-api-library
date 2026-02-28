@@ -1,0 +1,13 @@
+{
+  "id": "siel-nl",
+  "title": "Siel - Acumulus",
+  "subtitle": "SIEL online software boekhouden ZZP freelance CRM Clientvolgsysteem Sepa Direct Debit automatische incasso",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612669602/icons/siel-nl.png",
+  "website": "https://www.siel.nl/"
+}

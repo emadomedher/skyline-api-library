@@ -1,0 +1,12 @@
+{
+  "id": "uplisting",
+  "title": "Uplisting",
+  "subtitle": "Uplisting is a platform for short-term rental property managers to optimise bookings and manage operations across mul...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284646/catalog/uplisting/icon128x128.png"
+}

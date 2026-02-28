@@ -1,0 +1,14 @@
+{
+  "id": "jamm-app",
+  "title": "Jamm",
+  "subtitle": "Jamm: Voice and video collaboration for remote teams",
+  "tags": [
+    "video-conferencing",
+    "remote"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588267933/catalog/jamm-app/icon128x128.png",
+  "website": "https://jamm.app/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "formlets",
+  "title": "Formlets",
+  "subtitle": "Formlets is a powerful easy-to-use online form builder for your website. No coding, easy to integrate, highly secure ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304973/catalog/formlets/icon128x128.png"
+}

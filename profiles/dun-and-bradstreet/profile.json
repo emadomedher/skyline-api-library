@@ -1,0 +1,13 @@
+{
+  "id": "dun-and-bradstreet",
+  "title": "Dun & Bradstreet",
+  "subtitle": "Dun & Bradstreet API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964015/catalog/dun-and-bradstreet/icon128x128.png",
+  "website": "https://dnb.com"
+}

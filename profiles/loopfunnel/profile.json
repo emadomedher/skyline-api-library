@@ -1,0 +1,14 @@
+{
+  "id": "loopfunnel",
+  "title": "Loop Funnel",
+  "subtitle": "Loop Funnel API integration",
+  "tags": [
+    "swag-management",
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663733180/icons/loopfunnel.jpg",
+  "website": "https://www.loopfunnel.com/"
+}

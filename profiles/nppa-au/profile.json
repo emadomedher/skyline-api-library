@@ -1,0 +1,14 @@
+{
+  "id": "nppa-au",
+  "title": "New Payments Platform",
+  "subtitle": "The New Payments Platform is a world-class platform for payments innovation which can turn the possibilities presente...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601862529/icons/nppa-au.jpg",
+  "website": "https://nppa.com.au/",
+  "docsUrl": "https://nppa-developer.swift.com/user/register"
+}

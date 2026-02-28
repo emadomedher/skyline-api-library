@@ -1,0 +1,15 @@
+{
+  "id": "getnextbite",
+  "title": "Nextbite",
+  "subtitle": "Nextbite API integration",
+  "tags": [
+    "food-delivery",
+    "dark-kitchens",
+    "foodtach"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586106192/catalog/getnextbite/icon128x128.jpg",
+  "website": "https://getnextbite.com/"
+}

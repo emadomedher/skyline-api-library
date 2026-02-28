@@ -1,0 +1,13 @@
+{
+  "id": "banco-pichincha-espana",
+  "title": "Banco Pichincha España",
+  "subtitle": "Banco Pichincha is an Ecuadorian bank, established more than a century ago. In October 2007 Banco Pichincha opened it...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622932341/icons/banco-pichincha-espana.png",
+  "website": "https://www.bancopichincha.es/"
+}

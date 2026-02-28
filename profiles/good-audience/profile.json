@@ -1,0 +1,13 @@
+{
+  "id": "good-audience",
+  "title": "Good Audience",
+  "subtitle": "Connecting businesses to marketing professionals. Pros handcraft campaigns and run them. Businesses grow their team w...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720263/catalog/good-audience/icon128x128.png",
+  "website": "https://goodaudience.com"
+}

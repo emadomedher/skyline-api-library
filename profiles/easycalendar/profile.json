@@ -1,0 +1,14 @@
+{
+  "id": "easycalendar",
+  "title": "EasyCalendar",
+  "subtitle": "Appointment Scheduler that integrates with your business tools and comes with built-in CRM. ",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633532399/icons/easycalendar.png",
+  "website": "https://easycalendar.com/",
+  "docsUrl": "https://easycalendar.com/developer-docs/index.html"
+}

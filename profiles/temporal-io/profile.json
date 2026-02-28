@@ -1,0 +1,14 @@
+{
+  "id": "temporal-io",
+  "title": "Temporal",
+  "subtitle": "Temporal is the open source runtime for running mission critical code atop unreliable, distributed services at any sc...",
+  "tags": [
+    "microservices-orchestration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620570257/icons/temporal-io.png",
+  "website": "https://temporal.io/",
+  "docsUrl": "https://docs.temporal.io/"
+}

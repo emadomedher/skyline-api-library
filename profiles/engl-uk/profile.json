@@ -1,0 +1,14 @@
+{
+  "id": "engl-uk",
+  "title": "ENGL",
+  "subtitle": "ENGL API integration",
+  "tags": [
+    "windows-os-deployment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630506274/icons/engl-uk.png",
+  "website": "https://www.engl.co.uk/",
+  "docsUrl": "https://www.engl.co.uk/support/documentation"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kopa-co",
+  "title": "Kopa",
+  "subtitle": "With Kopa, renters find rentals and roommates for extended stays. Book and pay for furnished rentals, sublets, and ro...",
+  "tags": [
+    "renttech",
+    "real-estate",
+    "rent-marketplaces",
+    "housing"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616036410/icons/kopa-co.jpg",
+  "website": "https://www.kopa.co/"
+}

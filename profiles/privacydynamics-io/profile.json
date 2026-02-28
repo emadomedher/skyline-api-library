@@ -1,0 +1,15 @@
+{
+  "id": "privacydynamics-io",
+  "title": "Privacy Dynamics",
+  "subtitle": "Privacy Dynamics API integration",
+  "tags": [
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677864042/icons/privacydynamics-io.jpg",
+  "website": "https://www.privacydynamics.io/",
+  "docsUrl": "https://www.privacydynamics.io/docs"
+}

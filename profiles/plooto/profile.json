@@ -1,0 +1,13 @@
+{
+  "id": "plooto",
+  "title": "Plooto",
+  "subtitle": "Plooto is the leader of end-to-end  accounts payable and receivable software. With our fast, easy payment solutions, ...",
+  "tags": [
+    "accounts-payable"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687114018/icons/plooto.jpg",
+  "website": "https://plooto.com/"
+}

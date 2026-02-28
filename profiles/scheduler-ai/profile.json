@@ -1,0 +1,13 @@
+{
+  "id": "scheduler-ai",
+  "title": "Scheduler AI",
+  "subtitle": "Our AI scheduling assistant helps even the busiest people instantly schedule directly within popular chat, email, and...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686868857/icons/scheduler-ai.png",
+  "website": "https://www.scheduler.ai/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "numerous-ai",
+  "title": "Numerous.ai",
+  "subtitle": "An AI-powered spreadsheet plugin for Google Sheets.",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681371843/icons/numerous-ai.jpg",
+  "website": "https://numerous.ai/",
+  "docsUrl": "https://docs.google.com/spreadsheets/d/18ha_kn_ev2rfiqzlanpeamobd6fcsetnieqop9llctm/template/preview"
+}

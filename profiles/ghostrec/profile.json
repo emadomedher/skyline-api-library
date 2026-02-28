@@ -1,0 +1,13 @@
+{
+  "id": "ghostrec",
+  "title": "GhostRec",
+  "subtitle": "GhostRecユーザビリティ調査ツールはあなたのサイトのユーザビリティ向上を目指します。ユーザーが閲覧していく様子を録画してご覧ください。簡単操作でパフォーマンス性の高いユーザビリティ調査です。",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946974/catalog/ghostrec/icon128x128.png",
+  "website": "https://ghostrec.jp"
+}

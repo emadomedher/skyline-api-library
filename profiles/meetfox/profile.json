@@ -1,0 +1,13 @@
+{
+  "id": "meetfox",
+  "title": "MeetFox",
+  "subtitle": "The easiest way to sell your expertise online with MeetFox. Appointment scheduling, in-browser video calls, and secur...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578726440/catalog/meetfox/icon128x128.jpg",
+  "website": "https://meetfox.com/"
+}

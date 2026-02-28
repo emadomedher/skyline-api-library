@@ -1,0 +1,12 @@
+{
+  "id": "freee",
+  "title": "Freee",
+  "subtitle": "freee provides cloud-based accounting & HR software for SMBs in Japan to automate and simplify back-office tasks.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284521/catalog/freee/icon128x128.png"
+}

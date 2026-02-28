@@ -1,0 +1,15 @@
+{
+  "id": "banked",
+  "title": "Banked",
+  "subtitle": "Banked is a payment processing solution for businesses of all sizes. Our unique API uses Open Banking technology to a...",
+  "tags": [
+    "payments",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080695/catalog/banked/icon128x128.jpg",
+  "website": "https://banked.com/",
+  "docsUrl": "https://banked.com/developer-documentation/documentation/introduction-old"
+}

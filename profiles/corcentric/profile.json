@@ -1,0 +1,13 @@
+{
+  "id": "corcentric",
+  "title": "Corcentric",
+  "subtitle": "Corcentric helps companies optimize how they purchase, pay, and get paid so they can run smoother, spend smarter, and...",
+  "tags": [
+    "procurement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639854719/icons/corcentric.jpg",
+  "website": "https://www.corcentric.com/"
+}

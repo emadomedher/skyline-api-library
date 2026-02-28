@@ -1,0 +1,12 @@
+{
+  "id": "occasion",
+  "title": "Occasion",
+  "subtitle": "Occasion is a marketing and scheduling platform that allows group experience providers to acquire and re-engage custo...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284562/catalog/occasion/icon128x128.jpg"
+}

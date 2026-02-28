@@ -1,0 +1,14 @@
+{
+  "id": "amazon-connect",
+  "title": "Amazon Connect",
+  "subtitle": "Amazon Connect is an easy to use omnichannel cloud contact center that helps companies provide superior customer serv...",
+  "tags": [
+    "cloud-contact-centers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599928336/icons/amazon-connect.jpg",
+  "website": "https://aws.amazon.com/connect/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup"
+}

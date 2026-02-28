@@ -1,0 +1,13 @@
+{
+  "id": "bankofthewest",
+  "title": "Bank of the West",
+  "subtitle": "Bank of the West offers a variety of financial services; including checking and savings accounts, credit cards, auto,...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616008253/icons/bankofthewest.png",
+  "website": "https://www.bankofthewest.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bellaloves-me",
+  "title": "Bella",
+  "subtitle": " Bella, a new challenger bank launching on November 30th. The company is trying to differentiate itself with two dist...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608194321/icons/bellaloves-me.png",
+  "website": "https://www.bellaloves.me/"
+}

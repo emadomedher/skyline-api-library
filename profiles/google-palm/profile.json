@@ -1,0 +1,15 @@
+{
+  "id": "google-palm",
+  "title": "Palm",
+  "subtitle": "Build generative AI applications with Google",
+  "tags": [
+    "generative-ai",
+    "llm"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687026222/icons/google-palm.png",
+  "website": "https://developers.generativeai.google/",
+  "docsUrl": "https://developers.generativeai.google"
+}

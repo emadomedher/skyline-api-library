@@ -1,0 +1,14 @@
+{
+  "id": "oto-ai",
+  "title": "OTO Systems",
+  "subtitle": "OTO Systems API integration",
+  "tags": [
+    "voice-intelligence",
+    "call-centers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576974668/catalog/oto-ai/icon128x128.png",
+  "website": "https://www.oto.ai/"
+}

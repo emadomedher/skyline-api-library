@@ -1,0 +1,13 @@
+{
+  "id": "pinata-ai",
+  "title": "Piñata",
+  "subtitle": "Piñata API integration",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017183/icons/pinata-ai.png",
+  "website": "https://www.pinata.ai/"
+}

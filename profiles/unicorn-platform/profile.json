@@ -1,0 +1,13 @@
+{
+  "id": "unicorn-platform",
+  "title": "Unicorn Platform",
+  "subtitle": "Modern website builder for startups. Powered by unicorn magic.",
+  "tags": [
+    "cms-and-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946433/catalog/unicorn-platform/icon128x128.jpg",
+  "website": "https://unicornplatform.com"
+}

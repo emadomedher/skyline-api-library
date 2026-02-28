@@ -1,0 +1,13 @@
+{
+  "id": "swiftcrm",
+  "title": "SwiftCRM",
+  "subtitle": "SwiftCloud provides marketing automation software & business systems for business owners & sales professionals for le...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437786/catalog/swiftcrm/icon128x128.png",
+  "website": "https://swiftcloud.ai"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "stc-hotels",
+  "title": "STC Hotels",
+  "subtitle": "We're an Incoming Operator (DMC) and enable an easy access to the holiday destination Switzerland. To do so we work w...",
+  "tags": [
+    "internet-booking-engines",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751538/icons/stc-hotels.jpg",
+  "website": "https://trade.switzerlandtravelcentre.ch/en/"
+}

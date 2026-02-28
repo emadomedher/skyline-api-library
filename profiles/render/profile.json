@@ -1,0 +1,14 @@
+{
+  "id": "render",
+  "title": "Render",
+  "subtitle": "Render is a unified platform to build and run all your apps and websites with free SSL, global CDN, private networks ...",
+  "tags": [
+    "static-site-generators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597509806/icons/render.jpg",
+  "website": "https://render.com",
+  "docsUrl": "https://render.com/docs"
+}

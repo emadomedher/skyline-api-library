@@ -1,0 +1,13 @@
+{
+  "id": "frogo-ad",
+  "title": "FROGO AD",
+  "subtitle": "FROGO AD API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963858/catalog/frogo-ad/icon128x128.png",
+  "website": "https://frogo-ad.com"
+}

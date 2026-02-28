@@ -1,0 +1,14 @@
+{
+  "id": "madcap-flare",
+  "title": "MadCap Flare",
+  "subtitle": "By using our site, www.madcapsoftware.com, you are agreeing to comply with and be bound by our terms of use.",
+  "tags": [
+    "technical-documentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579796792/catalog/madcap-flare/icon128x128.jpg",
+  "website": "https://www.madcapsoftware.com/products/flare/",
+  "docsUrl": "https://www.madcapsoftware.com/solutions/technical-documentation-and-online-help"
+}

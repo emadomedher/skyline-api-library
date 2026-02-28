@@ -1,0 +1,13 @@
+{
+  "id": "inside-sales-box",
+  "title": "Inside Sales Box",
+  "subtitle": "Inside Sales Box is an all-in-one inside sales software to help businesses - big and small - manage, accelerate and e...",
+  "tags": [
+    "call-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305166/catalog/inside-sales-box/icon128x128.png",
+  "website": "https://insidesalesbox.com"
+}

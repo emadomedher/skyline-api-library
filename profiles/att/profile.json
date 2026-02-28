@@ -1,0 +1,13 @@
+{
+  "id": "att",
+  "title": "AT&T",
+  "subtitle": "Shop deals on unlimited data plans, Internet service, and DIRECTV STREAM. Get 24/7 support & manage your account onli...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698514/icons/att.jpg",
+  "website": "https://www.att.com/"
+}

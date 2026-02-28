@@ -1,0 +1,15 @@
+{
+  "id": "kubeless",
+  "title": "Kubeless",
+  "subtitle": "Kubeless API integration",
+  "tags": [
+    "developer-tools",
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1558093292/catalog/kubeless/icon128x128.png",
+  "website": "https://kubeless.io",
+  "docsUrl": "https://kubeless.io/docs"
+}

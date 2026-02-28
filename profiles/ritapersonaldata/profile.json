@@ -1,0 +1,14 @@
+{
+  "id": "ritapersonaldata",
+  "title": "Rita Personal Data",
+  "subtitle": "Rita helps you understand and control your online data and privacy, safely and immediately. Whenever you want.",
+  "tags": [
+    "personal-data",
+    "privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633051643/icons/ritapersonaldata.jpg",
+  "website": "https://ritapersonaldata.com/"
+}

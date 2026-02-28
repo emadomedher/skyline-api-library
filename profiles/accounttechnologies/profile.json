@@ -1,0 +1,13 @@
+{
+  "id": "accounttechnologies",
+  "title": "Account Technologies",
+  "subtitle": "A technology-wrapped financial company which has created processes and algorithms to better underwrite credit using b...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261162/icons/accounttechnologies.png",
+  "website": "https://www.accounttechnologies.com/"
+}

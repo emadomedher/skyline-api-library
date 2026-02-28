@@ -1,0 +1,14 @@
+{
+  "id": "oktopost",
+  "title": "Oktopost",
+  "subtitle": "B2B Social Media Management Platform to manage, monitor & measure all of your social media activities. Reach your B2B...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946762/catalog/oktopost/icon128x128.jpg",
+  "website": "https://oktopost.com",
+  "docsUrl": "https://www.oktopost.com/developers/api"
+}

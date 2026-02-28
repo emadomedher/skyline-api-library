@@ -1,0 +1,16 @@
+{
+  "id": "vanta",
+  "title": "Vanta",
+  "subtitle": "Vanta is \"security in a box\" for technology companies — we build a suite of simple, effective, and easy-to-deploy too...",
+  "tags": [
+    "compliance",
+    "security",
+    "soc-2"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595194321/icons/vanta.jpg",
+  "website": "https://vanta.com/",
+  "docsUrl": "https://developer.vanta.com/docs/quick-start"
+}

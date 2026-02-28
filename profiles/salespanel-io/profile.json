@@ -1,0 +1,13 @@
+{
+  "id": "salespanel-io",
+  "title": "Salespanel",
+  "subtitle": "Salespanel tracks, identifies and scores your leads when they engage with your emails, marketing newsletters, website...",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562690579/catalog/salespanel-io/icon128x128.png",
+  "website": "https://salespanel.io"
+}

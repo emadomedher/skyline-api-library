@@ -1,0 +1,13 @@
+{
+  "id": "whirlwind-ecommerce",
+  "title": "Whirlwind eCommerce",
+  "subtitle": "Whirlwind eCommerce API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597079695/icons/whirlwind-ecommerce.png",
+  "website": "https://whirlwind-ecommerce.com"
+}

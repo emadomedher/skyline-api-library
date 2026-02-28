@@ -1,0 +1,14 @@
+{
+  "id": "right-hand-ai",
+  "title": "Right-Hand Cybersecurity",
+  "subtitle": "The AI-Powered Cyber and Policy Awareness Platform. We help enterprises automate and personalize employee awareness p...",
+  "tags": [
+    "security",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610365780/icons/right-hand-ai.jpg",
+  "website": "https://right-hand.ai/"
+}

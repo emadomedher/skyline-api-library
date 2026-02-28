@@ -1,0 +1,14 @@
+{
+  "id": "sdworx-aditro",
+  "title": "Aditro",
+  "subtitle": "Aditro is now a happy member of the SD Worx family, a leading payroll and HR services provider in Europe employing 5,...",
+  "tags": [
+    "payroll",
+    "hris"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691961333/icons/sdworx-aditro.webp",
+  "website": "https://www.sdworx.com/en-en/aditro"
+}

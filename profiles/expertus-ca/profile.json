@@ -1,0 +1,14 @@
+{
+  "id": "expertus-ca",
+  "title": "Expertus",
+  "subtitle": "Expertus is a Montreal based Fintech company specialized in innovative payments and treasury solutions offering enhan...",
+  "tags": [
+    "payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608194312/icons/expertus-ca.png",
+  "website": "https://www.expertus.ca/"
+}

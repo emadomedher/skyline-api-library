@@ -1,0 +1,14 @@
+{
+  "id": "codingame",
+  "title": "CodinGame",
+  "subtitle": "CodinGame is a challenge-based training platform for programmers where you can play with the hottest programming topi...",
+  "tags": [
+    "technical-skills-screening"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231809/icons/codingame.png",
+  "website": "https://www.codingame.com/",
+  "docsUrl": "https://www.codingame.com/work/?cg_referrer=%24direct"
+}

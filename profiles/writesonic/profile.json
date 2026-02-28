@@ -1,0 +1,14 @@
+{
+  "id": "writesonic",
+  "title": "Writesonic",
+  "subtitle": "Use the world's most advanced AI copywriter to generate your marketing copy in seconds! Create high-performing Blogs,...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616630379/icons/writesonic.jpg",
+  "website": "https://writesonic.com/",
+  "docsUrl": "https://writesonic.helpscoutdocs.com"
+}

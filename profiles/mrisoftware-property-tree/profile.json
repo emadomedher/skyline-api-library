@@ -1,0 +1,13 @@
+{
+  "id": "mrisoftware-property-tree",
+  "title": "Property Tree",
+  "subtitle": "MRI Property Tree (Rockend) is a cloud based residential property management solution designed to make property manag...",
+  "tags": [
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596921114/icons/mrisoftware-property-tree.jpg",
+  "website": "https://www.mrisoftware.com/au/products/property-tree/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pushbots",
+  "title": "PushBots",
+  "subtitle": "PushBots is a marketing automation platform that empowers digital businesses with analytics, communication and automa...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581627703/catalog/pushbots/icon128x128.jpg",
+  "website": "https://pushbots.com/",
+  "docsUrl": "https://pushbots.com/solutions/developers"
+}

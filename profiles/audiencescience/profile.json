@@ -1,0 +1,13 @@
+{
+  "id": "audiencescience",
+  "title": "AudienceScience",
+  "subtitle": "AudienceScience API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433149/catalog/audiencescience/icon128x128.png",
+  "website": "https://audiencescience.com"
+}

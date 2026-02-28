@@ -1,0 +1,13 @@
+{
+  "id": "legalreview-ai",
+  "title": "legalreview.ai",
+  "subtitle": "Contract reviews in <5 min. NDA, MSA, T&Cs, privacy policy.... \n5 free reviews.",
+  "tags": [
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681771872/icons/legalreview-ai.jpg",
+  "website": "https://www.legalreview.ai"
+}

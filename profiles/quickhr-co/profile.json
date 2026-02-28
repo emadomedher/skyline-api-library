@@ -1,0 +1,13 @@
+{
+  "id": "quickhr-co",
+  "title": "QuickHr",
+  "subtitle": "A holistic cloud-based HR Payroll Software Solution Provider that fits ALL industries. Widely recommended and cheapes...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1689872954/icons/quickhr-co.jpg",
+  "website": "https://quickhr.co/"
+}

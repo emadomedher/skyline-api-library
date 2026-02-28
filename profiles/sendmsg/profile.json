@@ -1,0 +1,12 @@
+{
+  "id": "sendmsg",
+  "title": "Sendmsg (שלח מסר)",
+  "subtitle": "Sendmsg is an all-in-one marketing platform for newsletters providing email automation, landing pages, SMS, digital c...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830025/catalog/sendmsg/icon128x128.png"
+}

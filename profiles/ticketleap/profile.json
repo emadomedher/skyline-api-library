@@ -1,0 +1,13 @@
+{
+  "id": "ticketleap",
+  "title": "Ticketleap",
+  "subtitle": "Online ticketing the way it should be: easy-to-use with all the features you need. Set up your event for free and sta...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437973/catalog/ticketleap/icon128x128.png",
+  "website": "https://ticketleap.com"
+}

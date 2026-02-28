@@ -1,0 +1,16 @@
+{
+  "id": "clearhaus",
+  "title": "Clearhaus",
+  "subtitle": "Clearhaus makes it easy for online shops to accept credit card and mobile payments. Sign up now and get your merchant...",
+  "tags": [
+    "payments",
+    "ecommerce",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569720254/catalog/clearhaus/icon128x128.jpg",
+  "website": "https://www.clearhaus.com/",
+  "docsUrl": "https://developer.clearhaus.com"
+}

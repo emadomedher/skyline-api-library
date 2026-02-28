@@ -1,0 +1,13 @@
+{
+  "id": "propertyme-au",
+  "title": "PropertyMe",
+  "subtitle": "PropertyMe is the most complete cloud property management software for property managers. Save time with automated wo...",
+  "tags": [
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596921110/icons/propertyme-au.jpg",
+  "website": "https://www.propertyme.com.au"
+}

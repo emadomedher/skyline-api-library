@@ -1,0 +1,13 @@
+{
+  "id": "convertize",
+  "title": "Convertize",
+  "subtitle": "Convertize.io is a new A/B Testing Tool that makes Conversion Optimization Simple. Put Your A/B Tests on Autopilot. T...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719600/catalog/convertize/icon128x128.jpg",
+  "website": "https://convertize.io"
+}

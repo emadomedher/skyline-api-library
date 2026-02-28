@@ -1,0 +1,13 @@
+{
+  "id": "nayaone",
+  "title": "NayaOne",
+  "subtitle": "We help you build financial services and products. With fintechs and datasets, in less time at lower cost and in a se...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528022/icons/nayaone.png",
+  "website": "https://nayaone.com/"
+}

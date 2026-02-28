@@ -1,0 +1,13 @@
+{
+  "id": "the-big-willow",
+  "title": "The Big Willow",
+  "subtitle": "The Big Willow API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437935/catalog/the-big-willow/icon128x128.png",
+  "website": "https://thebigwillow.com"
+}

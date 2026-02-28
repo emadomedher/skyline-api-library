@@ -1,0 +1,13 @@
+{
+  "id": "listings-to-leads",
+  "title": "Listings To Leads",
+  "subtitle": "Listings To Leads is an online marketing and lead generation platform for real estate agents and brokers.",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284552/catalog/listings-to-leads/icon128x128.jpg",
+  "website": "https://zapier.com/apps/listings-to-leads/integrations"
+}

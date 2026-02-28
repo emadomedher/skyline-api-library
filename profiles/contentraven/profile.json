@@ -1,0 +1,13 @@
+{
+  "id": "contentraven",
+  "title": "ContentRaven",
+  "subtitle": "Onboard Sales faster and increase revenue. Provide the right training, content and messaging for complex product sale...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826160/catalog/contentraven/icon128x128.jpg",
+  "website": "https://raven360.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "eftpos",
+  "title": "EFTPOS",
+  "subtitle": "Electronic funds transfer at point of sale is an electronic payment system involving electronic funds transfers based...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589147442/catalog/eftpos/icon128x128.png",
+  "website": "https://www.eftposaustralia.com.au/"
+}

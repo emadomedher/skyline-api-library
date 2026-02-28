@@ -1,0 +1,13 @@
+{
+  "id": "adsmurai",
+  "title": "Adsmurai",
+  "subtitle": "Adsmurai is a software company with high expertise on Social Media Advertising. Official partners of Facebook, Instag...",
+  "tags": [
+    "search-and-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432831/catalog/adsmurai/icon128x128.png",
+  "website": "https://adsmurai.com"
+}

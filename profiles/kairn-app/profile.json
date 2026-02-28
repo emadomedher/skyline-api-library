@@ -1,0 +1,13 @@
+{
+  "id": "kairn-app",
+  "title": "Kairn App",
+  "subtitle": "Kairn is the task manager to rock your days. Fast and simple task capture is at the core of our product to make you s...",
+  "tags": [
+    "task-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588773470/catalog/kairn-app/icon128x128.jpg",
+  "website": "https://www.kairn.app/"
+}

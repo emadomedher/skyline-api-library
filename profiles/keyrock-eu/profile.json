@@ -1,0 +1,16 @@
+{
+  "id": "keyrock-eu",
+  "title": "Keyrock",
+  "subtitle": "We are crypto market-makers, building scalable, self-adaptive algorithmic technologies to support sound and efficient...",
+  "tags": [
+    "crypto",
+    "liquidity-providers",
+    "digital-assets"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603970845/icons/keyrock-eu.jpg",
+  "website": "https://keyrock.eu/",
+  "docsUrl": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookies-user-id"
+}

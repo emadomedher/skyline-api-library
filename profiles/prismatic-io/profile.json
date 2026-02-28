@@ -1,0 +1,14 @@
+{
+  "id": "prismatic-io",
+  "title": "Prismatic",
+  "subtitle": "Prismatic is the embedded integration platform for B2B software companies. It's the easiest way to build integrations...",
+  "tags": [
+    "embedded-integration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623450059/icons/prismatic-io.jpg",
+  "website": "https://prismatic.io/",
+  "docsUrl": "https://prismatic.io/docs"
+}

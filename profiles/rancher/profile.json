@@ -1,0 +1,14 @@
+{
+  "id": "rancher",
+  "title": "Rancher Labs",
+  "subtitle": "Rancher, the open-source multi-cluster orchestration platform, lets operations teams deploy, manage and secure enterp...",
+  "tags": [
+    "kubernetes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572827466/catalog/rancher/icon128x128.jpg",
+  "website": "https://rancher.com/",
+  "docsUrl": "https://rancher.com/docs"
+}

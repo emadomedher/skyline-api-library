@@ -1,0 +1,15 @@
+{
+  "id": "rowy-io",
+  "title": "Rowy",
+  "subtitle": "Build prototypes that scale on the Google Cloud Platform in minutes. Manage Firestore data in a spreadsheet-like UI, ...",
+  "tags": [
+    "databases",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471944/icons/rowy-io.png",
+  "website": "https://www.rowy.io/",
+  "docsUrl": "https://www.rowy.io/#"
+}

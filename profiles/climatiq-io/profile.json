@@ -1,0 +1,16 @@
+{
+  "id": "climatiq-io",
+  "title": "Climatiq",
+  "subtitle": "Use Climatiq’s API and open emission factors database to measure carbon emissions when and where they happen.",
+  "tags": [
+    "carbon-footprint",
+    "sustainability",
+    "carbon-emission-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644272574/icons/climatiq-io.jpg",
+  "website": "https://climatiq.io/",
+  "docsUrl": "https://docs.climatiq.io"
+}

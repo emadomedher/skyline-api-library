@@ -1,0 +1,14 @@
+{
+  "id": "cloudcraft-co",
+  "title": "Cloudcraft",
+  "subtitle": "Visualize your AWS environment as isometric architecture diagrams. Snap together blocks for EC2s, ELBs, RDS and more....",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564788162/catalog/cloudcraft-co/icon128x128.jpg",
+  "website": "https://cloudcraft.co",
+  "docsUrl": "https://developers.cloudcraft.co"
+}

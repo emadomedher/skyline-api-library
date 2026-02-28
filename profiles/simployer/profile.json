@@ -1,0 +1,13 @@
+{
+  "id": "simployer",
+  "title": "Simployer Group",
+  "subtitle": "Simployer helps you make the employee journey a success – by managing, developing and inspiring your employees. We su...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645518392/icons/simployer.png",
+  "website": "https://www.simployer.com/"
+}

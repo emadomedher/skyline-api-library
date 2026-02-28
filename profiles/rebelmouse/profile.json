@@ -1,0 +1,13 @@
+{
+  "id": "rebelmouse",
+  "title": "RebelMouse",
+  "subtitle": "RebelMouse is a creative agency fueled by a publishing platform with deep technology. We blend product and strategy t...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436860/catalog/rebelmouse/icon128x128.png",
+  "website": "https://rebelmouse.com"
+}

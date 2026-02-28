@@ -1,0 +1,14 @@
+{
+  "id": "ahrefs",
+  "title": "ahrefs",
+  "subtitle": "Audit your website, explore competitors, research keywords & backlinks - all in one place. Powered by seriously big d...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774766/catalog/ahrefs/icon128x128.png",
+  "website": "https://ahrefs.com",
+  "docsUrl": "https://ahrefs.com/api"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "datree-io",
+  "title": "Datree",
+  "subtitle": "Datree is a CLI solution that supports Kubernetes owners in their roles, by preventing developers from making errors ...",
+  "tags": [
+    "kubernetes-configuration-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634856999/icons/datree-io.jpg",
+  "website": "https://www.datree.io/",
+  "docsUrl": "https://hub.datree.io"
+}

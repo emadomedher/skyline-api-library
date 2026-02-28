@@ -1,0 +1,14 @@
+{
+  "id": "datafleets",
+  "title": "DataFleets",
+  "subtitle": "DataFleets is a platform for federated intelligence that lets your business securely merge and analyze data on-prem, ...",
+  "tags": [
+    "data-integration",
+    "compliance"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604326903/icons/datafleets.png",
+  "website": "https://www.datafleets.com/"
+}

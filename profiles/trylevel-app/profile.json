@@ -1,0 +1,15 @@
+{
+  "id": "trylevel-app",
+  "title": "Level",
+  "subtitle": "Level helps Fintech startups get their first lines of capital, enabling them to get off the ground and growing with t...",
+  "tags": [
+    "loan-reselling",
+    "lending",
+    "revenue-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635251785/icons/trylevel-app.png",
+  "website": "https://www.trylevel.app/"
+}

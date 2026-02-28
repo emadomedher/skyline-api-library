@@ -1,0 +1,13 @@
+{
+  "id": "connexie-net",
+  "title": "Connexie",
+  "subtitle": "Connexie Payroll neemt u werk uit handen. Dat doen wij door de juridische kant van het werkgeverschap van u over te n...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187654/catalog/connexie-net/icon128x128.jpg",
+  "website": "https://connexie.net/"
+}

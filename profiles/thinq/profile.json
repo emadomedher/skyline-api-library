@@ -1,0 +1,14 @@
+{
+  "id": "thinq",
+  "title": "thinQ",
+  "subtitle": "thinQ's communications platform and APIs deliver flexible voice & messaging in the cloud. Unlock 40 carriers, save 70...",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573480284/catalog/thinq/icon128x128.jpg",
+  "website": "https://www.thinq.com/",
+  "docsUrl": "https://www.thinq.com/#"
+}

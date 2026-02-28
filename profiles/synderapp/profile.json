@@ -1,0 +1,13 @@
+{
+  "id": "synderapp",
+  "title": "Synder App",
+  "subtitle": "Synchronize Stripe, PayPal, and Square transactions with QuickBooks and Xero. Synder helps to close the accounting pe...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779841/catalog/synderapp/icon128x128.jpg",
+  "website": "https://synderapp.com/"
+}

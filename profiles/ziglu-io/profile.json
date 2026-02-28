@@ -1,0 +1,15 @@
+{
+  "id": "ziglu-io",
+  "title": "Ziglu",
+  "subtitle": "Crypto and foreign currencies in a single, integrated UK-based account. The best exchange rates. Simple international...",
+  "tags": [
+    "banking",
+    "crypto",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578240429/catalog/ziglu-io/icon128x128.jpg",
+  "website": "https://www.ziglu.io/"
+}

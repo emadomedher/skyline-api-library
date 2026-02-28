@@ -1,0 +1,14 @@
+{
+  "id": "linx-software",
+  "title": "Linx",
+  "subtitle": "Linx is a low-code development platform for Developers to build and host APIs, automations and integrations without t...",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621030058/icons/linx-software.jpg",
+  "website": "https://linx.software/",
+  "docsUrl": "https://linx.software/#"
+}

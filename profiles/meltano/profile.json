@@ -1,0 +1,14 @@
+{
+  "id": "meltano",
+  "title": "Meltano",
+  "subtitle": "Open source, self-hosted, CLI-first, debuggable, and extensible. Embraces Singer and its library of connectors, and l...",
+  "tags": [
+    "elt",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615953450/icons/meltano.jpg",
+  "website": "https://meltano.com/"
+}

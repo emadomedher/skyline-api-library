@@ -1,0 +1,13 @@
+{
+  "id": "vivawallet",
+  "title": "Viva Wallet",
+  "subtitle": "Viva Wallet: Open to All Payments. 0% commission, Android Card Terminals, Business Account and Free Business Debit Ca...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594740991/icons/vivawallet.jpg",
+  "website": "https://www.vivawallet.com/"
+}

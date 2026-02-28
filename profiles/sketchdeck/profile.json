@@ -1,0 +1,14 @@
+{
+  "id": "sketchdeck",
+  "title": "SketchDesk",
+  "subtitle": "SketchDeck combines software and a professional design team to make good design fast and efficient. From marketing as...",
+  "tags": [
+    "design",
+    "services"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567377573/catalog/sketchdeck/icon128x128.jpg",
+  "website": "https://www.sketchdeck.com/"
+}

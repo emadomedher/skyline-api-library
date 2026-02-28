@@ -1,0 +1,15 @@
+{
+  "id": "google-display-video-360",
+  "title": "Display & Video 360",
+  "subtitle": "From media planning and creative development to measurement and optimization, work smarter with end-to-end advertisin...",
+  "tags": [
+    "demand-side-platforms",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581299031/catalog/google-display-video-360/icon128x128.jpg",
+  "website": "https://marketingplatform.google.com/about/display-video-360/",
+  "docsUrl": "https://developers.google.com/display-video/api/reference/rest"
+}

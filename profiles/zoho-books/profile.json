@@ -1,0 +1,13 @@
+{
+  "id": "zoho-books",
+  "title": "Zoho Books",
+  "subtitle": "Zoho Books is cloud-based accounting software in which you can record, audit and analyze all financial transactions e...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306589/catalog/zoho-books/icon128x128.png",
+  "docsUrl": "https://www.zoho.com/books/api/v3/"
+}

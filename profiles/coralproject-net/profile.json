@@ -1,0 +1,14 @@
+{
+  "id": "coralproject-net",
+  "title": "Coral by Vox Media",
+  "subtitle": "Coral improves community on your website through smart technology, effective design, and strategies that work.",
+  "tags": [
+    "commenting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626665497/icons/coralproject-net.png",
+  "website": "https://coralproject.net/",
+  "docsUrl": "https://docs.coralproject.net/"
+}

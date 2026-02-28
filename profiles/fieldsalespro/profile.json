@@ -1,0 +1,13 @@
+{
+  "id": "fieldsalespro",
+  "title": "FieldSalesPro",
+  "subtitle": "FieldSalesPro, enables the execution of a structured sales process to improve sales coaching, meeting effectiveness, ...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947007/catalog/fieldsalespro/icon128x128.jpg",
+  "website": "https://fieldsalespro.com"
+}

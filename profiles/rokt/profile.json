@@ -1,0 +1,13 @@
+{
+  "id": "rokt",
+  "title": "Rokt",
+  "subtitle": "Rokt connects brands with new customers on major e-commerce sites while they are in a buying state of mind. Take adva...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056143/catalog/rokt/icon128x128.png",
+  "website": "https://ROKT.com"
+}

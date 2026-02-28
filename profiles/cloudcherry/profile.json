@@ -1,0 +1,13 @@
+{
+  "id": "cloudcherry",
+  "title": "CloudCherry",
+  "subtitle": "Our Customer Experience Management software helps global enterprises improve customer experience, track customer jour...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719495/catalog/cloudcherry/icon128x128.jpg",
+  "website": "https://getcloudcherry.com"
+}

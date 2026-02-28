@@ -1,0 +1,13 @@
+{
+  "id": "leadify",
+  "title": "Leadify",
+  "subtitle": "Leadify is an Email & SMS marketing platform currently sending over 100M Email & SMS marketing messages monthly, into...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050337/icons/leadify.png",
+  "website": "https://leadify.biz"
+}

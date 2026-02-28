@@ -1,0 +1,13 @@
+{
+  "id": "amazon-chime",
+  "title": "Amazon Chime",
+  "subtitle": "Amazon Chime lets users meet and chat online, and the Amazon Chime SDK lets developers add audio and video collaborat...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627772767/icons/amazon-chime.png",
+  "website": "https://aws.amazon.com/chime"
+}

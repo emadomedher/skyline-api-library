@@ -1,0 +1,14 @@
+{
+  "id": "cto-ai",
+  "title": "CTO.ai",
+  "subtitle": "The Ops Platform makes it easy for software development teams to create and share workflow automations without leavin...",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572965976/catalog/cto-ai/icon128x128.jpg",
+  "website": "https://cto.ai/",
+  "docsUrl": "https://cto.ai/docs/overview"
+}

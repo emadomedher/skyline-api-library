@@ -1,0 +1,13 @@
+{
+  "id": "postpickr",
+  "title": "PostPickr",
+  "subtitle": "Con PostPickr dirigi i tuoi social da un unico ambiente e risparmi fino al 70% del tempo. Provalo gratis!",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721562/catalog/postpickr/icon128x128.png",
+  "website": "https://postpickr.com"
+}

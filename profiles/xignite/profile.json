@@ -1,0 +1,14 @@
+{
+  "id": "xignite",
+  "title": "Xignite",
+  "subtitle": "Xignite is disrupting the market data industry with its AWS cloud-based financial data APIs and market data managemen...",
+  "tags": [
+    "market-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629589945/icons/xignite.jpg",
+  "website": "https://www.xignite.com/",
+  "docsUrl": "https://www.xignite.com/market-data-management/control-data-access"
+}

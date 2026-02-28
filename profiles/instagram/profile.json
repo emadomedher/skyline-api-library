@@ -1,0 +1,13 @@
+{
+  "id": "instagram",
+  "title": "Instagram",
+  "subtitle": "Instagram is a social network which is a fast, beautiful and fun way to share your photos with friends and family.",
+  "tags": [
+    "social-media-platforms"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455959/catalog/instagram/icon128x128.png",
+  "website": "https://www.instagram.com/"
+}

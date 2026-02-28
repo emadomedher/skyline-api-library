@@ -1,0 +1,13 @@
+{
+  "id": "salesfundaa-crm",
+  "title": "SalesFundaa CRM",
+  "subtitle": "Sales Fundaa is a Dial N Search Pvt. Ltd. initiative, provides ERP software, CRM Software, Project Management Softwar...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721912/catalog/salesfundaa-crm/icon128x128.jpg",
+  "website": "https://salesfundaa.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "actindo",
+  "title": "Actindo",
+  "subtitle": "Holen Sie sich die preisgekrönte Omni Channel Commerce-Plattform für wachstumsstarke Unternehmen. Actindo vereinheitl...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559096512/catalog/actindo/icon128x128.jpg",
+  "website": "https://www.actindo.com/en/",
+  "docsUrl": "https://docs.actindo.com/de/documentation/manual/core1/latest"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "thankster",
+  "title": "Thankster",
+  "subtitle": "Creates and mails cards and notes with authentic handwriting, requiring only address information and message text.  G...",
+  "tags": [
+    "printing",
+    "marketing-automation",
+    "customer-appreciation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306311/catalog/thankster/icon128x128.png",
+  "website": "https://thankster.com"
+}

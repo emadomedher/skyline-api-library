@@ -1,0 +1,13 @@
+{
+  "id": "infegy",
+  "title": "Infegy",
+  "subtitle": "Infegy is the leading SaaS data analytics company that helps global agencies and enterprise partners understand their...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720457/catalog/infegy/icon128x128.jpg",
+  "website": "https://infegy.com"
+}

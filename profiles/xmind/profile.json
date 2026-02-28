@@ -1,0 +1,13 @@
+{
+  "id": "xmind",
+  "title": "Xmind",
+  "subtitle": "XMind is the most professional and popular mind mapping tool. Millions of people use XMind to clarify thinking, manag...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946328/catalog/xmind/icon128x128.jpg",
+  "website": "https://xmind.net"
+}

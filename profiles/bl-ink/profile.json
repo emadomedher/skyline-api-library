@@ -1,0 +1,15 @@
+{
+  "id": "bl-ink",
+  "title": "BL.INK",
+  "subtitle": "BL.INK is a link shortener that allows you to turn clunky URLs into word-based Smart Links or branded links with BL.I...",
+  "tags": [
+    "social-marketing",
+    "url-shorteners"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538957/catalog/bl-ink/icon128x128.png",
+  "website": "https://www.bl.ink/",
+  "docsUrl": "https://blink.engineer"
+}

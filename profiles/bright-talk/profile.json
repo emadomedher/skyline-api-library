@@ -1,0 +1,13 @@
+{
+  "id": "bright-talk",
+  "title": "Bright Talk",
+  "subtitle": "Discover and learn with the world’s brightest professionals",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719245/catalog/bright-talk/icon128x128.jpg",
+  "website": "https://brighttalk.com"
+}

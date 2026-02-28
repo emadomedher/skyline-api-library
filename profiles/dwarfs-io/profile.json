@@ -1,0 +1,13 @@
+{
+  "id": "dwarfs-io",
+  "title": "Dwarfs",
+  "subtitle": "Dwarfs buys and grows Ecommerce brands on Marketplaces. Sell your brand and profit from a lucrative exit.",
+  "tags": [
+    "ecommerce-brand-buyers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621695219/icons/dwarfs-io.png",
+  "website": "https://dwarfs.io/"
+}

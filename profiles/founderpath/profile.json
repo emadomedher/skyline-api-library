@@ -1,0 +1,13 @@
+{
+  "id": "founderpath",
+  "title": "Founderpath",
+  "subtitle": "Where Bootstrapped SaaS Founders Get Funding",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639604674/icons/founderpath.jpg",
+  "website": "https://founderpath.com/"
+}

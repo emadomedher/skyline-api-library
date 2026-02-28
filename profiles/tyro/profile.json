@@ -1,0 +1,14 @@
+{
+  "id": "tyro",
+  "title": "Tyro Payments",
+  "subtitle": "Mobile portable EFTPOS machines, Loans, Bank Account, & eCommerce to stay on top of your business. Efficient mobile b...",
+  "tags": [
+    "eftpos",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589147437/catalog/tyro/icon128x128.jpg",
+  "website": "https://www.tyro.com/"
+}

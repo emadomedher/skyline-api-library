@@ -1,0 +1,13 @@
+{
+  "id": "eatngage",
+  "title": "eatNgage",
+  "subtitle": "eatNgage is the best tool for improving webinar audience retention and engagement",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947104/catalog/eatngage/icon128x128.jpg",
+  "website": "https://eatngage.com"
+}

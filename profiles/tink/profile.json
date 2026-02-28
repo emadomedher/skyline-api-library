@@ -1,0 +1,15 @@
+{
+  "id": "tink",
+  "title": "Tink",
+  "subtitle": "Market-proven technology that’s changing banking for the better. | Account \nAggregation | |Payment Initiation | |Pers...",
+  "tags": [
+    "api-aggregators",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568053071/catalog/tink/icon128x128.jpg",
+  "website": "https://tink.com",
+  "docsUrl": "https://docs.tink.com"
+}

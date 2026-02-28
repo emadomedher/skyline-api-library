@@ -1,0 +1,13 @@
+{
+  "id": "quarizmi",
+  "title": "Quarizmi",
+  "subtitle": "Quarizmi API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050491/icons/quarizmi.png",
+  "website": "https://Quarizmi.com"
+}

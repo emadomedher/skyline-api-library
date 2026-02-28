@@ -1,0 +1,13 @@
+{
+  "id": "mobile-monkey",
+  "title": "Mobile Monkey",
+  "subtitle": "Mobile Monkey API integration",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435914/catalog/mobile-monkey/icon128x128.png",
+  "website": "https://mobilemonkey.com"
+}

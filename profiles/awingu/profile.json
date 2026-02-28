@@ -1,0 +1,14 @@
+{
+  "id": "awingu",
+  "title": "Awingu",
+  "subtitle": "Awingu is an online workspace that gives users secure access to corporate IT resources such as company applications a...",
+  "tags": [
+    "desktop-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569101204/catalog/awingu/icon128x128.jpg",
+  "website": "https://www.awingu.com/",
+  "docsUrl": "https://www.awingu.com/amdocs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "unit21-ai",
+  "title": "Unit21",
+  "subtitle": "Unit21 API integration",
+  "tags": [
+    "no-code",
+    "compliance"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605533744/icons/unit21-ai.jpg",
+  "website": "https://www.unit21.ai/"
+}

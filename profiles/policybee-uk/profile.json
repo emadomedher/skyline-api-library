@@ -1,0 +1,13 @@
+{
+  "id": "policybee-uk",
+  "title": "PolicyBee",
+  "subtitle": "Insurance made easy for small businesses, freelancers, sole traders, charities & community groups. Quote and buy onli...",
+  "tags": [
+    "business-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576014971/catalog/policybee-uk/icon128x128.png",
+  "website": "https://www.policybee.co.uk/"
+}

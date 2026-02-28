@@ -1,0 +1,13 @@
+{
+  "id": "allo-io",
+  "title": "ALLO",
+  "subtitle": "The new way to collaborate with your team. Whiteboard, video conferencing, documentation, and project management in o...",
+  "tags": [
+    "remote-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471998/icons/allo-io.jpg",
+  "website": "https://allo.io/"
+}

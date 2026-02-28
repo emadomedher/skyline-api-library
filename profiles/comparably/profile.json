@@ -1,0 +1,15 @@
+{
+  "id": "comparably",
+  "title": "Comparably",
+  "subtitle": "Monitor the Job Market for the Best Careers, Compensation & Companies",
+  "tags": [
+    "employer-branding",
+    "salary-data",
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612388995/icons/comparably.jpg",
+  "website": "https://www.comparably.com/"
+}

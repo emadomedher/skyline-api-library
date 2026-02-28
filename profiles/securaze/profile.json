@@ -1,0 +1,14 @@
+{
+  "id": "securaze",
+  "title": "Securaze",
+  "subtitle": "Asset diagnostics and certified data erasure platform that enables security teams to optimize asset management proces...",
+  "tags": [
+    "data-erasure",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638922134/icons/securaze.png",
+  "website": "https://securaze.com/"
+}

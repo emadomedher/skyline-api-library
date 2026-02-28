@@ -1,0 +1,14 @@
+{
+  "id": "yonder-app",
+  "title": "Yonder",
+  "subtitle": "Financial benefits for global teams,\nset-up in less than 5 minutes. Enrol your team in local health insurance and pen...",
+  "tags": [
+    "health-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1666656328/icons/yonder-app.jpg",
+  "website": "https://www.yonder.app/",
+  "docsUrl": "https://www.yonder.app/for-developers"
+}

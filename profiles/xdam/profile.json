@@ -1,0 +1,13 @@
+{
+  "id": "xdam",
+  "title": "XDAM",
+  "subtitle": "XDAM is an Enterprise-Class, Multimedia, Digital Asset Management System with a range of features that empower and ex...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961910/catalog/xdam/icon128x128.png",
+  "website": "https://xdam.com"
+}

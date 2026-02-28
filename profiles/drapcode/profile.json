@@ -1,0 +1,14 @@
+{
+  "id": "drapcode",
+  "title": "DrapCode",
+  "subtitle": "DrapCode API integration",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074602/icons/drapcode.jpg",
+  "website": "https://drapcode.com/",
+  "docsUrl": "https://academy.drapcode.com"
+}

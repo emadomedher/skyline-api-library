@@ -1,0 +1,14 @@
+{
+  "id": "mac-app-store",
+  "title": "Mac App Store",
+  "subtitle": "Browse Mac apps by category, such as games, productivity, music, and more. The Mac App Store has apps for just about ...",
+  "tags": [
+    "app-stores"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600449443/icons/mac-app-store.svg",
+  "website": "https://apps.apple.com/us/genre/mac/id39",
+  "docsUrl": "https://apps.apple.com/us/genre/mac-developer-tools/id12002?mt=12"
+}

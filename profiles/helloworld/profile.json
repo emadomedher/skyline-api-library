@@ -1,0 +1,13 @@
+{
+  "id": "helloworld",
+  "title": "HelloWorld",
+  "subtitle": "HelloWorld API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775166/catalog/helloworld/icon128x128.png",
+  "website": "https://helloworld.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "platypus-io",
+  "title": "ThePlatypus",
+  "subtitle": "Platypus is the HR tech solution that helps you discover what people value at every stage of the talent lifecycle, fr...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588279327/catalog/platypus-io/icon128x128.png",
+  "website": "https://www.platypus.io/"
+}

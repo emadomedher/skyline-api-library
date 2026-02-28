@@ -1,0 +1,14 @@
+{
+  "id": "bexio",
+  "title": "bexio",
+  "subtitle": "bexio. Business software for small businesses, startups and self-employed individuals ✔ Online access from any place ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056106/catalog/bexio/icon128x128.png",
+  "website": "https://www.bexio.com/",
+  "docsUrl": "https://docs.bexio.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rsoft-crm",
+  "title": "Rsoft CRM",
+  "subtitle": "RSoft CRM is World's Best Customer Relationship Management Software to manage Leads, Marketing, Sales & Support autom...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721887/catalog/rsoft-crm/icon128x128.jpg",
+  "website": "https://rsoft.in"
+}

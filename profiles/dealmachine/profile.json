@@ -1,0 +1,12 @@
+{
+  "id": "dealmachine",
+  "title": "DealMachine",
+  "subtitle": "DealMachine intelligently automates your REI marketing process. Simply take a picture of a property with your smartph...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304744/catalog/dealmachine/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bedrock-saas-template",
+  "title": "Bedrock",
+  "subtitle": "Modern, full-stack Next.js & GraphQL boilerplate with user authentication, subscription payments, teams, invitations,...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628206951/icons/bedrock-saas-template.gif",
+  "website": "https://bedrock.mxstbr.com/"
+}

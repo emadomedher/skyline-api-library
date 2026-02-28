@@ -1,0 +1,15 @@
+{
+  "id": "loopback-io",
+  "title": "LoopBack",
+  "subtitle": "LoopBack API integration",
+  "tags": [
+    "api-development",
+    "framworks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364582/icons/loopback-io.png",
+  "website": "https://loopback.io/",
+  "docsUrl": "https://loopback.io/doc/en/lb4"
+}

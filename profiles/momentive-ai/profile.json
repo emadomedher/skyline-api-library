@@ -1,0 +1,15 @@
+{
+  "id": "momentive-ai",
+  "title": "Momentive",
+  "subtitle": "Momentive delivers intuitive, AI-powered experience management and insight solutions. Get in touch to learn more.",
+  "tags": [
+    "customer-feedbacks",
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623545733/icons/momentive-ai.jpg",
+  "website": "https://www.momentive.ai/",
+  "docsUrl": "https://developer.surveymonkey.com/?ut_source=footer"
+}

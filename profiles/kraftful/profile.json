@@ -1,0 +1,13 @@
+{
+  "id": "kraftful",
+  "title": "Kraftful",
+  "subtitle": "Kraftful gives you deep AI analysis of user feedback to learn what your users need and how to make your product delig...",
+  "tags": [
+    "product-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679055762/icons/kraftful.jpg",
+  "website": "https://www.kraftful.com/"
+}

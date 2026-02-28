@@ -1,0 +1,13 @@
+{
+  "id": "shout",
+  "title": "Shout",
+  "subtitle": "Shout is an influencer marketing platform that allows you to search, filter and analyze influencers from around the w...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722065/catalog/shout/icon128x128.jpg",
+  "website": "https://getshout.io"
+}

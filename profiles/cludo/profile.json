@@ -1,0 +1,14 @@
+{
+  "id": "cludo",
+  "title": "Cludo",
+  "subtitle": "Cludo is a groundbreaking site search platform designed to help your website and marketing teams create a spectacular...",
+  "tags": [
+    "search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612019590/icons/cludo.jpg",
+  "website": "https://www.cludo.com/",
+  "docsUrl": "https://www.cludo.com/site-search-for-developers"
+}

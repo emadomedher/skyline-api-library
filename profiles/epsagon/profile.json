@@ -1,0 +1,15 @@
+{
+  "id": "epsagon",
+  "title": "Epsagon",
+  "subtitle": "Automated Tracing for Cloud Microservices Monitor, troubleshoot and fix problems in seconds with payload visibility P...",
+  "tags": [
+    "tracing",
+    "serverless-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576889954/catalog/epsagon/icon128x128.jpg",
+  "website": "https://epsagon.com/",
+  "docsUrl": "https://docs.epsagon.com/docs"
+}

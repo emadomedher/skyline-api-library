@@ -1,0 +1,13 @@
+{
+  "id": "comhq",
+  "title": "ComHQ",
+  "subtitle": "ComHQ guides, assists and ultimately helps you make the most choicest and informed decision. We help you pick and com...",
+  "tags": [
+    "review-websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660387/icons/comhq.png",
+  "website": "https://www.comhq.com/"
+}

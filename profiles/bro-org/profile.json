@@ -1,0 +1,13 @@
+{
+  "id": "bro-org",
+  "title": "T-Bro Distribution",
+  "subtitle": "Zeek (formerly Bro) is the world’s leading platform for network security monitoring. Flexible, open source, and power...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249016/icons/bro-org.jpg",
+  "website": "https://bro.org"
+}

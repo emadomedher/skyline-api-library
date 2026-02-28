@@ -1,0 +1,13 @@
+{
+  "id": "eclipse",
+  "title": "Eclipse Foundation",
+  "subtitle": "The Eclipse Foundation - home to a global community, the Eclipse IDE, Jakarta EE and over 375 open source projects, i...",
+  "tags": [
+    "ide"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596813384/icons/eclipse.png",
+  "website": "https://www.eclipse.org/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "soon-works",
+  "title": "Soon",
+  "subtitle": "Official website of online employee scheduling and workforce management tool Soon",
+  "tags": [
+    "employee-scheduling",
+    "workforce-management",
+    "project-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574473453/catalog/soon-works/icon128x128.jpg",
+  "website": "https://soon.works/"
+}

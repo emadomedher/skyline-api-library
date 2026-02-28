@@ -1,0 +1,13 @@
+{
+  "id": "easylon-nl",
+  "title": "Easylon Loon & Salaris BV",
+  "subtitle": "De salarisadministratie software van Easylon is de betaalbare en complete salarissoftware. Vraag nu om de volledig fu...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187650/catalog/easylon-nl/icon128x128.jpg",
+  "website": "https://www.easylon.nl/"
+}

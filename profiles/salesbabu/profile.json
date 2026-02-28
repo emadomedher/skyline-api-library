@@ -1,0 +1,13 @@
+{
+  "id": "salesbabu",
+  "title": "SalesBabu",
+  "subtitle": "SalesBabu Online CRM and ERP Software designed to boost up your sales, marketing and customer services in a single sy...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721910/catalog/salesbabu/icon128x128.png",
+  "website": "https://salesbabu.com"
+}

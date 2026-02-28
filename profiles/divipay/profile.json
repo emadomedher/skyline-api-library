@@ -1,0 +1,13 @@
+{
+  "id": "divipay",
+  "title": "DiviPay",
+  "subtitle": "DiviPay - All-in-one virtual cards and expense management technology that gives you real-time visibility and full con...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633417517/icons/divipay.jpg",
+  "website": "https://divipay.com/"
+}

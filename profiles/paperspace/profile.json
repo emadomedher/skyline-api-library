@@ -1,0 +1,14 @@
+{
+  "id": "paperspace",
+  "title": "Paperspace",
+  "subtitle": "Cloud Machine Learning, AI, and effortless GPU infrastructure",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658250596/icons/paperspace.png",
+  "website": "https://www.paperspace.com/",
+  "docsUrl": "https://docs.paperspace.com"
+}

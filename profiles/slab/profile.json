@@ -1,0 +1,13 @@
+{
+  "id": "slab",
+  "title": "Slab",
+  "subtitle": "An internal knowledge base and team wiki for the modern workplace. It features a beautiful editor, blazing fast searc...",
+  "tags": [
+    "knowledge-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581628424/catalog/slab/icon128x128.jpg",
+  "website": "https://slab.com/"
+}

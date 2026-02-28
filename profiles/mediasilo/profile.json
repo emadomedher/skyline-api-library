@@ -1,0 +1,13 @@
+{
+  "id": "mediasilo",
+  "title": "MediaSilo",
+  "subtitle": "MediaSilo’s plug-and-play video management platform sits in the middle of your production process, working with your ...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305415/catalog/mediasilo/icon128x128.png",
+  "website": "https://mediasilo.com"
+}

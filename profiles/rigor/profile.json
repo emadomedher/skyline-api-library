@@ -1,0 +1,13 @@
+{
+  "id": "rigor",
+  "title": "Rigor",
+  "subtitle": "The Rigor Digital Experience Monitoring platform combines the power of synthetic monitoring with an intelligent optim...",
+  "tags": [
+    "application-performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603215546/icons/rigor.jpg",
+  "website": "https://rigor.com/"
+}

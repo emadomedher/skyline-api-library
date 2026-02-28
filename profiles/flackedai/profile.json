@@ -1,0 +1,13 @@
+{
+  "id": "flackedai",
+  "title": "Flacked AI",
+  "subtitle": "Flacked AI simplifies the process of writing with a natural language interface. Users type in their thoughts, let the...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626157722/icons/flackedai.jpg",
+  "website": "https://www.flackedai.com/"
+}

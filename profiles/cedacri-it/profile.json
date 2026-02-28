@@ -1,0 +1,14 @@
+{
+  "id": "cedacri-it",
+  "title": "Cedacri",
+  "subtitle": "Cedacri Group holds a leading position on the market providing its 150 clients (banks, financial institutions and ind...",
+  "tags": [
+    "banking",
+    "financial-services"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609597662/icons/cedacri-it.png",
+  "website": "http://www.cedacri.it/"
+}

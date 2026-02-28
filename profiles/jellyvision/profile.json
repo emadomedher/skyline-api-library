@@ -1,0 +1,13 @@
+{
+  "id": "jellyvision",
+  "title": "Jellyvision",
+  "subtitle": "Take control of healthcare spending by guiding employees to smart choices. Say goodbye to costly benefits confusion o...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651682924/icons/jellyvision.jpg",
+  "website": "https://www.jellyvision.com/"
+}

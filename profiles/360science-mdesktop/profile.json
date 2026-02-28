@@ -1,0 +1,14 @@
+{
+  "id": "360science-mdesktop",
+  "title": "360science mDesktop",
+  "subtitle": "360Science is a developer of Data Quality Platforms & Solutions that unify customer data, & make customer databases m...",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717061/catalog/360science-mdesktop/icon128x128.png",
+  "website": "https://360science.com",
+  "docsUrl": "https://www.360science.com/data-quality-solutions/for-developers"
+}

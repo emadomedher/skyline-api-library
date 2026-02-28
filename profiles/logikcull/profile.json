@@ -1,0 +1,15 @@
+{
+  "id": "logikcull",
+  "title": "Logikcull",
+  "subtitle": "Logikcull is an instant eDiscovery solution that provides a powerfully simple legal software for processing, reviewin...",
+  "tags": [
+    "ediscovery",
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669850057/icons/logikcull.png",
+  "website": "https://www.logikcull.com/",
+  "docsUrl": "https://www.logikcull.com/use-cases/subpoena-response"
+}

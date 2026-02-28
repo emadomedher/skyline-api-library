@@ -1,0 +1,13 @@
+{
+  "id": "informedy",
+  "title": "Informedy",
+  "subtitle": "Informedy specializes in creating interactive post-purchase content so you can identify, support and connect with the...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720481/catalog/informedy/icon128x128.jpg",
+  "website": "https://informedy.com"
+}

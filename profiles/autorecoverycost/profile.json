@@ -1,0 +1,13 @@
+{
+  "id": "autorecoverycost",
+  "title": "Auto Recovery Cost",
+  "subtitle": "Auto Recovery Cost API integration",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573231976/catalog/autorecoverycost/icon128x128.png",
+  "website": "https://www.autorecoverycost.com/"
+}

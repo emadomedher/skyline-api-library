@@ -1,0 +1,13 @@
+{
+  "id": "stip-t-nl",
+  "title": "Stip•t",
+  "subtitle": "Ben je op zoek naar een eenvoudig boekhoudprogramma voor ondernemers? Probeer Stip•t boekhoudprogramma. Gebruiksvrien...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593520399/icons/stip-t-nl.png",
+  "website": "https://www.stip-t.nl/"
+}

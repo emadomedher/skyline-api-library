@@ -1,0 +1,15 @@
+{
+  "id": "walmart",
+  "title": "Walmart",
+  "subtitle": "Shop Walmart.com for Every Day Low Prices. Free Shipping on Orders $35+ or Pickup In-Store and get a Pickup Discount....",
+  "tags": [
+    "ecommerce",
+    "retailers"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589569998/catalog/walmart/icon128x128.jpg",
+  "website": "https://www.walmart.com/",
+  "docsUrl": "https://www.walmart.io/apirefservices"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "serrala",
+  "title": "Serrala",
+  "subtitle": "Serrala is a global financial automation and B2B payments software company creating more secure payment capabilities ...",
+  "tags": [
+    "cash-flow-management",
+    "accounts-payable"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662389179/icons/serrala.png",
+  "website": "https://www.serrala.com/"
+}

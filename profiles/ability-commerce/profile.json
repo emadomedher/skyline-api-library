@@ -1,0 +1,13 @@
+{
+  "id": "ability-commerce",
+  "title": "Ability Commerce",
+  "subtitle": "Ability Commerce delivers industry-leading ecommerce, order management & financial software as well as various servic...",
+  "tags": [
+    "ecommerce-platforms-and-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561383754/catalog/ability-commerce/icon128x128.png",
+  "website": "https://abilitycommerce.com"
+}

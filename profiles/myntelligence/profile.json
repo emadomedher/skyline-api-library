@@ -1,0 +1,13 @@
+{
+  "id": "myntelligence",
+  "title": "Myntelligence",
+  "subtitle": "Myntelligence API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436032/catalog/myntelligence/icon128x128.png",
+  "website": "https://myntelligence.com"
+}

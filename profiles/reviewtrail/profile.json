@@ -1,0 +1,13 @@
+{
+  "id": "reviewtrail",
+  "title": "ReviewTrail",
+  "subtitle": "ReviewTrail is a review management solution that helps you get more customer reviews, increase reputation and confide...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962488/catalog/reviewtrail/icon128x128.png",
+  "website": "https://reviewtrail.com"
+}

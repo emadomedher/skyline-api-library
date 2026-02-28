@@ -1,0 +1,16 @@
+{
+  "id": "report-uri",
+  "title": "Report-URI",
+  "subtitle": "Report URI provides real-time security reporting for your site. We support Content Security Policy and many other mod...",
+  "tags": [
+    "dns",
+    "monitoring",
+    "security"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565281838/catalog/report-uri/icon128x128.jpg",
+  "website": "https://report-uri.com",
+  "docsUrl": "https://docs.report-uri.com"
+}

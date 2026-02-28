@@ -1,0 +1,13 @@
+{
+  "id": "quark",
+  "title": "Quark",
+  "subtitle": "Quark develops a content automation platform that helps organisations streamline the creation, management, publishing...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827328/catalog/quark/icon128x128.jpg",
+  "website": "https://quark.com"
+}

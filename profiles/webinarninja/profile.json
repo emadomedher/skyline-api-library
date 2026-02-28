@@ -1,0 +1,13 @@
+{
+  "id": "webinarninja",
+  "title": "WebinarNinja",
+  "subtitle": "WebinarNinja easily allows you to host, share and attend webinars with no worries.",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306482/catalog/webinarninja/icon128x128.png",
+  "website": "https://webinarninja.co"
+}

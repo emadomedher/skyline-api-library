@@ -1,0 +1,15 @@
+{
+  "id": "facebook-gaming",
+  "title": "Facebook Gaming",
+  "subtitle": "Facebook Gaming welcomes you to a new world of gaming. Share in the joy and fun of rooting for top streamers as they ...",
+  "tags": [
+    "live-streaming",
+    "game-streaming",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644272560/icons/facebook-gaming.jpg",
+  "website": "https://www.facebook.com/gaming/feed/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "timetrade",
+  "title": "TimeTrade",
+  "subtitle": "Intelligent online appointment scheduling. Join the 500+ enterprises and 30k+ businesses that schedule appointments e...",
+  "tags": [
+    "calendar-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609114321/icons/timetrade.jpg",
+  "website": "https://www.timetrade.com/"
+}

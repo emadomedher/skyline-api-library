@@ -1,0 +1,14 @@
+{
+  "id": "hesp-live",
+  "title": "hesp.live",
+  "subtitle": "Stream real-time to large audiences, get started in minutes",
+  "tags": [
+    "video-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643327770/icons/hesp-live.jpg",
+  "website": "https://www.hesp.live/",
+  "docsUrl": "https://developers.hesp.live/password?redirect="
+}

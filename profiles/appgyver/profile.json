@@ -1,0 +1,14 @@
+{
+  "id": "appgyver",
+  "title": "AppGyver",
+  "subtitle": "A low-code visual builder and app platform for high–performance cross–platform native apps for iOS, Android & Web. Bu...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774799/catalog/appgyver/icon128x128.png",
+  "website": "https://appgyver.com",
+  "docsUrl": "https://docs.appgyver.com"
+}

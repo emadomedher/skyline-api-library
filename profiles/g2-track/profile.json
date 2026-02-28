@@ -1,0 +1,13 @@
+{
+  "id": "g2-track",
+  "title": "G2 Track",
+  "subtitle": "G2 Track allows you to manage software spend, contracts, account usage and compliance. All from one place.",
+  "tags": [
+    "saas-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605094231/icons/g2-track.png",
+  "website": "https://track.g2.com/"
+}

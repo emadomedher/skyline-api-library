@@ -1,0 +1,12 @@
+{
+  "id": "zoho-workdrive",
+  "title": "Zoho WorkDrive",
+  "subtitle": "Zoho WorkDrive is an online team file manager. It gives you a secure, shared workspace, new ways to share files, and ...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284667/catalog/zoho-workdrive/icon128x128.png"
+}

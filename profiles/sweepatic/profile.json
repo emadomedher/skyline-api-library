@@ -1,0 +1,14 @@
+{
+  "id": "sweepatic",
+  "title": "Sweepatic",
+  "subtitle": "A user-friendly platform that automates the discovery and security analysis of your online attack surface.",
+  "tags": [
+    "pentest-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215672/icons/sweepatic.jpg",
+  "website": "https://www.sweepatic.com/",
+  "docsUrl": "https://www.keycloak.org/docs/latest/securing_apps"
+}

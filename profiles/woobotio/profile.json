@@ -1,0 +1,13 @@
+{
+  "id": "woobotio",
+  "title": "Woobot.io",
+  "subtitle": "Transform your teams work experience by seamlessly threading business critical data within the context of the convers...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946352/catalog/woobotio/icon128x128.jpg",
+  "website": "https://Woobot.io"
+}

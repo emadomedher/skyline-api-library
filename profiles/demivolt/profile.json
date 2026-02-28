@@ -1,0 +1,14 @@
+{
+  "id": "demivolt",
+  "title": "DEMIVOLT",
+  "subtitle": "Digital Banking & Payment Solutions. EMI for merchants.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632592963/icons/demivolt.jpg",
+  "website": "https://www.demivolt.com/",
+  "docsUrl": "https://www.demivolt.com/api"
+}

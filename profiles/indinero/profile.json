@@ -1,0 +1,13 @@
+{
+  "id": "indinero",
+  "title": "inDinero",
+  "subtitle": "Our accounting solution scales with your growing startup. We combine outsourced accounting, tax prep, and fractional ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569709963/catalog/indinero/icon128x128.jpg",
+  "website": "https://www.indinero.com/"
+}

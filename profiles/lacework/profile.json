@@ -1,0 +1,13 @@
+{
+  "id": "lacework",
+  "title": "Lacework",
+  "subtitle": "Lacework provides end-to-end cloud security automation for AWS, Azure, and GCP with a comprehensive view of risks acr...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669487/icons/lacework.jpg",
+  "website": "https://www.lacework.com/"
+}

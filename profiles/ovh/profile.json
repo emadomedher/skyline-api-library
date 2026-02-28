@@ -1,0 +1,15 @@
+{
+  "id": "ovh",
+  "title": "OVHcloud",
+  "subtitle": "OVHcloud accompagne votre évolution grâce au meilleur des infrastructures web : hébergement, nom de domaine, serveur ...",
+  "tags": [
+    "cloud-providers",
+    "hosting"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600383036/icons/ovh.jpg",
+  "website": "https://www.ovh.com/",
+  "docsUrl": "https://www.ovh.com/fr/hebergement-web/referencement-local.xml"
+}

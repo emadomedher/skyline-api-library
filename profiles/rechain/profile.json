@@ -1,0 +1,13 @@
+{
+  "id": "rechain",
+  "title": "ReChain",
+  "subtitle": "ReChain is a loyalty and rewards platform, utilizing the security of blockchain technology, to create a rewards ecosy...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721773/catalog/rechain/icon128x128.jpg",
+  "website": "https://rechainrewards.com"
+}

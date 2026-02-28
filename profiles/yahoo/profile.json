@@ -1,0 +1,13 @@
+{
+  "id": "yahoo",
+  "title": "Yahoo!",
+  "subtitle": "Yahoo! API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961895/catalog/yahoo/icon128x128.png",
+  "website": "https://advertising.yahoo.com"
+}

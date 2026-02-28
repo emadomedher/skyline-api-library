@@ -1,0 +1,16 @@
+{
+  "id": "stripe-billing",
+  "title": "Stripe Billing",
+  "subtitle": "Stripe Billing powers recurring payments and subscription business models with tools to reduce churn. Use Stripe’s AP...",
+  "tags": [
+    "billing",
+    "subscription-management",
+    "invoicing",
+    "subscription-billing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619319113/icons/stripe-billing.svg",
+  "website": "https://stripe.com/billing"
+}

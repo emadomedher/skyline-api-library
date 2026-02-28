@@ -1,0 +1,14 @@
+{
+  "id": "syniverse",
+  "title": "Syniverse",
+  "subtitle": "Syniverse's secure, global network reaches billions of people and devices. We empower businesses to transform how the...",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437816/catalog/syniverse/icon128x128.png",
+  "website": "https://syniverse.com",
+  "docsUrl": "https://developer.syniverse.com"
+}

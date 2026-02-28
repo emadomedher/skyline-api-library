@@ -1,0 +1,15 @@
+{
+  "id": "sublimetext",
+  "title": "Sublime Text",
+  "subtitle": "Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user interface, extraor...",
+  "tags": [
+    "text-editors",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597100471/icons/sublimetext.png",
+  "website": "https://www.sublimetext.com/",
+  "docsUrl": "https://www.sublimetext.com/docs/3/linux_repositories.html"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "roundups-in",
+  "title": "Roundups",
+  "subtitle": "Roundups API integration",
+  "tags": [
+    "wealthtech",
+    "investing",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080671/catalog/roundups-in/icon128x128.jpg",
+  "website": "https://roundups.in/"
+}

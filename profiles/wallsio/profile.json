@@ -1,0 +1,13 @@
+{
+  "id": "wallsio",
+  "title": "Walls.io",
+  "subtitle": "Walls.io is an easy-to-use social wall that allows you to collect, curate and display content from multiple social me...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946372/catalog/wallsio/icon128x128.jpg",
+  "website": "https://walls.io"
+}

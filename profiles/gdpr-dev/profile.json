@@ -1,0 +1,15 @@
+{
+  "id": "gdpr-dev",
+  "title": "ALIAS",
+  "subtitle": "ALIAS API integration",
+  "tags": [
+    "compliance",
+    "data-portability",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605220288/icons/gdpr-dev.jpg",
+  "website": "https://gdpr.dev/"
+}

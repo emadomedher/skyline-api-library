@@ -1,0 +1,14 @@
+{
+  "id": "weclapp",
+  "title": "weclapp",
+  "subtitle": "weclapp API integration",
+  "tags": [
+    "crm",
+    "accounting",
+    "project-management"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178331/catalog/weclapp/icon128x128.png"
+}

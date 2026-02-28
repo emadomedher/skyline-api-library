@@ -1,0 +1,13 @@
+{
+  "id": "starfinancial",
+  "title": "STAR Financial Bank",
+  "subtitle": "STAR Financial is an Indiana community bank providing banking, mortgage, investing, credit card, wealth management, a...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364575/icons/starfinancial.jpg",
+  "website": "https://www.starfinancial.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ladderr",
+  "title": "Ladderr",
+  "subtitle": "Social media management tool to manage your audience, monitor in real-time, schedule contents, manage engagement and ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720818/catalog/ladderr/icon128x128.png",
+  "website": "https://ladderr.com"
+}

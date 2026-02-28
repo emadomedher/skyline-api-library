@@ -1,0 +1,14 @@
+{
+  "id": "procore",
+  "title": "Procore",
+  "subtitle": "The all-in-one construction management software built to help you finish quality projects—safely, on time, and within...",
+  "tags": [
+    "construction-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305743/catalog/procore/icon128x128.png",
+  "website": "https://www.procore.com/",
+  "docsUrl": "https://developers.procore.com"
+}

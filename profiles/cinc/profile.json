@@ -1,0 +1,12 @@
+{
+  "id": "cinc",
+  "title": "CINC",
+  "subtitle": "CINC is a CRM for top-producing real estate brokers and agents, providing an integrated buyer lead generation and man...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829389/catalog/cinc/icon128x128.png"
+}

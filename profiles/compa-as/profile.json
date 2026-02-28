@@ -1,0 +1,14 @@
+{
+  "id": "compa-as",
+  "title": "Compaas",
+  "subtitle": "Compaas: The Compensation Platform | Total Visibility. Zero Spreadsheets. Painless raise cycles, compensation metrics...",
+  "tags": [
+    "compensation-data",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606922975/icons/compa-as.jpg",
+  "website": "https://www.compa.as/"
+}

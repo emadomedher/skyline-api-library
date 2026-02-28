@@ -1,0 +1,15 @@
+{
+  "id": "fintable-io",
+  "title": "Fintable.io",
+  "subtitle": "The world's first and only Airtable Finance platform. See all your bank balances and transactions on your own Airtabl...",
+  "tags": [
+    "bank-data-sync",
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626155772/icons/fintable-io.jpg",
+  "website": "https://fintable.io/",
+  "docsUrl": "https://docs.fintable.io"
+}

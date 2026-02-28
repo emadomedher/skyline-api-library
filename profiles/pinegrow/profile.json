@@ -1,0 +1,14 @@
+{
+  "id": "pinegrow",
+  "title": "Pinegrow",
+  "subtitle": "A professional visual editor for CSS Grid, Bootstrap, Foundation, responsive design, HTML, and CSS. Convert HTML to W...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583189299/catalog/pinegrow/icon128x128.png",
+  "website": "https://pinegrow.com/",
+  "docsUrl": "https://pinegrow.com/docs/interactions"
+}

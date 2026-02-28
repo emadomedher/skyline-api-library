@@ -1,0 +1,13 @@
+{
+  "id": "traction-complete",
+  "title": "Traction Complete",
+  "subtitle": "Traction Complete is a sales acceleration app that matches incoming leads to accounts, enriching your leads with firm...",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438019/catalog/traction-complete/icon128x128.png",
+  "website": "https://tractioncomplete.com"
+}

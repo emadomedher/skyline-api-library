@@ -1,0 +1,13 @@
+{
+  "id": "ronin",
+  "title": "Ronin",
+  "subtitle": "Online invoicing and time tracking for small businesses and freelancers. Ronin helps you get paid quicker and painles...",
+  "tags": [
+    "proposals-&-invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305904/catalog/ronin/icon128x128.png",
+  "website": "https://www.roninapp.com/"
+}

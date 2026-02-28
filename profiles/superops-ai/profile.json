@@ -1,0 +1,14 @@
+{
+  "id": "superops-ai",
+  "title": "SuperOps.ai",
+  "subtitle": "Remote Monitoring & Management(RMM) and Professional Services Automation(PSA) platform for Managed Service Providers ...",
+  "tags": [
+    "msp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794270/icons/superops-ai.jpg",
+  "website": "https://superops.ai/",
+  "docsUrl": "https://superops.ai/rmm/it-documentation"
+}

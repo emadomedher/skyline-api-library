@@ -1,0 +1,13 @@
+{
+  "id": "payrails",
+  "title": "Payrails",
+  "subtitle": "Payrails enables high-growth companies to craft their payment experiences and financial services globally.",
+  "tags": [
+    "financial-operations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698425/icons/payrails.png",
+  "website": "https://www.payrails.com/"
+}

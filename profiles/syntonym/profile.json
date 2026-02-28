@@ -1,0 +1,14 @@
+{
+  "id": "syntonym",
+  "title": "Syntonym",
+  "subtitle": "Anonymize visual data in a GDPR-compliant way to protect people’s privacy.",
+  "tags": [
+    "synthetic-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672855779/icons/syntonym.png",
+  "website": "https://www.syntonym.com/",
+  "docsUrl": "https://www.syntonym.com/#"
+}

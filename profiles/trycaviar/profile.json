@@ -1,0 +1,13 @@
+{
+  "id": "trycaviar",
+  "title": "Caviar",
+  "subtitle": "Order fast delivery from your favorite restaurants with real-time GPS tracking! Visit TryCaviar.com now or try our mo...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566602427/catalog/trycaviar/icon128x128.jpg",
+  "website": "https://www.trycaviar.com/"
+}

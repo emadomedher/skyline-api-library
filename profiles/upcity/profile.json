@@ -1,0 +1,13 @@
+{
+  "id": "upcity",
+  "title": "UpCity",
+  "subtitle": "UpCity is a local inbound marketing platform for agencies, providing tools for SEO, reputation management, social med...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306408/catalog/upcity/icon128x128.png",
+  "website": "https://upcity.com"
+}

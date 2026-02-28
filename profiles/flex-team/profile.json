@@ -1,0 +1,13 @@
+{
+  "id": "flex-team",
+  "title": "flex",
+  "subtitle": "HR의 디지털 전환을 통한 업무 효율과 직원경험의 개선. flex와 함께라면 회사의 HR이 새로워집니다.",
+  "tags": [
+    "human-capital-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630633514/icons/flex-team.png",
+  "website": "https://www.flex.team/"
+}

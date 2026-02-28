@@ -1,0 +1,14 @@
+{
+  "id": "macheye",
+  "title": "MachEye",
+  "subtitle": "MachEye’s BI platform offers natural search, click-less intelligence, and interactive audio-visuals to improve the sp...",
+  "tags": [
+    "business-intelligence"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015082/icons/macheye.jpg",
+  "website": "https://www.macheye.com/",
+  "docsUrl": "https://www.macheye.com/resources"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "highlevel",
+  "title": "HighLevel",
+  "subtitle": "HighLevel is a platform for marketing agencies to manage all levels of their clients business, from marketing automat...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829975/catalog/highlevel/icon128x128.png",
+  "website": "https://apartamentycosmopolitan.pl"
+}

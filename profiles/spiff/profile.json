@@ -1,0 +1,14 @@
+{
+  "id": "spiff",
+  "title": "Spiff",
+  "subtitle": "Spiff is the leading sales commission software and commission tracker automating manual commission calculations and m...",
+  "tags": [
+    "sales-compensation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567038116/catalog/spiff/icon128x128.jpg",
+  "website": "https://spiff.com/",
+  "docsUrl": "https://spiff.com/#f463995d-6e8a-4cb8-af38-7b32957ec905"
+}

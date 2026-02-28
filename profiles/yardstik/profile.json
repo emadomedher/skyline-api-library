@@ -1,0 +1,14 @@
+{
+  "id": "yardstik",
+  "title": "Yardstik",
+  "subtitle": "Yardstik delivers configurable packages of screening, industry-specific verification, and training—beyond traditional...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990324/icons/yardstik.png",
+  "website": "https://yardstik.com/",
+  "docsUrl": "https://developer.yardstik.com"
+}

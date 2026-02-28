@@ -1,0 +1,13 @@
+{
+  "id": "church-analytics",
+  "title": "Church Analytics",
+  "subtitle": "Church Analytics API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433695/catalog/church-analytics/icon128x128.png",
+  "website": "https://churchanalytics.com"
+}

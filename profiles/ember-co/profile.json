@@ -1,0 +1,13 @@
+{
+  "id": "ember-co",
+  "title": "Ember",
+  "subtitle": "We’re the world’s first software platform to automate the accounting process for SMEs.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581894805/catalog/ember-co/icon128x128.jpg",
+  "website": "https://ember.co/"
+}

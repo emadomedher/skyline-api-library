@@ -1,0 +1,13 @@
+{
+  "id": "budgeta",
+  "title": "Budgeta",
+  "subtitle": "Finally, businesses have a better budgeting and planning solution than spreadsheets and email. Budgeta is financial p...",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433476/catalog/budgeta/icon128x128.png",
+  "website": "https://budgeta.com"
+}

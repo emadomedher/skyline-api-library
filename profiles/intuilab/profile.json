@@ -1,0 +1,13 @@
+{
+  "id": "intuilab",
+  "title": "Intuilab",
+  "subtitle": "Intuiface is the world’s leading digital experience creation platform. Use Intuiface to create interactive presentati...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720539/catalog/intuilab/icon128x128.jpg",
+  "website": "https://intuilab.com"
+}

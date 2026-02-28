@@ -1,0 +1,15 @@
+{
+  "id": "abstract",
+  "title": "Abstract",
+  "subtitle": "Bring git-inspired version control & collaboration to your design team. Centralize design decisions, feedback, and fi...",
+  "tags": [
+    "design",
+    "design-version-control"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584648270/catalog/abstract/icon128x128.png",
+  "website": "https://www.abstract.com/",
+  "docsUrl": "https://www.abstract.com/designer-developer-handoff"
+}

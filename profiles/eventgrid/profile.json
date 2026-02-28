@@ -1,0 +1,13 @@
+{
+  "id": "eventgrid",
+  "title": "EventGrid",
+  "subtitle": "Create, manage and promote events.",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947059/catalog/eventgrid/icon128x128.png",
+  "website": "https://eventgrid.com"
+}

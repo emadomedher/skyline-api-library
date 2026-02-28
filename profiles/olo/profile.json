@@ -1,0 +1,14 @@
+{
+  "id": "olo",
+  "title": "Olo",
+  "subtitle": "Branded mobile, tablet, and web-based ordering platform for multi-unit restaurants. Enterprise-grade SaaS ordering ma...",
+  "tags": [
+    "hospitality",
+    "restaurant-delivery-takeout"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567806006/catalog/olo/icon128x128.png",
+  "website": "https://www.olo.com/"
+}

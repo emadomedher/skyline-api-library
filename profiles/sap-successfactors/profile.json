@@ -1,0 +1,17 @@
+{
+  "id": "sap-successfactors",
+  "title": "SAP SuccessFactors",
+  "subtitle": "SAP SuccessFactors is the global provider of cloud-based Human Experience Management (HXM) software. Our HR applicati...",
+  "tags": [
+    "hris",
+    "talent-management",
+    "ats",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437127/catalog/sap-successfactors/icon128x128.png",
+  "website": "https://successfactors.com",
+  "docsUrl": "https://api.sap.com/products/SAPSuccessFactors/apis/all"
+}

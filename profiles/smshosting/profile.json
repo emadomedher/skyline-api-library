@@ -1,0 +1,12 @@
+{
+  "id": "smshosting",
+  "title": "Smshosting",
+  "subtitle": "Smshosting is a professional tool to send SMS, push notifications, and to create mobile landing pages.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306128/catalog/smshosting/icon128x128.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zenhub",
+  "title": "ZenHub",
+  "subtitle": "ZenHub is agile project management within GitHub. Add powerful tracking, planning and reporting features to GitHub!",
+  "tags": [
+    "agile-and-lean-management",
+    "issue-tracking",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946319/catalog/zenhub/icon128x128.png",
+  "website": "https://zenhub.com",
+  "docsUrl": "https://developer.mozilla.org/en-us/docs/mozilla/projects/psm"
+}

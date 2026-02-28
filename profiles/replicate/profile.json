@@ -1,0 +1,14 @@
+{
+  "id": "replicate",
+  "title": "Replicate",
+  "subtitle": "Replicate API integration",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677932765/icons/replicate.png",
+  "website": "https://replicate.com/",
+  "docsUrl": "https://replicate.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ideal-nl",
+  "title": "iDEAL",
+  "subtitle": "Online betalen via je bank. iDEAL is een online betaalmiddel, waarmee consumenten kunnen betalen via hun eigen bank. ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566511750/catalog/ideal-nl/icon128x128.png",
+  "website": "https://www.ideal.nl/"
+}

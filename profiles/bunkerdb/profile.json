@@ -1,0 +1,13 @@
+{
+  "id": "bunkerdb",
+  "title": "Bunker DB",
+  "subtitle": "Analyze your marketing actions within all your paid and social platforms, measure your investment, visualize your con...",
+  "tags": [
+    "marketing-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636499805/icons/bunkerdb.jpg",
+  "website": "https://bunkerdb.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "keepfiteatfit",
+  "title": "Keep Fit Eat Fit",
+  "subtitle": "Keep Fit Eat Fit is the complete digital wellbeing programme for employees everywhere, and is delivered as a membersh...",
+  "tags": [
+    "employee-benefits",
+    "employee-health"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598287579/icons/keepfiteatfit.jpg",
+  "website": "https://www.keepfiteatfit.com/"
+}

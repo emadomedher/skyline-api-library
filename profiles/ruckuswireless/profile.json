@@ -1,0 +1,14 @@
+{
+  "id": "ruckuswireless",
+  "title": "Ruckus",
+  "subtitle": "Ruckus API integration",
+  "tags": [
+    "networking",
+    "wifi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573427619/catalog/ruckuswireless/icon128x128.jpg",
+  "website": "https://www.ruckuswireless.com/"
+}

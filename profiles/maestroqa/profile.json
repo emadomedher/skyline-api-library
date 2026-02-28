@@ -1,0 +1,13 @@
+{
+  "id": "maestroqa",
+  "title": "MaestroQA",
+  "subtitle": "MaestroQA is customer service quality assurance software. We help teams improve customer experience. Start your free ...",
+  "tags": [
+    "customer-service-quality-assurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572016221/catalog/maestroqa/icon128x128.png",
+  "website": "https://www.maestroqa.com/"
+}

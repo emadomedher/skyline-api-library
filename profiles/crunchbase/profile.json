@@ -1,0 +1,14 @@
+{
+  "id": "crunchbase",
+  "title": "Crunchbase",
+  "subtitle": "Crunchbase is the leading destination for company insights from early-stage startups to the Fortune 1000. Get insight...",
+  "tags": [
+    "vendor-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775011/catalog/crunchbase/icon128x128.png",
+  "website": "https://crunchbase.com",
+  "docsUrl": "https://data.crunchbase.com/docs"
+}

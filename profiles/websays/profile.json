@@ -1,0 +1,13 @@
+{
+  "id": "websays",
+  "title": "Websays",
+  "subtitle": "Websays masters social data with proprietary technology and data analysts. We have the perfect formula for your socia...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722860/catalog/websays/icon128x128.jpg",
+  "website": "https://websays.com"
+}

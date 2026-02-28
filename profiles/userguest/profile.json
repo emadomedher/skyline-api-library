@@ -1,0 +1,13 @@
+{
+  "id": "userguest",
+  "title": "Userguest",
+  "subtitle": "Our smart tool matches a users' booking intent with your hotel's inventory priorities. We display personalized incent...",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646691648/icons/userguest.jpg",
+  "website": "https://userguest.com/"
+}

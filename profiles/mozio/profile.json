@@ -1,0 +1,13 @@
+{
+  "id": "mozio",
+  "title": "Mozio",
+  "subtitle": "Mozio lets you find and book your ground transportation anywhere in the world! Book taxis, shuttles, trains, limos, v...",
+  "tags": [
+    "mobility-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591344992/icons/mozio.png",
+  "website": "https://www.mozio.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "theidco",
+  "title": "The ID Co.",
+  "subtitle": "We build solutions that create frictionless financial experiences, breaking down barriers & creating trust with bank ...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604960387/icons/theidco.png",
+  "website": "https://www.theidco.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "apollo-io",
+  "title": "Apollo",
+  "subtitle": "Apollo is an intelligent, data-first engagement platform that puts structured data at the core of your workflows to h...",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574866094/catalog/apollo-io/icon128x128.jpg",
+  "website": "https://www.apollo.io/",
+  "docsUrl": "https://apolloio.github.io/apollo-api-docs/"
+}

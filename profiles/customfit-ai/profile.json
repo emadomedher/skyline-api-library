@@ -1,0 +1,13 @@
+{
+  "id": "customfit-ai",
+  "title": "CustomFit",
+  "subtitle": "CustomFit.ai is a no-code website personalization tool. It increases website conversions by engaging each micro-segme...",
+  "tags": [
+    "website-personalization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657718788/icons/customfit-ai.png",
+  "website": "https://www.customfit.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shopperapproved",
+  "title": "ShopperApproved",
+  "subtitle": "Customer Reviews by Shopper Approved - Our Customer Review Software makes for an easy 2-step review process to produc...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722063/catalog/shopperapproved/icon128x128.jpg",
+  "website": "https://shopperapproved.com"
+}

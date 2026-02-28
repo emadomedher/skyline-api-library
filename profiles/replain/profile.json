@@ -1,0 +1,12 @@
+{
+  "id": "replain",
+  "title": "Re:plain",
+  "subtitle": "Re:plain is a live chat platform for your messenger. Send messages from your website directly to Facebook Messenger o...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830020/catalog/replain/icon128x128.jpg"
+}

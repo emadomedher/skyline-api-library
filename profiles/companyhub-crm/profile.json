@@ -1,0 +1,13 @@
+{
+  "id": "companyhub-crm",
+  "title": "CompanyHub CRM",
+  "subtitle": "Sales team HATES using CRMs? CompanyHub is a fully customizable CRM for Sales Teams which is as easy to use as Excel....",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719706/catalog/companyhub-crm/icon128x128.jpg",
+  "website": "https://companyhub.com"
+}

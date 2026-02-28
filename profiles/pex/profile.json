@@ -1,0 +1,13 @@
+{
+  "id": "pex",
+  "title": "Pex",
+  "subtitle": "Pex delivers independent video and music analytics & rights management services to enable creators, rights holders an...",
+  "tags": [
+    "copyright-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614340/catalog/pex/icon128x128.jpg",
+  "website": "https://pex.com/"
+}

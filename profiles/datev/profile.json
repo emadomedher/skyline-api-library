@@ -1,0 +1,17 @@
+{
+  "id": "datev",
+  "title": "DATEV",
+  "subtitle": "Welcome to DATEV",
+  "tags": [
+    "tax",
+    "accounting",
+    "payroll",
+    "hris"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187652/catalog/datev/icon128x128.jpg",
+  "website": "https://www.datev.com/",
+  "docsUrl": "https://developer.datev.de/portal/en/documentations"
+}

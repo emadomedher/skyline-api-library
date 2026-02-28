@@ -1,0 +1,13 @@
+{
+  "id": "apiembed",
+  "title": "APIembed",
+  "subtitle": "Auto-generated code snippets in many programming languages for your website, blog or API documentation. Made with Lov...",
+  "tags": [
+    "api-tooling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573747592/catalog/apiembed/icon128x128.png",
+  "website": "https://apiembed.com/"
+}

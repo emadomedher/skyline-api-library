@@ -1,0 +1,14 @@
+{
+  "id": "getro",
+  "title": "Getro",
+  "subtitle": "Getro's automated job board and private talent network take the manual work out of connecting people and companies in...",
+  "tags": [
+    "hiring",
+    "vc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437752/icons/getro.png",
+  "website": "https://www.getro.com/"
+}

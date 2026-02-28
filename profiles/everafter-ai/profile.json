@@ -1,0 +1,14 @@
+{
+  "id": "everafter-ai",
+  "title": "EverAfter",
+  "subtitle": "Build personalized hubs for every user directly inside your product.",
+  "tags": [
+    "customer-onboarding",
+    "partner-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632954395/icons/everafter-ai.png",
+  "website": "https://www.everafter.ai/"
+}

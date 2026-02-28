@@ -1,0 +1,13 @@
+{
+  "id": "github-boards",
+  "title": "GitHub Boards",
+  "subtitle": "Keep projects transparent and on schedule with GitHub’s project management tools. From task assignments to project bo...",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598542257/icons/github-boards.png",
+  "website": "https://github.com/features/project-management/"
+}

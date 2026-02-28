@@ -1,0 +1,14 @@
+{
+  "id": "peoplehum",
+  "title": "peopleHum",
+  "subtitle": "peopleHum is an award-winning best HCM software that helps manage & improve employee experience and productivity acro...",
+  "tags": [
+    "human-capital-management",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602809330/icons/peoplehum.jpg",
+  "website": "https://www.peoplehum.com/"
+}

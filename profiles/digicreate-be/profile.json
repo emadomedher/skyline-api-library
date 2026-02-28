@@ -1,0 +1,13 @@
+{
+  "id": "digicreate-be",
+  "title": "digicreate.be",
+  "subtitle": "Full service webbureau gespecialiseerd in on- en offline communicatiestrategieën op maat.",
+  "tags": [
+    "development-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622433614/icons/digicreate-be.jpg",
+  "website": "https://www.digicreate.be/"
+}

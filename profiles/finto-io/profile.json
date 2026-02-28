@@ -1,0 +1,14 @@
+{
+  "id": "finto-io",
+  "title": "finto.io",
+  "subtitle": "With Finto you can deploy innovative digital banking products or embed financial services into your customer experien...",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635966628/icons/finto-io.jpg",
+  "website": "https://finto.io/",
+  "docsUrl": "https://finto.io/developers"
+}

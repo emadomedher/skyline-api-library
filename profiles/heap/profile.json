@@ -1,0 +1,14 @@
+{
+  "id": "heap",
+  "title": "Heap",
+  "subtitle": "We empower product teams to focus on what matters — building the best products — not wrestling with their product ana...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439217/catalog/heap/icon128x128.svg",
+  "website": "https://heap.io/",
+  "docsUrl": "https://docs.heapanalytics.com/docs"
+}

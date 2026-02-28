@@ -1,0 +1,13 @@
+{
+  "id": "d3security",
+  "title": "D3 Security",
+  "subtitle": "D3 Security's Incident Response Platform Helps Organizations Prepare For Threats & Orchestrate Security Response. Dis...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249011/icons/d3security.jpg",
+  "website": "https://d3security.com"
+}

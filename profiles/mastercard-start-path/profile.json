@@ -1,0 +1,15 @@
+{
+  "id": "mastercard-start-path",
+  "title": "Mastercard Start Path",
+  "subtitle": "Mastercard Start Path API integration",
+  "tags": [
+    "startup-programs",
+    "fintech",
+    "startup-accelerators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595447208/icons/mastercard-start-path.jpg",
+  "website": "https://startpath.mastercard.com/"
+}

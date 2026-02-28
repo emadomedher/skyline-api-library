@@ -1,0 +1,13 @@
+{
+  "id": "spendzoon",
+  "title": "Spendzoon",
+  "subtitle": "Manage your business spends and simplify your accounting with a corporate card that empowers your business.",
+  "tags": [
+    "spend-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638042368/icons/spendzoon.jpg",
+  "website": "https://www.spendzoon.com/"
+}

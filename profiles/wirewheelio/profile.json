@@ -1,0 +1,13 @@
+{
+  "id": "wirewheelio",
+  "title": "WireWheel.io",
+  "subtitle": "WireWheel delivers a modern, cloud-based Data Privacy & Protection Platform to drive faster and more efficient compli...",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722898/catalog/wirewheelio/icon128x128.jpg",
+  "website": "https://wirewheel.io"
+}

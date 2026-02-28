@@ -1,0 +1,14 @@
+{
+  "id": "gorgias-io",
+  "title": "Gorgias",
+  "subtitle": "Helpdesk designed for e-commerce stores. Provide multichannel customer service from a single app. Gain productivity w...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573957583/catalog/gorgias-io/icon128x128.jpg",
+  "website": "https://www.gorgias.io/",
+  "docsUrl": "https://docs.gorgias.io"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "acorns",
+  "title": "Acorns",
+  "subtitle": "Acorns is an American financial technology and financial services company based in Irvine, California that specialize...",
+  "tags": [
+    "investing",
+    "robo-advisors",
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610315556/icons/acorns.jpg",
+  "website": "https://www.acorns.com/"
+}

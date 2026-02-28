@@ -1,0 +1,13 @@
+{
+  "id": "ecomlogic",
+  "title": "eComlogic",
+  "subtitle": "eComlogic API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963991/catalog/ecomlogic/icon128x128.png",
+  "website": "https://ecomlogic.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "securityinnovation",
+  "title": "Security Innovation",
+  "subtitle": "Security Innovation provides application security testing, training and web application cyber range to secure and pro...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193171/catalog/securityinnovation/icon128x128.jpg",
+  "website": "https://www.securityinnovation.com"
+}

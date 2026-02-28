@@ -1,0 +1,13 @@
+{
+  "id": "igloo",
+  "title": "Igloo",
+  "subtitle": "Igloo enables organizations to solve business challenges & cultivate a strong corporate culture through our intranet ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720426/catalog/igloo/icon128x128.png",
+  "website": "https://igloosoftware.com"
+}

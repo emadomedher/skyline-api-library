@@ -1,0 +1,15 @@
+{
+  "id": "sendlane",
+  "title": "Sendlane",
+  "subtitle": "Sendlane is an email automation platform that allows you to connect and communicate with your subscribers and customers.",
+  "tags": [
+    "email-newsletters",
+    "drip-emails"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306024/catalog/sendlane/icon128x128.png",
+  "website": "https://www.sendlane.com/",
+  "docsUrl": "https://www.sendlane.com/#"
+}

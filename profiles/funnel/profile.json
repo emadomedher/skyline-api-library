@@ -1,0 +1,13 @@
+{
+  "id": "funnel",
+  "title": "Funnel",
+  "subtitle": "Funnel API integration",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434720/catalog/funnel/icon128x128.png",
+  "website": "https://funnel.io"
+}

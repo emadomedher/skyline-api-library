@@ -1,0 +1,14 @@
+{
+  "id": "behavehealth",
+  "title": "Behave Health",
+  "subtitle": "BehaveHealth is the modern, all-in-one EHR and billing software for \ntreatment centers. Manage patients, billing, cla...",
+  "tags": [
+    "treatment-center",
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627928950/icons/behavehealth.png",
+  "website": "https://behavehealth.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "medirect-be",
+  "title": "MeDirect",
+  "subtitle": "MeDirect, the Belgian bank specialised in mutual funds, offers you online investments at the best conditions and savi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621699310/icons/medirect-be.jpg",
+  "website": "https://www.medirect.be/home"
+}

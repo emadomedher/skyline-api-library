@@ -1,0 +1,14 @@
+{
+  "id": "elai-io",
+  "title": "Elai",
+  "subtitle": "Create personalized AI videos with diverse digital avatars from text. Use Elai to make videos in a matter of minutes ...",
+  "tags": [
+    "video-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670770699/icons/elai-io.jpg",
+  "website": "https://elai.io/",
+  "docsUrl": "https://elai.io/app-thinkific"
+}

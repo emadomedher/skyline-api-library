@@ -1,0 +1,13 @@
+{
+  "id": "sendpulse",
+  "title": "SendPulse",
+  "subtitle": "SendPulse is an Integrated messaging platform providing user communication on all devices with Emails, SMS, Web Push,...",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306037/catalog/sendpulse/icon128x128.png",
+  "website": "https://sendpulse.com/"
+}

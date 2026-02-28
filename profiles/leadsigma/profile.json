@@ -1,0 +1,13 @@
+{
+  "id": "leadsigma",
+  "title": "LeadSigma",
+  "subtitle": "Respond Faster. \nClose More Sales. LeadSigma ensures that every inbound lead gets a call immediately and helps your t...",
+  "tags": [
+    "pipeline-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613353341/icons/leadsigma.jpg",
+  "website": "https://www.leadsigma.com/"
+}

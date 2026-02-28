@@ -1,0 +1,14 @@
+{
+  "id": "apache-mesos",
+  "title": "Apache Mesos",
+  "subtitle": "Apache Mesos abstracts resources away from machines,\n                   enabling fault-tolerant and elastic distribut...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565027136/catalog/apache-mesos/icon128x128.png",
+  "website": "https://mesos.apache.org",
+  "docsUrl": "https://mesos.apache.org/documentation/latest"
+}

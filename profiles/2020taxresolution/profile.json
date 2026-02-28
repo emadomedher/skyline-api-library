@@ -1,0 +1,14 @@
+{
+  "id": "2020taxresolution",
+  "title": "20/20 Tax Resolution",
+  "subtitle": "20/20 Tax Resolution API integration",
+  "tags": [
+    "tax",
+    "non-software"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494244/catalog/2020taxresolution/icon128x128.png",
+  "website": "https://www.2020taxresolution.com/"
+}

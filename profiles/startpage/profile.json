@@ -1,0 +1,13 @@
+{
+  "id": "startpage",
+  "title": "Startpage",
+  "subtitle": "Search and browse the internet without being tracked or targeted. Startpage is the world's most private search engine...",
+  "tags": [
+    "search-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640842496/icons/startpage.png",
+  "website": "https://www.startpage.com/"
+}

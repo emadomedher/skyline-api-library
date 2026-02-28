@@ -1,0 +1,14 @@
+{
+  "id": "designcode-io",
+  "title": "Design+Code",
+  "subtitle": "Complete courses about the best tools and design systems. Prototype and build apps with React and Swift. 60 hours of ...",
+  "tags": [
+    "design",
+    "design-courses"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584560981/catalog/designcode-io/icon128x128.png",
+  "website": "https://designcode.io/"
+}

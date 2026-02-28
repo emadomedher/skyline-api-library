@@ -1,0 +1,14 @@
+{
+  "id": "clipchamp",
+  "title": "Clipchamp",
+  "subtitle": "Convert videos to MP4. Compress and edit videos. Record with your webcam and collect videos from others. Clipchamp’s ...",
+  "tags": [
+    "video-editor",
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592727620/icons/clipchamp.jpg",
+  "website": "https://clipchamp.com/"
+}

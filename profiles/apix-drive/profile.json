@@ -1,0 +1,14 @@
+{
+  "id": "apix-drive",
+  "title": "ApiX-Drive",
+  "subtitle": "✓ Integrate Online Services and Automate routine tasks without programmers and special knowledge! ✓ 400+ ready integr...",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421433/icons/apix-drive.jpg",
+  "website": "https://apix-drive.com/",
+  "docsUrl": "https://apix-drive.com/en/docs/terms"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "asendia-de",
+  "title": "Asendia",
+  "subtitle": "Asendia hilft Ihrem Unternehmen mit Lösungen für den grenzüberschreitenden E-Commerce und den internationalen Postver...",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573130949/catalog/asendia-de/icon128x128.png",
+  "website": "https://www.asendia.de/"
+}

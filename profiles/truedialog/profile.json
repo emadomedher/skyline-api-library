@@ -1,0 +1,14 @@
+{
+  "id": "truedialog",
+  "title": "TrueDialog",
+  "subtitle": "Business SMS Solutions. Enterprise-grade SMS Texting designed for businesses, universities and colleges. Mass SMS tex...",
+  "tags": [
+    "sms-marketing",
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575235219/catalog/truedialog/icon128x128.jpg",
+  "website": "https://www.truedialog.com/"
+}

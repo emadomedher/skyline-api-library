@@ -1,0 +1,13 @@
+{
+  "id": "master-hr",
+  "title": "Master International",
+  "subtitle": "We create equality and give more people and companies a chance to grow and perform",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583850843/catalog/master-hr/icon128x128.svg",
+  "website": "https://www.master-hr.com/"
+}

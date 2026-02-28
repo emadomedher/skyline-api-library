@@ -1,0 +1,15 @@
+{
+  "id": "sia-eu",
+  "title": "SIA S.p.A.",
+  "subtitle": "SIA S.p.A. API integration",
+  "tags": [
+    "open-banking",
+    "payments",
+    "financial-services"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596921106/icons/sia-eu.jpg",
+  "website": "https://www.sia.eu"
+}

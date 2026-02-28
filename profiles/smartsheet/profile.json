@@ -1,0 +1,14 @@
+{
+  "id": "smartsheet",
+  "title": "Smartsheet",
+  "subtitle": "The leading platform for enterprise achievement.",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456652/catalog/smartsheet/icon128x128.png",
+  "website": "https://www.smartsheet.com/",
+  "docsUrl": "https://developers.smartsheet.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "getcompass-ai",
+  "title": "Compass AI",
+  "subtitle": "Gamify your incentive programs, automate calculations, motivate your sales teams and turbo-charge your entire business.",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753746/icons/getcompass-ai.png",
+  "website": "https://www.getcompass.ai/",
+  "docsUrl": "https://xoxoday.gitbook.io/compass"
+}

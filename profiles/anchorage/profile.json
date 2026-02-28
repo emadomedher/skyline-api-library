@@ -1,0 +1,13 @@
+{
+  "id": "anchorage",
+  "title": "Anchorage",
+  "subtitle": "Anchorage is the first federally-chartered digital asset bank in history. It's the most advanced and secure crypto pl...",
+  "tags": [
+    "digital-asset-management"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625450259/icons/anchorage.png",
+  "website": "https://www.anchorage.com/"
+}

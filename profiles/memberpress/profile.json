@@ -1,0 +1,14 @@
+{
+  "id": "memberpress",
+  "title": "MemberPress",
+  "subtitle": "Easy to use WordPress Membership Plugin. Powerful Membership Software seamlessly integrates with WordPress, Stripe, P...",
+  "tags": [
+    "membership-management",
+    "wordpress"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572577076/catalog/memberpress/icon128x128.jpg",
+  "website": "https://memberpress.com/"
+}

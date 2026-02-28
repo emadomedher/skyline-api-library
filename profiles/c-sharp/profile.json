@@ -1,0 +1,13 @@
+{
+  "id": "c-sharp",
+  "title": "C#",
+  "subtitle": "C# (pronounced C Sharp) is a general-purpose, multi-paradigm programming language encompassing strong typing, lexical...",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608632158/icons/c-sharp.png",
+  "website": "https://docs.microsoft.com/en-us/dotnet/csharp/"
+}

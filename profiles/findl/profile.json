@@ -1,0 +1,14 @@
+{
+  "id": "findl",
+  "title": "findl",
+  "subtitle": "findl API integration",
+  "tags": [
+    "financial-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618440468/icons/findl.png",
+  "website": "https://findl.com/",
+  "docsUrl": "https://findl.com/docs"
+}

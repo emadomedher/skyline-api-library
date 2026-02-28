@@ -1,0 +1,13 @@
+{
+  "id": "finstro",
+  "title": "Finstro Business Finance and Funding",
+  "subtitle": "Smart finance with Finstro. Our Business Line of Credit combines supplier finance, invoice finance and cash. Apply on...",
+  "tags": [
+    "invoice-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093491/icons/finstro.jpg",
+  "website": "https://finstro.com/"
+}

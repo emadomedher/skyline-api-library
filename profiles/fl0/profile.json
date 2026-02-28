@@ -1,0 +1,15 @@
+{
+  "id": "fl0",
+  "title": "FL0",
+  "subtitle": "FL0 is a component driven platform that allows engineers rapidly build backends to power any digital application.",
+  "tags": [
+    "developer-tools",
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638169959/icons/fl0.jpg",
+  "website": "https://www.fl0.com/",
+  "docsUrl": "https://www.fl0.com/developers"
+}

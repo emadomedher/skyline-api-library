@@ -1,0 +1,13 @@
+{
+  "id": "maximizer",
+  "title": "Maximizer",
+  "subtitle": "Maximizer has fully integrated sales, marketing and customer service modules making it easy to gain deep customer ins...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305414/catalog/maximizer/icon128x128.png",
+  "website": "https://maximizer.com"
+}

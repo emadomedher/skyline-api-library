@@ -1,0 +1,13 @@
+{
+  "id": "slync-io",
+  "title": "Slync.io",
+  "subtitle": "Slync is revolutionizing multi-party supply chain interaction, automation, and collaboration.",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699467/catalog/slync-io/icon128x128.jpg",
+  "website": "https://www.slync.io/"
+}

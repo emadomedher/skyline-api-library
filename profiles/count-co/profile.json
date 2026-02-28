@@ -1,0 +1,14 @@
+{
+  "id": "count-co",
+  "title": "Count",
+  "subtitle": "The fastest way to combine, organise and visualise your data. Count is the all-in-one data platform for you and your ...",
+  "tags": [
+    "data-management",
+    "data-analytics"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604326904/icons/count-co.jpg",
+  "website": "https://count.co/"
+}

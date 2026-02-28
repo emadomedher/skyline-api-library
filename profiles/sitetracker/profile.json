@@ -1,0 +1,13 @@
+{
+  "id": "sitetracker",
+  "title": "SiteTracker",
+  "subtitle": "The only full lifecycle platform designed by project managers; delivering real-time collaboration, powerful automated...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962315/catalog/sitetracker/icon128x128.png",
+  "website": "https://sitetracker.com"
+}

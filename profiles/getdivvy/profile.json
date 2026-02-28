@@ -1,0 +1,13 @@
+{
+  "id": "getdivvy",
+  "title": "Divvy",
+  "subtitle": "Simplify your business' expense reports with Divvy. Submit expense reports, budget, reimburse employees, and manage v...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620383395/icons/getdivvy.png",
+  "website": "https://getdivvy.com/"
+}

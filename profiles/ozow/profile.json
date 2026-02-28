@@ -1,0 +1,13 @@
+{
+  "id": "ozow",
+  "title": "Ozow",
+  "subtitle": "Ozow is an instant smart EFT payment service that allows your customer to make secure online payments directly into y...",
+  "tags": [
+    "eft-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596693038/icons/ozow.png",
+  "website": "https://ozow.com/"
+}

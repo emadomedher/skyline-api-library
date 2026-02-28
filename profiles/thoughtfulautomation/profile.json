@@ -1,0 +1,13 @@
+{
+  "id": "thoughtfulautomation",
+  "title": "Thoughtful Automation",
+  "subtitle": "Thoughtful Automation designs, develops and deploys robotic workers on our cloud-based automation platform. We enable...",
+  "tags": [
+    "rpa"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624561615/icons/thoughtfulautomation.jpg",
+  "website": "https://www.thoughtfulautomation.com/"
+}

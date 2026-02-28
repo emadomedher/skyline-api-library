@@ -1,0 +1,13 @@
+{
+  "id": "fispan",
+  "title": "FISPAN",
+  "subtitle": "FISPAN contextual banking platform enables banks to provide a best-in-class commercial banking experience by removing...",
+  "tags": [
+    "embedded-commercial-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652051878/icons/fispan.jpg",
+  "website": "https://fispan.com/"
+}

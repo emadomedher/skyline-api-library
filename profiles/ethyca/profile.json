@@ -1,0 +1,15 @@
+{
+  "id": "ethyca",
+  "title": "Ethyca",
+  "subtitle": "Automated data privacy infrastructure for data-driven businesses. Ethyca is a suite of privacy infrastructure and too...",
+  "tags": [
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565655920/catalog/ethyca/icon128x128.png",
+  "website": "https://ethyca.com",
+  "docsUrl": "https://ethyca.com/#"
+}

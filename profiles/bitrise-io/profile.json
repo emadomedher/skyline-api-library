@@ -1,0 +1,14 @@
+{
+  "id": "bitrise-io",
+  "title": "Bitrise",
+  "subtitle": "Continuous integration and delivery built for mobile: Automate iOS and Android builds, testing and deployment from yo...",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579380460/catalog/bitrise-io/icon128x128.jpg",
+  "website": "https://www.bitrise.io/",
+  "docsUrl": "https://devcenter.bitrise.io"
+}

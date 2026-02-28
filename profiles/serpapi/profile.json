@@ -1,0 +1,17 @@
+{
+  "id": "serpapi",
+  "title": "SerpApi",
+  "subtitle": "SerpApi is a real-time API to access Google search results. We handle the issues of having to rent proxies, solving c...",
+  "tags": [
+    "google-search-api",
+    "serp-data",
+    "data-api",
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594740995/icons/serpapi.jpg",
+  "website": "https://serpapi.com/",
+  "docsUrl": "https://serpapi.com/users/sign_up"
+}

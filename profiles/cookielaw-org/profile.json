@@ -1,0 +1,13 @@
+{
+  "id": "cookielaw-org",
+  "title": "Optanon",
+  "subtitle": "Cookie audit services and privacy compliance solutions for website owners from the Cookie Collective - leading EU coo...",
+  "tags": [
+    "cookie-consent"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564099506/catalog/cookielaw-org/icon128x128.jpg",
+  "website": "https://cookielaw.org"
+}

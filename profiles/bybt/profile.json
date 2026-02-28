@@ -1,0 +1,13 @@
+{
+  "id": "bybt",
+  "title": "Bybt",
+  "subtitle": "Bybt is a cryptocurrency futures trading & information platform,where you can find the Bitcoin Liquidations ,Bitcoin ...",
+  "tags": [
+    "crypto-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621491632/icons/bybt.jpg",
+  "website": "https://www.bybt.com/"
+}

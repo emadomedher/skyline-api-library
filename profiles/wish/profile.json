@@ -1,0 +1,14 @@
+{
+  "id": "wish",
+  "title": "Wish",
+  "subtitle": "Wish API integration",
+  "tags": [
+    "marketplaces",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573151067/catalog/wish/icon128x128.jpg",
+  "website": "https://www.wish.com/"
+}

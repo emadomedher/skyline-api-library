@@ -1,0 +1,13 @@
+{
+  "id": "whimsical",
+  "title": "Whimsical",
+  "subtitle": "Communicate visually at the speed of thought – collaborative flowcharts, wireframes, sticky notes, and mind maps.",
+  "tags": [
+    "diagramming"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584648250/catalog/whimsical/icon128x128.jpg",
+  "website": "https://whimsical.com/"
+}

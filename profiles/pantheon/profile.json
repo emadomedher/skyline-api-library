@@ -1,0 +1,13 @@
+{
+  "id": "pantheon",
+  "title": "Pantheon",
+  "subtitle": "Pantheon is the high-performance hosting platform where marketers and developers build, host, and manage their most i...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827145/catalog/pantheon/icon128x128.png",
+  "website": "https://pantheon.io"
+}

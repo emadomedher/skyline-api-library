@@ -1,0 +1,14 @@
+{
+  "id": "opencomp",
+  "title": "OpenComp ",
+  "subtitle": "Built by comp experts, OpenComp combines trusted market data, powerful software, and professional consultation in one...",
+  "tags": [
+    "compensation-platforms",
+    "compensation-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615512017/icons/opencomp.png",
+  "website": "https://www.opencomp.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "comarch",
+  "title": "Comarch",
+  "subtitle": "Comarch is a global powerhouse specialized in the design, implementation\nand integration of advanced IT services and ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719527/catalog/comarch/icon128x128.jpg",
+  "website": "https://comarch.com"
+}

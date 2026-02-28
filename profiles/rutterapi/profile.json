@@ -1,0 +1,15 @@
+{
+  "id": "rutterapi",
+  "title": "Rutter ",
+  "subtitle": "Rutter  API integration",
+  "tags": [
+    "ecommerce-apis",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618793601/icons/rutterapi.png",
+  "website": "https://rutterapi.com/",
+  "docsUrl": "https://docs.rutterapi.com"
+}

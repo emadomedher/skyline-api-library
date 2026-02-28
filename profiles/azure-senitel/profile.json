@@ -1,0 +1,13 @@
+{
+  "id": "azure-senitel",
+  "title": "Microsoft Azure Sentinel",
+  "subtitle": "Microsoft Azure Sentinel is a cloud-native SIEM with advanced AI and security analytics to help you detect, hunt, pre...",
+  "tags": [
+    "security-information-and-event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207276/icons/azure-senitel.png",
+  "website": "https://azure.microsoft.com/en-us/services/azure-sentinel/"
+}

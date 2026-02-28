@@ -1,0 +1,13 @@
+{
+  "id": "shopify-ping",
+  "title": "Shopify Ping",
+  "subtitle": "Shopify Ping is a free messaging app that lets you manage all customer & team conversations from one place. Available...",
+  "tags": [
+    "unified-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612119282/icons/shopify-ping.jpg",
+  "website": "https://www.shopify.com/ping"
+}

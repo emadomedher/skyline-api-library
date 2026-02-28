@@ -1,0 +1,13 @@
+{
+  "id": "bankin",
+  "title": "Bankin'",
+  "subtitle": "Bankin' est la meilleure application pour gérer votre argent. Créée en 2011 et agréé par la Banque de France, Bankin'...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796505/catalog/bankin/icon128x128.png",
+  "website": "https://bankin.com/"
+}

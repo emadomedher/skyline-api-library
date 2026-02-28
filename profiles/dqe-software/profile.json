@@ -1,0 +1,13 @@
+{
+  "id": "dqe-software",
+  "title": "DQE Software",
+  "subtitle": "Collecte en temps réel de données de qualité sur formulaires web et CRM, RNVP, Validation email, dédup de bdd, dédoub...",
+  "tags": [
+    "data-quality"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597145932/icons/dqe-software.jpg",
+  "website": "https://www.dqe-software.com/"
+}

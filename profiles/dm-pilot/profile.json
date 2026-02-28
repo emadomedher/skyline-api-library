@@ -1,0 +1,13 @@
+{
+  "id": "dm-pilot",
+  "title": "DM Pilot",
+  "subtitle": "Using DM Pilot, you can send automated DMs on Twitter to your new followers, people who like or retweet your tweets a...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964039/catalog/dm-pilot/icon128x128.png",
+  "website": "https://dmpilot.com"
+}

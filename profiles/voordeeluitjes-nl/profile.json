@@ -1,0 +1,14 @@
+{
+  "id": "voordeeluitjes-nl",
+  "title": "Voordeeluitjes.nl",
+  "subtitle": "Voordeeluitjes.nl API integration",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641108/icons/voordeeluitjes-nl.png",
+  "website": "https://www.voordeeluitjes.nl/"
+}

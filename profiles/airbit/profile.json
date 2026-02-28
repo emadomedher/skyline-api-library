@@ -1,0 +1,14 @@
+{
+  "id": "airbit",
+  "title": "Airbit",
+  "subtitle": "Airbit is a Music Production Marketplace. More beats than any other marketplace, you're guaranteed to find the right ...",
+  "tags": [
+    "e-commerce",
+    "music"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555071052/catalog/airbit/icon128x128.png",
+  "website": "https://airbit.com/"
+}

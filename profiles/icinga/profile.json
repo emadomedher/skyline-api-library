@@ -1,0 +1,15 @@
+{
+  "id": "icinga",
+  "title": "Icinga",
+  "subtitle": "Icinga Monitors Availability and Performance, Gives you Simple Access to Relevant Data and Raises Alerts to Keep you ...",
+  "tags": [
+    "monitoring",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565253670/catalog/icinga/icon128x128.jpg",
+  "website": "https://icinga.com",
+  "docsUrl": "https://icinga.com/docs"
+}

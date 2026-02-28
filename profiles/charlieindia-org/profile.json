@@ -1,0 +1,13 @@
+{
+  "id": "charlieindia-org",
+  "title": "Charlie India",
+  "subtitle": "Partner HUB Ltd has been providing online invoicing services and invoicing technologies since its foundation in 2015....",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586894477/catalog/charlieindia-org/icon128x128.png",
+  "website": "https://charlieindia.org/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mavsocial",
+  "title": "MavSocial ",
+  "subtitle": "MavSocial is your affordable and easy-to-use social media management tool. Schedule, monitor and report from this all...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946835/catalog/mavsocial/icon128x128.jpg",
+  "website": "https://mavsocial.com"
+}

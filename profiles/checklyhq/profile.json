@@ -1,0 +1,15 @@
+{
+  "id": "checklyhq",
+  "title": "Checkly",
+  "subtitle": "Monitor the performance and correctness of your API endpoints & vital site transactions from a single, simple dashboard",
+  "tags": [
+    "api-monitoring",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566602451/catalog/checklyhq/icon128x128.jpg",
+  "website": "https://checklyhq.com/",
+  "docsUrl": "https://checklyhq.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "paypal",
+  "title": "PayPal",
+  "subtitle": "PayPal is a fast, safe way to send money, make an online payment, receive money or set up a merchant account. With ov...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456398/catalog/paypal/icon128x128.png",
+  "website": "https://www.paypal.com/"
+}

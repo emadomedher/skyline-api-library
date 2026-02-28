@@ -1,0 +1,12 @@
+{
+  "id": "office-365-video",
+  "title": "Office 365 Video",
+  "subtitle": "Video for Office 365 offers a highly scalable, easy-to-use portal for uploading and sharing your corporate videos",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264820/catalog/office-365-video/icon128x128.png"
+}

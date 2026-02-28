@@ -1,0 +1,14 @@
+{
+  "id": "coconutsoftware",
+  "title": "Coconut Software",
+  "subtitle": "Coconut Software provides appointment scheduling & queue management software solutions to create holistic customer ex...",
+  "tags": [
+    "appointment-scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601899956/icons/coconutsoftware.jpg",
+  "website": "https://www.coconutsoftware.com/",
+  "docsUrl": "https://developers.coconutsoftware.com/docs/v2/api/introduction"
+}

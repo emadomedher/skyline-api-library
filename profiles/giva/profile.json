@@ -1,0 +1,13 @@
+{
+  "id": "giva",
+  "title": "Giva",
+  "subtitle": "Founded in 1999, Giva was among the first to provide a suite of help desk and customer service/call center applicatio...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946968/catalog/giva/icon128x128.jpg",
+  "website": "https://givainc.com"
+}

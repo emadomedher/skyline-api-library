@@ -1,0 +1,15 @@
+{
+  "id": "branchapp",
+  "title": "Branch",
+  "subtitle": "Branch help businesses modernize their payment methods to empower working Americans. Digital tips and reimbursements,...",
+  "tags": [
+    "challenger-banks",
+    "employer-payments-platform",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612119296/icons/branchapp.png",
+  "website": "https://www.branchapp.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shadow-tech",
+  "title": "Blade Shadow",
+  "subtitle": "Transforme tous tes écrans en PC gamer grâce au cloud gaming. Sélectionne ton setup gaming pour streamer tes jeux vidéo",
+  "tags": [
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572439919/catalog/shadow-tech/icon128x128.png",
+  "website": "https://shadow.tech/",
+  "docsUrl": "https://developers.shadow.tech"
+}

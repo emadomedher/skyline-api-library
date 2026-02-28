@@ -1,0 +1,13 @@
+{
+  "id": "acquire-app",
+  "title": "acquire",
+  "subtitle": "Build optimized checkout pages, faster — without code Shoppers can now discover, engage, and purchase directly from s...",
+  "tags": [
+    "checkout"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648078646/icons/acquire-app.jpg",
+  "website": "https://www.acquire.app/"
+}

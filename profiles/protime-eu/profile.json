@@ -1,0 +1,13 @@
+{
+  "id": "protime-eu",
+  "title": "Protime",
+  "subtitle": "Protime provides efficient solutions to optimize the time of your human capital.",
+  "tags": [
+    "time-registration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912826/icons/protime-eu.png",
+  "website": "https://www.protime.eu/"
+}

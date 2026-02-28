@@ -1,0 +1,13 @@
+{
+  "id": "mindmatch-ai",
+  "title": "MindMatch",
+  "subtitle": "MindMatch is an AI-based sourcing tool which increases the productivity of recruiters by 10x and helps them quickly t...",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564014681/catalog/mindmatch-ai/icon128x128.png",
+  "website": "https://mindmatch.ai"
+}

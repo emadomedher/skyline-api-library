@@ -1,0 +1,15 @@
+{
+  "id": "graphcore-ai",
+  "title": "Graphcore",
+  "subtitle": "Graphcore has built a new type of processor for machine intelligence to accelerate machine learning and AI applicatio...",
+  "tags": [
+    "ai-chipmakers",
+    "hardware"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609291880/icons/graphcore-ai.jpg",
+  "website": "https://www.graphcore.ai/",
+  "docsUrl": "https://www.graphcore.ai/developer"
+}

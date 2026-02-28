@@ -1,0 +1,13 @@
+{
+  "id": "fastpages-io",
+  "title": "FastPages",
+  "subtitle": "The Fast Page Builder that Converts at Lightning Speed",
+  "tags": [
+    "landing-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565277365/catalog/fastpages-io/icon128x128.png",
+  "website": "https://fastpages.io"
+}

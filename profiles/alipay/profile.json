@@ -1,0 +1,14 @@
+{
+  "id": "alipay",
+  "title": "Alipay",
+  "subtitle": "Alipay API integration",
+  "tags": [
+    "mobile-payments",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591042212/catalog/alipay/icon128x128.jpg",
+  "website": "https://www.alipay.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "workjam",
+  "title": "WorkJam",
+  "subtitle": "Proven ROI of more than 400% — Task management, learning management, communications, and staffing belong together.",
+  "tags": [
+    "retail-task-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630057993/icons/workjam.jpg",
+  "website": "https://www.workjam.com/"
+}

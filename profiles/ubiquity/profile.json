@@ -1,0 +1,13 @@
+{
+  "id": "ubiquity",
+  "title": "Ubiquity",
+  "subtitle": "We are Qrious. We unleash intelligence that enables organisations to thrive.",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946436/catalog/ubiquity/icon128x128.jpg",
+  "website": "https://ubiquity.co.nz"
+}

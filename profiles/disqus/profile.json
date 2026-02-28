@@ -1,0 +1,13 @@
+{
+  "id": "disqus",
+  "title": "Disqus",
+  "subtitle": "If you’re passionate about writing and sharing, Disqus helps you build a community of active readers and commenters. ...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304790/catalog/disqus/icon128x128.png",
+  "website": "https://disqus.com/"
+}

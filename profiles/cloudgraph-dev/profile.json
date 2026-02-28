@@ -1,0 +1,14 @@
+{
+  "id": "cloudgraph-dev",
+  "title": "CloudGraph",
+  "subtitle": "CloudGraph API integration",
+  "tags": [
+    "cloud-infrastructure-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657605921/icons/cloudgraph-dev.png",
+  "website": "https://www.cloudgraph.dev/",
+  "docsUrl": "http://docs.cloudgraph.dev"
+}

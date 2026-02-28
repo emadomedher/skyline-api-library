@@ -1,0 +1,14 @@
+{
+  "id": "trymaverick",
+  "title": "Maverick",
+  "subtitle": "Maverick helps online retailers, e-commerce businesses, and DTC brands send personalized videos to their customers at...",
+  "tags": [
+    "video-personalization",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648078526/icons/trymaverick.png",
+  "website": "https://www.trymaverick.com/"
+}

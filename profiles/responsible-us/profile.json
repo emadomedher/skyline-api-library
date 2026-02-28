@@ -1,0 +1,15 @@
+{
+  "id": "responsible-us",
+  "title": "RESPONSIBLE",
+  "subtitle": "RESPONSIBLE is the premium destination for authentic refurbished streetwear. We stock brands including Stone Island, ...",
+  "tags": [
+    "circular-fashion",
+    "non-software",
+    "recommerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642313090/icons/responsible-us.jpg",
+  "website": "https://www.responsible.us/"
+}

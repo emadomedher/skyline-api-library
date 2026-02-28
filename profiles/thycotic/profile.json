@@ -1,0 +1,13 @@
+{
+  "id": "thycotic",
+  "title": "Thycotic",
+  "subtitle": "The most full-featured privileged access management (PAM) solution available is easy to use, well adopted and afforda...",
+  "tags": [
+    "privileged-access-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578989961/catalog/thycotic/icon128x128.jpg",
+  "website": "https://thycotic.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "parabolaio",
+  "title": "Parabola.io",
+  "subtitle": "Parabola is a drag-and-drop productivity tool that makes it easy to automate your manual, repetitive data tasks. Sign...",
+  "tags": [
+    "dashboards-and-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721424/catalog/parabolaio/icon128x128.jpg",
+  "website": "https://parabola.io"
+}

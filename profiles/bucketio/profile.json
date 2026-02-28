@@ -1,0 +1,12 @@
+{
+  "id": "bucketio",
+  "title": "Bucket.io",
+  "subtitle": "Bucket.io is a revolutionary segmentation technology about to transform the way marketers communicate online.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304548/catalog/bucketio/icon128x128.png"
+}

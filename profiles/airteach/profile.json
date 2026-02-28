@@ -1,0 +1,12 @@
+{
+  "id": "airteach",
+  "title": "Airteach",
+  "subtitle": "Airteach allows you to create, host and sell online courses without any technical knowledge, on your own training aca...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284435/catalog/airteach/icon128x128.png"
+}

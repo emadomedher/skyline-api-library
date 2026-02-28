@@ -1,0 +1,12 @@
+{
+  "id": "less-accounting",
+  "title": "LessAccounting",
+  "subtitle": "All business accounting software sucks. LessAccounting just sucks the least. Small business bookkeeping made super easy.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056010/catalog/less-accounting/icon128x128.png"
+}

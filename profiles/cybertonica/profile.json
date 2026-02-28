@@ -1,0 +1,15 @@
+{
+  "id": "cybertonica",
+  "title": "Cybertonica",
+  "subtitle": "Machine Learning and Artificial Intelligence platform to grow trust and increase profits in the global digital commer...",
+  "tags": [
+    "ecommerce",
+    "fraud-prevention",
+    "compliance"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611247049/icons/cybertonica.png",
+  "website": "https://cybertonica.com/"
+}

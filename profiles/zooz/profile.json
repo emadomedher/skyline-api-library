@@ -1,0 +1,16 @@
+{
+  "id": "zooz",
+  "title": "ZOOZ",
+  "subtitle": "Manage and optimize multiple payment providers through a single platform.",
+  "tags": [
+    "payment-gateway-api",
+    "payment-routing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599235546/icons/zooz.jpg",
+  "website": "https://www.zooz.com/",
+  "docsUrl": "https://developers.paymentsos.com/docs/quick-start.html"
+}

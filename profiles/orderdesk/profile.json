@@ -1,0 +1,14 @@
+{
+  "id": "orderdesk",
+  "title": "Order Desk",
+  "subtitle": "Order Desk API integration",
+  "tags": [
+    "rule-engines",
+    "order-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592355233/icons/orderdesk.jpg",
+  "website": "https://www.orderdesk.com/"
+}

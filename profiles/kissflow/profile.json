@@ -1,0 +1,15 @@
+{
+  "id": "kissflow",
+  "title": "KiSSFLOW",
+  "subtitle": "Kissflow’s Digital Workplace is designed for minimal disruption of work. Built for the modern workplace, it ensures c...",
+  "tags": [
+    "low-code",
+    "bpm"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305248/catalog/kissflow/icon128x128.png",
+  "website": "https://kissflow.com/",
+  "docsUrl": "https://docs.kissflow.com"
+}

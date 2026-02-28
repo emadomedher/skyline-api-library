@@ -1,0 +1,13 @@
+{
+  "id": "scalenut",
+  "title": "Scalenut",
+  "subtitle": "Scalenut is a content intelligence SaaS platform that helps you discover and create the most relevant content for you...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632075914/icons/scalenut.jpg",
+  "website": "https://www.scalenut.com/"
+}

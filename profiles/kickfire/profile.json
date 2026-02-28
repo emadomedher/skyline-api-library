@@ -1,0 +1,13 @@
+{
+  "id": "kickfire",
+  "title": "KickFire",
+  "subtitle": "KickFire is the industry leader in IP Address intelligence, providing B2B firmographics based on IP address through i...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946888/catalog/kickfire/icon128x128.jpg",
+  "website": "https://kickfire.com"
+}

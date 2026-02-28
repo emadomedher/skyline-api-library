@@ -1,0 +1,14 @@
+{
+  "id": "oculus",
+  "title": "Oculus",
+  "subtitle": "Defy reality with Oculus. Our VR headsets redefine digital gaming & entertainment. Learn more about Quest 2, our most...",
+  "tags": [
+    "vr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605455852/icons/oculus.jpg",
+  "website": "http://oculus.com/",
+  "docsUrl": "https://developer.oculus.com"
+}

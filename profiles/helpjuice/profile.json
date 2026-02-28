@@ -1,0 +1,14 @@
+{
+  "id": "helpjuice",
+  "title": "HelpJuice",
+  "subtitle": "World's Most Powerful Knowledge Base Software.",
+  "tags": [
+    "knowledge-bases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571852648/catalog/helpjuice/icon128x128.png",
+  "website": "https://helpjuice.com",
+  "docsUrl": "https://helpjuice.com/case-studies/collage"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "apspayroll",
+  "title": "APS Payroll",
+  "subtitle": "APS designs an all-in-one workforce management platform to make payroll and HR tasks easier for businesses of all sizes.",
+  "tags": [
+    "payroll-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622762264/icons/apspayroll.png",
+  "website": "https://apspayroll.com/"
+}

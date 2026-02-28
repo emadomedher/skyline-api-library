@@ -1,0 +1,14 @@
+{
+  "id": "google-play-console",
+  "title": "Google Play Console",
+  "subtitle": "Google Play console landing page",
+  "tags": [
+    "app-store-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600430630/icons/google-play-console.jpg",
+  "website": "https://play.google.com/console",
+  "docsUrl": "https://support.google.com/googleplay/android-developer"
+}

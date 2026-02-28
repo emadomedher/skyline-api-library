@@ -1,0 +1,13 @@
+{
+  "id": "simplified-co",
+  "title": "Simplified",
+  "subtitle": "Simplified is the time saving, all in one app that your modern marketing team can use for collaboration. Millions of ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619083/icons/simplified-co.jpg",
+  "website": "https://simplified.co/"
+}

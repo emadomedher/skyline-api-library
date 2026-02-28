@@ -1,0 +1,14 @@
+{
+  "id": "status-io",
+  "title": "Status.io",
+  "subtitle": "Status.io makes it simple to create a beautiful status page for your app, web service or developer API.",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561984293/catalog/status-io/icon128x128.jpg",
+  "website": "https://status.io/",
+  "docsUrl": "https://developers.status.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "adglare",
+  "title": "AdGlare",
+  "subtitle": "AdGlare: Ad Server Software for publishers and advertisers (year 2020). Create, Manage and Serve Ads anywhere in the ...",
+  "tags": [
+    "ad-servers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595706331/icons/adglare.jpg",
+  "website": "https://www.adglare.com/",
+  "docsUrl": "https://www.adglare.com/docs/ad-server-api"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "withreach",
+  "title": "Reach",
+  "subtitle": "The most powerful cross-border payments platform on the market. Deploy with a few lines of code and eliminate the bor...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568732/icons/withreach.jpg",
+  "website": "https://www.withreach.com/",
+  "docsUrl": "https://docs.withreach.com"
+}

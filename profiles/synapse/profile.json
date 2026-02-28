@@ -1,0 +1,13 @@
+{
+  "id": "synapse",
+  "title": "Synapse",
+  "subtitle": "We enable companies to build and launch best-in-class financial products on top of our banking infrastructure.",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559988406/catalog/synapse/icon128x128.png",
+  "website": "https://synapsefi.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "farmersedge-ca",
+  "title": "Farmers Edge",
+  "subtitle": "Manage risks and maximize farm profitability with Farmers Edge digital farming solutions. Grow more precisely with ou...",
+  "tags": [
+    "agriculture",
+    "farm-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582966232/catalog/farmersedge-ca/icon128x128.jpg",
+  "website": "https://www.farmersedge.ca/"
+}

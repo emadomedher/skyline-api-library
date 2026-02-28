@@ -1,0 +1,13 @@
+{
+  "id": "cloudvirga",
+  "title": "Cloudvirga",
+  "subtitle": "Intelligent digital mortgage platform that engage customers and empower originators. Close loans faster, reduce origi...",
+  "tags": [
+    "mortgages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571960543/catalog/cloudvirga/icon128x128.jpg",
+  "website": "https://www.cloudvirga.com/"
+}

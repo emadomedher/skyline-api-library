@@ -1,0 +1,14 @@
+{
+  "id": "symbl-ai",
+  "title": "Symbl.ai",
+  "subtitle": "Symbl.ai API integration",
+  "tags": [
+    "conversation-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627772746/icons/symbl-ai.png",
+  "website": "https://symbl.ai/",
+  "docsUrl": "https://docs.symbl.ai/docs"
+}

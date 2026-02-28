@@ -1,0 +1,13 @@
+{
+  "id": "getgobot",
+  "title": "Gobot",
+  "subtitle": "Gobot is a conversational marketing platform that helps companies close more deals by messaging with prospects in rea...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573495680/catalog/getgobot/icon128x128.jpg",
+  "website": "https://www.getgobot.com/"
+}

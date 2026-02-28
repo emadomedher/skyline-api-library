@@ -1,0 +1,14 @@
+{
+  "id": "gov-uk",
+  "title": "GOV.UK",
+  "subtitle": "GOV.UK - The place to find government services and information - Simpler, clearer, faster",
+  "tags": [
+    "government",
+    "non-software"
+  ],
+  "category": "Government",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591169581/icons/gov-uk.jpg",
+  "website": "https://www.gov.uk/"
+}

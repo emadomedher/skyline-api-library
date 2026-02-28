@@ -1,0 +1,13 @@
+{
+  "id": "onemodel-co",
+  "title": "OneModel",
+  "subtitle": "One Model’s People Analytics Platform transforms your HR data into dashboards, reports, predictive models, and automa...",
+  "tags": [
+    "hr-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647901559/icons/onemodel-co.jpg",
+  "website": "https://www.onemodel.co/"
+}

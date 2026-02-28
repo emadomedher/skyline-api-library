@@ -1,0 +1,12 @@
+{
+  "id": "deadline-funnel",
+  "title": "Deadline Funnel",
+  "subtitle": "Gives your prospects a unique, authentic deadline so they have a reason to buy now",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304739/catalog/deadline-funnel/icon128x128.png"
+}

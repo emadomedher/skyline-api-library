@@ -1,0 +1,15 @@
+{
+  "id": "deskera",
+  "title": "Deskera",
+  "subtitle": "Small Business Software with Accounting, Inventory, Payroll & CRM to Run Your Business ",
+  "tags": [
+    "smb",
+    "accounting",
+    "crm"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612980296/icons/deskera.jpg",
+  "website": "https://www.deskera.com/"
+}

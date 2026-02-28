@@ -1,0 +1,13 @@
+{
+  "id": "pinnacle-cart",
+  "title": "Pinnacle Cart",
+  "subtitle": "Pinnacle Cart API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436459/catalog/pinnacle-cart/icon128x128.png",
+  "website": "https://pinnaclecart.com"
+}

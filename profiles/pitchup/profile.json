@@ -1,0 +1,14 @@
+{
+  "id": "pitchup",
+  "title": "Pitchup.com",
+  "subtitle": "Book campsites, glamping sites, caravan sites and holiday parks in the UK, Europe and the Americas. 392,452 reviews, ...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641123/icons/pitchup.jpg",
+  "website": "https://www.pitchup.com/"
+}

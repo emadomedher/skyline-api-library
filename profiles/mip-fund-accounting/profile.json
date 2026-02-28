@@ -1,0 +1,15 @@
+{
+  "id": "mip-fund-accounting",
+  "title": "MIP Fund Accounting",
+  "subtitle": "MIP is the leading accounting software solution for nonprofits. Easily track, manage, and meet complex funding and re...",
+  "tags": [
+    "accounting",
+    "fundraising"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623102898/icons/mip-fund-accounting.jpg",
+  "website": "https://www.mip.com/",
+  "docsUrl": "http://documentation.abila.com/MAD_API/Content/API_Docs/IntroToAPI.html"
+}

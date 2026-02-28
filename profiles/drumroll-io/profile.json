@@ -1,0 +1,13 @@
+{
+  "id": "drumroll-io",
+  "title": "drumroll.io",
+  "subtitle": "Announce new features, product updates and more with a plug and play in-app notification center and a public announce...",
+  "tags": [
+    "changelogs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559836873/catalog/drumroll-io/icon128x128.png",
+  "website": "https://drumroll.io"
+}

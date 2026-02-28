@@ -1,0 +1,14 @@
+{
+  "id": "wayflyer",
+  "title": "Wayflyer",
+  "subtitle": "Wayflyer offers growth financing to eCommerce companies like yours. Sign up, connect your store and analytics, and re...",
+  "tags": [
+    "revenue-based-financing",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622146242/icons/wayflyer.jpg",
+  "website": "https://www.wayflyer.com/"
+}

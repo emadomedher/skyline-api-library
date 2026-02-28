@@ -1,0 +1,13 @@
+{
+  "id": "salescamp-app",
+  "title": "Salescamp CRM",
+  "subtitle": "Salescamp offers cloud base sales CRM software solution to manage sales reporting, management, marketing, improve cus...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760576/icons/salescamp-app.png",
+  "website": "https://www.salescamp.app/"
+}

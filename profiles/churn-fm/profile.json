@@ -1,0 +1,15 @@
+{
+  "id": "churn-fm",
+  "title": "CHURNFM",
+  "subtitle": "The podcast for subscription economy pros to learn how the world's fastest growing companies are tackling churn and u...",
+  "tags": [
+    "churn",
+    "subscriptions",
+    "knowledge"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567415509/catalog/churn-fm/icon128x128.jpg",
+  "website": "https://www.churn.fm/"
+}

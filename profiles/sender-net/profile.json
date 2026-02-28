@@ -1,0 +1,14 @@
+{
+  "id": "sender-net",
+  "title": "Sender",
+  "subtitle": "World's most affordable and EASY to use email marketing platform. Save your time and try Sender FREE today! World wid...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612654711/icons/sender-net.jpg",
+  "website": "https://www.sender.net/",
+  "docsUrl": "https://help.sender.net/knowledgebase/the-documentation-of-our-woocommerce-plugin"
+}

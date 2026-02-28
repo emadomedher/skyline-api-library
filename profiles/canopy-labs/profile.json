@@ -1,0 +1,13 @@
+{
+  "id": "canopy-labs",
+  "title": "Canopy Labs",
+  "subtitle": "Canopy Labs is a software platform to track and optimize your customer journey, helping you understand, engage, and a...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947217/catalog/canopy-labs/icon128x128.png",
+  "website": "https://canopylabs.com"
+}

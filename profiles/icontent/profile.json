@@ -1,0 +1,13 @@
+{
+  "id": "icontent",
+  "title": "iContent",
+  "subtitle": "Post your content, quiz, poll, article,news,press release for free. Embed and make it viral in minutes.",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720410/catalog/icontent/icon128x128.png",
+  "website": "https://icontent.com"
+}

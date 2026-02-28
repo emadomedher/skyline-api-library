@@ -1,0 +1,13 @@
+{
+  "id": "testersuite-nl",
+  "title": "Testersuite",
+  "subtitle": "Software testing tools om uw testtraject te managen. Gebruiksvriendelijk bevindingenbeheer, bevindingenregistratie, t...",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631644536/icons/testersuite-nl.jpg",
+  "website": "https://testersuite.nl/"
+}

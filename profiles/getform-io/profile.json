@@ -1,0 +1,14 @@
+{
+  "id": "getform-io",
+  "title": "Getform",
+  "subtitle": "Collect submissions, receive emails and connect your HTML form with popular apps. Perfect for JAMStack and API-driven...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621339540/icons/getform-io.png",
+  "website": "https://getform.io/",
+  "docsUrl": "https://docs.getform.io"
+}

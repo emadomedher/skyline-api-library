@@ -1,0 +1,15 @@
+{
+  "id": "algorand",
+  "title": "Algorand",
+  "subtitle": "Algorand Developer Docs, SDKs, REST APIs, CLI tools, ecosystem projects, metrics dashboard and sample code, how-tos, ...",
+  "tags": [
+    "blockchain-protocols",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639859437/icons/algorand.jpg",
+  "website": "https://developer.algorand.org/",
+  "docsUrl": "https://developer.algorand.org"
+}

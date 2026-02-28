@@ -1,0 +1,13 @@
+{
+  "id": "primer",
+  "title": "Primer",
+  "subtitle": "Primer lets you preview paint, tile, and wallpaper in your room instantly with augmented reality. We help decor brand...",
+  "tags": [
+    "home-design"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623519084/icons/primer.jpg",
+  "website": "https://www.primer.com/"
+}

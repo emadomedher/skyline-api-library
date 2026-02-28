@@ -1,0 +1,15 @@
+{
+  "id": "mlscrape",
+  "title": "MLScrape",
+  "subtitle": "MLScrape is an API that allows you to scrape data from any online shop without having to maintain your own web scrape...",
+  "tags": [
+    "ecommerce",
+    "web-scraping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605373416/icons/mlscrape.png",
+  "website": "https://mlscrape.com/",
+  "docsUrl": "https://rapidapi.com/admin-hZKAUjDew/api/mlscrape-beta/details"
+}

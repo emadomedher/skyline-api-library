@@ -1,0 +1,15 @@
+{
+  "id": "perfectgym",
+  "title": "Perfect Gym Solutions S.A.",
+  "subtitle": "Our gym software platform has all your fitness management needs covered: payments, membership management, sales, mark...",
+  "tags": [
+    "gym-management",
+    "fitness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579398165/catalog/perfectgym/icon128x128.jpg",
+  "website": "https://perfectgym.com",
+  "docsUrl": "https://developer.perfectgym.com"
+}

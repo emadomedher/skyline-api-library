@@ -1,0 +1,13 @@
+{
+  "id": "cycle-app",
+  "title": "Cycle",
+  "subtitle": "Cycle is an all-in-one tool dedicated to product-centric teams. Explore, prioritize, plan, deliver, and communicate –...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605490349/icons/cycle-app.png",
+  "website": "https://cycle.app/"
+}

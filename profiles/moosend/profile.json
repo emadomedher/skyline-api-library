@@ -1,0 +1,14 @@
+{
+  "id": "moosend",
+  "title": "Moosend",
+  "subtitle": "Moosend is an email marketing & automations platform that helps you ease the burden of sending your email campaigns a...",
+  "tags": [
+    "marketing-automation",
+    "email"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284557/catalog/moosend/icon128x128.png",
+  "website": "https://moosend.com"
+}

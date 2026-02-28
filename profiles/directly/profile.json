@@ -1,0 +1,14 @@
+{
+  "id": "directly",
+  "title": "Directly",
+  "subtitle": "We offer AI-powered solutions to help customer support leaders resolve customer issues with the right mix of automati...",
+  "tags": [
+    "contact-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607014590/icons/directly.png",
+  "website": "https://www.directly.com/",
+  "docsUrl": "https://developer.directly.com"
+}

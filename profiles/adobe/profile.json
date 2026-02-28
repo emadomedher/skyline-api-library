@@ -1,0 +1,13 @@
+{
+  "id": "adobe",
+  "title": "Adobe",
+  "subtitle": "Adobe is changing the world through digital experiences. We help our customers create, deliver and optimize content a...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547936495/catalog/adobe/icon128x128.jpg",
+  "website": "https://adobe.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tryblossom-io",
+  "title": "Blossom",
+  "subtitle": "The Blossom Pack for Coda - A beautiful, lightning-fast user research repository, built with Coda and powered by Blos...",
+  "tags": [
+    "user-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649112347/icons/tryblossom-io.jpg",
+  "website": "https://www.tryblossom.io/"
+}

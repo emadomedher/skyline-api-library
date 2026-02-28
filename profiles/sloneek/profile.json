@@ -1,0 +1,14 @@
+{
+  "id": "sloneek",
+  "title": "Sloneek®",
+  "subtitle": "Sloneek is a modern HR system that contains everything you need to manage the entire journey of your employees. Try i...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688933814/icons/sloneek.jpg",
+  "website": "https://www.sloneek.com/",
+  "docsUrl": "https://www.sloneek.com/reporting_work/#feature__block--1progress3"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ninjarmm",
+  "title": "NinjaRMM",
+  "subtitle": "The easiest RMM. No contracts or platform fees. Free onboarding and local support. An all-in-one RMM MSPs and IT depa...",
+  "tags": [
+    "remote-monitoring-and-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579517073/catalog/ninjarmm/icon128x128.jpg",
+  "website": "https://www.ninjarmm.com/",
+  "docsUrl": "https://www.ninjarmm.com/dev-api"
+}

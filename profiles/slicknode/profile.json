@@ -1,0 +1,15 @@
+{
+  "id": "slicknode",
+  "title": "Slicknode",
+  "subtitle": "Headless GraphQL CMS + 100% Serverless, Cloud Native: One unified GraphQL API to manage all your content and data",
+  "tags": [
+    "headless-cms",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634246138/icons/slicknode.png",
+  "website": "https://slicknode.com/",
+  "docsUrl": "https://slicknode.com/product/developers"
+}

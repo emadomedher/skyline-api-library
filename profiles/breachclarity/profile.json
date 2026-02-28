@@ -1,0 +1,14 @@
+{
+  "id": "breachclarity",
+  "title": "BreachClarity",
+  "subtitle": "Breach Clarity is the first and only tool that scores consumer risk of identity fraud and financial fraud caused by d...",
+  "tags": [
+    "fraud-prevention",
+    "data-breaches"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582233371/catalog/breachclarity/icon128x128.jpg",
+  "website": "https://www.breachclarity.com/"
+}

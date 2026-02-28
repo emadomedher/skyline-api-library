@@ -1,0 +1,14 @@
+{
+  "id": "notific-io",
+  "title": "Notific.io",
+  "subtitle": "Get a powerful, complete notification system for your web app.",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568662659/catalog/notific-io/icon128x128.png",
+  "website": "https://notific.io/",
+  "docsUrl": "https://notific.io/docs"
+}

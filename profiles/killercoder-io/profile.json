@@ -1,0 +1,14 @@
+{
+  "id": "killercoder-io",
+  "title": "KillerCoder.io",
+  "subtitle": "KillerCoder.io is the leading testing platform to test developers and improve your technical hiring efficiency. Creat...",
+  "tags": [
+    "technical-skills-screening"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597852065/icons/killercoder-io.png",
+  "website": "https://killercoder.io/",
+  "docsUrl": "https://killercoder.io/en/programming-tests/senior-android-java-developer-tests"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "boostnote-io",
+  "title": "Boost Note",
+  "subtitle": "Boost Note is an intuitive and stylish markdown editor for developers. It's fully open-source.",
+  "tags": [
+    "notes",
+    "markdown"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590657051/catalog/boostnote-io/icon128x128.jpg",
+  "website": "https://boostnote.io/"
+}

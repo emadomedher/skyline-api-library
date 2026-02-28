@@ -1,0 +1,13 @@
+{
+  "id": "op-today",
+  "title": "Opsign",
+  "subtitle": "OP.Sign: Scan & Sign documents, Save secure and encrypted on the cloud\n",
+  "tags": [
+    "scanning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603926381/icons/op-today.png",
+  "website": "https://www.op.today/"
+}

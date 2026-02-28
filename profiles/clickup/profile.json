@@ -1,0 +1,15 @@
+{
+  "id": "clickup",
+  "title": "ClickUp",
+  "subtitle": "Our mission is to make the world more productive. To do this, we built one app to replace them all - Tasks, Docs, Goa...",
+  "tags": [
+    "project-management",
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304644/catalog/clickup/icon128x128.png",
+  "website": "https://clickup.com/",
+  "docsUrl": "https://clickup.com/api"
+}

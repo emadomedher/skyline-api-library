@@ -1,0 +1,13 @@
+{
+  "id": "ringy",
+  "title": "Ringy",
+  "subtitle": "Automate tasks. Drive sales. Nurture leads. Ringy is a complete CRM solution that handles it all within an intuitive ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642313088/icons/ringy.jpg",
+  "website": "https://www.ringy.com/"
+}

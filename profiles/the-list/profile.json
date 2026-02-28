@@ -1,0 +1,13 @@
+{
+  "id": "the-list",
+  "title": "The List",
+  "subtitle": "The List Online is an advertising database that helps you quickly identify and engage key decision makers, setting yo...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962142/catalog/the-list/icon128x128.png",
+  "website": "https://thelistinc.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "charthop",
+  "title": "ChartHop",
+  "subtitle": "Automatically create and update org charts, build headcount plans and analyze all your people data in one central hub...",
+  "tags": [
+    "org-chart"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625134822/icons/charthop.png",
+  "website": "https://www.charthop.com/",
+  "docsUrl": "https://docs.charthop.com"
+}

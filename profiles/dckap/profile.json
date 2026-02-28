@@ -1,0 +1,13 @@
+{
+  "id": "dckap",
+  "title": "DCKAP",
+  "subtitle": "DCKAP offers End-to-End B2B eCommerce services on top platforms: Magento, BigCommerce, Shopify Plus, and more. Explor...",
+  "tags": [
+    "b-2-b-ecommerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669496/icons/dckap.jpg",
+  "website": "https://www.dckap.com/"
+}

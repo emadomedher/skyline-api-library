@@ -1,0 +1,15 @@
+{
+  "id": "whistic",
+  "title": "Whistic",
+  "subtitle": "Vendor Security Assessments Simplified. Whistic helps you conduct and respond to security reviews on a single platfor...",
+  "tags": [
+    "vendor-security-assessment",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666361/icons/whistic.jpg",
+  "website": "https://www.whistic.com/",
+  "docsUrl": "https://www.whistic.com/whistic-profile?hslang=en"
+}

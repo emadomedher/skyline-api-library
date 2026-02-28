@@ -1,0 +1,12 @@
+{
+  "id": "donorbox",
+  "title": "Donorbox",
+  "subtitle": "Donorbox is a powerful fundraising software powering 5000+ organizations, simple to setup and attracts more recurring...",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304802/catalog/donorbox/icon128x128.png"
+}

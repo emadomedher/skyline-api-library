@@ -1,0 +1,13 @@
+{
+  "id": "mindtouch",
+  "title": "Mindtouch",
+  "subtitle": "MindTouch is intelligent knowledge software that improves support agent productivity, increases ticket deflection, an...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946820/catalog/mindtouch/icon128x128.jpg",
+  "website": "https://mindtouch.com"
+}

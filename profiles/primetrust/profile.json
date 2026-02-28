@@ -1,0 +1,15 @@
+{
+  "id": "primetrust",
+  "title": "Prime Trust",
+  "subtitle": "Prime Trust powers innovation in the digital economy by providing fintech and digital asset innovators with financial...",
+  "tags": [
+    "blockchain",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656283370/icons/primetrust.jpg",
+  "website": "https://www.primetrust.com/",
+  "docsUrl": "https://developers.primetrust.com/docs"
+}

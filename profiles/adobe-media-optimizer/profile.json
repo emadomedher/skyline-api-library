@@ -1,0 +1,13 @@
+{
+  "id": "adobe-media-optimizer",
+  "title": "Adobe Media Optimizer",
+  "subtitle": "Adobe Media Optimizer API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578240440/catalog/adobe-media-optimizer/icon128x128.jpg",
+  "website": "https://www.adobe.com/advertising/media-optimizer.html"
+}

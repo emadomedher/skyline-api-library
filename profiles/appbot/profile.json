@@ -1,0 +1,12 @@
+{
+  "id": "appbot",
+  "title": "Appbot",
+  "subtitle": "Appbot is an AI-powered sentiment analysis & text mining tool for app reviews and customer feedback. Appbot helps Pro...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284440/catalog/appbot/icon128x128.png"
+}

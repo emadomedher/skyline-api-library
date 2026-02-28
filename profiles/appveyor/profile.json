@@ -1,0 +1,14 @@
+{
+  "id": "appveyor",
+  "title": "AppVeyor CI",
+  "subtitle": "#1 Continuous Delivery service for Windows",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587750136/catalog/appveyor/icon128x128.png",
+  "website": "https://www.appveyor.com/",
+  "docsUrl": "https://www.appveyor.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "softbank-jp",
+  "title": "SoftBank",
+  "subtitle": "ソフトバンクの公式ホームページです。スマートフォン、携帯電話をはじめ、インターネット、固定電話、でんき、ロボットなどライフスタイルを豊かにする各種サービスやソフトバンクショップ、サポート、企業・IR情報などをご紹介します。",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589150152/catalog/softbank-jp/icon128x128.jpg",
+  "website": "https://www.softbank.jp/"
+}

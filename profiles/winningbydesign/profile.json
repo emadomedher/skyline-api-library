@@ -1,0 +1,13 @@
+{
+  "id": "winningbydesign",
+  "title": "Winning by Design",
+  "subtitle": "Winning by Design API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572010637/catalog/winningbydesign/icon128x128.png",
+  "website": "https://winningbydesign.com"
+}

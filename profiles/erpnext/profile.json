@@ -1,0 +1,15 @@
+{
+  "id": "erpnext",
+  "title": "ERPNext Cloud",
+  "subtitle": "ERPNext Cloud API integration",
+  "tags": [
+    "project-management",
+    "crm",
+    "inventory",
+    "billing-and-invoicing"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378791/catalog/erpnext/icon128x128.png"
+}

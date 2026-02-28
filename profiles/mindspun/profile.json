@@ -1,0 +1,14 @@
+{
+  "id": "mindspun",
+  "title": "Mindspun",
+  "subtitle": "Mindspun is a fast, secure, easy to use content marketing platform with built-in SEO.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701474/icons/mindspun.jpg",
+  "website": "https://www.mindspun.com/",
+  "docsUrl": "https://www.mindspun.com/made-for/developers"
+}

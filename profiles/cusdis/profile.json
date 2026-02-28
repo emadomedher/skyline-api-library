@@ -1,0 +1,15 @@
+{
+  "id": "cusdis",
+  "title": "Cusdis",
+  "subtitle": "Cusdis is an open-source, lightweight (~5kb gzipped), privacy-first alternative to Disqus. It's super easy to use and...",
+  "tags": [
+    "comment-systems",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635814198/icons/cusdis.jpg",
+  "website": "https://cusdis.com/",
+  "docsUrl": "https://cusdis.com/doc"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "getapistack",
+  "title": "apistack",
+  "subtitle": "apistack API integration",
+  "tags": [
+    "no-code",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650580002/icons/getapistack.jpg",
+  "website": "https://www.getapistack.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "paplar-co",
+  "title": "Paplar",
+  "subtitle": "Avec Paplar, réclame une compensation de l'empreinte CO2 de tes tickets de caisse.",
+  "tags": [
+    "receipt",
+    "climate",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584560976/catalog/paplar-co/icon128x128.jpg",
+  "website": "https://paplar.co/"
+}

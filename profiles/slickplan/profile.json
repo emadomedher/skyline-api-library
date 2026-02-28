@@ -1,0 +1,13 @@
+{
+  "id": "slickplan",
+  "title": "Slickplan",
+  "subtitle": "A website planning suite for professionals, teams and agencies. Collaboration, real-time sharing and CMS exporting do...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946582/catalog/slickplan/icon128x128.jpg",
+  "website": "https://slickplan.com"
+}

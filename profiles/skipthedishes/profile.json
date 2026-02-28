@@ -1,0 +1,13 @@
+{
+  "id": "skipthedishes",
+  "title": "Skip",
+  "subtitle": "Get the food you want delivered, fast. Order food delivery & take out from the best restaurants near you. Skip has 16...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566602430/catalog/skipthedishes/icon128x128.jpg",
+  "website": "https://www.skipthedishes.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sunlife-link",
+  "title": "Sun Life Link",
+  "subtitle": "Real-time connections that create a better benefits experience. We're bringing you easier ways to connect the human c...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640007306/icons/sunlife-link.jpg",
+  "website": "https://www.sunlife.com/us/en/employers/products-and-services/digital-capabilities/sun-life-link/"
+}

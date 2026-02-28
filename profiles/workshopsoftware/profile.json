@@ -1,0 +1,13 @@
+{
+  "id": "workshopsoftware",
+  "title": "Workshop Software",
+  "subtitle": "Workshop Software to help streamline our mechanical auto garage. Take the hassle out of running your repair workshop....",
+  "tags": [
+    "auto-repair"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659076703/icons/workshopsoftware.jpg",
+  "website": "https://workshopsoftware.com/"
+}

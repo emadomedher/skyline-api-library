@@ -1,0 +1,15 @@
+{
+  "id": "amazon-athena",
+  "title": "Amazon Athena",
+  "subtitle": "Amazon Athena is an interactive query service that makes it easy to analyze data in Amazon S3 using standard SQL. Ath...",
+  "tags": [
+    "serverless",
+    "sql-editors"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581595354/catalog/amazon-athena/icon128x128.png",
+  "website": "https://aws.amazon.com/athena/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=default"
+}

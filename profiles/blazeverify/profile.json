@@ -1,0 +1,14 @@
+{
+  "id": "blazeverify",
+  "title": "Blaze Verify",
+  "subtitle": "Say good-bye to crowded, inaccurate email lists. Blaze Verify is an email verification SaaS designed for bulk validat...",
+  "tags": [
+    "email-verification"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572965979/catalog/blazeverify/icon128x128.jpg",
+  "website": "https://blazeverify.com/",
+  "docsUrl": "https://blazeverify.com/docs/api"
+}

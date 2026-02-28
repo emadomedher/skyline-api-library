@@ -1,0 +1,13 @@
+{
+  "id": "continental-automotive",
+  "title": "Continental",
+  "subtitle": "Passenger Cars",
+  "tags": [
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604863360/icons/continental-automotive.jpg",
+  "website": "https://www.continental-automotive.com/"
+}

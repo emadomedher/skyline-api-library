@@ -1,0 +1,14 @@
+{
+  "id": "gdprform-io",
+  "title": "GDPR Form",
+  "subtitle": "GDPR Form gathers all data subject requests (DSAR), tracks their progress and streamlines the response to data subjec...",
+  "tags": [
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571012567/catalog/gdprform-io/icon128x128.jpg",
+  "website": "https://www.gdprform.io"
+}

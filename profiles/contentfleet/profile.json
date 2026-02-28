@@ -1,0 +1,13 @@
+{
+  "id": "contentfleet",
+  "title": "ContentFleet",
+  "subtitle": "With Content Marketing, we craft digital content for our customers that is fun, creates additional value and is measu...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433909/catalog/contentfleet/icon128x128.png",
+  "website": "https://contentfleet.com"
+}

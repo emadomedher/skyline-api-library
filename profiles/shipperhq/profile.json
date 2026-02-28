@@ -1,0 +1,15 @@
+{
+  "id": "shipperhq",
+  "title": "ShipperHQ",
+  "subtitle": "The absolute standard for managing shipping rates and options for eCommerce retailers of all sizes. With support for ...",
+  "tags": [
+    "shipping",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578572303/catalog/shipperhq/icon128x128.jpg",
+  "website": "https://shipperhq.com/",
+  "docsUrl": "https://docs.shipperhq.com"
+}

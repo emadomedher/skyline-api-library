@@ -1,0 +1,13 @@
+{
+  "id": "ezora",
+  "title": "Ezora",
+  "subtitle": "Ezora is a Software Service dedicated to helping food retailers improve their bottom line and grow a more efficient &...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256928/catalog/ezora/icon128x128.jpg",
+  "website": "https://www.ezora.com/"
+}

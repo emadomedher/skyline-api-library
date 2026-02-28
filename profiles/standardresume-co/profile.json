@@ -1,0 +1,14 @@
+{
+  "id": "standardresume-co",
+  "title": "Standard Resume",
+  "subtitle": "Make a good first impression with a professional resume template. Our online resume builder helps you create a resume...",
+  "tags": [
+    "resume-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612634780/icons/standardresume-co.jpg",
+  "website": "https://standardresume.co/",
+  "docsUrl": "https://standardresume.co/examples/ios-developer"
+}

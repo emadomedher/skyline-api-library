@@ -1,0 +1,13 @@
+{
+  "id": "atlasmic",
+  "title": "Atlasmic",
+  "subtitle": "Atlasmic is the platform of live chat, business messenger, sales, inbound marketing and analytics - everything you ne...",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618544038/icons/atlasmic.jpg",
+  "website": "https://atlasmic.com/"
+}

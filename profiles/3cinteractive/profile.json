@@ -1,0 +1,13 @@
+{
+  "id": "3cinteractive",
+  "title": "3CInteractive",
+  "subtitle": "3Cinteractive is a leading mobile marketing company that provides the expertise and technology to increase engagement...",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432663/catalog/3cinteractive/icon128x128.png",
+  "website": "https://3cinteractive.com"
+}

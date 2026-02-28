@@ -1,0 +1,13 @@
+{
+  "id": "scrumdesk",
+  "title": "Scrumdesk",
+  "subtitle": "Agile product management tool & scrum project management tool. Ideas, roadmaps, releases, sprints, user story, kanban...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721950/catalog/scrumdesk/icon128x128.png",
+  "website": "https://scrumdesk.com"
+}

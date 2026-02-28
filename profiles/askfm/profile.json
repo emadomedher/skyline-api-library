@@ -1,0 +1,13 @@
+{
+  "id": "askfm",
+  "title": "askfm",
+  "subtitle": "Find out what people want to know about you. Ask questions and get answers on any topic!",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719017/catalog/askfm/icon128x128.jpg",
+  "website": "https://ask.fm"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "healthify-us",
+  "title": "Healthify",
+  "subtitle": "Healthify builds the infrastructure that integrates social determinants of health into the era of value-based healthc...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746579/icons/healthify-us.jpg",
+  "website": "https://www.healthify.us/"
+}

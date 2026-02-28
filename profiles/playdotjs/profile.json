@@ -1,0 +1,13 @@
+{
+  "id": "playdotjs",
+  "title": "play.js",
+  "subtitle": "Develop and run locally your Node.js and React Native applications using your iPhone or iPad.",
+  "tags": [
+    "ide"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622167001/icons/playdotjs.jpg",
+  "website": "https://playdotjs.com/"
+}

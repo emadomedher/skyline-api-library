@@ -1,0 +1,13 @@
+{
+  "id": "diversely-io",
+  "title": "Diversely.io",
+  "subtitle": "Diversely.io API integration",
+  "tags": [
+    "talent-sourcing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1654090722/icons/diversely-io.jpg",
+  "website": "https://www.diversely.io/"
+}

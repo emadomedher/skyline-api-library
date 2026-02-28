@@ -1,0 +1,15 @@
+{
+  "id": "moneyhubenterprise",
+  "title": "Moneyhub Enterprise",
+  "subtitle": "Award winning, ready-to-use and customisable financial management \ntechnologies for businesses and their customers",
+  "tags": [
+    "api-aggregators",
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572910295/catalog/moneyhubenterprise/icon128x128.jpg",
+  "website": "https://www.moneyhubenterprise.com/",
+  "docsUrl": "https://www.moneyhubenterprise.com/api-form"
+}

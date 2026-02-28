@@ -1,0 +1,14 @@
+{
+  "id": "recombee",
+  "title": "Recombee",
+  "subtitle": "Recommender as a Service with an intuitive RESTful API & SDKs tailored by data scientists.",
+  "tags": [
+    "recommender-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794305/icons/recombee.jpg",
+  "website": "https://www.recombee.com/",
+  "docsUrl": "https://www.recombee.com/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "maileon",
+  "title": "Maileon",
+  "subtitle": "Individual tracking of each contact’s every response Individual and summary reports for every user and campaign Sched...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050360/icons/maileon.png",
+  "website": "https://maileon.co.uk"
+}

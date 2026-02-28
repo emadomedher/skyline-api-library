@@ -1,0 +1,13 @@
+{
+  "id": "theshopworks",
+  "title": "The Shopworks",
+  "subtitle": "ShopWorks bespoke staff scheduling platform is the most advanced Workforce Management solution available. Built speci...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618977943/icons/theshopworks.jpg",
+  "website": "https://www.theshopworks.com/"
+}

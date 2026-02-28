@@ -1,0 +1,14 @@
+{
+  "id": "spscommerce",
+  "title": "SPS Commerce",
+  "subtitle": "SPS Commerce retail solutions go beyond EDI to enhance visibility, collaboration and communication for your business.",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421327/icons/spscommerce.jpg",
+  "website": "https://www.spscommerce.com/",
+  "docsUrl": "https://www.spscommerce.com/partners/developers/dev-center"
+}

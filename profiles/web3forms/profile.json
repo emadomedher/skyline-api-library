@@ -1,0 +1,15 @@
+{
+  "id": "web3forms",
+  "title": "Web3Forms — Contact Forms for Static Websites",
+  "subtitle": "Receive form submissions directly in your email inbox without any server or back-end code. Its free!",
+  "tags": [
+    "forms",
+    "jamstack"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615632956/icons/web3forms.jpg",
+  "website": "https://web3forms.com/",
+  "docsUrl": "https://docs.web3forms.com"
+}

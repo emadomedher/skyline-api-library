@@ -1,0 +1,14 @@
+{
+  "id": "equalum-io",
+  "title": "Equalum",
+  "subtitle": "Easily deploy streaming data ingestion strategy. Equalum combines change data capture (CDC), data replication, and ET...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653552575/icons/equalum-io.jpg",
+  "website": "https://www.equalum.io/",
+  "docsUrl": "https://www.datanami.com/this-just-in/tableau-announces-new-capabilities-to-empower-developers"
+}

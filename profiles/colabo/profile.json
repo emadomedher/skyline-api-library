@@ -1,0 +1,13 @@
+{
+  "id": "colabo",
+  "title": "Colabo",
+  "subtitle": "Colabo API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826113/catalog/colabo/icon128x128.jpg",
+  "website": "https://colabo.com"
+}

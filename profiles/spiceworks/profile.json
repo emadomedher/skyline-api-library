@@ -1,0 +1,15 @@
+{
+  "id": "spiceworks",
+  "title": "Spiceworks",
+  "subtitle": "A community of IT pros, educational content, product reviews and free apps like Help Desk, Inventory & Network Monito...",
+  "tags": [
+    "technology-buyers-marketplace",
+    "it-service-management",
+    "knowledge"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573427617/catalog/spiceworks/icon128x128.jpg",
+  "website": "https://www.spiceworks.com/"
+}

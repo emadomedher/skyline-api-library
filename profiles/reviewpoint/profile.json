@@ -1,0 +1,12 @@
+{
+  "id": "reviewpoint",
+  "title": "ReviewPoint",
+  "subtitle": "ReviewPoint is a review management tool that helps with review generation via automated SMS or emails, and review mon...",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830021/catalog/reviewpoint/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pure360",
+  "title": "Pure360",
+  "subtitle": "Pure360 offers marketing automation powered by email, enabling UK marketers to deliver targeted multi-channel campaigns.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305783/catalog/pure360/icon128x128.png",
+  "website": "https://pure360.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "salesforce-service-cloud",
+  "title": "Salesforce Service Cloud",
+  "subtitle": "Service Cloud is a customer service software and support application that empowers companies to manage all customer i...",
+  "tags": [
+    "customer-support",
+    "customer-service",
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572362983/catalog/salesforce-service-cloud/icon128x128.png",
+  "website": "https://www.salesforce.com/eu/products/service-cloud/overview/",
+  "docsUrl": "https://developer.salesforce.com/developer-centers/service-cloud/"
+}

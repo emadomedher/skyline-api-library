@@ -1,0 +1,15 @@
+{
+  "id": "unifiedpost",
+  "title": "UnifiedPost",
+  "subtitle": "UnifiedPost API integration",
+  "tags": [
+    "documents",
+    "identity",
+    "accounting"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592574631/icons/unifiedpost.png",
+  "website": "https://www.unifiedpost.com/"
+}

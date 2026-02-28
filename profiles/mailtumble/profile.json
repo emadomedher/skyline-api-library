@@ -1,0 +1,14 @@
+{
+  "id": "mailtumble",
+  "title": "MailTumble",
+  "subtitle": "Mailtumble enables organizations to share their customer or member email addresses outside of their four walls. It be...",
+  "tags": [
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604863365/icons/mailtumble.png",
+  "website": "https://www.mailtumble.com/"
+}

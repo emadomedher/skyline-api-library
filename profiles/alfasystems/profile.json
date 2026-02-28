@@ -1,0 +1,13 @@
+{
+  "id": "alfasystems",
+  "title": "Alfa",
+  "subtitle": "Alfa is the premium provider of software to market-leading auto, equipment and wholesale finance businesses across th...",
+  "tags": [
+    "asset-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593643178/icons/alfasystems.png",
+  "website": "https://www.alfasystems.com/"
+}

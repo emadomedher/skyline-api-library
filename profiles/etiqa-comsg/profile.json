@@ -1,0 +1,13 @@
+{
+  "id": "etiqa-comsg",
+  "title": "Etiqa Insurance Singapore",
+  "subtitle": "Etiqa offers life and general insurance solutions in Singapore for personal and business needs. Get a quote online wi...",
+  "tags": [
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571995831/catalog/etiqa-comsg/icon128x128.png",
+  "website": "https://www.etiqa.com.sg/"
+}

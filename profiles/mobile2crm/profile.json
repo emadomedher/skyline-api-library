@@ -1,0 +1,13 @@
+{
+  "id": "mobile2crm",
+  "title": "Mobile2CRM",
+  "subtitle": "Employees business mobile calls – at the office, at home or traveling – are seamlessly captured and transferred to th...",
+  "tags": [
+    "call-recording"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023415/icons/mobile2crm.png",
+  "website": "https://mobile2crm.com/"
+}

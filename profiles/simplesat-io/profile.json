@@ -1,0 +1,14 @@
+{
+  "id": "simplesat-io",
+  "title": "Simplesat",
+  "subtitle": "Delightfully easy to use one-click CSAT and NPS surveys for MSPs and service minded professionals. Supporting surveys...",
+  "tags": [
+    "customer-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668171281/icons/simplesat-io.jpg",
+  "website": "https://www.simplesat.io/",
+  "docsUrl": "https://help.simplesat.io"
+}

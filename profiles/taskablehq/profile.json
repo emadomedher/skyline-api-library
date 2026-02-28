@@ -1,0 +1,14 @@
+{
+  "id": "taskablehq",
+  "title": "Taskable",
+  "subtitle": "Unified tasks, projects and communications. Taskable removes the question \"what do I do next\" from your workflow. Put...",
+  "tags": [
+    "task-management",
+    "productivity"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584915992/catalog/taskablehq/icon128x128.jpg",
+  "website": "https://taskablehq.com/"
+}

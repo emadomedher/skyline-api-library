@@ -1,0 +1,13 @@
+{
+  "id": "madison-logic",
+  "title": "Madison Logic",
+  "subtitle": "Madison Logic API integration",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435691/catalog/madison-logic/icon128x128.png",
+  "website": "https://madisonlogic.com"
+}

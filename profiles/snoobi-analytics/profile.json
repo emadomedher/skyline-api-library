@@ -1,0 +1,13 @@
+{
+  "id": "snoobi-analytics",
+  "title": "Snoobi Analytics",
+  "subtitle": "Snoobi Analytics API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722175/catalog/snoobi-analytics/icon128x128.jpg",
+  "website": "https://snoobi.eu"
+}

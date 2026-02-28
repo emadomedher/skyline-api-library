@@ -1,0 +1,13 @@
+{
+  "id": "rollworks",
+  "title": "RollWorks",
+  "subtitle": "Say hello to the RollWorks account-based platform, the B2B and ABM solution shown to deliver over 5X the ROI of other...",
+  "tags": [
+    "account-based-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587218303/catalog/rollworks/icon128x128.jpg",
+  "website": "https://www.rollworks.com/"
+}

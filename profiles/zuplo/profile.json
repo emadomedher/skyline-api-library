@@ -1,0 +1,15 @@
+{
+  "id": "zuplo",
+  "title": "Zuplo",
+  "subtitle": "API Management for developers that doesn’t require weeks of engineering resources or an army of consultants.",
+  "tags": [
+    "api-management",
+    "api-gateway"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657816076/icons/zuplo.jpg",
+  "website": "https://zuplo.com/",
+  "docsUrl": "https://zuplo.com/docs"
+}

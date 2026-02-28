@@ -1,0 +1,13 @@
+{
+  "id": "mastodon",
+  "title": "Mastodon",
+  "subtitle": "Mastodon is an open source decentralized social network - by the people for the people. Join the federation and take ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721033/catalog/mastodon/icon128x128.jpg",
+  "website": "https://joinmastodon.org"
+}

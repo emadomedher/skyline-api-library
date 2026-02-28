@@ -1,0 +1,15 @@
+{
+  "id": "teamviewer",
+  "title": "TeamViewer",
+  "subtitle": "Remote desktop access solutions by TeamViewer: connect to remote computers, provide remote support & collaborate onli...",
+  "tags": [
+    "remote-desktop",
+    "remote-access"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579550547/catalog/teamviewer/icon128x128.png",
+  "website": "https://www.teamviewer.com/",
+  "docsUrl": "https://www.teamviewer.com/en/for-developers"
+}

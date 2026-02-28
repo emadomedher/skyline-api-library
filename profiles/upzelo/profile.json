@@ -1,0 +1,14 @@
+{
+  "id": "upzelo",
+  "title": "Upzelo",
+  "subtitle": "It is time to give retention more attention. Upzelo helps you increase subscription retention through real-time data,...",
+  "tags": [
+    "customer-retention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663081993/icons/upzelo.jpg",
+  "website": "https://upzelo.com/",
+  "docsUrl": "https://upzelo.com/api/docs"
+}

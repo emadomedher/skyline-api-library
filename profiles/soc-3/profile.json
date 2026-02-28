@@ -1,0 +1,15 @@
+{
+  "id": "soc-3",
+  "title": " SOC 3",
+  "subtitle": "A Service Organization Control 3 (Soc 3) report outlines information related to a service organization’s internal con...",
+  "tags": [
+    "compliance",
+    "certifications",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613721539/icons/soc-3.png",
+  "website": "https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report.html"
+}

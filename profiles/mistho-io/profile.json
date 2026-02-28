@@ -1,0 +1,15 @@
+{
+  "id": "mistho-io",
+  "title": "Mistho",
+  "subtitle": "Easily access payroll records of UK consumers via a single API and make it easy for your customers to verify employme...",
+  "tags": [
+    "payroll-api",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414387/icons/mistho-io.jpg",
+  "website": "https://www.mistho.io/",
+  "docsUrl": "https://mistho.readme.io"
+}

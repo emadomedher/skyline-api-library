@@ -1,0 +1,13 @@
+{
+  "id": "sweagle",
+  "title": "Sweagle",
+  "subtitle": "Sweagle is the de facto standard for configuration data management. The platform transforms the quality of your CI/CD...",
+  "tags": [
+    "configuration-data-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592864757/icons/sweagle.png",
+  "website": "https://www.sweagle.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "accountancymanager-uk",
+  "title": "AccountancyManager",
+  "subtitle": "Automate your administration with practice management. Web based client management, onboarding and automation softwar...",
+  "tags": [
+    "accounting-firm",
+    "practice-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701527/icons/accountancymanager-uk.jpg",
+  "website": "https://www.accountancymanager.co.uk/"
+}

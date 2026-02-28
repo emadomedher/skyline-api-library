@@ -1,0 +1,13 @@
+{
+  "id": "narrow",
+  "title": "Narrow",
+  "subtitle": "Narrow is a Twitter marketing automation tool that helps you build a targeted following.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436050/catalog/narrow/icon128x128.png",
+  "website": "https://narrow.io"
+}

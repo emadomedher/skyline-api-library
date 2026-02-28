@@ -1,0 +1,15 @@
+{
+  "id": "tartanhq",
+  "title": "Tartan",
+  "subtitle": "Build next-generation products and services for your customers with easy, real-time data connectivity to their payrol...",
+  "tags": [
+    "unified-apis",
+    "payroll-api"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640257791/icons/tartanhq.jpg",
+  "website": "https://www.tartanhq.com/",
+  "docsUrl": "http://docs.tartanhq.com"
+}

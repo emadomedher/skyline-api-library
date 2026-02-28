@@ -1,0 +1,13 @@
+{
+  "id": "sociomantic-labs",
+  "title": "Sociomantic Labs",
+  "subtitle": "Sociomantic Labs API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827671/catalog/sociomantic-labs/icon128x128.png",
+  "website": "https://sociomantic.com"
+}

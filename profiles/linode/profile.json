@@ -1,0 +1,14 @@
+{
+  "id": "linode",
+  "title": "Linode",
+  "subtitle": "Cloud hosting for you. Instantly deploy an SSD cloud server running with your choice of Linux distro, resources, and ...",
+  "tags": [
+    "cloud-providers",
+    "hosting"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566919515/catalog/linode/icon128x128.jpg",
+  "website": "https://www.linode.com/"
+}

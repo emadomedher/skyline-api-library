@@ -1,0 +1,12 @@
+{
+  "id": "sms-alert",
+  "title": "SMS Alert",
+  "subtitle": "SMS Alert is a enterprise grade transactional and promotional SMS platform.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306127/catalog/sms-alert/icon128x128.png"
+}

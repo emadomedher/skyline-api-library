@@ -1,0 +1,16 @@
+{
+  "id": "codesandbox-io-sandpack",
+  "title": "Sandpack",
+  "subtitle": "Sandpack is a component toolkit for creating your own live-running code editing experiences powered by CodeSandbox.",
+  "tags": [
+    "embeddable-code-editors",
+    "developer-tools",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638576535/icons/codesandbox-io-sandpack.png",
+  "website": "https://sandpack.codesandbox.io/",
+  "docsUrl": "https://sandpack.codesandbox.io/docs"
+}

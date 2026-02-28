@@ -1,0 +1,13 @@
+{
+  "id": "yolt-technology-services",
+  "title": "Yolt Technology Services",
+  "subtitle": "Yolt Technology Services is the leading open banking provider in Europe, building, managing, and maintaining AIS and ...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592483247/icons/yolt-technology-services.jpg",
+  "website": "https://yts.yolt.com/"
+}

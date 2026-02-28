@@ -1,0 +1,14 @@
+{
+  "id": "facebook-groups",
+  "title": "Facebook Groups",
+  "subtitle": "Groups provide a space to communicate about shared interests with certain people. You can create a group for anything...",
+  "tags": [
+    "social",
+    "facebook"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304889/catalog/facebook-groups/icon128x128.png",
+  "website": "https://www.facebook.com/help/1210322209008185"
+}

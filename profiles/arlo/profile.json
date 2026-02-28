@@ -1,0 +1,13 @@
+{
+  "id": "arlo",
+  "title": "Arlo",
+  "subtitle": "Training management software built for training providers. Arlo's course management software will help you reduce adm...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947255/catalog/arlo/icon128x128.png",
+  "website": "https://arlo.co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "byner",
+  "title": "Byner",
+  "subtitle": "Byner supports end-to-end talent and customer engagement. From lead to cash, from candidate to alumni. Fully integrat...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667495119/icons/byner.png",
+  "website": "https://byner.com/"
+}

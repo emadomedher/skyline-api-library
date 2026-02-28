@@ -1,0 +1,13 @@
+{
+  "id": "converseon",
+  "title": "Converseon",
+  "subtitle": "The Leading Socially-Intelligent Digital Consultancy - Converseon Provides the World’s Best Social Data and Insights ...",
+  "tags": [
+    "social-listening"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666398/icons/converseon.jpg",
+  "website": "https://converseon.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fondeadora",
+  "title": "Fondeadora",
+  "subtitle": "Fondeadora is a digital banking services company that aims to eliminate the inefficiencies related to the traditional...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598638771/icons/fondeadora.jpg",
+  "website": "https://fondeadora.com/"
+}

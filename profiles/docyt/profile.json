@@ -1,0 +1,13 @@
+{
+  "id": "docyt",
+  "title": "Docyt",
+  "subtitle": "Get Docyt, the all-in-one real-time accounting automation platform for bill pay, receipt capture, expense reports, re...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614276920/icons/docyt.jpg",
+  "website": "https://docyt.com/"
+}

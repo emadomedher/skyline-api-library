@@ -1,0 +1,13 @@
+{
+  "id": "immovlan-be",
+  "title": "Immo Vlan",
+  "subtitle": "Immovlan has 125'000 Belgian listings online, offered by professionals and individual users in Belgium and abroad.",
+  "tags": [
+    "real-estate-portals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551227401/catalog/immovlan-be/icon128x128.jpg",
+  "website": "https://immo.vlan.be/"
+}

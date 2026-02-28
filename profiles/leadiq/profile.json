@@ -1,0 +1,13 @@
+{
+  "id": "leadiq",
+  "title": "LeadIQ",
+  "subtitle": "Find contact information for ideal prospects and create lead lists in minutes not days. The original deal finder.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826796/catalog/leadiq/icon128x128.jpg",
+  "website": "https://leadiq.com"
+}

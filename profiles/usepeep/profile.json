@@ -1,0 +1,13 @@
+{
+  "id": "usepeep",
+  "title": "Usepeep",
+  "subtitle": "Usepeep API integration",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640132623/icons/usepeep.jpg",
+  "website": "https://www.usepeep.com/"
+}

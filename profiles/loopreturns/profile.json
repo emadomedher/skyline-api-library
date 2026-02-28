@@ -1,0 +1,15 @@
+{
+  "id": "loopreturns",
+  "title": "Loop",
+  "subtitle": "The returns app for Shopify's top brands. Loop improves retention by encouraging your customers to exchange rather th...",
+  "tags": [
+    "return-solutions",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621463860/icons/loopreturns.jpg",
+  "website": "https://www.loopreturns.com/",
+  "docsUrl": "https://docs.loopreturns.com"
+}

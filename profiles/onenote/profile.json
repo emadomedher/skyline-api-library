@@ -1,0 +1,14 @@
+{
+  "id": "onenote",
+  "title": "OneNote",
+  "subtitle": "Microsoft OneNote is a note-taking app that makes it easy to capture and save ideas, images, audio recordings, and an...",
+  "tags": [
+    "notes",
+    "microsoft"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477952/catalog/onenote/icon128x128.png",
+  "website": "https://www.onenote.com/signin"
+}

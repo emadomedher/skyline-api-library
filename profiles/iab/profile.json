@@ -1,0 +1,14 @@
+{
+  "id": "iab",
+  "title": "IAB",
+  "subtitle": "Download Executive Summary This Legal Guide for Direct Brands provides a concise overview of legal issues often confr...",
+  "tags": [
+    "associations",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582263799/catalog/iab/icon128x128.jpg",
+  "website": "https://www.iab.com/"
+}

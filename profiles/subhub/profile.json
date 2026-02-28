@@ -1,0 +1,13 @@
+{
+  "id": "subhub",
+  "title": "Subhub",
+  "subtitle": "Build a membership website with our all-in-one platform for managing memberships and paid subscription content with d...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946520/catalog/subhub/icon128x128.png",
+  "website": "https://subhub.com"
+}

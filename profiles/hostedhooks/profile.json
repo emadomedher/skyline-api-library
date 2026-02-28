@@ -1,0 +1,14 @@
+{
+  "id": "hostedhooks",
+  "title": "HostedHooks",
+  "subtitle": "Our Webhooks as a Service solution is hosted so you don't need to spend time and money on development. Developers can...",
+  "tags": [
+    "webhook-infrastructure"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630990210/icons/hostedhooks.jpg",
+  "website": "https://www.hostedhooks.com/",
+  "docsUrl": "https://developers.hostedhooks.com"
+}

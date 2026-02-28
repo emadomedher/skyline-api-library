@@ -1,0 +1,15 @@
+{
+  "id": "vendia-net",
+  "title": "Vendia",
+  "subtitle": "Share data and code with partners in real time",
+  "tags": [
+    "data-sharing",
+    "universal-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613458915/icons/vendia-net.jpg",
+  "website": "https://vendia.net/",
+  "docsUrl": "https://vendia.net/developers"
+}

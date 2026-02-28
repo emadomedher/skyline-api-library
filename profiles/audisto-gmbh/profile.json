@@ -1,0 +1,13 @@
+{
+  "id": "audisto-gmbh",
+  "title": "Audisto GmbH",
+  "subtitle": "Audisto GmbH API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433154/catalog/audisto-gmbh/icon128x128.png",
+  "website": "https://audisto.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "trivecgroup",
+  "title": "Trivec",
+  "subtitle": "Leading POS System for restaurants, bars and cafes",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567089241/catalog/trivecgroup/icon128x128.png",
+  "website": "https://trivecgroup.com"
+}

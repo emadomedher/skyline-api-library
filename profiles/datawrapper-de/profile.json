@@ -1,0 +1,14 @@
+{
+  "id": "datawrapper-de",
+  "title": "Datawrapper",
+  "subtitle": "Create interactive, responsive & beautiful charts — no code required.",
+  "tags": [
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584551421/catalog/datawrapper-de/icon128x128.jpg",
+  "website": "https://www.datawrapper.de/",
+  "docsUrl": "https://developer.datawrapper.de/docs/getting-started"
+}

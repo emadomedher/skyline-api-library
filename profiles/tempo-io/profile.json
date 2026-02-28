@@ -1,0 +1,15 @@
+{
+  "id": "tempo-io",
+  "title": "Tempo",
+  "subtitle": "Tempo offers meaningful time tracking tool for Jira and Zendesk so that teams can reach their full potential. Track, ...",
+  "tags": [
+    "time-tracking",
+    "resource-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600304234/icons/tempo-io.jpg",
+  "website": "https://www.tempo.io/",
+  "docsUrl": "https://www.tempo.io/documentation-archived?hslang=en"
+}

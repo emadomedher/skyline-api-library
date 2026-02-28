@@ -1,0 +1,14 @@
+{
+  "id": "workato",
+  "title": "Workato",
+  "subtitle": "Workato is an integration platform designed to automate businesses.",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546980865/catalog/workato/icon128x128.png",
+  "website": "https://www.workato.com/",
+  "docsUrl": "https://developer.workato.com/"
+}

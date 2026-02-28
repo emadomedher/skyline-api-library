@@ -1,0 +1,13 @@
+{
+  "id": "procedureflow",
+  "title": "ProcedureFlow",
+  "subtitle": "With ProcedureFlow, following company processes has never been easier. Our cloud-based knowledge management software ...",
+  "tags": [
+    "contact-center-knowledge-base"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659049712/icons/procedureflow.jpg",
+  "website": "https://procedureflow.com/"
+}

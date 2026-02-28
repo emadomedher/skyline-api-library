@@ -1,0 +1,15 @@
+{
+  "id": "tremendous",
+  "title": "Tremendous",
+  "subtitle": "Send digital payments internationally at scale. Instant delivery, frustration-free redemption, hundreds of reward opt...",
+  "tags": [
+    "corperate-gifting",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667746900/icons/tremendous.jpg",
+  "website": "https://www.tremendous.com/",
+  "docsUrl": "https://developers.tremendous.com/reference/introduction?__hstc=17958374.461aa470899ab8c934a863be24d2ea7c.1641847739560.1649798062364.1649800178495.44&__hssc=17958374.5.1649800178495&__hsfp=1971052178"
+}

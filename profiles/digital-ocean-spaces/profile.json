@@ -1,0 +1,15 @@
+{
+  "id": "digital-ocean-spaces",
+  "title": "DigitalOcean Spaces",
+  "subtitle": "The simplest way to cost effectively store, serve, backup, and archive a virtually infinite amount of media, content,...",
+  "tags": [
+    "cdn-(content-delivery-network)",
+    "object-storage"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569813048/catalog/digital-ocean-spaces/icon128x128.jpg",
+  "website": "https://www.digitalocean.com/products/spaces/",
+  "docsUrl": "https://www.digitalocean.com/docs"
+}

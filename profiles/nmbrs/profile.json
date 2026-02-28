@@ -1,0 +1,15 @@
+{
+  "id": "nmbrs",
+  "title": "Visma Nmbrs",
+  "subtitle": "Nmbrs® is an innovative HR- and payroll application. Create hundreds of payslips in a professional and simple way and...",
+  "tags": [
+    "payroll",
+    "absence-management"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548307235/catalog/nmbrs/icon128x128.jpg",
+  "website": "https://www.nmbrs.com",
+  "docsUrl": "https://developer.nmbrs.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "asml",
+  "title": "ASML",
+  "subtitle": "ASML gives the world's leading chipmakers the power to mass produce patterns on silicon, helping to make computer chi...",
+  "tags": [
+    "semiconductor",
+    "hardware"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630990216/icons/asml.jpg",
+  "website": "https://www.asml.com/",
+  "docsUrl": "https://www.asml.com/en/careers/working-at-asml/life-at-asml#events"
+}

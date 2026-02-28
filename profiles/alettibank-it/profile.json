@@ -1,0 +1,13 @@
+{
+  "id": "alettibank-it",
+  "title": "Banca Aletti",
+  "subtitle": "Banca Aletti API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622166460/icons/alettibank-it.svg",
+  "website": "http://www.alettibank.it/"
+}

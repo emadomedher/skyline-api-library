@@ -1,0 +1,13 @@
+{
+  "id": "invoiceoffice",
+  "title": "Invoice Office",
+  "subtitle": "Free all-in-one invoicing software ✓ Time registration ✓ Projectmanagement and administration ✓ Invoice software perf...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982429/catalog/invoiceoffice/icon128x128.jpg",
+  "website": "https://invoiceoffice.com/"
+}

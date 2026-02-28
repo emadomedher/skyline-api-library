@@ -1,0 +1,14 @@
+{
+  "id": "inedo-otter",
+  "title": "Inedo Otter",
+  "subtitle": "Inedo Otter API integration",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592727614/icons/inedo-otter.jpg",
+  "website": "https://inedo.com/otter",
+  "docsUrl": "https://inedo.com/support/documentation/otter"
+}

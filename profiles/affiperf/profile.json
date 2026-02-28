@@ -1,0 +1,13 @@
+{
+  "id": "affiperf",
+  "title": "Affiperf",
+  "subtitle": "Affiperf API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774752/catalog/affiperf/icon128x128.png",
+  "website": "https://affiperf.com"
+}

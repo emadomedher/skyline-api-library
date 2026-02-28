@@ -1,0 +1,14 @@
+{
+  "id": "linkedin",
+  "title": "LinkedIn",
+  "subtitle": "500 million+ members | Manage your professional identity. Build and engage with your professional network. Access kno...",
+  "tags": [
+    "social-media-platforms"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559976271/catalog/linkedin/icon128x128.jpg",
+  "website": "https://linkedin.com",
+  "docsUrl": "https://developer.linkedin.com/"
+}

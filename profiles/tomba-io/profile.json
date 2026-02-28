@@ -1,0 +1,15 @@
+{
+  "id": "tomba-io",
+  "title": "tomba.io",
+  "subtitle": "Tomba is the leading solution to find and verify professional email addresses. Start using Tomba and connect with the...",
+  "tags": [
+    "sales-prospection",
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641269600/icons/tomba-io.png",
+  "website": "https://tomba.io/",
+  "docsUrl": "https://developer.tomba.io"
+}

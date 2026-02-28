@@ -1,0 +1,15 @@
+{
+  "id": "laravel-orion",
+  "title": "Laravel Orion",
+  "subtitle": "The simplest way to create REST API with Laravel",
+  "tags": [
+    "laravel",
+    "api-frameworks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607839195/icons/laravel-orion.png",
+  "website": "https://tailflow.github.io/laravel-orion-docs/",
+  "docsUrl": "https://tailflow.github.io/laravel-orion-docs"
+}

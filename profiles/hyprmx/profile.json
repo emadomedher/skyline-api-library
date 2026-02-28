@@ -1,0 +1,13 @@
+{
+  "id": "hyprmx",
+  "title": "HyprMX",
+  "subtitle": "HyprMX API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963797/catalog/hyprmx/icon128x128.png",
+  "website": "https://hyprmx.com"
+}

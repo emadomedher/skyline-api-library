@@ -1,0 +1,13 @@
+{
+  "id": "netlify",
+  "title": "Netlify",
+  "subtitle": "Deploy modern static websites with Netlify. Get CDN, Continuous deployment, 1-click HTTPS, and all the services you n...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284560/catalog/netlify/icon128x128.png",
+  "website": "https://www.netlify.com/"
+}

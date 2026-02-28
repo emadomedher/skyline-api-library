@@ -1,0 +1,16 @@
+{
+  "id": "venmo",
+  "title": "Venmo",
+  "subtitle": "Venmo is a digital wallet that lets you make and share payments with friends. You can easily split the bill, cab fare...",
+  "tags": [
+    "p2p-payments",
+    "fintech",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566511738/catalog/venmo/icon128x128.png",
+  "website": "https://venmo.com/",
+  "docsUrl": "https://developer.venmo.com"
+}

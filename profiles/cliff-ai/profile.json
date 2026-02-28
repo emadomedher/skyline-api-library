@@ -1,0 +1,13 @@
+{
+  "id": "cliff-ai",
+  "title": "Business Reliability Platform",
+  "subtitle": "We help you track unexpected changes in your metrics instantly without having to set up dashboards or complex data pi...",
+  "tags": [
+    "business-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614627363/icons/cliff-ai.png",
+  "website": "https://www.cliff.ai/"
+}

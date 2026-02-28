@@ -1,0 +1,15 @@
+{
+  "id": "insightly",
+  "title": "Insightly",
+  "subtitle": "Build stronger client relations, improve team productivity, and increase sales with Insightly CRM, customer top-rated...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456661/catalog/insightly/icon128x128.png",
+  "specUrl": "https://api.na1.insightly.com/v3.1/swagger/docs/v3.1",
+  "website": "https://www.insightly.com/features/",
+  "docsUrl": "https://api.insightly.com/v3.1/Help"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "intelliquip",
+  "title": "Intelliquip ",
+  "subtitle": "Intelliquip creates, refines and supports software that automates the process of selecting, configuring, pricing and ...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946906/catalog/intelliquip/icon128x128.png",
+  "website": "https://intelliquip.com"
+}

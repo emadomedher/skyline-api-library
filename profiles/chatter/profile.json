@@ -1,0 +1,12 @@
+{
+  "id": "chatter",
+  "title": "Chatter",
+  "subtitle": "Chatter makes business processes social. Collaborate in real time, in context, from anywhere.",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304600/catalog/chatter/icon128x128.png"
+}

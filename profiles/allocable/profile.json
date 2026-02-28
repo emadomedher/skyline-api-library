@@ -1,0 +1,13 @@
+{
+  "id": "allocable",
+  "title": "Allocable",
+  "subtitle": "Business Intelligence software that provides a multi-dimensional view of workforce and project productivity analytics...",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774780/catalog/allocable/icon128x128.jpg",
+  "website": "https://allocable.com"
+}

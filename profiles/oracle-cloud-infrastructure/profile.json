@@ -1,0 +1,14 @@
+{
+  "id": "oracle-cloud-infrastructure",
+  "title": "Oracle Cloud Infrastructure",
+  "subtitle": "Oracle Cloud Infrastructure API integration",
+  "tags": [
+    "hosting-providers",
+    "iaas"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677089609/icons/oracle-cloud-infrastructure.jpg",
+  "website": "https://www.oracle.com/cloud/"
+}

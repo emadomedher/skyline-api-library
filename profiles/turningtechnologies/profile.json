@@ -1,0 +1,14 @@
+{
+  "id": "turningtechnologies",
+  "title": "Turning Technologies",
+  "subtitle": "At Turning Technologies, we're dedicated to improving learning experiences in the classroom and workplace through int...",
+  "tags": [
+    "surveys",
+    "polling"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261101/icons/turningtechnologies.jpg",
+  "website": "https://www.turningtechnologies.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "socioboard",
+  "title": "Socioboard",
+  "subtitle": "Be it marketing(finding leads/customers) on Social media, or listening to customer complaints, replying to them, mana...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962262/catalog/socioboard/icon128x128.png",
+  "website": "https://socioboard.com"
+}

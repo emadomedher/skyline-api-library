@@ -1,0 +1,16 @@
+{
+  "id": "coral-ai",
+  "title": "Coral",
+  "subtitle": "Build intelligent ideas with our platform for local AI",
+  "tags": [
+    "machine-learning",
+    "hardware",
+    "iot"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618792297/icons/coral-ai.png",
+  "website": "https://coral.ai/",
+  "docsUrl": "https://coral.ai/docs"
+}

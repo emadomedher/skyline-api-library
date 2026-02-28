@@ -1,0 +1,13 @@
+{
+  "id": "wolterskluwer",
+  "title": "Wolters Kluwer",
+  "subtitle": "Wolters Kluwer is a global provider of professional information, software solutions, and services for clinicians, nur...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574290444/catalog/wolterskluwer/icon128x128.jpg",
+  "website": "https://wolterskluwer.com/"
+}

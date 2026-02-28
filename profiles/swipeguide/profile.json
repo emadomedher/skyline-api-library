@@ -1,0 +1,14 @@
+{
+  "id": "swipeguide",
+  "title": "SwipeGuide",
+  "subtitle": "Reduce waste. Maximize efficiency. The SwipeGuide Work Instruction Software empowers teams to create effortless digit...",
+  "tags": [
+    "construction",
+    "field-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023401/icons/swipeguide.jpg",
+  "website": "https://www.swipeguide.com/"
+}

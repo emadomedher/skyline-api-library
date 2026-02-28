@@ -1,0 +1,13 @@
+{
+  "id": "zoomforth",
+  "title": "Zoomforth",
+  "subtitle": "Put your content to work with visual, immersive experiences that are easily created, seamlessly shared, and always on...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828110/catalog/zoomforth/icon128x128.jpg",
+  "website": "https://zoomforth.com"
+}

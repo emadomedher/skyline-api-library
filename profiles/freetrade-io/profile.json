@@ -1,0 +1,14 @@
+{
+  "id": "freetrade-io",
+  "title": "Freetrade",
+  "subtitle": "Invest in stocks and ETFs, commission-free, right from your phone. Simple, safe and secure. Trusted by over 200,000 c...",
+  "tags": [
+    "stock-investing",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599156425/icons/freetrade-io.jpg",
+  "website": "https://freetrade.io/"
+}

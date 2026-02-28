@@ -1,0 +1,13 @@
+{
+  "id": "adsupply",
+  "title": "AdSupply",
+  "subtitle": "AdSupply. Patented, world-class ad tech. We deliver viewable, high impact ad formats for brands, agencies & publisher...",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964410/catalog/adsupply/icon128x128.png",
+  "website": "https://adsupply.com"
+}

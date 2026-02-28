@@ -1,0 +1,13 @@
+{
+  "id": "ripplematch",
+  "title": "RippleMatch",
+  "subtitle": "Find your dream job with RippleMatch. Sign up for free and get matched with entry-level job and internship opportunit...",
+  "tags": [
+    "job-boards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584144641/catalog/ripplematch/icon128x128.jpg",
+  "website": "https://ripplematch.com/"
+}

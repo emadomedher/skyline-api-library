@@ -1,0 +1,14 @@
+{
+  "id": "blobr-io",
+  "title": "Blobr",
+  "subtitle": "Make your API usable by more people. Create API filters and control usage for users, partners and customers, without ...",
+  "tags": [
+    "api-management",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599064710/icons/blobr-io.jpg",
+  "website": "https://www.blobr.io/"
+}

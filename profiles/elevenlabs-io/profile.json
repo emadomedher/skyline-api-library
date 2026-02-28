@@ -1,0 +1,14 @@
+{
+  "id": "elevenlabs-io",
+  "title": "Eleven Labs",
+  "subtitle": "Eleven Labs API integration",
+  "tags": [
+    "voice-cloning",
+    "text-to-speech"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675123235/icons/elevenlabs-io.jpg",
+  "website": "https://beta.elevenlabs.io/"
+}

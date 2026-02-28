@@ -1,0 +1,13 @@
+{
+  "id": "capillary",
+  "title": "Capillary",
+  "subtitle": "Capillary API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433585/catalog/capillary/icon128x128.png",
+  "website": "https://capillarytech.com"
+}

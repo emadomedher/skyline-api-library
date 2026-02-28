@@ -1,0 +1,14 @@
+{
+  "id": "standuply",
+  "title": "Standuply",
+  "subtitle": "Standuply saves your time by automating standup and other meetings via Slack and provides knowledge insights by conne...",
+  "tags": [
+    "project-management",
+    "remote"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583752298/catalog/standuply/icon128x128.jpg",
+  "website": "https://standuply.com/"
+}

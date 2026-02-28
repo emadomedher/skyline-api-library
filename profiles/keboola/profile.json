@@ -1,0 +1,14 @@
+{
+  "id": "keboola",
+  "title": "Keboola",
+  "subtitle": "Keboola brings people together from Excel to AI with lightning speed.",
+  "tags": [
+    "data-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584381194/catalog/keboola/icon128x128.jpg",
+  "website": "https://www.keboola.com/",
+  "docsUrl": "https://keboola.docs.apiary.io/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "airstory",
+  "title": "Airstory",
+  "subtitle": "Airstory is a drag-and-drop document builder for teams. It uses CopyHackers-approved writing templates and integratio...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304377/catalog/airstory/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "teemyco",
+  "title": "teemyco",
+  "subtitle": "teemyco API integration",
+  "tags": [
+    "virtual-offices",
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599314280/icons/teemyco.jpg",
+  "website": "https://teemyco.com/"
+}

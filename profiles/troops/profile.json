@@ -1,0 +1,13 @@
+{
+  "id": "troops",
+  "title": "Troops",
+  "subtitle": "A Better Way to Sell for Sales Teams that Slack.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438066/catalog/troops/icon128x128.png",
+  "website": "https://troops.ai"
+}

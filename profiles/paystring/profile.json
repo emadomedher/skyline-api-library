@@ -1,0 +1,15 @@
+{
+  "id": "paystring",
+  "title": "PayString",
+  "subtitle": "PayString provides a single ID for anyone needing to send or receive money. Learn about PayString's open-source proto...",
+  "tags": [
+    "web3",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655078839/icons/paystring.png",
+  "website": "https://paystring.org/",
+  "docsUrl": "https://devpost.com/software/temp-project-name-duso2p"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "orderful",
+  "title": "Orderful",
+  "subtitle": "Connect once to Orderful's cloud EDI software and immediately trade with anyone. Increase onboarding speed; resolve i...",
+  "tags": [
+    "cloud-edi-platforms",
+    "edi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589567984/catalog/orderful/icon128x128.jpg",
+  "website": "https://orderful.com/",
+  "docsUrl": "https://docs.orderful.com/docs"
+}

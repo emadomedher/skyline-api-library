@@ -1,0 +1,13 @@
+{
+  "id": "locate2u",
+  "title": "Locate2u",
+  "subtitle": "Streamline customer orders and simplify dispatching and tracking with Locate2u route optimisation and fleet managemen...",
+  "tags": [
+    "delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414393/icons/locate2u.jpg",
+  "website": "https://www.locate2u.com/"
+}

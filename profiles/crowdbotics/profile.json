@@ -1,0 +1,15 @@
+{
+  "id": "crowdbotics",
+  "title": "Crowdbotics",
+  "subtitle": "It's not low-code, it's full code made easy. Build business-ready software, apps, integrations, and more with the Cro...",
+  "tags": [
+    "app-builder",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605266465/icons/crowdbotics.jpg",
+  "website": "https://www.crowdbotics.com/",
+  "docsUrl": "https://crowdbotics.github.io/docs"
+}

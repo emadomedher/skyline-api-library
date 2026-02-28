@@ -1,0 +1,13 @@
+{
+  "id": "mentessa",
+  "title": "Mentessa",
+  "subtitle": "We connect organisations for know-how exchange based on skillls, and promote a culture driven by diversity and collab...",
+  "tags": [
+    "community-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646444350/icons/mentessa.jpg",
+  "website": "https://mentessa.com/"
+}

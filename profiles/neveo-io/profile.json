@@ -1,0 +1,14 @@
+{
+  "id": "neveo-io",
+  "title": "Neveo",
+  "subtitle": "The monthly photo journal for grandparents. You and the other family members upload your photos to the Neveo app and ...",
+  "tags": [
+    "photo-journal",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617014370/icons/neveo-io.jpg",
+  "website": "https://www.neveo.io/"
+}

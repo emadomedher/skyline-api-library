@@ -1,0 +1,13 @@
+{
+  "id": "wolterskluwer-adsolut",
+  "title": "Adsolut",
+  "subtitle": "Adsolut is het meest veelzijdige pakket voor Belgische accountants en ondernemingen. Ontdek onze online oplossingen.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1666698511/icons/wolterskluwer-adsolut.jpg",
+  "website": "https://www.wolterskluwer.com/nl-be/know/adsolut"
+}

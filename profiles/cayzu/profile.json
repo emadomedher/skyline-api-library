@@ -1,0 +1,13 @@
+{
+  "id": "cayzu",
+  "title": "Cayzu",
+  "subtitle": "Cayzu is a cloud based help desk solution that will allow you to wow your customers with world-class support. Feature...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304581/catalog/cayzu/icon128x128.png",
+  "website": "https://cayzu.com"
+}

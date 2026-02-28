@@ -1,0 +1,15 @@
+{
+  "id": "teamtailor",
+  "title": "Teamtailor",
+  "subtitle": "The Recruitment & Marketing Platform. The new way to attract, manage and hire top talent. Grow faster by focusing on ...",
+  "tags": [
+    "recruitment",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582914357/catalog/teamtailor/icon128x128.jpg",
+  "website": "https://www.teamtailor.com/",
+  "docsUrl": "https://docs.teamtailor.com/"
+}

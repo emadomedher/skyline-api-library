@@ -1,0 +1,14 @@
+{
+  "id": "graphql-hive",
+  "title": "GraphQL Hive",
+  "subtitle": "An open-source registry of schemas with many additional features to enhance your day-to-day work with GraphQL",
+  "tags": [
+    "graphql-schema-registry"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621550860/icons/graphql-hive.jpg",
+  "website": "https://graphql-hive.com/",
+  "docsUrl": "https://www.graphql-tools.com/docs/api/interfaces/stitch_src.validationsettings"
+}

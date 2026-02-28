@@ -1,0 +1,13 @@
+{
+  "id": "genesis-digital",
+  "title": "Genesis Digital",
+  "subtitle": "Genesis Digital API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434752/catalog/genesis-digital/icon128x128.png",
+  "website": "https://genesisdigital.co"
+}

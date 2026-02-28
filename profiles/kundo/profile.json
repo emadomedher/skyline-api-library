@@ -1,0 +1,13 @@
+{
+  "id": "kundo",
+  "title": "Kundo",
+  "subtitle": "Moderna och användarvänliga verktyg för kundservice online. Välj bland smarta funktioner för Chatt, Mail, Forum, FAQ ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946873/catalog/kundo/icon128x128.jpg",
+  "website": "https://kundo.se"
+}

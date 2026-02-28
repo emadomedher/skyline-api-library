@@ -1,0 +1,12 @@
+{
+  "id": "jitbit-helpdesk",
+  "title": "Jitbit Helpdesk",
+  "subtitle": "A great help desk app for small and medium sized companies. It has all the features you may need, while staying easy ...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305208/catalog/jitbit-helpdesk/icon128x128.png"
+}

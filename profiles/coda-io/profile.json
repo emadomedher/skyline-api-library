@@ -1,0 +1,14 @@
+{
+  "id": "coda-io",
+  "title": "Coda",
+  "subtitle": "Coda is a new doc that grows with your ideas. We built it so the next generation of makers can build docs as powerful...",
+  "tags": [
+    "documents",
+    "spreadsheets"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566502912/catalog/coda-io/icon128x128.png",
+  "website": "https://coda.io/"
+}

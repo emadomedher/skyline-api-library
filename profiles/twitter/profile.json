@@ -1,0 +1,17 @@
+{
+  "id": "twitter",
+  "title": "Twitter",
+  "subtitle": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+  "tags": [
+    "social-media",
+    "social-network",
+    "social-media-platforms"
+  ],
+  "category": "Social Media",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455932/catalog/twitter/icon128x128.png",
+  "specUrl": "https://api.twitter.com/2/openapi.json",
+  "website": "https://twitter.com/",
+  "docsUrl": "https://developer.twitter.com/"
+}

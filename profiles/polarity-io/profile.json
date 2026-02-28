@@ -1,0 +1,13 @@
+{
+  "id": "polarity-io",
+  "title": "Polarity",
+  "subtitle": "Polarity augments your team’s memory by displaying data relevant to your work via on-screen overlays",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565647338/catalog/polarity-io/icon128x128.jpg",
+  "website": "https://polarity.io/"
+}

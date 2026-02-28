@@ -1,0 +1,15 @@
+{
+  "id": "fhir",
+  "title": "FHIR",
+  "subtitle": "FHIR API integration",
+  "tags": [
+    "healthcare",
+    "specifications"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616783766/icons/fhir.jpg",
+  "website": "https://www.hl7.org/fhir/",
+  "docsUrl": "https://www.hl7.org/fhir/documentation.html"
+}

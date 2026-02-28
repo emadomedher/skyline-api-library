@@ -1,0 +1,13 @@
+{
+  "id": "dotmailer",
+  "title": "dotmailer",
+  "subtitle": "dotmailer is an email marketing platform that enables you to design, test and send powerful automated campaigns.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304804/catalog/dotmailer/icon128x128.png",
+  "website": "https://dotmailer.com"
+}

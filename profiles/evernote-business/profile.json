@@ -1,0 +1,14 @@
+{
+  "id": "evernote-business",
+  "title": "Evernote Business",
+  "subtitle": "Evernote Business supports office productivity by collecting, organizing & sharing information across teams. Learn mo...",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055874/catalog/evernote-business/icon128x128.png",
+  "website": "https://evernote.com/business/",
+  "docsUrl": "https://support.google.com/googleplay/android-developer/answer/6048248"
+}

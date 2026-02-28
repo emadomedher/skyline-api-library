@@ -1,0 +1,14 @@
+{
+  "id": "intrinio",
+  "title": "Intrinio",
+  "subtitle": "The Intrinio API serves Realtime and Historical Stock Price Quotes, Company Financials and more with 200+ Financial D...",
+  "tags": [
+    "financial-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573957580/catalog/intrinio/icon128x128.jpg",
+  "website": "https://intrinio.com/",
+  "docsUrl": "https://intrinio.com/#"
+}

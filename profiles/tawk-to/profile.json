@@ -1,0 +1,13 @@
+{
+  "id": "tawk-to",
+  "title": "tawk.to",
+  "subtitle": "tawk.to is a free live chat app that lets you monitor and chat with visitors on your website or from a free customiza...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1549978229/catalog/tawk-to/icon128x128.jpg",
+  "website": "https://www.tawk.to/"
+}

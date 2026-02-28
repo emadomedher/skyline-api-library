@@ -1,0 +1,14 @@
+{
+  "id": "moonlight-io",
+  "title": "Moonlight.io",
+  "subtitle": "Moonlight is a decentralized workforce and project management platform anchored on the NEO blockchain.",
+  "tags": [
+    "project-management",
+    "dapps"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597787928/icons/moonlight-io.png",
+  "website": "https://moonlight.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "beobank-be",
+  "title": "Beobank",
+  "subtitle": "Bij ons bent u goed omringd. Wij helpen u in uw keuzes van financiële producten die u helpen uw plannen te realiseren.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563414794/catalog/beobank-be/icon128x128.png",
+  "website": "https://beobank.be"
+}

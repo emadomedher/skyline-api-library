@@ -1,0 +1,15 @@
+{
+  "id": "juspay-in",
+  "title": "Juspay",
+  "subtitle": "JUSPAY | Revolutionizing digital payments in India.",
+  "tags": [
+    "payment-routing",
+    "payments-infrastructure"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017786/icons/juspay-in.png",
+  "website": "https://juspay.in/",
+  "docsUrl": "https://developer.juspay.in/reference#introduction-1"
+}

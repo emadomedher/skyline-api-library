@@ -1,0 +1,13 @@
+{
+  "id": "instant-magazine",
+  "title": "Instant Magazine",
+  "subtitle": "Quickly create jaw-dropping communication assets your audience won’t easily forget. Make it interactive, measurable, ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826640/catalog/instant-magazine/icon128x128.png",
+  "website": "https://instantmagazine.com"
+}

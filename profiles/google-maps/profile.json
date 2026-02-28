@@ -1,0 +1,14 @@
+{
+  "id": "google-maps",
+  "title": "Google Maps",
+  "subtitle": "Google Maps is a web mapping service developed by Google. It offers satellite imagery, aerial photography, street map...",
+  "tags": [
+    "maps"
+  ],
+  "category": "Maps & Geolocation",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557455841/catalog/google-maps/icon128x128.jpg",
+  "website": "https://google.com/maps",
+  "docsUrl": "https://cloud.google.com/maps-platform/"
+}

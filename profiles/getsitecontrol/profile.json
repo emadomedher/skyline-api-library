@@ -1,0 +1,13 @@
+{
+  "id": "getsitecontrol",
+  "title": "GetSiteControl",
+  "subtitle": "GetSiteControl forms and popups help you prevent website visitors from leaving without taking action. Use it to build...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305011/catalog/getsitecontrol/icon128x128.png",
+  "website": "https://getsitecontrol.com/"
+}

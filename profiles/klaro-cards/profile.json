@@ -1,0 +1,14 @@
+{
+  "id": "klaro-cards",
+  "title": "Klaro app",
+  "subtitle": "Klaro is a web application to collect and process information, visualize project status, and make better decisions. K...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741005/icons/klaro-cards.jpg",
+  "website": "https://www.klaro.cards/",
+  "docsUrl": "https://faq.klaro.cards/boards/legal#markdown-reference-emphasis"
+}

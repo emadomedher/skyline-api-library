@@ -1,0 +1,14 @@
+{
+  "id": "webpush",
+  "title": "Webpush",
+  "subtitle": "The Webpush proposal of the Internet Engineering Task Force is a simple protocol using HTTP version 2 to deliver real...",
+  "tags": [
+    "notificatons",
+    "messaging",
+    "push-notification"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592595074/icons/webpush.png"
+}

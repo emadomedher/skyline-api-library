@@ -1,0 +1,13 @@
+{
+  "id": "linkedfusion-io",
+  "title": "LinkedFusion",
+  "subtitle": "Safest LinkedIn automation tool that helps B2B companies, agencies, and sales teams to find new customers using the p...",
+  "tags": [
+    "linkedin-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629487065/icons/linkedfusion-io.jpg",
+  "website": "https://www.linkedfusion.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sdp-biz",
+  "title": "SDP Belgium",
+  "subtitle": "SDP is een Belgisch IT-bedrijf en is al meer dan 30 jaar een belangrijke speler op de hardware en software developmen...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567090231/catalog/sdp-biz/icon128x128.png",
+  "website": "https://sdp.biz"
+}

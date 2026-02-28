@@ -1,0 +1,13 @@
+{
+  "id": "hashnode",
+  "title": "Hashnode",
+  "subtitle": "Hashnode is a free developer blogging platform that allows you to publish articles on your own domain and helps you s...",
+  "tags": [
+    "blogging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615632973/icons/hashnode.jpg",
+  "website": "https://hashnode.com/"
+}

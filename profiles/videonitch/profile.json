@@ -1,0 +1,13 @@
+{
+  "id": "videonitch",
+  "title": "Videonitch",
+  "subtitle": "Video Channel Platform for Learning Management",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593727037/icons/videonitch.png",
+  "website": "http://videonitch.com/"
+}

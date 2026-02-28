@@ -1,0 +1,13 @@
+{
+  "id": "adtile-technologies",
+  "title": "Adtile Technologies",
+  "subtitle": "All-new mobile ad experience for a world on the move",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432861/catalog/adtile-technologies/icon128x128.png",
+  "website": "https://adtile.me"
+}

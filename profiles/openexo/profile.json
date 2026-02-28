@@ -1,0 +1,15 @@
+{
+  "id": "openexo",
+  "title": "OpenExO",
+  "subtitle": "OpenExO is a Global Transformation Ecosystem helping organizations, \ninstitutions and people to transform and unlock ...",
+  "tags": [
+    "communities",
+    "innovation",
+    "professional-networks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595549643/icons/openexo.jpg",
+  "website": "https://www.openexo.com/"
+}

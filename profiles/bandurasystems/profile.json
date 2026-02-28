@@ -1,0 +1,13 @@
+{
+  "id": "bandurasystems",
+  "title": "Bandura Cyber",
+  "subtitle": "Bandura Cyber's vision is to make threat intelligence for all companies of all sizes in an easy, open, automated, and...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249023/icons/bandurasystems.png",
+  "website": "https://bandurasystems.com"
+}

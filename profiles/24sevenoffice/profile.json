@@ -1,0 +1,13 @@
+{
+  "id": "24sevenoffice",
+  "title": "24SevenOffice US",
+  "subtitle": "24SevenOffice US API integration",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597014508/icons/24sevenoffice.jpg",
+  "website": "https://24sevenoffice.com/"
+}

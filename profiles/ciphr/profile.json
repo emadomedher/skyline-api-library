@@ -1,0 +1,15 @@
+{
+  "id": "ciphr",
+  "title": "CIPHR",
+  "subtitle": "CIPHR's cloud-based HR software and HR systems help organisations stay connected and reduce admin, even when operatin...",
+  "tags": [
+    "hr",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618977966/icons/ciphr.png",
+  "website": "https://www.ciphr.com/",
+  "docsUrl": "https://www.ciphr.com/apprenticeships#tab-8fee93270dcf333591f"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "copper",
+  "title": "Copper",
+  "subtitle": "When you need CRM software that works with G Suite, you need Copper. Give us a try and see how we can help your busin...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538972/catalog/copper/icon128x128.png",
+  "website": "https://www.copper.com/",
+  "docsUrl": "https://developer.copper.com"
+}

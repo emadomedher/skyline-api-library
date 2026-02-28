@@ -1,0 +1,13 @@
+{
+  "id": "yardi",
+  "title": "Yardi",
+  "subtitle": "Join thousands of businesses worldwide that choose Yardi property management software and services to optimize every ...",
+  "tags": [
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975821/icons/yardi.jpg",
+  "website": "https://www.yardi.com/"
+}

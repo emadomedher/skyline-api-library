@@ -1,0 +1,13 @@
+{
+  "id": "pixelme-me",
+  "title": "PixelMe",
+  "subtitle": "PixelMe’s acquisition tools let you measure your attribution across channels, track ROI, and get a clear view of all ...",
+  "tags": [
+    "attribution"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573574969/catalog/pixelme-me/icon128x128.jpg",
+  "website": "https://pixelme.me/"
+}

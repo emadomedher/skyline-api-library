@@ -1,0 +1,13 @@
+{
+  "id": "super-simple-survey",
+  "title": "Super Simple Survey",
+  "subtitle": "SuperSimpleSurvey is a online survey creator, trusted by 6000+ awesome people worldwide. All features are available o...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722386/catalog/super-simple-survey/icon128x128.jpg",
+  "website": "https://supersimplesurvey.com"
+}

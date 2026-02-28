@@ -1,0 +1,14 @@
+{
+  "id": "paynovate",
+  "title": "Paynovate",
+  "subtitle": "We are a fully licensed Belgian e-money institution that provides digital payment solutions for B2B businesses across...",
+  "tags": [
+    "prepaid-cards",
+    "payment-terminals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611781392/icons/paynovate.png",
+  "website": "https://www.paynovate.com/"
+}

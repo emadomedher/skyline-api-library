@@ -1,0 +1,14 @@
+{
+  "id": "untapped-io",
+  "title": "Untapped",
+  "subtitle": "Untapped is a recruiting platform used by top tech companies to find top candidates. Apply in one click to 40,000+ te...",
+  "tags": [
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421309/icons/untapped-io.jpg",
+  "website": "https://www.untapped.io/",
+  "docsUrl": "https://docs.google.com/document/d/1hwymsjdbowv7w9jgc8efitsdf0dh8qzoe80dil9rzo8/edit#heading=h.flfe7b1mwu95"
+}

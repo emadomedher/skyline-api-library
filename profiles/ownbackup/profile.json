@@ -1,0 +1,14 @@
+{
+  "id": "ownbackup",
+  "title": "OwnBackup",
+  "subtitle": "OwnBackup proactively prevents you from losing mission-critical data and metadata with automated backups and rapid, s...",
+  "tags": [
+    "data-recovery",
+    "backup"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660376/icons/ownbackup.jpg",
+  "website": "https://www.ownbackup.com/"
+}

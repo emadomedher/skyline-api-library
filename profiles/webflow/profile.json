@@ -1,0 +1,14 @@
+{
+  "id": "webflow",
+  "title": "Webflow",
+  "subtitle": "Build responsive websites in your browser, then launch with our world-class hosting or export your code. Discover the...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477892/catalog/webflow/icon128x128.png",
+  "website": "https://webflow.com/",
+  "docsUrl": "https://webflow.com/solutions/marketing-teams"
+}

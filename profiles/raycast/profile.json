@@ -1,0 +1,14 @@
+{
+  "id": "raycast",
+  "title": "Raycast",
+  "subtitle": "Raycast lets you control your tools with a few keystrokes. It’s designed to keep you focused.",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015077/icons/raycast.jpg",
+  "website": "https://raycast.com/",
+  "docsUrl": "https://raycast.com/developer-program"
+}

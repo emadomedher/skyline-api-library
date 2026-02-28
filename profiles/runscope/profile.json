@@ -1,0 +1,12 @@
+{
+  "id": "runscope",
+  "title": "Runscope",
+  "subtitle": "API debugging and testing tools for app developers.",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305923/catalog/runscope/icon128x128.png"
+}

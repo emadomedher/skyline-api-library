@@ -1,0 +1,13 @@
+{
+  "id": "you-need-a-budget",
+  "title": "You Need A Budget",
+  "subtitle": "You Need A Budget is a tool to help you gain total control of your money, living paycheck to paycheck, get out of deb...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830049/catalog/you-need-a-budget/icon128x128.jpg",
+  "website": "https://youneedabudget.com"
+}

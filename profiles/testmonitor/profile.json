@@ -1,0 +1,12 @@
+{
+  "id": "testmonitor",
+  "title": "TestMonitor",
+  "subtitle": "TestMonitor is a test management application that allows you to design, plan, and run user acceptance tests.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306307/catalog/testmonitor/icon128x128.png"
+}

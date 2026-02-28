@@ -1,0 +1,15 @@
+{
+  "id": "amezmo",
+  "title": "Amezmo",
+  "subtitle": "Modern PHP app hosting designed exclusively for full-stack PHP developers that build dynamic PHP applications.",
+  "tags": [
+    "hosting",
+    "php"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592519789/icons/amezmo.png",
+  "website": "https://www.amezmo.com/",
+  "docsUrl": "https://www.amezmo.com/managed-mysql-databases-for-php-developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "salesforce1",
+  "title": "Salesforce1",
+  "subtitle": "In today's sales environment, speed matters. With the Salesforce mobile app, close sales at lightning speeds, where e...",
+  "tags": [
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600227760/icons/salesforce1.png",
+  "website": "https://www.salesforce.com/eu/solutions/mobile/overview/",
+  "docsUrl": "https://help.salesforce.com/articleview?id=salesforce_help_map.htm&type=5"
+}

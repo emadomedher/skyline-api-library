@@ -1,0 +1,14 @@
+{
+  "id": "fondy-eu",
+  "title": "Fondy",
+  "subtitle": "Accept payments online in Europe. Payment Gateway FONDY is an online merchant service provider that helps you accept ...",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579130299/catalog/fondy-eu/icon128x128.png",
+  "website": "https://fondy.eu/",
+  "docsUrl": "https://docs.fondy.eu"
+}

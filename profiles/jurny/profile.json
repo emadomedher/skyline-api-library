@@ -1,0 +1,13 @@
+{
+  "id": "jurny",
+  "title": "Jurny",
+  "subtitle": "Jurny is a hospitality tech company powering operations and modern guest experiences. Find out more about Jurny vacat...",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679141789/icons/jurny.png",
+  "website": "https://www.jurny.com/"
+}

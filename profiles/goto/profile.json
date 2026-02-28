@@ -1,0 +1,13 @@
+{
+  "id": "goto",
+  "title": "GoTo.com",
+  "subtitle": "Enjoy a unified communication and collaboration experience with the GoTo suite of products. We've brought the best to...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574956591/catalog/goto/icon128x128.jpg",
+  "website": "https://www.goto.com/"
+}

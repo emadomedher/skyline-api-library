@@ -1,0 +1,14 @@
+{
+  "id": "ratecard",
+  "title": "Ratecard",
+  "subtitle": "Collect feedback, manage your reputation and publish reviews via search engines and social media. We integrate with y...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284587/catalog/ratecard/icon128x128.png",
+  "website": "https://ratecard.io/",
+  "docsUrl": "https://ratecard.io/developers"
+}

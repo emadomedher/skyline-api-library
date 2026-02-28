@@ -1,0 +1,14 @@
+{
+  "id": "retain-ai",
+  "title": "Retain.ai",
+  "subtitle": "Time is your most valuable asset. Retain it.",
+  "tags": [
+    "customer-engagement",
+    "customer-data"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941449/icons/retain-ai.jpg",
+  "website": "https://retain.ai/"
+}

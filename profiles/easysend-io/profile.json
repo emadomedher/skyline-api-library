@@ -1,0 +1,14 @@
+{
+  "id": "easysend-io",
+  "title": "EasySend",
+  "subtitle": "Turn paperwork into a digital experience. Gather data, optimize and drive revenue growth with compliant eForms that l...",
+  "tags": [
+    "insurance",
+    "no-code"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600859093/icons/easysend-io.png",
+  "website": "http://easysend.io/"
+}

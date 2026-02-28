@@ -1,0 +1,14 @@
+{
+  "id": "bombora",
+  "title": "Bombora",
+  "subtitle": "Bombora is the leading provider of B2B intent data, showing B2B marketing and sales teams when their customers are re...",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433369/catalog/bombora/icon128x128.png",
+  "website": "https://bombora.com",
+  "docsUrl": "https://developers.facebook.com/docs/marketing-api/reference/custom-audience"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "marketing-miner",
+  "title": "Marketing Miner",
+  "subtitle": "Marketing Miner is an SEO tool for data-driven marketers. Gain valuable keyword data and skyrocket your website ranki...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435761/catalog/marketing-miner/icon128x128.png",
+  "website": "https://marketingminer.com",
+  "docsUrl": "https://help.marketingminer.com/en/article/projects-api/"
+}

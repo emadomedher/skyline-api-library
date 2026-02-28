@@ -1,0 +1,13 @@
+{
+  "id": "adpushup",
+  "title": "Adpushup",
+  "subtitle": "We combine cutting-edge technology, strong industry partnerships, and superior service to help hundreds of publishers...",
+  "tags": [
+    "optimization-personalization-and-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947310/catalog/adpushup/icon128x128.png",
+  "website": "https://adpushup.com"
+}

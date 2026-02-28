@@ -1,0 +1,13 @@
+{
+  "id": "social-media-market",
+  "title": "Social Media Market",
+  "subtitle": "The first decentralized platform connecting social media influencers and advertisers.",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722181/catalog/social-media-market/icon128x128.jpg",
+  "website": "https://socialmedia.market"
+}

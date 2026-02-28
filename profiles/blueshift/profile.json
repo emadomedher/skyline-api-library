@@ -1,0 +1,14 @@
+{
+  "id": "blueshift",
+  "title": "BlueShift",
+  "subtitle": "Blueshift is the only Customer Data Platform (CDP) that combines customer data, AI and multi-channel activation in a ...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439148/catalog/blueshift/icon128x128.svg",
+  "website": "https://blueshift.com",
+  "docsUrl": "https://rfpguide.blueshift.com/docs"
+}

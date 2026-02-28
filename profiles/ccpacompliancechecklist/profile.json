@@ -1,0 +1,14 @@
+{
+  "id": "ccpacompliancechecklist",
+  "title": "CCPA Compliance Checklist",
+  "subtitle": "Achieving CCPA Compliance shouldn't feel like a struggle. This is a basic checklist you can use to harden your CCPA c...",
+  "tags": [
+    "ccpa",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578001738/catalog/ccpacompliancechecklist/icon128x128.png",
+  "website": "https://ccpacompliancechecklist.com/"
+}

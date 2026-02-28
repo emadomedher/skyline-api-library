@@ -1,0 +1,13 @@
+{
+  "id": "ubico-io",
+  "title": "Ubico",
+  "subtitle": "Ubico helps you automate all the mundane data collection and data entry tasks that goes into lead engagement.",
+  "tags": [
+    "sales-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573495670/catalog/ubico-io/icon128x128.png",
+  "website": "https://www.ubico.io/"
+}

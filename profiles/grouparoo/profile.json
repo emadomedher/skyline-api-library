@@ -1,0 +1,15 @@
+{
+  "id": "grouparoo",
+  "title": "Grouparoo",
+  "subtitle": "Grouparoo is an open source framework that helps you move data between your data warehouse and all of your cloud-base...",
+  "tags": [
+    "data-integration",
+    "open-source"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885649/icons/grouparoo.jpg",
+  "website": "https://www.grouparoo.com/",
+  "docsUrl": "https://www.grouparoo.com/docs"
+}

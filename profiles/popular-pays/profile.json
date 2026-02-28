@@ -1,0 +1,13 @@
+{
+  "id": "popular-pays",
+  "title": "Popular Pays",
+  "subtitle": "Popular Pays API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436559/catalog/popular-pays/icon128x128.png",
+  "website": "https://popularpays.com"
+}

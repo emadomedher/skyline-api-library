@@ -1,0 +1,14 @@
+{
+  "id": "eigentech",
+  "title": "Eigen Technologies",
+  "subtitle": "Eigen Technologies is a natural language processing (NLP) company helping you unlock your data. Make better decisions...",
+  "tags": [
+    "legal",
+    "documents"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594129815/icons/eigentech.jpg",
+  "website": "https://eigentech.com/"
+}

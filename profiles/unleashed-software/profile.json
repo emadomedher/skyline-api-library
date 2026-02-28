@@ -1,0 +1,13 @@
+{
+  "id": "unleashed-software",
+  "title": "Unleashed Software",
+  "subtitle": "UnleashedSoftware is a world class online inventory management software for small, medium and large business which in...",
+  "tags": [
+    "management-tools",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056533/catalog/unleashed-software/icon128x128.png"
+}

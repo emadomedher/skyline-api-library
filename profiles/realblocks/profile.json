@@ -1,0 +1,14 @@
+{
+  "id": "realblocks",
+  "title": "RealBlocks",
+  "subtitle": "RealBlocks is a modern investment network that opens new opportunities for financial intermediaries, alternative inve...",
+  "tags": [
+    "investment",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604326890/icons/realblocks.jpg",
+  "website": "https://www.realblocks.com/"
+}

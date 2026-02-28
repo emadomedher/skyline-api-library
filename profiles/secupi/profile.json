@@ -1,0 +1,13 @@
+{
+  "id": "secupi",
+  "title": "SecuPi",
+  "subtitle": "SecuPi API integration",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946635/catalog/secupi/icon128x128.jpg",
+  "website": "https://secupi.com"
+}

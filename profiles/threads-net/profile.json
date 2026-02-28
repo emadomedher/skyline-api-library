@@ -1,0 +1,13 @@
+{
+  "id": "threads-net",
+  "title": "Threads",
+  "subtitle": "Say more with Threads – Instagram's new text app.",
+  "tags": [
+    "social-media"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1689100674/icons/threads-net.png",
+  "website": "https://www.threads.net/"
+}

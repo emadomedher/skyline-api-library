@@ -1,0 +1,16 @@
+{
+  "id": "status-hero",
+  "title": "Status Hero",
+  "subtitle": "Status Hero is a lightweight app for tracking daily goals, activity logs from your tools, and status updates from you...",
+  "tags": [
+    "project-management",
+    "productivity",
+    "reporting"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284621/catalog/status-hero/icon128x128.png",
+  "website": "https://statushero.com/",
+  "docsUrl": "https://statushero.com/api"
+}

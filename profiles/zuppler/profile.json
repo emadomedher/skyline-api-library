@@ -1,0 +1,14 @@
+{
+  "id": "zuppler",
+  "title": "Zuppler",
+  "subtitle": "Zuppler is a complete and branded online ordering solution for restaurants \nand caterers with multi-locations. Our me...",
+  "tags": [
+    "online-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609291875/icons/zuppler.jpg",
+  "website": "https://www.zuppler.com/",
+  "docsUrl": "http://developer.zuppler.com/#introduction"
+}

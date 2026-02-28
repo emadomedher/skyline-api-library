@@ -1,0 +1,13 @@
+{
+  "id": "retently",
+  "title": "Retently",
+  "subtitle": "Send NPS, CSAT & CES surveys to your clients and start gathering, analyzing, and acting on the received customer feed...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305878/catalog/retently/icon128x128.png",
+  "website": "https://retently.com"
+}

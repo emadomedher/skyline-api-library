@@ -1,0 +1,13 @@
+{
+  "id": "tugboatlogic",
+  "title": "Tugboat Logic",
+  "subtitle": "Our Virtual CISO demystifies and automates security certifications (SOC 2, ISO27001), security questionnaire response...",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578381341/catalog/tugboatlogic/icon128x128.jpg",
+  "website": "https://tugboatlogic.com/"
+}

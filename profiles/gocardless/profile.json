@@ -1,0 +1,14 @@
+{
+  "id": "gocardless",
+  "title": "GoCardless",
+  "subtitle": "GoCardless is the easy way to collect Direct Debit. Already serving more than 50,000 businesses, perfect for recurrin...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1549976189/catalog/gocardless/icon128x128.jpg",
+  "website": "https://gocardless.com/",
+  "docsUrl": "https://gocardless.com/developers"
+}

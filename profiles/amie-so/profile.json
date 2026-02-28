@@ -1,0 +1,13 @@
+{
+  "id": "amie-so",
+  "title": "coco",
+  "subtitle": "The joyful productivity app. We combine your to-dos and calendar. In a surprisingly obvious way.",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590556/icons/amie-so.jpg",
+  "website": "https://amie.so/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "serenova",
+  "title": "Serenova",
+  "subtitle": "We’ll help you plan every step of your migration to the cloud with a proven, risk-free deployment designed for your s...",
+  "tags": [
+    "call-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603729844/icons/serenova.jpg",
+  "website": "https://www.serenova.com/"
+}

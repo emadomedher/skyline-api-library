@@ -1,0 +1,16 @@
+{
+  "id": "nocodb",
+  "title": "NocoDB ",
+  "subtitle": "Free & Open Source Airtable alternative. Turns any SQL database into a smart spreadsheet. Supports MySQL, Postgres, S...",
+  "tags": [
+    "spreadsheets",
+    "no-code",
+    "open-source"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627767077/icons/nocodb.jpg",
+  "website": "https://nocodb.com/",
+  "docsUrl": "https://docs.nocodb.com"
+}

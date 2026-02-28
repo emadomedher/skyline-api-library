@@ -1,0 +1,13 @@
+{
+  "id": "dragapp",
+  "title": "DragApp",
+  "subtitle": "Turn Gmail into an all-in-one, team workspace. Use Drag's Shared Inbox as a Help Desk, CRM or to Manage Tasks. It's e...",
+  "tags": [
+    "task-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585679797/catalog/dragapp/icon128x128.jpg",
+  "website": "https://www.dragapp.com/"
+}

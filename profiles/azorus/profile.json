@@ -1,0 +1,13 @@
+{
+  "id": "azorus",
+  "title": "Azorus",
+  "subtitle": "Azorus is a CRM solutions firm catering exclusively to the higher education market. With the right combination of tec...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719240/catalog/azorus/icon128x128.png",
+  "website": "https://azorus.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zip-co",
+  "title": "Zip",
+  "subtitle": "Buy now, pay later at your favourite shops with Zip. Enjoy interest free payments, when you shop at over 19,000 shops...",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611409047/icons/zip-co.jpg",
+  "website": "https://zip.co/",
+  "docsUrl": "https://resources.zip.co/1/integration/api-documentation"
+}

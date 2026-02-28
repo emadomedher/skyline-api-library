@@ -1,0 +1,16 @@
+{
+  "id": "covalenthq",
+  "title": "Covalent",
+  "subtitle": "Covalent provides a unified API bringing visibility to billions of blockchain data points.",
+  "tags": [
+    "unified-apis",
+    "web3",
+    "blockchain-api"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634778388/icons/covalenthq.jpg",
+  "website": "https://www.covalenthq.com/",
+  "docsUrl": "https://www.covalenthq.com/docs/api/#overview"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "offset-earth",
+  "title": "Offset Earth",
+  "subtitle": "Offset Earth is a subscription service to help you lower your impact on the climate",
+  "tags": [
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575238888/catalog/offset-earth/icon128x128.png",
+  "website": "https://offset.earth/"
+}

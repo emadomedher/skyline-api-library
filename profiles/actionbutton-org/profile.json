@@ -1,0 +1,14 @@
+{
+  "id": "actionbutton-org",
+  "title": "Action Button",
+  "subtitle": "Action Button empowers readers to impact the news by contacting reps., volunteering, donating to nonprofits, signing ...",
+  "tags": [
+    "surveys",
+    "social-responsibility"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578572305/catalog/actionbutton-org/icon128x128.jpg",
+  "website": "https://actionbutton.org/"
+}

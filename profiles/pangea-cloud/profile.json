@@ -1,0 +1,15 @@
+{
+  "id": "pangea-cloud",
+  "title": "Pangea",
+  "subtitle": "Pangea is an API-first cybersecurity platform that accelerates delivery of cloud applications | Simple, secure and co...",
+  "tags": [
+    "security",
+    "data-security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915268/icons/pangea-cloud.png",
+  "website": "https://pangea.cloud/",
+  "docsUrl": "https://pangea.cloud/docs/blog"
+}

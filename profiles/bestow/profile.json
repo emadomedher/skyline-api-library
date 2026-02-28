@@ -1,0 +1,15 @@
+{
+  "id": "bestow",
+  "title": "Bestow",
+  "subtitle": "Bestow uses data to remove doctor visits and paper work of traditional life insurance, offering you an affordable pla...",
+  "tags": [
+    "life-insurance",
+    "non-software",
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605094233/icons/bestow.jpg",
+  "website": "https://www.bestow.com/"
+}

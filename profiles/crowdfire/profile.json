@@ -1,0 +1,13 @@
+{
+  "id": "crowdfire",
+  "title": "Crowdfire",
+  "subtitle": "Millions of Creators - YouTubers, bloggers, artists, sellers, freelancers, small businesses, use Crowdfire to go big ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719658/catalog/crowdfire/icon128x128.jpg",
+  "website": "https://crowdfireapp.com"
+}

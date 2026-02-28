@@ -1,0 +1,13 @@
+{
+  "id": "wigroupinternational",
+  "title": "wiGroup",
+  "subtitle": " Our Mobile Technology, Software-as-a-Service & Mobile Rewards software enable businesses to offer consumers transact...",
+  "tags": [
+    "mobile-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612736037/icons/wigroupinternational.jpg",
+  "website": "https://www.wigroupinternational.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fastfield",
+  "title": "FastField Mobile Forms",
+  "subtitle": "FastField Mobile Forms is a flexible platform to efficiently capture custom form data using smartphones and tablets.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284516/catalog/fastfield/icon128x128.png",
+  "website": "https://zapier.com/apps/fastfield/integrations"
+}

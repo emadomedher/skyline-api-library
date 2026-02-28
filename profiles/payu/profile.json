@@ -1,0 +1,13 @@
+{
+  "id": "payu",
+  "title": "PayU",
+  "subtitle": "PayU enables local and cross-border payments and innovative financial services across 50+ emerging markets.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599235550/icons/payu.jpg",
+  "website": "https://corporate.payu.com/"
+}

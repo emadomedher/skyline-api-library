@@ -1,0 +1,13 @@
+{
+  "id": "pearson",
+  "title": "Pearson",
+  "subtitle": "Shop our online store for online courses, eTexts, textbooks, learning platforms, rental books and so much more. ",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082052/icons/pearson.png",
+  "website": "https://www.pearson.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "neople-io",
+  "title": "Neople",
+  "subtitle": "Every employee deserves an assistant. Meet the Neople, and increase your productivity simply by starting a conversati...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687452009/icons/neople-io.png",
+  "website": "https://neople.io/"
+}

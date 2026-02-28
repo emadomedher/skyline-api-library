@@ -1,0 +1,14 @@
+{
+  "id": "makelog",
+  "title": "Makelog",
+  "subtitle": "The continuous communication platform for fast-shipping software teams to share what they ship. Streamline updates fr...",
+  "tags": [
+    "changelog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675071165/icons/makelog.jpg",
+  "website": "https://www.makelog.com/",
+  "docsUrl": "https://makelog.gitbook.io/makelog"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "okta",
+  "title": "Okta",
+  "subtitle": "Okta helps companies manage and secure user authentication into modern applications, and for developers to build iden...",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547833779/catalog/okta/icon128x128.png",
+  "website": "https://www.okta.com/"
+}

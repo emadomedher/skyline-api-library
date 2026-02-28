@@ -1,0 +1,14 @@
+{
+  "id": "brave",
+  "title": "Brave Software",
+  "subtitle": "Welcome to the new Brave browser. Experience a faster, more private and secure browser for PC, Mac and iOS and Androi...",
+  "tags": [
+    "browsers",
+    "privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573332088/catalog/brave/icon128x128.jpg",
+  "website": "https://brave.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "send-social-media",
+  "title": "Send Social Media",
+  "subtitle": "Send Social Media is a social media dashboard designed to help businesses in enhancing their social media presence on...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946625/catalog/send-social-media/icon128x128.jpg",
+  "website": "https://sendsocialmedia.com"
+}

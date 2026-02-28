@@ -1,0 +1,15 @@
+{
+  "id": "flutterwave",
+  "title": "Flutterwave",
+  "subtitle": "With our new, integrated platform for both large and small scaled businesses, learn about our online payment technolo...",
+  "tags": [
+    "payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567469722/catalog/flutterwave/icon128x128.jpg",
+  "website": "https://flutterwave.com/",
+  "docsUrl": "https://flutterwave.com/int/developers"
+}

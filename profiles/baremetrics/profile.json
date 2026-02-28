@@ -1,0 +1,15 @@
+{
+  "id": "baremetrics",
+  "title": "Baremetrics",
+  "subtitle": "Baremetrics is Subscription Analytics and Insights: One click and you get hundreds of valuable metrics and business i...",
+  "tags": [
+    "dashboards",
+    "subscription-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284451/catalog/baremetrics/icon128x128.png",
+  "website": "https://baremetrics.com",
+  "docsUrl": "https://developers.baremetrics.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "recapped-io",
+  "title": "Recapped",
+  "subtitle": "Recapped is #1 platform for sales teams to collaborate with clients, create accountability, and seamlessly onboard cl...",
+  "tags": [
+    "notes",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570563771/catalog/recapped-io/icon128x128.jpg",
+  "website": "https://www.recapped.io"
+}

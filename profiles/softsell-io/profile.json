@@ -1,0 +1,13 @@
+{
+  "id": "softsell-io",
+  "title": "SoftSell",
+  "subtitle": "Create a unique customer experience in digital sales rooms. Sign up today and enjoy 12 months of free Premium access.",
+  "tags": [
+    "customer-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556165/icons/softsell-io.jpg",
+  "website": "https://www.softsell.io/"
+}

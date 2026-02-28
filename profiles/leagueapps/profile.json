@@ -1,0 +1,12 @@
+{
+  "id": "leagueapps",
+  "title": "LeagueApps",
+  "subtitle": "LeagueApps equips sports organizers, coaches, parents, and athletes with the tools they need to make sports happen. O...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305292/catalog/leagueapps/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "edgedelta",
+  "title": "Edge Delta",
+  "subtitle": "DistributedIntelligence The new way to be proactive with your Logs, Metrics, Traces Some “store and explore” – Edge D...",
+  "tags": [
+    "logging",
+    "distributed-logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624732844/icons/edgedelta.jpg",
+  "website": "https://edgedelta.com/"
+}

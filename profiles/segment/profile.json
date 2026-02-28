@@ -1,0 +1,15 @@
+{
+  "id": "segment",
+  "title": "Segment",
+  "subtitle": "Segment’s Customer Data Infrastructure (CDI) is the technical foundation for customer-first businesses and provides d...",
+  "tags": [
+    "integration-platform",
+    "customer-data-platforms"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545501346/integration-platforms/segment/icon.png",
+  "website": "https://segment.com/",
+  "docsUrl": "https://segment.com/docs/sources/"
+}

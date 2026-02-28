@@ -1,0 +1,13 @@
+{
+  "id": "heartbeat",
+  "title": "Heartbeat",
+  "subtitle": "At Heartbeat we believe every voice has value. Whether you have 500 or 5,000 followers on Instagram or TikTok, brands...",
+  "tags": [
+    "influencer-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738459/catalog/heartbeat/icon128x128.png",
+  "website": "http://www.heartbeat.com/"
+}

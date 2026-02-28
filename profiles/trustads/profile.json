@@ -1,0 +1,13 @@
+{
+  "id": "trustads",
+  "title": "TrustAds",
+  "subtitle": "TrustAds API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438080/catalog/trustads/icon128x128.png",
+  "website": "https://trustads.io"
+}

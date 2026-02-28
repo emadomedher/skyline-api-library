@@ -1,0 +1,17 @@
+{
+  "id": "klarna",
+  "title": "Klarna",
+  "subtitle": "Pay how you like. Klarna lets you Pay now, Pay later or Slice up your payment. You choose what to buy, so you should ...",
+  "tags": [
+    "lending",
+    "credit",
+    "fintech",
+    "open-banking-api-aggregator"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565457339/catalog/klarna/icon128x128.png",
+  "website": "https://klarna.com",
+  "docsUrl": "https://developers.klarna.com/api/"
+}

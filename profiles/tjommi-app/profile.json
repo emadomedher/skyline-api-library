@@ -1,0 +1,13 @@
+{
+  "id": "tjommi-app",
+  "title": "Tjommi",
+  "subtitle": "Tjommi Launch",
+  "tags": [
+    "price-protection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606355128/icons/tjommi-app.jpg",
+  "website": "https://get.tjommi.app/"
+}

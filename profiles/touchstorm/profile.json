@@ -1,0 +1,13 @@
+{
+  "id": "touchstorm",
+  "title": "Touchstorm",
+  "subtitle": "Touchstorm API integration",
+  "tags": [
+    "video-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962099/catalog/touchstorm/icon128x128.png",
+  "website": "https://touchstorm.com"
+}

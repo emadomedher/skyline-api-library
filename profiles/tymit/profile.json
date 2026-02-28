@@ -1,0 +1,15 @@
+{
+  "id": "tymit",
+  "title": "Tymit",
+  "subtitle": "Say goodbye to the minimum payment trap, confusing interest charges and hidden fees.",
+  "tags": [
+    "challenger-banks",
+    "pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601846783/icons/tymit.jpg",
+  "website": "https://tymit.com/",
+  "docsUrl": "https://tymit.com/docs/tymitcardtermsandconditions.pdf"
+}

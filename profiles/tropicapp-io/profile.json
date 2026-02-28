@@ -1,0 +1,13 @@
+{
+  "id": "tropicapp-io",
+  "title": "Tropic",
+  "subtitle": "Save countless hours finding, researching, and managing vendors. Use Tropic \nto find and buy the right software for y...",
+  "tags": [
+    "saas-management-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699466/catalog/tropicapp-io/icon128x128.jpg",
+  "website": "https://tropicapp.io/"
+}

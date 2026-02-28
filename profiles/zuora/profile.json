@@ -1,0 +1,13 @@
+{
+  "id": "zuora",
+  "title": "Zuora",
+  "subtitle": "Zuora is a world class subscription service management system used by hundreds of companies across the world.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056567/catalog/zuora/icon128x128.png",
+  "website": "https://zuora.com"
+}

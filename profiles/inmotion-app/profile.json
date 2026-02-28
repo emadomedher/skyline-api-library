@@ -1,0 +1,13 @@
+{
+  "id": "inmotion-app",
+  "title": "Motion",
+  "subtitle": "Stay productive in your browser.",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311398/catalog/inmotion-app/icon128x128.jpg",
+  "website": "https://www.inmotion.app/"
+}

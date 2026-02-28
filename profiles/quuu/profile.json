@@ -1,0 +1,13 @@
+{
+  "id": "quuu",
+  "title": "Quuu",
+  "subtitle": "Quuu ensures you'll always have relevant content to share with your audience on social media. Content curation can be...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721700/catalog/quuu/icon128x128.png",
+  "website": "https://quuu.co"
+}

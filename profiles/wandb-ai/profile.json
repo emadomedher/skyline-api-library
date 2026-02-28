@@ -1,0 +1,15 @@
+{
+  "id": "wandb-ai",
+  "title": "W&B",
+  "subtitle": "Weights & Biases, developer tools for machine learning",
+  "tags": [
+    "machine-learning",
+    "developer-tools"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615681955/icons/wandb-ai.png",
+  "website": "https://wandb.ai/",
+  "docsUrl": "http://docs.wandb.ai"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "newzmate",
+  "title": "NewzMate",
+  "subtitle": "Newzmate helps news organizations personalize audience experience, automate content delivery and increase revenue",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721255/catalog/newzmate/icon128x128.png",
+  "website": "https://newzmate.com"
+}

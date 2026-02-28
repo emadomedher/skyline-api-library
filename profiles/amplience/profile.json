@@ -1,0 +1,14 @@
+{
+  "id": "amplience",
+  "title": "Amplience",
+  "subtitle": "Amplience is an API-first, headless content management platform for enterprise retail. Our content and experience sol...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774788/catalog/amplience/icon128x128.jpg",
+  "website": "https://amplience.com",
+  "docsUrl": "https://amplience.com/docs/index.html"
+}

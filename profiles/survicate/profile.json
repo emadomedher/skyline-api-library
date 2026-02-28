@@ -1,0 +1,14 @@
+{
+  "id": "survicate",
+  "title": "Survicate",
+  "subtitle": "From website optimization and customer satisfaction surveys to complex customer insight processes integrated with you...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548675109/catalog/survicate/icon128x128.jpg",
+  "website": "https://survicate.com/",
+  "docsUrl": "https://developers.survicate.com/"
+}

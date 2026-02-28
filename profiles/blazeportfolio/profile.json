@@ -1,0 +1,14 @@
+{
+  "id": "blazeportfolio",
+  "title": "BlazePortfolio",
+  "subtitle": "BlazePortfolio® develops streamlined, user-friendly trade management and portfolio rebalancing solutions for investme...",
+  "tags": [
+    "trade-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579037030/catalog/blazeportfolio/icon128x128.jpg",
+  "website": "https://blazeportfolio.com/",
+  "docsUrl": "https://blazeportfolio.com/blog/innovative-rias-surprise-trading-and-rebalancing-software-developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "intrado",
+  "title": "Intrado",
+  "subtitle": "Intrado develops technology-enabled communications that change the way we work and improve the way we live.",
+  "tags": [
+    "communication",
+    "enterprise-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075892/icons/intrado.png",
+  "website": "https://www.intrado.com/"
+}

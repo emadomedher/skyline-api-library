@@ -1,0 +1,13 @@
+{
+  "id": "posera-maitre-d",
+  "title": "Maitre'D",
+  "subtitle": "Posera’s Maitre’D ePOS is a full service, feature-rich solution that works in all environments such as fine and casua...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573332076/catalog/posera-maitre-d/icon128x128.png",
+  "website": "https://www.posera.com/maitred/"
+}

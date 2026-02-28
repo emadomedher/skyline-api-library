@@ -1,0 +1,13 @@
+{
+  "id": "4info",
+  "title": "4INFO",
+  "subtitle": "4INFO is an identity solutions company that helps brands reach very precise audiences across all screen types, includ...",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717068/catalog/4info/icon128x128.jpg",
+  "website": "https://4INFO.com"
+}

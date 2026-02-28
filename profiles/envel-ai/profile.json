@@ -1,0 +1,13 @@
+{
+  "id": "envel-ai",
+  "title": "Envel",
+  "subtitle": "The first ever AI-based Autonomous Bank Account that gives you Financial Superpowers!",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606247256/icons/envel-ai.png",
+  "website": "https://www.envel.ai/"
+}

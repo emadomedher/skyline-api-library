@@ -1,0 +1,14 @@
+{
+  "id": "pirateweather-net",
+  "title": "PirateWeather",
+  "subtitle": "A weather forecast API, built as an alternative to the Dark Sky API.",
+  "tags": [
+    "weather-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621030050/icons/pirateweather-net.png",
+  "website": "https://pirateweather.net/",
+  "docsUrl": "https://pirateweather.net/apis"
+}

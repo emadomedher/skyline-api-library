@@ -1,0 +1,14 @@
+{
+  "id": "begin",
+  "title": "Begin",
+  "subtitle": "Begin is a ridiculously quick platform for building modern web apps, sites, & APIs. Get started for free, no credit c...",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598713730/icons/begin.jpg",
+  "website": "https://begin.com/",
+  "docsUrl": "https://docs.github.com/articles/supported-browsers"
+}

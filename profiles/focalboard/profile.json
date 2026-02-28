@@ -1,0 +1,15 @@
+{
+  "id": "focalboard",
+  "title": "Focalboard",
+  "subtitle": "Focalboard API integration",
+  "tags": [
+    "project-management",
+    "open-source"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642445630/icons/focalboard.jpg",
+  "website": "https://www.focalboard.com/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlsdtq7m69pdlz71cwucaseg0fck1m_wrvibzbpr2imft2qvucq/viewform?usp=sf_link"
+}

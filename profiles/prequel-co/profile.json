@@ -1,0 +1,13 @@
+{
+  "id": "prequel-co",
+  "title": "Prequel",
+  "subtitle": "Prequel is the modern data stack for startups. Get started in minutes, not weeks.",
+  "tags": [
+    "etl"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629674007/icons/prequel-co.png",
+  "website": "https://www.prequel.co/"
+}

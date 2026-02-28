@@ -1,0 +1,14 @@
+{
+  "id": "elateral",
+  "title": "Elateral",
+  "subtitle": "Brandgility is the innovative templating platform from Elateral. Built on over 20 years of experience in cloud-based ...",
+  "tags": [
+    "through-channel-marketing-automation",
+    "dam-and-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719884/catalog/elateral/icon128x128.jpg",
+  "website": "https://elateral.com"
+}

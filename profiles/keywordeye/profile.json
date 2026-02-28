@@ -1,0 +1,13 @@
+{
+  "id": "keywordeye",
+  "title": "KeywordEye",
+  "subtitle": "KeywordEye API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963716/catalog/keywordeye/icon128x128.png",
+  "website": "https://keywordeye.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "eventzilla",
+  "title": "Eventzilla",
+  "subtitle": "Eventzilla is a do-it-yourself event ticketing and marketing platform that helps event organizers to sell tickets onl...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304876/catalog/eventzilla/icon128x128.png",
+  "website": "https://eventzilla.net"
+}

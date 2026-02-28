@@ -1,0 +1,13 @@
+{
+  "id": "247meeting",
+  "title": "247meeting - Audio",
+  "subtitle": "247meeting provides conference call services to 15,000 Enterprises and SMEs in 100 countries. Join your meeting from ...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573437329/catalog/247meeting/icon128x128.jpg",
+  "website": "https://247meeting.com/"
+}

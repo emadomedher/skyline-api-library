@@ -1,0 +1,14 @@
+{
+  "id": "xfers",
+  "title": "Xfers",
+  "subtitle": "Xfers is a Major Payment Institution approved by the Monetary Authority of Singapore for the provision of e-money iss...",
+  "tags": [
+    "open-banking",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590657034/catalog/xfers/icon128x128.png",
+  "website": "https://www.xfers.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sendsmith",
+  "title": "SendSmith",
+  "subtitle": "SendSmith is a 2nd generation email marketing platform. Simple to use and offers a number of free responsive email te...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962392/catalog/sendsmith/icon128x128.png",
+  "website": "https://sendsmith.com"
+}

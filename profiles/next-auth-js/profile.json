@@ -1,0 +1,16 @@
+{
+  "id": "next-auth-js",
+  "title": "NextAuth.js",
+  "subtitle": "Authentication for Next.js",
+  "tags": [
+    "auth",
+    "open-source",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611928732/icons/next-auth-js.jpg",
+  "website": "https://next-auth.js.org/",
+  "docsUrl": "https://next-auth-git-canary.nextauthjs.vercel.app"
+}

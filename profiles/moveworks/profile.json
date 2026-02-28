@@ -1,0 +1,13 @@
+{
+  "id": "moveworks",
+  "title": "Moveworks",
+  "subtitle": "Moveworks is an AI, machine learning, enterprise NLU and chatbot platform that resolves IT Service Desk support issue...",
+  "tags": [
+    "it-support"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573826632/catalog/moveworks/icon128x128.png",
+  "website": "https://www.moveworks.com/"
+}

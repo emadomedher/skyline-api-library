@@ -1,0 +1,14 @@
+{
+  "id": "chartiq",
+  "title": "ChartIQ",
+  "subtitle": "Our HTML5 charting and advanced integration platform modernizes your financial projects. See how ChartIQ's solutions ...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561415965/catalog/chartiq/icon128x128.jpg",
+  "website": "https://chartiq.com",
+  "docsUrl": "https://documentation.chartiq.com/finsemble"
+}

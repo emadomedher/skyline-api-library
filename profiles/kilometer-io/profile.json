@@ -1,0 +1,13 @@
+{
+  "id": "kilometer-io",
+  "title": "Kilometer.io",
+  "subtitle": "Kilometer.io - Automate boring tasks by adding Machine Learning to tools such as CRM, Marketing Automation and Help-d...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624920681/icons/kilometer-io.png",
+  "website": "https://kilometer.io/"
+}

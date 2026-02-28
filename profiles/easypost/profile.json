@@ -1,0 +1,14 @@
+{
+  "id": "easypost",
+  "title": "EasyPost",
+  "subtitle": "EasyPost is the simple shipping API for the UPS API, USPS API, FedEx API, DHL API, and more. Compare rates, buy posta...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573130944/catalog/easypost/icon128x128.jpg",
+  "website": "https://www.easypost.com/",
+  "docsUrl": "https://www.easypost.com/docs/api"
+}

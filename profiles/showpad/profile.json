@@ -1,0 +1,14 @@
+{
+  "id": "showpad",
+  "title": "Showpad",
+  "subtitle": "The Showpad sales enablement platform integrates industry-leading training and coaching software with innovative cont...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827594/catalog/showpad/icon128x128.jpg",
+  "website": "https://showpad.com",
+  "docsUrl": "https://docs.api.showpad.com/docs/apis/"
+}

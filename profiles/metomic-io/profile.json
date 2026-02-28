@@ -1,0 +1,16 @@
+{
+  "id": "metomic-io",
+  "title": "Metomic",
+  "subtitle": "Compliance shouldn't mean sacrificing usability. We provide a world-class privacy-by-design API to ethically manage y...",
+  "tags": [
+    "privacy",
+    "compliance",
+    "cookies"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567075564/catalog/metomic-io/icon128x128.jpg",
+  "website": "https://metomic.io/",
+  "docsUrl": "https://documentation.metomic.io"
+}

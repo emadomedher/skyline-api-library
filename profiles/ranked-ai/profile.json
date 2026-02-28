@@ -1,0 +1,13 @@
+{
+  "id": "ranked-ai",
+  "title": "Ranked",
+  "subtitle": "Ranked: AI Powered SEO",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565087632/catalog/ranked-ai/icon128x128.jpg",
+  "website": "https://ranked.ai"
+}

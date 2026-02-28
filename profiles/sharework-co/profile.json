@@ -1,0 +1,13 @@
+{
+  "id": "sharework-co",
+  "title": "Sharework",
+  "subtitle": "Sharework allows B2B companies to run partnerships that really make a difference on revenue : we connect CRMs togethe...",
+  "tags": [
+    "channel-data-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598262397/icons/sharework-co.png",
+  "website": "https://www.sharework.co/"
+}

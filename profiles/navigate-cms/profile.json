@@ -1,0 +1,13 @@
+{
+  "id": "navigate-cms",
+  "title": "Navigate CMS",
+  "subtitle": "A powerful and intuitive open source content management system for everybody.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827016/catalog/navigate-cms/icon128x128.jpg",
+  "website": "https://navigatecms.com"
+}

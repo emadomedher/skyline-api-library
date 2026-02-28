@@ -1,0 +1,13 @@
+{
+  "id": "employa",
+  "title": "Employa",
+  "subtitle": "Employa provides ATS add-ons and agency service focused on sourcing, screening and ranking best-matched tech candidates",
+  "tags": [
+    "ats-add-ons"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642182974/icons/employa.png",
+  "website": "https://employa.com/"
+}

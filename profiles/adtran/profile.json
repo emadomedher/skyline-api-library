@@ -1,0 +1,15 @@
+{
+  "id": "adtran",
+  "title": "ADTRAN",
+  "subtitle": "We are a leading global provider of networking and communications equipment. Our products enable voice, data, video a...",
+  "tags": [
+    "wifi",
+    "hardware",
+    "networking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570208062/catalog/adtran/icon128x128.jpg",
+  "website": "https://www.adtran.com/"
+}

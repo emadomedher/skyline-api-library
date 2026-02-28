@@ -1,0 +1,13 @@
+{
+  "id": "noticeable",
+  "title": "Noticeable",
+  "subtitle": "Keep your users in the known. Improve user engagement and save development time. Your changelog and newsfeed built in...",
+  "tags": [
+    "changelog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305539/catalog/noticeable/icon128x128.png",
+  "website": "https://noticeable.io"
+}

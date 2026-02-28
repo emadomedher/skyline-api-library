@@ -1,0 +1,14 @@
+{
+  "id": "inspec-io",
+  "title": "Chef InSpec",
+  "subtitle": "Chef InSpec is an open source (OSS) automated testing tool for integration, compliance, security, and other policy re...",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565253285/catalog/inspec-io/icon128x128.png",
+  "website": "https://inspec.io",
+  "docsUrl": "https://www.inspec.io/docs"
+}

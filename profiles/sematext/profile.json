@@ -1,0 +1,15 @@
+{
+  "id": "sematext",
+  "title": "Sematext",
+  "subtitle": "Sematext IT System Monitoring & Management Tools for smart devops teams that want to move faster. Try now 30 days fre...",
+  "tags": [
+    "apm",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574330184/catalog/sematext/icon128x128.jpg",
+  "website": "https://sematext.com/",
+  "docsUrl": "https://sematext.com/#"
+}

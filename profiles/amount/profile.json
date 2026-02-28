@@ -1,0 +1,14 @@
+{
+  "id": "amount",
+  "title": "Amount",
+  "subtitle": "Amount enables growth for financial institutions with a suite of products and services that deliver a seamless digita...",
+  "tags": [
+    "retail-banking",
+    "baas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630869016/icons/amount.jpg",
+  "website": "https://www.amount.com/"
+}

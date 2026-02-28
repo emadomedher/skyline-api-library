@@ -1,0 +1,14 @@
+{
+  "id": "sterlingrisq",
+  "title": "Sterling RISQ",
+  "subtitle": "Sterling Risq offers comprehensive Background Checks & Identity Verification Services worldwide. Pre Employment Scree...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610498579/icons/sterlingrisq.png",
+  "website": "https://www.sterlingrisq.com/",
+  "docsUrl": "https://www.sterlingrisq.com/employment-screening/reference-checks"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "anpost",
+  "title": "An Post",
+  "subtitle": "​An Post for all your posting needs. Check out our range of financial and government services as well as Postmobile a...",
+  "tags": [
+    "postal-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600070676/icons/anpost.jpg",
+  "website": "https://www.anpost.com/"
+}

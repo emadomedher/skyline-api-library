@@ -1,0 +1,13 @@
+{
+  "id": "clodura",
+  "title": "Clodura",
+  "subtitle": "Clodura is Sales Pipeline Intelligence platform which uses machine learning to find high-value prospects which are mo...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719493/catalog/clodura/icon128x128.png",
+  "website": "https://clodura.com"
+}

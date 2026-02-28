@@ -1,0 +1,12 @@
+{
+  "id": "ip2location",
+  "title": "IP2Location",
+  "subtitle": "IP2Location is a non-intrusive geo IP solution to help you to identify a visitor's geographical location.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305200/catalog/ip2location/icon128x128.png"
+}

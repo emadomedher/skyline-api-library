@@ -1,0 +1,13 @@
+{
+  "id": "smarp",
+  "title": "Smarp",
+  "subtitle": "Discover Smarp, the enterprise grade internal content hub for content discovery and distribution in the workplace.",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946575/catalog/smarp/icon128x128.jpg",
+  "website": "https://smarp.com"
+}

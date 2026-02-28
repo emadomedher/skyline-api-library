@@ -1,0 +1,14 @@
+{
+  "id": "plumguide",
+  "title": "The Plum Guide",
+  "subtitle": "Plum Guide handpicks the world's best vacation rentals, holiday homes, short term lets and Airbnbs from over 25 diffe...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641123/icons/plumguide.jpg",
+  "website": "https://www.plumguide.com/"
+}

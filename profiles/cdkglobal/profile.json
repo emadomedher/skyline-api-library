@@ -1,0 +1,15 @@
+{
+  "id": "cdkglobal",
+  "title": "CDK Global",
+  "subtitle": "CDK Global provides integrated technology solutions to over 30,000 Auto, Truck, Motorcycle, Marine, Recreational and ...",
+  "tags": [
+    "dealership",
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601567136/icons/cdkglobal.jpg",
+  "website": "https://www.cdkglobal.com/",
+  "docsUrl": "https://www.cdkglobal.com/nl-be/partners/developers"
+}

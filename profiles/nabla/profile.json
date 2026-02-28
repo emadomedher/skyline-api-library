@@ -1,0 +1,14 @@
+{
+  "id": "nabla",
+  "title": "Nabla",
+  "subtitle": "With Nabla, your care team is here every day whether you have a little scratch, something you’re worried about, an am...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605267577/icons/nabla.jpg",
+  "website": "https://www.nabla.com/",
+  "docsUrl": "https://www.nabla.com/docs/politique-de-confidentialite.pdf"
+}

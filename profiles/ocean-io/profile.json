@@ -1,0 +1,14 @@
+{
+  "id": "ocean-io",
+  "title": "Ocean.io",
+  "subtitle": "Align your Marketing and Sales teams and only focus on the companies that fit your ideal customer profile. Get a demo...",
+  "tags": [
+    "lead-generation",
+    "account-based-marketing"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572174998/catalog/ocean-io/icon128x128.jpg",
+  "website": "https://ocean.io/"
+}

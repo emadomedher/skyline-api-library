@@ -1,0 +1,13 @@
+{
+  "id": "copiny",
+  "title": "Copiny",
+  "subtitle": "Copiny API integration",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719610/catalog/copiny/icon128x128.png",
+  "website": "https://copiny.com"
+}

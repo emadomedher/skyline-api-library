@@ -1,0 +1,13 @@
+{
+  "id": "cirrus-shield",
+  "title": "Cirrus Shield",
+  "subtitle": "Cirrus Shield est un logiciel CRM adapté à vos besoins qui vous pourmet de gérer les fonctions commerciale, marketing...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719434/catalog/cirrus-shield/icon128x128.jpg",
+  "website": "https://cirrus-shield.com"
+}

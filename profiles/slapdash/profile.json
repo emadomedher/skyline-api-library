@@ -1,0 +1,13 @@
+{
+  "id": "slapdash",
+  "title": "Slapdash",
+  "subtitle": "Slapdash is a rethink of how we work with our cloud apps, with a focus on speed, ergonomics and fun. Use the command ...",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581535411/catalog/slapdash/icon128x128.jpg",
+  "website": "https://slapdash.com/"
+}

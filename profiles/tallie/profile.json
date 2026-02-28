@@ -1,0 +1,13 @@
+{
+  "id": "tallie",
+  "title": "Tallie",
+  "subtitle": "Tallie is the accounting profession's #1 expense report solution. Tallie is comprehensive, cloud-based expense report...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579471045/catalog/tallie/icon128x128.png",
+  "website": "https://tallie.com/"
+}

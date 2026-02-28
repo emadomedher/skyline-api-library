@@ -1,0 +1,13 @@
+{
+  "id": "compta-clementine-fr",
+  "title": "Compta Clementine",
+  "subtitle": "Réconciliez-vous avec la comptabilité de votre entreprise grâce à Clementine, Expert-Comptable en ligne. Découvrez to...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796498/catalog/compta-clementine-fr/icon128x128.jpg",
+  "website": "https://www.compta-clementine.fr/"
+}

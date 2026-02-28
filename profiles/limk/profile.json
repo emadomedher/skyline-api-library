@@ -1,0 +1,13 @@
+{
+  "id": "limk",
+  "title": "Limk",
+  "subtitle": "Limk is a content distribution and discovery platform that helps websites grow traffic while reaching highly engaged ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826818/catalog/limk/icon128x128.png",
+  "website": "https://limk.com"
+}

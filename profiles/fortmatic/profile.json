@@ -1,0 +1,16 @@
+{
+  "id": "fortmatic",
+  "title": "Fortmatic",
+  "subtitle": "Fortmatic API integration",
+  "tags": [
+    "identity",
+    "authentication",
+    "security",
+    "crypto"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590189932/catalog/fortmatic/icon128x128.png",
+  "website": "https://fortmatic.com/"
+}

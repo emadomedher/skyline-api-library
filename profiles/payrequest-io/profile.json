@@ -1,0 +1,14 @@
+{
+  "id": "payrequest-io",
+  "title": "PayRequest",
+  "subtitle": "Lets you easily create payment links and share them via email or sms, we support all payment methods directly via you...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576014974/catalog/payrequest-io/icon128x128.png",
+  "website": "https://payrequest.io/",
+  "docsUrl": "https://docs.payrequest.io"
+}

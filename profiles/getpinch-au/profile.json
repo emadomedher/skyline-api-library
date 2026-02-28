@@ -1,0 +1,14 @@
+{
+  "id": "getpinch-au",
+  "title": "Pinch Payments",
+  "subtitle": "Get paid on time. Increase your cashflow by automating collection of payments using Pinch. Save your customers paymen...",
+  "tags": [
+    "accounts-receivable"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637201605/icons/getpinch-au.jpg",
+  "website": "https://www.getpinch.com.au/",
+  "docsUrl": "https://www.getpinch.com.au/features/payments-api-for-developers"
+}

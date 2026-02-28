@@ -1,0 +1,13 @@
+{
+  "id": "adiant",
+  "title": "AdIant",
+  "subtitle": "Adiant is a digital media technology company whose mission is to deliver the most innovative advertising solutions to...",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555982570/catalog/adiant/icon128x128.png",
+  "website": "https://adiant.com"
+}

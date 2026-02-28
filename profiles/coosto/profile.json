@@ -1,0 +1,13 @@
+{
+  "id": "coosto",
+  "title": "Coosto",
+  "subtitle": "Coosto, your all-in-one social media management software. ✓ Customer engagement ✓ Social listening ✓ Publishing ✓ Ana...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719617/catalog/coosto/icon128x128.png",
+  "website": "https://coosto.com"
+}

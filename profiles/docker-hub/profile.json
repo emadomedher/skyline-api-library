@@ -1,0 +1,13 @@
+{
+  "id": "docker-hub",
+  "title": "Docker Hub",
+  "subtitle": "Docker Hub API integration",
+  "tags": [
+    "container-image-registries"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625063224/icons/docker-hub.png",
+  "website": "https://hub.docker.com/"
+}

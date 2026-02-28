@@ -1,0 +1,13 @@
+{
+  "id": "smarketing-cloud",
+  "title": "Smarketing Cloud",
+  "subtitle": "Need a Marketing Cloud that offers solution for both Sales & Marketing? Smarketing Cloud gives best in class tools th...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946573/catalog/smarketing-cloud/icon128x128.jpg",
+  "website": "https://smarketingcloud.com"
+}

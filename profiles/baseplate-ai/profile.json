@@ -1,0 +1,14 @@
+{
+  "id": "baseplate-ai",
+  "title": "Baseplate",
+  "subtitle": "Baseplate API integration",
+  "tags": [
+    "llm-ops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680600623/icons/baseplate-ai.jpg",
+  "website": "https://www.baseplate.ai/",
+  "docsUrl": "https://docs.baseplate.ai/#"
+}

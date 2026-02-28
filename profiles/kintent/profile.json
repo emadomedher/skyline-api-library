@@ -1,0 +1,15 @@
+{
+  "id": "kintent",
+  "title": "Kintent",
+  "subtitle": "Kintent Trust Cloud: The simplest way to respond to security questionnaires, be audited for compliance certs, and con...",
+  "tags": [
+    "compliance",
+    "security-questionnaire"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222458/icons/kintent.jpg",
+  "website": "https://www.kintent.com/",
+  "docsUrl": "https://flightschool.kintent.com/docs/compliance-launchpad"
+}

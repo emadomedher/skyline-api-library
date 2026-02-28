@@ -1,0 +1,14 @@
+{
+  "id": "watershedclimate",
+  "title": "Watershed",
+  "subtitle": "Watershed is a software platform for running a world-class climate program. Start reducing your carbon footprint in w...",
+  "tags": [
+    "climate",
+    "carbon-removal"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633094338/icons/watershedclimate.jpg",
+  "website": "https://watershedclimate.com/"
+}

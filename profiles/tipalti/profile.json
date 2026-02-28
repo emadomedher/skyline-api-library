@@ -1,0 +1,14 @@
+{
+  "id": "tipalti",
+  "title": "Tipalti",
+  "subtitle": "The only end-to-end accounts payable software to automate the entire supplier payments operation, making global mass ...",
+  "tags": [
+    "accounts-payable",
+    "mass-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576686341/catalog/tipalti/icon128x128.png",
+  "website": "https://tipalti.com/"
+}

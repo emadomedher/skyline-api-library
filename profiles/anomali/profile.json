@@ -1,0 +1,14 @@
+{
+  "id": "anomali",
+  "title": "Anomali",
+  "subtitle": "Anomali delivers intelligence-driven cybersecurity solutions that enable businesses to gain unlimited threat visibili...",
+  "tags": [
+    "threat-sharing",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617729823/icons/anomali.jpg",
+  "website": "https://www.anomali.com/"
+}

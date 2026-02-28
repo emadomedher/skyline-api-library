@@ -1,0 +1,13 @@
+{
+  "id": "vibepay",
+  "title": "VibePay",
+  "subtitle": "VibePay is the fastest way to get paid, directly into your bank account, for free. Create payment request links. Shar...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587218293/catalog/vibepay/icon128x128.jpg",
+  "website": "https://vibepay.com/"
+}

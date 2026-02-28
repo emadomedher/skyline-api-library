@@ -1,0 +1,14 @@
+{
+  "id": "tools4ever",
+  "title": "Tools4ever",
+  "subtitle": "Tools4ever provides standardized, affordable Identity Management to meet all your organization’s needs. Rapidly imple...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647089027/icons/tools4ever.jpg",
+  "website": "https://www.tools4ever.com/",
+  "docsUrl": "https://www.tools4ever.com/company/support/support-helloid-docs-site"
+}

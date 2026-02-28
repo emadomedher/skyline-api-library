@@ -1,0 +1,12 @@
+{
+  "id": "ridehire",
+  "title": "Ridehire",
+  "subtitle": "Ridehire is an online marketplace for vehicles for hire allowing operators to bring transparency to their fleet.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305891/catalog/ridehire/icon128x128.png"
+}

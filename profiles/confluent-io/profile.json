@@ -1,0 +1,14 @@
+{
+  "id": "confluent-io",
+  "title": "Confluent",
+  "subtitle": "Become a Confluent Partner! Leverage our expertise to grow your business, develop robust data connectivity and promot...",
+  "tags": [
+    "event-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579879000/catalog/confluent-io/icon128x128.jpg",
+  "website": "https://www.confluent.io",
+  "docsUrl": "https://www.confluent.io/partners/#"
+}

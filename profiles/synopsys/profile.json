@@ -1,0 +1,14 @@
+{
+  "id": "synopsys",
+  "title": "Synopsys",
+  "subtitle": "Build high-quality, secure software faster with our application security testing tools and services. We are a Gartner...",
+  "tags": [
+    "security",
+    "silicon-chips"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567129481/catalog/synopsys/icon128x128.jpg",
+  "website": "https://www.synopsys.com/software-integrity.html"
+}

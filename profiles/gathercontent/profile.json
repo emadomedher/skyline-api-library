@@ -1,0 +1,14 @@
+{
+  "id": "gathercontent",
+  "title": "GatherContent",
+  "subtitle": "Bring together people, process and content into one platform—to save time and money, improve content quality, & reduc...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826497/catalog/gathercontent/icon128x128.jpg",
+  "website": "https://gathercontent.com",
+  "docsUrl": "https://gathercontent.com/uses/help-content-documentation"
+}

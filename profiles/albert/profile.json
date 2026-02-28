@@ -1,0 +1,13 @@
+{
+  "id": "albert",
+  "title": "Albert",
+  "subtitle": "Albert is a new type of financial service that uses powerful technology to automate your finances, with a team of hum...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611872613/icons/albert.jpg",
+  "website": "https://albert.com/"
+}

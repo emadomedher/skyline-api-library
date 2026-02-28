@@ -1,0 +1,13 @@
+{
+  "id": "flickr",
+  "title": "Flickr",
+  "subtitle": "Flickr is a photo sharing and social media platform that allows you to host images online, and check out other users'...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304924/catalog/flickr/icon128x128.png",
+  "website": "https://flickr.com"
+}

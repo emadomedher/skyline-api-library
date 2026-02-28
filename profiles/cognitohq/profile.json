@@ -1,0 +1,15 @@
+{
+  "id": "cognitohq",
+  "title": "Cognito",
+  "subtitle": "Cognito API integration",
+  "tags": [
+    "identity-verification",
+    "pii"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571960541/catalog/cognitohq/icon128x128.png",
+  "website": "https://cognitohq.com/",
+  "docsUrl": "https://cognitohq.com/docs"
+}

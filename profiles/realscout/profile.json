@@ -1,0 +1,12 @@
+{
+  "id": "realscout",
+  "title": "RealScout",
+  "subtitle": "RealScout is a collaborative listing alert platform that delivers automated, high-performing listing alerts to your c...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305827/catalog/realscout/icon128x128.png"
+}

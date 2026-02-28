@@ -1,0 +1,13 @@
+{
+  "id": "contentdj",
+  "title": "ContentDJ",
+  "subtitle": "With ContentDJ's editorial calendar software, you can say goodbye to spreadsheets! Try for free now!",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826157/catalog/contentdj/icon128x128.png",
+  "website": "https://contentdj.com"
+}

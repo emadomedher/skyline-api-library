@@ -1,0 +1,15 @@
+{
+  "id": "chartable",
+  "title": "Chartable",
+  "subtitle": "Podcast analytics and attribution for publishers & advertisers. Plus podcast charts from Apple Podcasts and Spotify a...",
+  "tags": [
+    "podcast-analytics",
+    "podcast-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599954256/icons/chartable.jpg",
+  "website": "https://chartable.com/",
+  "docsUrl": "https://chartable.helpscoutdocs.com"
+}

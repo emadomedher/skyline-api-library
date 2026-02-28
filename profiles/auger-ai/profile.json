@@ -1,0 +1,14 @@
+{
+  "id": "auger-ai",
+  "title": "Auger.AI",
+  "subtitle": "Auger.AI - The power tool for machine learning: Faster and more accurate. \nAuger offers the industry's most accurate ...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573320178/catalog/auger-ai/icon128x128.jpg",
+  "website": "https://auger.ai/",
+  "docsUrl": "https://docs.auger.ai"
+}

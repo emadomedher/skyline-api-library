@@ -1,0 +1,13 @@
+{
+  "id": "onjuno",
+  "title": "OnJuno",
+  "subtitle": "OnJuno is a neo banking platform that aims to give millions of users access to a high yield checking account to grow ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610315553/icons/onjuno.png",
+  "website": "https://onjuno.com/"
+}

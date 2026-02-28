@@ -1,0 +1,13 @@
+{
+  "id": "attensee",
+  "title": "Attensee",
+  "subtitle": "Attensee shows you where people focus their attention on your website.",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947251/catalog/attensee/icon128x128.png",
+  "website": "https://attensee.com"
+}

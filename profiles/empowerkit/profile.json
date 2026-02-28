@@ -1,0 +1,13 @@
+{
+  "id": "empowerkit",
+  "title": "Empowerkit",
+  "subtitle": "Empowerkit API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434382/catalog/empowerkit/icon128x128.png",
+  "website": "https://empowerkit.com"
+}

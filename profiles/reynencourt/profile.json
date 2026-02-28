@@ -1,0 +1,13 @@
+{
+  "id": "reynencourt",
+  "title": "Reynen Court",
+  "subtitle": "We make it easy for law firms and legal departments to adopt and manage cloud-based software applications.",
+  "tags": [
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023408/icons/reynencourt.png",
+  "website": "https://reynencourt.com/"
+}

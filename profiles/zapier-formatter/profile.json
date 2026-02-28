@@ -1,0 +1,14 @@
+{
+  "id": "zapier-formatter",
+  "title": "Formatter by Zapier",
+  "subtitle": "Data isn't always in the format you need. Perhaps a date is in International format, but your app needs it in America...",
+  "tags": [
+    "zapier-tools",
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809807/catalog/zapier-formatter/icon128x128.png",
+  "website": "https://zapier.com/"
+}

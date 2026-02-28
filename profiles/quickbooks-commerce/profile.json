@@ -1,0 +1,14 @@
+{
+  "id": "quickbooks-commerce",
+  "title": "QuickBooks Commerce",
+  "subtitle": "QuickBooks Commerce allows you to list and manage products across multiple channels—all from one place. Seamlessly in...",
+  "tags": [
+    "listing-management",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621996977/icons/quickbooks-commerce.png",
+  "website": "https://quickbooks.intuit.com/quickbooks-commerce/"
+}

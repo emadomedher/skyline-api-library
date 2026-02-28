@@ -1,0 +1,14 @@
+{
+  "id": "shippo",
+  "title": "Shippo",
+  "subtitle": "Shippo is the best multi-carrier shipping software for e-commerce businesses. Find the best shipping rates, integrate...",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559049513/catalog/shippo/icon128x128.jpg",
+  "website": "https://goshippo.com",
+  "docsUrl": "https://goshippo.com/api-overview"
+}

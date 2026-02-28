@@ -1,0 +1,12 @@
+{
+  "id": "sansan",
+  "title": "Sansan",
+  "subtitle": "Sansan is a cloud based contact management system. Digitize your business cards with 99.9% accuracy and share the con...",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305982/catalog/sansan/icon128x128.png"
+}

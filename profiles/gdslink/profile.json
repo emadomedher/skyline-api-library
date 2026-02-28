@@ -1,0 +1,13 @@
+{
+  "id": "gdslink",
+  "title": "GDS Link",
+  "subtitle": "From marketing and lead generation, to digital loan application, decisioning, account management and collections, GDS...",
+  "tags": [
+    "credit-risk-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635629270/icons/gdslink.jpg",
+  "website": "https://www.gdslink.com/"
+}

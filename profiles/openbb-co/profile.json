@@ -1,0 +1,15 @@
+{
+  "id": "openbb-co",
+  "title": "OpenBB ",
+  "subtitle": "OpenBB is a leading open source investment analysis company. Our mission is to make investment research effective, po...",
+  "tags": [
+    "open-source",
+    "investment-research-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649374956/icons/openbb-co.jpg",
+  "website": "https://openbb.co/",
+  "docsUrl": "https://openbb.co/https://openbb-finance.github.io/openbbterminal"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "arc-tech",
+  "title": "Arc",
+  "subtitle": "Full-service finance for SaaS",
+  "tags": [
+    "revenue-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642281651/icons/arc-tech.png",
+  "website": "https://www.arc.tech/"
+}

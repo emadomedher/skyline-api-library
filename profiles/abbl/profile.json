@@ -1,0 +1,13 @@
+{
+  "id": "abbl",
+  "title": "AB Bank",
+  "subtitle": "AB Bank is a leading private sector bank in Bangladesh established in 31 December 1981. This was the first joint vent...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604206065/icons/abbl.jpg",
+  "website": "https://abbl.com/"
+}

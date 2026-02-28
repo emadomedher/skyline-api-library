@@ -1,0 +1,14 @@
+{
+  "id": "pleo-io",
+  "title": "Pleo",
+  "subtitle": "Pleo decentralises company spending, eliminates expense reports and reimbursements and simplifies bookkeeping.",
+  "tags": [
+    "expenses",
+    "fintech"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569691784/catalog/pleo-io/icon128x128.jpg",
+  "website": "https://www.pleo.io"
+}

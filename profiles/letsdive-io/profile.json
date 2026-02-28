@@ -1,0 +1,13 @@
+{
+  "id": "letsdive-io",
+  "title": "Let's Dive",
+  "subtitle": "Dive is where employee engagement meets fun. Forge bonds, hang out and play games with your teammates - all in one pl...",
+  "tags": [
+    "remote-culture"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471962/icons/letsdive-io.jpg",
+  "website": "https://www.letsdive.io/"
+}

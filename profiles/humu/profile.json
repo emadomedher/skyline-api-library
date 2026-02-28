@@ -1,0 +1,13 @@
+{
+  "id": "humu",
+  "title": "Humu",
+  "subtitle": "Confidently achieve your most ambitious goals. Give everyone the personalized, step-by-step support they need to take...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641269637/icons/humu.png",
+  "website": "https://www.humu.com/"
+}

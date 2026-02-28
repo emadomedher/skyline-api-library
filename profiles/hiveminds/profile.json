@@ -1,0 +1,13 @@
+{
+  "id": "hiveminds",
+  "title": "Hiveminds",
+  "subtitle": "Hiveminds API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963809/catalog/hiveminds/icon128x128.png",
+  "website": "https://hiveminds.in"
+}

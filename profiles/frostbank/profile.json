@@ -1,0 +1,13 @@
+{
+  "id": "frostbank",
+  "title": "Frost Bank",
+  "subtitle": "Frost Bank is a Texas-chartered bank based in San Antonio with 134 branches and 1,300 automated teller machines, all ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590286215/catalog/frostbank/icon128x128.jpg",
+  "website": "https://www.frostbank.com/"
+}

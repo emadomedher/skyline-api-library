@@ -1,0 +1,15 @@
+{
+  "id": "fosscord",
+  "title": "Fosscord",
+  "subtitle": "Fosscord API integration",
+  "tags": [
+    "team-messaging",
+    "open-source"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006433/icons/fosscord.jpg",
+  "website": "https://fosscord.com/",
+  "docsUrl": "https://docs.fosscord.com"
+}

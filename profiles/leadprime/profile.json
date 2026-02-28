@@ -1,0 +1,13 @@
+{
+  "id": "leadprime",
+  "title": "LeadPrime",
+  "subtitle": "LeadPrime API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435489/catalog/leadprime/icon128x128.png",
+  "website": "https://leadprime.com"
+}

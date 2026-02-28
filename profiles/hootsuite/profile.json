@@ -1,0 +1,14 @@
+{
+  "id": "hootsuite",
+  "title": "Hootsuite",
+  "subtitle": "Enhance your social media management with Hootsuite, the leading social media dashboard. Manage multiple networks and...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305138/catalog/hootsuite/icon128x128.png",
+  "website": "https://hootsuite.com/",
+  "docsUrl": "https://www.hootsuite.com/preference-center#main"
+}

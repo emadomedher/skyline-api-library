@@ -1,0 +1,14 @@
+{
+  "id": "macrofab",
+  "title": "MacroFab",
+  "subtitle": "Guaranteed quality, industry-leading customer service and fast, reliable data. All orders are managed through our fre...",
+  "tags": [
+    "manufacturing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650143701/icons/macrofab.jpg",
+  "website": "https://macrofab.com/",
+  "docsUrl": "https://factory.macrofab.com/apidoc/v2/index.html"
+}

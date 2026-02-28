@@ -1,0 +1,14 @@
+{
+  "id": "bnkbl",
+  "title": "Bankable",
+  "subtitle": "Bankable offers white-label & API-based payment solutions including e-wallets, m-wallets, remittance services, P2P tr...",
+  "tags": [
+    "fintech",
+    "banking-as-a-service"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565351439/catalog/bnkbl/icon128x128.png",
+  "website": "https://bnkbl.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cloudconformity",
+  "title": "Cloud Conformity",
+  "subtitle": "Cloud Conformity highlights violations of AWS and Azure best practices, delivering over 500 different checks across a...",
+  "tags": [
+    "compliance",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571955929/catalog/cloudconformity/icon128x128.jpg",
+  "website": "https://www.cloudconformity.com/"
+}

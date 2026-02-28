@@ -1,0 +1,13 @@
+{
+  "id": "talisma",
+  "title": "Talisma",
+  "subtitle": "Talisma is a leading provider of enterprise class customer experience & CRM solutions for  organisations in over 20 c...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722433/catalog/talisma/icon128x128.jpg",
+  "website": "https://talisma.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "journee-live",
+  "title": "JOURNEE",
+  "subtitle": "Journee is a premium platform that enables brands and creators to build hyper-realistic metaverse directly accessible...",
+  "tags": [
+    "metaverse"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653941211/icons/journee-live.jpg",
+  "website": "https://journee.live/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cartql",
+  "title": "CartQL",
+  "subtitle": "A dedicated GraphQL Shopping Cart API for your commerce stack.",
+  "tags": [
+    "ecommerce",
+    "jamstack",
+    "api"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609114326/icons/cartql.jpg",
+  "website": "https://cartql.com/",
+  "docsUrl": "https://docs.cartql.com"
+}

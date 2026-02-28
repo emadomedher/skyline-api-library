@@ -1,0 +1,15 @@
+{
+  "id": "graphqleditor",
+  "title": "GraphQL Editor",
+  "subtitle": "GraphQL Editor lets you create graphql schema using graph. Plan your database using schema designer and deploy mock b...",
+  "tags": [
+    "api-design",
+    "graphql"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603193631/icons/graphqleditor.png",
+  "website": "https://graphqleditor.com/",
+  "docsUrl": "https://guide.graphqleditor.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cloverdx",
+  "title": "CloverDX",
+  "subtitle": "CloverDX is a data integration platform for designing, automating and operating data jobs at scale. We've engineered ...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719509/catalog/cloverdx/icon128x128.jpg",
+  "website": "https://cloverdx.com"
+}

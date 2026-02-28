@@ -1,0 +1,13 @@
+{
+  "id": "pocket-social",
+  "title": "Pocket Social",
+  "subtitle": "StreamCraft is the world's most rewarding live streaming platform. Join our community of gamers where both viewers an...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565801/catalog/pocket-social/icon128x128.png",
+  "website": "https://pocketsocial.com"
+}

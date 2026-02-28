@@ -1,0 +1,13 @@
+{
+  "id": "kahuna",
+  "title": "Kahuna",
+  "subtitle": "Kahuna API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439237/catalog/kahuna/icon128x128.svg",
+  "website": "https://kahuna.com"
+}

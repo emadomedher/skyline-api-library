@@ -1,0 +1,13 @@
+{
+  "id": "structural",
+  "title": "Structural",
+  "subtitle": "Structural brings together people data from across an organization to create stunningly rich profiles in an all-in-on...",
+  "tags": [
+    "employee-directories"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588389109/catalog/structural/icon128x128.jpg",
+  "website": "https://www.structural.com/"
+}

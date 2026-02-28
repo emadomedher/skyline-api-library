@@ -1,0 +1,14 @@
+{
+  "id": "copysmith-ai",
+  "title": "Copysmith",
+  "subtitle": "Use AI to generate unique marketing content in seconds. Our Artificial Intelligence creates Blogs, Ads, Product descr...",
+  "tags": [
+    "content-generation",
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612402269/icons/copysmith-ai.jpg",
+  "website": "https://www.copysmith.ai/"
+}

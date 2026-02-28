@@ -1,0 +1,14 @@
+{
+  "id": "datasaur-ai",
+  "title": "Datasaur",
+  "subtitle": "Datasaur is the leading NLP data-labeling platform, driving 10X quicker project times and improving model performance...",
+  "tags": [
+    "data-labeling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687114772/icons/datasaur-ai.png",
+  "website": "https://datasaur.ai/",
+  "docsUrl": "https://datasaurai.gitbook.io/datasaur"
+}

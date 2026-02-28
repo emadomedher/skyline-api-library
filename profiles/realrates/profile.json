@@ -1,0 +1,14 @@
+{
+  "id": "realrates",
+  "title": "realrates.com",
+  "subtitle": "Get your Borrowing Power today and increase your chances of being accepted",
+  "tags": [
+    "credit-scoring",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592519775/icons/realrates.jpg",
+  "website": "https://www.realrates.com/"
+}

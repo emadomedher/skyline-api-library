@@ -1,0 +1,13 @@
+{
+  "id": "trusignal",
+  "title": "TruSignal",
+  "subtitle": "TruSignal API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438071/catalog/trusignal/icon128x128.png",
+  "website": "https://tru-signal.com"
+}

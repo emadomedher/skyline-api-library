@@ -1,0 +1,14 @@
+{
+  "id": "scriptkit",
+  "title": "Scriptkit",
+  "subtitle": "Script Kit makes it easy to create and run scripts that solve your daily problems. Create a new script from the promp...",
+  "tags": [
+    "developer-tools",
+    "script-automation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633273065/icons/scriptkit.png",
+  "website": "https://www.scriptkit.com/"
+}

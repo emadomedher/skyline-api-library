@@ -1,0 +1,15 @@
+{
+  "id": "lob",
+  "title": "Lob",
+  "subtitle": "Lob provides direct mail and address verification APIs that allow businesses to send timely, personalized, automated ...",
+  "tags": [
+    "printing"
+  ],
+  "category": "Other",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305327/catalog/lob/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/lob/lob-openapi/main/dist/lob-api-bundled.yml",
+  "website": "https://lob.com/",
+  "docsUrl": "https://docs.dolby.io/"
+}

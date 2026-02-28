@@ -1,0 +1,14 @@
+{
+  "id": "jarvislabs-ai",
+  "title": "JarvisLabsAI",
+  "subtitle": "Train dl, ml and ai models using GPU servers in seconds. Rent A100, A6000, RTX 5000... and save upto 3x in compute co...",
+  "tags": [
+    "machine-learning-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653562539/icons/jarvislabs-ai.jpg",
+  "website": "https://jarvislabs.ai/",
+  "docsUrl": "https://jarvislabs.ai/docs/intro"
+}

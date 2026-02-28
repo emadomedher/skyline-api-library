@@ -1,0 +1,14 @@
+{
+  "id": "paperlessparts",
+  "title": "Paperless Parts",
+  "subtitle": "Paperless Parts allows you to quote faster and win more. See why shops are switching their Excel spreadsheets for Pap...",
+  "tags": [
+    "manufacturing-estimating",
+    "quoting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634108801/icons/paperlessparts.png",
+  "website": "https://www.paperlessparts.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "inflection-io",
+  "title": "Inflection.io",
+  "subtitle": "Marketing automation for product-led companies",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909602/icons/inflection-io.jpg",
+  "website": "https://www.inflection.io/"
+}

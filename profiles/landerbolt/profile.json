@@ -1,0 +1,13 @@
+{
+  "id": "landerbolt",
+  "title": "LanderBolt",
+  "subtitle": "LanderBolt API integration",
+  "tags": [
+    "landing-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582086597/catalog/landerbolt/icon128x128.png",
+  "website": "https://www.landerbolt.com/"
+}

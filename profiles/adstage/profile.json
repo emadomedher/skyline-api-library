@@ -1,0 +1,13 @@
+{
+  "id": "adstage",
+  "title": "AdStage",
+  "subtitle": "AdStage empowers marketers with paid social and PPC software, connecting marketers to the data they need to analyze, ...",
+  "tags": [
+    "search-and-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964402/catalog/adstage/icon128x128.png",
+  "website": "https://adstage.io"
+}

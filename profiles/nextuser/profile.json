@@ -1,0 +1,13 @@
+{
+  "id": "nextuser",
+  "title": "NextUser",
+  "subtitle": "NextUser API integration",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721260/catalog/nextuser/icon128x128.jpg",
+  "website": "https://NextUser.com"
+}

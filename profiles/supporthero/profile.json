@@ -1,0 +1,13 @@
+{
+  "id": "supporthero",
+  "title": "SupportHero",
+  "subtitle": "Show your knowledge base where your users need it the most, right within your app and reduce the number of incoming s...",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556571764/catalog/supporthero/icon128x128.png",
+  "website": "https://supporthero.io"
+}

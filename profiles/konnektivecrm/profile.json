@@ -1,0 +1,12 @@
+{
+  "id": "konnektivecrm",
+  "title": "KonnektiveCRM",
+  "subtitle": "Konnektive CRM is a customer transaction and campaign management platform that helps marketers dominate.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305260/catalog/konnektivecrm/icon128x128.png"
+}

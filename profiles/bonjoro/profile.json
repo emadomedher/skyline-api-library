@@ -1,0 +1,15 @@
+{
+  "id": "bonjoro",
+  "title": "Bonjoro",
+  "subtitle": "Bonjoro lets you send personalised welcome or thank-you videos to your customers",
+  "tags": [
+    "video-calls",
+    "customer-appreciation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304512/catalog/bonjoro/icon128x128.png",
+  "website": "https://www.bonjoro.com/",
+  "docsUrl": "https://help.bonjoro.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ost",
+  "title": "OST",
+  "subtitle": "The OST Platform enables you to easily add brand currency into any app to strengthen direct-to-consumer relationships",
+  "tags": [
+    "loyalty",
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597857219/icons/ost.jpg",
+  "website": "https://ost.com/",
+  "docsUrl": "https://dev.ost.com/platform/docs/wallet/features/#6-digit-user-pin"
+}

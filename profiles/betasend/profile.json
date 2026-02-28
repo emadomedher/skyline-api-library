@@ -1,0 +1,12 @@
+{
+  "id": "betasend",
+  "title": "Betasend",
+  "subtitle": "Betasend is an email marketing and automation platform, with Betasend you can trigger autoresponders and send unlimit...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304485/catalog/betasend/icon128x128.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "vinli",
+  "title": "Vinli",
+  "subtitle": "Vinli turns your ordinary car into a smart car. With in-car WiFi connectivity, a wide array of apps, safety services,...",
+  "tags": [
+    "entertainment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284651/catalog/vinli/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "truelark",
+  "title": "TrueLark",
+  "subtitle": "TrueLark bring the power of AI to every business. We created a human-like assistant designed to support you and your ...",
+  "tags": [
+    "live-chat",
+    "scheduling"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624984041/icons/truelark.png",
+  "website": "https://truelark.com/"
+}

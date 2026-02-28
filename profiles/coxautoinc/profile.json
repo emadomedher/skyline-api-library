@@ -1,0 +1,13 @@
+{
+  "id": "coxautoinc",
+  "title": "Cox Automotive",
+  "subtitle": "Our brands provide industry-leading digital marketing, retail, financial and wholesale solutions for consumers, deale...",
+  "tags": [
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760658/icons/coxautoinc.jpg",
+  "website": "https://www.coxautoinc.com/"
+}

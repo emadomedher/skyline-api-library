@@ -1,0 +1,14 @@
+{
+  "id": "kyriba",
+  "title": "Kyriba",
+  "subtitle": "Kyriba treasury software is comprised of a set of powerful products that span treasury, risk, payments and working ca...",
+  "tags": [
+    "treasury-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631758589/icons/kyriba.jpg",
+  "website": "https://www.kyriba.com/",
+  "docsUrl": "https://developer.kyriba.com/site/global/home/index.gsp"
+}

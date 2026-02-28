@@ -1,0 +1,13 @@
+{
+  "id": "friendlyscore",
+  "title": "FriendlyScore",
+  "subtitle": "Account Information Service Provider (AISP) and analytical software company, offering in-house credit risk solutions ...",
+  "tags": [
+    "open-banking-api-aggregator"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578476216/catalog/friendlyscore/icon128x128.jpg",
+  "website": "https://friendlyscore.com/"
+}

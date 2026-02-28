@@ -1,0 +1,12 @@
+{
+  "id": "leadsimple",
+  "title": "LeadSimple",
+  "subtitle": "LeadSimple is a cutting-edge lead management system for the real estate industry. By creating a better sales experien...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305292/catalog/leadsimple/icon128x128.png"
+}

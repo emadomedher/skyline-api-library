@@ -1,0 +1,14 @@
+{
+  "id": "vertafore",
+  "title": "Vertafore",
+  "subtitle": "Vertafore, an Insurance Software Solutions for Carriers, Agencies, Brokers, MGAs, and MGUs. An Insurance Distribution...",
+  "tags": [
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261089/icons/vertafore.jpg",
+  "website": "https://www.vertafore.com/",
+  "docsUrl": "https://www.vertafore.com/products/referenceconnect"
+}

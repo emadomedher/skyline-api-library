@@ -1,0 +1,13 @@
+{
+  "id": "verified-reviews",
+  "title": "Verified Reviews",
+  "subtitle": "Verified Reviews is a solution specialising in gathering customer reviews, allowing customers to provide opinions of ...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306427/catalog/verified-reviews/icon128x128.png",
+  "website": "https://verified-reviews.com"
+}

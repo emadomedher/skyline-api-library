@@ -1,0 +1,15 @@
+{
+  "id": "cloudtalk-io",
+  "title": "CloudTalk",
+  "subtitle": "Make and receive calls using powerful call center software connected to your favourite business tools.",
+  "tags": [
+    "phone"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616155010/icons/cloudtalk-io.jpg",
+  "specUrl": "https://developers.cloudtalk.io/swagger.json",
+  "website": "https://www.cloudtalk.io/",
+  "docsUrl": "https://developers.cloudtalk.io"
+}

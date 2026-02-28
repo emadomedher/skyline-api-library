@@ -1,0 +1,13 @@
+{
+  "id": "readytalk",
+  "title": "ReadyTalk",
+  "subtitle": "ReadyTalk delivers full stack of cloud communication services that inspire collaboration and create connection with o...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721769/catalog/readytalk/icon128x128.jpg",
+  "website": "https://readytalk.com"
+}

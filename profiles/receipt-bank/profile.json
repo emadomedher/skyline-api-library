@@ -1,0 +1,14 @@
+{
+  "id": "receipt-bank",
+  "title": "Receipt Bank",
+  "subtitle": "No more data entry. No more paper. Just more time doing what you love.",
+  "tags": [
+    "accounting",
+    "receipt-scanning"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590189926/catalog/receipt-bank/icon128x128.jpg",
+  "website": "https://www.receipt-bank.com/"
+}

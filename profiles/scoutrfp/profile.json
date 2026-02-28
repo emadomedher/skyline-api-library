@@ -1,0 +1,14 @@
+{
+  "id": "scoutrfp",
+  "title": "Scout RFP",
+  "subtitle": "Scout RFP provides cloud-based strategic sourcing and procurement solutions that help organizations source faster and...",
+  "tags": [
+    "procurement",
+    "supplier-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572982367/catalog/scoutrfp/icon128x128.jpg",
+  "website": "https://www.scoutrfp.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nexo-io",
+  "title": "Nexo",
+  "subtitle": "Nexo - The World's First Instant Crypto Credit Lines. Get instant crypto loans by local bank transfer using crypto as...",
+  "tags": [
+    "crypto",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584551411/catalog/nexo-io/icon128x128.jpg",
+  "website": "https://nexo.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tamigo",
+  "title": "tamigo",
+  "subtitle": "tamigo is a cloud-based solution that combines scheduling, absence management, performance, employee communication, H...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585679785/catalog/tamigo/icon128x128.png",
+  "website": "https://www.tamigo.com/"
+}

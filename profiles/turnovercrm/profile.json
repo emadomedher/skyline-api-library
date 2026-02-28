@@ -1,0 +1,14 @@
+{
+  "id": "turnovercrm",
+  "title": "TurnoverCRM",
+  "subtitle": "The dealership CRM should be easy to use and help you close more deals faster. We keep the sophistication under-the-r...",
+  "tags": [
+    "crm",
+    "car-dealership-crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647901520/icons/turnovercrm.png",
+  "website": "https://www.turnovercrm.com/"
+}

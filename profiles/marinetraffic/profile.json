@@ -1,0 +1,14 @@
+{
+  "id": "marinetraffic",
+  "title": "MarineTraffic",
+  "subtitle": "MarineTraffic Live Ships Map. Discover information and vessel positions for vessels around the world. Search the Mari...",
+  "tags": [
+    "ship-tracking",
+    "logistics"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590745677/catalog/marinetraffic/icon128x128.jpg",
+  "website": "https://www.marinetraffic.com/"
+}

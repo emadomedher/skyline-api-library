@@ -1,0 +1,12 @@
+{
+  "id": "onedrive-for-business",
+  "title": "OneDrive for Business",
+  "subtitle": "OneDrive for Business is a cloud storage, file hosting service that allows users to sync files and later access them ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264821/catalog/onedrive-for-business/icon128x128.png"
+}

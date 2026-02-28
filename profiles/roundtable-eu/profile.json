@@ -1,0 +1,13 @@
+{
+  "id": "roundtable-eu",
+  "title": "Roundtable",
+  "subtitle": "The social platform for top-tier private investments. Create or join a community to co-invest in premium start-ups an...",
+  "tags": [
+    "investment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637946/icons/roundtable-eu.png",
+  "website": "https://www.roundtable.eu/"
+}

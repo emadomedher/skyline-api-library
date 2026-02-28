@@ -1,0 +1,13 @@
+{
+  "id": "gps-time-be",
+  "title": "GPS Time & Security",
+  "subtitle": "GPS is je full-service partner voor efficiënte Tijdregistratie en Personeelsplanning op maat van je organisatie. Vraa...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600433058/icons/gps-time-be.png",
+  "website": "https://gps-time.be/"
+}

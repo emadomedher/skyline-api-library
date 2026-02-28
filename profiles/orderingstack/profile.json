@@ -1,0 +1,14 @@
+{
+  "id": "orderingstack",
+  "title": "Ordering Stack",
+  "subtitle": "Online ordering system for taking and processing orders in restaurants, with strong sales and marketing support.",
+  "tags": [
+    "order-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093474/icons/orderingstack.jpg",
+  "website": "https://orderingstack.com/",
+  "docsUrl": "https://docs.orderingstack.com/api/"
+}

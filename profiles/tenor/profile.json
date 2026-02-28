@@ -1,0 +1,14 @@
+{
+  "id": "tenor",
+  "title": "Tenor",
+  "subtitle": "Say more with Tenor. Find the perfect Animated GIFs and videos to convey exactly what you mean in every conversation.",
+  "tags": [
+    "gif"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614327/catalog/tenor/icon128x128.jpg",
+  "website": "https://tenor.com/",
+  "docsUrl": "https://tenor.com/gifapi/documentation"
+}

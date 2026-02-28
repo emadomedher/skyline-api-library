@@ -1,0 +1,13 @@
+{
+  "id": "crowdskout",
+  "title": "Crowdskout",
+  "subtitle": "Crowdskout is the CRM software for campaigns, nonprofits, and advocacy groups. Manage volunteer operations, activate ...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719662/catalog/crowdskout/icon128x128.jpg",
+  "website": "https://crowdskout.com"
+}

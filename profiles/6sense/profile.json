@@ -1,0 +1,13 @@
+{
+  "id": "6sense",
+  "title": "6sense",
+  "subtitle": "Uncover, prioritize and engage with demand on the 6sense Account Based Orchestration Platform, powered by AI.",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432674/catalog/6sense/icon128x128.png",
+  "website": "https://6sense.com"
+}

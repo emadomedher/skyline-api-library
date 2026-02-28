@@ -1,0 +1,13 @@
+{
+  "id": "getlisting-co",
+  "title": "GetListing",
+  "subtitle": "Writing effective real estate listing descriptions be hard and time consuming. GetListing.co uses artificial intellig...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626159276/icons/getlisting-co.svg",
+  "website": "https://www.getlisting.co/"
+}

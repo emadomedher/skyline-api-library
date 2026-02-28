@@ -1,0 +1,13 @@
+{
+  "id": "circula",
+  "title": "Circula",
+  "subtitle": "Circula sets the new standard in expense management. Digitize your expenses 100% compliant and paperless. Start your ...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586953430/catalog/circula/icon128x128.png",
+  "website": "https://www.circula.com/"
+}

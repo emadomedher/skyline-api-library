@@ -1,0 +1,14 @@
+{
+  "id": "confetti-events",
+  "title": "Confetti",
+  "subtitle": "Confetti is the all-in-one tool for all your conferences, festivals, workshops and social events.",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660569966/icons/confetti-events.jpg",
+  "website": "https://confetti.events/",
+  "docsUrl": "https://docs.confetti.events"
+}

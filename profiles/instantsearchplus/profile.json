@@ -1,0 +1,14 @@
+{
+  "id": "instantsearchplus",
+  "title": "Fast Simon",
+  "subtitle": "Site search with no coding, no integration, and no maintenance. InstantSearch+ is Compatible with all merchants and e...",
+  "tags": [
+    "ecommerce",
+    "search-as-a-service"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591112899/icons/instantsearchplus.jpg",
+  "website": "https://www.instantsearchplus.com/"
+}

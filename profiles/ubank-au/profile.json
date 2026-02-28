@@ -1,0 +1,14 @@
+{
+  "id": "ubank-au",
+  "title": "UBank",
+  "subtitle": "UBank is an Australian direct bank, that operates as a division of National Australia Bank. It was established in 200...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601846782/icons/ubank-au.jpg",
+  "website": "https://www.ubank.com.au/",
+  "docsUrl": "https://www.ubank.com.au/content/ubank/en/developer/products"
+}

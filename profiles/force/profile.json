@@ -1,0 +1,13 @@
+{
+  "id": "force",
+  "title": "Force.com",
+  "subtitle": "Force.com is part of Salesforce Customer 360 Platform. Learn about the fastest way to build custom employee-facing mo...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594240687/icons/force.jpg",
+  "website": "https://force.com"
+}

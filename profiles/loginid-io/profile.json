@@ -1,0 +1,15 @@
+{
+  "id": "loginid-io",
+  "title": "LoginID",
+  "subtitle": "Goodbye passwords! Simple. Secure. No downloads or plugins required. Add it to your website or app today.",
+  "tags": [
+    "identity",
+    "authentication"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869881/icons/loginid-io.png",
+  "website": "https://loginid.io/",
+  "docsUrl": "https://docs.loginid.io"
+}

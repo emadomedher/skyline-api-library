@@ -1,0 +1,14 @@
+{
+  "id": "aegon",
+  "title": "Aegon",
+  "subtitle": "Aegon - global provider of pensions, insurance and asset management.",
+  "tags": [
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570198815/catalog/aegon/icon128x128.jpg",
+  "website": "https://www.aegon.com",
+  "docsUrl": "https://www.aegon.com/about/governance/General-Governance"
+}

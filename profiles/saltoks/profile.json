@@ -1,0 +1,15 @@
+{
+  "id": "saltoks",
+  "title": "SALTO KS",
+  "subtitle": "SALTO KS, SALTO Keys as a Service - Wireless Access Control For Your Business. Cloud-Based, Real-Time And On-The-Go S...",
+  "tags": [
+    "keylocks",
+    "hospitality",
+    "non-software"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724216/icons/saltoks.png",
+  "website": "https://saltoks.com/"
+}

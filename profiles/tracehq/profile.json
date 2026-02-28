@@ -1,0 +1,15 @@
+{
+  "id": "tracehq",
+  "title": "Trace",
+  "subtitle": "Finance works better with Trace. See how you can manage headcount, approve spend, and deliver better insights to your...",
+  "tags": [
+    "headcount-management",
+    "finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017145/icons/tracehq.png",
+  "website": "https://www.tracehq.com/",
+  "docsUrl": "https://www.tracehq.com/#"
+}

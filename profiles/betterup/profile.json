@@ -1,0 +1,14 @@
+{
+  "id": "betterup",
+  "title": "BetterUp",
+  "subtitle": "The People Experience Platform for professional coaching, immersive learning, and insights designed for everyone.",
+  "tags": [
+    "workplace-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615737986/icons/betterup.jpg",
+  "website": "https://www.betterup.com/",
+  "docsUrl": "https://www.betterup.com/#"
+}

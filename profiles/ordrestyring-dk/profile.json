@@ -1,0 +1,14 @@
+{
+  "id": "ordrestyring-dk",
+  "title": "Ordrestyring",
+  "subtitle": "Over 20.000 håndværkere bruger allerede Ordrestyring Håndværkerens foretrukne sagsstyrings-system Fra projektplanlægn...",
+  "tags": [
+    "order-management-system-for-craftsmen"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613504901/icons/ordrestyring-dk.jpg",
+  "website": "https://ordrestyring.dk/",
+  "docsUrl": "https://ordrestyring.dk/kundereferencer"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vienna-advantage",
+  "title": "VIENNA Advantage",
+  "subtitle": "An open source ERP and CRM Solution with powerful DMS and BI module available on demand to boost your business. Use i...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438283/catalog/vienna-advantage/icon128x128.png",
+  "website": "https://viennaadvantage.com"
+}

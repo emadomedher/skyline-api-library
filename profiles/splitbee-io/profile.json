@@ -1,0 +1,13 @@
+{
+  "id": "splitbee-io",
+  "title": "Splitbee",
+  "subtitle": "Splitbee API integration",
+  "tags": [
+    "a/b-testing"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583849748/catalog/splitbee-io/icon128x128.jpg",
+  "website": "https://splitbee.io/"
+}

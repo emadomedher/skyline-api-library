@@ -1,0 +1,13 @@
+{
+  "id": "gridle",
+  "title": "Gridle",
+  "subtitle": "Gridle.io is a productivity platform for teams and enterprises which brings together all forms of communication i.e. ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720445/catalog/gridle/icon128x128.png",
+  "website": "https://gridle.io"
+}

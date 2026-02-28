@@ -1,0 +1,14 @@
+{
+  "id": "pronto-net",
+  "title": "Pronto Software",
+  "subtitle": "Pronto Software is an Australian software vendor and development company, providing award-winning Enterprise Resource...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616460143/icons/pronto-net.png",
+  "website": "https://www.pronto.net/",
+  "docsUrl": "https://www.pronto.net/erp-technology/developer-tools"
+}

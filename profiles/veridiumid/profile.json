@@ -1,0 +1,15 @@
+{
+  "id": "veridiumid",
+  "title": "Veridium",
+  "subtitle": "Implement real passwordless authentication across your enterprise and say goodbye to password replay and expensive pa...",
+  "tags": [
+    "identity",
+    "authentication",
+    "hand-recognition"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591782530/icons/veridiumid.jpg",
+  "website": "https://veridiumid.com/"
+}

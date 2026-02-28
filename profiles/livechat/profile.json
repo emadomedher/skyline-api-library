@@ -1,0 +1,14 @@
+{
+  "id": "livechat",
+  "title": "Livechat",
+  "subtitle": "LiveChat - premium live chat software for business. Over 28 000 companies from 150 countries use LiveChat. Try now, c...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305321/catalog/livechat/icon128x128.png",
+  "website": "https://www.livechatinc.com/",
+  "docsUrl": "https://developers.livechatinc.com"
+}

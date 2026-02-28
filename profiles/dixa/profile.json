@@ -1,0 +1,13 @@
+{
+  "id": "dixa",
+  "title": "Dixa",
+  "subtitle": "Dixa is customer service software that supports customer friendships. Talk with customers on phone, email, chat & soc...",
+  "tags": [
+    "customer-experience-service-and-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947135/catalog/dixa/icon128x128.jpg",
+  "website": "https://dixa.com"
+}

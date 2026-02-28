@@ -1,0 +1,16 @@
+{
+  "id": "zopa",
+  "title": "Zopa",
+  "subtitle": "In 2005 we built the first ever peer-to-peer (P2P) lending company to give people access to simpler, better-value loa...",
+  "tags": [
+    "challenger-banks",
+    "credit",
+    "lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062127/catalog/zopa/icon128x128.jpg",
+  "website": "https://www.zopa.com/"
+}

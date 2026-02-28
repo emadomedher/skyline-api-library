@@ -1,0 +1,15 @@
+{
+  "id": "bunnyshell",
+  "title": "Bunnyshell",
+  "subtitle": "Create and manage production, staging, and development Kubernetes environments on-demand or automatically with every ...",
+  "tags": [
+    "devops",
+    "environments-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753776/icons/bunnyshell.jpg",
+  "website": "https://www.bunnyshell.com/",
+  "docsUrl": "https://documentation.bunnyshell.com"
+}

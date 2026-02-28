@@ -1,0 +1,13 @@
+{
+  "id": "chatterpy",
+  "title": "ChatterPy",
+  "subtitle": "ChatterPy API integration",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635814200/icons/chatterpy.jpg",
+  "website": "https://www.chatterpy.com/"
+}

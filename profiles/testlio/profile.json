@@ -1,0 +1,15 @@
+{
+  "id": "testlio",
+  "title": "Testlio",
+  "subtitle": "Testlio's remote, on-demand, web, and mobile app testing and QA help software development teams build better end-to-e...",
+  "tags": [
+    "mobile-app-testing",
+    "qa",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606355127/icons/testlio.png",
+  "website": "https://testlio.com/"
+}

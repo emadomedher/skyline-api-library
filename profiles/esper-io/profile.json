@@ -1,0 +1,14 @@
+{
+  "id": "esper-io",
+  "title": "Esper",
+  "subtitle": "Esper is the first platform built for Android enterprise device management and DevOps, so you can deploy devices, man...",
+  "tags": [
+    "mobile-device-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615256264/icons/esper-io.png",
+  "website": "https://esper.io/",
+  "docsUrl": "https://esper.io/developer"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mlflow-org",
+  "title": "MLflow",
+  "subtitle": "An open source platform for the end-to-end machine learning lifecycle",
+  "tags": [
+    "machine-learning",
+    "open-source"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571955925/catalog/mlflow-org/icon128x128.jpg",
+  "website": "https://mlflow.org/",
+  "docsUrl": "https://mlflow.org/docs/latest/index.html"
+}

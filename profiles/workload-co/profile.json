@@ -1,0 +1,14 @@
+{
+  "id": "workload-co",
+  "title": "Workload",
+  "subtitle": "Workload helps businesses save time by connecting their software together to automate data. Automate your workflows w...",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556302/icons/workload-co.jpg",
+  "website": "https://www.workload.co/",
+  "docsUrl": "https://workload.co/api/amazonaws-com-workdocs/integrations"
+}

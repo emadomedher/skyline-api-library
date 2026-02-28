@@ -1,0 +1,14 @@
+{
+  "id": "fnnldb",
+  "title": "FnnlDb",
+  "subtitle": "FnnlDb powers ecommerce businesses through superior billing and analytics.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562154347/catalog/fnnldb/icon128x128.png",
+  "website": "https://fnnldb.com",
+  "docsUrl": "https://fnnldb.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "remoteleaf",
+  "title": "Remote Leaf",
+  "subtitle": "Remote Leaf aggregates remote jobs in one organised place from hundreds of remote job boards, company career pages, l...",
+  "tags": [
+    "jobs-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fremoteleaf.com%2Fopen&psig=AOvVaw39WMoBTN_NHW3rmWeSgryS&ust=1603280123253000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDf4YOKw-wCFQAAAAAdAAAAABAD",
+  "website": "https://remoteleaf.com/"
+}

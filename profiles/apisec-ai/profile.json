@@ -1,0 +1,14 @@
+{
+  "id": "apisec-ai",
+  "title": "apisec.ai",
+  "subtitle": "Enterprise-grade and continuous API Securing platform that instantly detects top vulnerabilities, including business-...",
+  "tags": [
+    "api-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612494658/icons/apisec-ai.png",
+  "website": "https://www.apisec.ai/",
+  "docsUrl": "https://www.apisec.ai/developers"
+}

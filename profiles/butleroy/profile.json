@@ -1,0 +1,12 @@
+{
+  "id": "butleroy",
+  "title": "Butleroy",
+  "subtitle": "Butleroy is an intelligent butler who gives you more flexibility over your calendars, tasks and to dos. Just tell you...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304552/catalog/butleroy/icon128x128.png"
+}

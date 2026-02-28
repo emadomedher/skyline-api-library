@@ -1,0 +1,16 @@
+{
+  "id": "openai-api-node-package",
+  "title": "openAI API Node.js Package",
+  "subtitle": "A tiny client module for the openAI API. Contribute to Njerschow/openai-api development by creating an account on Git...",
+  "tags": [
+    "sdks",
+    "ai",
+    "gpt-3",
+    "javascript"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612642016/icons/openai-api-node-package.jpg",
+  "website": "https://github.com/Njerschow/openai-api"
+}

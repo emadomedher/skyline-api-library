@@ -1,0 +1,14 @@
+{
+  "id": "ecisolutions",
+  "title": "ECi Software Solutions",
+  "subtitle": "Industry-specific software is the best way to get business done efficiently and profitably. Cloud-based software is t...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396570/icons/ecisolutions.jpg",
+  "website": "https://www.ecisolutions.com/",
+  "docsUrl": "https://www.ecisolutions.com/home-builders-land-developers"
+}

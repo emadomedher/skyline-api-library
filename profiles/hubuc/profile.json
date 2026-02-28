@@ -1,0 +1,14 @@
+{
+  "id": "hubuc",
+  "title": "HUBUC",
+  "subtitle": "HUBUC is an embedded financial services provider behind any brand that wants to offer banking and payment cards.",
+  "tags": [
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406241/icons/hubuc.jpg",
+  "website": "https://hubuc.com/",
+  "docsUrl": "https://hubuc.stoplight.io/docs/hubuc-docs/zg9joji0mzywnzc3-initial-setup"
+}

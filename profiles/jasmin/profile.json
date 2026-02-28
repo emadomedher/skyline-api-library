@@ -1,0 +1,12 @@
+{
+  "id": "jasmin",
+  "title": "Jasmin",
+  "subtitle": "Jasmin is a Cloud Management Software by PRIMAVERA BSS that allows you to track your business any time and anywhere. ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056107/catalog/jasmin/icon128x128.png"
+}

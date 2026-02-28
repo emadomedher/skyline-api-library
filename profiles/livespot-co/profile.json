@@ -1,0 +1,13 @@
+{
+  "id": "livespot-co",
+  "title": "LiveSpot",
+  "subtitle": "Scale your classes and coaching sessions. Host live streams with call-ins that allow you to effectively share your cr...",
+  "tags": [
+    "video-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626207815/icons/livespot-co.jpg",
+  "website": "https://livespot.co/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "keybase-io",
+  "title": "Keybase",
+  "subtitle": "Keybase is for keeping everyone's chats and files safe, from families to communities to companies. MacOS, Windows, Li...",
+  "tags": [
+    "encryption"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982427/catalog/keybase-io/icon128x128.jpg",
+  "website": "https://keybase.io/",
+  "docsUrl": "https://keybase.io/docs"
+}

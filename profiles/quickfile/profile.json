@@ -1,0 +1,12 @@
+{
+  "id": "quickfile",
+  "title": "QuickFile",
+  "subtitle": "UK based cloud accounting software. Manage your accounts and bookkeeping in the cloud. QuickFile is simple to use, fa...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305805/catalog/quickfile/icon128x128.png"
+}

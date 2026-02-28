@@ -1,0 +1,14 @@
+{
+  "id": "debiteuren365",
+  "title": "Debiteuren365",
+  "subtitle": "Debiteurenbeheer gemakkelijk zelf doen of uitbesteden!",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562339840/catalog/debiteuren365/icon128x128.jpg",
+  "website": "https://debiteuren365.nl",
+  "docsUrl": "https://www.debiteuren365.nl/vacature-junior-developer"
+}

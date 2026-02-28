@@ -1,0 +1,17 @@
+{
+  "id": "redwoodjs",
+  "title": "RedwoodJS",
+  "subtitle": "Bringing full-stack to the Jstack. An opinionated framework that combines React, GraphQL, Prisma2, SQL, and lots more...",
+  "tags": [
+    "react",
+    "jamstack",
+    "javascript",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075873/icons/redwoodjs.jpg",
+  "website": "https://redwoodjs.com/",
+  "docsUrl": "https://redwoodjs.com/docs"
+}

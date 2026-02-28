@@ -1,0 +1,13 @@
+{
+  "id": "factuursturen-nl",
+  "title": "FactuurSturen.nl",
+  "subtitle": "FactuurSturen.nl zorgt ervoor dat jij de facturatie en basisadministratie in no-time kunt doen, zodat jij meer tijd h...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583982044/catalog/factuursturen-nl/icon128x128.png",
+  "website": "https://www.factuursturen.nl/"
+}

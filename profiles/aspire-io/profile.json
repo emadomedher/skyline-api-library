@@ -1,0 +1,14 @@
+{
+  "id": "aspire-io",
+  "title": "Aspire",
+  "subtitle": "Join today's top ecommerce brands on the leading influencer marketing platform. Build lasting relationships and drive...",
+  "tags": [
+    "influencer-marketing",
+    "ecommerce"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656024447/icons/aspire-io.png",
+  "website": "https://aspire.io/"
+}

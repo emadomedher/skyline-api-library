@@ -1,0 +1,15 @@
+{
+  "id": "colossyan",
+  "title": "Colossyan",
+  "subtitle": "Colossyan Creator makes video creation simple and stress-free. Discover our AI video creator with real actors. Create...",
+  "tags": [
+    "video-generation",
+    "synthetic-video"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661007991/icons/colossyan.jpg",
+  "website": "https://www.colossyan.com/",
+  "docsUrl": "https://docs.colossyan.com"
+}

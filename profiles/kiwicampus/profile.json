@@ -1,0 +1,13 @@
+{
+  "id": "kiwicampus",
+  "title": "Kiwi Campus",
+  "subtitle": "Kiwi is building the autonomous delivery infrastructure of tomorrow. We are leaders in the consumer delivery space, b...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171249/catalog/kiwicampus/icon128x128.jpg",
+  "website": "https://www.kiwicampus.com/"
+}

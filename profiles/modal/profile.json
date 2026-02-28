@@ -1,0 +1,13 @@
+{
+  "id": "modal",
+  "title": "Modal Labs",
+  "subtitle": "Modal helps people run code in the cloud. We think it's the easiest way for developers to get access to containerized...",
+  "tags": [
+    "machine-learning-model-deployment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681298698/icons/modal.jpg",
+  "website": "https://modal.com/"
+}

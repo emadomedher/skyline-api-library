@@ -1,0 +1,14 @@
+{
+  "id": "mercedes-benz",
+  "title": "Mercedes",
+  "subtitle": "Mercedes-Benz is both a German automotive marque and, from late 2019 onwards, a subsidiary – as Mercedes-Benz AG – of...",
+  "tags": [
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613154093/icons/mercedes-benz.jpg",
+  "website": "https://www.mercedes-benz.com/",
+  "docsUrl": "https://developer.mercedes-benz.com/"
+}

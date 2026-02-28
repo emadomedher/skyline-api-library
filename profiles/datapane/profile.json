@@ -1,0 +1,15 @@
+{
+  "id": "datapane",
+  "title": "Datapane",
+  "subtitle": "Create and publish interactive reports in Python. Datapane is an open source framework which makes it easy to turn sc...",
+  "tags": [
+    "data-science-notebooks",
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604485491/icons/datapane.jpg",
+  "website": "https://datapane.com/",
+  "docsUrl": "https://docs.datapane.com"
+}

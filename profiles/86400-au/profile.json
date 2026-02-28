@@ -1,0 +1,13 @@
+{
+  "id": "86400-au",
+  "title": "86 400",
+  "subtitle": "Launched in September 2019, 86 400 is one of Australia’s pioneering neobanks, and it's all about giving Aussie custom...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364595/icons/86400-au.png",
+  "website": "https://www.86400.com.au/"
+}

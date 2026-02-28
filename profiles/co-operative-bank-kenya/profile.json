@@ -1,0 +1,14 @@
+{
+  "id": "co-operative-bank-kenya",
+  "title": "Co-operative Bank of Kenya",
+  "subtitle": "Co-operative Bank of Kenya is a commercial bank in Kenya, the largest economy in the East African Community. It is li...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608488633/icons/co-operative-bank-kenya.jpg",
+  "website": "https://www.co-opbank.co.ke/",
+  "docsUrl": "https://developer.co-opbank.co.ke:9443/store/apis/documentation"
+}

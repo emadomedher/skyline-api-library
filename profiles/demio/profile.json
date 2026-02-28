@@ -1,0 +1,13 @@
+{
+  "id": "demio",
+  "title": "Demio",
+  "subtitle": "A smart webinar platform built for inbound marketing  and sales.",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304751/catalog/demio/icon128x128.png",
+  "website": "https://demio.com/"
+}

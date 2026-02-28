@@ -1,0 +1,15 @@
+{
+  "id": "story-ai",
+  "title": "Story AI",
+  "subtitle": "The word document with superpowers to create tools, workflows, and automations by describing them in your own words.",
+  "tags": [
+    "documents",
+    "notes",
+    "productivity"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623092120/icons/story-ai.jpg",
+  "website": "https://www.story.ai/"
+}

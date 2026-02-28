@@ -1,0 +1,13 @@
+{
+  "id": "boomsonar",
+  "title": "BoomSonar",
+  "subtitle": "Social Media Monitoring Tool and Social Media Business Platform BoomSonar helps you to monitor, measure, analyze, pub...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433377/catalog/boomsonar/icon128x128.png",
+  "website": "https://boomsonar.com"
+}

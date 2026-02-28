@@ -1,0 +1,13 @@
+{
+  "id": "perksww",
+  "title": "Perks WW Channel",
+  "subtitle": "Looking for an incentive solution to run channel incentives, research rewards programs or reward fulfillment? Perks W...",
+  "tags": [
+    "channel-incentives-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327350/icons/perksww.jpg",
+  "website": "https://perksww.com"
+}

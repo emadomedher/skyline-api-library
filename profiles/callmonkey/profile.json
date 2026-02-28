@@ -1,0 +1,12 @@
+{
+  "id": "callmonkey",
+  "title": "CallMonkey",
+  "subtitle": "CallMonkey is a leading Sales Acceleration Software application.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304567/catalog/callmonkey/icon128x128.png"
+}

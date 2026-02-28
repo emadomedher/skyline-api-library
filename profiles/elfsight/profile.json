@@ -1,0 +1,15 @@
+{
+  "id": "elfsight",
+  "title": "Elfsight",
+  "subtitle": "Elfsight widgets help 200 000+ website owners to increase sales, engage visitors and collect leads. Ready-to-use soul...",
+  "tags": [
+    "marketing-automation",
+    "widgets"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597823231/icons/elfsight.jpg",
+  "website": "https://elfsight.com/",
+  "docsUrl": "https://elfsight.com/developers"
+}

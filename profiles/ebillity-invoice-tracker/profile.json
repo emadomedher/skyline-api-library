@@ -1,0 +1,13 @@
+{
+  "id": "ebillity-invoice-tracker",
+  "title": "Invoice Tracker by eBillity",
+  "subtitle": "Invoice Tracker automates your accounts receivable process. Connect & sync invoices from Time Tracker's Time + Billin...",
+  "tags": [
+    "billing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573231970/catalog/ebillity-invoice-tracker/icon128x128.png",
+  "website": "https://www.invoicetracker.com/"
+}

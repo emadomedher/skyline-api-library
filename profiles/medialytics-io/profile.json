@@ -1,0 +1,13 @@
+{
+  "id": "medialytics-io",
+  "title": "Medialytics",
+  "subtitle": "Collect all of your video data and display it in one place. Combine video metrics across platforms using custom widge...",
+  "tags": [
+    "ott-video-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305960/catalog/medialytics-io/icon128x128.png",
+  "website": "https://medialytics.io"
+}

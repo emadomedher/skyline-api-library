@@ -1,0 +1,13 @@
+{
+  "id": "bbva",
+  "title": "BBVA",
+  "subtitle": "Banco Bilbao Vizcaya Argentaria, S.A., better known by its initialism BBVA, is a Spanish multinational financial serv...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563407702/catalog/bbva/icon128x128.png",
+  "website": "https://bbva.com"
+}

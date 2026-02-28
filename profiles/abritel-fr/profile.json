@@ -1,0 +1,14 @@
+{
+  "id": "abritel-fr",
+  "title": "Abritel",
+  "subtitle": "Trouvez la propriété idéale sur Abritel - HomeAway - site leader des locations de vacances ✓+2 millions de propriétés...",
+  "tags": [
+    "ota",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612575824/icons/abritel-fr.png",
+  "website": "https://www.abritel.fr/"
+}

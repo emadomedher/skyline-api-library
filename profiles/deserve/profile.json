@@ -1,0 +1,14 @@
+{
+  "id": "deserve",
+  "title": "Deserve",
+  "subtitle": "Deserve Credit Cards offers card options to students, professionals, new to country, and those on work visas. No cred...",
+  "tags": [
+    "credit-cards",
+    "card-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573437325/catalog/deserve/icon128x128.jpg",
+  "website": "https://www.deserve.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "privacycheq",
+  "title": "PrivacyCheq",
+  "subtitle": "PrivacyCheq API integration",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721583/catalog/privacycheq/icon128x128.png",
+  "website": "https://privacycheq.com"
+}

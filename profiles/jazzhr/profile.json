@@ -1,0 +1,13 @@
+{
+  "id": "jazzhr",
+  "title": "JazzHR",
+  "subtitle": "JazzHR API integration",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435278/catalog/jazzhr/icon128x128.png",
+  "website": "https://jazzhr.com"
+}

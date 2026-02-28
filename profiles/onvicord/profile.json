@@ -1,0 +1,13 @@
+{
+  "id": "onvicord",
+  "title": "OnviCord",
+  "subtitle": "Intelligent Automation and Customer Experience Management solutions automate and unify customer interactions and busi...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946748/catalog/onvicord/icon128x128.jpg",
+  "website": "https://onvisource.com"
+}

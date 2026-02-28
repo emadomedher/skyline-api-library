@@ -1,0 +1,13 @@
+{
+  "id": "arcuity",
+  "title": "ArcuityAI ",
+  "subtitle": "ArcuityAI | Technology-Assisted Record Retrieval and Review",
+  "tags": [
+    "lawtech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657574399/icons/arcuity.jpg",
+  "website": "https://www.arcuity.com/"
+}

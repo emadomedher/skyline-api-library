@@ -1,0 +1,16 @@
+{
+  "id": "logz-io",
+  "title": "Logz.io",
+  "subtitle": "Logz.io provides Elasticsearch, Logstash and Kibana on the cloud with alerts, unlimited scalability and free ELK apps...",
+  "tags": [
+    "log-management",
+    "logging",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568938117/catalog/logz-io/icon128x128.jpg",
+  "website": "https://logz.io/",
+  "docsUrl": "https://docs.logz.io"
+}

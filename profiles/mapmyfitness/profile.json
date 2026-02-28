@@ -1,0 +1,12 @@
+{
+  "id": "mapmyfitness",
+  "title": "MapMyFitness",
+  "subtitle": "Your workout, your device, anywhere, anytime. Plan, track, analyze and share your journey with MapMyFitness.",
+  "tags": [
+    "entertainment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305397/catalog/mapmyfitness/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "thepeer-co",
+  "title": "Thepeer",
+  "subtitle": "A quick and secure way to send money across any business. Sign-up and give your customers the experience they deserve.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656024335/icons/thepeer-co.jpg",
+  "website": "https://thepeer.co/",
+  "docsUrl": "https://docs.thepeer.co"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "meld",
+  "title": "Meld",
+  "subtitle": "MELD is the first DeFi, non-custodial, banking protocol. You can securely lend & borrow both crypto and fiat currenci...",
+  "tags": [
+    "defi",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633563142/icons/meld.jpg",
+  "website": "https://www.meld.com/",
+  "docsUrl": "https://docs.meld.com"
+}

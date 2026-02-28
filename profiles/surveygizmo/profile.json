@@ -1,0 +1,13 @@
+{
+  "id": "surveygizmo",
+  "title": "SurveyGizmo",
+  "subtitle": "Build surveys, online forms, evaluations, and event registrations quickly, easily, and professionally.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306230/catalog/surveygizmo/icon128x128.png",
+  "website": "https://www.surveygizmo.com/"
+}

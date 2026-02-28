@@ -1,0 +1,13 @@
+{
+  "id": "polydone",
+  "title": "Polydone",
+  "subtitle": "Agile Project Management with Kanban and Resource Management with Capacity. Collaborative cloud software for companies.",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436541/catalog/polydone/icon128x128.png",
+  "website": "https://polydone.com"
+}

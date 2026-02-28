@@ -1,0 +1,13 @@
+{
+  "id": "bottlenose",
+  "title": "Bottlenose",
+  "subtitle": "Bottlenose makes data analysis easy. Our machine learning, data mining, pattern recognition, and natural language pro...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433394/catalog/bottlenose/icon128x128.png",
+  "website": "https://bottlenose.com"
+}

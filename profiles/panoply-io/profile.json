@@ -1,0 +1,14 @@
+{
+  "id": "panoply-io",
+  "title": "Panoply",
+  "subtitle": "Easily sync, store, and access data from top CRMs, databases, ad networks & more without code. Connect your favorite ...",
+  "tags": [
+    "data-warehouses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599594349/icons/panoply-io.jpg",
+  "website": "https://panoply.io/",
+  "docsUrl": "https://panoply.io/docs"
+}

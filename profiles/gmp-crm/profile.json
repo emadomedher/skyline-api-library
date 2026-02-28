@@ -1,0 +1,13 @@
+{
+  "id": "gmp-crm",
+  "title": "GMP CRM",
+  "subtitle": "CRM systems for small start up businesses and growth businesses needing administration controls for core processes",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720246/catalog/gmp-crm/icon128x128.png",
+  "website": "https://gmp-crm.com"
+}

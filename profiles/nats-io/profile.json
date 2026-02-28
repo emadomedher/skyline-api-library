@@ -1,0 +1,15 @@
+{
+  "id": "nats-io",
+  "title": "NATS.io",
+  "subtitle": "NATS is a connective technology powering modern distributed systems, unifying Cloud, On-Premise, Edge, and IoT.",
+  "tags": [
+    "messaging-systems",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638213322/icons/nats-io.png",
+  "website": "https://nats.io/",
+  "docsUrl": "https://docs.nats.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "openphone-co",
+  "title": "OpenPhone",
+  "subtitle": "Easiest way to get a phone number for your startup or small business. Get a new business phone number or port your ex...",
+  "tags": [
+    "calling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581629821/catalog/openphone-co/icon128x128.png",
+  "website": "https://www.openphone.co/"
+}

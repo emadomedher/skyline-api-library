@@ -1,0 +1,13 @@
+{
+  "id": "noodle",
+  "title": "Noodle",
+  "subtitle": "Noodle's Intranet Software gives companies the ability to share ideas, and documents, and collaborate on projects in ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946778/catalog/noodle/icon128x128.png",
+  "website": "https://vialect.com"
+}

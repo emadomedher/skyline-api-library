@@ -1,0 +1,13 @@
+{
+  "id": "azure-cdn",
+  "title": "Azure CDN",
+  "subtitle": "Azure CDN API integration",
+  "tags": [
+    "cdn-(content-delivery-network)"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573695733/catalog/azure-cdn/icon128x128.png",
+  "website": "https://azure.microsoft.com/en-us/services/cdn/"
+}

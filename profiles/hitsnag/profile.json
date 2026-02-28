@@ -1,0 +1,13 @@
+{
+  "id": "hitsnag",
+  "title": "Hitsnag",
+  "subtitle": "Organize and save time without opening another app. Hitsnag sorts thoughts and ideas by sending them to the productiv...",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006431/icons/hitsnag.png",
+  "website": "https://hitsnag.com/"
+}

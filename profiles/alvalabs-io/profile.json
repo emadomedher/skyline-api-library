@@ -1,0 +1,16 @@
+{
+  "id": "alvalabs-io",
+  "title": "alvalabs",
+  "subtitle": "Alva combines established psychology with the latest technology like machine learning and AI. Our tests are automated...",
+  "tags": [
+    "recruitment",
+    "recruitment-assessment",
+    "psychometrics",
+    "skills-assessment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582914376/catalog/alvalabs-io/icon128x128.jpg",
+  "website": "https://www.alvalabs.io/"
+}

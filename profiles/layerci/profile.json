@@ -1,0 +1,15 @@
+{
+  "id": "layerci",
+  "title": "LayerCI",
+  "subtitle": "Get a URL to a new staging server for every commit. We help your team develop 2x faster: LayerCI.",
+  "tags": [
+    "devops",
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609291879/icons/layerci.jpg",
+  "website": "https://layerci.com/",
+  "docsUrl": "https://layerci.com/docs"
+}

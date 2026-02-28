@@ -1,0 +1,13 @@
+{
+  "id": "crelate",
+  "title": "Crelate",
+  "subtitle": "Crelate is modern Talent Relationship Management platform paired with simple, flexible Applicant Tracking and deliver...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829401/catalog/crelate/icon128x128.png",
+  "website": "https://crelate.com"
+}

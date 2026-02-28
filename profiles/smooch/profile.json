@@ -1,0 +1,14 @@
+{
+  "id": "smooch",
+  "title": "Smooch",
+  "subtitle": "Smooch connects your business software to all the world’s messaging channels for a more human customer experience.",
+  "tags": [
+    "chat-and-messaging-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559218756/catalog/smooch/icon128x128.png",
+  "website": "https://smooch.io",
+  "docsUrl": "https://smooch.io/bots"
+}

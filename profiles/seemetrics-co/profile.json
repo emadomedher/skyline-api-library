@@ -1,0 +1,13 @@
+{
+  "id": "seemetrics-co",
+  "title": "SeeMetrics",
+  "subtitle": "Introducing a cybersecurity performance management platform for security leaders to see, track and improve operations",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652666883/icons/seemetrics-co.jpg",
+  "website": "https://seemetrics.co/"
+}

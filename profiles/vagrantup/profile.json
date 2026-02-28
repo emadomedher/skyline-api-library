@@ -1,0 +1,14 @@
+{
+  "id": "vagrantup",
+  "title": "Vagrant",
+  "subtitle": "Vagrant enables users to create and configure lightweight, reproducible, and portable development environments.",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602838013/icons/vagrantup.svg",
+  "website": "https://www.vagrantup.com/",
+  "docsUrl": "https://www.vagrantup.com/docs"
+}

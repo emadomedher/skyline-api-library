@@ -1,0 +1,14 @@
+{
+  "id": "predictspring",
+  "title": "PredictSpring",
+  "subtitle": "Transform your stores with PredictSpring by seamlessly unifying the customer experience. Global brands and retailers ...",
+  "tags": [
+    "retailtech",
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231785/icons/predictspring.jpg",
+  "website": "https://www.predictspring.com/"
+}

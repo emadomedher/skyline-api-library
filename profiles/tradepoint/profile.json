@@ -1,0 +1,13 @@
+{
+  "id": "tradepoint",
+  "title": "Tradepoint",
+  "subtitle": "Tradepoint API integration",
+  "tags": [
+    "affiliate-marketing-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438034/catalog/tradepoint/icon128x128.png",
+  "website": "https://Tradepoint360.com"
+}

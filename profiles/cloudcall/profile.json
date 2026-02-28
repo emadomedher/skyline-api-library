@@ -1,0 +1,13 @@
+{
+  "id": "cloudcall",
+  "title": "CloudCall",
+  "subtitle": "CloudCall provides computer telephony integration (CTI) from your CRM system. We integrate with many CRMs including S...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719494/catalog/cloudcall/icon128x128.png",
+  "website": "https://cloudcall.com"
+}

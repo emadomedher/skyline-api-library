@@ -1,0 +1,13 @@
+{
+  "id": "cinergix",
+  "title": "Cinergix",
+  "subtitle": "Share. Reuse. Innovate.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719430/catalog/cinergix/icon128x128.jpg",
+  "website": "https://cinergix.com"
+}

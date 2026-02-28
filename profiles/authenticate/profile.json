@@ -1,0 +1,14 @@
+{
+  "id": "authenticate",
+  "title": "authenticate.com",
+  "subtitle": "Identity Authentication & Background Checks.",
+  "tags": [
+    "identity-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649182513/icons/authenticate.png",
+  "website": "https://authenticate.com/",
+  "docsUrl": "https://docs.authenticating.com"
+}

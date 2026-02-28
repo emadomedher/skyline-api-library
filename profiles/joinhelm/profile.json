@@ -1,0 +1,13 @@
+{
+  "id": "joinhelm",
+  "title": "Helm",
+  "subtitle": "Helm is a people wiki that connects employees with collaborators, mentors, and friends. Make new hires feel at home r...",
+  "tags": [
+    "employee-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657800855/icons/joinhelm.jpg",
+  "website": "https://joinhelm.com/"
+}

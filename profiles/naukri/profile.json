@@ -1,0 +1,13 @@
+{
+  "id": "naukri",
+  "title": "Naukri.com",
+  "subtitle": "Connect with 20,000+ employers. Apply to millions of job opportunities across top companies, industries and locations...",
+  "tags": [
+    "job-boards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414384/icons/naukri.jpg",
+  "website": "https://www.naukri.com/"
+}

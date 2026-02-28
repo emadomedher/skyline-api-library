@@ -1,0 +1,13 @@
+{
+  "id": "freshmail",
+  "title": "FreshMail",
+  "subtitle": "FreshMail is a great email marketing service. Manage and update your subscribers lists easily. Create, send and track...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304989/catalog/freshmail/icon128x128.png",
+  "website": "https://freshmail.com"
+}

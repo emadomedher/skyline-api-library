@@ -1,0 +1,13 @@
+{
+  "id": "kpd-be",
+  "title": "KPD Services nv/sa",
+  "subtitle": "Krachtige bouwsoftware en diensten voor een zorgeloos projectbeheer, van meetstaat tot oplevering. De digitale bouwst...",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622425466/icons/kpd-be.jpg",
+  "website": "https://www.kpd.be/"
+}

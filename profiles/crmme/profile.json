@@ -1,0 +1,13 @@
+{
+  "id": "crmme",
+  "title": "CRM.me",
+  "subtitle": "CRM.me is gamified CRM software that your users will love to use. All-in-one solution. Marketing, sales, and project ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719643/catalog/crmme/icon128x128.jpg",
+  "website": "https://crm.me"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hive-app",
+  "title": "Hive",
+  "subtitle": "Fulfillment with Hive means 100% peace of mind at up to 30% cost savings. Move your operations to Hive now.",
+  "tags": [
+    "fulfillment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093486/icons/hive-app.png",
+  "website": "https://www.hive.app/"
+}

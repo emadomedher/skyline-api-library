@@ -1,0 +1,13 @@
+{
+  "id": "instantcustomer",
+  "title": "TPNI Engage",
+  "subtitle": "The world's first completely integrated multi-channel lead capture, follow up, sales and marketing system.  ",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305177/catalog/instantcustomer/icon128x128.png",
+  "website": "https://get.tpniengage.com/"
+}

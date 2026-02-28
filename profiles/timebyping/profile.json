@@ -1,0 +1,14 @@
+{
+  "id": "timebyping",
+  "title": "Ping",
+  "subtitle": "Ping is the first automated timekeeping solution for large law firms. Ping automatically builds a timesheet for the l...",
+  "tags": [
+    "time-tracking",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573638358/catalog/timebyping/icon128x128.jpg",
+  "website": "https://www.timebyping.com/"
+}

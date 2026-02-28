@@ -1,0 +1,13 @@
+{
+  "id": "mediaradar",
+  "title": "MediaRadar",
+  "subtitle": "Sales enablement platforms customized for media, ad tech, and agencies that help you close more deals. Get Your Free ...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826910/catalog/mediaradar/icon128x128.jpg",
+  "website": "https://mediaradar.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cloak-ist",
+  "title": "Cloakist",
+  "subtitle": "Unlock custom domains and branding on every platform you use. Put any public site at a custom URL.",
+  "tags": [
+    "custom-domains",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612288712/icons/cloak-ist.jpg",
+  "website": "https://cloak.ist/"
+}

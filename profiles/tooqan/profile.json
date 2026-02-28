@@ -1,0 +1,13 @@
+{
+  "id": "tooqan",
+  "title": "tooqan",
+  "subtitle": "better meetings start here.",
+  "tags": [
+    "meeting-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437721/icons/tooqan.png",
+  "website": "https://tooqan.com/"
+}

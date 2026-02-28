@@ -1,0 +1,13 @@
+{
+  "id": "connecting-software",
+  "title": "Connecting Software",
+  "subtitle": "Discover the company providing a unique software integration platform and synchronization, productivity, IoT solution...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719564/catalog/connecting-software/icon128x128.png",
+  "website": "https://connecting-software.com"
+}

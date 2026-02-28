@@ -1,0 +1,13 @@
+{
+  "id": "terakeet",
+  "title": "Terakeet",
+  "subtitle": "Terakeet uses proprietary SEO technology to help Fortune 1000 companies and challenger brands achieve category domina...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946481/catalog/terakeet/icon128x128.jpg",
+  "website": "https://terakeet.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "charliehr",
+  "title": "CharlieHR",
+  "subtitle": "Everything you need to manage your team and craft your culture – all in one place.",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647256623/icons/charliehr.jpg",
+  "website": "https://www.charliehr.com/"
+}

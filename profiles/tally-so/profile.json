@@ -1,0 +1,13 @@
+{
+  "id": "tally-so",
+  "title": "Tally",
+  "subtitle": "The simplest way to create beautiful forms & surveys, for free. Without knowing how to code!",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601069427/icons/tally-so.png",
+  "website": "https://tally.so/"
+}

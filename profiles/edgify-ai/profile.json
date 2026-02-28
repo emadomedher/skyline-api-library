@@ -1,0 +1,14 @@
+{
+  "id": "edgify-ai",
+  "title": "Edgify",
+  "subtitle": "A Distributed yet Collaborative Framework for training DL and ML at the Edge. We allow any company to train DL and ML...",
+  "tags": [
+    "ai-training",
+    "edge-computing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602704510/icons/edgify-ai.png",
+  "website": "https://www.edgify.ai/"
+}

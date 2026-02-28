@@ -1,0 +1,15 @@
+{
+  "id": "missiveapp",
+  "title": "Missive",
+  "subtitle": "Email, group chat and tasks for productive teams. One app for all your internal and external communication. Work mana...",
+  "tags": [
+    "collaborative-inbox",
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584052636/catalog/missiveapp/icon128x128.png",
+  "website": "https://missiveapp.com/",
+  "docsUrl": "https://missiveapp.com/help/api-documentation/getting-started"
+}

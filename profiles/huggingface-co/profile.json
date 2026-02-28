@@ -1,0 +1,15 @@
+{
+  "id": "huggingface-co",
+  "title": "Hugging Face",
+  "subtitle": "We’re on a journey to solve and democratize artificial intelligence through natural language.",
+  "tags": [
+    "nlp",
+    "open-source"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608292995/icons/huggingface-co.jpg",
+  "website": "https://huggingface.co/",
+  "docsUrl": "https://huggingface.co/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "virtuagym",
+  "title": "Virtuagym",
+  "subtitle": "Boost revenue and retain your members by using our industry-leading fitness software. Personal workout plans and nutr...",
+  "tags": [
+    "fitness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006386/icons/virtuagym.png",
+  "website": "https://virtuagym.com/"
+}

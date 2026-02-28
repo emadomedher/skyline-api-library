@@ -1,0 +1,13 @@
+{
+  "id": "kommunicate-io",
+  "title": "Kommunicate",
+  "subtitle": "Kommunicate is a human + bot hybrid customer support software for growing businesses.",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591173717/icons/kommunicate-io.jpg",
+  "website": "https://www.kommunicate.io/"
+}

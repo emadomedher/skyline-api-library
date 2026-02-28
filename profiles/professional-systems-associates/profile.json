@@ -1,0 +1,13 @@
+{
+  "id": "professional-systems-associates",
+  "title": "Professional Systems Associates",
+  "subtitle": "Professional Systems Associates API integration",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721590/catalog/professional-systems-associates/icon128x128.jpg",
+  "website": "https://psasys.com"
+}

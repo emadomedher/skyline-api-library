@@ -1,0 +1,14 @@
+{
+  "id": "apple-sign-in",
+  "title": "Sign in with Apple",
+  "subtitle": "Sign in with Apple makes it easy for users to sign in to your apps and websites using their Apple ID. Instead of fill...",
+  "tags": [
+    "sso",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602235658/icons/apple-sign-in.png",
+  "website": "https://developer.apple.com/sign-in-with-apple/"
+}

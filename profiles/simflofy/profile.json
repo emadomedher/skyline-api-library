@@ -1,0 +1,14 @@
+{
+  "id": "simflofy",
+  "title": "Simflofy",
+  "subtitle": "Simflofy provides software solutions to unlock content locked in legacy content systems, such as IBM FileNet, Documen...",
+  "tags": [
+    "content-integration",
+    "content-migration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941447/icons/simflofy.jpg",
+  "website": "https://www.simflofy.com/"
+}

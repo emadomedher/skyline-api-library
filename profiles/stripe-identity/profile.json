@@ -1,0 +1,14 @@
+{
+  "id": "stripe-identity",
+  "title": "Stripe Identity",
+  "subtitle": "Stripe Identity lets you programmatically confirm the identity of global users so you can prevent attacks from frauds...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623885957/icons/stripe-identity.jpg",
+  "website": "https://stripe.com/en-be/identity",
+  "docsUrl": "https://stripe.com/docs/identity"
+}

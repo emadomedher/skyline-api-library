@@ -1,0 +1,13 @@
+{
+  "id": "kintone",
+  "title": "Kintone",
+  "subtitle": "kintone is a fully integrated social collaboration and customizable business application cloud platform that allows i...",
+  "tags": [
+    "app-builder"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056009/catalog/kintone/icon128x128.png",
+  "website": "https://kintone.com"
+}

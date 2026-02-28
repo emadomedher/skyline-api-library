@@ -1,0 +1,13 @@
+{
+  "id": "sync",
+  "title": "Sync.com",
+  "subtitle": "Secure file storage and collaboration that helps you\nstay safe, secure and connected in the cloud.",
+  "tags": [
+    "file-storage"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660241515/icons/sync.jpg",
+  "website": "https://www.sync.com/"
+}

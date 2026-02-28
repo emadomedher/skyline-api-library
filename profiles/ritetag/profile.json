@@ -1,0 +1,13 @@
+{
+  "id": "ritetag",
+  "title": "RiteTag",
+  "subtitle": "RiteTag API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946654/catalog/ritetag/icon128x128.jpg",
+  "website": "https://ritetag.com"
+}

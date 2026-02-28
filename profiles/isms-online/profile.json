@@ -1,0 +1,15 @@
+{
+  "id": "isms-online",
+  "title": "ISMS.online",
+  "subtitle": "Trust ISMS.online To Give Your Security Credentials a Boost. Our Cloud Software Can Help You Achieve  ISO 27001, GDPR...",
+  "tags": [
+    "infosec",
+    "compliance",
+    "data-privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625561020/icons/isms-online.jpg",
+  "website": "https://www.isms.online/"
+}

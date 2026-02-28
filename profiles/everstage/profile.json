@@ -1,0 +1,14 @@
+{
+  "id": "everstage",
+  "title": "Everstage",
+  "subtitle": "Everstage is a modern, no-code platform to automate commissions and motivate sales teams with real-time visibility an...",
+  "tags": [
+    "sales-compensation",
+    "sales-commission"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629056321/icons/everstage.jpg",
+  "website": "https://www.everstage.com/"
+}

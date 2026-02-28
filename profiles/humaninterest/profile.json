@@ -1,0 +1,14 @@
+{
+  "id": "humaninterest",
+  "title": "Human Interest",
+  "subtitle": "Human Interest makes it easy to offer a 401(k). We automate administration and help your employees plan for their fut...",
+  "tags": [
+    "hr",
+    "employee-benefits"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565490498/catalog/humaninterest/icon128x128.jpg",
+  "website": "https://humaninterest.com/"
+}

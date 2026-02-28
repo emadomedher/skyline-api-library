@@ -1,0 +1,13 @@
+{
+  "id": "lodel",
+  "title": "LoDel HQ",
+  "subtitle": "See who delivers to you! Enter your address and place your order online. We deliver the best local restaurants and yo...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171247/catalog/lodel/icon128x128.jpg",
+  "website": "https://lodel.com/"
+}

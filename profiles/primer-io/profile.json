@@ -1,0 +1,15 @@
+{
+  "id": "primer-io",
+  "title": "Primer",
+  "subtitle": "How powerful payments are built.",
+  "tags": [
+    "payments-infrastructure",
+    "payment-routing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606742847/icons/primer-io.jpg",
+  "website": "https://primer.io/",
+  "docsUrl": "https://primer.io/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adobe-xd",
+  "title": "Adobe XD",
+  "subtitle": "Adobe XD is your UI/UX design solution for website and mobile apps creation. Design, prototype, and share. Try it now.",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584560989/catalog/adobe-xd/icon128x128.jpg",
+  "website": "https://adobe.com/products/xd.html"
+}

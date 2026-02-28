@@ -1,0 +1,15 @@
+{
+  "id": "anyword",
+  "title": "Anyword",
+  "subtitle": "Anyword takes the guesswork out of writing marketing text that converts.",
+  "tags": [
+    "ad-copy",
+    "copywriting",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616016739/icons/anyword.jpg",
+  "website": "https://anyword.com/"
+}

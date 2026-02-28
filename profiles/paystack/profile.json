@@ -1,0 +1,14 @@
+{
+  "id": "paystack",
+  "title": "Paystack",
+  "subtitle": "Over 60,000 businesses in Nigeria use Paystack to collect payments with a modern, secure payment gateway.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588773468/catalog/paystack/icon128x128.jpg",
+  "website": "https://paystack.com/",
+  "docsUrl": "https://paystack.com/developers"
+}

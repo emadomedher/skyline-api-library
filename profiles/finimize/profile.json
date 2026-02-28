@@ -1,0 +1,14 @@
+{
+  "id": "finimize",
+  "title": "Finimize",
+  "subtitle": "We're building the tools and information you need to be financially savvy. In minutes.",
+  "tags": [
+    "finance",
+    "finance-news"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581627709/catalog/finimize/icon128x128.jpg",
+  "website": "https://www.finimize.com/"
+}

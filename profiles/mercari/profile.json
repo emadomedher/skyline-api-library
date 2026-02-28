@@ -1,0 +1,13 @@
+{
+  "id": "mercari",
+  "title": "Mercari",
+  "subtitle": "This is Mercari. The fast and easy way to sell or buy almost anything. List your item in minutes. Got something you d...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563298331/catalog/mercari/icon128x128.jpg",
+  "website": "https://mercari.com"
+}

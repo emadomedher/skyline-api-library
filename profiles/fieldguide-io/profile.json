@@ -1,0 +1,13 @@
+{
+  "id": "fieldguide-io",
+  "title": "Fieldguide",
+  "subtitle": "Fieldguide is a workflow automation and collaboration software platform for audit, attestation, assurance, and adviso...",
+  "tags": [
+    "audit-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701501/icons/fieldguide-io.jpg",
+  "website": "https://www.fieldguide.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bpm-online",
+  "title": "BPM Online",
+  "subtitle": "BPM Online API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564163490/catalog/bpm-online/icon128x128.png",
+  "website": "https://bpmonline.com"
+}

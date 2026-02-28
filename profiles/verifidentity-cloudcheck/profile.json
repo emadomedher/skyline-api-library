@@ -1,0 +1,13 @@
+{
+  "id": "verifidentity-cloudcheck",
+  "title": "Cloudcheck",
+  "subtitle": "Verifi Identity Services — Electronic identity verification (EV) and AML services for New Zealand business.",
+  "tags": [
+    "kyc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572910276/catalog/verifidentity-cloudcheck/icon128x128.png",
+  "website": "https://www.verifidentity.com/cloudcheck/"
+}

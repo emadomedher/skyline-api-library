@@ -1,0 +1,13 @@
+{
+  "id": "xai",
+  "title": "x.ai",
+  "subtitle": "Experience automatic instant scheduling with all of your contacts. Join the x.ai scheduling network for free and let ...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284659/catalog/xai/icon128x128.png",
+  "website": "https://x.ai/"
+}

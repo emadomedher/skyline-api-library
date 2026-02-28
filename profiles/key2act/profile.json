@@ -1,0 +1,13 @@
+{
+  "id": "key2act",
+  "title": "Key2Act",
+  "subtitle": "Key2Act provides advanced technology solutions that allow our clients to \nMaster the Smart Building Ecosystem. We pro...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675409/catalog/key2act/icon128x128.jpg",
+  "website": "https://www.key2act.com/"
+}

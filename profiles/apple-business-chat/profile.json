@@ -1,0 +1,15 @@
+{
+  "id": "apple-business-chat",
+  "title": "Apple Business Chat",
+  "subtitle": "Business Chat lets you easily connect with companies to ask questions, schedule appointments, and make purchases righ...",
+  "tags": [
+    "business-messaging",
+    "messaging-channels"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612119298/icons/apple-business-chat.jpg",
+  "website": "https://www.apple.com/ios/business-chat/",
+  "docsUrl": "https://www.apple.com/privacy/docs/a_day_in_the_life_of_your_data.pdf"
+}

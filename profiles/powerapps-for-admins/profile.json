@@ -1,0 +1,12 @@
+{
+  "id": "powerapps-for-admins",
+  "title": "PowerApps for Admins",
+  "subtitle": "PowerApps Management Connector For Administrators",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264835/catalog/powerapps-for-admins/icon128x128.png"
+}

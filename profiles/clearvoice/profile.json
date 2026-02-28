@@ -1,0 +1,13 @@
+{
+  "id": "clearvoice",
+  "title": "ClearVoice",
+  "subtitle": "Create great content again and again with our easy-to-use content marketing platform and integrated talent network. C...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826072/catalog/clearvoice/icon128x128.jpg",
+  "website": "https://clearvoice.com"
+}

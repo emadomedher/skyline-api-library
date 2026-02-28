@@ -1,0 +1,14 @@
+{
+  "id": "filo-co",
+  "title": "Filo.co",
+  "subtitle": "The fast, flexible & collaborative platform for virtual events, sales meetings, kickoffs, demo days, all-hands, war r...",
+  "tags": [
+    "virtual-events",
+    "internal-events"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471976/icons/filo-co.jpg",
+  "website": "https://www.filo.co/"
+}

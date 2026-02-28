@@ -1,0 +1,14 @@
+{
+  "id": "warmbox-ai",
+  "title": "Warmbox",
+  "subtitle": "Warm-up your cold email inbox. And never land in spam anymore. Try Warmbox.ai now and start to warm-up your inbox for...",
+  "tags": [
+    "email-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661526206/icons/warmbox-ai.jpg",
+  "website": "https://www.warmbox.ai/",
+  "docsUrl": "https://www.warmbox.ai/integration/amazon-ses"
+}

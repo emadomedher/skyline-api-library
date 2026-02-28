@@ -1,0 +1,14 @@
+{
+  "id": "jeli-io",
+  "title": "Jeli.io",
+  "subtitle": "Every incident has a story that reveals how your organization really works. Jeli allows you to see that story.",
+  "tags": [
+    "incident-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975839/icons/jeli-io.jpg",
+  "website": "https://www.jeli.io/",
+  "docsUrl": "https://docs.jeli.io"
+}

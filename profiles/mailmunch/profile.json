@@ -1,0 +1,12 @@
+{
+  "id": "mailmunch",
+  "title": "MailMunch",
+  "subtitle": "MailMunch captures leads from your website and converts visitors into life-long readers, email subscribers and custom...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305379/catalog/mailmunch/icon128x128.png"
+}

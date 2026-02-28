@@ -1,0 +1,14 @@
+{
+  "id": "contobox",
+  "title": "Contobox",
+  "subtitle": "Contobox empowers advertisers to build and deliver engaging digital campaigns that collect first-party data to power ...",
+  "tags": [
+    "adtech",
+    "ad-creation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581440214/catalog/contobox/icon128x128.png",
+  "website": "https://www.advertisers.contobox.com/"
+}

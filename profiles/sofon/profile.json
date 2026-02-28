@@ -1,0 +1,13 @@
+{
+  "id": "sofon",
+  "title": "Sofon",
+  "subtitle": "Sofon helps companies with customer specific products and services to achieve growth, cost reduction and quality impr...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563060888/catalog/sofon/icon128x128.png",
+  "website": "https://sofon.com"
+}

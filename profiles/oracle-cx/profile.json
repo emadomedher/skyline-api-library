@@ -1,0 +1,14 @@
+{
+  "id": "oracle-cx",
+  "title": "Oracle CX",
+  "subtitle": "Oracle CX API integration",
+  "tags": [
+    "crm",
+    "advertising"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657605861/icons/oracle-cx.png",
+  "website": "https://www.oracle.com/us/cx"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sentopia",
+  "title": "Sentopia",
+  "subtitle": "Easily Create & Send Newsletters, Email Marketing Automation and drip campaigns",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722006/catalog/sentopia/icon128x128.png",
+  "website": "https://sentopia.net"
+}

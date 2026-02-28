@@ -1,0 +1,13 @@
+{
+  "id": "mothernode",
+  "title": "Mothernode",
+  "subtitle": "Mothernode API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946801/catalog/mothernode/icon128x128.jpg",
+  "website": "https://mothernode.com"
+}

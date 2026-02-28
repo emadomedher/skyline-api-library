@@ -1,0 +1,17 @@
+{
+  "id": "journy-io",
+  "title": "journy.io",
+  "subtitle": "Journy.io — Discover which marketing and sales efforts drive conversion, each step of the customer journey, from firs...",
+  "tags": [
+    "attribution",
+    "sales",
+    "marketing"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581689599/catalog/journy-io/icon128x128.png",
+  "specUrl": "https://api.journy.io/spec.json",
+  "website": "https://www.journy.io/",
+  "docsUrl": "https://developers.journy.io"
+}

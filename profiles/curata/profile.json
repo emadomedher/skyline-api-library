@@ -1,0 +1,13 @@
+{
+  "id": "curata",
+  "title": "Curata",
+  "subtitle": "Curata's software enables marketers to scale content marketing to grow leads and revenue.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947184/catalog/curata/icon128x128.png",
+  "website": "https://curata.com"
+}

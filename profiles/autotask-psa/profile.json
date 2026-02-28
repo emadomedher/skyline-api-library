@@ -1,0 +1,13 @@
+{
+  "id": "autotask-psa",
+  "title": "Autotask PSA",
+  "subtitle": "Datto protects essential business data for tens of thousands of the world's fastest growing companies, delivering uni...",
+  "tags": [
+    "professional-services-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579550559/catalog/autotask-psa/icon128x128.jpg",
+  "website": "https://www.datto.com/uk/business-management/autotask-psa"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "totalsend",
+  "title": "TotalSend",
+  "subtitle": "At up to 60% less than competitors, TotalSend is the most competitively priced email marketing service (ESP) on the m...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946455/catalog/totalsend/icon128x128.jpg",
+  "website": "https://totalsend.com"
+}

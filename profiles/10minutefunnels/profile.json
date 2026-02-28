@@ -1,0 +1,14 @@
+{
+  "id": "10minutefunnels",
+  "title": "10 Minute Funnels",
+  "subtitle": "10 Minute Funnels API integration",
+  "tags": [
+    "landing-pages",
+    "funnel-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572577331/catalog/10minutefunnels/icon128x128.png",
+  "website": "http://www.10minutefunnels.com/"
+}

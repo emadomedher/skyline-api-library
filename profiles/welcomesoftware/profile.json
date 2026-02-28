@@ -1,0 +1,13 @@
+{
+  "id": "welcomesoftware",
+  "title": "Welcome Software",
+  "subtitle": "Welcome is a marketing orchestration platform to run all your marketing, better, from a single workspace. Start for f...",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622848261/icons/welcomesoftware.jpg",
+  "website": "https://welcomesoftware.com/"
+}

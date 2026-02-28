@@ -1,0 +1,14 @@
+{
+  "id": "qdrant-tech",
+  "title": "Qdrant",
+  "subtitle": "Qdrant is an Open-Source Vector Search Engine and Vector Database written in Rust. It provides fast and scalable serv...",
+  "tags": [
+    "vector-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679688022/icons/qdrant-tech.jpg",
+  "website": "https://qdrant.tech/",
+  "docsUrl": "https://qdrant.tech/documentation"
+}

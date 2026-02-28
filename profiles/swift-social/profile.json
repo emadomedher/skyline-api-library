@@ -1,0 +1,13 @@
+{
+  "id": "swift-social",
+  "title": "Swift Social ",
+  "subtitle": "Swift Social is about making social media simple. We develop one the best social media management experiences to help...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946509/catalog/swift-social/icon128x128.jpg",
+  "website": "https://swiftsocial.com"
+}

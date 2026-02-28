@@ -1,0 +1,15 @@
+{
+  "id": "shoutca-st",
+  "title": "SHOUTca.st",
+  "subtitle": "SHOUTca.st is a leading provider in Internet Radio services.",
+  "tags": [
+    "web-hosting",
+    "video",
+    "live-streaming"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861277/catalog/shoutca-st/icon128x128.png",
+  "website": "https://shoutca.st"
+}

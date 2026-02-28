@@ -1,0 +1,14 @@
+{
+  "id": "corecon",
+  "title": "Corecon Technologies",
+  "subtitle": "Corecon is a comprehensive cloud-based construction software suite for estimating, project management, job cost contr...",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659087029/icons/corecon.jpg",
+  "website": "https://www.corecon.com/",
+  "docsUrl": "https://www.corecon.com/documentation"
+}

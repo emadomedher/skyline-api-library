@@ -1,0 +1,13 @@
+{
+  "id": "rareio",
+  "title": "Rare.io",
+  "subtitle": "Rare.io is a predictive email marketing platform that helps shops increase conversions using personalized product and...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305823/catalog/rareio/icon128x128.png",
+  "website": "https://rare.io"
+}

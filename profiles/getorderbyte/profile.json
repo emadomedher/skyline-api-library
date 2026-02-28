@@ -1,0 +1,13 @@
+{
+  "id": "getorderbyte",
+  "title": "Orderbyte",
+  "subtitle": "Receive and deliver online orders from all sales channels on autopilot, without any drivers and fees. On-demand drive...",
+  "tags": [
+    "online-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686698342/icons/getorderbyte.jpg",
+  "website": "https://getorderbyte.com/"
+}

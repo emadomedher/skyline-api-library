@@ -1,0 +1,12 @@
+{
+  "id": "widget",
+  "title": "Widget",
+  "subtitle": "Widget API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570197432/catalog/widget/icon128x128.svg"
+}

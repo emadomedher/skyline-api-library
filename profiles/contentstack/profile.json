@@ -1,0 +1,14 @@
+{
+  "id": "contentstack",
+  "title": "Contentstack",
+  "subtitle": "See how Contentstack's headless content management system brings business & technology teams together to deliver pers...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826162/catalog/contentstack/icon128x128.jpg",
+  "website": "https://contentstack.com",
+  "docsUrl": "https://www.contentstack.com/docs"
+}

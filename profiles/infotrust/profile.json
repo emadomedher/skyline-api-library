@@ -1,0 +1,13 @@
+{
+  "id": "infotrust",
+  "title": "InfoTrust",
+  "subtitle": "InfoTrust is a digital analytics consulting and technology company that specializes in consumer packaged goods (CPG),...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720559/catalog/infotrust/icon128x128.png",
+  "website": "https://infotrust.com"
+}

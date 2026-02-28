@@ -1,0 +1,14 @@
+{
+  "id": "botxo-ai",
+  "title": "BotXO",
+  "subtitle": "Quickly build your own chatbot with BotXO to provide instant, quality support to customers through conversational int...",
+  "tags": [
+    "bots",
+    "chatbot-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598943236/icons/botxo-ai.jpg",
+  "website": "https://www.botxo.ai/"
+}

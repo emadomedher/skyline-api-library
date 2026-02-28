@@ -1,0 +1,14 @@
+{
+  "id": "spotlightreporting",
+  "title": "Spotlight Reporting",
+  "subtitle": "An integrated cloud reporting and forecasting tool that allows you to create insights for better business decisions. ...",
+  "tags": [
+    "accounting-reporting",
+    "accounting-forecasting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605533746/icons/spotlightreporting.jpg",
+  "website": "https://www.spotlightreporting.com/"
+}

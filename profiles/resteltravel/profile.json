@@ -1,0 +1,14 @@
+{
+  "id": "resteltravel",
+  "title": "Restel Travel ",
+  "subtitle": "Con los paquetes de servicios turísticos de Restel Travel podrás diseñar viajes y experiencias a medida de tus client...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612702236/icons/resteltravel.jpg",
+  "website": "http://www.resteltravel.com/"
+}

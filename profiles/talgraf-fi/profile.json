@@ -1,0 +1,13 @@
+{
+  "id": "talgraf-fi",
+  "title": "Talgraf",
+  "subtitle": "Modernit ohjelmistot ja alustat liiketoimintasi johtamiseen. Tehostaa suunnittelua, seurantaa, ennustamista ja analys...",
+  "tags": [
+    "cash-flow-forecasting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686602991/icons/talgraf-fi.png",
+  "website": "https://www.talgraf.fi/"
+}

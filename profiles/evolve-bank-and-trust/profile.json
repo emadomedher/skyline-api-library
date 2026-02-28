@@ -1,0 +1,13 @@
+{
+  "id": "evolve-bank-and-trust",
+  "title": "Evolve Bank and Trust",
+  "subtitle": "For more than 90 years, we've had one mission: to serve you like a hometown bank should. We have branches throughout ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623623/icons/evolve-bank-and-trust.jpg",
+  "website": "https://getevolved.com"
+}

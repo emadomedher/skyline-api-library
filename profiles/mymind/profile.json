@@ -1,0 +1,14 @@
+{
+  "id": "mymind",
+  "title": "mymind",
+  "subtitle": "mymind is an extension for your mind. A secret little helper. To think freely, stay in the moment, enjoy the flow and...",
+  "tags": [
+    "privacy",
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597482067/icons/mymind.jpg",
+  "website": "https://mymind.com/"
+}

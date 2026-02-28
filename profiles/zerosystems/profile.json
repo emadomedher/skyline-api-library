@@ -1,0 +1,13 @@
+{
+  "id": "zerosystems",
+  "title": "ZERO",
+  "subtitle": "What is productivity automation? Intelligent technology can make your legacy systems more adaptive to today’s needs. ...",
+  "tags": [
+    "time-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647088993/icons/zerosystems.jpg",
+  "website": "https://zerosystems.com/"
+}

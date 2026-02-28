@@ -1,0 +1,14 @@
+{
+  "id": "swell-is",
+  "title": "Swell",
+  "subtitle": "Swell is the future-proof ecommerce platform that helps you build, sell, and scale your way.",
+  "tags": [
+    "headless-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634246133/icons/swell-is.jpg",
+  "website": "https://www.swell.is/",
+  "docsUrl": "https://swell.store/docs/api/"
+}

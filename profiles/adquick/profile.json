@@ -1,0 +1,13 @@
+{
+  "id": "adquick",
+  "title": "AdQuick",
+  "subtitle": "AdQuick will source outdoor advertising options for your campaign from thousands of vendors. Then you can plan, buy, ...",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432817/catalog/adquick/icon128x128.png",
+  "website": "https://adquick.com"
+}

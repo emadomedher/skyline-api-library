@@ -1,0 +1,14 @@
+{
+  "id": "opal-dev",
+  "title": "Opal",
+  "subtitle": "Trusted by world-class companies, Opal enables companies to accelerate approval workflows, automate least privilege w...",
+  "tags": [
+    "access-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629577666/icons/opal-dev.jpg",
+  "website": "https://opal.dev/",
+  "docsUrl": "https://docs.opal.dev/docs"
+}

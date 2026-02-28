@@ -1,0 +1,12 @@
+{
+  "id": "coupon-river",
+  "title": "Coupon River",
+  "subtitle": "Coupon River is a unique coupon code distributtion service for your Amazon or e-commerce business.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829400/catalog/coupon-river/icon128x128.png"
+}

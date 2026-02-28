@@ -1,0 +1,14 @@
+{
+  "id": "checkmarx",
+  "title": "Checkmarx",
+  "subtitle": "Checkmarx is a provider of state-of-the-art application security solution: static code analysis software, seamlessly ...",
+  "tags": [
+    "application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567129488/catalog/checkmarx/icon128x128.jpg",
+  "website": "https://www.checkmarx.com",
+  "docsUrl": "https://www.checkmarx.com/solutions/by-role/developers"
+}

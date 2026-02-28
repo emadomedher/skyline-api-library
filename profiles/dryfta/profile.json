@@ -1,0 +1,13 @@
+{
+  "id": "dryfta",
+  "title": "Dryfta",
+  "subtitle": "Dryfta is the all-in-one event management software for universities & non-profits to manage every aspect of an event ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947119/catalog/dryfta/icon128x128.jpg",
+  "website": "https://dryfta.com"
+}

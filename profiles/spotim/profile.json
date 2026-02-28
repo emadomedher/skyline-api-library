@@ -1,0 +1,13 @@
+{
+  "id": "spotim",
+  "title": "Spot.IM",
+  "subtitle": "Take back ownership of your audience by building a thriving social community to drive conversation, pageviews, clicks...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946546/catalog/spotim/icon128x128.jpg",
+  "website": "https://spot.im"
+}

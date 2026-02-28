@@ -1,0 +1,13 @@
+{
+  "id": "blossom",
+  "title": "Blossom",
+  "subtitle": "Blossom is a lightweight project tracking tool for modern software development teams that love continuous delivery & ...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719169/catalog/blossom/icon128x128.png",
+  "website": "https://blossom.co"
+}

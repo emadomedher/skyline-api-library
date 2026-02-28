@@ -1,0 +1,13 @@
+{
+  "id": "grasple",
+  "title": "Grasple",
+  "subtitle": "Create and share open interactive exercises for math and statistics",
+  "tags": [
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471970/icons/grasple.jpg",
+  "website": "https://www.grasple.com/"
+}

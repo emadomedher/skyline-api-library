@@ -1,0 +1,13 @@
+{
+  "id": "payio-uk",
+  "title": "Pay iO",
+  "subtitle": "Pay iO API integration",
+  "tags": [
+    "open-banking-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625461454/icons/payio-uk.jpg",
+  "website": "https://www.payio.co.uk/"
+}

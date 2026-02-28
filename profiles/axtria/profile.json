@@ -1,0 +1,13 @@
+{
+  "id": "axtria",
+  "title": "Axtria",
+  "subtitle": "Global big data analytics company for sales & marketing analytics, commercial analytics, pharma analytics, pharma sal...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719139/catalog/axtria/icon128x128.jpg",
+  "website": "https://axtria.com"
+}

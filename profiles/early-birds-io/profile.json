@@ -1,0 +1,14 @@
+{
+  "id": "early-birds-io",
+  "title": "Early Birds",
+  "subtitle": "Best-in-class personalization and merchandising platform for retailers to orchestrate their own algorithms in real-ti...",
+  "tags": [
+    "personalization",
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597145928/icons/early-birds-io.jpg",
+  "website": "https://www.early-birds.io/"
+}

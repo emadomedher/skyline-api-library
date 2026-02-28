@@ -1,0 +1,13 @@
+{
+  "id": "employdrive",
+  "title": "Employdrive",
+  "subtitle": "Employdrive API integration",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626428660/icons/employdrive.png",
+  "website": "https://employdrive.com"
+}

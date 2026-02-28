@@ -1,0 +1,15 @@
+{
+  "id": "mulesoft-anypoint",
+  "title": "Mulesoft Anypoint Platform",
+  "subtitle": "Meet Anypoint Platform, the only complete hybrid enterprise integration platform for SOA, SaaS and APIs. Anypoint Pla...",
+  "tags": [
+    "api-gateways",
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574464879/catalog/mulesoft-anypoint/icon128x128.png",
+  "website": "https://www.mulesoft.com/platform/enterprise-integration",
+  "docsUrl": "https://meetups.mulesoft.com"
+}

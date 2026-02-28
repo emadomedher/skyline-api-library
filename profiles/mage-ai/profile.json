@@ -1,0 +1,13 @@
+{
+  "id": "mage-ai",
+  "title": "Mage",
+  "subtitle": "Mage API integration",
+  "tags": [
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634856976/icons/mage-ai.jpg",
+  "website": "https://www.mage.ai/"
+}

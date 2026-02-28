@@ -1,0 +1,13 @@
+{
+  "id": "datafire",
+  "title": "DataFire",
+  "subtitle": "DataFire enables rapid development of tasks and APIs that connect to over 500 different services.",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947160/catalog/datafire/icon128x128.jpg",
+  "website": "https://app.datafire.io"
+}

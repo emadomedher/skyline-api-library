@@ -1,0 +1,13 @@
+{
+  "id": "mautic",
+  "title": "Mautic",
+  "subtitle": "Mautic is a open source marketing automation software which helps marketers to communicate with their audience, givin...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305407/catalog/mautic/icon128x128.png",
+  "website": "https://mautic.org"
+}

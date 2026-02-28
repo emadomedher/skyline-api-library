@@ -1,0 +1,14 @@
+{
+  "id": "emply",
+  "title": "Emply",
+  "subtitle": "Welcome to the HRM system of the future. Emply is an innovative HRM system made to attract talent, create well-being ...",
+  "tags": [
+    "payroll",
+    "hris"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909630/icons/emply.png",
+  "website": "https://www.emply.com/"
+}

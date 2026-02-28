@@ -1,0 +1,13 @@
+{
+  "id": "adtaxi",
+  "title": "Adtaxi",
+  "subtitle": "We are a client-centric digital organization that brings scale, precisions, \nand sophistication to digital marketing....",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964408/catalog/adtaxi/icon128x128.png",
+  "website": "https://adtaxi.com"
+}

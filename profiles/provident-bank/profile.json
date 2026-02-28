@@ -1,0 +1,13 @@
+{
+  "id": "provident-bank",
+  "title": "Provident Bank",
+  "subtitle": "Provident Financial Services, Inc. is the holding company for Provident Bank. Established in 1839, Provident Bank emp...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625450227/icons/provident-bank.png",
+  "website": "https://www.provident.bank/"
+}

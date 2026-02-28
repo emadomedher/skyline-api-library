@@ -1,0 +1,13 @@
+{
+  "id": "linkfire",
+  "title": "Linkfire",
+  "subtitle": "Smart links for music marketing. From your first single to your first world tour, Linkfire simplifies your artist pro...",
+  "tags": [
+    "smart-links"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663261367/icons/linkfire.jpg",
+  "website": "https://www.linkfire.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiixsoftware",
+  "title": "Fiix",
+  "subtitle": "Fiix is a cloud-based CMMS software that helps you to plan, track, and optimize maintenance with powerful integration...",
+  "tags": [
+    "cmms",
+    "maintenance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598255899/icons/fiixsoftware.jpg",
+  "website": "https://www.fiixsoftware.com/"
+}

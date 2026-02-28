@@ -1,0 +1,15 @@
+{
+  "id": "amazon-ecs",
+  "title": "Amazon ECS",
+  "subtitle": "Amazon ECS is a highly scalable, high performance container orchestration service that supports Docker containers and...",
+  "tags": [
+    "container-orchestration",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600016318/icons/amazon-ecs.png",
+  "website": "https://aws.amazon.com/ecs/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=default"
+}

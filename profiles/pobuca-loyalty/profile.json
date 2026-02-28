@@ -1,0 +1,13 @@
+{
+  "id": "pobuca-loyalty",
+  "title": "Pobuca Loyalty",
+  "subtitle": "Place your customer segmentation in the spotlight and identify the right rewards for the respective audience.",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436521/catalog/pobuca-loyalty/icon128x128.png",
+  "website": "https://loyalty.pobuca.com"
+}

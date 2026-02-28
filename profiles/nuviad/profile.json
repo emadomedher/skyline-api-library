@@ -1,0 +1,13 @@
+{
+  "id": "nuviad",
+  "title": "Nuviad",
+  "subtitle": "Nuviad API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436188/catalog/nuviad/icon128x128.png",
+  "website": "https://nuviad.com"
+}

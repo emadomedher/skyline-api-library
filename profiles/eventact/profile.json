@@ -1,0 +1,13 @@
+{
+  "id": "eventact",
+  "title": "EventAct",
+  "subtitle": "Registration, Event Marketing, Abstract Management, Program, Website, Meetings and Onsite. A complete Event Managemen...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947067/catalog/eventact/icon128x128.jpg",
+  "website": "https://eventact.com"
+}

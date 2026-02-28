@@ -1,0 +1,13 @@
+{
+  "id": "palantir",
+  "title": "Palantir",
+  "subtitle": "We build the world's leading software for data-driven decisions and operations.",
+  "tags": [
+    "big-data-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604703255/icons/palantir.png",
+  "website": "https://www.palantir.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "automattic",
+  "title": "Automattic",
+  "subtitle": "Making the web a better place",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600304246/icons/automattic.jpg",
+  "website": "https://automattic.com/",
+  "docsUrl": "https://docs.woocommerce.com/document/woocommerce-services"
+}

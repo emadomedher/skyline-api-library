@@ -1,0 +1,16 @@
+{
+  "id": "deno-land",
+  "title": "Deno - A secure runtime for JavaScript and TypeScript",
+  "subtitle": "Deno - A secure runtime for JavaScript and TypeScript API integration",
+  "tags": [
+    "runtimes",
+    "javascript",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604703262/icons/deno-land.jpg",
+  "website": "https://deno.land/",
+  "docsUrl": "https://deno.land/#runtime-documentation"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "socialwally",
+  "title": "SocialWally",
+  "subtitle": "SocialWally API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962267/catalog/socialwally/icon128x128.png",
+  "website": "https://socialwally.com"
+}

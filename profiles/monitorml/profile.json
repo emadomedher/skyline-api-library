@@ -1,0 +1,14 @@
+{
+  "id": "monitorml",
+  "title": "Monitor ML",
+  "subtitle": "Production Monitoring for Machine Learning",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571824351/catalog/monitorml/icon128x128.jpg",
+  "website": "https://monitorml.com",
+  "docsUrl": "https://monitorml.com/documentation.html"
+}

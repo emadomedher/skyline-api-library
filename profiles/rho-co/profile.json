@@ -1,0 +1,13 @@
+{
+  "id": "rho-co",
+  "title": "Rho Business Banking",
+  "subtitle": "Commercial banking designed to unlock the power of your people. Work together with fee-free banking & payments, softw...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610780910/icons/rho-co.png",
+  "website": "https://www.rho.co/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "groupe-bpce",
+  "title": "Groupe BPCE",
+  "subtitle": "Groupe BPCE is a French banking group, formed by the 2009 merger of CNCE and BFBP, has more than 8,200 branches natio...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568662661/catalog/groupe-bpce/icon128x128.jpg",
+  "website": "https://www.groupebpce.fr/en",
+  "docsUrl": "https://www.api.89c3.com"
+}

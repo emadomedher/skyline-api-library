@@ -1,0 +1,13 @@
+{
+  "id": "oracle-micros",
+  "title": "Oracle MICROS",
+  "subtitle": "Oracle MICROS API integration",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566602439/catalog/oracle-micros/icon128x128.png",
+  "website": "https://www.oracle.com/corporate/acquisitions/micros/"
+}

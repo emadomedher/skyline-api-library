@@ -1,0 +1,13 @@
+{
+  "id": "vyond",
+  "title": "Vyond",
+  "subtitle": "Create visually captivating animated videos for your business with ease. From training and employee engagement to exp...",
+  "tags": [
+    "video-animation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305949/catalog/vyond/icon128x128.png",
+  "website": "https://vyond.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "stratedge",
+  "title": "stratEDGE",
+  "subtitle": "stratEDGE App uses predictive analytics to provide in-depth campaign analysis across online advertising platforms.",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1087510156131192832/PDamQ4iJ_400x400.jpg",
+  "website": "https://stratedge-app.com"
+}

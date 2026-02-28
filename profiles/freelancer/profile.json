@@ -1,0 +1,13 @@
+{
+  "id": "freelancer",
+  "title": "Freelancer",
+  "subtitle": "Find & hire top freelancers, web developers & designers inexpensively. World's largest marketplace of 32m. Getting st...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946981/catalog/freelancer/icon128x128.jpg",
+  "website": "https://freelancer.com"
+}

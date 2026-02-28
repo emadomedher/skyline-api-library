@@ -1,0 +1,16 @@
+{
+  "id": "sendgrid",
+  "title": "Sendgrid",
+  "subtitle": "Delivering your transactional and marketing emails through the world's largest cloud-based email delivery platform. S...",
+  "tags": [
+    "email-marketing",
+    "newsletter",
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306006/catalog/sendgrid/icon128x128.png",
+  "website": "https://sendgrid.com/",
+  "docsUrl": "https://sendgrid.com/docs/api-reference/"
+}

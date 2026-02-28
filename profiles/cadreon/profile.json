@@ -1,0 +1,13 @@
+{
+  "id": "cadreon",
+  "title": "Cadreon",
+  "subtitle": "Cadreon API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825989/catalog/cadreon/icon128x128.png",
+  "website": "https://cadreon.com"
+}

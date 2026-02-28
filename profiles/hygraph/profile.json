@@ -1,0 +1,14 @@
+{
+  "id": "hygraph",
+  "title": "Hygraph",
+  "subtitle": "Hygraph is the next generation GraphQL-Native Federated Content Platform. Integrate all your services with our unique...",
+  "tags": [
+    "headless-cms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657638861/icons/hygraph.jpg",
+  "website": "https://hygraph.com/",
+  "docsUrl": "https://hygraph.com/docs"
+}

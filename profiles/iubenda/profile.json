@@ -1,0 +1,14 @@
+{
+  "id": "iubenda",
+  "title": "Iubenda",
+  "subtitle": "Privacy & Cookie Policy Generator - for Websites and Apps. A 360° solution to make your sites and apps compliant with...",
+  "tags": [
+    "privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537374494/catalog/iubenda/icon128x128.png",
+  "website": "https://www.iubenda.com/",
+  "docsUrl": "https://www.iubenda.com/en/help/37004-api-docs-how-to-use-the-api"
+}

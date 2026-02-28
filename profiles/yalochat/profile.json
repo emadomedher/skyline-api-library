@@ -1,0 +1,14 @@
+{
+  "id": "yalochat",
+  "title": "Yalo",
+  "subtitle": "We help companies build AI-driven relationships with customers through messaging.",
+  "tags": [
+    "conversational-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598015657/icons/yalochat.jpg",
+  "website": "https://www.yalochat.com/",
+  "docsUrl": "https://developer.yalochat.com"
+}

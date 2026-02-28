@@ -1,0 +1,13 @@
+{
+  "id": "hownd",
+  "title": "Hownd",
+  "subtitle": "Hownd®is an Effortless Foot Traffic Generation platform for local family entertainment, health & beauty, and restaura...",
+  "tags": [
+    "local-business"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590286211/catalog/hownd/icon128x128.jpg",
+  "website": "https://hownd.com/"
+}

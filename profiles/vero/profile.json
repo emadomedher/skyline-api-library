@@ -1,0 +1,14 @@
+{
+  "id": "vero",
+  "title": "Vero",
+  "subtitle": "The messaging platform that helps you create customer experiences that drive engagement and grow your business.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439387/catalog/vero/icon128x128.svg",
+  "website": "https://getvero.com",
+  "docsUrl": "https://developers.getvero.com/"
+}

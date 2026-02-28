@@ -1,0 +1,16 @@
+{
+  "id": "httptoolkit-tech",
+  "title": "HTTP Toolkit",
+  "subtitle": "Beautiful, cross-platform & open-source tools for debugging, testing and building with HTTP(S), on Windows, Linux & Mac.",
+  "tags": [
+    "debugging",
+    "testing",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612563729/icons/httptoolkit-tech.jpg",
+  "website": "https://httptoolkit.tech/",
+  "docsUrl": "https://httptoolkit.tech/docs"
+}

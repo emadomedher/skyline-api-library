@@ -1,0 +1,13 @@
+{
+  "id": "secondnature-ai",
+  "title": "Second Nature",
+  "subtitle": "Second Nature's sales coaching software uses conversational AI to have actual discussions with sales reps, score them...",
+  "tags": [
+    "sales-coaching"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471940/icons/secondnature-ai.png",
+  "website": "https://secondnature.ai/"
+}

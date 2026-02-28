@@ -1,0 +1,13 @@
+{
+  "id": "situsamc",
+  "title": "SitusAMC",
+  "subtitle": "SitusAMC is the leading finance and real estate provider of technology, data and analytics, strategic outsourcing, ad...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006416/icons/situsamc.png",
+  "website": "https://www.situsamc.com/"
+}

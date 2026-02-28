@@ -1,0 +1,13 @@
+{
+  "id": "smartadvocate",
+  "title": "SmartAdvocate",
+  "subtitle": "SmartAdvocate API integration",
+  "tags": [
+    "case-management-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576225900/catalog/smartadvocate/icon128x128.jpg",
+  "website": "https://www.smartadvocate.com/"
+}

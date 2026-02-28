@@ -1,0 +1,13 @@
+{
+  "id": "briqbookings",
+  "title": "Briq Bookings",
+  "subtitle": "The best intuitive and mobile-responsive booking flow. Save 100% of the time spent on scheduling with phone calls and...",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652083876/icons/briqbookings.jpg",
+  "website": "https://www.briqbookings.com/"
+}

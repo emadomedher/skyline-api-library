@@ -1,0 +1,14 @@
+{
+  "id": "nxus-mobi",
+  "title": "Mpire",
+  "subtitle": "Powering performance marketing. nxus is a complete management tool to track & optimise your performance marketing & a...",
+  "tags": [
+    "attribution-analytics",
+    "performance-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415413/catalog/nxus-mobi/icon128x128.jpg",
+  "website": "https://www.nxus.mobi/"
+}

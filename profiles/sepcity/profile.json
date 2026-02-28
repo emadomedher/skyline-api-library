@@ -1,0 +1,14 @@
+{
+  "id": "sepcity",
+  "title": "SepCity",
+  "subtitle": "Integrated web portal software solution and content management system application (CMS). We designed our software for...",
+  "tags": [
+    "cms",
+    "membership-management"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723365/icons/sepcity.png",
+  "website": "https://www.sepcity.com/"
+}

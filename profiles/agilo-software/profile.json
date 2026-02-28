@@ -1,0 +1,13 @@
+{
+  "id": "agilo-software",
+  "title": "Agilo Software",
+  "subtitle": "Agilo Software was founded in response to the demand for more specific tools to facilitate and monitor the agile prac...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774761/catalog/agilo-software/icon128x128.jpg",
+  "website": "https://agilosoftware.com"
+}

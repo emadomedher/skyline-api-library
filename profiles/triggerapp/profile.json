@@ -1,0 +1,13 @@
+{
+  "id": "triggerapp",
+  "title": "Trigger",
+  "subtitle": "Trigger is cloud software for project management, collaboration, and time tracking. Closely integrated with Xero, you...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306373/catalog/triggerapp/icon128x128.png",
+  "website": "https://www.triggerapp.com/"
+}

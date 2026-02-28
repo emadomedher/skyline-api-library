@@ -1,0 +1,13 @@
+{
+  "id": "parpera",
+  "title": "Parpera",
+  "subtitle": "Finally, an alternative for Australian businesses, freelancers, entrepreneurs. Instant access | smarter tools | bette...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006393/icons/parpera.png",
+  "website": "https://www.parpera.com/"
+}

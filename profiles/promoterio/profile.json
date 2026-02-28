@@ -1,0 +1,13 @@
+{
+  "id": "promoterio",
+  "title": "Promoter.io",
+  "subtitle": "Promoter.io is the easiest and most effective way to measure and track customer loyalty using the Net Promoter System®. ",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305776/catalog/promoterio/icon128x128.png",
+  "website": "https://www.promoter.io/"
+}

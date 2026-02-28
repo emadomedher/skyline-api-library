@@ -1,0 +1,13 @@
+{
+  "id": "taptica",
+  "title": "Taptica",
+  "subtitle": "Taptica API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437866/catalog/taptica/icon128x128.png",
+  "website": "https://taptica.com"
+}

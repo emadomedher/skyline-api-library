@@ -1,0 +1,14 @@
+{
+  "id": "tryeraser",
+  "title": "Eraser – Make Team Meetings Visual",
+  "subtitle": "Create diagrams, wireframes, technical specs with your team. Your all-in-one technical ideation tool.",
+  "tags": [
+    "visual-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636511331/icons/tryeraser.png",
+  "website": "https://www.tryeraser.com/",
+  "docsUrl": "https://www.tryeraser.com/template"
+}

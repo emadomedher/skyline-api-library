@@ -1,0 +1,13 @@
+{
+  "id": "bancointer-br",
+  "title": "Banco Inter",
+  "subtitle": "Banco Inter S.A., called Banco Intermedium S.A. until the year 2017, is a Brazilian digital bank incorporated in 1994...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863284/icons/bancointer-br.jpg",
+  "website": "https://www.bancointer.com.br/"
+}

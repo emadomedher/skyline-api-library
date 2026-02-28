@@ -1,0 +1,14 @@
+{
+  "id": "butn-co",
+  "title": "butn",
+  "subtitle": "butn API integration",
+  "tags": [
+    "business-lending",
+    "b-2-b-bnpl"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701511/icons/butn-co.png",
+  "website": "https://butn.co/"
+}

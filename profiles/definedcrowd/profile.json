@@ -1,0 +1,13 @@
+{
+  "id": "definedcrowd",
+  "title": "DefinedCrowd",
+  "subtitle": "Leverage machine learning technology and human intelligence to source, structure, and enrich high quality training da...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590626656/catalog/definedcrowd/icon128x128.png",
+  "website": "https://www.definedcrowd.com/"
+}

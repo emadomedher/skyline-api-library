@@ -1,0 +1,15 @@
+{
+  "id": "connectpay",
+  "title": "ConnectPay",
+  "subtitle": "ConnectPay is the banking alternative for online-focused businesses. Easy onboarding, custom solutions. Apply for and...",
+  "tags": [
+    "banking",
+    "open-banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576461918/catalog/connectpay/icon128x128.png",
+  "website": "https://connectpay.com/"
+}

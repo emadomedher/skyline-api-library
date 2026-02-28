@@ -1,0 +1,14 @@
+{
+  "id": "piesync",
+  "title": "Piesync",
+  "subtitle": "Connect your cloud apps with our intelligent two-way contact sync and share data between your favorite marketing, CRM...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551911805/catalog/piesync/icon128x128.svg",
+  "website": "https://piesync.com/",
+  "docsUrl": "https://help.piesync.com/faq/api/"
+}

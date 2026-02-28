@@ -1,0 +1,13 @@
+{
+  "id": "banksiteservices",
+  "title": "BankSITE Services",
+  "subtitle": "Over 150 banks already trust our expertise in ADA compliant bank website design, bank website development and SSAE-16...",
+  "tags": [
+    "bank-website-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601846809/icons/banksiteservices.jpg",
+  "website": "https://www.banksiteservices.com/"
+}

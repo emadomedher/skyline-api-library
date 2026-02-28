@@ -1,0 +1,13 @@
+{
+  "id": "agilezen",
+  "title": "AgileZen",
+  "subtitle": "AgileZen is a simple, visual, and collaborative way to manage your projects. Whether you're on a team or flying solo,...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304370/catalog/agilezen/icon128x128.png",
+  "website": "https://www.ca.com/us.html"
+}

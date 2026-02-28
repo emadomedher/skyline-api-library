@@ -1,0 +1,14 @@
+{
+  "id": "topol-io",
+  "title": "Topol",
+  "subtitle": "Drag and drop HTML editor and builder for beautiful responsive email templates. Design, organize, and collaborate!",
+  "tags": [
+    "email-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723362/icons/topol-io.png",
+  "website": "https://topol.io/",
+  "docsUrl": "https://topol.io/docs"
+}

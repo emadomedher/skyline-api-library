@@ -1,0 +1,14 @@
+{
+  "id": "localight",
+  "title": "Localight",
+  "subtitle": "Localight unites independent businesses in one app. Customers shop local, earn rewards, and donate to charity. Win, w...",
+  "tags": [
+    "shopping-rewards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660740310/icons/localight.jpg",
+  "website": "https://join.localight.com/",
+  "docsUrl": "https://readme.com"
+}

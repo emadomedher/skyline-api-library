@@ -1,0 +1,14 @@
+{
+  "id": "exact",
+  "title": "Exact",
+  "subtitle": "Exact's innovative cloud business software helps more than 500,000 SMEs and accountants manage their figures. See wha...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582906874/catalog/exact/icon128x128.png",
+  "website": "https://www.exact.com/",
+  "docsUrl": "https://www.exact.com/developers"
+}

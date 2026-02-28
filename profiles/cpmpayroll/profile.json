@@ -1,0 +1,13 @@
+{
+  "id": "cpmpayroll",
+  "title": "CPM Employer Solutions",
+  "subtitle": "A leading Florida Payroll Provider offering a cloud based platform providing fully integrated Payroll Services, HR, T...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626428664/icons/cpmpayroll.jpg",
+  "website": "https://cpmpayroll.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "simon-data",
+  "title": "Simon Data",
+  "subtitle": "Simon Data is a customer data platform that enables marketers to effectively leverage all of their data to drive pers...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946595/catalog/simon-data/icon128x128.jpg",
+  "website": "https://simondata.com"
+}

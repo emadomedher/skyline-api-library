@@ -1,0 +1,15 @@
+{
+  "id": "lune-co",
+  "title": "Lune",
+  "subtitle": "Lune is on a mission to make every product and service carbon neutral by default. We enable carbon offsetting to be s...",
+  "tags": [
+    "climate",
+    "carbon-neutral-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623453627/icons/lune-co.jpg",
+  "website": "https://lune.co/",
+  "docsUrl": "https://docs.lune.co"
+}

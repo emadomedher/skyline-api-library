@@ -1,0 +1,13 @@
+{
+  "id": "sendicate",
+  "title": "Sendicate",
+  "subtitle": "Simply send beautiful emails to people who matter. Sendicate is the email marketing app for smart businesses.",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306025/catalog/sendicate/icon128x128.png",
+  "website": "https://www.sendicate.net/"
+}

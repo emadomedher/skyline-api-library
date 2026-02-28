@@ -1,0 +1,13 @@
+{
+  "id": "simplyfiles-co",
+  "title": "SimplyFiles",
+  "subtitle": "SimplyFiles is a unified cloud storage api for Dropbox, OneDrive, Google Drive, AWS S3, Azure Storage and more.",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671130400/icons/simplyfiles-co.png",
+  "website": "https://www.simplyfiles.co/"
+}

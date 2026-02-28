@@ -1,0 +1,16 @@
+{
+  "id": "ramco",
+  "title": "Ramco Systems",
+  "subtitle": "Ramco Systems offers cloud, mobile, chatbot and Voice-ready ERP, HR, Global Payroll, Logistics, EAM and Aviation M&E ...",
+  "tags": [
+    "hr",
+    "hrms",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599421352/icons/ramco.jpg",
+  "website": "https://www.ramco.com/",
+  "docsUrl": "https://developer.ramco.com/"
+}

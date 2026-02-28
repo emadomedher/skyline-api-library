@@ -1,0 +1,14 @@
+{
+  "id": "triodos-bank",
+  "title": "Triodos Bank",
+  "subtitle": "Triodos Bank is one of the world's leading sustainable banks. Our mission is to make money work for positive social, ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566969744/catalog/triodos-bank/icon128x128.png",
+  "website": "https://triodos.com",
+  "docsUrl": "https://developer.triodos.com/"
+}

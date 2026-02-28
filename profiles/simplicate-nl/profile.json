@@ -1,0 +1,15 @@
+{
+  "id": "simplicate-nl",
+  "title": "Simplicate",
+  "subtitle": "Alles-in-één CRM- en projectsoftware: CRM, sales, projectmanagement, planning, urenregistratie & facturatie. Ontdek a...",
+  "tags": [
+    "invoicing",
+    "crm"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509293/catalog/simplicate-nl/icon128x128.png",
+  "website": "https://www.simplicate.com/",
+  "docsUrl": "https://developer.simplicate.com/"
+}

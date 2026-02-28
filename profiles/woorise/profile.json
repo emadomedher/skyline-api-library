@@ -1,0 +1,14 @@
+{
+  "id": "woorise",
+  "title": "Woorise",
+  "subtitle": "Run viral giveaways, contests & competitions. Create landing pages & engaging forms such as surveys & quizzes. Genera...",
+  "tags": [
+    "landing-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591695200/icons/woorise.jpg",
+  "website": "https://woorise.com/",
+  "docsUrl": "https://woorise.com/docs"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "efront-pro",
+  "title": "eFront Pro",
+  "subtitle": "A powerful, yet simple LMS to cover your training & skills development needs.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304842/catalog/efront-pro/icon128x128.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wegift-io",
+  "title": "WeGift",
+  "subtitle": "WeGift provides global, real-time, on-demand access to all of your favourite digital rewards. Drive acquisition, loya...",
+  "tags": [
+    "digital-rewards",
+    "gift-cards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415403/catalog/wegift-io/icon128x128.png",
+  "website": "https://wegift.io",
+  "docsUrl": "https://developer.wegift.io/"
+}

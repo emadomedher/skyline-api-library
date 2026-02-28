@@ -1,0 +1,13 @@
+{
+  "id": "kapta",
+  "title": "Kapta",
+  "subtitle": "Software tools for key account management, customer account management and strategic account management success. Requ...",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946891/catalog/kapta/icon128x128.png",
+  "website": "https://kapta.com"
+}

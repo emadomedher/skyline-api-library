@@ -1,0 +1,14 @@
+{
+  "id": "travelbank",
+  "title": "TravelBank",
+  "subtitle": "TravelBank is the top all-in-one solution for everything your business needs to manage travel and expenses seamlessly...",
+  "tags": [
+    "business-travel-management",
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604043111/icons/travelbank.png",
+  "website": "https://travelbank.com/"
+}

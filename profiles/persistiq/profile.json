@@ -1,0 +1,13 @@
+{
+  "id": "persistiq",
+  "title": "PersistIQ",
+  "subtitle": "PersistIQ is software for effective outbound sales that combines communication and workflow into one easy to use system.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305661/catalog/persistiq/icon128x128.png",
+  "website": "https://persistiq.com"
+}

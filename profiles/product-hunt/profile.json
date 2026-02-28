@@ -1,0 +1,13 @@
+{
+  "id": "product-hunt",
+  "title": "Product Hunt",
+  "subtitle": "Product Hunt is a curation of the best new products, every day. Discover the latest mobile apps, websites, and techno...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305750/catalog/product-hunt/icon128x128.png",
+  "website": "https://www.producthunt.com/"
+}

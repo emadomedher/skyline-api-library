@@ -1,0 +1,14 @@
+{
+  "id": "reserve-with-google",
+  "title": "Reserve with Google",
+  "subtitle": "Reserve with Google helps you get things done in the world. Save your spot at restaurants, classes, activities, attra...",
+  "tags": [
+    "reservations",
+    "restaurant-reservations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593727044/icons/reserve-with-google.jpg",
+  "website": "https://www.google.com/maps/reserve/"
+}

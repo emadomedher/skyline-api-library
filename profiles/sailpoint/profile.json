@@ -1,0 +1,14 @@
+{
+  "id": "sailpoint",
+  "title": "SailPoint",
+  "subtitle": "SailPoint's identity security solution couples access management with identity security, ensuring workers have the ri...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647256320/icons/sailpoint.jpg",
+  "website": "https://www.sailpoint.com/",
+  "docsUrl": "https://docs.sailpoint.com/pdf/?file=https://docs.sailpoint.com/wp-content/uploads/sailpoint-hr-privacy-policy.pdf"
+}

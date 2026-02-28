@@ -1,0 +1,14 @@
+{
+  "id": "lgpd",
+  "title": "LGPD",
+  "subtitle": "The General Personal Data Protection Law 13709/2018, is a statutory law on data protection and privacy in the Federat...",
+  "tags": [
+    "compliance",
+    "regulations"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633417508/icons/lgpd.png",
+  "website": "https://en.wikipedia.org/wiki/General_Personal_Data_Protection_Law"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ogoship",
+  "title": "OGOship",
+  "subtitle": "OGOship helps e-commerce businesses to optimize their supply chain, speed up delivery times, and reduce costs with ou...",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678969226/icons/ogoship.jpg",
+  "website": "https://www.ogoship.com/"
+}

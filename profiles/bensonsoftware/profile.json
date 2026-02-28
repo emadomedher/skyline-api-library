@@ -1,0 +1,14 @@
+{
+  "id": "bensonsoftware",
+  "title": "Benson Software",
+  "subtitle": "Benson’s a smooth operator, helping run your hotel with maximum efficiency and minimum effort. Our hotel management s...",
+  "tags": [
+    "hotel-property-management-systems",
+    "hoteltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589827527/catalog/bensonsoftware/icon128x128.jpg",
+  "website": "https://bensonsoftware.com/"
+}

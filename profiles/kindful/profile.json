@@ -1,0 +1,15 @@
+{
+  "id": "kindful",
+  "title": "Kindful",
+  "subtitle": "Kindful is a CRM that integrates with the software you already use to run your nonprofit. Build relationships with yo...",
+  "tags": [
+    "donor-management",
+    "fundraising-crm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615772632/icons/kindful.jpg",
+  "website": "https://kindful.com/",
+  "docsUrl": "https://developer.kindful.com"
+}

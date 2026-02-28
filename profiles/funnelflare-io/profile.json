@@ -1,0 +1,13 @@
+{
+  "id": "funnelflare-io",
+  "title": "FunnelFLARE",
+  "subtitle": "FunnelFLARE is a sales enablement and process automation platform will accellerate your sales. Stop wasting timeand s...",
+  "tags": [
+    "sales-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580923218/catalog/funnelflare-io/icon128x128.png",
+  "website": "https://funnelflare.io/"
+}

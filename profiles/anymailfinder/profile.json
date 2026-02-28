@@ -1,0 +1,15 @@
+{
+  "id": "anymailfinder",
+  "title": "Anymail finder",
+  "subtitle": "Quickly find the server-verified email address of people at any company. Used by thousands daily for sales and lead g...",
+  "tags": [
+    "email-verification",
+    "contacts"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578495808/catalog/anymailfinder/icon128x128.jpg",
+  "website": "https://anymailfinder.com/",
+  "docsUrl": "https://anymailfinder.com/api/docs"
+}

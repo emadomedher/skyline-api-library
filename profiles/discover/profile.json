@@ -1,0 +1,14 @@
+{
+  "id": "discover",
+  "title": "Discover",
+  "subtitle": "Discover offers reward credit cards, online banking, home equity loans, student loans and personal loans.",
+  "tags": [
+    "card-services",
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576794139/catalog/discover/icon128x128.jpg",
+  "website": "https://www.discover.com/"
+}

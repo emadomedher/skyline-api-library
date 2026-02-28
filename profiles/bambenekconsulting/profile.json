@@ -1,0 +1,13 @@
+{
+  "id": "bambenekconsulting",
+  "title": "DGA Feed Alerts",
+  "subtitle": "Bambenek Consulting is a firm specializing in cybersecurity investigation services and customer intelligence services...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249024/icons/bambenekconsulting.jpg",
+  "website": "https://bambenekconsulting.com"
+}

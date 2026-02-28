@@ -1,0 +1,14 @@
+{
+  "id": "skillsurvey",
+  "title": "SkillSurvey",
+  "subtitle": "Make hiring decisions based on data, not instinct with SkillSurvey's online, automated reference checking software an...",
+  "tags": [
+    "reference-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610129702/icons/skillsurvey.jpg",
+  "website": "https://www.skillsurvey.com/",
+  "docsUrl": "https://www.skillsurvey.com/reference-checking-solution"
+}

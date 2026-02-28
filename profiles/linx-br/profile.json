@@ -1,0 +1,13 @@
+{
+  "id": "linx-br",
+  "title": "Linx",
+  "subtitle": "A Linx é uma empresa especializada em tecnologia para o Varejo, o que nos torna líderes no mercado de softwares de ge...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614642931/icons/linx-br.png",
+  "website": "https://www.linx.com.br/"
+}

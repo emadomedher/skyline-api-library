@@ -1,0 +1,13 @@
+{
+  "id": "agentos",
+  "title": "agentOS",
+  "subtitle": "agentOS Property Software: Estate Agency, Lettings, Property Management, Client Accounting, Inspection Management",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302490/icons/agentos.jpg",
+  "website": "https://agentos.com/"
+}

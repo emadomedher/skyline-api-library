@@ -1,0 +1,15 @@
+{
+  "id": "serviceform",
+  "title": "Serviceform",
+  "subtitle": "Access a tested combination of marketing tools and modern messaging tested for performance with hundreds of companies...",
+  "tags": [
+    "forms",
+    "lead-capture"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556181/icons/serviceform.png",
+  "website": "https://www.serviceform.com/",
+  "docsUrl": "https://docs.serviceform.com"
+}

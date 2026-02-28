@@ -1,0 +1,12 @@
+{
+  "id": "aimtell",
+  "title": "Aimtell",
+  "subtitle": "Aimtell is a platform that enables you to re-engage your website visitors with highly targeted browser push notificat...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304375/catalog/aimtell/icon128x128.png"
+}

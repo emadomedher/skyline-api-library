@@ -1,0 +1,13 @@
+{
+  "id": "jfrog-artifactory",
+  "title": "JFrog Artifactory",
+  "subtitle": "Artifactory is the single solution for managing all the artifacts, binaries, files and containers throughout your sof...",
+  "tags": [
+    "artifact-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1693292099/icons/jfrog-artifactory.jpg",
+  "website": "https://jfrog.com/artifactory/"
+}

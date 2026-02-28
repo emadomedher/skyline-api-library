@@ -1,0 +1,13 @@
+{
+  "id": "turnto-networks",
+  "title": "TurnTo",
+  "subtitle": "The most innovative customer content application suite including Community Q&A, Ratings & Reviews, Checkout Comments,...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946438/catalog/turnto-networks/icon128x128.png",
+  "website": "https://turntonetworks.com"
+}

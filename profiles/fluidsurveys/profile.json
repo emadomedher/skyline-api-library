@@ -1,0 +1,13 @@
+{
+  "id": "fluidsurveys",
+  "title": "FluidSurveys",
+  "subtitle": "Online survey software made easy. Create surveys, forms & questionnaires using the web's best survey tool.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304938/catalog/fluidsurveys/icon128x128.png",
+  "website": "https://fluidsurveys.com/"
+}

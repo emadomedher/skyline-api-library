@@ -1,0 +1,13 @@
+{
+  "id": "sentilink",
+  "title": "SentiLink",
+  "subtitle": "SentiLink's synthetic fraud and identity theft solutions enable real-time decisions about identity without adding fri...",
+  "tags": [
+    "identity-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628203186/icons/sentilink.png",
+  "website": "https://www.sentilink.com/"
+}

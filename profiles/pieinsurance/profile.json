@@ -1,0 +1,15 @@
+{
+  "id": "pieinsurance",
+  "title": "Pie Insurance",
+  "subtitle": "Pie Insurance provides workers compensation insurance exclusively to small businesses, making buying workers' comp as...",
+  "tags": [
+    "insurance",
+    "small-business-insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089341/icons/pieinsurance.jpg",
+  "website": "https://pieinsurance.com/",
+  "docsUrl": "https://agencies.pieinsurance.com/api/"
+}

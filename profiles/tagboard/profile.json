@@ -1,0 +1,13 @@
+{
+  "id": "tagboard",
+  "title": "Tagboard",
+  "subtitle": "At Tagboard, our mission is to help storytellers across the world discover diverse perspectives in order to create au...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946504/catalog/tagboard/icon128x128.png",
+  "website": "https://tagboard.com"
+}

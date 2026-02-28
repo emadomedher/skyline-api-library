@@ -1,0 +1,15 @@
+{
+  "id": "mendix",
+  "title": "Mendix",
+  "subtitle": "Mendix is the fastest & easiest low-code platform used by businesses to develop mobile & web apps at scale. Visit to ...",
+  "tags": [
+    "low-code",
+    "application-development-platforms"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599461952/icons/mendix.jpg",
+  "website": "https://www.mendix.com/",
+  "docsUrl": "https://www.mendix.com/professional-developers"
+}

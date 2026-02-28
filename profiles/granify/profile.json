@@ -1,0 +1,13 @@
+{
+  "id": "granify",
+  "title": "Granify",
+  "subtitle": "Granify API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963830/catalog/granify/icon128x128.png",
+  "website": "https://granify.com"
+}

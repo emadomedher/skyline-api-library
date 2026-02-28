@@ -1,0 +1,14 @@
+{
+  "id": "voicethread",
+  "title": "VoiceThread",
+  "subtitle": "Transforming media into collaborative spaces with video, voice, and text commenting.",
+  "tags": [
+    "presentation",
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441225/catalog/voicethread/icon128x128.jpg",
+  "website": "https://voicethread.com/"
+}

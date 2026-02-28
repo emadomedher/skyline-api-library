@@ -1,0 +1,14 @@
+{
+  "id": "historic-hotels-ghent",
+  "title": "Historic Hotels Ghent",
+  "subtitle": "Historic Hotels Belgium bundelt 4 karaktervolle hotels in het middeleeuwse stadscentrum van Gent en 1 modern nieuwbou...",
+  "tags": [
+    "portal-bookers",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724231/icons/historic-hotels-ghent.png",
+  "website": "https://www.historic-hotels-ghent.com/"
+}

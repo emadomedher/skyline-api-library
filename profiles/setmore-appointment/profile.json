@@ -1,0 +1,13 @@
+{
+  "id": "setmore-appointment",
+  "title": "Setmore Appointments",
+  "subtitle": "Setmore helps small businesses book appointments online and grow their business every day.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306054/catalog/setmore-appointment/icon128x128.png",
+  "website": "https://www.setmore.com/"
+}

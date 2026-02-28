@@ -1,0 +1,13 @@
+{
+  "id": "paymongo",
+  "title": "PayMongo",
+  "subtitle": "PayMongo allows businesses in the Philippines to accept payments of all types in a matter of minutes.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566774044/catalog/paymongo/icon128x128.jpg",
+  "website": "https://paymongo.com/"
+}

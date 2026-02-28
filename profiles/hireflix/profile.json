@@ -1,0 +1,13 @@
+{
+  "id": "hireflix",
+  "title": "Hireflix",
+  "subtitle": "Create video interviews and invite candidates to record their answers at their own convenience. Save time & hire fast...",
+  "tags": [
+    "video-interviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641977838/icons/hireflix.jpg",
+  "website": "https://hireflix.com/"
+}

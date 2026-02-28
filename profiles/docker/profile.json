@@ -1,0 +1,14 @@
+{
+  "id": "docker",
+  "title": "Docker",
+  "subtitle": "Build, Share, and Run Any App, Anywhere. Learn about the only enterprise-ready container platform to cost-effectively...",
+  "tags": [
+    "container-orchestration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547699319/catalog/docker/icon128x128.jpg",
+  "website": "https://www.docker.com/",
+  "docsUrl": "https://docs.docker.com"
+}

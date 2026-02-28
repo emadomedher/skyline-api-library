@@ -1,0 +1,13 @@
+{
+  "id": "kard-eu",
+  "title": "Kard",
+  "subtitle": "Kard is a mobile banking alternative for the new generation, offering a never-seen-before customer experience that is...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591042196/catalog/kard-eu/icon128x128.png",
+  "website": "https://www.kard.eu/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fountain",
+  "title": "Fountain",
+  "subtitle": "Trusted by the World's Leading Companies. No.1 Hiring Platform for Multi-Location Franchise and On-demand Marketplace...",
+  "tags": [
+    "hiring",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574344494/catalog/fountain/icon128x128.png",
+  "website": "https://www.fountain.com/",
+  "docsUrl": "https://developer.fountain.com"
+}

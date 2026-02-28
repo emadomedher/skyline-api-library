@@ -1,0 +1,14 @@
+{
+  "id": "getgreenspark",
+  "title": "Greenspark",
+  "subtitle": "Turn your e-commerce business into a force for good, increase sales and engage your customers in climate action with ...",
+  "tags": [
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656024411/icons/getgreenspark.jpg",
+  "website": "https://www.getgreenspark.com/",
+  "docsUrl": "https://wedocs.unep.org/bitstream/handle/20.500.11822/30797/egr2019.pdf?sequence=1&isallowed=y"
+}

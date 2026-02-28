@@ -1,0 +1,13 @@
+{
+  "id": "easop",
+  "title": "Easop",
+  "subtitle": "We help US companies  stay compliant in 70+ countries, incentivizing employees, contractors, and advisors while e...",
+  "tags": [
+    "equity-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1697114640/icons/easop.png",
+  "website": "https://www.easop.com/"
+}

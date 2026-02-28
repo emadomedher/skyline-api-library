@@ -1,0 +1,13 @@
+{
+  "id": "safeture",
+  "title": "Safeture",
+  "subtitle": "Safety made simple Smart technology to safeguard the modern workforce. The Safeture Platform sorts out relevant risk ...",
+  "tags": [
+    "employee-safety"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679507590/icons/safeture.jpg",
+  "website": "https://www.safeture.com/"
+}

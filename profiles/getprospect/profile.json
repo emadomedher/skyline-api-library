@@ -1,0 +1,12 @@
+{
+  "id": "getprospect",
+  "title": "GetProspect",
+  "subtitle": "GetProspect is a lead generation tool with email finder.",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305008/catalog/getprospect/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "procurify",
+  "title": "Procurify",
+  "subtitle": "Procurify Procurement Software | Accessible data, Convenient Purchasing Process and Manageable Spend Controls.",
+  "tags": [
+    "spend-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561505793/catalog/procurify/icon128x128.jpg",
+  "website": "https://procurify.com"
+}

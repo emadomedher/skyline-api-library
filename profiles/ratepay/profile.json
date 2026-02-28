@@ -1,0 +1,15 @@
+{
+  "id": "ratepay",
+  "title": "Ratepay",
+  "subtitle": "Ratepay bietet sicheres Bezahlen für Online Shops ohne Risiko. Unsere Produkte: Rechnung, Ratenzahlung, Lastschrift u...",
+  "tags": [
+    "whitelabel-payments",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611032347/icons/ratepay.png",
+  "website": "https://www.ratepay.com/",
+  "docsUrl": "https://ratepay.gitbook.io/docs"
+}

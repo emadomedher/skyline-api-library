@@ -1,0 +1,15 @@
+{
+  "id": "upvest-co",
+  "title": "Upvest",
+  "subtitle": "Upvest is empowering financial institutions to offer investment products in their app with a modular, scalable and ac...",
+  "tags": [
+    "securities-api",
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607839190/icons/upvest-co.png",
+  "website": "https://upvest.co/",
+  "docsUrl": "https://doc.upvest.co/docs/python-quickstart"
+}

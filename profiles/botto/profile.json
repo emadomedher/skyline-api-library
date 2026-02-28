@@ -1,0 +1,14 @@
+{
+  "id": "botto",
+  "title": "Botto",
+  "subtitle": "Botto is the decentralized autonomous artist. Help us create a masterpiece.",
+  "tags": [
+    "generative-art"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671582/icons/botto.jpg",
+  "website": "https://botto.com/",
+  "docsUrl": "https://docs.botto.com"
+}

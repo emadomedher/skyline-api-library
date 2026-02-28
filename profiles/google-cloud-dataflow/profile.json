@@ -1,0 +1,15 @@
+{
+  "id": "google-cloud-dataflow",
+  "title": "Google Cloud Dataflow",
+  "subtitle": "Dataflow is a fully managed streaming analytics service that minimizes latency, processing time, and cost through aut...",
+  "tags": [
+    "batch-data-processing",
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605096385/icons/google-cloud-dataflow.jpg",
+  "website": "https://cloud.google.com/dataflow/",
+  "docsUrl": "https://cloud.google.com/dataflow/docs"
+}

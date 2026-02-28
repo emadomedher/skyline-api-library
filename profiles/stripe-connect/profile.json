@@ -1,0 +1,13 @@
+{
+  "id": "stripe-connect",
+  "title": "Stripe Connect",
+  "subtitle": "Stripe Connect integrates quickly with any payment platform to easily accept money and payout third parties. Get star...",
+  "tags": [
+    "marketplace-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619319111/icons/stripe-connect.svg",
+  "website": "https://stripe.com/connect"
+}

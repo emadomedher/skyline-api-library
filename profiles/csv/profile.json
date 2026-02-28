@@ -1,0 +1,13 @@
+{
+  "id": "csv",
+  "title": "CSV",
+  "subtitle": "A comma-separated values file is a delimited text file that uses a comma to separate values. Each line of the file is...",
+  "tags": [
+    "files",
+    "databases"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583934822/catalog/csv/icon128x128.svg"
+}

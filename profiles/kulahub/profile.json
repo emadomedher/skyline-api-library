@@ -1,0 +1,13 @@
+{
+  "id": "kulahub",
+  "title": "KulaHub",
+  "subtitle": "KulaHub is a Harrogate Local integrated, Cloud Based CRM & Email Marketing System. Designed to meet the needs of Grow...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946871/catalog/kulahub/icon128x128.jpg",
+  "website": "https://kulahub.com"
+}

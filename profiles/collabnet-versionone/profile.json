@@ -1,0 +1,13 @@
+{
+  "id": "collabnet-versionone",
+  "title": "CollabNet VersionOne",
+  "subtitle": "CollabNet is a leading provider of Enterprise Cloud Development and Agile ALM products and services for software-driv...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719523/catalog/collabnet-versionone/icon128x128.jpg",
+  "website": "https://collab.net"
+}

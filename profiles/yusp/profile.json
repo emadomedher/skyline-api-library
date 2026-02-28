@@ -1,0 +1,13 @@
+{
+  "id": "yusp",
+  "title": "Yusp",
+  "subtitle": "Yusp API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828086/catalog/yusp/icon128x128.png",
+  "website": "https://yusp.com"
+}

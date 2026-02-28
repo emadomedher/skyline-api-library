@@ -1,0 +1,13 @@
+{
+  "id": "ad-reform",
+  "title": "Ad Reform",
+  "subtitle": "Take back your time by automating tedious ad ops tasks with Ad Reform, your intelligent ad ops assistant.",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825626/catalog/ad-reform/icon128x128.jpg",
+  "website": "https://adreform.com"
+}

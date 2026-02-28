@@ -1,0 +1,14 @@
+{
+  "id": "scrivito",
+  "title": "Scrivito",
+  "subtitle": "The Digital Backbone for Your Websites and Apps. A new way to launch and scale your web projects. Deliver faster and ...",
+  "tags": [
+    "cms-and-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827516/catalog/scrivito/icon128x128.jpg",
+  "website": "https://scrivito.com",
+  "docsUrl": "https://www.scrivito.com/documentation-overview"
+}

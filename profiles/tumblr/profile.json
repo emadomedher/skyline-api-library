@@ -1,0 +1,13 @@
+{
+  "id": "tumblr",
+  "title": "Tumblr",
+  "subtitle": "Tumblr is a microblogging platform and social networking website which allows users to post multimedia and other cont...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477946/catalog/tumblr/icon128x128.png",
+  "website": "https://www.tumblr.com/"
+}

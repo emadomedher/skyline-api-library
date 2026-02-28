@@ -1,0 +1,16 @@
+{
+  "id": "backstage-io",
+  "title": "Backstage · An open platform for building developer portals",
+  "subtitle": "An open platform for building developer portals",
+  "tags": [
+    "developer-documentation",
+    "open-source",
+    "api-tooling"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605220289/icons/backstage-io.png",
+  "website": "https://backstage.io/",
+  "docsUrl": "https://backstage.io/docs/overview/what-is-backstage"
+}

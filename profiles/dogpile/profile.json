@@ -1,0 +1,13 @@
+{
+  "id": "dogpile",
+  "title": "Dogpile.com",
+  "subtitle": "Dogpile.com API integration",
+  "tags": [
+    "search-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615960065/icons/dogpile.png",
+  "website": "https://www.dogpile.com/"
+}

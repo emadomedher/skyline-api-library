@@ -1,0 +1,14 @@
+{
+  "id": "materialize",
+  "title": "Materialize",
+  "subtitle": "Materialize is the only true SQL streaming database for building internal tools, interactive dashboards, and customer...",
+  "tags": [
+    "streaming-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630350451/icons/materialize.jpg",
+  "website": "https://materialize.com/",
+  "docsUrl": "https://materialize.com/docs"
+}

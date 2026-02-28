@@ -1,0 +1,15 @@
+{
+  "id": "unanet",
+  "title": "Unanet",
+  "subtitle": "Unanet’s ERP and CRM solutions drive bottom-line growth by connecting your projects, people and financials with great...",
+  "tags": [
+    "erp",
+    "crm"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660740219/icons/unanet.jpg",
+  "website": "https://unanet.com/",
+  "docsUrl": "https://dev.portal.unanet.io/platform/swagger/"
+}

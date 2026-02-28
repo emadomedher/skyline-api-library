@@ -1,0 +1,14 @@
+{
+  "id": "autodesk-bim-360",
+  "title": "Autodesk BIM 360",
+  "subtitle": "Improve decision-making throughout the construction project lifecycle with BIM 360. See the next-generation of constr...",
+  "tags": [
+    "construction-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606882775/icons/autodesk-bim-360.jpg",
+  "website": "https://www.autodesk.com/bim-360/",
+  "docsUrl": "https://www.autodesk.com/bim-360/construction-document-management-software"
+}

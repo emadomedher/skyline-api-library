@@ -1,0 +1,15 @@
+{
+  "id": "effortlesslegal-billerassist",
+  "title": "BillerAssist",
+  "subtitle": "BillerAssist works with existing billing apps to eliminate write-offs and write-downs, and easily comply with client ...",
+  "tags": [
+    "billing",
+    "accounting",
+    "legal"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573231972/catalog/effortlesslegal-billerassist/icon128x128.png",
+  "website": "https://effortlesslegal.com/billerassist/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bankaustria-at",
+  "title": "UniCredit Bank Austria",
+  "subtitle": "UniCredit Bank Austria AG, better known as Bank Austria, is an Austrian bank, 96.35% owned by UniCredit Group based i...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437769/icons/bankaustria-at.jpg",
+  "website": "https://www.bankaustria.at/"
+}

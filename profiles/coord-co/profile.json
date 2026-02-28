@@ -1,0 +1,17 @@
+{
+  "id": "coord-co",
+  "title": "Coord",
+  "subtitle": "Coord API integration",
+  "tags": [
+    "api",
+    "govtech",
+    "mobility",
+    "geospatial"
+  ],
+  "category": "Government",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562541302/catalog/coord-co/icon128x128.jpg",
+  "website": "https://coord.co",
+  "docsUrl": "https://developers.coord.co"
+}

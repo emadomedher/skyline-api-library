@@ -1,0 +1,12 @@
+{
+  "id": "mindmanager-enterprise",
+  "title": "MindManager",
+  "subtitle": "MindManager is productivity software for visualizing and managing complex information, such as detailed project plans...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305448/catalog/mindmanager-enterprise/icon128x128.png"
+}

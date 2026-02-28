@@ -1,0 +1,13 @@
+{
+  "id": "apitester",
+  "title": "apitester.com",
+  "subtitle": "Do you know how your APIs are performing? Check your first and third party APIs for functionality and performance wit...",
+  "tags": [
+    "api-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603215557/icons/apitester.jpg",
+  "website": "https://apitester.com/"
+}

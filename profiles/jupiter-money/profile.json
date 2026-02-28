@@ -1,0 +1,13 @@
+{
+  "id": "jupiter-money",
+  "title": "Jupiter",
+  "subtitle": "Jupiter is a provider of digital retail banking services to help users track their expenses. Bank in a flash, master ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621695215/icons/jupiter-money.png",
+  "website": "https://waitlist.jupiter.money/"
+}

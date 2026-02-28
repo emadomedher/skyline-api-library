@@ -1,0 +1,16 @@
+{
+  "id": "reapit",
+  "title": "Reapit",
+  "subtitle": "Reapit is the industry leading cloud based property software provider. Products include estate agency CRM, Sales CRM,...",
+  "tags": [
+    "proptech",
+    "estate-agency",
+    "property-management-systems"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302467/icons/reapit.jpg",
+  "website": "https://www.reapit.com/",
+  "docsUrl": "https://www.reapit.com/foundations/for-developers"
+}

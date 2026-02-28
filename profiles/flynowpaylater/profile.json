@@ -1,0 +1,15 @@
+{
+  "id": "flynowpaylater",
+  "title": "Fly Now Pay Later",
+  "subtitle": "Fly Now Pay Later API integration",
+  "tags": [
+    "buy-now-pay-later",
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642040871/icons/flynowpaylater.jpg",
+  "website": "https://www.flynowpaylater.com/",
+  "docsUrl": "https://www.flynowpaylater.com/gb/documentation"
+}

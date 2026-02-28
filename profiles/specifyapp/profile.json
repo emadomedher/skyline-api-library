@@ -1,0 +1,16 @@
+{
+  "id": "specifyapp",
+  "title": "Specify",
+  "subtitle": "Specify is a tool to create, scale and maintain a design system. Meet the ultimate bridge for digital product teams.",
+  "tags": [
+    "design",
+    "design-system",
+    "design-data"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597801659/icons/specifyapp.jpg",
+  "website": "https://specifyapp.com/",
+  "docsUrl": "https://specifyapp.com/developers"
+}

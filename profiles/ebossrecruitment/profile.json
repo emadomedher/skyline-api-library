@@ -1,0 +1,14 @@
+{
+  "id": "ebossrecruitment",
+  "title": "eBoss",
+  "subtitle": "eBoss recruitment software tools. Experience superior performance, and improve outcomes for your clients, with eBoss ...",
+  "tags": [
+    "recruitment",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600472461/icons/ebossrecruitment.png",
+  "website": "https://www.ebossrecruitment.com/"
+}

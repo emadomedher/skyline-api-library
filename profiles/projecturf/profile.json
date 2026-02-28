@@ -1,0 +1,13 @@
+{
+  "id": "projecturf",
+  "title": "Projecturf",
+  "subtitle": "Project management software, task & collaboration tools for businesses and teams. Get things done while improving com...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721600/catalog/projecturf/icon128x128.png",
+  "website": "https://projecturf.com"
+}

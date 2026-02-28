@@ -1,0 +1,14 @@
+{
+  "id": "docupace",
+  "title": "Docupace Technologies",
+  "subtitle": "Docupace is a tech company based in Los Angeles that offers a unified workflow and document management automation sol...",
+  "tags": [
+    "wealth-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699480/catalog/docupace/icon128x128.png",
+  "website": "https://www.docupace.com/"
+}

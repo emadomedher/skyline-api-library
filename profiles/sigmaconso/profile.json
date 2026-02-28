@@ -1,0 +1,15 @@
+{
+  "id": "sigmaconso",
+  "title": "Sigma Conso",
+  "subtitle": "Corporate Performance Management software and services: consolidation, management reporting, intercompany reconciliat...",
+  "tags": [
+    "corporate-performance-management",
+    "consolidation",
+    "performance-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592429372/icons/sigmaconso.jpg",
+  "website": "https://www.sigmaconso.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "khanacademy",
+  "title": "Khan Academy",
+  "subtitle": "Learn for free about math, art, computer programming, economics, physics, chemistry, biology, medicine, finance, hist...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678817251/icons/khanacademy.jpg",
+  "website": "https://www.khanacademy.org/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fronter-io",
+  "title": "Fronter",
+  "subtitle": "Fronter is the solution for a smooth test and iterate process for your product. Point and click website elements to s...",
+  "tags": [
+    "collaboration",
+    "design",
+    "user-feedback"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669492/icons/fronter-io.jpg",
+  "website": "https://www.fronter.io/"
+}

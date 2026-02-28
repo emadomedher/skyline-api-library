@@ -1,0 +1,13 @@
+{
+  "id": "appical-net",
+  "title": "Appical",
+  "subtitle": "We help companies providing memorable pre- & onboarding experiences. With our hybrid onboarding platform, you improve...",
+  "tags": [
+    "employee-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801611/icons/appical-net.jpg",
+  "website": "https://www.appical.net/en/homepage"
+}

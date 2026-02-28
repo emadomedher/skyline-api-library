@@ -1,0 +1,13 @@
+{
+  "id": "ollco",
+  "title": "Ollco",
+  "subtitle": "Ollco API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721324/catalog/ollco/icon128x128.jpg",
+  "website": "https://ollco.com"
+}

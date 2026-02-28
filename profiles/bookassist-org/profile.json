@@ -1,0 +1,14 @@
+{
+  "id": "bookassist-org",
+  "title": "Bookassist",
+  "subtitle": "The Leader in Direct Booking Optimisation - Join thousands of successful hotels using award-winning Bookassist techno...",
+  "tags": [
+    "internet-booking-engines",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448059/icons/bookassist-org.png",
+  "website": "https://bookassist.org/"
+}

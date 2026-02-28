@@ -1,0 +1,14 @@
+{
+  "id": "vizbee-tv",
+  "title": "Vizbee",
+  "subtitle": "Vizbee API integration",
+  "tags": [
+    "tv",
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597405216/icons/vizbee-tv.jpg",
+  "website": "https://vizbee.tv/"
+}

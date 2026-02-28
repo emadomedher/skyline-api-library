@@ -1,0 +1,13 @@
+{
+  "id": "quickmailio",
+  "title": "Quickmail.io",
+  "subtitle": "Send cold emails and Schedule as many follow ups as you want. No more time wasted tracking who responds and who doesn...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436770/catalog/quickmailio/icon128x128.png",
+  "website": "https://quickmail.io"
+}

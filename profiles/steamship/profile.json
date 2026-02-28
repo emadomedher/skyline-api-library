@@ -1,0 +1,15 @@
+{
+  "id": "steamship",
+  "title": "Steamship",
+  "subtitle": "Steamship API integration",
+  "tags": [
+    "developer-tools",
+    "ai"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679311954/icons/steamship.jpg",
+  "website": "https://www.steamship.com/",
+  "docsUrl": "https://docs.steamship.com"
+}

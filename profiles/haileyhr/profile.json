@@ -1,0 +1,13 @@
+{
+  "id": "haileyhr",
+  "title": "Hailey HR",
+  "subtitle": "One place for all HR processes. With user experience and clarity your co-workers will love. Get to know our platform ...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568748/icons/haileyhr.png",
+  "website": "https://haileyhr.com/"
+}

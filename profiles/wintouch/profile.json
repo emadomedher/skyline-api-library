@@ -1,0 +1,12 @@
+{
+  "id": "wintouch",
+  "title": "Wintouch 7",
+  "subtitle": "Wintouch 7 CRM is an all-in-one software solution that is designed to help businesses of all sizes improve productivi...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306501/catalog/wintouch/icon128x128.png"
+}

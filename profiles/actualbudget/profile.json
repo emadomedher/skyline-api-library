@@ -1,0 +1,15 @@
+{
+  "id": "actualbudget",
+  "title": "Actual",
+  "subtitle": "Track your money, save money.",
+  "tags": [
+    "personal-finance-management",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655856428/icons/actualbudget.png",
+  "website": "https://actualbudget.com/",
+  "docsUrl": "https://actualbudget.com/docs"
+}

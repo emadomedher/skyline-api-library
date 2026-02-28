@@ -1,0 +1,13 @@
+{
+  "id": "affiliatefuture",
+  "title": "Affiliate Future",
+  "subtitle": "Affiliate Future provides advertisers with an effective marketing solution through its affiliate network and tools. A...",
+  "tags": [
+    "affiliate-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415418/catalog/affiliatefuture/icon128x128.jpg",
+  "website": "https://www.affiliatefuture.com/"
+}

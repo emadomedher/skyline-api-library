@@ -1,0 +1,13 @@
+{
+  "id": "axcelerate-au",
+  "title": "aXcelerate",
+  "subtitle": "Make AVETMISS reporting and compliance easier, and manage every aspect of your training organisation— students, cours...",
+  "tags": [
+    "student-management-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594263307/icons/axcelerate-au.png",
+  "website": "https://www.axcelerate.com.au/"
+}

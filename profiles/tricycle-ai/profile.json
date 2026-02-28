@@ -1,0 +1,14 @@
+{
+  "id": "tricycle-ai",
+  "title": "Tricycle",
+  "subtitle": "Save time with tools that help you design products powered by AI.",
+  "tags": [
+    "design-automation",
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627962777/icons/tricycle-ai.png",
+  "website": "https://tricycle.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "venntive",
+  "title": "Venntive",
+  "subtitle": "Align marketing automation, sales, CRM, customer support, & customer success.",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722703/catalog/venntive/icon128x128.png",
+  "website": "https://venntive.com"
+}

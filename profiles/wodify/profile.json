@@ -1,0 +1,12 @@
+{
+  "id": "wodify",
+  "title": "Wodify Core",
+  "subtitle": "Wodify Core software helps athletes track performance while allowing box owners to manage memberships, sell gear, and...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306508/catalog/wodify/icon128x128.jpg"
+}

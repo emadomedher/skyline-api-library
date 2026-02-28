@@ -1,0 +1,13 @@
+{
+  "id": "uquiz",
+  "title": "uQuiz",
+  "subtitle": "uQuiz API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946430/catalog/uquiz/icon128x128.jpg",
+  "website": "https://uquiz.com"
+}

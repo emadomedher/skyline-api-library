@@ -1,0 +1,14 @@
+{
+  "id": "contify",
+  "title": "Contify",
+  "subtitle": "Market and competitive intelligence software for businesses to collect, curate, and share actionable intelligence on ...",
+  "tags": [
+    "customer-intelligence-and-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826171/catalog/contify/icon128x128.jpg",
+  "website": "https://contify.com",
+  "docsUrl": "https://developer.contify.com"
+}

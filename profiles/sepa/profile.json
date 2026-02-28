@@ -1,0 +1,13 @@
+{
+  "id": "sepa",
+  "title": "SEPA",
+  "subtitle": "SEPA stands for \"Single Euro Payments Area\". SEPA allows you to pay easily and swiftly, anywhere in Europe, with unif...",
+  "tags": [
+    "payment-methods"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915241/icons/sepa.png",
+  "website": "https://ec.europa.eu/info/business-economy-euro/banking-and-finance/consumer-finance-and-payments/payment-services/single-euro-payments-area-sepa_en"
+}

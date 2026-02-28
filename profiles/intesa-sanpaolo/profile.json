@@ -1,0 +1,13 @@
+{
+  "id": "intesa-sanpaolo",
+  "title": "Intesa Sanpaolo",
+  "subtitle": "Intesa Sanpaolo S.p.A. is an Italian banking group resulting from the merger of Banca Intesa and Sanpaolo IMI based i...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595194339/icons/intesa-sanpaolo.jpg",
+  "website": "https://www.intesasanpaolo.com/"
+}

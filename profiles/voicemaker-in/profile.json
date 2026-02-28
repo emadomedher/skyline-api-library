@@ -1,0 +1,14 @@
+{
+  "id": "voicemaker-in",
+  "title": "VoiceMaker",
+  "subtitle": "VoiceMaker API integration",
+  "tags": [
+    "text-to-speech"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661007841/icons/voicemaker-in.jpg",
+  "website": "https://voicemaker.in/",
+  "docsUrl": "https://developer.voicemaker.in"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shift-io",
+  "title": "SHIFT",
+  "subtitle": "SHIFT helps the world's leading vdeo content creators to collaborate and make their teams more productive.",
+  "tags": [
+    "video-collaboration",
+    "media-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587458217/catalog/shift-io/icon128x128.png",
+  "website": "https://shift.io/"
+}

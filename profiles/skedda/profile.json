@@ -1,0 +1,13 @@
+{
+  "id": "skedda",
+  "title": "Skedda",
+  "subtitle": "The elegant booking app for scheduling the use of spaces at venues, offices, clinics, studios and more.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306108/catalog/skedda/icon128x128.png",
+  "website": "https://www.skedda.com/"
+}

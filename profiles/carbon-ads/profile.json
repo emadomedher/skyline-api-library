@@ -1,0 +1,14 @@
+{
+  "id": "carbon-ads",
+  "title": "Carbon Ads",
+  "subtitle": "Advertise to designers, developers, and other tech audiences through an exclusive network of websites and apps",
+  "tags": [
+    "ads"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559939667/catalog/carbon-ads/icon128x128.png",
+  "website": "https://carbonads.net",
+  "docsUrl": "https://www.carbonads.net/open-source"
+}

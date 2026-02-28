@@ -1,0 +1,13 @@
+{
+  "id": "expert-m",
+  "title": "Expert / M",
+  "subtitle": "Expert / M is the most comprehensive and versatile accounting package on the Belgian market. This is the ideal soluti...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576160119/catalog/expert-m/icon128x128.jpg",
+  "website": "https://taasoftware.wolterskluwer.be/fr/expertm/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "productflare",
+  "title": "ProductFlare",
+  "subtitle": "Develop roadmaps that your users will love, prevent information slippage and align your whole organisation on what yo...",
+  "tags": [
+    "product-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604753483/icons/productflare.png",
+  "website": "https://www.productflare.com/",
+  "docsUrl": "https://docs.productflare.com"
+}

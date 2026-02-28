@@ -1,0 +1,14 @@
+{
+  "id": "blueboard",
+  "title": "Blueboard",
+  "subtitle": "Reimagine your employee rewards & recognition program to create a positive company culture. Increase employee engagem...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667495120/icons/blueboard.jpg",
+  "website": "https://www.blueboard.com/",
+  "docsUrl": "https://www.blueboard.com/#"
+}

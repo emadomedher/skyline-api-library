@@ -1,0 +1,13 @@
+{
+  "id": "teamblind",
+  "title": "Blind",
+  "subtitle": "Blind is an anonymous community app for the workplace. Our vision in creating this space was to break down profession...",
+  "tags": [
+    "professional-networks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760562/icons/teamblind.png",
+  "website": "https://www.teamblind.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "novicap",
+  "title": "NoviCap",
+  "subtitle": "NoviCap es una plataforma online que permite a las empresas anticipar el cobro de sus facturas y pagarés de forma ráp...",
+  "tags": [
+    "invoice-financing",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669484/icons/novicap.jpg",
+  "website": "https://novicap.com/"
+}

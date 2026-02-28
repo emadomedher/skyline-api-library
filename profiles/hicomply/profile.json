@@ -1,0 +1,13 @@
+{
+  "id": "hicomply",
+  "title": "Hicomply",
+  "subtitle": "Hicomply is a software platform that gives you the tools to build your information security management system as well...",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657155403/icons/hicomply.jpg",
+  "website": "https://hicomply.com/"
+}

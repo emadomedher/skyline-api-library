@@ -1,0 +1,14 @@
+{
+  "id": "ip-only-se",
+  "title": "IP-Only",
+  "subtitle": "Fiber är en framtidssäker lösning som ger ökad trygghet, oavsett var i livet du befinner dig. Med en stabil uppkoppli...",
+  "tags": [
+    "telecommunications",
+    "fiber-networks"
+  ],
+  "category": "Telecom",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604419129/icons/ip-only-se.jpg",
+  "website": "https://www.ip-only.se/"
+}

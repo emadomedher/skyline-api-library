@@ -1,0 +1,13 @@
+{
+  "id": "careerpuck",
+  "title": "Puck",
+  "subtitle": "Build your employer brand with mini-podcasts on your career pages and anywhere candidates are looking.",
+  "tags": [
+    "employer-branding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637114200/icons/careerpuck.png",
+  "website": "https://www.careerpuck.com/"
+}

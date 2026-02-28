@@ -1,0 +1,13 @@
+{
+  "id": "uscreen-tv",
+  "title": "Uscreen",
+  "subtitle": "Join the world’s fastest-growing video on demand platform. Build your website, market your VOD service, launch OTT ap...",
+  "tags": [
+    "video-monetization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585679782/catalog/uscreen-tv/icon128x128.jpg",
+  "website": "https://www.uscreen.tv/"
+}

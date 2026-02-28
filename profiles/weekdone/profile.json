@@ -1,0 +1,13 @@
+{
+  "id": "weekdone",
+  "title": "Weekdone",
+  "subtitle": "Weekdone weekly progress reports for managers and internal communication for teams.",
+  "tags": [
+    "reports"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306483/catalog/weekdone/icon128x128.png",
+  "website": "https://weekdone.com"
+}

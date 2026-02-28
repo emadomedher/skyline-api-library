@@ -1,0 +1,13 @@
+{
+  "id": "serpscan",
+  "title": "SerpScan",
+  "subtitle": "SerpScan API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722030/catalog/serpscan/icon128x128.png",
+  "website": "https://serpscan.com"
+}

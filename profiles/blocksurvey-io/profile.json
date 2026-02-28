@@ -1,0 +1,13 @@
+{
+  "id": "blocksurvey-io",
+  "title": "BlockSurvey",
+  "subtitle": "BlockSurvey is a secure way to get your audience involved in questionnaires, assessments, online forms, and surveys.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621428348/icons/blocksurvey-io.jpg",
+  "website": "https://blocksurvey.io/"
+}

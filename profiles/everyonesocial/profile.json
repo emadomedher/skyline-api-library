@@ -1,0 +1,13 @@
+{
+  "id": "everyonesocial",
+  "title": "EveryoneSocial",
+  "subtitle": "EveryoneSocial is a employee advocacy and social selling platform that is designed to help your employees become powe...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947042/catalog/everyonesocial/icon128x128.jpg",
+  "website": "https://everyonesocial.com"
+}

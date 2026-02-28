@@ -1,0 +1,14 @@
+{
+  "id": "webissues",
+  "title": "WebIssues",
+  "subtitle": "WebIssues API integration",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598607409/icons/webissues.png",
+  "website": "https://webissues.mimec.org/",
+  "docsUrl": "https://webissues.mimec.org/documentation"
+}

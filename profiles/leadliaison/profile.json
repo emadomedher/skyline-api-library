@@ -1,0 +1,13 @@
+{
+  "id": "leadliaison",
+  "title": "LeadLiaison",
+  "subtitle": "Lead Liaison provides marketing automation and lead management solutions including lead scoring, lead nurturing, lead...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946863/catalog/leadliaison/icon128x128.jpg",
+  "website": "https://leadliaison.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "uploadcare",
+  "title": "Uploadcare",
+  "subtitle": "Uploadcare is an end-to-end cloud platform providing the full-stack Adaptive Delivery technology to build faster, saf...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306411/catalog/uploadcare/icon128x128.png",
+  "website": "https://uploadcare.com/",
+  "docsUrl": "https://uploadcare.com/docs"
+}

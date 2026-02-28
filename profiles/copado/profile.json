@@ -1,0 +1,14 @@
+{
+  "id": "copado",
+  "title": "Copado",
+  "subtitle": "Salesforce Deployment Tools from Copado. Choose Copado for Fast, Automated Salesforce Deployment from Sandbox to Prod...",
+  "tags": [
+    "salesforce-deployments",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586354037/catalog/copado/icon128x128.png",
+  "website": "https://www.copado.com/"
+}

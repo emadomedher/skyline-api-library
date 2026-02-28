@@ -1,0 +1,12 @@
+{
+  "id": "roll",
+  "title": "Roll",
+  "subtitle": "Roll is a platform with everything your business needs in one place. Manage projects, track sales, understand and gro...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284596/catalog/roll/icon128x128.png"
+}

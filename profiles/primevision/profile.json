@@ -1,0 +1,13 @@
+{
+  "id": "primevision",
+  "title": "Prime Vision",
+  "subtitle": "Prime Vision simplifies and optimizes your manual sorting process. Reducing costs, increasing efficiency and automate...",
+  "tags": [
+    "computer-vision"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659480563/icons/primevision.jpg",
+  "website": "https://www.primevision.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "front-app",
+  "title": "Front",
+  "subtitle": "Organize, collaborate, and manage email, social, chat, SMS in your shared inbox with your team. Connect 50+ apps to y...",
+  "tags": [
+    "collaboration",
+    "collaborative-inbox"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304993/catalog/front-app/icon128x128.png",
+  "website": "https://frontapp.com/",
+  "docsUrl": "https://frontapp.com/api"
+}

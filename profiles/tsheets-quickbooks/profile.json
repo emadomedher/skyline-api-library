@@ -1,0 +1,13 @@
+{
+  "id": "tsheets-quickbooks",
+  "title": "TSheets",
+  "subtitle": "TSheets is employee time tracking and scheduling software that's accurate to the second. Easily track time from anywh...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547753933/catalog/tsheets-quickbooks/icon128x128.png",
+  "website": "https://www.tsheets.com/"
+}

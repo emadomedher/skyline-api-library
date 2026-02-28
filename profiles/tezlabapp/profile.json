@@ -1,0 +1,13 @@
+{
+  "id": "tezlabapp",
+  "title": "TezLabApp",
+  "subtitle": "TezLabApp API integration",
+  "tags": [
+    "car-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779838/catalog/tezlabapp/icon128x128.jpg",
+  "website": "https://tezlabapp.com/"
+}

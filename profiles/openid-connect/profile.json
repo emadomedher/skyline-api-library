@@ -1,0 +1,14 @@
+{
+  "id": "openid-connect",
+  "title": "OpenID Connect",
+  "subtitle": "OpenID Connect is an authentication layer on top of OAuth 2.0, an authorization framework. The standard is controlled...",
+  "tags": [
+    "protocol",
+    "standard"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548123149/catalog/openid-connect/icon128x128.png",
+  "website": "https://openid.net/connect/"
+}

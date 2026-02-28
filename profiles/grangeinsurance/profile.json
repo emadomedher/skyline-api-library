@@ -1,0 +1,13 @@
+{
+  "id": "grangeinsurance",
+  "title": "Grange",
+  "subtitle": "Grange partners with independent agents to make it easy to choose insurance products that fit your needs. We’re commi...",
+  "tags": [
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801289/catalog/grangeinsurance/icon128x128.jpg",
+  "website": "https://www.grangeinsurance.com/"
+}

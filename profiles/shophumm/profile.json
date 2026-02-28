@@ -1,0 +1,13 @@
+{
+  "id": "shophumm",
+  "title": "humm group",
+  "subtitle": "Go to humm Australia Go to humm New Zealand Go to hummgroup",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611409050/icons/shophumm.png",
+  "website": "https://www.shophumm.com/"
+}

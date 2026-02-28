@@ -1,0 +1,14 @@
+{
+  "id": "eqtble",
+  "title": "eqtble",
+  "subtitle": "Understand your employees with instantly curated insights across your people tools.",
+  "tags": [
+    "hr-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760618/icons/eqtble.jpg",
+  "website": "https://www.eqtble.com/",
+  "docsUrl": "https://ollie-template.webflow.io/jobs/full-stack-developer"
+}

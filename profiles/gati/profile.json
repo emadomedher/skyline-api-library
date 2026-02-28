@@ -1,0 +1,13 @@
+{
+  "id": "gati",
+  "title": "Gati",
+  "subtitle": " Express Distribution - Road, Air, Rail & End to End Logistics. Door to Door Delivery anywhere anytime. 21000+ pincod...",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589238924/catalog/gati/icon128x128.png",
+  "website": "https://www.gati.com/"
+}

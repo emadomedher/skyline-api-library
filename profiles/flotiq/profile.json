@@ -1,0 +1,14 @@
+{
+  "id": "flotiq",
+  "title": "Flotiq",
+  "subtitle": "Flotiq is an effortless headless CMS that makes it easy to build powerful content-powered systems",
+  "tags": [
+    "headless-cms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583407393/catalog/flotiq/icon128x128.jpg",
+  "website": "https://flotiq.com/",
+  "docsUrl": "https://flotiq.com/docs"
+}

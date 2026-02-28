@@ -1,0 +1,13 @@
+{
+  "id": "kriptos-io",
+  "title": "Kriptos",
+  "subtitle": "Classify, locate and label your sensitive information. We use AI in order to classify documents correctly using a com...",
+  "tags": [
+    "data-labeling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655856358/icons/kriptos-io.jpg",
+  "website": "https://www.kriptos.io/"
+}

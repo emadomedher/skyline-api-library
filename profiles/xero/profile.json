@@ -1,0 +1,52 @@
+{
+  "id": "xero",
+  "title": "Xero",
+  "subtitle": "Get paid sooner when you accept payments online straight from a Xero invoice. Give your customers different payment o...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "openapi",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456372/catalog/xero/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-identity.yaml",
+  "website": "https://www.xero.com/",
+  "docsUrl": "https://developer.xero.com/",
+  "additionalSpecUrls": [
+    {
+      "label": "Payroll API - Australia (OpenAPI)",
+      "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/blob/master/xero-payroll-au.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Payroll API - NZ (OpenAPI)",
+      "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-payroll-nz.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Payroll API - UK (OpenAPI)",
+      "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-payroll-uk.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Assets API (OpenAPI)",
+      "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_assets.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Files API (OpenAPI)",
+      "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_files.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Projects API (OpenAPI)",
+      "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-projects.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Bank Feeds API (OpenAPI)",
+      "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_bankfeeds.yaml",
+      "specType": "openapi"
+    }
+  ]
+}

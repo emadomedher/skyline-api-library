@@ -1,0 +1,13 @@
+{
+  "id": "teckst",
+  "title": "Teckst",
+  "subtitle": "Teckst API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962162/catalog/teckst/icon128x128.png",
+  "website": "https://teckst.com"
+}

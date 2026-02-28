@@ -1,0 +1,13 @@
+{
+  "id": "tellent",
+  "title": "Tellent",
+  "subtitle": "Tellent is the world's first People Growth Collective empowering 6000+ organizations across 100 countries with leadin...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663543828/icons/tellent.png",
+  "website": "https://www.tellent.com/"
+}

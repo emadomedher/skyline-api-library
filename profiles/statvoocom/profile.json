@@ -1,0 +1,13 @@
+{
+  "id": "statvoocom",
+  "title": "Statvoo.com",
+  "subtitle": "Discover everything about your favourite websites. Website statistics, valuations and reviews.",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437689/catalog/statvoocom/icon128x128.png",
+  "website": "https://statvoo.com"
+}

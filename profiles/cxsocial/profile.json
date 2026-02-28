@@ -1,0 +1,12 @@
+{
+  "id": "cxsocial",
+  "title": "Clarabridge CX Social",
+  "subtitle": "Clarabridge CX Social API integration",
+  "tags": [
+    "helpdesk"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178314/catalog/cxsocial/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "subscribe-hr-au",
+  "title": "Subscribe-HR",
+  "subtitle": "Cloud HR Software, Talent Management software, e-Recruitment software & Free Employee Onboarding Cloud Software for m...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630057994/icons/subscribe-hr-au.png",
+  "website": "https://www.subscribe-hr.com.au/",
+  "docsUrl": "https://subscribehr.docs.apiary.io/"
+}

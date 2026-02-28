@@ -1,0 +1,13 @@
+{
+  "id": "spreadsheet",
+  "title": "Spreadsheet.com",
+  "subtitle": "The spreadsheet you know with the power of a database and project management system. Gantt, Kanban, Forms, and Automa...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627503889/icons/spreadsheet.png",
+  "website": "https://www.spreadsheet.com/"
+}

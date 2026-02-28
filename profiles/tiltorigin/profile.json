@@ -1,0 +1,15 @@
+{
+  "id": "tiltorigin",
+  "title": "Tilt Property Software",
+  "subtitle": "Origin helps smaller agents manage residential letting properties. Formerly RentPro. Sign up for a free 14 day trial.",
+  "tags": [
+    "proptech",
+    "pms",
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302460/icons/tiltorigin.png",
+  "website": "https://www.tiltorigin.com/"
+}

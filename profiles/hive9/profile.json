@@ -1,0 +1,13 @@
+{
+  "id": "hive9",
+  "title": "Hive9",
+  "subtitle": "Marketing performance and planning software helping B2B marketers make a measurable and predictable impact on revenue.",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775182/catalog/hive9/icon128x128.png",
+  "website": "https://hive9.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bbc-news",
+  "title": "BBC News",
+  "subtitle": "Visit BBC News for up-to-the-minute news, breaking news, video, audio and feature stories. BBC News provides trusted ...",
+  "tags": [
+    "broacasters",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "asyncapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621196011/icons/bbc-news.png",
+  "specUrl": "https://ik.imagekit.io/ably/s3/xchg_products/async_api_specs/000/000/013/original/bbc.yaml",
+  "website": "https://www.bbc.com/news",
+  "docsUrl": "http://www.bbc.co.uk/developer/technology/apis.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "workboard",
+  "title": "Workboard",
+  "subtitle": "Workboard is the team performance app managers choose for themselves: goals, priorities, actions, reports and feedbac...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306531/catalog/workboard/icon128x128.png",
+  "website": "https://workboard.com"
+}

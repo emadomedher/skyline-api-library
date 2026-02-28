@@ -1,0 +1,13 @@
+{
+  "id": "lotame",
+  "title": "Lotame",
+  "subtitle": "Make your data actionable, learn about your most valuable customers, improve ROI by targeting the right audience and ...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720904/catalog/lotame/icon128x128.jpg",
+  "website": "https://lotame.com"
+}

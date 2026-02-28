@@ -1,0 +1,13 @@
+{
+  "id": "launchpad-central",
+  "title": "LaunchPad Central",
+  "subtitle": "LaunchPad Central API integration",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720759/catalog/launchpad-central/icon128x128.jpg",
+  "website": "https://launchpadcentral.com"
+}

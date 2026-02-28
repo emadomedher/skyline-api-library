@@ -1,0 +1,13 @@
+{
+  "id": "unity",
+  "title": "Unity Technologies",
+  "subtitle": "New address, same Unity3d. Unity real-time development platform.  Create 3D, 2D VR & AR visualizations for Games, Aut...",
+  "tags": [
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438155/catalog/unity/icon128x128.png",
+  "website": "https://unity3d.com"
+}

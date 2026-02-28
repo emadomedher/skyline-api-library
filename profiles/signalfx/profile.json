@@ -1,0 +1,14 @@
+{
+  "id": "signalfx",
+  "title": "SignalFx",
+  "subtitle": "SignalFx is the only real-time cloud monitoring platform for infrastructure, microservices, and applications. The pla...",
+  "tags": [
+    "monitoring"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565281102/catalog/signalfx/icon128x128.png",
+  "website": "https://signalfx.com",
+  "docsUrl": "https://docs.signalfx.com"
+}

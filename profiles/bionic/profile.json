@@ -1,0 +1,13 @@
+{
+  "id": "bionic",
+  "title": "Bionic",
+  "subtitle": "Bionic API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433290/catalog/bionic/icon128x128.png",
+  "website": "https://bionic-ads.com"
+}

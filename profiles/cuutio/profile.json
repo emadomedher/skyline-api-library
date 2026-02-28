@@ -1,0 +1,13 @@
+{
+  "id": "cuutio",
+  "title": "Cuutio",
+  "subtitle": "Cuutio API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964118/catalog/cuutio/icon128x128.png",
+  "website": "https://cuutio.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "memberstack-io",
+  "title": "MemberStack",
+  "subtitle": "Add free or paid memberships to any website without writing code. MemberStack is the designer-friendly membership pla...",
+  "tags": [
+    "membership-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567469718/catalog/memberstack-io/icon128x128.png",
+  "website": "https://www.memberstack.io/",
+  "docsUrl": "https://help.memberstack.io"
+}

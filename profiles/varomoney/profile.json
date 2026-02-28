@@ -1,0 +1,13 @@
+{
+  "id": "varomoney",
+  "title": "Varo Money",
+  "subtitle": "Get a Bank Account and a high-yield Savings Account with no fees. Get paid up to 2 days early and use 55,000+ free Al...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570098618/catalog/varomoney/icon128x128.jpg",
+  "website": "https://varomoney.com"
+}

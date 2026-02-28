@@ -1,0 +1,16 @@
+{
+  "id": "joonbot",
+  "title": "Joonbot",
+  "subtitle": "Create a chatbot in minutes with our no-code chatbot builder. Instantaneously improve your lead generation and grow y...",
+  "tags": [
+    "chat-bots",
+    "no-code",
+    "chatbot"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585134362/catalog/joonbot/icon128x128.png",
+  "website": "https://www.joonbot.com/",
+  "docsUrl": "https://dev.joonbot.com"
+}

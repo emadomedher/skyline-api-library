@@ -1,0 +1,13 @@
+{
+  "id": "botengine",
+  "title": "BotEngine",
+  "subtitle": "Build a chatbot for any service you need. ChatBot.com is basically your personal chatbot factory with no IT skills ne...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719206/catalog/botengine/icon128x128.jpg",
+  "website": "https://botengine.ai"
+}

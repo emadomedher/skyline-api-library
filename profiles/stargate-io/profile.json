@@ -1,0 +1,14 @@
+{
+  "id": "stargate-io",
+  "title": "Stargate",
+  "subtitle": "An open source API framework for data.",
+  "tags": [
+    "data-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607838419/icons/stargate-io.jpg",
+  "website": "https://stargate.io/",
+  "docsUrl": "https://stargate.io/docs"
+}

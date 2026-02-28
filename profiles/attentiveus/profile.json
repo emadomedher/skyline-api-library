@@ -1,0 +1,13 @@
+{
+  "id": "attentiveus",
+  "title": "Attentive.us",
+  "subtitle": "Ensure CRM data quality with a fully automated tool, and turn your workflow into your team's personal to-do list.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825826/catalog/attentiveus/icon128x128.jpg",
+  "website": "https://attentive.us"
+}

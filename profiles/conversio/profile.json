@@ -1,0 +1,13 @@
+{
+  "id": "conversio",
+  "title": "Conversio",
+  "subtitle": "Conversio is an all-in-one Ecommerce dashboard that will help raise your recurring revenue & get more money in the ba...",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433943/catalog/conversio/icon128x128.png",
+  "website": "https://conversio.com"
+}

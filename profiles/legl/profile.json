@@ -1,0 +1,14 @@
+{
+  "id": "legl",
+  "title": "Legl",
+  "subtitle": "Legl API integration",
+  "tags": [
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615571320/icons/legl.png",
+  "website": "https://legl.com/",
+  "docsUrl": "https://api.legl.com/v1/docs"
+}

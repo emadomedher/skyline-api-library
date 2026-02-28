@@ -1,0 +1,15 @@
+{
+  "id": "lametric",
+  "title": "LaMetric",
+  "subtitle": "Display information from Internet and smart appliances in style. Achieve new horizons with a social media follower co...",
+  "tags": [
+    "smart-home",
+    "hardware"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801281/catalog/lametric/icon128x128.jpg",
+  "website": "https://lametric.com/",
+  "docsUrl": "https://developer.lametric.com"
+}

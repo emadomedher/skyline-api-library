@@ -1,0 +1,15 @@
+{
+  "id": "impala-travel",
+  "title": "Impala",
+  "subtitle": "Impala makes building travel technology 10x easier with a suite of APIs that provide up-to-the minute ARI and PMS data",
+  "tags": [
+    "hotel-booking",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612019585/icons/impala-travel.jpg",
+  "website": "https://impala.travel/",
+  "docsUrl": "https://impala.travel/#"
+}

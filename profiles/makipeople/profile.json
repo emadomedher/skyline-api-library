@@ -1,0 +1,13 @@
+{
+  "id": "makipeople",
+  "title": "Maki People",
+  "subtitle": "Maki allows you to assess the skills of your candidates, through a simple and engaging experience. Save time, money a...",
+  "tags": [
+    "skill-assessment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653426496/icons/makipeople.jpg",
+  "website": "https://www.makipeople.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bankinter",
+  "title": "Bankinter",
+  "subtitle": "Bankinter, S.A., is a Spanish financial services company headquartered in Madrid. It has been listed on the Bolsa de ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569631975/catalog/bankinter/icon128x128.png",
+  "website": "https://www.bankinter.pt/",
+  "docsUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankinter"
+}

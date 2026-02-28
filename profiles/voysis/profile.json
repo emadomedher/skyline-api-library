@@ -1,0 +1,13 @@
+{
+  "id": "voysis",
+  "title": "Voysis",
+  "subtitle": "Voysis API integration",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722804/catalog/voysis/icon128x128.jpg",
+  "website": "https://voysis.com"
+}

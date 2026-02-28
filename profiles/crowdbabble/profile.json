@@ -1,0 +1,13 @@
+{
+  "id": "crowdbabble",
+  "title": "Crowdbabble",
+  "subtitle": "Crowdbabble is the leader in social media analytics, measurement and reporting tools. We track social media performan...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719657/catalog/crowdbabble/icon128x128.png",
+  "website": "https://crowdbabble.com"
+}

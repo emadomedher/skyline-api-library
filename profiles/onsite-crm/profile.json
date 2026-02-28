@@ -1,0 +1,13 @@
+{
+  "id": "onsite-crm",
+  "title": "OnSite CRM",
+  "subtitle": "The cutting edge Onsite CRM sales and lead management software improves lead conversion, increases company revenue an...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946750/catalog/onsite-crm/icon128x128.png",
+  "website": "https://onsitecrm.com"
+}

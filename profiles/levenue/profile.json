@@ -1,0 +1,13 @@
+{
+  "id": "levenue",
+  "title": "Levenue",
+  "subtitle": "Levenue is built to help European founders with unlocking their recurring revenue to turn it into an asset.",
+  "tags": [
+    "revenue-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647328150/icons/levenue.jpg",
+  "website": "https://www.levenue.com/"
+}

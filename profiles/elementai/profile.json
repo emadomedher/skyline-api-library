@@ -1,0 +1,13 @@
+{
+  "id": "elementai",
+  "title": "Element AI",
+  "subtitle": "Fundamental and applied research transformed into AI products for your enterprise needs.",
+  "tags": [
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572911836/catalog/elementai/icon128x128.jpg",
+  "website": "https://www.elementai.com/"
+}

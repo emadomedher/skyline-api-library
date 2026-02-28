@@ -1,0 +1,14 @@
+{
+  "id": "hitrustalliance-net",
+  "title": "HITRUST",
+  "subtitle": "HITRUST API integration",
+  "tags": [
+    "compliance",
+    "risk-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089348/icons/hitrustalliance-net.jpg",
+  "website": "https://hitrustalliance.net/"
+}

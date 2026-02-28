@@ -1,0 +1,12 @@
+{
+  "id": "meaningcloud",
+  "title": "MeaningCloud",
+  "subtitle": "MeaningCloud provides text analytics functionalities that allow you to extract the meaning of all kind of unstructure...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539009/catalog/meaningcloud/icon128x128.png"
+}

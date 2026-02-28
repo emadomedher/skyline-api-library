@@ -1,0 +1,13 @@
+{
+  "id": "google-nlp",
+  "title": "Google NLP",
+  "subtitle": "Derive insights from unstructured text using Google machine learning.",
+  "tags": [
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578381715/catalog/google-nlp/icon128x128.png",
+  "website": "https://cloud.google.com/natural-language/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "growthgiant",
+  "title": "GrowthGiant",
+  "subtitle": "GrowthGiant API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389360/catalog/growthgiant/icon128x128.png",
+  "website": "https://growthgiant.com"
+}

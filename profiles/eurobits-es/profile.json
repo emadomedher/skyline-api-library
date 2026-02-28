@@ -1,0 +1,13 @@
+{
+  "id": "eurobits-es",
+  "title": "Eurobits",
+  "subtitle": "Nuestra misión es transformar el modo en que personas y empresas interactúan con los servicios financieros. Agregació...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590770692/catalog/eurobits-es/icon128x128.jpg",
+  "website": "https://eurobits.es/"
+}

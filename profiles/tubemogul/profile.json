@@ -1,0 +1,14 @@
+{
+  "id": "tubemogul",
+  "title": "TubeMogul",
+  "subtitle": "TubeMogul is the leading independent advertising software platform that enables brands and agencies to plan, buy, mea...",
+  "tags": [
+    "demand-side-platforms",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581299026/catalog/tubemogul/icon128x128.jpg",
+  "website": "https://www.tubemogul.com/"
+}

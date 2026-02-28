@@ -1,0 +1,15 @@
+{
+  "id": "mantl",
+  "title": "MANTL",
+  "subtitle": "MANTL helps your bank or credit union grow deposits and streamline back-office tasks with an omni-channel account ope...",
+  "tags": [
+    "bank-account-opening",
+    "banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591775581/icons/mantl.png",
+  "website": "https://www.mantl.com/"
+}

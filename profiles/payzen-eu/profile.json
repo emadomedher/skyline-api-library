@@ -1,0 +1,13 @@
+{
+  "id": "payzen-eu",
+  "title": "PayZen by LYRA",
+  "subtitle": "Installer le paiement en ligne sécurisé sur votre site internet avec PayZen de Lyra Network.Solution innovante, intui...",
+  "tags": [
+    "ecommerce-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616036409/icons/payzen-eu.jpg",
+  "website": "https://www.payzen.eu/"
+}

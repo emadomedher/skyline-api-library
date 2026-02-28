@@ -1,0 +1,14 @@
+{
+  "id": "accountablehq",
+  "title": "Accountable",
+  "subtitle": "Accountable is the leading data privacy compliance management platform that guides your company through the process o...",
+  "tags": [
+    "hipaa-compliance-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627928952/icons/accountablehq.jpg",
+  "website": "https://www.accountablehq.com/"
+}

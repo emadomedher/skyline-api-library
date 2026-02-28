@@ -1,0 +1,13 @@
+{
+  "id": "mapotempo",
+  "title": "Mapotempo",
+  "subtitle": "SaaS software, mobile application and APIs for route planning, route optimization and live tracking: delivery, pick-u...",
+  "tags": [
+    "route-optimization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589238921/catalog/mapotempo/icon128x128.jpg",
+  "website": "https://www.mapotempo.com/"
+}

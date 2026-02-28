@@ -1,0 +1,13 @@
+{
+  "id": "cwbank",
+  "title": "Canadian Western Bank",
+  "subtitle": "Canadian Western Bank, also operating as CWB Financial Group, is a Canadian bank based in Edmonton, Alberta. The bank...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616119713/icons/cwbank.jpg",
+  "website": "https://www.cwbank.com/"
+}

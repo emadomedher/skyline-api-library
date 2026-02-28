@@ -1,0 +1,13 @@
+{
+  "id": "metrixlab",
+  "title": "MetrixLab",
+  "subtitle": "MetrixLab is a global Market Research Company, offering customer insight services & market research data for business...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946828/catalog/metrixlab/icon128x128.jpg",
+  "website": "https://metrixlab.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "getreprise",
+  "title": "Reprise",
+  "subtitle": "Reprise is the software platform that enterprise sales and marketing teams use to create custom demos for their custo...",
+  "tags": [
+    "product-tour",
+    "product-demo"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614062199/icons/getreprise.png",
+  "website": "https://www.getreprise.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "clojure",
+  "title": "Clojure",
+  "subtitle": "Clojure is a robust, practical, and fast programming language with a set of useful features that together form a simp...",
+  "tags": [
+    "programming-language"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557678570/catalog/clojure/icon128x128.png",
+  "website": "https://clojure.org/"
+}

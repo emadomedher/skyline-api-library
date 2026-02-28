@@ -1,0 +1,14 @@
+{
+  "id": "makerkit",
+  "title": "Makerkit",
+  "subtitle": "Makerkit helps you collect, manage and centralize customer feedback. Show customers what you're working on with a roa...",
+  "tags": [
+    "changelogs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559837386/catalog/makerkit/icon128x128.png",
+  "website": "https://makerkit.co",
+  "docsUrl": "https://makerkit.co/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adam-ai",
+  "title": "adam.ai",
+  "subtitle": "The adam.ai meeting management software is a platform for the modern workforce to make meetings more productive than ...",
+  "tags": [
+    "meeting-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215737/icons/adam-ai.jpg",
+  "website": "https://adam.ai/"
+}

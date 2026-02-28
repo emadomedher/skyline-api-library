@@ -1,0 +1,14 @@
+{
+  "id": "typist-codes",
+  "title": "Code translator",
+  "subtitle": "Code translator is a beta version of a tool that uses AI to translate between different languages and frameworks",
+  "tags": [
+    "code-refactoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633125882/icons/typist-codes.jpg",
+  "website": "https://typist.codes/",
+  "docsUrl": "https://docs.github.com/articles/supported-browsers"
+}

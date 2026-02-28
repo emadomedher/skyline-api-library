@@ -1,0 +1,13 @@
+{
+  "id": "skytab",
+  "title": "SkyTab",
+  "subtitle": "SkyTab POS system is an all-in-one management platform that will help you manage every aspect of your business. Point...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1666656341/icons/skytab.jpg",
+  "website": "https://www.skytab.com/"
+}

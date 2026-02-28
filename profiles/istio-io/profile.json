@@ -1,0 +1,14 @@
+{
+  "id": "istio-io",
+  "title": "Istio",
+  "subtitle": "Connect, secure, control, and observe services.",
+  "tags": [
+    "service-mesh"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573997783/catalog/istio-io/icon128x128.jpg",
+  "website": "https://istio.io/",
+  "docsUrl": "https://istio.io/docs"
+}

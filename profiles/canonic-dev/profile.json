@@ -1,0 +1,14 @@
+{
+  "id": "canonic-dev",
+  "title": "Canonic",
+  "subtitle": "Create, manage & deploy powerful serverless backends for your websites, apps and microservices using an intuitive low...",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647328209/icons/canonic-dev.jpg",
+  "website": "https://canonic.dev/",
+  "docsUrl": "https://canonic.dev/features/auto-generated-docs"
+}

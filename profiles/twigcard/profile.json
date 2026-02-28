@@ -1,0 +1,13 @@
+{
+  "id": "twigcard",
+  "title": "Twig",
+  "subtitle": "Twig is your Bank of Things. Use Twig to receive instant payment for your clothes, gadgets and more.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642313065/icons/twigcard.webp",
+  "website": "https://twigcard.com/"
+}

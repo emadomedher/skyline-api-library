@@ -1,0 +1,13 @@
+{
+  "id": "tymeshift",
+  "title": "Tymeshift",
+  "subtitle": "Version 1.04 (April 27 2020) THIS AGREEMENT CONSTITUTES A BINDING CONTRACT ON YOU AND GOVERNS THE USE OF AND ACCESS T...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396550/icons/tymeshift.png",
+  "website": "https://www.tymeshift.com/"
+}

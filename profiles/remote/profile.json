@@ -1,0 +1,14 @@
+{
+  "id": "remote",
+  "title": "Remote",
+  "subtitle": "Hire international talent in minutes. Remote is the most disruptive global payroll, tax, HR and compliance solution f...",
+  "tags": [
+    "remote",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587833008/catalog/remote/icon128x128.png",
+  "website": "https://remote.com/"
+}

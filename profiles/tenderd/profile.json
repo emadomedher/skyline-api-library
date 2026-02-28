@@ -1,0 +1,13 @@
+{
+  "id": "tenderd",
+  "title": "Tenderd",
+  "subtitle": "Rent the best construction equipment, machinery and generators for the best prices. Get access to a fleet of +3000 eq...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268397/icons/tenderd.png",
+  "website": "https://tenderd.com"
+}

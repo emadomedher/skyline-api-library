@@ -1,0 +1,15 @@
+{
+  "id": "iso-27001",
+  "title": "ISO/IEC 27001",
+  "subtitle": "Providing security for any kind of digital information, the ISO/IEC 27000 family of standards is designed for any siz...",
+  "tags": [
+    "compliance",
+    "information-standards",
+    "information-security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089347/icons/iso-27001.png",
+  "website": "https://www.iso.org/isoiec-27001-information-security.html"
+}

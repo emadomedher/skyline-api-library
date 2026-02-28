@@ -1,0 +1,14 @@
+{
+  "id": "yoco-za",
+  "title": "Yoco",
+  "subtitle": "Sell more with a Yoco card machine. No.1 partner for small businesses in South Africa. Accept card payments anywhere,...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589150147/catalog/yoco-za/icon128x128.jpg",
+  "website": "https://www.yoco.co.za/",
+  "docsUrl": "https://developer.yoco.com/"
+}

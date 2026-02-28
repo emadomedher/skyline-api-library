@@ -1,0 +1,13 @@
+{
+  "id": "locowise",
+  "title": "Locowise",
+  "subtitle": "Social media client reporting made as easy as it could possibly be. and beautiful too. Get professional grade editabl...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720881/catalog/locowise/icon128x128.png",
+  "website": "https://locowise.com"
+}

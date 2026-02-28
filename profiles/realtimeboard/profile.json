@@ -1,0 +1,13 @@
+{
+  "id": "realtimeboard",
+  "title": "RealtimeBoard",
+  "subtitle": "RealtimeBoard API integration",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436857/catalog/realtimeboard/icon128x128.png",
+  "website": "https://realtimeboard.com"
+}

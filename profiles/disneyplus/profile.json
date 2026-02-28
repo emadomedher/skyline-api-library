@@ -1,0 +1,14 @@
+{
+  "id": "disneyplus",
+  "title": "NonofficielDisneyPlusExercice",
+  "subtitle": "Disney+ is the home for your favorite movies and TV shows from Disney, Pixar, Marvel, Star Wars, and National Geograp...",
+  "tags": [
+    "streaming-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638517624/icons/disneyplus.png",
+  "website": "https://www.disneyplus.com/",
+  "docsUrl": "http://docs.yahoo.co.jp/docs/info/terms/chapter1.html"
+}

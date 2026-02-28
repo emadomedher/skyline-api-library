@@ -1,0 +1,16 @@
+{
+  "id": "falco-org",
+  "title": "falcosecurity",
+  "subtitle": "falcosecurity API integration",
+  "tags": [
+    "container-security",
+    "kubernetes",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588108017/catalog/falco-org/icon128x128.png",
+  "website": "https://falco.org/",
+  "docsUrl": "https://falco.org/docs"
+}

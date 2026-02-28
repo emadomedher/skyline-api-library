@@ -1,0 +1,14 @@
+{
+  "id": "pactflow-io",
+  "title": "Pactflow",
+  "subtitle": "Distributed systems testing made easy",
+  "tags": [
+    "contract-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614884414/icons/pactflow-io.png",
+  "website": "https://pactflow.io/",
+  "docsUrl": "https://docs.pact.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "integralads",
+  "title": "Integral Ad Science",
+  "subtitle": "Integral Ad Science (IAS) is the global market leader in digital ad verification, offering technologies that drive hi...",
+  "tags": [
+    "advertising",
+    "ad-quality"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581440208/catalog/integralads/icon128x128.jpg",
+  "website": "https://integralads.com/"
+}

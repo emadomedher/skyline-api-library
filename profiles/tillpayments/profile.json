@@ -1,0 +1,14 @@
+{
+  "id": "tillpayments",
+  "title": "Till Payments",
+  "subtitle": "Choose the payment platform that puts your customers front and centre so you never miss a sale.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082002/icons/tillpayments.jpg",
+  "website": "https://tillpayments.com/",
+  "docsUrl": "https://tillpayments.com/developer-hub"
+}

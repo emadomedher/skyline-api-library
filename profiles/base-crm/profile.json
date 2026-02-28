@@ -1,0 +1,13 @@
+{
+  "id": "base-crm",
+  "title": "Base CRM",
+  "subtitle": "Base CRM is a simple but powerful CRM with a seamless mobile experience.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304455/catalog/base-crm/icon128x128.png",
+  "website": "https://getbase.com/"
+}

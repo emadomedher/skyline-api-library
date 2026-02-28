@@ -1,0 +1,14 @@
+{
+  "id": "theclimateservice",
+  "title": "The Climate Service",
+  "subtitle": "The Climate Service provides climate risk analytics to measure, monitor, manage, and disclose material financial clim...",
+  "tags": [
+    "climate-audit",
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892856/catalog/theclimateservice/icon128x128.jpg",
+  "website": "https://www.theclimateservice.com/"
+}

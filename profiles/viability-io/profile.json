@@ -1,0 +1,13 @@
+{
+  "id": "viability-io",
+  "title": "Viability.io",
+  "subtitle": "Viability connects the dots between POS and accounting software for foodservice businesses. This hospitality software...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647371876/icons/viability-io.jpg",
+  "website": "https://www.viability.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "scribe-tech",
+  "title": "Scribe",
+  "subtitle": "Scribe API integration",
+  "tags": [
+    "accounting",
+    "fintech"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583799222/catalog/scribe-tech/icon128x128.png",
+  "website": "https://www.scribe.tech/"
+}

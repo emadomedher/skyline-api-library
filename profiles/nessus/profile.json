@@ -1,0 +1,15 @@
+{
+  "id": "nessus",
+  "title": "Nessus",
+  "subtitle": "Download Nessus vulnerability assessment solution, trusted by more than 27,000 organizations worldwide as one of the ...",
+  "tags": [
+    "vulnerability-scanners",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581263955/catalog/nessus/icon128x128.jpg",
+  "website": "https://www.tenable.com/products/nessus",
+  "docsUrl": "https://docs.tenable.com"
+}

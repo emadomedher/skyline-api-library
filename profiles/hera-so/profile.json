@@ -1,0 +1,14 @@
+{
+  "id": "hera-so",
+  "title": "Hera",
+  "subtitle": "The personal assistant that will make you love meetings",
+  "tags": [
+    "meetings",
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627962814/icons/hera-so.jpg",
+  "website": "https://hera.so/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "talkwalker",
+  "title": "Talkwalker",
+  "subtitle": "Talkwalker is an incredibly powerful social media analytics tool & social media monitoring tool recommended by brands...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722444/catalog/talkwalker/icon128x128.png",
+  "website": "https://talkwalker.com"
+}

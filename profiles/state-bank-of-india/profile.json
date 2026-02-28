@@ -1,0 +1,13 @@
+{
+  "id": "state-bank-of-india",
+  "title": "SBI (State Bank of India)",
+  "subtitle": "State Bank of India is an Indian multinational public sector bank and financial services statutory body headquartered...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630868996/icons/state-bank-of-india.jpg",
+  "website": "https://www.onlinesbi.com/"
+}

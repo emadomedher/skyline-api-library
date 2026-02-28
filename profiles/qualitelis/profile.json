@@ -1,0 +1,13 @@
+{
+  "id": "qualitelis",
+  "title": "Qualitelis",
+  "subtitle": "Qualitelis API integration",
+  "tags": [
+    "hotel-revenue-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612733235/icons/qualitelis.jpg",
+  "website": "https://www.qualitelis.com/"
+}

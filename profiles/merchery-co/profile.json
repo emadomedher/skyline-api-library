@@ -1,0 +1,13 @@
+{
+  "id": "merchery-co",
+  "title": "Merchery",
+  "subtitle": "Sustainable promotional products. Merchery offers beautiful and sustainable corporate gifts customized for your brand...",
+  "tags": [
+    "merchandise"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664246950/icons/merchery-co.jpg",
+  "website": "https://merchery.co/"
+}

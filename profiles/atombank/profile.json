@@ -1,0 +1,13 @@
+{
+  "id": "atombank",
+  "title": "Atom Bank",
+  "subtitle": "Atom Bank API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613504911/icons/atombank.jpg",
+  "website": "https://www.atombank.co.uk/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tribepad",
+  "title": "Tribepad",
+  "subtitle": "Revolutionise recruitment & cut costs with Tribepad award-winning recruitment software. Used worldwide by top leading...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630613903/icons/tribepad.jpg",
+  "website": "https://www.tribepad.com/"
+}

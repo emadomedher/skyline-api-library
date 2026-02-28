@@ -1,0 +1,13 @@
+{
+  "id": "doxcell",
+  "title": "Doxcell",
+  "subtitle": "Doxcell API integration",
+  "tags": [
+    "excel-data-importer"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651682948/icons/doxcell.png",
+  "website": "https://doxcell.com/"
+}

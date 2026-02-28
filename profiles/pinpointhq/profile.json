@@ -1,0 +1,14 @@
+{
+  "id": "pinpointhq",
+  "title": "Pinpoint",
+  "subtitle": "Attract, hire, and onboard the right people with Pinpoint—modern talent acquisition software with unlimited support i...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1684211510/icons/pinpointhq.png",
+  "website": "https://www.pinpointhq.com/",
+  "docsUrl": "https://developers.pinpointhq.com"
+}

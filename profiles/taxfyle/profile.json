@@ -1,0 +1,13 @@
+{
+  "id": "taxfyle",
+  "title": "Taxfyle",
+  "subtitle": "Save money and spend less time worrying about taxes. Our online tax filing services connect you with a licensed profe...",
+  "tags": [
+    "tax-fyle"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494228/catalog/taxfyle/icon128x128.jpg",
+  "website": "https://taxfyle.com/"
+}

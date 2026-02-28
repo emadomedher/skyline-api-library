@@ -1,0 +1,13 @@
+{
+  "id": "localytics",
+  "title": "Localytics",
+  "subtitle": "With our platform you get smarter analytics insights and mobile app marketing experiences that better engage your use...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439257/catalog/localytics/icon128x128.svg",
+  "website": "https://localytics.com"
+}

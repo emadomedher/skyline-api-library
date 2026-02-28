@@ -1,0 +1,14 @@
+{
+  "id": "doorr",
+  "title": "Doorr",
+  "subtitle": "An all-in-one digital mortgage platform designed specifically for brokers to help them connect and collaborate with c...",
+  "tags": [
+    "proptech",
+    "mortgage"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605055354/icons/doorr.png",
+  "website": "https://www.doorr.com/"
+}

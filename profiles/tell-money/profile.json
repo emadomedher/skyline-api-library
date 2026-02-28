@@ -1,0 +1,14 @@
+{
+  "id": "tell-money",
+  "title": "tell.money",
+  "subtitle": "The Open Banking Lite Platform, PSD2, API, Connect",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655764851/icons/tell-money.png",
+  "website": "https://tell.money/",
+  "docsUrl": "https://tell.money/docs"
+}

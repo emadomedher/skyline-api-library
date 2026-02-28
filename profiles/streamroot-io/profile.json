@@ -1,0 +1,14 @@
+{
+  "id": "streamroot-io",
+  "title": "Streamroot",
+  "subtitle": "Streamroot technologies offer WebRTC-based mesh video CDN, multi-CDN and eCDN solutions to improve quality and increa...",
+  "tags": [
+    "video-cdn"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620356401/icons/streamroot-io.jpg",
+  "website": "https://streamroot.io/",
+  "docsUrl": "https://support.streamroot.io"
+}

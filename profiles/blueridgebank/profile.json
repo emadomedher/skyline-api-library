@@ -1,0 +1,13 @@
+{
+  "id": "blueridgebank",
+  "title": "Blue Ridge Bank and Trust Co.",
+  "subtitle": "Events",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598673639/icons/blueridgebank.jpg",
+  "website": "https://www.blueridgebank.com/"
+}

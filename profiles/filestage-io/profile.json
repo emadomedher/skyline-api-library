@@ -1,0 +1,15 @@
+{
+  "id": "filestage-io",
+  "title": "Filestage",
+  "subtitle": "Simplify your document, image and video review and approval workflow with clients, coworkers and stakeholders. Use Fi...",
+  "tags": [
+    "online-proofing-software",
+    "online-proofing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565648085/catalog/filestage-io/icon128x128.png",
+  "website": "https://filestage.io/",
+  "docsUrl": "https://developers.filestage.io/docs/api"
+}

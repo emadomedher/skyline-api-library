@@ -1,0 +1,15 @@
+{
+  "id": "quarkus-io",
+  "title": "QuarkusIO",
+  "subtitle": "Quarkus: Supersonic Subatomic Java",
+  "tags": [
+    "kubernetes",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605367952/icons/quarkus-io.png",
+  "website": "https://quarkus.io/",
+  "docsUrl": "https://quarkus.io/vision/developer-joy"
+}

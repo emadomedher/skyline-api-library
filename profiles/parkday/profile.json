@@ -1,0 +1,14 @@
+{
+  "id": "parkday",
+  "title": "Parkday",
+  "subtitle": "Parkday is a mobile app and data platform that structures foodservice offerings and personalizes the experience for e...",
+  "tags": [
+    "food-program"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671044900/icons/parkday.png",
+  "website": "https://www.heyparkday.com/",
+  "docsUrl": "http://docs.heyparkday.com"
+}

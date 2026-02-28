@@ -1,0 +1,14 @@
+{
+  "id": "eurecia",
+  "title": "Eurécia",
+  "subtitle": "Eurécia est un logiciel RH (SIRH) simple et complet pour automatiser tous vos processus RH. Simplifiez la gestion RH ...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688560638/icons/eurecia.jpg",
+  "website": "https://www.eurecia.com/",
+  "docsUrl": "https://api.eurecia.com/eurecia/fw/swagger/index.html"
+}

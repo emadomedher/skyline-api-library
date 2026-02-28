@@ -1,0 +1,14 @@
+{
+  "id": "permify-co",
+  "title": "Permify",
+  "subtitle": "Permify is a plug-&-play Authorization API that helps dev teams build granular access control and RBAC easier and fas...",
+  "tags": [
+    "authorization-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649154582/icons/permify-co.jpg",
+  "website": "https://www.permify.co/",
+  "docsUrl": "https://www.permify.co/solutions/developers"
+}

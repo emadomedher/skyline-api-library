@@ -1,0 +1,13 @@
+{
+  "id": "pertinent",
+  "title": "Pertinent",
+  "subtitle": "Pertinent.io - Help users with relevant help articles  in context of the page.",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436438/catalog/pertinent/icon128x128.png",
+  "website": "https://pertinent.io"
+}

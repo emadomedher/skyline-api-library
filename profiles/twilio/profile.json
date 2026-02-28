@@ -1,0 +1,169 @@
+{
+  "id": "twilio",
+  "title": "Twilio",
+  "subtitle": "Twilio is a cloud communications platform providing APIs for SMS, voice, video, email (via SendGrid), and authenticat...",
+  "tags": [
+    "api",
+    "communications",
+    "sms"
+  ],
+  "category": "Communication",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456121/catalog/twilio/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_accounts_v1.yaml",
+  "website": "https://www.twilio.com/",
+  "docsUrl": "https://www.twilio.com/docs",
+  "additionalSpecUrls": [
+    {
+      "label": "Twilio - Api",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_api_v2010.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Autopilot",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_autopilot_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Bulkexports",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_bulkexports_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Chat",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_chat_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Conversations",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_conversations_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Events",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_events_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Fax",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_fax_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Flex",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_flex_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Frontline",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_frontline_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Insights",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_insights_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Ip_messaging",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_ip_messaging_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Lookups",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_lookups_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Media",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_media_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Messaging",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_messaging_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Monitor",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_monitor_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Notify",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_notify_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Numbers",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_numbers_v2.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Pricing",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_pricing_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Proxy",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_proxy_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Serverless",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_serverless_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Studio",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_studio_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Supersim",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_supersim_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Sync",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_sync_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Taskrouter",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_taskrouter_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Trunking",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_trunking_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Trusthub",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_trusthub_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Verify",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_verify_v2.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Video",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_video_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Voice",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_voice_v1.yaml",
+      "specType": "openapi"
+    },
+    {
+      "label": "Twilio - Wireless",
+      "specUrl": "https://raw.githubusercontent.com/twilio/twilio-oai/main/spec/yaml/twilio_wireless_v1.yaml",
+      "specType": "openapi"
+    }
+  ]
+}

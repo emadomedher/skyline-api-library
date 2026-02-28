@@ -1,0 +1,19 @@
+{
+  "id": "libeo-io",
+  "title": "Libeo",
+  "subtitle": "Avec Libeo collectez, suivez et réglez toutes vos factures fournisseurs sur une plateforme unique. Sans IBAN et en un...",
+  "tags": [
+    "invoice-payments",
+    "invoicing",
+    "sme",
+    "cash-flow-management",
+    "supplier-payments",
+    "accounts-payable"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587645899/catalog/libeo-io/icon128x128.jpg",
+  "website": "https://libeo.io/",
+  "docsUrl": "https://libeo.io/en/privacy#voschoixconcernantlescookiestitle"
+}

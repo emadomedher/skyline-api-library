@@ -1,0 +1,15 @@
+{
+  "id": "resemble-ai",
+  "title": "Resemble AI",
+  "subtitle": "Custom AI Generated voices from your speech source. Resemble clones voices from given audio data starting with just 5...",
+  "tags": [
+    "voice-generation",
+    "speech-synthesis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617209233/icons/resemble-ai.jpg",
+  "website": "https://www.resemble.ai/",
+  "docsUrl": "https://app.resemble.ai/docs"
+}

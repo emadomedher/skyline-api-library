@@ -1,0 +1,12 @@
+{
+  "id": "emojics",
+  "title": "Emojics",
+  "subtitle": "Emojics is a customer engagement tool that helps you to collect feedback and leads through emojis.",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538984/catalog/emojics/icon128x128.png"
+}

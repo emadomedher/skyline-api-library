@@ -1,0 +1,12 @@
+{
+  "id": "exercisecom",
+  "title": "Exercise.com",
+  "subtitle": "Exercise.com is a platform offering tools to help fitness trainers connect with clients online.",
+  "tags": [
+    "entertainment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304886/catalog/exercisecom/icon128x128.png"
+}

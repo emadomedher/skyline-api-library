@@ -1,0 +1,13 @@
+{
+  "id": "piktochart",
+  "title": "Piktochart",
+  "subtitle": "Create beautiful infographics, flyers, posters, presentations and reports easily with absolutely no design experience...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827187/catalog/piktochart/icon128x128.jpg",
+  "website": "https://piktochart.com"
+}

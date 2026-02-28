@@ -1,0 +1,13 @@
+{
+  "id": "addintel-uk",
+  "title": "Address Intelligence",
+  "subtitle": "Address Intelligence API integration",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589738003/catalog/addintel-uk/icon128x128.jpg",
+  "website": "https://www.addintel.co.uk/"
+}

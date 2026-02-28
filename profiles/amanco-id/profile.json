@@ -1,0 +1,13 @@
+{
+  "id": "amanco-id",
+  "title": "Aman",
+  "subtitle": "Find quality yet affordable employee benefits for your company on Aman. Enjoy simple purchase, easy benefit administr...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653634219/icons/amanco-id.jpg",
+  "website": "https://amanco.id/en/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "taxjar",
+  "title": "TaxJar",
+  "subtitle": "TaxJar makes sales tax filing easier for online sellers and merchants. See local jurisdictional tax reports, get paym...",
+  "tags": [
+    "tax-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598638768/icons/taxjar.jpg",
+  "website": "https://www.taxjar.com/",
+  "docsUrl": "https://www.taxjar.com/developer"
+}

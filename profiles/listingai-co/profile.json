@@ -1,0 +1,13 @@
+{
+  "id": "listingai-co",
+  "title": "Listing AI",
+  "subtitle": "Save time and sell more with AI generated property descriptions with a click of a button.",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621109275/icons/listingai-co.png",
+  "website": "https://listingai.co/"
+}

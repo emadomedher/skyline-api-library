@@ -1,0 +1,15 @@
+{
+  "id": "scoro",
+  "title": "Scoro",
+  "subtitle": "Scoro is a comprehensive work management software—an all-in-one solution to track your time, manage projects and bill...",
+  "tags": [
+    "project-management",
+    "team-collaboration",
+    "management-tools"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305987/catalog/scoro/icon128x128.png",
+  "website": "https://scoro.com"
+}

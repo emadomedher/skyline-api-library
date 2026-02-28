@@ -1,0 +1,15 @@
+{
+  "id": "tesla",
+  "title": "Tesla",
+  "subtitle": "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar panels and integrated re...",
+  "tags": [
+    "automotive",
+    "car-manufacturer",
+    "electric-cars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779839/catalog/tesla/icon128x128.png",
+  "website": "https://www.tesla.com/"
+}

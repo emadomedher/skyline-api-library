@@ -1,0 +1,15 @@
+{
+  "id": "announcefly",
+  "title": "AnnounceFly",
+  "subtitle": "Crowdsource ideas, track user demand through voting and let your customers and community vote on what you should work...",
+  "tags": [
+    "product-feedback",
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578381347/catalog/announcefly/icon128x128.jpg",
+  "website": "https://www.announcefly.com/",
+  "docsUrl": "https://docs.announcefly.com"
+}

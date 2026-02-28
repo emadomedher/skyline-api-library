@@ -1,0 +1,13 @@
+{
+  "id": "iovox",
+  "title": "IOVOX",
+  "subtitle": "Improve call productivity and organization today with iovox. Easily tag, flag and share your call notes. You can also...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720555/catalog/iovox/icon128x128.jpg",
+  "website": "https://iovox.com"
+}

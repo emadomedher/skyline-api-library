@@ -1,0 +1,13 @@
+{
+  "id": "app-press",
+  "title": "App Press",
+  "subtitle": "Your on demand experts for building software, apps, and business ideas. Trusted by leading brands. Start with us today.",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718955/catalog/app-press/icon128x128.png",
+  "website": "https://app-press.com"
+}

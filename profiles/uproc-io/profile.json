@@ -1,0 +1,14 @@
+{
+  "id": "uproc-io",
+  "title": "uProc",
+  "subtitle": "Clean, verify, enrich, send and automate any data using our tools, products and integrations.",
+  "tags": [
+    "data-cleansing",
+    "data-enrichment"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608914747/icons/uproc-io.jpg",
+  "website": "https://uproc.io/"
+}

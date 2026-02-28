@@ -1,0 +1,14 @@
+{
+  "id": "clearsoftware",
+  "title": "Clear Software",
+  "subtitle": "Clear Software is on a mission to simplify business software and make people more productive. Our Intelligent Automat...",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215726/icons/clearsoftware.jpg",
+  "website": "https://clearsoftware.com/",
+  "docsUrl": "https://clearsoftware.com/knowledge-base"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "atom-finance",
+  "title": "Atom Finance",
+  "subtitle": "Atom Finance’s mission is to empower people to make informed investing decisions with best in class software and data.",
+  "tags": [
+    "investing-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652305202/icons/atom-finance.jpg",
+  "website": "https://atom.finance/"
+}

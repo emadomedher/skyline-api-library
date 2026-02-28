@@ -1,0 +1,18 @@
+{
+  "id": "phabricator",
+  "title": "Phabricator",
+  "subtitle": "Phabricator API integration",
+  "tags": [
+    "continuous-integration",
+    "open-source",
+    "developers",
+    "project-management",
+    "issue-tracking"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565399388/catalog/phabricator/icon128x128.jpg",
+  "website": "https://phacility.com",
+  "docsUrl": "https://secure.phabricator.com/book/phabricator"
+}

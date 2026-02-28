@@ -1,0 +1,14 @@
+{
+  "id": "weekendesk-be",
+  "title": "Weekendesk",
+  "subtitle": "Weekendesk API integration",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641104/icons/weekendesk-be.png",
+  "website": "https://www.weekendesk.be/"
+}

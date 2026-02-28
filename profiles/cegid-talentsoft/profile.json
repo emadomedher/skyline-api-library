@@ -1,0 +1,13 @@
+{
+  "id": "cegid-talentsoft",
+  "title": "Cegid Talentsoft",
+  "subtitle": "Cegid Talentsoft is a leading European HCM solution. Digitise HR processes with our open platform: core HR, talent ac...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664247008/icons/cegid-talentsoft.png",
+  "website": "https://www.cegid.com/en/products/cegid-talentsoft/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "terrasky",
+  "title": "TerraSky",
+  "subtitle": "Create custom Salesforce pages in minutes instead of days. Use drag and drop tools to create Visualforce and Lightnin...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946479/catalog/terrasky/icon128x128.png",
+  "website": "https://terrasky.com"
+}

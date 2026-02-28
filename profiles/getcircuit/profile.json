@@ -1,0 +1,13 @@
+{
+  "id": "getcircuit",
+  "title": "Circuit",
+  "subtitle": "Optimize the order of your delivery routes with Circuit and get home earlier.",
+  "tags": [
+    "route-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187644/catalog/getcircuit/icon128x128.jpg",
+  "website": "https://getcircuit.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "paystone",
+  "title": "Paystone",
+  "subtitle": "We combine customer engagement software and payment processing to give you more opportunities to grow your business w...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667860525/icons/paystone.png",
+  "website": "https://www.paystone.com/"
+}

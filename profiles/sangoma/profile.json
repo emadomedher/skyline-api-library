@@ -1,0 +1,17 @@
+{
+  "id": "sangoma",
+  "title": "Sangoma",
+  "subtitle": "Sangoma Technologies is a trusted leader delivering value-based Unified Communications business phone systems, both o...",
+  "tags": [
+    "business-communications",
+    "phone-systems",
+    "sip-trunking",
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615301983/icons/sangoma.jpg",
+  "website": "https://www.sangoma.com/",
+  "docsUrl": "https://www.sangoma.com/#"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hanko-io",
+  "title": "Hanko.io",
+  "subtitle": "Our mission is to guide developers on the journey beyond passwords and cumbersome 2FA – towards secure and convenient...",
+  "tags": [
+    "identity-management",
+    "open-source"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659086997/icons/hanko-io.png",
+  "website": "https://www.hanko.io/",
+  "docsUrl": "https://console.hanko.io"
+}

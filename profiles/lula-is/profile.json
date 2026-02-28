@@ -1,0 +1,14 @@
+{
+  "id": "lula-is",
+  "title": "Lula",
+  "subtitle": "Making Mobility Viable and Profitable",
+  "tags": [
+    "insurance-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625942402/icons/lula-is.jpg",
+  "website": "https://www.lula.is/",
+  "docsUrl": "https://www.lula.is/developers"
+}

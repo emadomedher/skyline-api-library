@@ -1,0 +1,14 @@
+{
+  "id": "grain-co",
+  "title": "Grain",
+  "subtitle": "Take note of important moments during Zoom calls and turn them into video highlights playable right within Slack, Not...",
+  "tags": [
+    "video-cms",
+    "transcription"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587327706/catalog/grain-co/icon128x128.jpg",
+  "website": "https://www.grain.com/"
+}

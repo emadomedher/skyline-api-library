@@ -1,0 +1,14 @@
+{
+  "id": "ml5js",
+  "title": "ml5js",
+  "subtitle": "ml5.js aims to make machine learning approachable for a broad audience of artists, creative coders, and students. The...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618792277/icons/ml5js.jpg",
+  "website": "https://ml5js.org/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlsdpz0icztsvdlateikwj-zfzx6dx5l3dopjwgzm6lizutkvla/viewform"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "agentology",
+  "title": "Agentology",
+  "subtitle": "Agentology’s trained concierge team will contact, engage, and convert your cold real estate leads within 2 minutes, 2...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829009/catalog/agentology/icon128x128.png",
+  "website": "https://agentology.com"
+}

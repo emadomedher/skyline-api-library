@@ -1,0 +1,13 @@
+{
+  "id": "nagelmackers-be",
+  "title": "Bank Nagelmackers",
+  "subtitle": "Reken niet op geluk om uw dromen te realiseren. Vertaal samen met ons uw verhaal naar een ernstig vermogensplan.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563414775/catalog/nagelmackers-be/icon128x128.png",
+  "website": "https://nagelmackers.be"
+}

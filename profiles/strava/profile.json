@@ -1,0 +1,12 @@
+{
+  "id": "strava",
+  "title": "Strava",
+  "subtitle": "Strava is a fitness tracking application.",
+  "tags": [
+    "entertainment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306197/catalog/strava/icon128x128.png"
+}

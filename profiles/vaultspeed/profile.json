@@ -1,0 +1,14 @@
+{
+  "id": "vaultspeed",
+  "title": "VaultSpeed",
+  "subtitle": "Experience faster data warehouse automation. The Vaultspeed dwa tool is built on the Data Vault 2.0 standard and a de...",
+  "tags": [
+    "data-integration",
+    "data-warehouse-automation"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618242877/icons/vaultspeed.jpg",
+  "website": "https://vaultspeed.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fi-money",
+  "title": "Fi.money",
+  "subtitle": "Fi is a financial app with an online savings bank account and a full-suite of cool features that help you get better ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628455981/icons/fi-money.png",
+  "website": "https://fi.money/"
+}

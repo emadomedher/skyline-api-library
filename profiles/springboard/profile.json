@@ -1,0 +1,14 @@
+{
+  "id": "springboard",
+  "title": "Springboard",
+  "subtitle": "Springboard's mentor-led online programs are guaranteed to get you hired. Learn data science, UI/UX, and coding by bu...",
+  "tags": [
+    "courses",
+    "online-learning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612562373/icons/springboard.jpg",
+  "website": "https://www.springboard.com/"
+}

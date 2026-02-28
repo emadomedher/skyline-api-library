@@ -1,0 +1,14 @@
+{
+  "id": "ideta-io",
+  "title": "Ideta",
+  "subtitle": "We help companies build their own chatbots, voicebots  or callbots, by providing them with a powerful software. They ...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664335904/icons/ideta-io.jpg",
+  "website": "https://www.ideta.io/",
+  "docsUrl": "https://docs.google.com/document/d/1xyrcv3faraqnkyupeuy_n3_hctplpbvm8jsxhzdl9vq/edit?usp=sharing"
+}

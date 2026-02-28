@@ -1,0 +1,13 @@
+{
+  "id": "broadflow-co",
+  "title": "Broadflow",
+  "subtitle": "Broadflow API integration",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598910110/icons/broadflow-co.png",
+  "website": "https://broadflow.co/"
+}

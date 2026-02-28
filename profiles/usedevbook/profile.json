@@ -1,0 +1,14 @@
+{
+  "id": "usedevbook",
+  "title": "Devbook",
+  "subtitle": "Become a more productive developer by using Devbook in your day-to-day work. Free search engine made just for develop...",
+  "tags": [
+    "developer-tools",
+    "developer-docs"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619649871/icons/usedevbook.jpg",
+  "website": "https://usedevbook.com/"
+}

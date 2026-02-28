@@ -1,0 +1,13 @@
+{
+  "id": "pinpointe",
+  "title": "Pinpointe",
+  "subtitle": "Email Marketing for companies who have outgrown their Email Provider, but aren’t ready for the cost & complexity of M...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721479/catalog/pinpointe/icon128x128.jpg",
+  "website": "https://pinpointe.com"
+}

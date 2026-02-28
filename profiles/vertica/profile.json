@@ -1,0 +1,15 @@
+{
+  "id": "vertica",
+  "title": "Vertica Support Team",
+  "subtitle": "Vertica provides a best-in-class, unified analytics platform that will forever be independent from underlying infrast...",
+  "tags": [
+    "data-analytics",
+    "big-data"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576461912/catalog/vertica/icon128x128.jpg",
+  "website": "https://www.vertica.com/",
+  "docsUrl": "https://www.vertica.com/documentation/vertica/9-3-x"
+}

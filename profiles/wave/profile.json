@@ -1,0 +1,14 @@
+{
+  "id": "wave",
+  "title": "Wave",
+  "subtitle": "Free invoicing & accounting software with credit card processing & payroll services",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306468/catalog/wave/icon128x128.png",
+  "website": "https://www.waveapps.com/",
+  "docsUrl": "https://developer.waveapps.com/hc/en-us"
+}

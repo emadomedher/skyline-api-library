@@ -1,0 +1,14 @@
+{
+  "id": "scalegrid-io",
+  "title": "ScaleGrid",
+  "subtitle": "ScaleGrid DBaaS makes it easy to deploy MongoDB, Redis, MySQL and PostgreSQL hosting on AWS, Azure, DigitalOcean and ...",
+  "tags": [
+    "databases",
+    "database-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581475567/catalog/scalegrid-io/icon128x128.png",
+  "website": "https://scalegrid.io/"
+}

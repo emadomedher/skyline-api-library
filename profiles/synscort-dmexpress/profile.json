@@ -1,0 +1,13 @@
+{
+  "id": "synscort-dmexpress",
+  "title": "Synscort DMExpress",
+  "subtitle": "We organize data everywhere, to keep the world working. Our products provide a simple way to optimize, assure, integr...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722415/catalog/synscort-dmexpress/icon128x128.jpg",
+  "website": "https://syncsort.com"
+}

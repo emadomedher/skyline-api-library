@@ -1,0 +1,14 @@
+{
+  "id": "everphone",
+  "title": "Everphone Industrial Co.",
+  "subtitle": "Rent a company phone: everphone is the one stop shop for mobile company devices such as smartphones and tablets. Lear...",
+  "tags": [
+    "phone-as-a-service",
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596693051/icons/everphone.jpg",
+  "website": "https://www.everphone.com/"
+}

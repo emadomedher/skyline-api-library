@@ -1,0 +1,13 @@
+{
+  "id": "goinstore",
+  "title": "Go Instore",
+  "subtitle": "Go Instore are humanising customer experiences in the digital world through advanced video powered retail technology,...",
+  "tags": [
+    "retailtech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231799/icons/goinstore.jpg",
+  "website": "https://www.goinstore.com/"
+}

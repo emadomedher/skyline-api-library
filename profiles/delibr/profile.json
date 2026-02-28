@@ -1,0 +1,13 @@
+{
+  "id": "delibr",
+  "title": "Delibr",
+  "subtitle": "Delibr helps product managers and their teams become better at collaborating in their feature refinement process. Get...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006437/icons/delibr.png",
+  "website": "https://www.delibr.com/"
+}

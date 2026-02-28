@@ -1,0 +1,12 @@
+{
+  "id": "kvm",
+  "title": "KVM",
+  "subtitle": "Kernel-based Virtual Machine (KVM) is a virtualization module in the Linux kernel that allows the kernel to function ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567033152/catalog/kvm/icon128x128.jpg"
+}

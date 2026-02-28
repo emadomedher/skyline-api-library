@@ -1,0 +1,15 @@
+{
+  "id": "digital-ocean",
+  "title": "DigitalOcean",
+  "subtitle": "Helping millions of developers easily build, test, manage, and scale applications of any size – faster than ever before.",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "openapi",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304775/catalog/digital-ocean/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/digitalocean/openapi/main/specification/DigitalOcean-public.v2.yaml",
+  "website": "https://www.digitalocean.com/",
+  "docsUrl": "https://developers.digitalocean.com/"
+}

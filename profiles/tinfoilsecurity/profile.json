@@ -1,0 +1,15 @@
+{
+  "id": "tinfoilsecurity",
+  "title": "Tinfoil Security",
+  "subtitle": "Tinfoil Security provides a simple website application security solution by routinely monitoring and checking for vul...",
+  "tags": [
+    "website-security",
+    "application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573785515/catalog/tinfoilsecurity/icon128x128.jpg",
+  "website": "https://www.tinfoilsecurity.com/",
+  "docsUrl": "https://www.tinfoilsecurity.com/developer"
+}

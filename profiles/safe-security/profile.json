@@ -1,0 +1,14 @@
+{
+  "id": "safe-security",
+  "title": "Safe Security",
+  "subtitle": "With SAFE - a cyber risk quantification platform for enterprises you can start predicting cyber breaches instead of d...",
+  "tags": [
+    "risk-based-vulnerability-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686833944/icons/safe-security.jpg",
+  "website": "https://www.safe.security/",
+  "docsUrl": "https://docs.safe.security/docs/adobe-experience-manager"
+}

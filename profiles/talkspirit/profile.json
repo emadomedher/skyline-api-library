@@ -1,0 +1,12 @@
+{
+  "id": "talkspirit",
+  "title": "talkSpirit",
+  "subtitle": "talkSpirit is a digital workplace for teams and organizations. Users can chat with anyone in their network, they can ...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306256/catalog/talkspirit/icon128x128.png"
+}

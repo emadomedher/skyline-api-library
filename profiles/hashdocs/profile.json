@@ -1,0 +1,15 @@
+{
+  "id": "hashdocs",
+  "title": "Hashdocs",
+  "subtitle": "An open-source docsend alternative with powerful link controls and realtime tracking",
+  "tags": [
+    "documents",
+    "open-source"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691152314/icons/hashdocs.png",
+  "website": "https://hashdocs.org/",
+  "docsUrl": "https://hashdocs.org"
+}

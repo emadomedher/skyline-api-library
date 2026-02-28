@@ -1,0 +1,16 @@
+{
+  "id": "conveyor",
+  "title": "Conveyor",
+  "subtitle": "Hundreds of companies use Conveyor to built trust with their customers, and find trustworthy vendors to help drive th...",
+  "tags": [
+    "vendor-management",
+    "security-questionnaire",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640617485/icons/conveyor.jpg",
+  "website": "https://www.conveyor.com/",
+  "docsUrl": "https://docs.conveyor.com"
+}

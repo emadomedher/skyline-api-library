@@ -1,0 +1,13 @@
+{
+  "id": "adcb",
+  "title": "ADCB",
+  "subtitle": "ADCB is a full-service commercial bank offering a range of products and services such as retail banking, loans, cards...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618530787/icons/adcb.jpg",
+  "website": "https://www.adcb.com/"
+}

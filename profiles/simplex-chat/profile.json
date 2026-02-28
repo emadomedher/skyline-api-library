@@ -1,0 +1,16 @@
+{
+  "id": "simplex-chat",
+  "title": "SimpleX chat",
+  "subtitle": "Free open-source chat protocol and software for technology enthusiasts - complete privacy, security and ownership of ...",
+  "tags": [
+    "open-source",
+    "secure-messaging",
+    "developer-tools",
+    "privacy"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471936/icons/simplex-chat.png",
+  "website": "https://simplex.chat/"
+}

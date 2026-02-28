@@ -1,0 +1,14 @@
+{
+  "id": "travitude-uk",
+  "title": "Travitude",
+  "subtitle": "Travitude is a travel software solution for travel agents and OTAs. It is composed of website platform and travel boo...",
+  "tags": [
+    "ota",
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572444987/catalog/travitude-uk/icon128x128.png",
+  "website": "https://www.travitude.co.uk"
+}

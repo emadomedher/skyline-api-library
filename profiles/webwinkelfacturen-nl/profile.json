@@ -1,0 +1,16 @@
+{
+  "id": "webwinkelfacturen-nl",
+  "title": "Webwinkelfacturen.nl",
+  "subtitle": "Bespaar tijd. Zet je webwinkelbestellingen automatisch in je boekhouding. Aanzetten in 5 minuten. Meerdere webwinkels...",
+  "tags": [
+    "invoicing",
+    "webshops",
+    "e-commerce",
+    "ipaas"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509283/catalog/webwinkelfacturen-nl/icon128x128.png",
+  "website": "https://www.webwinkelfacturen.nl"
+}

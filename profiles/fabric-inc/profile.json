@@ -1,0 +1,14 @@
+{
+  "id": "fabric-inc",
+  "title": "fabric",
+  "subtitle": "Fabric is a headless e-commerce platform that gives brands and retailers tools for building any type of buying experi...",
+  "tags": [
+    "headless-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406248/icons/fabric-inc.jpg",
+  "website": "https://fabric.inc/",
+  "docsUrl": "https://api.fabric.inc"
+}

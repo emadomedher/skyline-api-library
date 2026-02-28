@@ -1,0 +1,15 @@
+{
+  "id": "yolt",
+  "title": "Yolt",
+  "subtitle": "Know where you're at with your money. Yolt provides an easy and enjoyable way to manage money from your UK bank accou...",
+  "tags": [
+    "personal-finance-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565432650/catalog/yolt/icon128x128.jpg",
+  "website": "https://yolt.com",
+  "docsUrl": "https://developer.yolt.com/"
+}

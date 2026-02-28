@@ -1,0 +1,14 @@
+{
+  "id": "google-drive",
+  "title": "Google Drive",
+  "subtitle": "Safely store and share your photos, videos, files and more in the cloud. Your first 15 GB of storage are free with a ...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455952/catalog/google-drive/icon128x128.png",
+  "website": "https://www.google.com/drive/index.html",
+  "docsUrl": "https://developers.google.com/drive"
+}

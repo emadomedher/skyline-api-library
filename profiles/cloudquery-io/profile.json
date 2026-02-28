@@ -1,0 +1,16 @@
+{
+  "id": "cloudquery-io",
+  "title": "cloudquery",
+  "subtitle": "query, monitor and analyze your cloud infrastructure",
+  "tags": [
+    "cloud-security",
+    "compliance",
+    "cloud-infrastructure-apis"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617783806/icons/cloudquery-io.jpg",
+  "website": "https://www.cloudquery.io/",
+  "docsUrl": "https://docs.cloudquery.io"
+}

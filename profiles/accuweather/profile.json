@@ -1,0 +1,13 @@
+{
+  "id": "accuweather",
+  "title": "AccuWeather",
+  "subtitle": "AccuWeather API integration",
+  "tags": [
+    "weather"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570207408/catalog/accuweather/icon128x128.png",
+  "website": "https://www.accuweather.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "brandfetch-io-personalization-api",
+  "title": "Brandfetch Personalization API",
+  "subtitle": "Increase user engagement and reduce churn by personalizing each touchpoint of your customer journey with the Brandfet...",
+  "tags": [
+    "personalization-api",
+    "data-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584560984/catalog/brandfetch-io-personalization-api/icon128x128.png",
+  "website": "https://brandfetch.io/personalization-api"
+}

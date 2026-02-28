@@ -1,0 +1,15 @@
+{
+  "id": "steam",
+  "title": "Steam",
+  "subtitle": "Steam is a computer game and software distribution platform.",
+  "tags": [
+    "gaming",
+    "entertainment"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284623/catalog/steam/icon128x128.png",
+  "website": "https://store.steampowered.com/",
+  "docsUrl": "https://partner.steamgames.com/"
+}

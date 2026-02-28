@@ -1,0 +1,14 @@
+{
+  "id": "google-sheets",
+  "title": "Google Sheets",
+  "subtitle": "Create a new spreadsheet and edit it with others at the same time — from your computer, phone or tablet. Free with a ...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455027/catalog/google-sheets/icon128x128.png",
+  "website": "https://www.google.com/sheets/about/",
+  "docsUrl": "https://developers.google.com/sheets/api"
+}

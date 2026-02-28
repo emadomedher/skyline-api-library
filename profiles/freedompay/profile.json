@@ -1,0 +1,14 @@
+{
+  "id": "freedompay",
+  "title": "FreedomPay",
+  "subtitle": "FreedomPay Commerce Platform. Payments system to grow revenue and at the point of sale. The engine inside interconnec...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588444279/catalog/freedompay/icon128x128.jpg",
+  "website": "https://www.freedompay.com/",
+  "docsUrl": "https://corporate.freedompay.com/e-commerce"
+}

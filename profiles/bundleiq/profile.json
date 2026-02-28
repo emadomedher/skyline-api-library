@@ -1,0 +1,14 @@
+{
+  "id": "bundleiq",
+  "title": "bundleIQ",
+  "subtitle": "Amplify your knowledge work with bundleIQ. Our AI-powered workspace and extension help you quickly and easily make se...",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674004610/icons/bundleiq.png",
+  "website": "https://www.bundleiq.com/",
+  "docsUrl": "https://www.bundleiq.com/#w-tabs-0-data-w-pane-1"
+}

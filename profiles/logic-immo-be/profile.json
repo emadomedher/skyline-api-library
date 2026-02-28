@@ -1,0 +1,13 @@
+{
+  "id": "logic-immo-be",
+  "title": "Logic-Immo.be",
+  "subtitle": "Logic Immo is dedicated to the Belgian property market and boasts 1'500'000 visitors per month.",
+  "tags": [
+    "real-estate-portals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551227408/catalog/logic-immo-be/icon128x128.jpg",
+  "website": "https://www.logic-immo.be/"
+}

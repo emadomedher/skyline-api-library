@@ -1,0 +1,15 @@
+{
+  "id": "twisto",
+  "title": "Twisto",
+  "subtitle": "Buy now, pay later with Twisto. Payment app designed for personal cashflow management.",
+  "tags": [
+    "cash-flow-management",
+    "payments",
+    "lending"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584859572/catalog/twisto/icon128x128.png",
+  "website": "https://twistopay.com/cz/"
+}

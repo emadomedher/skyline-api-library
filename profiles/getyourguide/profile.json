@@ -1,0 +1,13 @@
+{
+  "id": "getyourguide",
+  "title": "GetYourGuide",
+  "subtitle": "Find, compare, and book sightseeing tours, attractions, excursions, things to do and fun activities from around the w...",
+  "tags": [
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557151311/catalog/getyourguide/icon128x128.jpg",
+  "website": "https://getyourguide.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "recurly",
+  "title": "Recurly",
+  "subtitle": "Recurly provides enterprise-class subscription billing management for thousands of businesses worldwide.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056138/catalog/recurly/icon128x128.png",
+  "website": "https://recurly.com/",
+  "docsUrl": "https://dev.recurly.com"
+}

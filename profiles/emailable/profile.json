@@ -1,0 +1,14 @@
+{
+  "id": "emailable",
+  "title": "Emailable",
+  "subtitle": "Say good-bye to crowded, inaccurate email lists. Emailable is an email verification SaaS designed for bulk validation.",
+  "tags": [
+    "email-verification"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616759222/icons/emailable.png",
+  "website": "https://emailable.com/",
+  "docsUrl": "https://emailable.com/api"
+}

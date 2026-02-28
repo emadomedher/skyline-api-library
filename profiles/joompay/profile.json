@@ -1,0 +1,16 @@
+{
+  "id": "joompay",
+  "title": "JoomPay",
+  "subtitle": "With Joompay it is easy to send and receive money. Instantly, easily, for free. Invite a friend and get €5 each!",
+  "tags": [
+    "bill-spliting-payments",
+    "p2p-payments",
+    "bill-splitting",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606326376/icons/joompay.jpg",
+  "website": "https://joompay.com/"
+}

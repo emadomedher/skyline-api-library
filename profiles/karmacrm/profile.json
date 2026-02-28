@@ -1,0 +1,12 @@
+{
+  "id": "karmacrm",
+  "title": "karmaCRM",
+  "subtitle": "KarmaCRM is a simple CRM that helps you nurture personalized relationships at scale by connecting your email, calenda...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305229/catalog/karmacrm/icon128x128.png"
+}

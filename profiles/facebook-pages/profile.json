@@ -1,0 +1,14 @@
+{
+  "id": "facebook-pages",
+  "title": "Facebook Pages",
+  "subtitle": "Facebook Pages lets you connect with your customers, fans and followers on the world's largest social network. Share ...",
+  "tags": [
+    "social",
+    "facebook"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455947/catalog/facebook-pages/icon128x128.png",
+  "website": "https://www.facebook.com/business/products/pages"
+}

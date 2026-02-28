@@ -1,0 +1,13 @@
+{
+  "id": "pom-be",
+  "title": "POM",
+  "subtitle": "Facturen betalen? Betaal al je facturen nu met je smartphone en archiveer ze automatisch. Betaald worden? Verstuur je...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562929385/catalog/pom-be/icon128x128.jpg",
+  "website": "https://pom.be"
+}

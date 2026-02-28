@@ -1,0 +1,16 @@
+{
+  "id": "privacy-com",
+  "title": "Privacy.com",
+  "subtitle": "Make a unique debit card number for every single purchase online with just 1 click. Never worry again about credit ca...",
+  "tags": [
+    "privacy",
+    "payments",
+    "credit-cards",
+    "virtual-cards"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594906734/icons/privacy-com.png",
+  "website": "https://privacy.com/"
+}

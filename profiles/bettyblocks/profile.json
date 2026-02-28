@@ -1,0 +1,14 @@
+{
+  "id": "bettyblocks",
+  "title": "Betty Blocks",
+  "subtitle": "The only no-code platform for full empowerment, innovation and agility. Create mobile, business and web applications ...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741021/icons/bettyblocks.jpg",
+  "website": "https://www.bettyblocks.com/",
+  "docsUrl": "https://www.bettyblocks.com/citizen-developer"
+}

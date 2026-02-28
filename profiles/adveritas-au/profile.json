@@ -1,0 +1,13 @@
+{
+  "id": "adveritas-au",
+  "title": "Adveritas",
+  "subtitle": "Adveritas Limited (ASX: AV1) creates innovative software solutions that leverage big data to drive business performan...",
+  "tags": [
+    "ad-fraud-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415420/catalog/adveritas-au/icon128x128.jpg",
+  "website": "https://www.adveritas.com.au/"
+}

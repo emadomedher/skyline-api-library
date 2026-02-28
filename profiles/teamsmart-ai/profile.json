@@ -1,0 +1,13 @@
+{
+  "id": "teamsmart-ai",
+  "title": "TeamSmart AI",
+  "subtitle": "The Chrome extension for a better ChatGPT experience",
+  "tags": [
+    "chrome-extensions"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679311953/icons/teamsmart-ai.png",
+  "website": "https://www.teamsmart.ai/"
+}

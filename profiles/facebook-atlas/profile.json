@@ -1,0 +1,13 @@
+{
+  "id": "facebook-atlas",
+  "title": "Facebook Atlas",
+  "subtitle": "Facebook Atlas API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578099365/catalog/facebook-atlas/icon128x128.jpg",
+  "website": "https://atdmt.com"
+}

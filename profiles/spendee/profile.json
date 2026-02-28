@@ -1,0 +1,13 @@
+{
+  "id": "spendee",
+  "title": "Spendee",
+  "subtitle": "Manage all your money with ease from one place with Spendee. Track your income and expenses, analyze your financial h...",
+  "tags": [
+    "pfm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584576990/catalog/spendee/icon128x128.jpg",
+  "website": "https://www.spendee.com/"
+}

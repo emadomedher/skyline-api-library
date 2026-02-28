@@ -1,0 +1,13 @@
+{
+  "id": "dbdiagram-io",
+  "title": "dbdiagram.io",
+  "subtitle": "Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL lan...",
+  "tags": [
+    "database-design"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261144/icons/dbdiagram-io.png",
+  "website": "https://dbdiagram.io/"
+}

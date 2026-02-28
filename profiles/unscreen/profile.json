@@ -1,0 +1,13 @@
+{
+  "id": "unscreen",
+  "title": "Unscreen",
+  "subtitle": "Remove the background of any video - 100% automatically, online & free! Goodbye Greenscreen. Hello Unscreen.",
+  "tags": [
+    "video-editing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601895528/icons/unscreen.jpg",
+  "website": "https://www.unscreen.com/"
+}

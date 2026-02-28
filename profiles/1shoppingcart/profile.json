@@ -1,0 +1,13 @@
+{
+  "id": "1shoppingcart",
+  "title": "1ShoppingCart",
+  "subtitle": "Build a powerful, secure ecommerce storefront with our Online Store Software. Sell, promote, and grow with the 1Shopp...",
+  "tags": [
+    "ecommerce-platforms-and-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432652/catalog/1shoppingcart/icon128x128.png",
+  "website": "https://1shoppingcart.com"
+}

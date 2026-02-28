@@ -1,0 +1,14 @@
+{
+  "id": "tpgpos",
+  "title": "The Phoenix Group",
+  "subtitle": "[vc_row type=”full_width_section” class=”home-slider-row” css=”.vc_custom_1464125996026{margin-top: 0px !important;pa...",
+  "tags": [
+    "pos",
+    "hardware"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599521402/icons/tpgpos.png",
+  "website": "https://tpgpos.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hibox",
+  "title": "Hibox",
+  "subtitle": "Task and project management, chat and video calls in a single app to help improve your company's productivity.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720367/catalog/hibox/icon128x128.jpg",
+  "website": "https://hibox.co"
+}

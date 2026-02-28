@@ -1,0 +1,13 @@
+{
+  "id": "listly",
+  "title": "Listly",
+  "subtitle": "Top 10 lists authored by the Listly community of bloggers and publishers.  Make cool lists and fun listicles on Listl...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435572/catalog/listly/icon128x128.png",
+  "website": "https://list.ly"
+}

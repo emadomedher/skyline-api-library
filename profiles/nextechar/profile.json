@@ -1,0 +1,13 @@
+{
+  "id": "nextechar",
+  "title": "Nextech AR Solutions",
+  "subtitle": "Nextech AR is a leader in AR for the metaverse, ecommerce, advertising and education. Its technology ranges from 3D A...",
+  "tags": [
+    "augmented-reality"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640726497/icons/nextechar.jpg",
+  "website": "https://www.nextechar.com/"
+}

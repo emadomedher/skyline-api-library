@@ -1,0 +1,14 @@
+{
+  "id": "bettsrecruiting",
+  "title": "Betts Recruiting",
+  "subtitle": "Betts Recruiting helps companies grow and career dreams come true. We're the top recruiting agency for sales, marketi...",
+  "tags": [
+    "recruiting-agencies",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602198693/icons/bettsrecruiting.jpg",
+  "website": "https://bettsrecruiting.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "trg-de",
+  "title": "TRG",
+  "subtitle": "Agentur für digitales Marketing - Lead. Don't Follow.",
+  "tags": [
+    "marketing-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599720010/icons/trg-de.jpg",
+  "website": "https://trg.de/"
+}

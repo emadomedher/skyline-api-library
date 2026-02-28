@@ -1,0 +1,14 @@
+{
+  "id": "torq-io",
+  "title": "Torq",
+  "subtitle": "Torq is the only no-code, low-code, and full-code security automation with true enterprise scalability. 10X faster th...",
+  "tags": [
+    "security-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691960732/icons/torq-io.png",
+  "website": "https://torq.io/",
+  "docsUrl": "https://learn.torq.io/apidocs"
+}

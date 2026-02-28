@@ -1,0 +1,15 @@
+{
+  "id": "pipedrive",
+  "title": "Pipedrive",
+  "subtitle": "Pipedrive is a next-generation AI-powered CRM platform with intelligent agents that work as 24/7 digital teammates. I...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "openapi",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455988/catalog/pipedrive/icon128x128.png",
+  "specUrl": "https://developers.pipedrive.com/docs/api/v1/openapi.yaml",
+  "website": "https://www.pipedrive.com/",
+  "docsUrl": "https://developers.pipedrive.com"
+}

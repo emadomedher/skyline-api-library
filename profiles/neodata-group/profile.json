@@ -1,0 +1,13 @@
+{
+  "id": "neodata-group",
+  "title": "Neodata Group",
+  "subtitle": "Technology provider enabling brands, publishers and advertising sales agencies to collect, analyze and use audience d...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721240/catalog/neodata-group/icon128x128.jpg",
+  "website": "https://neodatagroup.com"
+}

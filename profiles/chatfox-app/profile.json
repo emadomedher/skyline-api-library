@@ -1,0 +1,13 @@
+{
+  "id": "chatfox-app",
+  "title": "ChatFox",
+  "subtitle": "Build Better Remote Team Culture. ChatFox is a Slack Bot that provides Icebreakers, Shout Out, Coffee Chats, and more!",
+  "tags": [
+    "remote-culture"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588253790/catalog/chatfox-app/icon128x128.jpg",
+  "website": "https://chatfox.app/"
+}

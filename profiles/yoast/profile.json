@@ -1,0 +1,13 @@
+{
+  "id": "yoast",
+  "title": "Yoast",
+  "subtitle": "Yoast API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961882/catalog/yoast/icon128x128.png",
+  "website": "https://yoast.com"
+}

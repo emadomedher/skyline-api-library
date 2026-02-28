@@ -1,0 +1,13 @@
+{
+  "id": "spacio",
+  "title": "Spacio",
+  "subtitle": "Spacio is a solution which replaces clipboards and unreadable handwriting with a professional sign-in system tailored...",
+  "tags": [
+    "real-estate",
+    "forms"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284616/catalog/spacio/icon128x128.png"
+}

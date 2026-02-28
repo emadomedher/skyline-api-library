@@ -1,0 +1,13 @@
+{
+  "id": "numero-ai",
+  "title": "Numero",
+  "subtitle": "Numero is a political fundraising tool trusted by more than 200 candidates for President, Senate, Congress, and State...",
+  "tags": [
+    "political-campaign-fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622770162/icons/numero-ai.png",
+  "website": "https://numero.ai/"
+}

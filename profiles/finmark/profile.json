@@ -1,0 +1,13 @@
+{
+  "id": "finmark",
+  "title": "Finmark",
+  "subtitle": "Finmark API integration",
+  "tags": [
+    "financial-modeling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598443582/icons/finmark.png",
+  "website": "https://finmark.com/"
+}

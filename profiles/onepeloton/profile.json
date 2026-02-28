@@ -1,0 +1,13 @@
+{
+  "id": "onepeloton",
+  "title": "Peloton",
+  "subtitle": "Access high-energy workouts, instantly. Discover Peloton: streaming fitness classes to you live and on-demand.",
+  "tags": [
+    "fitness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625084719/icons/onepeloton.jpg",
+  "website": "https://www.onepeloton.com/"
+}

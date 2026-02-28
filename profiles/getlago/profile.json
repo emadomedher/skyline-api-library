@@ -1,0 +1,14 @@
+{
+  "id": "getlago",
+  "title": "Lago",
+  "subtitle": "For usage-based, subscription-based, and all the nuances of pricing in between. With our API, make your billing fit y...",
+  "tags": [
+    "subscription-management",
+    "open-source"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652969128/icons/getlago.png",
+  "website": "https://www.getlago.com/"
+}

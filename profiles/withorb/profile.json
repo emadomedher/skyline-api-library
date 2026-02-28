@@ -1,0 +1,14 @@
+{
+  "id": "withorb",
+  "title": "Orb",
+  "subtitle": "Drive business model innovation with Orb. We power billing for the world's leading software companies.",
+  "tags": [
+    "usage-based-billing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680207371/icons/withorb.jpg",
+  "website": "https://www.withorb.com/",
+  "docsUrl": "https://docs.withorb.com/docs/orb-docs"
+}

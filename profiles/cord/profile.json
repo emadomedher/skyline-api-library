@@ -1,0 +1,14 @@
+{
+  "id": "cord",
+  "title": "Cord",
+  "subtitle": "With Cord’s collaboration SDK and APIs, product teams can add customizable collaborative features to their tool or ap...",
+  "tags": [
+    "multiplayer"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688560640/icons/cord.png",
+  "website": "https://cord.com/",
+  "docsUrl": "https://docs.cord.com"
+}

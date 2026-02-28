@@ -1,0 +1,13 @@
+{
+  "id": "gopher-leads",
+  "title": "Gopher Leads",
+  "subtitle": "Capture opportunities everywhere. Gopher Leads makes it easy and rewarding for your people to submit leads in seconds...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720283/catalog/gopher-leads/icon128x128.png",
+  "website": "https://gopherleads.com"
+}

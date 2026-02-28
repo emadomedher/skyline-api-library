@@ -1,0 +1,14 @@
+{
+  "id": "siftery-discover",
+  "title": "Siftery Discover",
+  "subtitle": "Share products your company uses and get personalized recommendations.",
+  "tags": [
+    "software-reviews",
+    "technographics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861276/catalog/siftery-discover/icon128x128.png",
+  "website": "https://www.siftery.com"
+}

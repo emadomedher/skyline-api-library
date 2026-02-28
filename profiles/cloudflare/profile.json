@@ -1,0 +1,15 @@
+{
+  "id": "cloudflare",
+  "title": "Cloudflare",
+  "subtitle": "Cloudflare, Inc. is an American web infrastructure and website security company that provides content delivery networ...",
+  "tags": [
+    "cdn-(content-delivery-network)",
+    "cloud-providers"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554327565/catalog/cloudflare/icon128x128.png",
+  "website": "https://www.cloudflare.com/",
+  "docsUrl": "https://developers.cloudflare.com/"
+}

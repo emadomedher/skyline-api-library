@@ -1,0 +1,13 @@
+{
+  "id": "wootric",
+  "title": "Wootric",
+  "subtitle": "Wootric collects and manages customer feedback using proven CX metrics (Net Promoter Score® (NPS), CSAT, and Customer...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306515/catalog/wootric/icon128x128.png",
+  "website": "https://www.wootric.com/"
+}

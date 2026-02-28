@@ -1,0 +1,14 @@
+{
+  "id": "unrollme",
+  "title": "Unroll.me",
+  "subtitle": "Clean up your inbox",
+  "tags": [
+    "email-management",
+    "newsletters"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861271/catalog/unrollme/icon128x128.png",
+  "website": "https://unroll.me"
+}

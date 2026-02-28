@@ -1,0 +1,13 @@
+{
+  "id": "bbva-co",
+  "title": "BBVA Colombia",
+  "subtitle": "BBVA Colombia (Banco Bilbao Vizcaya Argentaria) is a Colombian banking company, a subsidiary of the Spanish banking c...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591042210/catalog/bbva-co/icon128x128.png",
+  "website": "https://www.bbva.com.co/"
+}

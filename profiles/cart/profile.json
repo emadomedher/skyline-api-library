@@ -1,0 +1,13 @@
+{
+  "id": "cart",
+  "title": "Cart.com",
+  "subtitle": "Launch your online business with end-to-end ecommerce solutions, powerful features built-in, and seamless integration...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614898488/icons/cart.png",
+  "website": "https://www.cart.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bilin-technology",
+  "title": "Bilin Technology",
+  "subtitle": "Bilin Technology API integration",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719133/catalog/bilin-technology/icon128x128.jpg",
+  "website": "https://bilintechnology.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blockfi",
+  "title": "BlockFi",
+  "subtitle": " BlockFi provides the wealth management products crypto investors need, all powered by blockchain technology.",
+  "tags": [
+    "crypto",
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606882774/icons/blockfi.jpg",
+  "website": "https://blockfi.com/"
+}

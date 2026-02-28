@@ -1,0 +1,16 @@
+{
+  "id": "remoteok-io",
+  "title": "Remote OK",
+  "subtitle": "Remote OK API integration",
+  "tags": [
+    "job-marketplaces",
+    "job-boards",
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588348240/catalog/remoteok-io/icon128x128.png",
+  "website": "https://remoteok.io/",
+  "docsUrl": "https://remoteok.io/remote-jobs/84762-remote-freelance-ruby-on-rails-developer-toptal"
+}

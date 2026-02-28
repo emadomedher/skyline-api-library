@@ -1,0 +1,14 @@
+{
+  "id": "five9",
+  "title": "Five9",
+  "subtitle": "Five9 delivers the most trusted and reliable cloud contact center proven to unlock customer intelligence and insights...",
+  "tags": [
+    "call-analytics-and-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947001/catalog/five9/icon128x128.png",
+  "website": "https://five9.com",
+  "docsUrl": "https://www.five9.com/development"
+}

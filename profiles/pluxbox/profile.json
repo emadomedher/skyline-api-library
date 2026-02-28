@@ -1,0 +1,14 @@
+{
+  "id": "pluxbox",
+  "title": "Pluxbox",
+  "subtitle": "With Pluxbox, you can seamlessly integrate solutions into your organization’s wider digital ecosystem.",
+  "tags": [
+    "radio"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421357/icons/pluxbox.jpg",
+  "website": "https://pluxbox.com/",
+  "docsUrl": "https://pluxbox.com/developer"
+}

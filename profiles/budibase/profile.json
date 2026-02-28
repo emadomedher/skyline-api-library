@@ -1,0 +1,14 @@
+{
+  "id": "budibase",
+  "title": "Budibase",
+  "subtitle": "Budibase is a modern, open source low-code platform for building modern internal applications in minutes.",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642674116/icons/budibase.jpg",
+  "website": "https://budibase.com/",
+  "docsUrl": "https://docs.budibase.com"
+}

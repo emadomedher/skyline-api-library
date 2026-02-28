@@ -1,0 +1,13 @@
+{
+  "id": "streamlabs",
+  "title": "Streamlabs",
+  "subtitle": "Top streaming platform for Twitch, YouTube, & Facebook. Grow with cloud-based Streamlabs Open Broadcast Software (OBS...",
+  "tags": [
+    "live-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588389107/catalog/streamlabs/icon128x128.jpg",
+  "website": "https://streamlabs.com/"
+}

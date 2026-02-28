@@ -1,0 +1,13 @@
+{
+  "id": "opinion-stage",
+  "title": "Opinion Stage",
+  "subtitle": "Create quizzes, polls, surveys & more (8 interactive content formats). Boost engagement, Get qualified leads, Generat...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721374/catalog/opinion-stage/icon128x128.png",
+  "website": "https://opinionstage.com"
+}

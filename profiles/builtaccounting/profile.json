@@ -1,0 +1,14 @@
+{
+  "id": "builtaccounting",
+  "title": "Built Accounting",
+  "subtitle": "Built Accounting provides small businesses in Ghana with an accounting application to manage their accounts; tax supp...",
+  "tags": [
+    "cash-flow-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616460150/icons/builtaccounting.jpg",
+  "website": "https://builtaccounting.com/",
+  "docsUrl": "https://builtaccounting.com/accounting/documentation"
+}

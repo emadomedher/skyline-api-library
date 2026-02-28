@@ -1,0 +1,14 @@
+{
+  "id": "coveo",
+  "title": "Coveo",
+  "subtitle": "Coveo’s AI-powered search brings relevance to every interaction customers, partners and employees have with your orga...",
+  "tags": [
+    "search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284487/catalog/coveo/icon128x128.png",
+  "website": "https://coveo.com",
+  "docsUrl": "https://www.coveo.com/en#"
+}

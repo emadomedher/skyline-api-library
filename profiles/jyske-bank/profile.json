@@ -1,0 +1,13 @@
+{
+  "id": "jyske-bank",
+  "title": "Jyske Bank",
+  "subtitle": "Jyske Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608034332/icons/jyske-bank.webp",
+  "website": "https://jyskebank.com/"
+}

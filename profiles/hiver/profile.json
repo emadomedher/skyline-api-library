@@ -1,0 +1,15 @@
+{
+  "id": "hiver",
+  "title": "Hiver",
+  "subtitle": "Hiver is a tool that turns your Gmail into a simple, powerful collaboration tool.",
+  "tags": [
+    "team-collaboration",
+    "email",
+    "customer-support"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305128/catalog/hiver/icon128x128.png",
+  "website": "https://hiverhq.com/"
+}

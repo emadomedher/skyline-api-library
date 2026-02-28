@@ -1,0 +1,13 @@
+{
+  "id": "visme",
+  "title": "Visme",
+  "subtitle": "Make Professional Presentations & Infographics Online with Visme's amazingly simple free tool with 1000's of template...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827975/catalog/visme/icon128x128.jpg",
+  "website": "https://visme.co"
+}

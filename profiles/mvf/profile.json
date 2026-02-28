@@ -1,0 +1,13 @@
+{
+  "id": "mvf",
+  "title": "MVF",
+  "subtitle": "MVF API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436012/catalog/mvf/icon128x128.png",
+  "website": "https://mvfglobal.com"
+}

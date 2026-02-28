@@ -1,0 +1,13 @@
+{
+  "id": "coro-net",
+  "title": "Coro",
+  "subtitle": "Coro is an AI based cyber security software solution for businesses. Coro provides endpoint protection, and security ...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152910/icons/coro-net.png",
+  "website": "https://www.coro.net/"
+}

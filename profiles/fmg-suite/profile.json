@@ -1,0 +1,13 @@
+{
+  "id": "fmg-suite",
+  "title": "FMG Suite",
+  "subtitle": "Over 40,000 advisors rely on FMG Suite to help them stay connected, build relationships, and grow their business. Now...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826456/catalog/fmg-suite/icon128x128.jpg",
+  "website": "https://fmgsuite.com"
+}

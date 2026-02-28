@@ -1,0 +1,13 @@
+{
+  "id": "makespace",
+  "title": "MakeSpace",
+  "subtitle": "MakeSpace is full-service storage with pickup and delivery. Schedule appointments online and never visit a storage un...",
+  "tags": [
+    "storage-units"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638169954/icons/makespace.jpg",
+  "website": "https://makespace.com/"
+}

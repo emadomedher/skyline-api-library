@@ -1,0 +1,14 @@
+{
+  "id": "chargify",
+  "title": "Chargify",
+  "subtitle": "Chargify is the best online billing software for all of your Recurring Billing needs. Learn more about simplifying yo...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055835/catalog/chargify/icon128x128.png",
+  "website": "https://www.chargify.com/",
+  "docsUrl": "https://help.chargify.com"
+}

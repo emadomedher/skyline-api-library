@@ -1,0 +1,13 @@
+{
+  "id": "zonky-cz",
+  "title": "Zonky",
+  "subtitle": "Zonky is the largest peer-to-peer (P2P) lending company in the Czech Republic and a part of PFF Financial Holdings, a...",
+  "tags": [
+    "lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605266455/icons/zonky-cz.png",
+  "website": "https://zonky.cz/"
+}

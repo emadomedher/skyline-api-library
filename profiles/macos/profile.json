@@ -1,0 +1,12 @@
+{
+  "id": "macos",
+  "title": "macOS",
+  "subtitle": "macOS is a proprietary graphical operating system developed and marketed by Apple Inc. since 2001. It is the primary ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628808317/icons/macos.png"
+}

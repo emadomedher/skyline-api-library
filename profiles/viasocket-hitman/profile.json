@@ -1,0 +1,15 @@
+{
+  "id": "viasocket-hitman",
+  "title": "Hitman",
+  "subtitle": "API testing and documentation platform for your engineering team Get Hitman for Free A must-have tool for...",
+  "tags": [
+    "developer-docs",
+    "api-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656700582/icons/viasocket-hitman.jpg",
+  "website": "https://viasocket.com/hitman/",
+  "docsUrl": "https://viasocket.com/hitman"
+}

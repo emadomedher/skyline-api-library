@@ -1,0 +1,16 @@
+{
+  "id": "mockaroo",
+  "title": "Mockaroo",
+  "subtitle": "A free test data generator and API mocking tool - Mockaroo lets you create custom CSV, JSON, SQL, and Excel datasets ...",
+  "tags": [
+    "mocking",
+    "api-tooling",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571955924/catalog/mockaroo/icon128x128.png",
+  "website": "https://mockaroo.com/",
+  "docsUrl": "https://mockaroo.com/api/docs"
+}

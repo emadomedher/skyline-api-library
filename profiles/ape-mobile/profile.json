@@ -1,0 +1,12 @@
+{
+  "id": "ape-mobile",
+  "title": "APE Mobile",
+  "subtitle": "Automate your site paperwork with APE Mobile! Go paperless and simplify data capture & compliance ...because doing pa...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304410/catalog/ape-mobile/icon128x128.png"
+}

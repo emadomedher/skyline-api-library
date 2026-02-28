@@ -1,0 +1,13 @@
+{
+  "id": "mypaga",
+  "title": "Paga",
+  "subtitle": "Paga’s mission is to make it simple for people to access and use money. Paga is a leading payments and mobile money b...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796482/catalog/mypaga/icon128x128.jpg",
+  "website": "https://www.mypaga.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "asana",
+  "title": "Asana",
+  "subtitle": "Work anytime, anywhere with Asana. Keep remote and distributed teams, and your entire organization, focused on their ...",
+  "tags": [
+    "issue-tracking",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/icons/asana",
+  "website": "https://asana.com/welcome",
+  "docsUrl": "https://asana.com/developers"
+}

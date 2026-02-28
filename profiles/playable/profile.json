@@ -1,0 +1,13 @@
+{
+  "id": "playable",
+  "title": "Playable",
+  "subtitle": "Playable API integration",
+  "tags": [
+    "video-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963363/catalog/playable/icon128x128.png",
+  "website": "https://playable.video"
+}

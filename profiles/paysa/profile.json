@@ -1,0 +1,15 @@
+{
+  "id": "paysa",
+  "title": "Paysa",
+  "subtitle": "Paysa is a personalized career service for salary compensation and job matching for corporate employees.",
+  "tags": [
+    "hiring",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567415506/catalog/paysa/icon128x128.jpg",
+  "website": "https://www.paysa.com/",
+  "docsUrl": "https://www.paysa.com/salaries/full-stack-developer--t"
+}

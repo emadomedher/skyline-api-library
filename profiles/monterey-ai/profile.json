@@ -1,0 +1,14 @@
+{
+  "id": "monterey-ai",
+  "title": "Monterey AI",
+  "subtitle": "Crafting the new experience of collecting insights, writing specs, and delivering products.",
+  "tags": [
+    "product-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681320643/icons/monterey-ai.jpg",
+  "website": "https://www.monterey.ai/",
+  "docsUrl": "https://docs.google.com/document/d/e/2pacx-1vsqu1fvty4zqd8haajowyi5dhe1ol1gk2d6wn9c0hi3bavrcxs9lxmpgusti6cr0nqjntyycksv_vrx/pub"
+}

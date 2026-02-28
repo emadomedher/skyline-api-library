@@ -1,0 +1,15 @@
+{
+  "id": "carnival",
+  "title": "Carnival",
+  "subtitle": "Carnival cruise deals and cruise packages to the most popular destinations. Find great deals and specials on Caribbea...",
+  "tags": [
+    "cruise-lines",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433597/catalog/carnival/icon128x128.png",
+  "website": "https://carnival.com",
+  "docsUrl": "https://help.carnival.com/app/answers/category/~/travel-documentation-and-online-check-in/~/travel-documents/c/406"
+}

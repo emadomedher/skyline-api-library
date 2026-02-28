@@ -1,0 +1,15 @@
+{
+  "id": "keycloak-org",
+  "title": "Keycloak",
+  "subtitle": "Keycloak is an open source identity and access management solution",
+  "tags": [
+    "identity",
+    "open-source"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597482074/icons/keycloak-org.png",
+  "website": "https://www.keycloak.org/",
+  "docsUrl": "https://www.keycloak.org/documentation"
+}

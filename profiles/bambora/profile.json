@@ -1,0 +1,14 @@
+{
+  "id": "bambora",
+  "title": "Bambora",
+  "subtitle": "Bambora offers smooth payment solutions for stores & online businesses. Easy to use for both you and your customers. ...",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569813066/catalog/bambora/icon128x128.jpg",
+  "website": "https://www.bambora.com/",
+  "docsUrl": "https://dev.na.bambora.com/docs"
+}

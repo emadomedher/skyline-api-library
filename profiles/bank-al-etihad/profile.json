@@ -1,0 +1,13 @@
+{
+  "id": "bank-al-etihad",
+  "title": "Bank al Etihad",
+  "subtitle": "Explore our diverse range of personal and business banking services including bank accounts, credit cards, loans and ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571586490/catalog/bank-al-etihad/icon128x128.png",
+  "website": "https://bankaletihad.com"
+}

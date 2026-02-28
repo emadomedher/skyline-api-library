@@ -1,0 +1,13 @@
+{
+  "id": "cred-ai",
+  "title": "cred.ai",
+  "subtitle": "A premium cutting edge everyday spending experience, with exclusive features, metal card, automatic credit optimizati...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669498/icons/cred-ai.jpg",
+  "website": "https://cred.ai/"
+}

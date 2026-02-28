@@ -1,0 +1,13 @@
+{
+  "id": "augur",
+  "title": "Augur",
+  "subtitle": "Augur is a suite of APIs that powers device recognition for businesses of all sizes.",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719054/catalog/augur/icon128x128.jpg",
+  "website": "https://augur.io"
+}

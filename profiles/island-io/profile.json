@@ -1,0 +1,14 @@
+{
+  "id": "island-io",
+  "title": "Island",
+  "subtitle": "Introducing Island, The world’s first Enterprise Browser. Island looks, feels and behaves just like any Chromium-base...",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683570352/icons/island-io.jpg",
+  "website": "https://www.island.io/",
+  "docsUrl": "https://www.island.io/#"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pingidentity",
+  "title": "Ping Identity",
+  "subtitle": "Ping Identity frees the digital enterprise by providing secure access that enables the right people to access the rig...",
+  "tags": [
+    "identity",
+    "sso"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567123370/catalog/pingidentity/icon128x128.jpg",
+  "website": "https://www.pingidentity.com",
+  "docsUrl": "https://support.pingidentity.com/s/documentation"
+}

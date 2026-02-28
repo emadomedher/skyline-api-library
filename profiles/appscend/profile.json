@@ -1,0 +1,13 @@
+{
+  "id": "appscend",
+  "title": "Appscend",
+  "subtitle": "Appscend API integration",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947267/catalog/appscend/icon128x128.jpg",
+  "website": "https://appscend.com"
+}

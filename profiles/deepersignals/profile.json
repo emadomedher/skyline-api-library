@@ -1,0 +1,13 @@
+{
+  "id": "deepersignals",
+  "title": "Deeper Signals",
+  "subtitle": "Deeper Signals unlocks accurate, personal insights through innovative assessments that help grow individuals, build t...",
+  "tags": [
+    "assessment-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611195294/icons/deepersignals.jpg",
+  "website": "https://www.deepersignals.com/"
+}

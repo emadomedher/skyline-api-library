@@ -1,0 +1,13 @@
+{
+  "id": "filepounder",
+  "title": "FilePounder",
+  "subtitle": "FilePounder lets you connect to almost any application or service, and import, export, transform and process data bet...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589827523/catalog/filepounder/icon128x128.jpg",
+  "website": "https://www.filepounder.com/"
+}

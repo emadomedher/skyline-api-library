@@ -1,0 +1,16 @@
+{
+  "id": "density-io",
+  "title": "Density",
+  "subtitle": "Accurately and anonymously count people with Density's A.I. occupancy and space utilization analytics platform for bu...",
+  "tags": [
+    "computer-vision",
+    "iot",
+    "people-counting"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612012/catalog/density-io/icon128x128.jpg",
+  "website": "https://www.density.io/",
+  "docsUrl": "https://www.density.io/docs"
+}

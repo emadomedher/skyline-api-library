@@ -1,0 +1,14 @@
+{
+  "id": "joon-io",
+  "title": "JOON",
+  "subtitle": "JOON automates wellness reimbursements and eliminates all administrative headaches. Our platform covers every dimensi...",
+  "tags": [
+    "employee-benefits",
+    "wellness-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600516015/icons/joon-io.jpg",
+  "website": "https://joon.io/"
+}

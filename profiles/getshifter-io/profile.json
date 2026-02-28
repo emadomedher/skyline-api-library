@@ -1,0 +1,14 @@
+{
+  "id": "getshifter-io",
+  "title": "Shifter",
+  "subtitle": "The static site generator for WordPress.",
+  "tags": [
+    "static-site-generators",
+    "jamstack"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522283/icons/getshifter-io.jpg",
+  "website": "https://www.getshifter.io/"
+}

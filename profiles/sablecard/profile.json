@@ -1,0 +1,13 @@
+{
+  "id": "sablecard",
+  "title": "Sable",
+  "subtitle": "Sable is a digital banking platform and the only full-suite banking solution for internationals in the U.S., providin...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616597348/icons/sablecard.png",
+  "website": "https://www.sablecard.com/"
+}

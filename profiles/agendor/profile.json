@@ -1,0 +1,13 @@
+{
+  "id": "agendor",
+  "title": "Agendor",
+  "subtitle": "Agendor is a sales improvement platform with web and mobile version designed for Brazilian companies with long sales ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284431/catalog/agendor/icon128x128.png",
+  "website": "https://zapier.com/apps/agendor/integrations"
+}

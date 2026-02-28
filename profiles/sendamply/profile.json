@@ -1,0 +1,14 @@
+{
+  "id": "sendamply",
+  "title": "Amply",
+  "subtitle": "Amply is the only email delivery solution built on a powerful analytics engine to help developers and marketers seaml...",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614884409/icons/sendamply.jpg",
+  "website": "https://sendamply.com/",
+  "docsUrl": "https://docs.sendamply.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tala-co",
+  "title": "Tala",
+  "subtitle": "Tala API integration",
+  "tags": [
+    "lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566779166/catalog/tala-co/icon128x128.jpg",
+  "website": "https://tala.co/"
+}

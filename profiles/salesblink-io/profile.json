@@ -1,0 +1,13 @@
+{
+  "id": "salesblink-io",
+  "title": "SalesBlink",
+  "subtitle": "SalesBlink is a Cold Sales Outreach Automation Software that enables super fast prospecting, outreach and closing. Ac...",
+  "tags": [
+    "sales-engagement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528011/icons/salesblink-io.jpg",
+  "website": "https://salesblink.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "welocalize",
+  "title": "Welocalize",
+  "subtitle": "Welocalize delivers content solutions for translation, localization, adaptation, and machine automation to enable glo...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828024/catalog/welocalize/icon128x128.jpg",
+  "website": "https://welocalize.com"
+}

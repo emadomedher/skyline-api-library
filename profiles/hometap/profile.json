@@ -1,0 +1,13 @@
+{
+  "id": "hometap",
+  "title": "Hometap",
+  "subtitle": "Hometap provides homeowners with the ability to tap into their home’s value without monthly payments or having to tak...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566931687/catalog/hometap/icon128x128.png",
+  "website": "https://www.hometap.com/"
+}

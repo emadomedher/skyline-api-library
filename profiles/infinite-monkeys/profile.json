@@ -1,0 +1,13 @@
+{
+  "id": "infinite-monkeys",
+  "title": "Infinite Monkeys",
+  "subtitle": "Build your own apps for iPhone and Android with our drag and drop mobile app creator. Our video guides help you publi...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946918/catalog/infinite-monkeys/icon128x128.png",
+  "website": "https://infinitemonkeys.mobi"
+}

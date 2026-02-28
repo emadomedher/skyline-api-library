@@ -1,0 +1,15 @@
+{
+  "id": "ngrok",
+  "title": "ngrok",
+  "subtitle": "ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool",
+  "tags": [
+    "local-debugging",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630448377/icons/ngrok.png",
+  "website": "https://ngrok.com/",
+  "docsUrl": "https://ngrok.com/docs"
+}

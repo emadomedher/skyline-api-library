@@ -1,0 +1,14 @@
+{
+  "id": "nationwide",
+  "title": "Nationwide",
+  "subtitle": "Nationwide offers insurance, retirement and investing products that protect your many sides. Get home and auto insura...",
+  "tags": [
+    "insurance-providers",
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591803954/icons/nationwide.png",
+  "website": "https://www.nationwide.com/"
+}

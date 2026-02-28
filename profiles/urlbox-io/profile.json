@@ -1,0 +1,15 @@
+{
+  "id": "urlbox-io",
+  "title": "Urlbox.io",
+  "subtitle": "Capture a screenshot of any website with Urlbox.io's highly accurate website screenshot API. All you need is a URL.",
+  "tags": [
+    "screenshot-api",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605541319/icons/urlbox-io.jpg",
+  "website": "https://urlbox.io/",
+  "docsUrl": "https://urlbox.io/docs"
+}

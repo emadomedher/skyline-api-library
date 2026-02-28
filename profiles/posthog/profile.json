@@ -1,0 +1,14 @@
+{
+  "id": "posthog",
+  "title": "PostHog",
+  "subtitle": "Self-hosted product analytics stack, to deploy on your infrastructure.",
+  "tags": [
+    "product-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623808064/icons/posthog.jpg",
+  "website": "https://posthog.com/",
+  "docsUrl": "https://posthog.com/docs"
+}

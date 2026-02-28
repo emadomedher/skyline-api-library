@@ -1,0 +1,14 @@
+{
+  "id": "trypencil",
+  "title": "Pencil",
+  "subtitle": "Pencil is a Creative AI Platform used by the world's best brands and agencies. It generates performance ad copy and v...",
+  "tags": [
+    "ad-generation",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612402261/icons/trypencil.png",
+  "website": "https://www.trypencil.com/"
+}

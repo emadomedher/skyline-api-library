@@ -1,0 +1,14 @@
+{
+  "id": "circleci",
+  "title": "CircleCI",
+  "subtitle": "Get the best continuous integration and delivery platform for Linux, macOS, and Android, in the cloud or self-hosted.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562876583/catalog/circleci/icon128x128.png",
+  "website": "https://circleci.com",
+  "docsUrl": "https://circleci.com/docs"
+}

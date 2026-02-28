@@ -1,0 +1,13 @@
+{
+  "id": "commerce-sciences",
+  "title": "Commerce Sciences",
+  "subtitle": "Commerce Sciences API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433843/catalog/commerce-sciences/icon128x128.png",
+  "website": "https://commercesciences.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "spark-laravel",
+  "title": "Laravel Spark",
+  "subtitle": "Laravel Spark API integration",
+  "tags": [
+    "php"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566913634/catalog/spark-laravel/icon128x128.png",
+  "website": "https://spark.laravel.com",
+  "docsUrl": "https://spark.laravel.com/docs"
+}

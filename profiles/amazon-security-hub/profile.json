@@ -1,0 +1,13 @@
+{
+  "id": "amazon-security-hub",
+  "title": "AWS Security Hub",
+  "subtitle": "AWS Security Hub can automatically aggregate security findings data from supported AWS Partner Network (APN) security...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612025/catalog/amazon-security-hub/icon128x128.png",
+  "website": "https://aws.amazon.com/security-hub"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rabobank-nl",
+  "title": "Rabobank",
+  "subtitle": "De Rabobank is een bank zonder aandeelhouders. Dat is het idee van de coöperatie. Je kunt bij ons terecht voor al je ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563414773/catalog/rabobank-nl/icon128x128.jpg",
+  "website": "https://rabobank.nl"
+}

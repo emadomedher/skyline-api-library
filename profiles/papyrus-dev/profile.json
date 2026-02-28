@@ -1,0 +1,14 @@
+{
+  "id": "papyrus-dev",
+  "title": "Papyrus",
+  "subtitle": "Create a modern, beautiful, blazing-fast blog in seconds with Papyrus",
+  "tags": [
+    "blogging-platforms",
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628457047/icons/papyrus-dev.jpg",
+  "website": "https://papyrus.dev/"
+}

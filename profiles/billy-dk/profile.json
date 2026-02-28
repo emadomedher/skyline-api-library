@@ -1,0 +1,14 @@
+{
+  "id": "billy-dk",
+  "title": "Billy",
+  "subtitle": "Intuitive and easy to use - Danish accounting and bookkeeping software with an English interface. Try every feature w...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648737924/icons/billy-dk.jpg",
+  "website": "https://www.billy.dk/accounting-software/",
+  "docsUrl": "https://www.billy.dk/api/#resource-documentation"
+}

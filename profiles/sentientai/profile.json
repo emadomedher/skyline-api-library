@@ -1,0 +1,13 @@
+{
+  "id": "sentientai",
+  "title": "Sentient.AI",
+  "subtitle": "Sentient.AI API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962385/catalog/sentientai/icon128x128.png",
+  "website": "https://sentient.ai"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tradeshift",
+  "title": "Tradeshift",
+  "subtitle": "Tradeshift is a cloud based digital b2b network and platform for spend management that transforms the way companies b...",
+  "tags": [
+    "procure-to-pay",
+    "invoicing",
+    "b2b-network",
+    "supplier-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567376031/catalog/tradeshift/icon128x128.jpg",
+  "website": "https://tradeshift.com/",
+  "docsUrl": "https://developers.tradeshift.com"
+}

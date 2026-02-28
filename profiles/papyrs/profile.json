@@ -1,0 +1,13 @@
+{
+  "id": "papyrs",
+  "title": "Papyrs",
+  "subtitle": "Dream up your own intranet site or internal wiki with simple drag & drop. Easily share and collect information, files...",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305630/catalog/papyrs/icon128x128.png",
+  "website": "https://papyrs.com/"
+}

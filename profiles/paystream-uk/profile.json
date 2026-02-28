@@ -1,0 +1,13 @@
+{
+  "id": "paystream-uk",
+  "title": "PayStream",
+  "subtitle": "Looking for limited company accounting services or umbrella services designed for contractors? You've come to the rig...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581066513/catalog/paystream-uk/icon128x128.jpg",
+  "website": "https://www.paystream.co.uk/"
+}

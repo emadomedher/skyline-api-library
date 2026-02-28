@@ -1,0 +1,13 @@
+{
+  "id": "chase",
+  "title": "Chase",
+  "subtitle": "Chase online; credit cards, mortgages, commercial banking, auto loans, investing & retirement planning, checking and ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571960544/catalog/chase/icon128x128.jpg",
+  "website": "https://www.chase.com/"
+}

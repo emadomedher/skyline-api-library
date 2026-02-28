@@ -1,0 +1,14 @@
+{
+  "id": "sap-ariba",
+  "title": "SAP Ariba",
+  "subtitle": "Use Ariba Network and SAP Ariba procurement software to collaborate more effectively on contract management, financia...",
+  "tags": [
+    "procurement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662389184/icons/sap-ariba.jpg",
+  "website": "https://www.ariba.com/",
+  "docsUrl": "https://api.sap.com/package/SAPAribaOpenAPIs/rest"
+}

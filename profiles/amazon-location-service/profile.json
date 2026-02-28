@@ -1,0 +1,14 @@
+{
+  "id": "amazon-location-service",
+  "title": "Amazon Location Service",
+  "subtitle": "Add maps, places, search, geocoding, reverse geocoding, routing, tracking, and geofences to your applications with  A...",
+  "tags": [
+    "maps"
+  ],
+  "category": "Maps & Geolocation",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609719584/icons/amazon-location-service.jpg",
+  "website": "https://aws.amazon.com/location/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup"
+}

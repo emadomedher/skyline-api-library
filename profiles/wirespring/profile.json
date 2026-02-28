@@ -1,0 +1,13 @@
+{
+  "id": "wirespring",
+  "title": "Wirespring",
+  "subtitle": "Wirespring API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579208762/catalog/wirespring/icon128x128.png",
+  "website": "https://wirespring.com"
+}

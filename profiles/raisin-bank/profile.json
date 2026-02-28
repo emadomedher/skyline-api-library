@@ -1,0 +1,13 @@
+{
+  "id": "raisin-bank",
+  "title": "Raisin Bank",
+  "subtitle": "The partner bank for your business. Together, we develop next-generation financial services",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576016270/catalog/raisin-bank/icon128x128.png",
+  "website": "https://www.raisin.bank/"
+}

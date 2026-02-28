@@ -1,0 +1,15 @@
+{
+  "id": "gitbook",
+  "title": "GitBook",
+  "subtitle": "Share knowledge, boost your team's productivity and make your users happy.",
+  "tags": [
+    "knowledge-base",
+    "development"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564964176/catalog/gitbook/icon128x128.png",
+  "website": "https://gitbook.com",
+  "docsUrl": "https://docs.gitbook.com"
+}

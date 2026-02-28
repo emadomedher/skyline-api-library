@@ -1,0 +1,13 @@
+{
+  "id": "winbooks-on-web",
+  "title": "WinBooks on Web",
+  "subtitle": "WinBooks on Web API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572476103/catalog/winbooks-on-web/icon128x128.png",
+  "website": "https://www.winbooks.be"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "chainpoint-node",
+  "title": "Chainpoint Node",
+  "subtitle": "Connect your data and documents to the Bitcoin blockchain so anyone can verify their integrity and timestamp.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264769/catalog/chainpoint-node/icon128x128.png"
+}

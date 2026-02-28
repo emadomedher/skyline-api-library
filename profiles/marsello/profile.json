@@ -1,0 +1,13 @@
+{
+  "id": "marsello",
+  "title": "Marsello",
+  "subtitle": "Marsello does the hard work of intelligent marketing automation for you, \nhelping you sell more in-store and online. ...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721024/catalog/marsello/icon128x128.jpg",
+  "website": "https://marsello.com"
+}

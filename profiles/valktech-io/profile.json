@@ -1,0 +1,14 @@
+{
+  "id": "valktech-io",
+  "title": "VALK",
+  "subtitle": "Valk connects private markets, automates sales processes and creates secondary market platforms.",
+  "tags": [
+    "digital-transaction-platforms",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626026504/icons/valktech-io.jpg",
+  "website": "https://valktech.io/"
+}

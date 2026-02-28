@@ -1,0 +1,13 @@
+{
+  "id": "recart",
+  "title": "Recart",
+  "subtitle": "Recart lets online merchants forge automated customer connections and drive growth via conversational experiences. Se...",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436865/catalog/recart/icon128x128.png",
+  "website": "https://recart.com"
+}

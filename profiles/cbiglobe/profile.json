@@ -1,0 +1,14 @@
+{
+  "id": "cbiglobe",
+  "title": "CBI Globe",
+  "subtitle": "CBI Globe API integration",
+  "tags": [
+    "api-gateways",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327389/icons/cbiglobe.jpg",
+  "website": "https://www.cbiglobe.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "marketmuse",
+  "title": "MarketMuse",
+  "subtitle": "MarketMuse uses AI and machine learning to help you build content strategies, accelerate content creation, and inform...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826889/catalog/marketmuse/icon128x128.jpg",
+  "website": "https://marketmuse.com"
+}

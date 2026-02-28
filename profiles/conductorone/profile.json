@@ -1,0 +1,14 @@
+{
+  "id": "conductorone",
+  "title": "ConductorOne",
+  "subtitle": "ConductorOne is an early-stage company building the first identity orchestration and automation platform.",
+  "tags": [
+    "access-requests",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617634811/icons/conductorone.png",
+  "website": "https://www.conductorone.com/"
+}

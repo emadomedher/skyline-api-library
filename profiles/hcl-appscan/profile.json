@@ -1,0 +1,14 @@
+{
+  "id": "hcl-appscan",
+  "title": "HCL AppScan",
+  "subtitle": "HCL Software Site",
+  "tags": [
+    "security",
+    "application-security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567157310/catalog/hcl-appscan/icon128x128.png",
+  "website": "https://www.hcltechsw.com/wps/portal/products/appscan"
+}

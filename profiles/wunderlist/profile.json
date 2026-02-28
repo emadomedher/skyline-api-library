@@ -1,0 +1,14 @@
+{
+  "id": "wunderlist",
+  "title": "Wunderlist",
+  "subtitle": "Wunderlist is the easiest way to get stuff done. Whether you’re planning a holiday, sharing a shopping list with a pa...",
+  "tags": [
+    "to-do-lists",
+    "microsoft"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456115/catalog/wunderlist/icon128x128.png",
+  "website": "https://www.wunderlist.com/"
+}

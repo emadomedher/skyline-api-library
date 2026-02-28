@@ -1,0 +1,13 @@
+{
+  "id": "jepto",
+  "title": "Jepto",
+  "subtitle": "Work smarter with a digital assistant that automates tasks and analyses your data to generate insights. Give your Bus...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587218310/catalog/jepto/icon128x128.jpg",
+  "website": "https://www.jepto.com/"
+}

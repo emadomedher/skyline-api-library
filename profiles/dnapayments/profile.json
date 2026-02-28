@@ -1,0 +1,13 @@
+{
+  "id": "dnapayments",
+  "title": "DNA Payments. An intelligent payment ecosystem",
+  "subtitle": "DNA Payments is a new revolutionary player on the UK payments market. Being a newly set group of companies, DNA Payme...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618104295/icons/dnapayments.png",
+  "website": "https://dnapayments.com/"
+}

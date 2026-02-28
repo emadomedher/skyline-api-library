@@ -1,0 +1,13 @@
+{
+  "id": "getsteward",
+  "title": "Steward",
+  "subtitle": "Steward provides 100% accurate sales research, lead lists and custom market research. As a technology company, we're ...",
+  "tags": [
+    "sales-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573090466/catalog/getsteward/icon128x128.jpg",
+  "website": "https://getsteward.com/"
+}

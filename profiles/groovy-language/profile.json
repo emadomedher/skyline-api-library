@@ -1,0 +1,14 @@
+{
+  "id": "groovy-language",
+  "title": "Groovy Language",
+  "subtitle": "Groovy Language API integration",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603867690/icons/groovy-language.jpg",
+  "website": "http://groovy-lang.org/",
+  "docsUrl": "http://groovy-lang.org/documentation.html"
+}

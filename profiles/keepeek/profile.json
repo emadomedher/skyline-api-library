@@ -1,0 +1,13 @@
+{
+  "id": "keepeek",
+  "title": "Keepeek",
+  "subtitle": "Keepeek API integration",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720663/catalog/keepeek/icon128x128.png",
+  "website": "https://keepeek.com"
+}

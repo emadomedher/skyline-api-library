@@ -1,0 +1,13 @@
+{
+  "id": "meetrics",
+  "title": "Meetrics",
+  "subtitle": "Meetrics API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963608/catalog/meetrics/icon128x128.png",
+  "website": "https://Meetrics.com"
+}

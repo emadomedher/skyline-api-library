@@ -1,0 +1,13 @@
+{
+  "id": "grata",
+  "title": "Grata",
+  "subtitle": "Find private companies by strategic fit. Source proprietary deals, map markets, generate leads, run targeted campaign...",
+  "tags": [
+    "data-enrichment"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627571567/icons/grata.jpg",
+  "website": "https://grata.com/"
+}

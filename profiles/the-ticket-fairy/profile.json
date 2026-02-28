@@ -1,0 +1,13 @@
+{
+  "id": "the-ticket-fairy",
+  "title": "The Ticket Fairy",
+  "subtitle": "The Ticket Fairy API integration",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962138/catalog/the-ticket-fairy/icon128x128.png",
+  "website": "https://theticketfairy.com"
+}

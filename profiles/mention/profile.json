@@ -1,0 +1,13 @@
+{
+  "id": "mention",
+  "title": "Mention",
+  "subtitle": "Monitor any keyword in real-time and receive filtered, organized and prioritized information",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554166884/catalog/mention/icon128x128.jpg",
+  "website": "https://mention.com/en/"
+}

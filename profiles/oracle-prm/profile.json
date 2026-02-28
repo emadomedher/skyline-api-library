@@ -1,0 +1,13 @@
+{
+  "id": "oracle-prm",
+  "title": "Oracle PRM",
+  "subtitle": "Oracle PRM API integration",
+  "tags": [
+    "partner-relationship-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792159/icons/oracle-prm.jpg",
+  "website": "http://www.oracle.com/us/products/applications/peoplesoft-enterprise/crm/053261.html"
+}

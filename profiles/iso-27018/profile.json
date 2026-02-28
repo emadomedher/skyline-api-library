@@ -1,0 +1,16 @@
+{
+  "id": "iso-27018",
+  "title": "ISO/IEC 27018",
+  "subtitle": "Information technology — Security techniques — Code of practice for protection of personally identifiable information...",
+  "tags": [
+    "compliance",
+    "information-standards",
+    "information-security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089342/icons/iso-27018.jpg",
+  "website": "https://www.iso.org/standard/76559.html",
+  "docsUrl": "https://www.iso.org/files/live/sites/isoorg/files/developing_standards/docs/en/stage_codes.pdf"
+}

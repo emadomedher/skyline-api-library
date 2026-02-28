@@ -1,0 +1,13 @@
+{
+  "id": "welink",
+  "title": "WeLink",
+  "subtitle": "Coming to an area near you! We use a patented wireless system to deliver the Internet straight to your home at unhear...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961957/catalog/welink/icon128x128.png",
+  "website": "https://welink.com"
+}

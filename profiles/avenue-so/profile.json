@@ -1,0 +1,13 @@
+{
+  "id": "avenue-so",
+  "title": "Avenue",
+  "subtitle": "A simple way to set up alerts and processes from your database or data warehouse",
+  "tags": [
+    "incident-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686735646/icons/avenue-so.jpg",
+  "website": "https://avenue.so/"
+}

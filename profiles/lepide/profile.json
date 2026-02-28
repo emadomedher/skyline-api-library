@@ -1,0 +1,14 @@
+{
+  "id": "lepide",
+  "title": "Lepide",
+  "subtitle": "Modernize your cybersecurity with our complete data security solution for enterprises looking to detect insider threa...",
+  "tags": [
+    "data-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625561018/icons/lepide.jpg",
+  "website": "https://www.lepide.com/",
+  "docsUrl": "https://www.lepide.com/documentation-center.html"
+}

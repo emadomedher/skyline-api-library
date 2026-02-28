@@ -1,0 +1,15 @@
+{
+  "id": "mux",
+  "title": "Mux",
+  "subtitle": "Mux is video infrastructure built by the experts. Take any video file or live stream and make it play beautifully at ...",
+  "tags": [
+    "video",
+    "api"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565192870/catalog/mux/icon128x128.jpg",
+  "website": "https://mux.com",
+  "docsUrl": "https://mux.com/#"
+}

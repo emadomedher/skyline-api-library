@@ -1,0 +1,14 @@
+{
+  "id": "snapcall-io",
+  "title": "SnapCall",
+  "subtitle": "SnapCall API integration",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576775040/catalog/snapcall-io/icon128x128.jpg",
+  "website": "https://snapcall.io/",
+  "docsUrl": "https://doc.snapcall.io"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "act-premium",
+  "title": "Act! Premium",
+  "subtitle": "Collaborate with your team to stay up-to-date on the latest contacts and automate best practice sales processes.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304344/catalog/act-premium/icon128x128.png"
+}

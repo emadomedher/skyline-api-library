@@ -1,0 +1,13 @@
+{
+  "id": "agilone",
+  "title": "AgilOne",
+  "subtitle": "Want to unleash the power of your customer data? Learn about AgilOne's enterprise B2C customer data platform, service...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947300/catalog/agilone/icon128x128.png",
+  "website": "https://agilone.com"
+}

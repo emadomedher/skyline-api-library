@@ -1,0 +1,14 @@
+{
+  "id": "flixed-io",
+  "title": "Flixed",
+  "subtitle": "Get matched to the best cable replacements in minutes. Discover new ways to watch the movies, shows, and content you ...",
+  "tags": [
+    "streaming-data-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660775651/icons/flixed-io.jpg",
+  "website": "https://flixed.io/",
+  "docsUrl": "https://flixed.io/cookie-policy-eu/#cmplz-manage-consent-container"
+}

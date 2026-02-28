@@ -1,0 +1,13 @@
+{
+  "id": "involved-media",
+  "title": "iNvolved Media",
+  "subtitle": "iNvolved Media API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435228/catalog/involved-media/icon128x128.png",
+  "website": "https://involvedmedia.com"
+}

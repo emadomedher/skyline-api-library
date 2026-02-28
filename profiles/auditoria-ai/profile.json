@@ -1,0 +1,14 @@
+{
+  "id": "auditoria-ai",
+  "title": "Auditoria.AI",
+  "subtitle": "Auditoria's AI-based finance automation increases the speed, accuracy, & productivity of teams to automate, analyze, ...",
+  "tags": [
+    "cash-flow-management",
+    "cfo"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610797946/icons/auditoria-ai.png",
+  "website": "https://www.auditoria.ai/"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "vonage",
+  "title": "Vonage",
+  "subtitle": "Vonage offers flexible and scalable voice, messaging, video and data capabilities across Unified Communications, Cont...",
+  "tags": [
+    "unified-communications",
+    "voip",
+    "unified-communications-as-a-service",
+    "sms"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588083015/catalog/vonage/icon128x128.jpg",
+  "website": "https://www.vonage.com/",
+  "docsUrl": "https://www.vonage.com/developer-center/"
+}

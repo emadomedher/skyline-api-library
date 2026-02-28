@@ -1,0 +1,16 @@
+{
+  "id": "planetscale",
+  "title": "PlanetScale",
+  "subtitle": "The Database for Developers",
+  "tags": [
+    "serverless",
+    "databases",
+    "serverless-databases"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625190940/icons/planetscale.jpg",
+  "website": "https://www.planetscale.com/",
+  "docsUrl": "https://docs.planetscale.com"
+}

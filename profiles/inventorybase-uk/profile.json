@@ -1,0 +1,15 @@
+{
+  "id": "inventorybase-uk",
+  "title": "InventoryBase",
+  "subtitle": "The most advanced Property Inventory Software and Property Inspection App on the market. Create professional, detaile...",
+  "tags": [
+    "inspection",
+    "property-inventory",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302472/icons/inventorybase-uk.jpg",
+  "website": "https://inventorybase.co.uk/"
+}

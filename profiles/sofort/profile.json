@@ -1,0 +1,14 @@
+{
+  "id": "sofort",
+  "title": "SOFORT",
+  "subtitle": "SOFORT banking is a payment method that is available in 8 European countries and highly popular in Germany. The payme...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509290/catalog/sofort/icon128x128.png",
+  "website": "https://www.sofort.com",
+  "docsUrl": "https://developers.klarna.com"
+}

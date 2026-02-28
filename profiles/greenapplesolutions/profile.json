@@ -1,0 +1,14 @@
+{
+  "id": "greenapplesolutions",
+  "title": "Green Apple Solutions",
+  "subtitle": "Green Apple Solutions API integration",
+  "tags": [
+    "software-engineering-services",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602198688/icons/greenapplesolutions.png",
+  "website": "https://www.greenapplesolutions.com/"
+}

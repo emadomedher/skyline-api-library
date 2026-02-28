@@ -1,0 +1,14 @@
+{
+  "id": "smartlook",
+  "title": "Smartlook",
+  "subtitle": "Smartlook is a free and intuitive product analytics tool for websites and mobile apps. Visitor recordings, heatmaps, ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946571/catalog/smartlook/icon128x128.jpg",
+  "website": "https://smartlook.com",
+  "docsUrl": "https://developer.smartlook.com/"
+}

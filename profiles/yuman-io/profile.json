@@ -1,0 +1,15 @@
+{
+  "id": "yuman-io",
+  "title": "Yuman",
+  "subtitle": "Yuman supports you in managing your interventions and maintenance. A mobile, up-to-date and easy-to-use CMMS.",
+  "tags": [
+    "maintenance-management",
+    "computerized-maintenance-management-systems",
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583982028/catalog/yuman-io/icon128x128.png",
+  "website": "https://www.yuman.io/"
+}

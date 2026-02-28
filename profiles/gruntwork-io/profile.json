@@ -1,0 +1,15 @@
+{
+  "id": "gruntwork-io",
+  "title": "Gruntwork",
+  "subtitle": "                            Your entire infrastructure.        Defined as code. In about a day.        We get you run...",
+  "tags": [
+    "devops",
+    "infrastructure-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625685071/icons/gruntwork-io.jpg",
+  "website": "https://gruntwork.io/",
+  "docsUrl": "https://gruntwork.io/legal"
+}

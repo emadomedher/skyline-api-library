@@ -1,0 +1,12 @@
+{
+  "id": "pdffiller",
+  "title": "PDFfiller",
+  "subtitle": "PDFfiller is an online PDF editor, form builder and eSignature solution that makes it fast, easy and secure to manage...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305649/catalog/pdffiller/icon128x128.png"
+}

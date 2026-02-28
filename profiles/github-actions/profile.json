@@ -1,0 +1,15 @@
+{
+  "id": "github-actions",
+  "title": "GitHub Actions",
+  "subtitle": "GitHub is where people build software. More than 56 million people use GitHub to discover, fork, and contribute to ov...",
+  "tags": [
+    "continuous-integration",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615490863/icons/github-actions.png",
+  "website": "https://github.com/features/actions",
+  "docsUrl": "https://docs.github.com/en/rest/reference/actions"
+}

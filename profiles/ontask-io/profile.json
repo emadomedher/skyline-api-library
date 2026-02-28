@@ -1,0 +1,14 @@
+{
+  "id": "ontask-io",
+  "title": "OnTask",
+  "subtitle": "OnTask offers workflow automation solutions that quickly turn paper-based forms & documents into digital workflows. S...",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631974038/icons/ontask-io.jpg",
+  "website": "https://www.ontask.io/",
+  "docsUrl": "https://docs.ontask.io/#overview"
+}

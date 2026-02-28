@@ -1,0 +1,13 @@
+{
+  "id": "guru",
+  "title": "Guru",
+  "subtitle": "Guru is the world’s first revenue empowerment network. Say goodbye to legacy knowledge management and siloed sales en...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826547/catalog/guru/icon128x128.png",
+  "website": "https://getguru.com"
+}

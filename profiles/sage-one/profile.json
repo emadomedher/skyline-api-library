@@ -1,0 +1,14 @@
+{
+  "id": "sage-one",
+  "title": "Sage One",
+  "subtitle": "Sage One is a family of online accounting and business services for small businesses.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548122142/catalog/sage-one/icon128x128.png",
+  "website": "https://www.sageone.com/",
+  "docsUrl": "https://developer.sage.com/api/accounting/"
+}

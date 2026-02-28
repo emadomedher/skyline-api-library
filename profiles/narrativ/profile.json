@@ -1,0 +1,13 @@
+{
+  "id": "narrativ",
+  "title": "Narrativ",
+  "subtitle": "Narrativ is a ML platform that connects products with all of the content \ncreated about them to answer retail's trill...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436047/catalog/narrativ/icon128x128.png",
+  "website": "https://narrativ.com"
+}

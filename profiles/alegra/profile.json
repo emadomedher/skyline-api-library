@@ -1,0 +1,12 @@
+{
+  "id": "alegra",
+  "title": "Alegra",
+  "subtitle": "Alegra is an accounting and billing app designed for Latin American managers.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304388/catalog/alegra/icon128x128.png"
+}

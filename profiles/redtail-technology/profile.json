@@ -1,0 +1,13 @@
+{
+  "id": "redtail-technology",
+  "title": "Redtail Technology",
+  "subtitle": "Redtail Technology API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775549/catalog/redtail-technology/icon128x128.jpg",
+  "website": "https://corporate.redtailtechnology.com"
+}

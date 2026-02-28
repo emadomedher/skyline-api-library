@@ -1,0 +1,14 @@
+{
+  "id": "yabble",
+  "title": "Yabble",
+  "subtitle": "Yabble API integration",
+  "tags": [
+    "data-analysis",
+    "bi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687293158/icons/yabble.png",
+  "website": "https://www.yabble.com/"
+}

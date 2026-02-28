@@ -1,0 +1,15 @@
+{
+  "id": "usehelo",
+  "title": "HELO",
+  "subtitle": "HELO is the swiss-army-knife of local email testing and debugging. Catch and review local emails without digging thro...",
+  "tags": [
+    "email",
+    "email-testing",
+    "testing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587504254/catalog/usehelo/icon128x128.jpg",
+  "website": "https://usehelo.com/"
+}

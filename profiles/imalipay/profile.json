@@ -1,0 +1,13 @@
+{
+  "id": "imalipay",
+  "title": "ImaliPay",
+  "subtitle": "ImaliPay API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093484/icons/imalipay.png",
+  "website": "https://www.imalipay.com/"
+}

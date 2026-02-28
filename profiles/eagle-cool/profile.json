@@ -1,0 +1,13 @@
+{
+  "id": "eagle-cool",
+  "title": "Eagle",
+  "subtitle": "Unify your creative inspiration in one place. Store anything – inspiring images, design mockups, illustrations, scree...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566654298/catalog/eagle-cool/icon128x128.png",
+  "website": "https://eagle.cool"
+}

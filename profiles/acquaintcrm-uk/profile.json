@@ -1,0 +1,15 @@
+{
+  "id": "acquaintcrm-uk",
+  "title": "Acquaint CRM",
+  "subtitle": "Lettings Software & Property Management for Letting Agents, Sales Software for Estate Agents, Websites - Acquaint is ...",
+  "tags": [
+    "crm",
+    "proptech",
+    "estate-agency"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302491/icons/acquaintcrm-uk.png",
+  "website": "https://www.acquaintcrm.co.uk/"
+}

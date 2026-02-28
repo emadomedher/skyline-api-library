@@ -1,0 +1,14 @@
+{
+  "id": "sage-business-cloud-accounting",
+  "title": "Sage Business Cloud Accounting",
+  "subtitle": "Take control of your business finances with Sage Business Cloud Accounting software. Find out about our online busine...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885610/icons/sage-business-cloud-accounting.jpg",
+  "website": "https://www.sage.com/en-za/sage-business-cloud/accounting/",
+  "docsUrl": "https://developer.sage.com/"
+}

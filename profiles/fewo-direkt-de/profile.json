@@ -1,0 +1,14 @@
+{
+  "id": "fewo-direkt-de",
+  "title": "Fewo",
+  "subtitle": "Finden Sie Ihr ideales Ferienhaus bei FeWo-direkt - Marktführer im Bereich Ferienwohnungen. ✓2+ Mio. Ferienhäuser wel...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612634787/icons/fewo-direkt-de.jpg",
+  "website": "https://www.fewo-direkt.de/"
+}

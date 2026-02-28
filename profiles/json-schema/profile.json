@@ -1,0 +1,14 @@
+{
+  "id": "json-schema",
+  "title": "JSON Schema",
+  "subtitle": "JSON Schema is a vocabulary that allows you to annotate and validate JSON documents. Advantages. JSON Schema. Describ...",
+  "tags": [
+    "developer-tools",
+    "json"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613093550/icons/json-schema.png",
+  "website": "https://json-schema.org/"
+}

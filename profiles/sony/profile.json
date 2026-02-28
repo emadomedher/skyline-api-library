@@ -1,0 +1,15 @@
+{
+  "id": "sony",
+  "title": "Sony",
+  "subtitle": "See everything new from the world of Sony USA—including electronics, PlayStation, movies, music and TV shows—plus fin...",
+  "tags": [
+    "electronics",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602003074/icons/sony.jpg",
+  "website": "https://www.sony.com/",
+  "docsUrl": "https://esupport.sony.com/us/p/select-system.pl?director=docs"
+}

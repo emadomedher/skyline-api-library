@@ -1,0 +1,14 @@
+{
+  "id": "checkmarket",
+  "title": "CheckMarket",
+  "subtitle": "Create beautiful surveys with our powerful online survey tool and professional services. Unlimited users, free suppor...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304601/catalog/checkmarket/icon128x128.png",
+  "website": "https://www.checkmarket.com/",
+  "docsUrl": "https://api.checkmarket.com"
+}

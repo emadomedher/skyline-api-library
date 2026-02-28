@@ -1,0 +1,14 @@
+{
+  "id": "rollbar",
+  "title": "Rollbar",
+  "subtitle": "Rollbar provides real-time error tracking & debugging tools for developers.  JavaScript, PHP, Ruby, Python, Node.js, ...",
+  "tags": [
+    "bug-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565390186/catalog/rollbar/icon128x128.jpg",
+  "website": "https://rollbar.com",
+  "docsUrl": "https://docs.rollbar.com"
+}

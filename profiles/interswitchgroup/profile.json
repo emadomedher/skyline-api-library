@@ -1,0 +1,14 @@
+{
+  "id": "interswitchgroup",
+  "title": "Interswitch Group",
+  "subtitle": "Interswitch - Electronic Payment and Digital Commerce Solutions.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660849075/icons/interswitchgroup.png",
+  "website": "https://interswitchgroup.com/",
+  "docsUrl": "https://developer.interswitchgroup.com"
+}

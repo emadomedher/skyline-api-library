@@ -1,0 +1,13 @@
+{
+  "id": "measurematch",
+  "title": "MeasureMatch",
+  "subtitle": "MeasureMatch is the on-demand marketplace and partner growth platform to buy, sell & scale professional services that...",
+  "tags": [
+    "partner-ecosystem"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644373005/icons/measurematch.jpg",
+  "website": "https://web.measurematch.com/"
+}

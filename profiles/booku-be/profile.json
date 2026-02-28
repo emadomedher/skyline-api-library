@@ -1,0 +1,13 @@
+{
+  "id": "booku-be",
+  "title": "Book'u",
+  "subtitle": "Is jouw personeelsplanning en -administratie té complex en tijdrovend? Book'u maakt het simpel, overzichtelijk en gea...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912840/icons/booku-be.png",
+  "website": "https://www.booku.be/"
+}

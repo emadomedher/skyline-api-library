@@ -1,0 +1,14 @@
+{
+  "id": "firefox-relay",
+  "title": "Firefox Relay",
+  "subtitle": "Firefox Relay makes it easy to create email aliases, aliases that forward to your real inbox. Use it to protect your ...",
+  "tags": [
+    "privacy",
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595888844/icons/firefox-relay.jpg",
+  "website": "https://relay.firefox.com/"
+}

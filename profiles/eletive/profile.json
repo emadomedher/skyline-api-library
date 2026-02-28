@@ -1,0 +1,13 @@
+{
+  "id": "eletive",
+  "title": "Eletive",
+  "subtitle": "Build a workplace where people thrive. Help your people succeed and build a culture of employee engagement, high perf...",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1695109196/icons/eletive.jpg",
+  "website": "https://eletive.com/"
+}

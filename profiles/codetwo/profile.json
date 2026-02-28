@@ -1,0 +1,13 @@
+{
+  "id": "codetwo",
+  "title": "CodeTwo Software",
+  "subtitle": "The world of solutions for Exchange Server, Office 365 and Outlook. Check out our Windows-certified applications for ...",
+  "tags": [
+    "email-signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574295583/catalog/codetwo/icon128x128.jpg",
+  "website": "https://www.codetwo.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jinfonet",
+  "title": "Jinfonet",
+  "subtitle": "Business Intelligence and Analytics Software that integrates into your applications. See the most powerful and reliab...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720607/catalog/jinfonet/icon128x128.png",
+  "website": "https://jinfonet.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hungrypanda-co",
+  "title": "HungryPanda",
+  "subtitle": "Headquartered in London, the UK, HungryPanda is a specialist food delivery platform to providing authentic Chinese fo...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606833882/icons/hungrypanda-co.png",
+  "website": "https://www.hungrypanda.co/"
+}

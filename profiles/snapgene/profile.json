@@ -1,0 +1,15 @@
+{
+  "id": "snapgene",
+  "title": "SnapGene",
+  "subtitle": "SnapGene offers the fastest and easiest way to plan, visualize, and document DNA cloning and PCR. You can easily anno...",
+  "tags": [
+    "biotech",
+    "molecular-cloning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471932/icons/snapgene.png",
+  "website": "https://www.snapgene.com/",
+  "docsUrl": "https://www.snapgene.com/features/#configured-for-automatic-documentation-and-easy-data-exchange"
+}

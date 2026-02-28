@@ -1,0 +1,13 @@
+{
+  "id": "fabl",
+  "title": "Fabl",
+  "subtitle": "Fabl — elevate your story",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947020/catalog/fabl/icon128x128.jpg",
+  "website": "https://fabl.co"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "paymob",
+  "title": "Paymob",
+  "subtitle": "Paymob runs millions of transactions for different business sizes across the Middle East and Africa. Start using Paym...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074595/icons/paymob.png",
+  "website": "https://paymob.com/",
+  "docsUrl": "https://docs.paymob.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "visa-direct",
+  "title": "Visa Direct",
+  "subtitle": "Visa Direct is a payments platform enabling near real-time fund transferring domestically and internationally. Visa D...",
+  "tags": [
+    "real-time-push-payments",
+    "real-time-payments",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589737985/catalog/visa-direct/icon128x128.jpg",
+  "website": "https://usa.visa.com/run-your-business/visa-direct.html"
+}

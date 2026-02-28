@@ -1,0 +1,14 @@
+{
+  "id": "virtuemart-net",
+  "title": "VirtueMart",
+  "subtitle": "VirtueMart: Free e-commerce solution for the people; Free online shop",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573149892/catalog/virtuemart-net/icon128x128.png",
+  "website": "https://www.virtuemart.net/",
+  "docsUrl": "https://dev.virtuemart.net"
+}

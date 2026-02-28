@@ -1,0 +1,13 @@
+{
+  "id": "guidebook",
+  "title": "Guidebook",
+  "subtitle": "Easily build mobile apps for events, enterprises, colleges and universities with Guidebook's software.",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720301/catalog/guidebook/icon128x128.jpg",
+  "website": "https://guidebook.com"
+}

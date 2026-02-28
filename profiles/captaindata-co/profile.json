@@ -1,0 +1,14 @@
+{
+  "id": "captaindata-co",
+  "title": "Captain Data",
+  "subtitle": "Captain Data extracts data from websites and automates workflows. Our web scraping SaaS gives you access to unlimited...",
+  "tags": [
+    "web-scraping"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566940664/catalog/captaindata-co/icon128x128.jpg",
+  "website": "https://captaindata.co/",
+  "docsUrl": "https://developers.captaindata.co"
+}

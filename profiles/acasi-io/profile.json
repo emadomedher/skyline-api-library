@@ -1,0 +1,13 @@
+{
+  "id": "acasi-io",
+  "title": "Acasi",
+  "subtitle": "Acasi simplifie la vie des freelances & indépendants avec une solution digitale unique : coach dédié et spécialisé (o...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796514/catalog/acasi-io/icon128x128.jpg",
+  "website": "https://www.acasi.io/"
+}

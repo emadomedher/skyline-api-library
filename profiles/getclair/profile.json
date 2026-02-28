@@ -1,0 +1,13 @@
+{
+  "id": "getclair",
+  "title": "Clair",
+  "subtitle": "Clair is breaking the paycheck-to-paycheck cycle by giving America's workforce the freedom to choose when they get pa...",
+  "tags": [
+    "payday"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663261394/icons/getclair.jpg",
+  "website": "https://getclair.com/"
+}

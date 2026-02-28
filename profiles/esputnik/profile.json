@@ -1,0 +1,13 @@
+{
+  "id": "esputnik",
+  "title": "eSputnik",
+  "subtitle": "ESputnik is a marketing automation service made to embody the toughest ideas of enterprise level solutions in very cl...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304867/catalog/esputnik/icon128x128.png",
+  "website": "https://esputnik.com"
+}

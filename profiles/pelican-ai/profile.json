@@ -1,0 +1,13 @@
+{
+  "id": "pelican-ai",
+  "title": "Pelican",
+  "subtitle": "25 years of expertise in AI technology. Providing solutions like instant payment, open banking & help clients maintai...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622407930/icons/pelican-ai.jpg",
+  "website": "https://www.pelican.ai/"
+}

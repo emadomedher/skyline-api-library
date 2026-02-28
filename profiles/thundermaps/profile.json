@@ -1,0 +1,12 @@
+{
+  "id": "thundermaps",
+  "title": "ThunderMaps",
+  "subtitle": "ThunderMaps is location-aware mobile form software for web and mobile devices. We help businesses easily collect and ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306324/catalog/thundermaps/icon128x128.png"
+}

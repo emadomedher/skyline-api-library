@@ -1,0 +1,13 @@
+{
+  "id": "clicktools",
+  "title": "Clicktools",
+  "subtitle": "Create engaging customer surveys with Clicktools that map responses directly into Salesforce. Clicktools' customer fe...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719475/catalog/clicktools/icon128x128.jpg",
+  "website": "https://clicktools.com"
+}

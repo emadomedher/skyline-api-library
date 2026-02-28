@@ -1,0 +1,14 @@
+{
+  "id": "datarobot",
+  "title": "DataRobot",
+  "subtitle": "DataRobot's automated machine learning platform makes it fast and easy to build and deploy accurate predictive models...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564776969/catalog/datarobot/icon128x128.jpg",
+  "website": "https://datarobot.com",
+  "docsUrl": "https://www.datarobot.com/software-engineers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "smarterme",
+  "title": "SmarterMe",
+  "subtitle": "SmarterMe is an intelligent native mobile app acting as Command Centre for Sales when coupled with Salesforce. It hel...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946574/catalog/smarterme/icon128x128.png",
+  "website": "https://smartermeapp.com"
+}

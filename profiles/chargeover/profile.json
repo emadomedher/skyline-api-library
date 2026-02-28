@@ -1,0 +1,14 @@
+{
+  "id": "chargeover",
+  "title": "ChargeOver",
+  "subtitle": "Recurring Billing Software & Subscription Billing - ChargeOver. See revenue grow & get paid faster with our easy to u...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304584/catalog/chargeover/icon128x128.png",
+  "website": "https://chargeover.com/",
+  "docsUrl": "https://help.chargeover.com"
+}

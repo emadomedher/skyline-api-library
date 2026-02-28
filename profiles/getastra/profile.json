@@ -1,0 +1,14 @@
+{
+  "id": "getastra",
+  "title": "ASTRA",
+  "subtitle": "Intelligent Firewall that protects your website against hackers. Easy to use, rock-solid & affordable website securit...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626428658/icons/getastra.png",
+  "website": "https://www.getastra.com/",
+  "docsUrl": "https://www.getastra.com/kb/documentation/data-protection/gdpr"
+}

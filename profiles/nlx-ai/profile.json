@@ -1,0 +1,13 @@
+{
+  "id": "nlx-ai",
+  "title": "NLX",
+  "subtitle": "NLX conversational self-service automation combines the best of AI and the best of the human support experience, empo...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556209/icons/nlx-ai.jpg",
+  "website": "https://nlx.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "passle",
+  "title": "Passle",
+  "subtitle": "Passle is a sales and marketing platform which helps your busy experts create timely, engaging content to drive your ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827158/catalog/passle/icon128x128.png",
+  "website": "https://passle.net"
+}

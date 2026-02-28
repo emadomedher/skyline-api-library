@@ -1,0 +1,14 @@
+{
+  "id": "signum-ai",
+  "title": "Signum.ai",
+  "subtitle": "Subscribe to our mailing and every two weeks we will send you a report with information on hot products, markets, com...",
+  "tags": [
+    "trends",
+    "market-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577622021/catalog/signum-ai/icon128x128.jpg",
+  "website": "https://signum.ai/"
+}

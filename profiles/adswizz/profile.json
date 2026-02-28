@@ -1,0 +1,13 @@
+{
+  "id": "adswizz",
+  "title": "AdsWizz",
+  "subtitle": "Digital audio advertising experts providing programmatic audio advertising for advertisers and publishers via server-...",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964409/catalog/adswizz/icon128x128.png",
+  "website": "https://adswizz.com"
+}

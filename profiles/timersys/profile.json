@@ -1,0 +1,14 @@
+{
+  "id": "timersys",
+  "title": "Timersys",
+  "subtitle": "We Love Wordpress! We develop custom Wordpress themes and plugins four our clients and for the community.",
+  "tags": [
+    "wordpress-developers",
+    "wordpress"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623548938/icons/timersys.jpg",
+  "website": "https://timersys.com/"
+}

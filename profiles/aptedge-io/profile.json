@@ -1,0 +1,13 @@
+{
+  "id": "aptedge-io",
+  "title": "AptEdge",
+  "subtitle": "Simplified CX while reducing tickets and cost through AI-Driven Knowledge Orchestration. Turn disparate knowledge sys...",
+  "tags": [
+    "customer-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676335618/icons/aptedge-io.jpg",
+  "website": "https://www.aptedge.io/"
+}

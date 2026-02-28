@@ -1,0 +1,13 @@
+{
+  "id": "youzign",
+  "title": "Youzign",
+  "subtitle": "Youzign is an easy to use design app that lets you create any design you need, including social media graphics, ebook...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438600/catalog/youzign/icon128x128.png",
+  "website": "https://youzign.com"
+}

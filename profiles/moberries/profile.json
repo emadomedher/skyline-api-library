@@ -1,0 +1,14 @@
+{
+  "id": "moberries",
+  "title": "MoBerries",
+  "subtitle": "MoBerries for Candidates: Find your next Job on MoBerries ✅ Fast, easy & 100% free ✅ Simply upload your CV ✅ No cover...",
+  "tags": [
+    "job-marketplace",
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586953421/catalog/moberries/icon128x128.jpg",
+  "website": "https://www.moberries.com/"
+}

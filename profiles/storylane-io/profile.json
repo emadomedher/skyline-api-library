@@ -1,0 +1,13 @@
+{
+  "id": "storylane-io",
+  "title": "Storylane",
+  "subtitle": "Storylane helps companies build and share interactive product demos with their prospects in 10 mins. Guided experienc...",
+  "tags": [
+    "product-demo"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628132424/icons/storylane-io.png",
+  "website": "https://www.storylane.io/"
+}

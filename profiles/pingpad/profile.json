@@ -1,0 +1,13 @@
+{
+  "id": "pingpad",
+  "title": "Pingpad",
+  "subtitle": "Collaboration built for Product Management, without having to leave Slack. \nDiscover the products your customers will...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721482/catalog/pingpad/icon128x128.jpg",
+  "website": "https://pingpad.net"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tapclicks",
+  "title": "TapClicks",
+  "subtitle": "Unified, scalable, end-to-end solution for marketing analytics, reporting, workflow and order management. Now serving...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722446/catalog/tapclicks/icon128x128.jpg",
+  "website": "https://tapclicks.com"
+}

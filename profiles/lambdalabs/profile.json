@@ -1,0 +1,14 @@
+{
+  "id": "lambdalabs",
+  "title": "Lambda",
+  "subtitle": "GPU Workstations, GPU Servers, GPU Laptops, and GPU Cloud for Deep Learning &amp; AI. RTX 3090, RTX 3080, RTX A4000, ...",
+  "tags": [
+    "gpu-cloud-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679429629/icons/lambdalabs.jpg",
+  "website": "https://lambdalabs.com/",
+  "docsUrl": "http://www.yongliangyang.net/docs/multiranker_iccv21.pdf"
+}

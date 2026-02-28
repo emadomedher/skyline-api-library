@@ -1,0 +1,14 @@
+{
+  "id": "planso",
+  "title": "PlanSo Forms for WordPress",
+  "subtitle": "PlanSo Forms is a form management and creation tool. It can be used directly or via wordpress plugin.",
+  "tags": [
+    "wordpress",
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305697/catalog/planso/icon128x128.png",
+  "website": "https://www.planso.net/"
+}

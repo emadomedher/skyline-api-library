@@ -1,0 +1,13 @@
+{
+  "id": "linklyhq",
+  "title": "Linkly",
+  "subtitle": "Track clicks on any link, redirect users by location or device, and protect \nagainst bots and other abusive traffic.",
+  "tags": [
+    "url-shorteners"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632273588/icons/linklyhq.jpg",
+  "website": "https://linklyhq.com/"
+}

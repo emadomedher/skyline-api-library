@@ -1,0 +1,13 @@
+{
+  "id": "woxxer",
+  "title": "Woxxer",
+  "subtitle": "Woxxer - Better Surveys. Better Data.",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946340/catalog/woxxer/icon128x128.png",
+  "website": "https://woxxer.com"
+}

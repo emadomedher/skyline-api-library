@@ -1,0 +1,15 @@
+{
+  "id": "workday-credentials",
+  "title": "Workday Credentials",
+  "subtitle": "Workday Credentials login - Manage your profile of verified credentials and qualifications. Login now.",
+  "tags": [
+    "credentialing",
+    "blockchains"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645106568/icons/workday-credentials.jpg",
+  "website": "https://credentials.workday.com/",
+  "docsUrl": "https://credentials.workday.com/docs/"
+}

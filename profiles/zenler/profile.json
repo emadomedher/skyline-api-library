@@ -1,0 +1,13 @@
+{
+  "id": "zenler",
+  "title": "Zenler",
+  "subtitle": "Zenler is a super easy platform that lets you start your own branded website. It allows you to make money teaching yo...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830052/catalog/zenler/icon128x128.png",
+  "website": "https://zenler.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "aqilla",
+  "title": "Aqilla",
+  "subtitle": "Aqilla is a mid-market, Cloud-based, Accounting / Postmodern ERP solution that sits above the well-known entry-level ...",
+  "tags": [
+    "accounting",
+    "erp"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670437563/icons/aqilla.jpg",
+  "website": "https://www.aqilla.com/",
+  "docsUrl": "https://www.aqilla.com/smartdocs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "detectify",
+  "title": "Detectify",
+  "subtitle": "Detectify is a website vulnerability scanner that performs tests to identify security issues on your website. Let us ...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304774/catalog/detectify/icon128x128.png",
+  "website": "https://detectify.com",
+  "docsUrl": "https://detectify.com/developers"
+}

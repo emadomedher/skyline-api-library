@@ -1,0 +1,13 @@
+{
+  "id": "halifax-uk",
+  "title": "Halifax",
+  "subtitle": "Halifax is a British banking brand operating as a trading division of Bank of Scotland, itself a wholly owned subsidi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261135/icons/halifax-uk.jpg",
+  "website": "https://www.halifax.co.uk/"
+}

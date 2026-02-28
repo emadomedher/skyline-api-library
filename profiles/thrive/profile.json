@@ -1,0 +1,13 @@
+{
+  "id": "thrive",
+  "title": "Thrive",
+  "subtitle": "Thrive API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962122/catalog/thrive/icon128x128.png",
+  "website": "https://ico.thrivelabs.io"
+}

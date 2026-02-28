@@ -1,0 +1,13 @@
+{
+  "id": "leadboxer",
+  "title": "LeadBoxer",
+  "subtitle": "Generate B2B sales leads from your online data.<br>\nWe analyse your online data in realtime and show you the business...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305274/catalog/leadboxer/icon128x128.png",
+  "website": "https://leadboxer.com"
+}

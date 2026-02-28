@@ -1,0 +1,15 @@
+{
+  "id": "skilljar",
+  "title": "Skilljar",
+  "subtitle": "Skilljar's External Training Platform gives you all the tools you need to accelerate product adoption, increase reten...",
+  "tags": [
+    "channel-learning-and-readiness",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306113/catalog/skilljar/icon128x128.png",
+  "website": "https://www.skilljar.com/",
+  "docsUrl": "https://api.skilljar.com/docs"
+}

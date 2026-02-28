@@ -1,0 +1,14 @@
+{
+  "id": "axeptio-eu",
+  "title": "axeptio",
+  "subtitle": "À l'heure du RGPD, Axeptio simplifie le recueil du consentement avec une solution conforme et clé en main pour votre ...",
+  "tags": [
+    "consent-management-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579203051/catalog/axeptio-eu/icon128x128.jpg",
+  "website": "https://www.axeptio.eu/",
+  "docsUrl": "https://developers.axeptio.eu"
+}

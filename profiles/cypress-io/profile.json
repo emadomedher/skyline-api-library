@@ -1,0 +1,18 @@
+{
+  "id": "cypress-io",
+  "title": "Cypress.io",
+  "subtitle": "Fast, easy and reliable testing for anything that runs in a browser. Install Cypress in seconds and take the pain out...",
+  "tags": [
+    "testing",
+    "qa",
+    "browser-testing",
+    "end-to-end-testing",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606481117/icons/cypress-io.jpg",
+  "website": "https://www.cypress.io/",
+  "docsUrl": "https://docs.cypress.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mintlify",
+  "title": "Mintlify",
+  "subtitle": "The backbone of a world class documentation. Mintlify is a continuous documentation platform to maintain quality docu...",
+  "tags": [
+    "continuous-documentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659049735/icons/mintlify.jpg",
+  "website": "https://www.mintlify.com/",
+  "docsUrl": "https://www.mintlify.com"
+}

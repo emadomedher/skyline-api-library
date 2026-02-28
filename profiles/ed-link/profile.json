@@ -1,0 +1,15 @@
+{
+  "id": "ed-link",
+  "title": "Edlink",
+  "subtitle": "LMS integration made easy. Integrate with every major LMS in 4 weeks or less.",
+  "tags": [
+    "mls-apis",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671575/icons/ed-link.png",
+  "website": "https://ed.link/",
+  "docsUrl": "https://ed.link/docs"
+}

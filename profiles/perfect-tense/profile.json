@@ -1,0 +1,13 @@
+{
+  "id": "perfect-tense",
+  "title": "Perfect Tense",
+  "subtitle": "Perfect Tense is an intelligent spelling and grammar correction tool that can automatically correct errors and calcul...",
+  "tags": [
+    "education",
+    "documents"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539015/catalog/perfect-tense/icon128x128.png"
+}

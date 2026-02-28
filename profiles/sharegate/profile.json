@@ -1,0 +1,15 @@
+{
+  "id": "sharegate",
+  "title": "ShareGate",
+  "subtitle": "Intuitive cloud management software to help IT professionals. Focused on migration, management, and security of Micro...",
+  "tags": [
+    "microsoft-365-management",
+    "cloud-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622584824/icons/sharegate.jpg",
+  "website": "https://sharegate.com/"
+}

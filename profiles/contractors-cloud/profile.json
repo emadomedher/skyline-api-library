@@ -1,0 +1,13 @@
+{
+  "id": "contractors-cloud",
+  "title": "Contractor's Cloud",
+  "subtitle": "Customizable roofing CRM & company management tool. Perfect for sales-oriented general contractors. Run better & MAKE...",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562265523/catalog/contractors-cloud/icon128x128.png",
+  "website": "https://contractorscloud.com"
+}

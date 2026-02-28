@@ -1,0 +1,15 @@
+{
+  "id": "mulesoft-composer",
+  "title": "Mulesoft Composer",
+  "subtitle": "Learn how to securely integrate data, innovate, and go digital faster. Connect apps and data in just a few clicks wit...",
+  "tags": [
+    "no-code",
+    "workflow-builders"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615596732/icons/mulesoft-composer.jpg",
+  "website": "https://www.mulesoft.com/platform/composer",
+  "docsUrl": "https://www.mulesoft.com/integration-solutions/developer"
+}

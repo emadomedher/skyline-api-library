@@ -1,0 +1,15 @@
+{
+  "id": "salarydost",
+  "title": "Salarydost",
+  "subtitle": "Short term loan for Salaried people.",
+  "tags": [
+    "consumer-lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675742/catalog/salarydost/icon128x128.jpg",
+  "website": "https://salarydost.com/",
+  "docsUrl": "https://salarydost.com/docsrequire"
+}

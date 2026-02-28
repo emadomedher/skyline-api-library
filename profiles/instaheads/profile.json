@@ -1,0 +1,13 @@
+{
+  "id": "instaheads",
+  "title": "Instaheads",
+  "subtitle": "Promote your Instagram account, grow real community, create buzz under your posts easily with Combin.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946909/catalog/instaheads/icon128x128.jpg",
+  "website": "https://instaheads.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "breadpayments",
+  "title": "Bread",
+  "subtitle": "Bread powers personalized pay-over-time solutions that help retailers build stronger consumer connections, grow sales...",
+  "tags": [
+    "payments",
+    "buy-now-pay-later"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602032151/icons/breadpayments.png",
+  "website": "https://www.breadpayments.com/",
+  "docsUrl": "https://docs.getbread.com/?__hstc=71210639.66f24990f4e33a2f6eabbe85c2030bce.1602012563093.1602012563093.1602012563093.1&__hssc=71210639.1.1602012563094&__hsfp=2387822857"
+}

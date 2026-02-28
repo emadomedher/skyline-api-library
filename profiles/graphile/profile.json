@@ -1,0 +1,15 @@
+{
+  "id": "graphile",
+  "title": "Graphile",
+  "subtitle": "Utilities to build powerful, performant and extensible GraphQL APIs rapidly",
+  "tags": [
+    "graphql",
+    "postgres"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608646416/icons/graphile.jpg",
+  "website": "https://www.graphile.org/",
+  "docsUrl": "https://www.graphile.org/postgraphile/introduction"
+}

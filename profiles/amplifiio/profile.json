@@ -1,0 +1,13 @@
+{
+  "id": "amplifiio",
+  "title": "amplifi.io",
+  "subtitle": "Amplifi.io solves the increasingly complex digital asset management (DAM) needs of today’s top brands. See our Free D...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774789/catalog/amplifiio/icon128x128.png",
+  "website": "https://amplifi.io"
+}

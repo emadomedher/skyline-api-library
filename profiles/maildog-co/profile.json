@@ -1,0 +1,13 @@
+{
+  "id": "maildog-co",
+  "title": "Maildog.co",
+  "subtitle": "We help companies boost email communication ROI by increasing inboxing rate of marketing, sales and notifications ema...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589999117/catalog/maildog-co/icon128x128.jpg",
+  "website": "https://maildog.co/"
+}

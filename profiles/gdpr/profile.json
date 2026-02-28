@@ -1,0 +1,14 @@
+{
+  "id": "gdpr",
+  "title": "GDPR",
+  "subtitle": "The General Data Protection Regulation 2016/679 is a regulation in EU law on data protection and privacy in the Europ...",
+  "tags": [
+    "compliance",
+    "regulations"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613277203/icons/gdpr.png",
+  "website": "https://en.wikipedia.org/wiki/General_Data_Protection_Regulation"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "radiant-cms",
+  "title": "Radiant CMS",
+  "subtitle": "Radiant CMS API integration",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436790/catalog/radiant-cms/icon128x128.png",
+  "website": "https://radiantcms.org"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "voxie",
+  "title": "Voxie",
+  "subtitle": "Voxie’s text marketing platform engages millions of customers each month, resulting in 10X more revenue than other ma...",
+  "tags": [
+    "text-marketing",
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610219521/icons/voxie.jpg",
+  "website": "https://www.voxie.com/"
+}

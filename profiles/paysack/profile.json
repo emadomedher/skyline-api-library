@@ -1,0 +1,15 @@
+{
+  "id": "paysack",
+  "title": "Paysack",
+  "subtitle": "Paysack API integration",
+  "tags": [
+    "financial-services",
+    "banking",
+    "employee-benefits"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941455/icons/paysack.jpg",
+  "website": "https://paysack.com/"
+}

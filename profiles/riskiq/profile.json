@@ -1,0 +1,13 @@
+{
+  "id": "riskiq",
+  "title": "RiskIQ",
+  "subtitle": "Whether you are investigating threats, monitoring your attack surface, or mitigating brand abuse - arm yourself with ...",
+  "tags": [
+    "risk-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588862854/catalog/riskiq/icon128x128.jpg",
+  "website": "https://www.riskiq.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "inpowered",
+  "title": "InPowered",
+  "subtitle": "One platform to deliver engagement with any content across every native ad channel.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946913/catalog/inpowered/icon128x128.jpg",
+  "website": "https://inpwrd.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "classlink",
+  "title": "ClassLink",
+  "subtitle": "ClassLink provides single sign-on into web and Windows applications, and instant access to files at school and in the...",
+  "tags": [
+    "edtech",
+    "identity-management"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671578/icons/classlink.png",
+  "website": "https://www.classlink.com/",
+  "docsUrl": "https://www.classlink.com/company/privacy#"
+}

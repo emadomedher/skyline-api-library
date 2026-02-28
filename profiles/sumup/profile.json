@@ -1,0 +1,16 @@
+{
+  "id": "sumup",
+  "title": "SumUp",
+  "subtitle": "Accept all your credit card payments. SumUp's contactless EMV terminal will solve your payment needs for the next dec...",
+  "tags": [
+    "pos",
+    "card-readers",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573959827/catalog/sumup/icon128x128.jpg",
+  "website": "https://sumup.com/",
+  "docsUrl": "https://developer.sumup.com"
+}

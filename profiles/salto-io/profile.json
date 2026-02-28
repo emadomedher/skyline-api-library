@@ -1,0 +1,15 @@
+{
+  "id": "salto-io",
+  "title": "Salto",
+  "subtitle": "Streamline your BizOps day-to-day efforts of configuring services such as Salesforce, NetSuite, HubSpot and others.",
+  "tags": [
+    "business-application-configuration",
+    "bizops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603867683/icons/salto-io.jpg",
+  "website": "https://www.salto.io/",
+  "docsUrl": "https://docs.salto.io"
+}

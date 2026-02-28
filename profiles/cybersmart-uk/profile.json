@@ -1,0 +1,14 @@
+{
+  "id": "cybersmart-uk",
+  "title": "CyberSmart",
+  "subtitle": "CyberSmart is an automated platform that helps businesses stay safe and secure with recognised certification standard...",
+  "tags": [
+    "security",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579223518/catalog/cybersmart-uk/icon128x128.png",
+  "website": "https://cybersmart.co.uk/"
+}

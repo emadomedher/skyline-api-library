@@ -1,0 +1,14 @@
+{
+  "id": "ada-compliance",
+  "title": "ADA.gov homepage",
+  "subtitle": "The ADA Home Page provides access to Americans with Disabilities Act (ADA) regulations for businesses and State and l...",
+  "tags": [
+    "compliance",
+    "regulations"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601860089/icons/ada-compliance.jpg",
+  "website": "https://www.ada.gov/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "squarespace",
+  "title": "Squarespace",
+  "subtitle": "Squarespace is a website builder, blogging platform, hosting service, commerce platform, and domain name registrar.",
+  "tags": [
+    "websites",
+    "e-commerce"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306179/catalog/squarespace/icon128x128.png",
+  "website": "https://www.squarespace.com/"
+}

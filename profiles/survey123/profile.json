@@ -1,0 +1,12 @@
+{
+  "id": "survey123",
+  "title": "Survey123",
+  "subtitle": "Survey123 for ArcGIS is a simple and intuitive form-centric data gathering solution that makes creating, sharing, and...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264844/catalog/survey123/icon128x128.png"
+}

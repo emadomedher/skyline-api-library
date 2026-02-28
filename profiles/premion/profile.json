@@ -1,0 +1,14 @@
+{
+  "id": "premion",
+  "title": "PREMION",
+  "subtitle": "What is OTT? Premion provides advertisers the opportunity to place ads alongside long-form & live streaming content a...",
+  "tags": [
+    "local-advertising",
+    "ott-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607794055/icons/premion.png",
+  "website": "https://premion.com/"
+}

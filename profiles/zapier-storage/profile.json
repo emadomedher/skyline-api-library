@@ -1,0 +1,14 @@
+{
+  "id": "zapier-storage",
+  "title": "Storage by Zapier",
+  "subtitle": "Quickly store and retrieve small values of data. Allows you to reference data between Zap runs or share data between ...",
+  "tags": [
+    "zapier-tools",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809790/catalog/zapier-storage/icon128x128.png",
+  "website": "https://zapier.com/"
+}

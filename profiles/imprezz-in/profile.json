@@ -1,0 +1,13 @@
+{
+  "id": "imprezz-in",
+  "title": "imprezz",
+  "subtitle": "Plan, manage and control your daily business activities like billing, GST, accounting, inventory management and quota...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644513023/icons/imprezz-in.png",
+  "website": "https://imprezz.in/"
+}

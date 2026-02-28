@@ -1,0 +1,13 @@
+{
+  "id": "bookingkit",
+  "title": "bookingkit",
+  "subtitle": "Web-based booking solution • More customers via your own website • Less time-consuming due to convenient appointment ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557151312/catalog/bookingkit/icon128x128.jpg",
+  "website": "https://bookingkit.net"
+}

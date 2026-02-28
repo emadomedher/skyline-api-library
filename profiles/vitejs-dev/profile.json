@@ -1,0 +1,15 @@
+{
+  "id": "vitejs-dev",
+  "title": "Vite",
+  "subtitle": "Next Generation Frontend Tooling",
+  "tags": [
+    "frontend-tools",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615503284/icons/vitejs-dev.svg",
+  "website": "https://vitejs.dev/",
+  "docsUrl": "https://rollupjs.org/guide/en/#plugin-development"
+}

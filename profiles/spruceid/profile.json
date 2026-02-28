@@ -1,0 +1,14 @@
+{
+  "id": "spruceid",
+  "title": "Spruce",
+  "subtitle": "Your keys your data.",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406226/icons/spruceid.jpg",
+  "website": "https://www.spruceid.com/",
+  "docsUrl": "https://spruceid.dev/docs"
+}

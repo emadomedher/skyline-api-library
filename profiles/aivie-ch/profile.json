@@ -1,0 +1,14 @@
+{
+  "id": "aivie-ch",
+  "title": "Aivie",
+  "subtitle": "The answer to all your marketing questions. The marketing automation tool Aivie is your complete and flexible tool fr...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639600151/icons/aivie-ch.png",
+  "website": "https://aivie.ch/en/",
+  "docsUrl": "https://developer.mautic.org"
+}

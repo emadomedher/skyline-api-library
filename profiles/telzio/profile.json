@@ -1,0 +1,12 @@
+{
+  "id": "telzio",
+  "title": "Telzio",
+  "subtitle": "Telzio provides companies with high-quality, feature-rich phone systems, and integrates teams under a seamless, cloud...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284634/catalog/telzio/icon128x128.png"
+}

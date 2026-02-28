@@ -1,0 +1,16 @@
+{
+  "id": "duffel",
+  "title": "Duffel",
+  "subtitle": "We offer the most powerful and intuitive tools for starting and growing a travel business. With Duffel, you can searc...",
+  "tags": [
+    "travel",
+    "flights-api",
+    "unified-api"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572298620/catalog/duffel/icon128x128.jpg",
+  "website": "https://duffel.com/",
+  "docsUrl": "https://duffel.com/docs"
+}

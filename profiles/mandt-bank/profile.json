@@ -1,0 +1,13 @@
+{
+  "id": "mandt-bank",
+  "title": "M&T Bank",
+  "subtitle": "M&T Bank Corporation is an American bank holding company headquartered in Buffalo, New York. It operates 780 branches...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215696/icons/mandt-bank.jpg",
+  "website": "https://www3.mtb.com/"
+}

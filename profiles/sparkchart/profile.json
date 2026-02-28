@@ -1,0 +1,12 @@
+{
+  "id": "sparkchart",
+  "title": "Spark Chart",
+  "subtitle": "Spark Chart is survey software to rapidly build and design surveys, analyze results, and share reports instantly.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284617/catalog/sparkchart/icon128x128.png"
+}

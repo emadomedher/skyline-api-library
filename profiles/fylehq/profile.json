@@ -1,0 +1,13 @@
+{
+  "id": "fylehq",
+  "title": "Fyle",
+  "subtitle": "AI powered expense tracking, powerful policies and audit-ready reports - Fyle is the best expense management software...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597100184/icons/fylehq.jpg",
+  "website": "https://www.fylehq.com/"
+}

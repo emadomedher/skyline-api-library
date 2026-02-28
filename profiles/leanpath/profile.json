@@ -1,0 +1,13 @@
+{
+  "id": "leanpath",
+  "title": "Leanpath",
+  "subtitle": "Leanpath's food waste prevention solution cuts food waste 50% making your kitchen more profitable. See why the world’...",
+  "tags": [
+    "food-waste-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571824342/catalog/leanpath/icon128x128.jpg",
+  "website": "https://www.leanpath.com/"
+}

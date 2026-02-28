@@ -1,0 +1,14 @@
+{
+  "id": "statickit",
+  "title": "StaticKit",
+  "subtitle": "Gather form submissions from your frontend without writing a line of backend code.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572483592/catalog/statickit/icon128x128.png",
+  "website": "https://statickit.com/",
+  "docsUrl": "https://statickit.com/docs"
+}

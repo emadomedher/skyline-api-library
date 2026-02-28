@@ -1,0 +1,14 @@
+{
+  "id": "metaphor-io",
+  "title": "Metaphor Data",
+  "subtitle": "Numerous sources. One truth.",
+  "tags": [
+    "data-catalog",
+    "metadata-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636511345/icons/metaphor-io.jpg",
+  "website": "https://metaphor.io/"
+}

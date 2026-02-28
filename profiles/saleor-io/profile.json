@@ -1,0 +1,15 @@
+{
+  "id": "saleor-io",
+  "title": "Saleor",
+  "subtitle": "A headless, GraphQL-first e-commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Find...",
+  "tags": [
+    "headless-ecommerce",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600874123/icons/saleor-io.jpg",
+  "website": "https://saleor.io/",
+  "docsUrl": "https://docs.getsaleor.com/docs"
+}

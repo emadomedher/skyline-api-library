@@ -1,0 +1,13 @@
+{
+  "id": "crossengage",
+  "title": "CrossEngage",
+  "subtitle": "Flexible customer data platform for cross-channel CRM and marketing. Create meaningful customer experiences—across ch...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719650/catalog/crossengage/icon128x128.jpg",
+  "website": "https://CrossEngage.io"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "synergysuite",
+  "title": "SynergySuite",
+  "subtitle": "Manage your entire back of house with SynergySuite's mobile friendly cloud-based software. — from Stock and Purchasin...",
+  "tags": [
+    "hospitality",
+    "inventory-management",
+    "back-of-house",
+    "restaurants"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567840292/catalog/synergysuite/icon128x128.png",
+  "website": "https://www.synergysuite.com/"
+}

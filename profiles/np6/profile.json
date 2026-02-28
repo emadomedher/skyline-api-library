@@ -1,0 +1,13 @@
+{
+  "id": "np6",
+  "title": "NP6",
+  "subtitle": "Découvrez une Customer Data Platform qui vous permet d’orchestrer simplement, en totale autonomie et sur plusieurs ca...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721288/catalog/np6/icon128x128.jpg",
+  "website": "https://np6.fr"
+}

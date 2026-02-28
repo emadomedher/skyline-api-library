@@ -1,0 +1,14 @@
+{
+  "id": "port-dev",
+  "title": "Port",
+  "subtitle": "Port helps you grow, engage, and retain your members. Wherever they are.",
+  "tags": [
+    "community-management",
+    "devrel"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610031006/icons/port-dev.png",
+  "website": "https://www.port.dev/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nowsta",
+  "title": "Nowsta",
+  "subtitle": "Nowsta offers a complete set of tools to hire, manage, and pay your hourly, gig, or temp workforce.",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794321/icons/nowsta.png",
+  "website": "https://www.nowsta.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "proof",
+  "title": "Proof",
+  "subtitle": "Proof is a marketing platform that displays recent signups, purchases, and other activity on your website.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284583/catalog/proof/icon128x128.png",
+  "website": "https://proofanalytics.ai"
+}

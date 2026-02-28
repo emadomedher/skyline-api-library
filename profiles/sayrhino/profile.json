@@ -1,0 +1,13 @@
+{
+  "id": "sayrhino",
+  "title": "Rhino",
+  "subtitle": "Rhino replaces your cash security deposit with low payments. With 7 days a week customer service, we are trusted in m...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653082052/icons/sayrhino.jpg",
+  "website": "https://www.sayrhino.com/"
+}

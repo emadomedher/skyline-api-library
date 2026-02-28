@@ -1,0 +1,13 @@
+{
+  "id": "typekit",
+  "title": "Typekit",
+  "subtitle": "Typekit API integration",
+  "tags": [
+    "fonts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568390861/catalog/typekit/icon128x128.png",
+  "website": "https://fonts.adobe.com"
+}

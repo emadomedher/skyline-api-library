@@ -1,0 +1,16 @@
+{
+  "id": "zapier",
+  "title": "Zapier",
+  "subtitle": "Connect the apps you use everyday to automate your work and be more productive. 1000+ apps and easy integrations - ge...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661365527/icons/zapier.png",
+  "specUrl": "https://nla.zapier.com/api/v1/dynamic/openapi.json",
+  "baseUrl": "https://nla.zapier.com",
+  "website": "https://zapier.com/",
+  "docsUrl": "https://zapier.com/developer/"
+}

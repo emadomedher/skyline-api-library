@@ -1,0 +1,13 @@
+{
+  "id": "notionlytics",
+  "title": "Notionlytics",
+  "subtitle": "Find out who visits your Notion pages and track pageviews with Notionlytics. Spend 1 minute to embed Google Analytics...",
+  "tags": [
+    "web-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915274/icons/notionlytics.jpg",
+  "website": "https://notionlytics.com/"
+}

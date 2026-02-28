@@ -1,0 +1,15 @@
+{
+  "id": "zen-cart",
+  "title": "Zen Cart",
+  "subtitle": "Zen Cart",
+  "tags": [
+    "e-commerce",
+    "open-source"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573151060/catalog/zen-cart/icon128x128.png",
+  "website": "https://www.zen-cart.com/",
+  "docsUrl": "https://docs.zen-cart.com"
+}

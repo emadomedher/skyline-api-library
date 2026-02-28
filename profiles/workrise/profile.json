@@ -1,0 +1,13 @@
+{
+  "id": "workrise",
+  "title": "Workrise",
+  "subtitle": "We empower the people who get hard work done. Workrise (formerly RigUp) is a workforce management solution for the sk...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621816074/icons/workrise.jpg",
+  "website": "https://www.workrise.com/"
+}

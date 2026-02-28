@@ -1,0 +1,13 @@
+{
+  "id": "kloud-io",
+  "title": "Kloudio",
+  "subtitle": "Data access across the tools you love - easily update and access data from MySQL, PostgreSQL, Oracle, Snowflake, Amaz...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608488622/icons/kloud-io.png",
+  "website": "https://kloud.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "callrail",
+  "title": "CallRail",
+  "subtitle": "CallRail provides call tracking and analytics for online and offline marketing campaigns. We make it easy to track ph...",
+  "tags": [
+    "call-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304561/catalog/callrail/icon128x128.png",
+  "website": "https://callrail.com"
+}

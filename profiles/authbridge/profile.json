@@ -1,0 +1,14 @@
+{
+  "id": "authbridge",
+  "title": "authbridge",
+  "subtitle": "AuthBridge offers authentication and onboarding products that include Employee Background Verification, Customer & Bu...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414442/icons/authbridge.jpg",
+  "website": "https://authbridge.com/",
+  "docsUrl": "https://authbridge.com/solutions/business/digital-documentation-e-sign"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "formassembly",
+  "title": "FormAssembly",
+  "subtitle": "FormAssembly provides an easy to use online form builder for businesses. Integrate with Salesforce with our seamless ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563067310/catalog/formassembly/icon128x128.jpg",
+  "website": "https://formassembly.com",
+  "docsUrl": "https://www.formassembly.com/api"
+}

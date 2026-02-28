@@ -1,0 +1,15 @@
+{
+  "id": "bookboost-io",
+  "title": "Bookboost Guest Messaging",
+  "subtitle": "Keeping hotels open - Digital guest messaging platform. We stand with hotels in times of crisis. Bookboost Unified In...",
+  "tags": [
+    "guest-messaging",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612119297/icons/bookboost-io.png",
+  "website": "https://www.bookboost.io/",
+  "docsUrl": "https://www.bookboost.io/docs-category/faq"
+}

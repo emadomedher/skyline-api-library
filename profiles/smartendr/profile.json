@@ -1,0 +1,13 @@
+{
+  "id": "smartendr",
+  "title": "Smartendr ",
+  "subtitle": "Mobiele menukaart gemaakt voor ambitieuze horecauitbaters. Genereer maximale omzet met zo weinig mogelijk kosten. Zon...",
+  "tags": [
+    "mobile-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421334/icons/smartendr.png",
+  "website": "https://www.smartendr.com/"
+}

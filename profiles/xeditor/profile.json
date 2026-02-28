@@ -1,0 +1,15 @@
+{
+  "id": "xeditor",
+  "title": "Xeditor",
+  "subtitle": "Xeditor API integration",
+  "tags": [
+    "text-editors",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579796786/catalog/xeditor/icon128x128.jpg",
+  "website": "https://www.xeditor.com/",
+  "docsUrl": "https://documentation.xeditor.com"
+}

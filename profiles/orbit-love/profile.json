@@ -1,0 +1,15 @@
+{
+  "id": "orbit-love",
+  "title": "Orbit",
+  "subtitle": "Orbit is the community experience platform for developers, helping organizations build enthusiastic communities of te...",
+  "tags": [
+    "devrel"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595447205/icons/orbit-love.jpg",
+  "specUrl": "https://app.orbit.love/api-docs/v1/swagger.json",
+  "website": "https://orbit.love/",
+  "docsUrl": "https://docs.orbit.love/docs"
+}

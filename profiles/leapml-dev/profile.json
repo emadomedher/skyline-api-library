@@ -1,0 +1,14 @@
+{
+  "id": "leapml-dev",
+  "title": "Leap",
+  "subtitle": "Add AI to your app in minutes.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677247875/icons/leapml-dev.jpg",
+  "website": "https://www.leapml.dev/",
+  "docsUrl": "https://docs.leapml.dev/reference/pricing"
+}

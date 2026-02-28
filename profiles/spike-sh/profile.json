@@ -1,0 +1,14 @@
+{
+  "id": "spike-sh",
+  "title": "Spike.sh",
+  "subtitle": "Spike is a simple incident management platform that alerts via slack, phone and email and automatic escalations to he...",
+  "tags": [
+    "incident-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612019577/icons/spike-sh.jpg",
+  "website": "https://spike.sh/",
+  "docsUrl": "https://docs.spike.sh"
+}

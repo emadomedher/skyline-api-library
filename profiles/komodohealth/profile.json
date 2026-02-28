@@ -1,0 +1,13 @@
+{
+  "id": "komodohealth",
+  "title": "Komodo Health",
+  "subtitle": "Komodo Health combines the world’s most comprehensive view of patient-encounters with innovative algorithms and decad...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628132441/icons/komodohealth.jpg",
+  "website": "https://www.komodohealth.com/"
+}

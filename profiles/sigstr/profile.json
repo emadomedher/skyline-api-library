@@ -1,0 +1,13 @@
+{
+  "id": "sigstr",
+  "title": "Sigstr",
+  "subtitle": "Sigstr's email signature marketing platform allows you to standardize brand consistency and drive marketing ROI with ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946596/catalog/sigstr/icon128x128.jpg",
+  "website": "https://sigstr.com"
+}

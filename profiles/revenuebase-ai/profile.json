@@ -1,0 +1,14 @@
+{
+  "id": "revenuebase-ai",
+  "title": "RevenueBase",
+  "subtitle": "Introducing the first all-in-one B2B database for marketing and sales for email, sales leads, lead and demand generat...",
+  "tags": [
+    "sales-prospection",
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649664815/icons/revenuebase-ai.jpg",
+  "website": "https://revenuebase.ai/"
+}

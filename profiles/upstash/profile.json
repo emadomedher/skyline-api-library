@@ -1,0 +1,14 @@
+{
+  "id": "upstash",
+  "title": "Upstash",
+  "subtitle": "Designed for the serverless with per-request pricing and Redis®/Kafka® API.",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679700960/icons/upstash.jpg",
+  "website": "https://upstash.com/",
+  "docsUrl": "https://docs.upstash.com"
+}

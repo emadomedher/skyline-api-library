@@ -1,0 +1,13 @@
+{
+  "id": "workingden",
+  "title": "Working Den",
+  "subtitle": "Working Den Software gives you a holistic solution to work from home or anywhere, anytime. Improve your health and pr...",
+  "tags": [
+    "remote-work"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597247397/icons/workingden.jpg",
+  "website": "https://www.workingden.com/"
+}

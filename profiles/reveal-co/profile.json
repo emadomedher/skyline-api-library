@@ -1,0 +1,13 @@
+{
+  "id": "reveal-co",
+  "title": "Reveal",
+  "subtitle": "Map Accounts & identify Qualified Leads for Free. Save valuable time & say goodbye to spreadsheets with instant accou...",
+  "tags": [
+    "account-mapping"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624381114/icons/reveal-co.png",
+  "website": "https://reveal.co/"
+}

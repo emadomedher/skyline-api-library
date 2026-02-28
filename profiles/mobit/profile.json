@@ -1,0 +1,13 @@
+{
+  "id": "mobit",
+  "title": "MOBIT",
+  "subtitle": "MOBIT is a mobile marketing automation platform. Create SMS and MMS campaigns with dynamic and intelligent mobile pages.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305460/catalog/mobit/icon128x128.png",
+  "website": "https://mobit.com"
+}

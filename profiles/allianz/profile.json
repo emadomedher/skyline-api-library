@@ -1,0 +1,14 @@
+{
+  "id": "allianz",
+  "title": "Allianz",
+  "subtitle": "As an international financial services provider, Allianz offers over 86 million customers worldwide products and solu...",
+  "tags": [
+    "insurance",
+    "financial-services"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625937207/icons/allianz.jpg",
+  "website": "https://www.allianz.com/"
+}

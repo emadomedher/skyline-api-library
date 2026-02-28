@@ -1,0 +1,15 @@
+{
+  "id": "radiusbob",
+  "title": "radius",
+  "subtitle": "radius API integration",
+  "tags": [
+    "lead-management",
+    "crm",
+    "insurtech"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642313093/icons/radiusbob.png",
+  "website": "https://www.radiusbob.com/"
+}

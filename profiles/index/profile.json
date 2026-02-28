@@ -1,0 +1,12 @@
+{
+  "id": "index",
+  "title": "Index",
+  "subtitle": "Index is a platform for startups, corporate brands and investors. We harness data on hundreds of thousands of compani...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284536/catalog/index/icon128x128.png"
+}

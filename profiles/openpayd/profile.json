@@ -1,0 +1,15 @@
+{
+  "id": "openpayd",
+  "title": "OpenPayd",
+  "subtitle": "OpenPayd provides businesses with access to multi-currency bank accounts, local and international payment networks, F...",
+  "tags": [
+    "payments",
+    "banking-as-a-service"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585396720/catalog/openpayd/icon128x128.jpg",
+  "website": "https://www.openpayd.com/",
+  "docsUrl": "https://apidocs.openpayd.com"
+}

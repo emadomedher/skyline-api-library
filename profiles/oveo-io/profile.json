@@ -1,0 +1,13 @@
+{
+  "id": "oveo-io",
+  "title": "Oveo.io",
+  "subtitle": "Manage SaaS spend with Oveo. Gain company-wide visibility into SaaS spend, usage and compliance. Fast, easy automated.",
+  "tags": [
+    "saas-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614175152/icons/oveo-io.jpg",
+  "website": "https://oveo.io/"
+}

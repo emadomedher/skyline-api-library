@@ -1,0 +1,13 @@
+{
+  "id": "cooladata",
+  "title": "CoolaData",
+  "subtitle": "Cooladata gives you instant insight into how users interact with your product, to improve engagement, growth, and mon...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719604/catalog/cooladata/icon128x128.jpg",
+  "website": "https://cooladata.com"
+}

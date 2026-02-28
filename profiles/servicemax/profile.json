@@ -1,0 +1,14 @@
+{
+  "id": "servicemax",
+  "title": "ServiceMax",
+  "subtitle": "Need enterprise field service industry software? ServiceMax optimizes field service operations & maintenance executio...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576225759/catalog/servicemax/icon128x128.jpg",
+  "website": "https://www.servicemax.com/",
+  "docsUrl": "https://www.servicemax.com/customers/vip-reference-program"
+}

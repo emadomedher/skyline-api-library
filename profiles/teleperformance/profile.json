@@ -1,0 +1,13 @@
+{
+  "id": "teleperformance",
+  "title": "Teleperformance",
+  "subtitle": "Teleperformance is a global leader in digitally integrated business services, with a passion for simpler, faster, and...",
+  "tags": [
+    "customer-support-servicesnon-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603878946/icons/teleperformance.jpg",
+  "website": "https://www.teleperformance.com/"
+}

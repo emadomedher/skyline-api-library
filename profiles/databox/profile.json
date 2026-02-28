@@ -1,0 +1,14 @@
+{
+  "id": "databox",
+  "title": "Databox",
+  "subtitle": "Business Analytics platform built to help you understand what’s going on with your business. KPIs from cloud services...",
+  "tags": [
+    "dashboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304735/catalog/databox/icon128x128.png",
+  "website": "https://databox.com/",
+  "docsUrl": "https://developers.databox.com"
+}

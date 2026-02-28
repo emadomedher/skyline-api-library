@@ -1,0 +1,13 @@
+{
+  "id": "skillshare",
+  "title": "Skillshare",
+  "subtitle": "Skillshare is a learning platform with online classes taught by the world's best practitioners. Personalized, on-dema...",
+  "tags": [
+    "online-learning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617783797/icons/skillshare.jpg",
+  "website": "https://www.skillshare.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "opswat",
+  "title": "OPSWAT",
+  "subtitle": "Cybersecurity solutions to identify, detect, and remediate advanced security threats from data and devices coming int...",
+  "tags": [
+    "security",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607941968/icons/opswat.jpg",
+  "website": "https://www.opswat.com/",
+  "docsUrl": "https://www.opswat.com/developers"
+}

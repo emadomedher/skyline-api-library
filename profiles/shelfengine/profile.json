@@ -1,0 +1,14 @@
+{
+  "id": "shelfengine",
+  "title": "Shelf Engine",
+  "subtitle": "Shelf Engine API integration",
+  "tags": [
+    "food-waste",
+    "foodtech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437730/icons/shelfengine.jpg",
+  "website": "https://www.shelfengine.com/"
+}

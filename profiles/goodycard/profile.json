@@ -1,0 +1,13 @@
+{
+  "id": "goodycard",
+  "title": "Goodycard",
+  "subtitle": "Goody Card is a card and app that allows local businesses to reward their customers. Members can earn rewards and red...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720265/catalog/goodycard/icon128x128.jpg",
+  "website": "https://goodycard.co.nz"
+}

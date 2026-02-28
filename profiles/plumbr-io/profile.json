@@ -1,0 +1,14 @@
+{
+  "id": "plumbr-io",
+  "title": "Plumbr",
+  "subtitle": "See tracing in action Expose metrics and set up alerts for ops. Detect and prioritize root causes for dev. Complete t...",
+  "tags": [
+    "application-performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603215548/icons/plumbr-io.png",
+  "website": "https://plumbr.io/",
+  "docsUrl": "https://app.plumbr.io/docs"
+}

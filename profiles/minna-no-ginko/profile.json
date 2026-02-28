@@ -1,0 +1,13 @@
+{
+  "id": "minna-no-ginko",
+  "title": "Minna Bank",
+  "subtitle": "As Japan's first Digital Bank, Minna Bank's services are designed to cater to the needs and sensibilities of digital ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619145276/icons/minna-no-ginko.jpg",
+  "website": "https://www.minna-no-ginko.com/"
+}

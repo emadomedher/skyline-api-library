@@ -1,0 +1,14 @@
+{
+  "id": "nftport-xyz",
+  "title": "NFTPort",
+  "subtitle": "Bring your NFT application to market in hours instead of months. We take care of the NFT infrastructure so you can fo...",
+  "tags": [
+    "nft-infrastructure"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630021417/icons/nftport-xyz.jpg",
+  "website": "https://www.nftport.xyz/",
+  "docsUrl": "https://docs.nftport.xyz/docs/nftport"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "weather2020",
+  "title": "Weather 2020",
+  "subtitle": "Weather 20/20 Ultra Long Range Weather Forecasting",
+  "tags": [
+    "weather-prediction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681469063/icons/weather2020.jpg",
+  "website": "https://weather2020.com/",
+  "docsUrl": "https://docs.weather2020.com"
+}

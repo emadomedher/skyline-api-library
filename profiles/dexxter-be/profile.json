@@ -1,0 +1,13 @@
+{
+  "id": "dexxter-be",
+  "title": "Dexxter",
+  "subtitle": "Zelfstandige in bijberoep of student-ondernemer? Krijg vat op je boekhouding met Dexxter. Probeer het nu 30 dagen gra...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648506848/icons/dexxter-be.png",
+  "website": "https://dexxter.be/"
+}

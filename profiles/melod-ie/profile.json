@@ -1,0 +1,14 @@
+{
+  "id": "melod-ie",
+  "title": "Melodie",
+  "subtitle": "Melodie is an independent music library featuring exclusive tracks from some of the world’s best composers. We live a...",
+  "tags": [
+    "stock-music"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622932333/icons/melod-ie.jpg",
+  "website": "https://melod.ie/",
+  "docsUrl": "https://staging.melod.ie/openapi"
+}

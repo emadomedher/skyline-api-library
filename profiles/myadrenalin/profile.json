@@ -1,0 +1,14 @@
+{
+  "id": "myadrenalin",
+  "title": "Adrenalin eSystems",
+  "subtitle": "Adrenalin provides end to end Human Resource(HR) Management Software to automate your HR functions. It includes Payro...",
+  "tags": [
+    "hr",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599421356/icons/myadrenalin.jpg",
+  "website": "https://www.myadrenalin.com/"
+}

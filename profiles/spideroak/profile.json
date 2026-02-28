@@ -1,0 +1,14 @@
+{
+  "id": "spideroak",
+  "title": "SpiderOak",
+  "subtitle": "Posted and effective 12 August 2016 This Service Agreement (the “Agreement”) is between SpiderOak, Inc. (“SpiderOak”)...",
+  "tags": [
+    "file-storage",
+    "encryption"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578258067/catalog/spideroak/icon128x128.jpg",
+  "website": "https://spideroak.com/"
+}

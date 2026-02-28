@@ -1,0 +1,13 @@
+{
+  "id": "oneskyapp",
+  "title": "OneSky",
+  "subtitle": "OneSky's Award Winning Localization Platform is Designed for App & Game Developers. 1,000+ Prof. Translators. 50+ lan...",
+  "tags": [
+    "localization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561568398/catalog/oneskyapp/icon128x128.png",
+  "website": "https://oneskyapp.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jetstack-io",
+  "title": "Jetstack",
+  "subtitle": "We are a fast-growing Kubernetes professional services company that prides itself on helping startups and enterprises...",
+  "tags": [
+    "kubernetes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589508675/catalog/jetstack-io/icon128x128.jpg",
+  "website": "https://www.jetstack.io/"
+}

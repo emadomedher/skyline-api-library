@@ -1,0 +1,14 @@
+{
+  "id": "adobe-commerce",
+  "title": "Adobe Commerce",
+  "subtitle": "Magento is now Adobe Commerce. Build multichannel experiences for B2B and B2C customers on a single eCommerce platform.",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680207444/icons/adobe-commerce.png",
+  "website": "https://business.adobe.com/products/magento/magento-commerce.html",
+  "docsUrl": "https://developer.adobe.com/commerce/docs/"
+}

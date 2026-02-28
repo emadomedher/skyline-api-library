@@ -1,0 +1,13 @@
+{
+  "id": "lumaworkplace",
+  "title": "LUMA Workplace",
+  "subtitle": "Online platform of innovation tools and resources to solve problems faster and better, using LUMA's unique system of ...",
+  "tags": [
+    "design-thinking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648651302/icons/lumaworkplace.jpg",
+  "website": "https://www.lumaworkplace.com/"
+}

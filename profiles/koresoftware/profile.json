@@ -1,0 +1,14 @@
+{
+  "id": "koresoftware",
+  "title": "KORE Software",
+  "subtitle": "KORE Software is the global leader in engagement marketing solutions, sponsorship management and data intelligence fo...",
+  "tags": [
+    "engagement-marketing",
+    "sponsorship-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659480591/icons/koresoftware.jpg",
+  "website": "https://koresoftware.com/"
+}

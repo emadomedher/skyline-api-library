@@ -1,0 +1,14 @@
+{
+  "id": "bearer-sh",
+  "title": "Bearer",
+  "subtitle": "Bearer.sh lets you monitor, track performance, detect anomalies, and fix issues on your critical API usage. Install i...",
+  "tags": [
+    "api-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "bearer",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595895790/icons/bearer-sh.png",
+  "website": "https://www.bearer.sh/",
+  "docsUrl": "https://docs.bearer.sh"
+}

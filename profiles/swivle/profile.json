@@ -1,0 +1,14 @@
+{
+  "id": "swivle",
+  "title": "Swivle",
+  "subtitle": "Swivle provides intuitive digital asset management with unlimited storage for all your files. Switch to Swivle — orga...",
+  "tags": [
+    "digital-asset-management"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578584759/catalog/swivle/icon128x128.jpg",
+  "website": "https://www.swivle.com/",
+  "docsUrl": "https://help.swivle.com/reference-articles/the-swivle-api"
+}

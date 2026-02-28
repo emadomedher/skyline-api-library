@@ -1,0 +1,15 @@
+{
+  "id": "zonos",
+  "title": "Zonos",
+  "subtitle": "Zonos, decoding cross border by simplifying international ecommerce, landed cost and shipping with duty and tax softw...",
+  "tags": [
+    "ecommerce-marketing",
+    "cross-border-tax-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961843/catalog/zonos/icon128x128.png",
+  "website": "https://zonos.com",
+  "docsUrl": "https://zonos.com/developer-api-and-product-guide"
+}

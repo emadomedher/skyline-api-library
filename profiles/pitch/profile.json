@@ -1,0 +1,13 @@
+{
+  "id": "pitch",
+  "title": "Pitch",
+  "subtitle": "Pitch helps teams build better presentations: collaboratively, effectively, and beautifully.",
+  "tags": [
+    "presentations"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572122708/catalog/pitch/icon128x128.png",
+  "website": "https://pitch.com/"
+}

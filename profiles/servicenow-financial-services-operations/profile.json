@@ -1,0 +1,13 @@
+{
+  "id": "servicenow-financial-services-operations",
+  "title": "ServiceNow Financial Services Operations",
+  "subtitle": "Connect your entire financial institution with one platform. Provide efficient, resilient financial services operatio...",
+  "tags": [
+    "financial-service-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652083801/icons/servicenow-financial-services-operations.jpg",
+  "website": "https://www.servicenow.com/products/financial-services-operations.html"
+}

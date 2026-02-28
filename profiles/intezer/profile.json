@@ -1,0 +1,14 @@
+{
+  "id": "intezer",
+  "title": "Intezer",
+  "subtitle": "Intezer’s Genetic Malware Analysis technology enables security teams to automate memory and file analysis",
+  "tags": [
+    "security",
+    "malware-analysis"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579624672/catalog/intezer/icon128x128.png",
+  "website": "https://intezer.com/"
+}

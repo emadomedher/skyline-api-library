@@ -1,0 +1,13 @@
+{
+  "id": "jellybean-life",
+  "title": "Jellybean",
+  "subtitle": "Jellybean API integration",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683375415/icons/jellybean-life.png",
+  "website": "https://www.jellybean.life/"
+}

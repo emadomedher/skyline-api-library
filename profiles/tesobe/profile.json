@@ -1,0 +1,14 @@
+{
+  "id": "tesobe",
+  "title": "Tesobe",
+  "subtitle": "Open Banking and PSD2 solutions. \n\nTESOBE leads the Open Bank Project, the Open Source API platform for banks.  Disco...",
+  "tags": [
+    "open-banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801240/catalog/tesobe/icon128x128.png",
+  "website": "https://www.tesobe.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lamden-io",
+  "title": "Lamden",
+  "subtitle": "For fast blockchain solutions, Lamden is the top Python-Based blockchain cryptocurrency creation platform for the nex...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215698/icons/lamden-io.jpg",
+  "website": "https://lamden.io/",
+  "docsUrl": "https://developers.lamden.io"
+}

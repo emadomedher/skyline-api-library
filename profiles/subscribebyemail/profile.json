@@ -1,0 +1,15 @@
+{
+  "id": "subscribebyemail",
+  "title": "Subscribe by Email",
+  "subtitle": "Subscribe by Email is a free service that provides daily emails with fresh content from your favorite podcasts.",
+  "tags": [
+    "podcasts",
+    "newsletters"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/796717304230707200/SA_AuAbe_400x400.jpg",
+  "website": "https://subscribebyemail.com/",
+  "docsUrl": "https://subscribebyemail.com/developers"
+}

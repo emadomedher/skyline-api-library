@@ -1,0 +1,13 @@
+{
+  "id": "questback",
+  "title": "Questback",
+  "subtitle": "Questback allows you to listen and act on employee feedback to increase engagement, boost retention and unlock innova...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721682/catalog/questback/icon128x128.png",
+  "website": "https://questback.com"
+}

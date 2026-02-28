@@ -1,0 +1,14 @@
+{
+  "id": "talla",
+  "title": "Talla",
+  "subtitle": "Talla integrates with existing systems and workflows to build machine learning models of common tasks, answer common ...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566931683/catalog/talla/icon128x128.png",
+  "website": "https://talla.com/",
+  "docsUrl": "https://help.talla.com"
+}

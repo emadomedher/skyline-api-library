@@ -1,0 +1,15 @@
+{
+  "id": "gpt-3-api",
+  "title": "GPT-3 API",
+  "subtitle": "An API for accessing new AI models developed by OpenAI",
+  "tags": [
+    "api",
+    "ai",
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611927611/icons/gpt-3-api.jpg",
+  "website": "https://beta.openai.com/"
+}

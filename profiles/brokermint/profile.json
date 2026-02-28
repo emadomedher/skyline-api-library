@@ -1,0 +1,14 @@
+{
+  "id": "brokermint",
+  "title": "Brokermint",
+  "subtitle": "Real Estate Back Office Management Software",
+  "tags": [
+    "real-estate-back-office-management",
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207273/icons/brokermint.png",
+  "website": "https://brokermint.com/"
+}

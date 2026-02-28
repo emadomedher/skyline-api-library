@@ -1,0 +1,13 @@
+{
+  "id": "doist",
+  "title": "Doist",
+  "subtitle": "Remote work, simplified. Twist replaces messy email & chaotic chat tools with one organized, stress-free team communi...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947129/catalog/doist/icon128x128.jpg",
+  "website": "https://twist.com"
+}

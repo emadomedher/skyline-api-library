@@ -1,0 +1,13 @@
+{
+  "id": "salesseek",
+  "title": "SalesSeek",
+  "subtitle": "SalesSeek is a CRM, Marketing, and Customer Success Platform. Discover SalesSeek, the #1 Visual Sales CRM and busines...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178339/catalog/salesseek/icon128x128.png",
+  "website": "https://salesseek.net"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dockabl",
+  "title": "Dockabl",
+  "subtitle": "Dockabl enables organisations to manage work & performance, enabling teams to stay productive and inspired. Request a...",
+  "tags": [
+    "performance-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599421363/icons/dockabl.jpg",
+  "website": "https://www.dockabl.com/"
+}

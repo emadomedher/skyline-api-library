@@ -1,0 +1,13 @@
+{
+  "id": "lumio-app",
+  "title": "Lumio",
+  "subtitle": "Connect your financial life in seconds, get matched with the perfect financial products and start growing your money.",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625150192/icons/lumio-app.jpg",
+  "website": "https://www.lumio-app.com/"
+}

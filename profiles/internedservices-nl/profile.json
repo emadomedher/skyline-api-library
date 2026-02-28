@@ -1,0 +1,13 @@
+{
+  "id": "internedservices-nl",
+  "title": "KPN Internedservices",
+  "subtitle": "Internedservices biedt premium Cloud & Workspace oplossingen op abonnementsbasis die geen investeringen vereisen.",
+  "tags": [
+    "cloud-computing"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577948112/catalog/internedservices-nl/icon128x128.jpg",
+  "website": "https://www.internedservices.nl/"
+}

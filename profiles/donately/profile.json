@@ -1,0 +1,13 @@
+{
+  "id": "donately",
+  "title": "Donately",
+  "subtitle": "Donately makes online donations dead simple and provides a space for non-profits to manage their donors and online gi...",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304796/catalog/donately/icon128x128.png",
+  "website": "https://donately.com/"
+}

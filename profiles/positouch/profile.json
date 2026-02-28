@@ -1,0 +1,13 @@
+{
+  "id": "positouch",
+  "title": "POSiTouch",
+  "subtitle": "POSiTouch, the food service industry’s most feature rich POS system. Table service, quick service, country clubs, caf...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566602434/catalog/positouch/icon128x128.svg",
+  "website": "https://positouch.com/"
+}

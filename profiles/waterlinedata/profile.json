@@ -1,0 +1,14 @@
+{
+  "id": "waterlinedata",
+  "title": "Waterline Data",
+  "subtitle": "Waterline’s enterprise data catalog enables data professionals to discover, govern, and rationalize an organization's...",
+  "tags": [
+    "data-catalog",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581969858/catalog/waterlinedata/icon128x128.jpg",
+  "website": "https://www.waterlinedata.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "praiz-io",
+  "title": "The new home of your business conversations ",
+  "subtitle": "Easily search, manage and replay all your business videos and recordings. Let information flow across all your teams....",
+  "tags": [
+    "video-cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652051834/icons/praiz-io.png",
+  "website": "https://www.praiz.io/"
+}

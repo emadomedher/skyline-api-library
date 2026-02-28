@@ -1,0 +1,12 @@
+{
+  "id": "urlooker",
+  "title": "Urlooker",
+  "subtitle": "Urlooker is a tool for monitoring changes on web pages. Just select a page area, and you'll receive notifications abo...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284648/catalog/urlooker/icon128x128.png"
+}

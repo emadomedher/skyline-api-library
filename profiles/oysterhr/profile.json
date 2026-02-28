@@ -1,0 +1,16 @@
+{
+  "id": "oysterhr",
+  "title": "Oyster",
+  "subtitle": "Oyster makes it easy to hire, pay and give great benefits to your distributed team around the world.",
+  "tags": [
+    "remote",
+    "hr",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599052863/icons/oysterhr.jpg",
+  "website": "https://www.oysterhr.com/",
+  "docsUrl": "https://developer.oysterhr.com/"
+}

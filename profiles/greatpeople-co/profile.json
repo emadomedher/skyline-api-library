@@ -1,0 +1,14 @@
+{
+  "id": "greatpeople-co",
+  "title": "GreatPeople",
+  "subtitle": "We're an employee referral platform working to make it easier to recruit your next colleague. We help you with the en...",
+  "tags": [
+    "recruitment",
+    "employee-referrals"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582914371/catalog/greatpeople-co/icon128x128.png",
+  "website": "https://www.greatpeople.co/"
+}

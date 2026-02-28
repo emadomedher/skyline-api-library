@@ -1,0 +1,12 @@
+{
+  "id": "equiitext",
+  "title": "EquiiTEXT",
+  "subtitle": "EquiiTEXT is a simple SMS automation platform for sending custom follow-up messages to customers, backed by artificia...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284507/catalog/equiitext/icon128x128.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "closeio",
+  "title": "Close.io",
+  "subtitle": "Close is the inside sales CRM of choice for startups and SMBs. Make more calls, send more emails and close more deals...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304652/catalog/closeio/icon128x128.png",
+  "website": "https://close.com",
+  "docsUrl": "https://developer.close.com/"
+}

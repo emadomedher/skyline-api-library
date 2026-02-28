@@ -1,0 +1,14 @@
+{
+  "id": "ziggu-io",
+  "title": "Ziggu",
+  "subtitle": "Ziggu is the gold standard for streamlining your homebuyer journey in residential projects. Discover how property dev...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885579/icons/ziggu-io.png",
+  "website": "https://www.ziggu.io/",
+  "docsUrl": "https://www.ziggu.io/solutions/smart-collaboration"
+}

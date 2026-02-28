@@ -1,0 +1,14 @@
+{
+  "id": "extensiontree",
+  "title": "ExtensionTree",
+  "subtitle": "E-commerce extensies",
+  "tags": [
+    "plugins",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509316/catalog/extensiontree/icon128x128.png",
+  "website": "https://extensiontree.com"
+}

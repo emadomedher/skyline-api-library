@@ -1,0 +1,13 @@
+{
+  "id": "saasmql",
+  "title": "SaaSMQL",
+  "subtitle": "Done-for-you Account-Based Marketing programs for SaaS companies.",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082033/icons/saasmql.jpg",
+  "website": "https://www.saasmql.com/"
+}

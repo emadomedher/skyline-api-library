@@ -1,0 +1,13 @@
+{
+  "id": "google-adlingo",
+  "title": "AdLingo",
+  "subtitle": "AdLingo delivers engaging conversational ad experiences reaching the right audience, wherever they spend time online....",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573404903/catalog/google-adlingo/icon128x128.jpg",
+  "website": "https://adlingo.com/"
+}

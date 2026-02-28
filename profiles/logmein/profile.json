@@ -1,0 +1,13 @@
+{
+  "id": "logmein",
+  "title": "LogMeIn",
+  "subtitle": "Technology should work the way you do, so you can do your best work. A top-5 global SaaS company, LogMeIn is a market...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1549980757/catalog/logmein/icon128x128.png",
+  "website": "https://logmeininc.com"
+}

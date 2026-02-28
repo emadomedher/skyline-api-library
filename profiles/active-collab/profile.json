@@ -1,0 +1,13 @@
+{
+  "id": "active-collab",
+  "title": "Active Collab",
+  "subtitle": "ActiveCollab is the project management software that gives you complete control over your work - all tasks, communica...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717109/catalog/active-collab/icon128x128.jpg",
+  "website": "https://activecollab.com"
+}

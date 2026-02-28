@@ -1,0 +1,14 @@
+{
+  "id": "freshmarketer",
+  "title": "Freshmarketer",
+  "subtitle": "Freshmarketer is easy-to-use, full stack software, with robust marketing automation capabilities. ✓ Signup for Free F...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396568/icons/freshmarketer.png",
+  "website": "https://www.freshworks.com/marketing-automation/",
+  "docsUrl": "https://developers.google.com/terms/api-services-user-data-policy#additional-requirements-for-specific-api-scopes"
+}

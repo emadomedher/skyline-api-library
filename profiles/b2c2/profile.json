@@ -1,0 +1,13 @@
+{
+  "id": "b2c2",
+  "title": "B2C2",
+  "subtitle": "B2C2 API integration",
+  "tags": [
+    "crypto-trading"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616256836/icons/b2c2.jpg",
+  "website": "https://b2c2.com/"
+}

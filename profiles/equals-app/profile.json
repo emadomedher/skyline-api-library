@@ -1,0 +1,14 @@
+{
+  "id": "equals-app",
+  "title": "Equals",
+  "subtitle": "Equals is the only spreadsheet with built-in connections to any database, versioning, and collaboration.",
+  "tags": [
+    "financial-reporting",
+    "spreadsheet"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909628/icons/equals-app.png",
+  "website": "https://equals.app/"
+}

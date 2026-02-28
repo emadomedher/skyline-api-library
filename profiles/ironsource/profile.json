@@ -1,0 +1,13 @@
+{
+  "id": "ironsource",
+  "title": "ironSource",
+  "subtitle": "ironSource API integration",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435252/catalog/ironsource/icon128x128.png",
+  "website": "https://ironsrc.com"
+}

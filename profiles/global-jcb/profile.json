@@ -1,0 +1,14 @@
+{
+  "id": "global-jcb",
+  "title": "JCB",
+  "subtitle": "JCB, Japan's only international payment brand.We have a variety of useful services available and information for JCB ...",
+  "tags": [
+    "payments",
+    "payment-methods"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591042202/catalog/global-jcb/icon128x128.png",
+  "website": "https://www.global.jcb/"
+}

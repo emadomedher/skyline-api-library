@@ -1,0 +1,13 @@
+{
+  "id": "pushed",
+  "title": "Pushed",
+  "subtitle": "Pushed API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962555/catalog/pushed/icon128x128.png",
+  "website": "https://pushed.co"
+}

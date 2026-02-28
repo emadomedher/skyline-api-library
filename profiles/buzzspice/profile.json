@@ -1,0 +1,13 @@
+{
+  "id": "buzzspice",
+  "title": "BuzzSpice",
+  "subtitle": "4 minutes a day",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719302/catalog/buzzspice/icon128x128.png",
+  "website": "https://buzzspice.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vbout",
+  "title": "VBOUT",
+  "subtitle": "VBOUT is a marketing platform which helps you optimize the customer journey with powerful email, social media and lea...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306420/catalog/vbout/icon128x128.png",
+  "website": "https://vbout.com"
+}

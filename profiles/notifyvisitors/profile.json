@@ -1,0 +1,13 @@
+{
+  "id": "notifyvisitors",
+  "title": "NotifyVisitors",
+  "subtitle": "Multi-channel customer engagement software. Engage customers via Web Push Notification, Feedback Survey, Mobile Push ...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946773/catalog/notifyvisitors/icon128x128.jpg",
+  "website": "https://notifyvisitors.com"
+}

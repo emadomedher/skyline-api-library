@@ -1,0 +1,13 @@
+{
+  "id": "zendesk-chat",
+  "title": "Zendesk Chat",
+  "subtitle": "Zendesk Chat API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1549979845/catalog/zendesk-chat/icon128x128.png",
+  "website": "https://www.zendesk.com/chat/"
+}

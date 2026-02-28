@@ -1,0 +1,13 @@
+{
+  "id": "raisemetrics",
+  "title": "RaiseMetrics",
+  "subtitle": "RaiseMetrics API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436798/catalog/raisemetrics/icon128x128.png",
+  "website": "https://raisemetrics.com"
+}

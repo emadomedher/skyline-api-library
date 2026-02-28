@@ -1,0 +1,13 @@
+{
+  "id": "appointmentguru-co",
+  "title": "AppointmentGuru",
+  "subtitle": "AppointmentGuru helps you to automate appointments, invoices, statements and customer management. It has an online ca...",
+  "tags": [
+    "appointment-scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616759225/icons/appointmentguru-co.png",
+  "website": "https://appointmentguru.co/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4demit",
+  "title": "4Dem.it",
+  "subtitle": "4Dem: software per l'email marketing 100% made in Italy. Invii superveloci, contatti illimitati e assistenza in itali...",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304336/catalog/4demit/icon128x128.png",
+  "website": "https://www.4dem.it/",
+  "docsUrl": "https://developers.4dem.it"
+}

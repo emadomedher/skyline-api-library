@@ -1,0 +1,13 @@
+{
+  "id": "queuebuster-co",
+  "title": "QueueBuster",
+  "subtitle": "QueueBuster™ is India's Business Super App. Manage invoices, inventory, customers, loyalty, khata, online dukaan and ...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655161740/icons/queuebuster-co.jpg",
+  "website": "https://queuebuster.co/"
+}

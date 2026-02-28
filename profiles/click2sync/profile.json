@@ -1,0 +1,13 @@
+{
+  "id": "click2sync",
+  "title": "Click2Sync",
+  "subtitle": "Click2Sync API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433747/catalog/click2sync/icon128x128.png",
+  "website": "https://click2sync.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fiscaaltotaal-nl",
+  "title": "FiscaalTotaal",
+  "subtitle": "FiscaalTotaal API integration",
+  "tags": [
+    "tax",
+    "fiscal"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509869/catalog/fiscaaltotaal-nl/icon128x128.jpg",
+  "website": "https://www.fiscaaltotaal.nl/"
+}

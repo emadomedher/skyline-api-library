@@ -1,0 +1,14 @@
+{
+  "id": "ceridian-dayforce",
+  "title": "Ceridian Dayforce",
+  "subtitle": "Dayforce is a modern HCM cloud software platform built to meet your human capital management needs in payroll, benefi...",
+  "tags": [
+    "hris",
+    "hcm"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660391/icons/ceridian-dayforce.png",
+  "website": "https://www.ceridian.com/products/dayforce"
+}

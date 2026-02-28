@@ -1,0 +1,12 @@
+{
+  "id": "microsoft-school-data-sync",
+  "title": "Microsoft School Data Sync",
+  "subtitle": "Microsoft School Data Sync API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264808/catalog/microsoft-school-data-sync/icon128x128.png"
+}

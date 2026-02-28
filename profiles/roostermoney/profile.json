@@ -1,0 +1,13 @@
+{
+  "id": "roostermoney",
+  "title": "RoosterMoney",
+  "subtitle": "RoosterMoney is a free kids' allowance and chores app. We help parents teach their kids the value of money. Manage al...",
+  "tags": [
+    "allowance-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610985339/icons/roostermoney.jpg",
+  "website": "https://roostermoney.com/"
+}

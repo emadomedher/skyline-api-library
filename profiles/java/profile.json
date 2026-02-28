@@ -1,0 +1,13 @@
+{
+  "id": "java",
+  "title": "Java",
+  "subtitle": "Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few impl...",
+  "tags": [
+    "programming-language"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557151307/catalog/java/icon128x128.png",
+  "website": "https://www.java.com/"
+}

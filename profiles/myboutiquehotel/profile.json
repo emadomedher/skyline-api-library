@@ -1,0 +1,14 @@
+{
+  "id": "myboutiquehotel",
+  "title": "MyBoutiqueHotel",
+  "subtitle": "Discover the world's best collection of boutique hotels. From NYC to Paris or London, we help you to find the best ho...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612636595/icons/myboutiquehotel.jpg",
+  "website": "https://www.myboutiquehotel.com/"
+}

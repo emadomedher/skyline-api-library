@@ -1,0 +1,14 @@
+{
+  "id": "qadeputy",
+  "title": "QADeputy",
+  "subtitle": "QADeputy API integration",
+  "tags": [
+    "qa"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676570033/icons/qadeputy.png",
+  "website": "https://qadeputy.com/",
+  "docsUrl": "https://apidocs.qadeputy.com"
+}

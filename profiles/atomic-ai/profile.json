@@ -1,0 +1,13 @@
+{
+  "id": "atomic-ai",
+  "title": "Atomic AI",
+  "subtitle": "Atomic AI is building the foundation for AI-driven RNA drug discovery.",
+  "tags": [
+    "drug-discovery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674851884/icons/atomic-ai.jpg",
+  "website": "https://atomic.ai/"
+}

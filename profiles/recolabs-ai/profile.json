@@ -1,0 +1,13 @@
+{
+  "id": "recolabs-ai",
+  "title": "RecoLabs",
+  "subtitle": "Our mission is to Secure Collaboration at the Speed of Business",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017175/icons/recolabs-ai.png",
+  "website": "https://recolabs.ai/"
+}

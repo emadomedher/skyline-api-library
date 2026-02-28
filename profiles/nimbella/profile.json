@@ -1,0 +1,14 @@
+{
+  "id": "nimbella",
+  "title": "Nimbella",
+  "subtitle": "Simplify Cloud. Nimbella makes it easy to build web, IOT, AI, ML, real-time data, stateful, long-running apps on AWS ...",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599269144/icons/nimbella.png",
+  "website": "https://nimbella.com/",
+  "docsUrl": "https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "osmosis",
+  "title": "Osmosis",
+  "subtitle": "Osmosis is a web app that helps creative people cut project start time by creating reusable client questionnaires and...",
+  "tags": [
+    "proposals-&-invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305600/catalog/osmosis/icon128x128.png",
+  "website": "https://www.getosmosis.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ninox",
+  "title": "Ninox",
+  "subtitle": "Ninox is a low code database that empowers your team to quickly build custom business applications.",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284561/catalog/ninox/icon128x128.png",
+  "website": "https://zapier.com/apps/ninox/integrations"
+}

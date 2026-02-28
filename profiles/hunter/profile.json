@@ -1,0 +1,13 @@
+{
+  "id": "hunter",
+  "title": "Hunter",
+  "subtitle": "An easy tool to find and verify professional email addresses.",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305148/catalog/hunter/icon128x128.png",
+  "website": "https://hunter.io"
+}

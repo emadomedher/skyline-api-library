@@ -1,0 +1,13 @@
+{
+  "id": "ticktick",
+  "title": "TickTick",
+  "subtitle": "TickTick is a simple and effective to-do list and task manager app with seamless cloud synchronization across all you...",
+  "tags": [
+    "to-do-lists"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830039/catalog/ticktick/icon128x128.jpg",
+  "website": "https://ticktick.com"
+}

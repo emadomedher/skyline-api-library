@@ -1,0 +1,13 @@
+{
+  "id": "parlia",
+  "title": "Parlia",
+  "subtitle": "Parlia is a wiki. Together, we are building an encyclopedia of the world’s opinions to help us better understand the ...",
+  "tags": [
+    "qanda"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589110330/catalog/parlia/icon128x128.jpg",
+  "website": "https://parlia.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cosmose-co",
+  "title": "Cosmose",
+  "subtitle": "Cosmose AI understands, predicts and influences how 1B people shop offline. Seamless, accurate, everywhere.",
+  "tags": [
+    "foot-traffic",
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599025784/icons/cosmose-co.png",
+  "website": "https://cosmose.co/"
+}

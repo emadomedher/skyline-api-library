@@ -1,0 +1,13 @@
+{
+  "id": "inuvo",
+  "title": "Inuvo",
+  "subtitle": "Inuvo API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435221/catalog/inuvo/icon128x128.png",
+  "website": "https://inuvo.com"
+}

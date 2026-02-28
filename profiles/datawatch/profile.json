@@ -1,0 +1,13 @@
+{
+  "id": "datawatch",
+  "title": "Datawatch",
+  "subtitle": "Transform your business with the power of data intelligence. Datawatch solutions improve the accessibility, usability...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964080/catalog/datawatch/icon128x128.png",
+  "website": "https://datawatch.com"
+}

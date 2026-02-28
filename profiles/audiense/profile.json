@@ -1,0 +1,13 @@
+{
+  "id": "audiense",
+  "title": "Audiense",
+  "subtitle": "Audiense API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719082/catalog/audiense/icon128x128.jpg",
+  "website": "https://audiense.com"
+}

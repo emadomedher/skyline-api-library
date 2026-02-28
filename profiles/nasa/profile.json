@@ -1,0 +1,14 @@
+{
+  "id": "nasa",
+  "title": "NASA",
+  "subtitle": "NASA.gov brings you the latest news, images and videos from America's space agency, pioneering the future in space ex...",
+  "tags": [
+    "aerospace"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630993341/icons/nasa.jpg",
+  "website": "https://nasa.gov/",
+  "docsUrl": "https://api.nasa.gov/"
+}

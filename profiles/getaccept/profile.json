@@ -1,0 +1,13 @@
+{
+  "id": "getaccept",
+  "title": "GetAccept",
+  "subtitle": "E-signing, Sales Automation, e-signatures and smart document tracking to get contracts signed - E-sign sales document...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826505/catalog/getaccept/icon128x128.png",
+  "website": "https://getaccept.com"
+}

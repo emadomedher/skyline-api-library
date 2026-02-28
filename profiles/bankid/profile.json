@@ -1,0 +1,13 @@
+{
+  "id": "bankid",
+  "title": "BankID Sverige",
+  "subtitle": "BankID är en elektronisk ID-handling som är jämförbar med pass, körkort och andra fysiska legitimationshandlingar.",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579472852/catalog/bankid/icon128x128.jpg",
+  "website": "https://www.bankid.com/"
+}

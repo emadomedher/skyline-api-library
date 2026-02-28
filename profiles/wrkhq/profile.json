@@ -1,0 +1,15 @@
+{
+  "id": "wrkhq",
+  "title": "Wrk",
+  "subtitle": "Wrk gives you a beautiful site to display your job openings and a powerful dashboard to manage applicants.",
+  "tags": [
+    "ats",
+    "hiring"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215658/icons/wrkhq.jpg",
+  "website": "https://wrkhq.com/",
+  "docsUrl": "https://help.wrkhq.com"
+}

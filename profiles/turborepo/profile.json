@@ -1,0 +1,15 @@
+{
+  "id": "turborepo",
+  "title": "Turborepo",
+  "subtitle": "Turborepo API integration",
+  "tags": [
+    "build-systems",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656785/icons/turborepo.jpg",
+  "website": "https://turborepo.org/",
+  "docsUrl": "https://turborepo.org/docs"
+}

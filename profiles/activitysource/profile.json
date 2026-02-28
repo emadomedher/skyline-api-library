@@ -1,0 +1,14 @@
+{
+  "id": "activitysource",
+  "title": "ActivitySource",
+  "subtitle": "ActivitySource API integration",
+  "tags": [
+    "sales",
+    "channel"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599674699/icons/activitysource.jpg",
+  "website": "https://www.activitysource.com/"
+}

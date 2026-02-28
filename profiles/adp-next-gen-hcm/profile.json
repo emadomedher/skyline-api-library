@@ -1,0 +1,14 @@
+{
+  "id": "adp-next-gen-hcm",
+  "title": "ADP Next Gen HCM",
+  "subtitle": "Next Gen HCM from ADP: A customizable platform built to support today's world of work.",
+  "tags": [
+    "hcm",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670332932/icons/adp-next-gen-hcm.png",
+  "website": "https://www.adp.com/what-we-offer/products/next-gen-hcm.aspx"
+}

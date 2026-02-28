@@ -1,0 +1,13 @@
+{
+  "id": "crosscap",
+  "title": "CrossCap",
+  "subtitle": "CrossCap's marketing management software helps you plan, execute, and measure the effectiveness of your marketing cam...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719656/catalog/crosscap/icon128x128.jpg",
+  "website": "https://crosscap.com"
+}

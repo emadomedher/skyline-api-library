@@ -1,0 +1,13 @@
+{
+  "id": "ometrics",
+  "title": "Ometrics",
+  "subtitle": "Ometrics API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963466/catalog/ometrics/icon128x128.png",
+  "website": "https://ometrics.com"
+}

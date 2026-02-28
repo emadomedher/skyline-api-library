@@ -1,0 +1,12 @@
+{
+  "id": "visma-eaccounting",
+  "title": "Visma eAccounting",
+  "subtitle": "Visma eAccounting is een complete cloudoplossing voor ondernemers en bevat een compleet pakket voor boekhouden en fac...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256987/catalog/visma-eaccounting/icon128x128.jpg"
+}

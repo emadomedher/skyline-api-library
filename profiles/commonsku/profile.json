@@ -1,0 +1,13 @@
+{
+  "id": "commonsku",
+  "title": "commonsku",
+  "subtitle": "commonsku is a CRM software for promotional products industry. Top ranked promotional products software for Order Man...",
+  "tags": [
+    "promotional-products"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975846/icons/commonsku.jpg",
+  "website": "https://www.commonsku.com/"
+}

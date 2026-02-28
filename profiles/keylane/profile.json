@@ -1,0 +1,13 @@
+{
+  "id": "keylane",
+  "title": "Keylane",
+  "subtitle": "Keylane API integration",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613629352/icons/keylane.png",
+  "website": "https://keylane.com/"
+}

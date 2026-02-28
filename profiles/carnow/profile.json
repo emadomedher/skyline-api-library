@@ -1,0 +1,13 @@
+{
+  "id": "carnow",
+  "title": "CarNow",
+  "subtitle": "Transforming the way dealers communicate and transact with customers",
+  "tags": [
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647206955/icons/carnow.jpg",
+  "website": "https://www.carnow.com/"
+}

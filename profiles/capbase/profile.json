@@ -1,0 +1,15 @@
+{
+  "id": "capbase",
+  "title": "Capbase",
+  "subtitle": "Capbase is a digital back-end for your startup: Incorporation, cap table management, stock issuance, corporate govern...",
+  "tags": [
+    "company-incorporation",
+    "equity-management",
+    "startups"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595809084/icons/capbase.jpg",
+  "website": "https://capbase.com/"
+}

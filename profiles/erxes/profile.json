@@ -1,0 +1,14 @@
+{
+  "id": "erxes",
+  "title": "Erxes",
+  "subtitle": "Marketing, sales, and customer service platform designed to help your business attract more engaged customers. Replac...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562004417/catalog/erxes/icon128x128.jpg",
+  "website": "https://erxes.io/",
+  "docsUrl": "https://docs.erxes.io/docs/overview.html"
+}

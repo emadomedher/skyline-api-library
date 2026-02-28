@@ -1,0 +1,13 @@
+{
+  "id": "payproglobal",
+  "title": "PayPro Global",
+  "subtitle": "Sell your software and Saas online with PayPro Global E-commerce Platform. Flexible solution, Over 70 payment methods...",
+  "tags": [
+    "subscription-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093471/icons/payproglobal.jpg",
+  "website": "https://payproglobal.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nopcommerce",
+  "title": "nopcommerce",
+  "subtitle": "nopcommerce API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963498/catalog/nopcommerce/icon128x128.png",
+  "website": "https://nopcommerce.com"
+}

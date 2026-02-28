@@ -1,0 +1,14 @@
+{
+  "id": "fruitionsite",
+  "title": "Fruition",
+  "subtitle": "Perfect for your portfolio, blog, landing page, or business site. Features: pretty links, custom domains, Google Font...",
+  "tags": [
+    "websites",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612303705/icons/fruitionsite.png",
+  "website": "https://fruitionsite.com/"
+}

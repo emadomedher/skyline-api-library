@@ -1,0 +1,16 @@
+{
+  "id": "playht",
+  "title": "Play.ht",
+  "subtitle": "AI Voice Generator with 600+ AI voices. Generate realistic Text to Speech voice over online with AI. Convert text to ...",
+  "tags": [
+    "text-to-audio",
+    "text-to-speech",
+    "voice-generators"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671054655/icons/playht.png",
+  "website": "https://play.ht/",
+  "docsUrl": "https://github.com/playht/text-to-speech-api"
+}

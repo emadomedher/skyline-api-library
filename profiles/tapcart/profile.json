@@ -1,0 +1,14 @@
+{
+  "id": "tapcart",
+  "title": "Tapcart",
+  "subtitle": "Turn your mobile visitors into your best customers by creating a Tapcart mobile ecommerce app for your Shopify store....",
+  "tags": [
+    "mobile-shopping",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591112902/icons/tapcart.jpg",
+  "website": "https://tapcart.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "storybox",
+  "title": "StoryBox",
+  "subtitle": "StoryBox helps companies make their Instagram shoppable. Our technology \nmakes it simple to find your best customer p...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962207/catalog/storybox/icon128x128.png",
+  "website": "https://storybox.io"
+}

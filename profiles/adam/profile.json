@@ -1,0 +1,13 @@
+{
+  "id": "adam",
+  "title": "ADAM",
+  "subtitle": "Aprimo's leading Digital Asset Management Software & MRM System allow you to optimize your marketing processes, brand...",
+  "tags": [
+    "dam-and-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947317/catalog/adam/icon128x128.jpg",
+  "website": "https://adamsoftware.net"
+}

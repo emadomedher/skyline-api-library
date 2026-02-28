@@ -1,0 +1,13 @@
+{
+  "id": "resto-in-fr",
+  "title": "Resto-in",
+  "subtitle": "Commandez votre repas chez Resto-in depuis les meilleurs restaurants et pâtissiers de votre ville. Livraison de repas...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576169162/catalog/resto-in-fr/icon128x128.png",
+  "website": "https://www.resto-in.fr/"
+}

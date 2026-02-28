@@ -1,0 +1,13 @@
+{
+  "id": "makeheroes-co",
+  "title": "Heroes",
+  "subtitle": "Heroes is a technology-driven ecommerce company that acquires, operates and scales small and medium-sized FBA brands ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605220286/icons/makeheroes-co.png",
+  "website": "https://www.makeheroes.co/"
+}

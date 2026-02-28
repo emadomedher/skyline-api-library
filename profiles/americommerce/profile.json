@@ -1,0 +1,13 @@
+{
+  "id": "americommerce",
+  "title": "AmeriCommerce",
+  "subtitle": "AmeriCommerce is a Powerful Ecommerce Software and Shopping Cart Solutions provider. Try it Free and Sell Online today!",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580816790/catalog/americommerce/icon128x128.jpg",
+  "website": "https://www.americommerce.com/"
+}

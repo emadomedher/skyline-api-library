@@ -1,0 +1,13 @@
+{
+  "id": "socialbluebook",
+  "title": "Social Bluebook",
+  "subtitle": "KNOW YOUR WORTH ON SOCIAL MEDIA Join Social Bluebook to get access to tools, education, and a creator community to he...",
+  "tags": [
+    "infuencer"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586354019/catalog/socialbluebook/icon128x128.jpg",
+  "website": "https://home.socialbluebook.com/"
+}

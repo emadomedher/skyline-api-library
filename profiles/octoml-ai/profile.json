@@ -1,0 +1,13 @@
+{
+  "id": "octoml-ai",
+  "title": "OctoML",
+  "subtitle": "OctoML",
+  "tags": [
+    "machine-learning-model-deployment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613154088/icons/octoml-ai.jpg",
+  "website": "https://octoml.ai/"
+}

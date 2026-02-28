@@ -1,0 +1,12 @@
+{
+  "id": "gigabook",
+  "title": "GigaBook",
+  "subtitle": "GigaBook is a cloud-based appointment booking platform designed to help businesses take appointments online.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284526/catalog/gigabook/icon128x128.png"
+}

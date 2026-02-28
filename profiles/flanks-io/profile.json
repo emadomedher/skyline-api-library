@@ -1,0 +1,14 @@
+{
+  "id": "flanks-io",
+  "title": "Flanks",
+  "subtitle": "Develop the future of fintech with Flanks, the technology layer for financial services. Flanks enables applications t...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567075566/catalog/flanks-io/icon128x128.png",
+  "website": "https://flanks.io/",
+  "docsUrl": "https://docs.flanks.io"
+}

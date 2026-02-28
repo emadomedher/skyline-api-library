@@ -1,0 +1,14 @@
+{
+  "id": "leaveboard",
+  "title": "LeaveBoard",
+  "subtitle": "HR tools to track employee time-off (like vacations, personal time off, and leaves of absence), centralize workforce ...",
+  "tags": [
+    "hr",
+    "smb"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565624062/catalog/leaveboard/icon128x128.jpg",
+  "website": "https://leaveboard.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "autopailot",
+  "title": "Autopailot",
+  "subtitle": "Let AI reply to your customers' questions, more reliably than a human would, in any language, with no wait times. 100...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679699261/icons/autopailot.png",
+  "website": "https://www.autopailot.com/"
+}

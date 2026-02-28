@@ -1,0 +1,14 @@
+{
+  "id": "hyscore-io",
+  "title": "hyscore.io",
+  "subtitle": "hyScore.io - The Content Intelligence Platform. We offer several solutions in the space of Natural Language Processin...",
+  "tags": [
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578474633/catalog/hyscore-io/icon128x128.png",
+  "website": "https://hyscore.io/",
+  "docsUrl": "https://hyscore.io/category/developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sendowl",
+  "title": "SendOwl",
+  "subtitle": "SendOwl makes it easy for you to sell digital products direct to your audience from your blog, social media or anywhe...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306019/catalog/sendowl/icon128x128.png",
+  "website": "https://www.sendowl.com/",
+  "docsUrl": "https://help.sendowl.com"
+}

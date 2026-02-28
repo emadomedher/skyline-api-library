@@ -1,0 +1,13 @@
+{
+  "id": "kajabi",
+  "title": "Kajabi",
+  "subtitle": "Kajabi is an all-in-one business platform to create and scale your knowledge business. Try Kajabi for free with a 14-...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477969/catalog/kajabi/icon128x128.png",
+  "website": "https://newkajabi.com/"
+}

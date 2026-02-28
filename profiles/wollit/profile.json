@@ -1,0 +1,13 @@
+{
+  "id": "wollit",
+  "title": "Wollit",
+  "subtitle": "Get cash top-ups whenever you earn less than normal. Keep the money interest-free. Pay us back when your earnings imp...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585655808/catalog/wollit/icon128x128.png",
+  "website": "https://wollit.com/"
+}

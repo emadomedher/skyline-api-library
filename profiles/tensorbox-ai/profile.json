@@ -1,0 +1,14 @@
+{
+  "id": "tensorbox-ai",
+  "title": "TensorBox",
+  "subtitle": "No-code and API interface for GPT models",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637851170/icons/tensorbox-ai.jpg",
+  "website": "https://www.tensorbox.ai/",
+  "docsUrl": "https://www.tensorbox.ai/developer_model_tutorial"
+}

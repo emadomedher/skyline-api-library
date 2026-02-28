@@ -1,0 +1,12 @@
+{
+  "id": "masterbase",
+  "title": "MasterBase",
+  "subtitle": "MasterBase is a complete software-as-a-service solution, easily accessible and scalable for all your email-marketing ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305399/catalog/masterbase/icon128x128.png"
+}

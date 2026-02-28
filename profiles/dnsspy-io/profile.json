@@ -1,0 +1,14 @@
+{
+  "id": "dnsspy-io",
+  "title": "DNS Spy",
+  "subtitle": "DNS Spy: Paranoid about your DNS. Monitor &amp; back-up your DNS, get alerts when your DNS changes.",
+  "tags": [
+    "dns",
+    "security"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565267087/catalog/dnsspy-io/icon128x128.jpg",
+  "website": "https://dnsspy.io"
+}

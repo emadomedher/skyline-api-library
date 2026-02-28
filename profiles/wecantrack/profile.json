@@ -1,0 +1,14 @@
+{
+  "id": "wecantrack",
+  "title": "Affiliate Sales in Google Analytics - WeCanTrack (Free Trial)",
+  "subtitle": "Track and integrate commissions from Affiliate Networks into Google Analytics, Google Ads, BigQuery, Data Studio and ...",
+  "tags": [
+    "affiliate-marketing",
+    "affiliate-tracking"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593007710/icons/wecantrack.png",
+  "website": "https://wecantrack.com/"
+}

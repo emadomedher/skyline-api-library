@@ -1,0 +1,13 @@
+{
+  "id": "qualaroo",
+  "title": "Qualaroo",
+  "subtitle": "Qualaroo is a SaaS company that enables companies to gain valuable insights from their prospects and customers in rea...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305803/catalog/qualaroo/icon128x128.png",
+  "website": "https://qualaroo.com"
+}

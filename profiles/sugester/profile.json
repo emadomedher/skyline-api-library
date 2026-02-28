@@ -1,0 +1,13 @@
+{
+  "id": "sugester",
+  "title": "Sugester",
+  "subtitle": " Sugester is a simple and powerful helpdesk that helps you deliver stellar customer service every time.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946519/catalog/sugester/icon128x128.png",
+  "website": "https://sugester.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gong",
+  "title": "Gong",
+  "subtitle": "Generate more revenue by having better sales conversations with the #1 revenue intelligence platform for sales optimi...",
+  "tags": [
+    "call-analytics-and-management",
+    "conversation-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687512161/icons/gong.jpg",
+  "website": "https://gong.io"
+}

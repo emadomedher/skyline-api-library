@@ -1,0 +1,13 @@
+{
+  "id": "mojo-helpdesk",
+  "title": "Mojo Helpdesk",
+  "subtitle": "Help desk software that lets you centralize, assign, and track customer support requests as well as internal help des...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305469/catalog/mojo-helpdesk/icon128x128.png",
+  "website": "https://mojohelpdesk.com/"
+}

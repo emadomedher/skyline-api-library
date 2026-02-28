@@ -1,0 +1,13 @@
+{
+  "id": "mtivity",
+  "title": "Mtivity",
+  "subtitle": "Mtivity provides software to manage creative studio operations and the marketing procurement processes of corporates,...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721193/catalog/mtivity/icon128x128.jpg",
+  "website": "https://mtivity.com"
+}

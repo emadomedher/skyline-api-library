@@ -1,0 +1,14 @@
+{
+  "id": "breezy-hr",
+  "title": "Breezy",
+  "subtitle": "A uniquely simple, visual recruiting tool and applicant tracking system.",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304542/catalog/breezy-hr/icon128x128.png",
+  "website": "https://www.breezy.hr/",
+  "docsUrl": "https://developer.breezy.hr/"
+}

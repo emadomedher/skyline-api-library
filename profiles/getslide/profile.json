@@ -1,0 +1,14 @@
+{
+  "id": "getslide",
+  "title": "Slide",
+  "subtitle": "Slide is the fastest, most rewarding way to pay for everyday purchases in-store or online.",
+  "tags": [
+    "cash-back",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595597627/icons/getslide.jpg",
+  "website": "https://getslide.com/"
+}

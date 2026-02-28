@@ -1,0 +1,12 @@
+{
+  "id": "cas",
+  "title": "CAS",
+  "subtitle": "The Central Authentication Service (CAS) is a single sign-on protocol for the web.[1] Its purpose is to permit a user...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563067309/catalog/cas/icon128x128.png"
+}

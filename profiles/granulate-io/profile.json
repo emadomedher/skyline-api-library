@@ -1,0 +1,13 @@
+{
+  "id": "granulate-io",
+  "title": "Granulate",
+  "subtitle": "Granulate is a real-time continuous optimization solution increasing throughput 5X, reducing latency by 40% and cutti...",
+  "tags": [
+    "cloud-cost-optimization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587645904/catalog/granulate-io/icon128x128.png",
+  "website": "https://granulate.io/"
+}

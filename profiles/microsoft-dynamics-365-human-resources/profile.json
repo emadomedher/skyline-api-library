@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-dynamics-365-human-resources",
+  "title": "Microsoft Dynamics 365 Human Resources",
+  "subtitle": "Create a workplace where people and business thrive with Dynamics 365 Human Resources, an HR app that helps you reduc...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632258390/icons/microsoft-dynamics-365-human-resources.jpg",
+  "website": "https://dynamics.microsoft.com/human-resources/overview/"
+}

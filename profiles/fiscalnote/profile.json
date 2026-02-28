@@ -1,0 +1,13 @@
+{
+  "id": "fiscalnote",
+  "title": "FiscalNote",
+  "subtitle": "The #1 most trusted partner for managing the global issues and policy affairs that present the biggest risks and oppo...",
+  "tags": [
+    "market-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679988655/icons/fiscalnote.jpg",
+  "website": "https://fiscalnote.com/"
+}

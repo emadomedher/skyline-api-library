@@ -1,0 +1,13 @@
+{
+  "id": "crugo",
+  "title": "Crugo",
+  "subtitle": "Crugo is an out of the box, communication platform that increases your business`s productivity by streamlining commun...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304711/catalog/crugo/icon128x128.png",
+  "website": "https://crugo.com"
+}

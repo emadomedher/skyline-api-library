@@ -1,0 +1,15 @@
+{
+  "id": "blackline",
+  "title": "BlackLine",
+  "subtitle": "BlackLine automates complex, manual, and repetitive accounting processes in a unified cloud that enables accounting a...",
+  "tags": [
+    "accounting",
+    "accounts-receivable"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661844583/icons/blackline.jpg",
+  "website": "https://www.blackline.com/",
+  "docsUrl": "https://developer.blackline.com/"
+}

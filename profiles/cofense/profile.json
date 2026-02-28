@@ -1,0 +1,13 @@
+{
+  "id": "cofense",
+  "title": "Cofense",
+  "subtitle": "Cofense provides comprehensive phishing prevention and awareness training services to protect your data, reputation, ...",
+  "tags": [
+    "phishing-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592483266/icons/cofense.jpg",
+  "website": "https://cofense.com/"
+}

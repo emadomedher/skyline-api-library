@@ -1,0 +1,14 @@
+{
+  "id": "braze",
+  "title": "Braze",
+  "subtitle": "Braze is an engagement platform that empowers growth by helping marketing teams to build customer loyalty through mob...",
+  "tags": [
+    "optimization-personalization-and-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719236/catalog/braze/icon128x128.jpg",
+  "website": "https://braze.com",
+  "docsUrl": "https://www.braze.com/docs"
+}

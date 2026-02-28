@@ -1,0 +1,13 @@
+{
+  "id": "centurylink",
+  "title": "CenturyLink",
+  "subtitle": "At CenturyLink's official site, find digital solutions for your home or business including Internet, Phone, TV, Manag...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598821752/icons/centurylink.png",
+  "website": "https://www.centurylink.com/"
+}

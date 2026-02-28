@@ -1,0 +1,13 @@
+{
+  "id": "apiday",
+  "title": "apiday",
+  "subtitle": "Gain control of your ESG data, easily comply with requests from stakeholders and unlock new opportunities with the ap...",
+  "tags": [
+    "esg"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652103662/icons/apiday.jpg",
+  "website": "https://apiday.com/"
+}

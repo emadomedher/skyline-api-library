@@ -1,0 +1,13 @@
+{
+  "id": "veem",
+  "title": "Veem",
+  "subtitle": "Veem is an online global bank transfer service for you to send &amp; receive payments internationally with ease.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830043/catalog/veem/icon128x128.jpg",
+  "website": "https://veem.com"
+}

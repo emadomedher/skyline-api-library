@@ -1,0 +1,14 @@
+{
+  "id": "vcita",
+  "title": "vCita",
+  "subtitle": "Drive more business and deliver amazing service with vcita | Join 1.4 mio. small businesses running on vcita | Try 14...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306421/catalog/vcita/icon128x128.png",
+  "website": "https://www.vcita.com/",
+  "docsUrl": "http://developers.vcita.com"
+}

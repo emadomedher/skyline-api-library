@@ -1,0 +1,13 @@
+{
+  "id": "payfazz",
+  "title": "PT Payfazz Teknologi Nusantara",
+  "subtitle": "Bisnis PPOB (Payment Point Online Bank) serta Agen Pulsa di PAYFAZZ bisa menjadikan Kamu Jutawan dengan layanan yang ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590657040/catalog/payfazz/icon128x128.png",
+  "website": "https://www.payfazz.com/"
+}

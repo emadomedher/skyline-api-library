@@ -1,0 +1,14 @@
+{
+  "id": "tescobank",
+  "title": "Tesco Bank",
+  "subtitle": "Tesco Bank is a British retail bank which was formed in July 1997, and which has been wholly owned by Tesco plc since...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601899938/icons/tescobank.jpg",
+  "website": "https://www.tescobank.com/",
+  "docsUrl": "https://www.tescobank.com/developer"
+}

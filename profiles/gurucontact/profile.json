@@ -1,0 +1,13 @@
+{
+  "id": "gurucontact",
+  "title": "GuruContact",
+  "subtitle": "Te invitamos a conocer GuruContact, una plataforma de email marketing 100% en español, escalable y con un plan 100% g...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720306/catalog/gurucontact/icon128x128.png",
+  "website": "https://gurucontact.com"
+}

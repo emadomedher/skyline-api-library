@@ -1,0 +1,13 @@
+{
+  "id": "clickboarding",
+  "title": "Click Boarding",
+  "subtitle": "Click Boarding is a modern employee onboarding platform that blends employee engagement, forms and tasks into a simpl...",
+  "tags": [
+    "employee-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602198691/icons/clickboarding.png",
+  "website": "https://www.clickboarding.com/"
+}

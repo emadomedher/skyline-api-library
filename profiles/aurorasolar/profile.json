@@ -1,0 +1,14 @@
+{
+  "id": "aurorasolar",
+  "title": "Aurora Solar",
+  "subtitle": "The #1 solar software to design and sell advanced PV systems. See why installers use Aurora to create over 100,000 PV...",
+  "tags": [
+    "solar-product-sales"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659049804/icons/aurorasolar.jpg",
+  "website": "https://aurorasolar.com/",
+  "docsUrl": "https://docs.aurorasolar.com/reference/aurora-solar-api"
+}

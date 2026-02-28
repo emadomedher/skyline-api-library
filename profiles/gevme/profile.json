@@ -1,0 +1,13 @@
+{
+  "id": "gevme",
+  "title": "Gevme",
+  "subtitle": "All-in-One Event Management Software Solutions for your event & marketing needs. Easy To Use. User-Friendly Interface...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720212/catalog/gevme/icon128x128.png",
+  "website": "https://gevme.com"
+}

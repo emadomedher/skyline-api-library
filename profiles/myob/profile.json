@@ -1,0 +1,15 @@
+{
+  "id": "myob",
+  "title": "MYOB",
+  "subtitle": "Business software that sets you up for success. Try our online accounting solutions for tax, payroll, super and invoi...",
+  "tags": [
+    "payroll",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554586086/catalog/myob/icon128x128.jpg",
+  "website": "https://myob.com",
+  "docsUrl": "https://developer.myob.com/"
+}

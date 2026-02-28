@@ -1,0 +1,13 @@
+{
+  "id": "recruitwizard",
+  "title": "Recruit Wizard",
+  "subtitle": "Recruit Wizard recruitment CRM & ATS software designed specifically for recruiters. Class-leading technology with the...",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635988562/icons/recruitwizard.jpg",
+  "website": "https://recruitwizard.com/"
+}

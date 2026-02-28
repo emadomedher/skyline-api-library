@@ -1,0 +1,13 @@
+{
+  "id": "odoo-website-builder",
+  "title": "Odoo Website Builder",
+  "subtitle": "Make a website for free in minutes. Mobile, SEO friendly, awesome with Odoo, the Open Source CMS. Easy, a simple webs...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643327755/icons/odoo-website-builder.jpg",
+  "website": "https://www.odoo.com/app/website"
+}

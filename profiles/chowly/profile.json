@@ -1,0 +1,15 @@
+{
+  "id": "chowly",
+  "title": "Chowly",
+  "subtitle": "Integrate orders–UberEats, Doordash, 150+–to your restaurants POS system. Ditch the tablets, maximize revenue with th...",
+  "tags": [
+    "ordering-management",
+    "pos-integration",
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598627319/icons/chowly.jpg",
+  "website": "https://www.chowly.com/"
+}

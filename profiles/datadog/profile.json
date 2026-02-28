@@ -1,0 +1,15 @@
+{
+  "id": "datadog",
+  "title": "Datadog",
+  "subtitle": "See inside any stack, any app, at any scale, anywhere.",
+  "tags": [
+    "server-monitoring",
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304730/catalog/datadog/icon128x128.png",
+  "website": "https://www.datadoghq.com/",
+  "docsUrl": "https://docs.datadoghq.com"
+}

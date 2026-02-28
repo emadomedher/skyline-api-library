@@ -1,0 +1,16 @@
+{
+  "id": "dropsolid",
+  "title": "Dropsolid",
+  "subtitle": "Dropsolid begeleidt bedrijven, overheden en organisaties met het realiseren van al hun digitale klantervaringen met D...",
+  "tags": [
+    "development-agencies",
+    "website-analytics",
+    "digital-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572450171/catalog/dropsolid/icon128x128.jpg",
+  "website": "https://dropsolid.com/",
+  "docsUrl": "https://dropsolid.com/nl/dropsolid-experience-cloud-devs"
+}

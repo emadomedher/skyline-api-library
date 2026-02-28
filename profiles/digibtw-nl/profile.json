@@ -1,0 +1,13 @@
+{
+  "id": "digibtw-nl",
+  "title": "DigiBTW",
+  "subtitle": "\tOnline boekhouden voor zzp'ers. Online programma voor facturatie, administratie, offertes, automatische boekingen, u...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622425470/icons/digibtw-nl.jpg",
+  "website": "https://www.digibtw.nl/"
+}

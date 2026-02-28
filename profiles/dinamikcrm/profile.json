@@ -1,0 +1,13 @@
+{
+  "id": "dinamikcrm",
+  "title": "DinamikCRM",
+  "subtitle": "Dinamik CRM online crm yazılımı ile şirketinizde ihtiyaç duyduğunuz crm programı ve crm yazılımı beklentilerinizi kar...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947140/catalog/dinamikcrm/icon128x128.jpg",
+  "website": "https://dinamikcrm.com"
+}

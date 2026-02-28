@@ -1,0 +1,14 @@
+{
+  "id": "enablex-io",
+  "title": "EnableX",
+  "subtitle": "EnableX - CPaaS platform for Live Video,  Emotion AI, Voice & SMS offering API & SDK for web & mobile developers. Omn...",
+  "tags": [
+    "video-call-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657542564/icons/enablex-io.jpg",
+  "website": "https://www.enablex.io/",
+  "docsUrl": "https://www.enablex.io/developer"
+}

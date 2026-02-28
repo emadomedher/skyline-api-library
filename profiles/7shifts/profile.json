@@ -1,0 +1,15 @@
+{
+  "id": "7shifts",
+  "title": "7shifts",
+  "subtitle": "Online employee scheduling software to optimize labor management, time tracking, shift planning and streamline team c...",
+  "tags": [
+    "employee-scheduling",
+    "restaurants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566603531/catalog/7shifts/icon128x128.jpg",
+  "website": "https://www.7shifts.com/",
+  "docsUrl": "https://developers.7shifts.com/docs"
+}

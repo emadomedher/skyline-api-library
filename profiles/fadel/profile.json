@@ -1,0 +1,16 @@
+{
+  "id": "fadel",
+  "title": "FADEL",
+  "subtitle": "FADEL is an innovator in digital rights management software and royalty accounting software. Get help with managing t...",
+  "tags": [
+    "brand-compliance",
+    "rights-management",
+    "royalty-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941482/icons/fadel.jpg",
+  "website": "https://fadel.com/",
+  "docsUrl": "https://www.fadel.com/arcdocs/termsofservice.html"
+}

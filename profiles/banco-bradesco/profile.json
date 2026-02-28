@@ -1,0 +1,13 @@
+{
+  "id": "banco-bradesco",
+  "title": "Banco Bradesco",
+  "subtitle": "Banco Bradesco SA is a Brazilian financial services company headquartered in Osasco, in the state of São Paulo, Brazi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620461963/icons/banco-bradesco.jpg",
+  "website": "https://banco.bradesco/"
+}

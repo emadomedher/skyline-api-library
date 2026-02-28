@@ -1,0 +1,12 @@
+{
+  "id": "real-magnet",
+  "title": "Real Magnet",
+  "subtitle": "Real Magnet is a leading marketing automation platform that helps businesses attract, engage and deliver better email...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305827/catalog/real-magnet/icon128x128.png"
+}

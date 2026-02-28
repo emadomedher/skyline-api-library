@@ -1,0 +1,13 @@
+{
+  "id": "snowfox-ai",
+  "title": "Snowfox.AI",
+  "subtitle": "Snowfox.AI is a plug-in to your accounts payable automation solution. AI automates purchase invoice processing, makin...",
+  "tags": [
+    "ap-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975822/icons/snowfox-ai.jpg",
+  "website": "https://www.snowfox.ai/"
+}

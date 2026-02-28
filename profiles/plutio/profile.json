@@ -1,0 +1,13 @@
+{
+  "id": "plutio",
+  "title": "Plutio",
+  "subtitle": "From projects and tasks to invoices and time tracking, everything you need in one intuitive platform.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721521/catalog/plutio/icon128x128.png",
+  "website": "https://plutio.com"
+}

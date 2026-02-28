@@ -1,0 +1,14 @@
+{
+  "id": "skipr-co",
+  "title": "Skipr",
+  "subtitle": "the ultimate mobility app",
+  "tags": [
+    "mobility",
+    "transport"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583982031/catalog/skipr-co/icon128x128.png",
+  "website": "http://www.skipr.co/"
+}

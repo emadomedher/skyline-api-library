@@ -1,0 +1,13 @@
+{
+  "id": "teachable",
+  "title": "Teachable",
+  "subtitle": "Teachable allows you to create and sell online courses without any technical knowledge from your own website.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456703/catalog/teachable/icon128x128.png",
+  "website": "https://teachable.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "voraka",
+  "title": "Voraka",
+  "subtitle": "Voraka API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438364/catalog/voraka/icon128x128.png",
+  "website": "https://voraka.com"
+}

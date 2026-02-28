@@ -1,0 +1,13 @@
+{
+  "id": "vmware-wavefront",
+  "title": "Wavefront",
+  "subtitle": "VMware Wavefront cloud monitoring and analytics empowers developers to handle their applications and infrastructure. ...",
+  "tags": [
+    "monitoring"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565281100/catalog/vmware-wavefront/icon128x128.png",
+  "website": "https://cloud.vmware.com"
+}

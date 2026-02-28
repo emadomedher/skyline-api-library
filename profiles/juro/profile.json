@@ -1,0 +1,14 @@
+{
+  "id": "juro",
+  "title": "Juro",
+  "subtitle": "Supporting businesses through the COVID-19 crisis: the contract management software your whole team will love is FREE...",
+  "tags": [
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585407277/catalog/juro/icon128x128.png",
+  "website": "https://juro.com/",
+  "docsUrl": "https://juro.com/docs/api"
+}

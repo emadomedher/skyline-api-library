@@ -1,0 +1,14 @@
+{
+  "id": "ekincare",
+  "title": "ekincare",
+  "subtitle": "ekincare offers an AI powered integrated health benefits platform covering physical health, mental health, nutrition ...",
+  "tags": [
+    "health-benefits",
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599421361/icons/ekincare.jpg",
+  "website": "https://www.ekincare.com/"
+}

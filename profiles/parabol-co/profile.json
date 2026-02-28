@@ -1,0 +1,13 @@
+{
+  "id": "parabol-co",
+  "title": "Parabol",
+  "subtitle": "Parabol is a Free Agile Meeting Tool for Remote Teams. Seamlessly integrates with Atlassian Jira, GitHub, & Slack. Fr...",
+  "tags": [
+    "remote-meetings"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625084717/icons/parabol-co.jpg",
+  "website": "https://www.parabol.co/"
+}

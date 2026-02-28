@@ -1,0 +1,15 @@
+{
+  "id": "xoxoday",
+  "title": "Xoxoday",
+  "subtitle": "Xoxoday | Your all-in-one tools to connect, align, motivate and engage your employees, channel partners, sales and co...",
+  "tags": [
+    "employee-engagement",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599408374/icons/xoxoday.jpg",
+  "website": "https://www.xoxoday.com/",
+  "docsUrl": "https://docs.xoxoday.com/docs"
+}

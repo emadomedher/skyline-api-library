@@ -1,0 +1,14 @@
+{
+  "id": "google-authenticator",
+  "title": "Google Authenticator",
+  "subtitle": "Google Authenticator is a software-based authenticator by Google that implements two-step verification services using...",
+  "tags": [
+    "identity",
+    "open-source"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594981078/icons/google-authenticator.png",
+  "website": "https://github.com/google/google-authenticator"
+}

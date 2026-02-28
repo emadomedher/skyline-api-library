@@ -1,0 +1,13 @@
+{
+  "id": "campusmanagement",
+  "title": "Campus Management",
+  "subtitle": "Campus Management provides cloud-based SIS, CRM and ERP solutions and services to more than 1,100 higher ed instituti...",
+  "tags": [
+    "higher-education"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575238891/catalog/campusmanagement/icon128x128.png",
+  "website": "https://www.campusmanagement.com/"
+}

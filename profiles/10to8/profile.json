@@ -1,0 +1,13 @@
+{
+  "id": "10to8",
+  "title": "10to8",
+  "subtitle": "Appointment scheduling software trusted by over 50,000 businesses worldwide and designed to reduce no-shows, increase...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304324/catalog/10to8/icon128x128.png",
+  "website": "https://10to8.com/"
+}

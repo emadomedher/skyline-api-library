@@ -1,0 +1,14 @@
+{
+  "id": "segmentino",
+  "title": "Segmentino",
+  "subtitle": "Segmentino API integration",
+  "tags": [
+    "ecommerce",
+    "website-personalisation"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982423/catalog/segmentino/icon128x128.jpg",
+  "website": "https://segmentino.com/"
+}

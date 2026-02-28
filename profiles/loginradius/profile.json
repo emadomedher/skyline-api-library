@@ -1,0 +1,13 @@
+{
+  "id": "loginradius",
+  "title": "LoginRadius",
+  "subtitle": "Simplify customer authentication and authorization to amplify your business with better understanding of your audienc...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720884/catalog/loginradius/icon128x128.jpg",
+  "website": "https://loginradius.com"
+}

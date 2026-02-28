@@ -1,0 +1,13 @@
+{
+  "id": "forter",
+  "title": "Forter",
+  "subtitle": "Forter offers unmatched fraud prevention and protection with real-time automated decisions for all transactions. Lear...",
+  "tags": [
+    "fraud-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623252683/icons/forter.jpg",
+  "website": "https://www.forter.com/"
+}

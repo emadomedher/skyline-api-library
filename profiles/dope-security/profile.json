@@ -1,0 +1,14 @@
+{
+  "id": "dope-security",
+  "title": "dope.security",
+  "subtitle": "Your new SWG. Eliminate the datacenter and perform security checks directly on endpoint for stronger privacy, reliabi...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678817256/icons/dope-security.png",
+  "website": "https://dope.security/",
+  "docsUrl": "https://dope.security/#"
+}

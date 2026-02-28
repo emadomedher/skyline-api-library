@@ -1,0 +1,14 @@
+{
+  "id": "doubleverify",
+  "title": "DoubleVerify",
+  "subtitle": "DoubleVerify authenticates the quality of digital media for the world’s largest brands ensuring viewable, fraud-free,...",
+  "tags": [
+    "advertising",
+    "ad-quality"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581440211/catalog/doubleverify/icon128x128.png",
+  "website": "https://www.doubleverify.com/"
+}

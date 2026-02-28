@@ -1,0 +1,13 @@
+{
+  "id": "adnabu",
+  "title": "AdNabu",
+  "subtitle": "AdNabu's AI software for Google Ads delivers a 30% increase in conversions from shopping and search ads for your e-co...",
+  "tags": [
+    "search-and-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432803/catalog/adnabu/icon128x128.png",
+  "website": "https://AdNabu.com"
+}

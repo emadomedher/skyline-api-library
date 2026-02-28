@@ -1,0 +1,13 @@
+{
+  "id": "commpayhr",
+  "title": "Commonwealth Payroll & HR",
+  "subtitle": "Commonwealth Payroll & HR API integration",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660385/icons/commpayhr.jpg",
+  "website": "https://www.commpayhr.com/"
+}

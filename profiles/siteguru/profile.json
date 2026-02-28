@@ -1,0 +1,13 @@
+{
+  "id": "siteguru",
+  "title": "Siteguru",
+  "subtitle": "Siteguru API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962316/catalog/siteguru/icon128x128.png",
+  "website": "https://siteguru.co"
+}

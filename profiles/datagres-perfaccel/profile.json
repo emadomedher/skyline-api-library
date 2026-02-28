@@ -1,0 +1,13 @@
+{
+  "id": "datagres-perfaccel",
+  "title": "Datagres Perfaccel",
+  "subtitle": "DATAGRES helps companies to visualize, control and accelerate their storage/application performance using deep file-l...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389202/catalog/datagres-perfaccel/icon128x128.png",
+  "website": "https://datagres.com"
+}

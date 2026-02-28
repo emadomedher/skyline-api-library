@@ -1,0 +1,13 @@
+{
+  "id": "cincopa",
+  "title": "Cincopa",
+  "subtitle": "Cincopa is multimedia solution allowing to handle all aspects of hosting, managing, publishing, and sharing multiple ...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304601/catalog/cincopa/icon128x128.png",
+  "website": "https://Cincopa.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "unifi-money",
+  "title": "Unifimoney",
+  "subtitle": "Unifimoney is high-performance banking for high performance people - a credit card, high yield checking account and i...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594319468/icons/unifi-money.jpg",
+  "website": "https://www.unifi.money/"
+}

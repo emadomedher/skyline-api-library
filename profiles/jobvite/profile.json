@@ -1,0 +1,14 @@
+{
+  "id": "jobvite",
+  "title": "Jobvite",
+  "subtitle": "Jobvite's best-of-breed applicant tracking system (ATS) and recruiting software helps thousands of companies source, ...",
+  "tags": [
+    "talent-management",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435298/catalog/jobvite/icon128x128.png",
+  "website": "https://jobvite.com"
+}

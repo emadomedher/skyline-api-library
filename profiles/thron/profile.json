@@ -1,0 +1,13 @@
+{
+  "id": "thron",
+  "title": "THRON",
+  "subtitle": "THRON is the intelligent Digital Asset Management system, a software created for a quick and agile Content Management...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946468/catalog/thron/icon128x128.jpg",
+  "website": "https://thron.com"
+}

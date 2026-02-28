@@ -1,0 +1,16 @@
+{
+  "id": "supabase-io",
+  "title": "Supabase",
+  "subtitle": "The open source Firebase alternative.",
+  "tags": [
+    "databases",
+    "developer-tools",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598443537/icons/supabase-io.jpg",
+  "website": "https://supabase.io/",
+  "docsUrl": "https://supabase.io/docs"
+}

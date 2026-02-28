@@ -1,0 +1,14 @@
+{
+  "id": "circle-so",
+  "title": "Circle",
+  "subtitle": "Create an engaged community, all under your own brand. Easily integrate Circle with the rest of your tools and create...",
+  "tags": [
+    "community-platforms",
+    "creators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595809081/icons/circle-so.png",
+  "website": "https://circle.so/"
+}

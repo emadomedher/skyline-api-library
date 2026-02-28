@@ -1,0 +1,13 @@
+{
+  "id": "zep-de",
+  "title": "ZEP",
+  "subtitle": "ZEP stands for time recording for projects and is the web-based solution for project-oriented work that has been trie...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587325612/catalog/zep-de/icon128x128.png",
+  "website": "https://www.zep.de/"
+}

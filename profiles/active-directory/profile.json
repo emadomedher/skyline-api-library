@@ -1,0 +1,14 @@
+{
+  "id": "active-directory",
+  "title": "Active Directory",
+  "subtitle": "Microsoft's Active Directory is a directory service often bundled with Microsoft Windows Server operating systems or ...",
+  "tags": [
+    "microsoft",
+    "developer-tools",
+    "databases"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054132/catalog/active-directory/icon128x128.png"
+}

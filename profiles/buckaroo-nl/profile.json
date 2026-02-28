@@ -1,0 +1,14 @@
+{
+  "id": "buckaroo-nl",
+  "title": "Buckaroo",
+  "subtitle": "Maak betalen gemakkelijk. Buckaroo, het payment platform achter elke betaaloplossing. &#128722; Flexibele check-out &...",
+  "tags": [
+    "subscription-management",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569691791/catalog/buckaroo-nl/icon128x128.png",
+  "website": "https://buckaroo.nl/"
+}

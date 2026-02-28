@@ -1,0 +1,13 @@
+{
+  "id": "mbna-uk",
+  "title": "MBNA",
+  "subtitle": "Spread the cost of big purchases, put plans in action, or just make your finances run more smoothly. Apply for an MBN...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590745676/catalog/mbna-uk/icon128x128.png",
+  "website": "https://www.mbna.co.uk/"
+}

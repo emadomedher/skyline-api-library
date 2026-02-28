@@ -1,0 +1,13 @@
+{
+  "id": "sched",
+  "title": "Sched",
+  "subtitle": "Event scheduling software, mobile apps and personal agenda builders with social networking for conferences and festiv...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721942/catalog/sched/icon128x128.jpg",
+  "website": "https://sched.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "google-stadia",
+  "title": "Google Stadia",
+  "subtitle": "Get instant access to Stadia and a collection of games with a Stadia Pro free trial now.",
+  "tags": [
+    "cloud-gaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604753499/icons/google-stadia.png",
+  "website": "https://stadia.google.com/"
+}

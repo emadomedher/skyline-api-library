@@ -1,0 +1,13 @@
+{
+  "id": "forto",
+  "title": "Forto",
+  "subtitle": "Go beyond freight forwarding.\nYour business is evolving, so should your toolset. ✅",
+  "tags": [
+    "freight-forwarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746584/icons/forto.png",
+  "website": "https://forto.com/en/"
+}

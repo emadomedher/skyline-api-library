@@ -1,0 +1,16 @@
+{
+  "id": "knowbe4",
+  "title": "KnowBe4",
+  "subtitle": "KnowBe4 provides Security Awareness Training to help you manage the IT security problems of social engineering, spear...",
+  "tags": [
+    "security",
+    "security-training-platform",
+    "security-awareness-training"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573855352/catalog/knowbe4/icon128x128.jpg",
+  "website": "https://www.knowbe4.com/",
+  "docsUrl": "https://support.knowbe4.com/hc/en-us"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "osas",
+  "title": "Open Systems",
+  "subtitle": "Discover how Open Systems is the most scalable, affordable Accounting Software on the market. Built with experience, ...",
+  "tags": [
+    "erp",
+    "accounting"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573320167/catalog/osas/icon128x128.jpg",
+  "website": "https://www.osas.com/"
+}

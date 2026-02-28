@@ -1,0 +1,12 @@
+{
+  "id": "asperion",
+  "title": "Asperion",
+  "subtitle": "Uw loonjournaalposten kunt u downloaden vanuit Nmbrs® en direct uploaden in Asperion.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256890/catalog/asperion/icon128x128.jpg"
+}

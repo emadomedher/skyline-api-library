@@ -1,0 +1,13 @@
+{
+  "id": "projectmanager",
+  "title": "ProjectManager",
+  "subtitle": "Award winning project management software designed for teams to plan, track & collaborate online. Start managing proj...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721596/catalog/projectmanager/icon128x128.jpg",
+  "website": "https://projectmanager.com"
+}

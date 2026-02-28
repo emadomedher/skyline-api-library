@@ -1,0 +1,13 @@
+{
+  "id": "sipack-nl",
+  "title": "Sipack Surprising People",
+  "subtitle": "Het verlengstuk voor jouw webshop waar aandacht en zorg voor het versturen van het pakket onze prioriteit is. Fulfilm...",
+  "tags": [
+    "fulfillment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612669600/icons/sipack-nl.png",
+  "website": "https://www.sipack.nl/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "vistabank-ro",
+  "title": "VISTA Bank Romania",
+  "subtitle": "Vista Bank (Romania) SA is a Romanian commercial bank, part of the Greek Vardinogiannis Group.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601691156/icons/vistabank-ro.webp",
+  "website": "https://www.vistabank.ro/",
+  "docsUrl": "https://www.vistabank.ro/public/docs/PSD2_API_Documentation_Vista_Bank.pdf"
+}

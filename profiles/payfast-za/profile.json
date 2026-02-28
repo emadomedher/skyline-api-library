@@ -1,0 +1,14 @@
+{
+  "id": "payfast-za",
+  "title": "PayFast",
+  "subtitle": "  PayFast is the ultimate online payment solution in South Africa.\nAccept payments from local & international buyers ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584346804/catalog/payfast-za/icon128x128.jpg",
+  "website": "https://www.payfast.co.za/",
+  "docsUrl": "https://developers.payfast.co.za/documentation"
+}

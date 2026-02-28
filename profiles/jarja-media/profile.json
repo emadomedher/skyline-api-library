@@ -1,0 +1,12 @@
+{
+  "id": "jarja-media",
+  "title": "Jarja Media",
+  "subtitle": "Jarja Media is a CRM that was built for today’s real estate professional.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284541/catalog/jarja-media/icon128x128.png"
+}

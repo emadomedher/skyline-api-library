@@ -1,0 +1,14 @@
+{
+  "id": "nonamesecurity",
+  "title": "Noname Security",
+  "subtitle": "Noname Security helps enterprises deploy APIs at the speed of business with the most powerful, complete, and easy-to-...",
+  "tags": [
+    "api-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625838956/icons/nonamesecurity.jpg",
+  "website": "https://nonamesecurity.com/",
+  "docsUrl": "https://www.businesswire.com/news/home/20200219005399/en/new-rapidapi-developer-survey-report-reveals-increased-api-usage-in-2020"
+}

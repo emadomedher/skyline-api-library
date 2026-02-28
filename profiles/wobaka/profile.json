@@ -1,0 +1,14 @@
+{
+  "id": "wobaka",
+  "title": "Wobaka",
+  "subtitle": "Wobaka is the CRM system you'll actually enjoy using. Making it easier, efficient and more fun to manage contacts and...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633819123/icons/wobaka.jpg",
+  "website": "https://wobaka.com/",
+  "docsUrl": "https://docs.wobaka.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dotweb",
+  "title": "Dotweb",
+  "subtitle": "De koppeling tussen Nmbrs® en Dotweb Cloud zorgt ervoor dat alle organisatiegegevens, medewerkergegevens en verzuimge...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256922/catalog/dotweb/icon128x128.png"
+}

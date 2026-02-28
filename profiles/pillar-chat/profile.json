@@ -1,0 +1,14 @@
+{
+  "id": "pillar-chat",
+  "title": "Pillar",
+  "subtitle": "Zorgverleners staan in de vuurlinie tijdens de COVID-19 crisis. De druk op de zorg samen met de angst voor besmetting...",
+  "tags": [
+    "mental-health",
+    "covid-19"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522271/icons/pillar-chat.png",
+  "website": "https://www.pillar.chat/"
+}

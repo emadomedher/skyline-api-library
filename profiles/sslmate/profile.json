@@ -1,0 +1,14 @@
+{
+  "id": "sslmate",
+  "title": "SSLMate",
+  "subtitle": "SSLMate API integration",
+  "tags": [
+    "ssl-certificates"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588537647/catalog/sslmate/icon128x128.png",
+  "website": "https://sslmate.com/",
+  "docsUrl": "https://sslmate.com/certspotter/api/docs-v1"
+}

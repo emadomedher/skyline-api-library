@@ -1,0 +1,14 @@
+{
+  "id": "getstation",
+  "title": "Station",
+  "subtitle": "Station unifies all your work tools in one neat and productive interface.",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576161689/catalog/getstation/icon128x128.jpg",
+  "website": "https://getstation.com/",
+  "docsUrl": "https://getstation.com/developers-and-partners"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pegasystems",
+  "title": "Pegasystems",
+  "subtitle": "Explore business solutions from the leader in software for customer engagement and intelligent automation, built on t...",
+  "tags": [
+    "partner-relationship-management",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721441/catalog/pegasystems/icon128x128.jpg",
+  "website": "https://pega.com"
+}

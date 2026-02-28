@@ -1,0 +1,14 @@
+{
+  "id": "asia-commercial-bank",
+  "title": "Asia Commercial Bank (ACB)",
+  "subtitle": "ACB is pioneering open banking in Vietnam. As the first bank to offer customers internet banking nearly 2 decades ago...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616256837/icons/asia-commercial-bank.png",
+  "website": "https://www.acb.com.vn/",
+  "docsUrl": "https://developer.acb.com.vn"
+}

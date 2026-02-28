@@ -1,0 +1,13 @@
+{
+  "id": "synergy-8",
+  "title": "Synergy 8",
+  "subtitle": "Website, email marketing, and ecommerce in one intuitive software platform. Synergy 8 hosted CMS makes it simple.",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722410/catalog/synergy-8/icon128x128.jpg",
+  "website": "https://synergy8.com"
+}

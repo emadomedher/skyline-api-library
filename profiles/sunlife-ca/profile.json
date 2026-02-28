@@ -1,0 +1,13 @@
+{
+  "id": "sunlife-ca",
+  "title": "Sun Life Canada",
+  "subtitle": "Sun Life can help you build and protect your savings with investment products, life insurance, health insurance, and ...",
+  "tags": [
+    "insurance-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614419093/icons/sunlife-ca.jpg",
+  "website": "https://www.sunlife.ca/"
+}

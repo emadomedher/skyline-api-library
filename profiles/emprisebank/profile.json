@@ -1,0 +1,13 @@
+{
+  "id": "emprisebank",
+  "title": "Emprise Bank",
+  "subtitle": "Emprise Bank offers a wide variety of products and specialized services to meet the payment, credit and wealth manage...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093492/icons/emprisebank.png",
+  "website": "https://www.emprisebank.com/"
+}

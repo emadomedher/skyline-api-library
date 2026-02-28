@@ -1,0 +1,14 @@
+{
+  "id": "socialmarketanalytics",
+  "title": "Social Market Analytics",
+  "subtitle": "Leader in providing predictive sentiment analytics and data feeds to the world’s largest trading firms and companies",
+  "tags": [
+    "fintech",
+    "social-data"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594981070/icons/socialmarketanalytics.jpg",
+  "website": "https://www.socialmarketanalytics.com/"
+}

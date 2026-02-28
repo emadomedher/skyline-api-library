@@ -1,0 +1,15 @@
+{
+  "id": "handwrytten",
+  "title": "Handwrytten",
+  "subtitle": "Handwrytten is a way to automatically send real cards and notes written in pen and ink.",
+  "tags": [
+    "ecommerce",
+    "customer-appreciation"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305088/catalog/handwrytten/icon128x128.png",
+  "website": "https://www.handwrytten.com/",
+  "docsUrl": "https://www.handwrytten.com/api.html"
+}

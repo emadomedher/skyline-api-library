@@ -1,0 +1,14 @@
+{
+  "id": "syncinc-so",
+  "title": "Sync",
+  "subtitle": "Replicate Airtable to a Postgres database.",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192473/icons/syncinc-so.jpg",
+  "website": "https://syncinc.so/",
+  "docsUrl": "https://docs.syncinc.so"
+}

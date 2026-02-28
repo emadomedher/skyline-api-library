@@ -1,0 +1,14 @@
+{
+  "id": "gentics",
+  "title": "Gentics CMS",
+  "subtitle": "Gentics Software ist Österreichs führender Enterprise CMS und Portal Hersteller.",
+  "tags": [
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616410450/icons/gentics.png",
+  "website": "https://www.gentics.com/genticscms/index.de.html",
+  "docsUrl": "http://getmesh.io/docs/beta/getting-started.html"
+}

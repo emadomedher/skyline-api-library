@@ -1,0 +1,16 @@
+{
+  "id": "keka",
+  "title": "Keka HR",
+  "subtitle": "Payroll Software on cloud. Keka HR, the best payroll software in India is an employee experience platform with HR & P...",
+  "tags": [
+    "hris",
+    "payroll",
+    "employee-experience"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599421357/icons/keka.jpg",
+  "website": "https://www.keka.com/",
+  "docsUrl": "https://developers.keka.com/"
+}

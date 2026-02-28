@@ -1,0 +1,13 @@
+{
+  "id": "finconomy-de",
+  "title": "Finconomy",
+  "subtitle": "Redesign Finance! B2B Insurtech & Fintech Company Builder. Taking Financial Services one step further.",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746586/icons/finconomy-de.jpg",
+  "website": "https://finconomy.de/en/"
+}

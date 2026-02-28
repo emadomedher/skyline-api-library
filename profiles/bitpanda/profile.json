@@ -1,0 +1,14 @@
+{
+  "id": "bitpanda",
+  "title": "Bitpanda",
+  "subtitle": "Invest in Bitcoin, gold and over 50 other digital assets on your phone or desktop. Fast, secure and 24/7.",
+  "tags": [
+    "crypto-trading"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604849535/icons/bitpanda.jpg",
+  "website": "https://www.bitpanda.com/",
+  "docsUrl": "https://developers.bitpanda.com/exchange"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "brighthr",
+  "title": "BrightHR",
+  "subtitle": "Meet the most popular HR software and support service for SMEs. With HR advice, staff wellbeing and even a clocking i...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638318384/icons/brighthr.png",
+  "website": "https://www.brighthr.com/",
+  "docsUrl": "https://apps.apple.com/gb/developer/brighthr/id1031619348"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mail250",
+  "title": "Mail250",
+  "subtitle": "Mail250 is a bulk email marketing service for small businesses. Manage Your Email Database and Marketing in One Platf...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720950/catalog/mail250/icon128x128.png",
+  "website": "https://mail250.com"
+}

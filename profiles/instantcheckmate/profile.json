@@ -1,0 +1,13 @@
+{
+  "id": "instantcheckmate",
+  "title": "Instant Checkmate",
+  "subtitle": "The Leading Background Search and People Search tool on the internet. Enter a name and state to start your people sea...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639015135/icons/instantcheckmate.jpg",
+  "website": "https://instantcheckmate.com"
+}

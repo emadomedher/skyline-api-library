@@ -1,0 +1,14 @@
+{
+  "id": "customerio",
+  "title": "Customer.io",
+  "subtitle": "Trigger email, push, SMS, webhooks, and more with Customer.io. Gain control over behaviorial data to personalize cust...",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574181136/catalog/customerio/icon128x128.jpg",
+  "website": "https://customer.io/",
+  "docsUrl": "https://customer.io/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4me",
+  "title": "4me",
+  "subtitle": "4me combines ITSM, ESM and SIAM capabilities so that IT, enterprises and service providers can collaborate in one nex...",
+  "tags": [
+    "it-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794418/icons/4me.jpg",
+  "website": "https://www.4me.com/",
+  "docsUrl": "https://developer.4me.com"
+}

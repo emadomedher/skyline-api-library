@@ -1,0 +1,13 @@
+{
+  "id": "centage",
+  "title": "Centage",
+  "subtitle": "We empower finance leaders with intelligent planning through the Maestro Suite, a leader in cloud financial planning,...",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719392/catalog/centage/icon128x128.png",
+  "website": "https://centage.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "npmjs",
+  "title": "npm",
+  "subtitle": "npm API integration",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563450478/catalog/npmjs/icon128x128.jpg",
+  "website": "https://npmjs.com",
+  "docsUrl": "https://docs.npmjs.com"
+}

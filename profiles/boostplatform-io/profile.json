@@ -1,0 +1,15 @@
+{
+  "id": "boostplatform-io",
+  "title": "Boost",
+  "subtitle": "Boost enables companies in any industry to offer digital insurance products to their customers through a fully integr...",
+  "tags": [
+    "insurtech",
+    "embedded-insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612494655/icons/boostplatform-io.png",
+  "website": "https://boostplatform.io/",
+  "docsUrl": "https://getstarted.boostplatform.io/docs"
+}

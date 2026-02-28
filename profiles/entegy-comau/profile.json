@@ -1,0 +1,13 @@
+{
+  "id": "entegy-comau",
+  "title": "Entegy",
+  "subtitle": "Entegy combines industry-leading and globally respected software with a progressive partner program, to set the bench...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565612942/catalog/entegy-comau/icon128x128.jpg",
+  "website": "https://entegy.com.au"
+}

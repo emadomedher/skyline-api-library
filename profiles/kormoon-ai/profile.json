@@ -1,0 +1,13 @@
+{
+  "id": "kormoon-ai",
+  "title": "Kormoon",
+  "subtitle": "Kormoon API integration",
+  "tags": [
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585314535/catalog/kormoon-ai/icon128x128.jpg",
+  "website": "https://kormoon.ai/"
+}

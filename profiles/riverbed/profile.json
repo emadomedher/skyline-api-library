@@ -1,0 +1,13 @@
+{
+  "id": "riverbed",
+  "title": "Riverbed Technology",
+  "subtitle": "In our digital world, network and application performance is essential to creating value, growth and competitive adva...",
+  "tags": [
+    "network-performance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080673/catalog/riverbed/icon128x128.jpg",
+  "website": "https://www.riverbed.com"
+}

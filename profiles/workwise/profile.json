@@ -1,0 +1,13 @@
+{
+  "id": "workwise",
+  "title": "Workwise",
+  "subtitle": "ERP Software and CRM Software to improve productivity and efficiency. Learn about our award winning OnContact CRM and...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946343/catalog/workwise/icon128x128.jpg",
+  "website": "https://workwisellc.com"
+}

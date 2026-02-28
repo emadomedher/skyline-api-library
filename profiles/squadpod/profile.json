@@ -1,0 +1,13 @@
+{
+  "id": "squadpod",
+  "title": "Squadpod",
+  "subtitle": "All-in-one collaboration software from SquadPod helps companies to chat, plan, align, store, share files and manage t...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722293/catalog/squadpod/icon128x128.jpg",
+  "website": "https://squadpod.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "softpos-eu",
+  "title": "SoftPos",
+  "subtitle": "SoftPos API integration",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605866602/icons/softpos-eu.jpg",
+  "website": "https://www.softpos.eu/en/"
+}

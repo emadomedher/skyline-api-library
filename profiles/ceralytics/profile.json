@@ -1,0 +1,13 @@
+{
+  "id": "ceralytics",
+  "title": "Ceralytics",
+  "subtitle": "Our content intelligence platform gives you data-driven insights to create relevant content with confidence. Take the...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826031/catalog/ceralytics/icon128x128.jpg",
+  "website": "https://ceralytics.com"
+}

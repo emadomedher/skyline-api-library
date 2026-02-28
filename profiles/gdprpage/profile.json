@@ -1,0 +1,15 @@
+{
+  "id": "gdprpage",
+  "title": "GDPR Page",
+  "subtitle": "GDPR Documentation and Request Handling for SAAS Companies",
+  "tags": [
+    "gdpr",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572524125/catalog/gdprpage/icon128x128.png",
+  "website": "https://www.gdprpage.com/"
+}

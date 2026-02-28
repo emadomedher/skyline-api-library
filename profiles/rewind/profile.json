@@ -1,0 +1,13 @@
+{
+  "id": "rewind",
+  "title": "Rewind",
+  "subtitle": "Back up, copy, and restore your SaaS and cloud data. Get Rewind data backup and recovery software for ecommerce, acco...",
+  "tags": [
+    "data-protection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643226793/icons/rewind.jpg",
+  "website": "https://rewind.com/"
+}

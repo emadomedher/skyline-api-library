@@ -1,0 +1,14 @@
+{
+  "id": "tinkerwell-app",
+  "title": "Tinkerwell",
+  "subtitle": "Tinkerwell is the must-have tinker tool for every PHP and Laravel developer. This magical desktop app may not be able...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631524210/icons/tinkerwell-app.jpg",
+  "website": "https://tinkerwell.app/",
+  "docsUrl": "https://beyondco.de/docs/tinkerwell/getting-started/about"
+}

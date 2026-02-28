@@ -1,0 +1,12 @@
+{
+  "id": "recras",
+  "title": "Recras",
+  "subtitle": "Recras is an administration and booking system for recreation companies.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284590/catalog/recras/icon128x128.jpg"
+}

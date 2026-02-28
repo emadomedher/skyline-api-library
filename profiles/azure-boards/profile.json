@@ -1,0 +1,13 @@
+{
+  "id": "azure-boards",
+  "title": "Azure Boards",
+  "subtitle": "Track your software projects and plan better with agile tools, including scrum boards, Kanban boards, and dashboards ...",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1709042989/icons/azure-boards.png",
+  "website": "https://azure.microsoft.com/en-us/products/devops/boards"
+}

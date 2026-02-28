@@ -1,0 +1,13 @@
+{
+  "id": "partech-brink-pos",
+  "title": "Brink POS",
+  "subtitle": "Brink POS is a flexible comprehensive restaurant management platform offering cloud software with a payment platform,...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171239/catalog/partech-brink-pos/icon128x128.png",
+  "website": "https://www.partech.com/brink-pos/"
+}

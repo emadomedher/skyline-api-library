@@ -1,0 +1,13 @@
+{
+  "id": "mercury-processing",
+  "title": "Mercury Processing Services International",
+  "subtitle": "Mercury Processing Services International API integration",
+  "tags": [
+    "payment-processors"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588444274/catalog/mercury-processing/icon128x128.png",
+  "website": "https://mercury-processing.com/"
+}

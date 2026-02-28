@@ -1,0 +1,13 @@
+{
+  "id": "agentai",
+  "title": "Agent.ai",
+  "subtitle": "Agent.ai provides artificial intelligence customer service to help businesses connect with their customers and increa...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947299/catalog/agentai/icon128x128.jpg",
+  "website": "https://agent.ai"
+}

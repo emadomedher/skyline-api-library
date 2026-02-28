@@ -1,0 +1,15 @@
+{
+  "id": "wagestream-uk",
+  "title": "Wagestream",
+  "subtitle": "Wagestream allows your employees to get instant access to their earned wages, without making any changes to your norm...",
+  "tags": [
+    "wealth-management",
+    "payday",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582906870/catalog/wagestream-uk/icon128x128.png",
+  "website": "https://wagestream.co.uk/"
+}

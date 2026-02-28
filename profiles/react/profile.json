@@ -1,0 +1,15 @@
+{
+  "id": "react",
+  "title": "React",
+  "subtitle": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+  "tags": [
+    "programming",
+    "javascript",
+    "frontend-framework"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557669939/catalog/react/icon128x128.png",
+  "website": "https://reactjs.org/"
+}

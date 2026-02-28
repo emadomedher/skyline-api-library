@@ -1,0 +1,14 @@
+{
+  "id": "demandware",
+  "title": "Demandware",
+  "subtitle": "Win more shoppers and grow faster with Commerce Cloud. Deliver seamless, personalized B2C & B2B experiences across di...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560019305/catalog/demandware/icon128x128.jpg",
+  "website": "https://www.salesforce.com/products/commerce-cloud/overview/",
+  "docsUrl": "https://help.salesforce.com/articleView"
+}

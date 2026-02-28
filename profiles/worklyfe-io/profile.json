@@ -1,0 +1,13 @@
+{
+  "id": "worklyfe-io",
+  "title": "Worklyfe",
+  "subtitle": "Worklyfe is an inspiring incentives & employee rewards platform used by Sales and People teams. Align company goals w...",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1693292093/icons/worklyfe-io.png",
+  "website": "https://worklyfe.io/"
+}

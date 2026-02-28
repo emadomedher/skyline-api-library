@@ -1,0 +1,12 @@
+{
+  "id": "stickypos",
+  "title": "StickyPOS",
+  "subtitle": "StickyPOS API integration",
+  "tags": [
+    "labeling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573172131/catalog/stickypos/icon128x128.jpg"
+}

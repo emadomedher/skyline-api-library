@@ -1,0 +1,13 @@
+{
+  "id": "newzapp",
+  "title": "NewZapp",
+  "subtitle": "GDPR Compliant email marketing automation for brands large and small. Trusted by Network Rail and Royal Mail to deliv...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721254/catalog/newzapp/icon128x128.jpg",
+  "website": "https://newzapp.co.uk"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "biztalk360",
+  "title": "BizTalk360",
+  "subtitle": "BizTalk360 API integration",
+  "tags": [
+    "microsoft-biztalk-server-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572111990/catalog/biztalk360/icon128x128.png",
+  "website": "https://www.biztalk360.com/",
+  "docsUrl": "https://docs.biztalk360.com"
+}

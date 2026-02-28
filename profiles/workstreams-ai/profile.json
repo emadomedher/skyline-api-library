@@ -1,0 +1,14 @@
+{
+  "id": "workstreams-ai",
+  "title": "Workstreams.ai",
+  "subtitle": "Plan & manage tasks in Slack & Microsoft Teams ✓ Integrated KANBAN boards ✓ Workflow templates ✓ No admin overhead ✓ ...",
+  "tags": [
+    "task-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632178749/icons/workstreams-ai.jpg",
+  "website": "https://workstreams.ai/",
+  "docsUrl": "https://medium.com/slack-developer-blog/new-kits-on-the-block-slack-hack-d0c69fd95d11?source=rss-a1e8a55768da------2"
+}

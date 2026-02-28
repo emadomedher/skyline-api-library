@@ -1,0 +1,15 @@
+{
+  "id": "mikrotik",
+  "title": "Mikrotik",
+  "subtitle": "MikroTik is a Latvian company which was founded in 1996 to develop routers and wireless ISP systems. MikroTik now pro...",
+  "tags": [
+    "wifi",
+    "hardware",
+    "networking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570208059/catalog/mikrotik/icon128x128.png",
+  "website": "https://mikrotik.com/"
+}

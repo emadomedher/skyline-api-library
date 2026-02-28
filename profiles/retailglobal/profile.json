@@ -1,0 +1,13 @@
+{
+  "id": "retailglobal",
+  "title": "retail.global",
+  "subtitle": "retail.global API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436948/catalog/retailglobal/icon128x128.png",
+  "website": "https://retail.global"
+}

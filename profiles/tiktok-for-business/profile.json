@@ -1,0 +1,13 @@
+{
+  "id": "tiktok-for-business",
+  "title": "TikTok for Business",
+  "subtitle": "Reach diverse audiences around the world through TikTok For Business, an all-in-one marketing solutions platform.",
+  "tags": [
+    "advertisting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614175144/icons/tiktok-for-business.jpg",
+  "website": "https://www.tiktok.com/business"
+}

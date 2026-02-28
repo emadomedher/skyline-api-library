@@ -1,0 +1,13 @@
+{
+  "id": "soprabanking",
+  "title": "Sopra Banking Software",
+  "subtitle": "Component-based, cloud-agnostic, API-first plaforms for banks & financial institutions. From legacy to open banking, ...",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623605/icons/soprabanking.png",
+  "website": "https://www.soprabanking.com/"
+}

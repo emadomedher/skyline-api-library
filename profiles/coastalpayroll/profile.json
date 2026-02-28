@@ -1,0 +1,13 @@
+{
+  "id": "coastalpayroll",
+  "title": "Coastal Payroll",
+  "subtitle": "Coastal Payroll Services: Payroll Services, Payroll Solutions",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660389/icons/coastalpayroll.jpg",
+  "website": "https://www.coastalpayroll.com/"
+}

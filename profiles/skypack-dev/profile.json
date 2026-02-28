@@ -1,0 +1,14 @@
+{
+  "id": "skypack-dev",
+  "title": "Skypack",
+  "subtitle": "Search millions of open source JavaScript packages on Skypack. Free to use.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643842829/icons/skypack-dev.jpg",
+  "website": "https://www.skypack.dev/",
+  "docsUrl": "https://docs.skypack.dev"
+}

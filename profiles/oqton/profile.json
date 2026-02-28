@@ -1,0 +1,13 @@
+{
+  "id": "oqton",
+  "title": "Oqton",
+  "subtitle": "The one stop Industry 4.0 solution for the mid market.",
+  "tags": [
+    "manufacturing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610721521/icons/oqton.jpg",
+  "website": "https://www.oqton.com/"
+}

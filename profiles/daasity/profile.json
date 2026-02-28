@@ -1,0 +1,14 @@
+{
+  "id": "daasity",
+  "title": "Daasity",
+  "subtitle": "Daasity helps over 1,400 DTC ecommerce brands unlock data-driven growth. One product. One data set. One view. Limitle...",
+  "tags": [
+    "ecommerce-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610512369/icons/daasity.png",
+  "website": "https://www.daasity.com/",
+  "docsUrl": "https://support.daasity.com/hc/en-us?__hstc=17958374.d6f43949682c20a702bd567838e30f7a.1608138792852.1608138792852.1608138792852.1&__hssc=17958374.7.1608138792852&__hsfp=3485024634"
+}

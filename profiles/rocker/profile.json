@@ -1,0 +1,14 @@
+{
+  "id": "rocker",
+  "title": "Rocker",
+  "subtitle": "Bynk, the Swedish mobile loan app, has announced its is re-branding to ‘Rocker’ to become one of the latest challenge...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607659997/icons/rocker.jpg",
+  "website": "https://rocker.com/",
+  "docsUrl": "https://developer.enfuce.openbanking.enfuce.com"
+}

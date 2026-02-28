@@ -1,0 +1,13 @@
+{
+  "id": "transfermate",
+  "title": "TransferMate",
+  "subtitle": "Cost & time-effective global payments solution - better rates, lower fees, same & next day payments, currency tools, ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572479680/catalog/transfermate/icon128x128.jpg",
+  "website": "https://www.transfermate.com/"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "retool",
+  "title": "Retool",
+  "subtitle": "The fast way to build internal tools. Drag-and-drop our building blocks and connect them to your databases and APIs t...",
+  "tags": [
+    "low-code",
+    "bi",
+    "api-mocking",
+    "internal-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581595353/catalog/retool/icon128x128.jpg",
+  "website": "https://retool.com/",
+  "docsUrl": "https://docs.retool.com/docs"
+}

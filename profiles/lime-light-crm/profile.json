@@ -1,0 +1,13 @@
+{
+  "id": "lime-light-crm",
+  "title": "Lime Light CRM",
+  "subtitle": "LimeLight platform enables e-commerce merchants to maximize revenue through powerful analytics, flexible billing, ris...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435541/catalog/lime-light-crm/icon128x128.png",
+  "website": "https://limelightcrm.com"
+}

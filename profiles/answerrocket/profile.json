@@ -1,0 +1,13 @@
+{
+  "id": "answerrocket",
+  "title": "AnswerRocket",
+  "subtitle": "Self-service analytics for business users. Get analytics quickly with our easy-to-use interface. Natural language que...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774792/catalog/answerrocket/icon128x128.jpg",
+  "website": "https://answerrocket.com"
+}

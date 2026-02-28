@@ -1,0 +1,14 @@
+{
+  "id": "redsys-es",
+  "title": "Redsys",
+  "subtitle": "Redsys API integration",
+  "tags": [
+    "financial-services",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607659998/icons/redsys-es.jpg",
+  "website": "http://www.redsys.es/"
+}

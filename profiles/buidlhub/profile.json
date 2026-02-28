@@ -1,0 +1,13 @@
+{
+  "id": "buidlhub",
+  "title": "BUIDLHub",
+  "subtitle": "BUIDLHub API integration",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599928334/icons/buidlhub.jpg",
+  "website": "https://buidlhub.com/"
+}

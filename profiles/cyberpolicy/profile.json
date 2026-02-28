@@ -1,0 +1,14 @@
+{
+  "id": "cyberpolicy",
+  "title": "CyberPolicy",
+  "subtitle": "Plan + Prevent + Insure. At CyberPolicy, our mission is to help small businesses get the cybersecurity and cyber insu...",
+  "tags": [
+    "insurance",
+    "security"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563328118/catalog/cyberpolicy/icon128x128.jpg",
+  "website": "https://cyberpolicy.com"
+}

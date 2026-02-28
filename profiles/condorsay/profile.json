@@ -1,0 +1,14 @@
+{
+  "id": "condorsay",
+  "title": "Condorsay",
+  "subtitle": "Condorsay pairs human judgment with GPT-3, a powerful language AI, to power quick and confident decisions with clarit...",
+  "tags": [
+    "decision-assistant"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406259/icons/condorsay.jpg",
+  "website": "https://condorsay.com/",
+  "docsUrl": "https://docs.djangoproject.com/en/3.2/topics/security"
+}

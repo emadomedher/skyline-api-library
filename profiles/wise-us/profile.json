@@ -1,0 +1,13 @@
+{
+  "id": "wise-us",
+  "title": "Wise",
+  "subtitle": "Wise is on a mission is to be alongside ambitious businesses, every step of the way. Wise envisions a world where mod...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588375997/catalog/wise-us/icon128x128.jpg",
+  "website": "https://www.wise.us/"
+}

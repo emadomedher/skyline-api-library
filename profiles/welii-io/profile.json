@@ -1,0 +1,13 @@
+{
+  "id": "welii-io",
+  "title": "Welii",
+  "subtitle": "Welii helps fast-growing companies save time and money by optimizing the purchasing process and management of all the...",
+  "tags": [
+    "saas-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017733/icons/welii-io.png",
+  "website": "https://www.welii.io/"
+}

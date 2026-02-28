@@ -1,0 +1,14 @@
+{
+  "id": "bankingcircle",
+  "title": "Banking Circle",
+  "subtitle": "Banking Circle provides financial infrastructure to deliver a range of B2B banking solutions and services, enabling b...",
+  "tags": [
+    "cross-border-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644373045/icons/bankingcircle.jpg",
+  "website": "https://www.bankingcircle.com/",
+  "docsUrl": "https://docs.bankingcircleconnect.com/discover-api-offerings"
+}

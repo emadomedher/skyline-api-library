@@ -1,0 +1,15 @@
+{
+  "id": "hubspot",
+  "title": "HubSpot",
+  "subtitle": "HubSpot offers a full platform of marketing, sales, customer service, and CRM software — plus the methodology, resour...",
+  "tags": [
+    "crm",
+    "ecommerce"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455982/catalog/hubspot/icon128x128.png",
+  "website": "https://www.hubspot.com/",
+  "docsUrl": "https://developers.hubspot.com/"
+}

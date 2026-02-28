@@ -1,0 +1,14 @@
+{
+  "id": "deploybot",
+  "title": "DeployBot",
+  "subtitle": "Push. Build. Deploy! Instantly build and ship code anywhere in one consistent process for your entire team. DeployBot...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562789890/catalog/deploybot/icon128x128.png",
+  "website": "https://deploybot.com",
+  "docsUrl": "https://deploybot.com/api"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "screensteps",
+  "title": "ScreenSteps",
+  "subtitle": "Utilize ScreenSteps Online Employee Training software to simplify the onboarding process of new employees. Create all...",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588537648/catalog/screensteps/icon128x128.png",
+  "website": "https://www.screensteps.com/",
+  "docsUrl": "https://www.screensteps.com/documentation-workflow"
+}

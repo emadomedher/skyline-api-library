@@ -1,0 +1,13 @@
+{
+  "id": "vodeno",
+  "title": "Vodeno",
+  "subtitle": "Vodeno API integration",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364571/icons/vodeno.png",
+  "website": "https://www.vodeno.com/"
+}

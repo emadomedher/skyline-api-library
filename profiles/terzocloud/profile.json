@@ -1,0 +1,13 @@
+{
+  "id": "terzocloud",
+  "title": "Terzo",
+  "subtitle": "Transform your vendors into partners. Make smarter decisions. Build stronger relationships. Optimize performance.",
+  "tags": [
+    "procurement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651772975/icons/terzocloud.png",
+  "website": "https://www.terzocloud.com"
+}

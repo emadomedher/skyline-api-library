@@ -1,0 +1,12 @@
+{
+  "id": "salesup",
+  "title": "SalesUp!",
+  "subtitle": "SalesUp! is a platform to easy organize and create relationships with your customers, to better track leads and incre...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305971/catalog/salesup/icon128x128.png"
+}

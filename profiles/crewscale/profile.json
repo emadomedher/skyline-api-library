@@ -1,0 +1,14 @@
+{
+  "id": "crewscale",
+  "title": "Crewscale",
+  "subtitle": "CrewScale is one stop solution for end-to-end remote talent acquisition. We'll connect you to pre-vetted, domain rele...",
+  "tags": [
+    "remote-payroll"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638404758/icons/crewscale.jpg",
+  "website": "https://www.crewscale.com/",
+  "docsUrl": "https://www.crewscale.com/hire-developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "substack",
+  "title": "Substack",
+  "subtitle": "Substack makes it simple for a writer to start an email newsletter that makes money from subscriptions.",
+  "tags": [
+    "newsletters"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562150858/catalog/substack/icon128x128.png",
+  "website": "https://substack.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "thryv",
+  "title": "Thryv",
+  "subtitle": "Thryv is an all-in-one management software built for small business. It integrates essential business functions like ...",
+  "tags": [
+    "crm",
+    "payment-processors"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306315/catalog/thryv/icon128x128.png",
+  "website": "https://www.thryv.com/"
+}

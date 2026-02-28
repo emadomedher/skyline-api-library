@@ -1,0 +1,16 @@
+{
+  "id": "builder-io",
+  "title": "Builder.io",
+  "subtitle": "Builder is the first and only headless CMS with full visual drag and drop editing",
+  "tags": [
+    "ecommerce",
+    "no-code",
+    "headless-cms"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611599515/icons/builder-io.jpg",
+  "website": "https://www.builder.io/",
+  "docsUrl": "https://www.builder.io/c/docs/intro"
+}

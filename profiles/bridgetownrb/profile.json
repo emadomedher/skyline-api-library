@@ -1,0 +1,17 @@
+{
+  "id": "bridgetownrb",
+  "title": "Bridgetown",
+  "subtitle": "A Webpack-aware, Ruby-powered static site generator for the modern Jamstack era",
+  "tags": [
+    "static-site-generators",
+    "jamstack",
+    "ruby",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075908/icons/bridgetownrb.jpg",
+  "website": "https://www.bridgetownrb.com",
+  "docsUrl": "https://www.bridgetownrb.com/docs"
+}

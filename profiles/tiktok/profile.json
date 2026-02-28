@@ -1,0 +1,15 @@
+{
+  "id": "tiktok",
+  "title": "TikTok",
+  "subtitle": "TikTok is the destination for short-form mobile videos. Our mission is to capture and present the world's creativity,...",
+  "tags": [
+    "social-media-platforms",
+    "social-video",
+    "social-platforms"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616752063/icons/tiktok.png",
+  "website": "https://www.tiktok.com/"
+}

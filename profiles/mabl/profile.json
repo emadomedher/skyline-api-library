@@ -1,0 +1,14 @@
+{
+  "id": "mabl",
+  "title": "mabl",
+  "subtitle": "The only ML-driven automated testing service that automatically maintains tests and identifies regressions. See how e...",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564779553/catalog/mabl/icon128x128.jpg",
+  "website": "https://mabl.com",
+  "docsUrl": "https://help.mabl.com"
+}

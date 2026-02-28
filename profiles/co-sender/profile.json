@@ -1,0 +1,13 @@
+{
+  "id": "co-sender",
+  "title": "CO-SENDER",
+  "subtitle": "CO-SENDER is an email & SMS marketing platform to send messages worldwide, \ntrack results and manage subscriber data ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719512/catalog/co-sender/icon128x128.jpg",
+  "website": "https://co-sender.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dbs",
+  "title": "DBS Bank",
+  "subtitle": "DBS, a leading financial services group headquartered in Singapore, operates across 18 markets. A frontrunner in digi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591545173/icons/dbs.jpg",
+  "website": "https://www.dbs.com/",
+  "docsUrl": "https://www.dbs.com/dbsdevelopers/index.html"
+}

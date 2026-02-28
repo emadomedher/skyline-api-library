@@ -1,0 +1,13 @@
+{
+  "id": "viddyad",
+  "title": "Viddyad",
+  "subtitle": "Viddyad API integration",
+  "tags": [
+    "video-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961993/catalog/viddyad/icon128x128.png",
+  "website": "https://viddyad.com"
+}

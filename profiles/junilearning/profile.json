@@ -1,0 +1,14 @@
+{
+  "id": "junilearning",
+  "title": "Juni Learning",
+  "subtitle": "Where kids go to learn real-world skills for the modern world including Coding, Investing, Storytelling or more! Expl...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679141788/icons/junilearning.png",
+  "website": "https://junilearning.com/",
+  "docsUrl": "https://junilearning.com/docs/juni_learning_terms_of_use.pdf"
+}

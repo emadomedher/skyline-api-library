@@ -1,0 +1,13 @@
+{
+  "id": "kakao",
+  "title": "KaKao",
+  "subtitle": "Connect Everything - 새로운 연결, 더 나은 세상",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "//t1.kakaocdn.net/kakaocorp/corp_thumbnail/Kakao.png",
+  "website": "https://kakao.com"
+}

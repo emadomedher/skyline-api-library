@@ -1,0 +1,13 @@
+{
+  "id": "google-lead-form-extension",
+  "title": "Google Lead Form Extensions",
+  "subtitle": "Google lead form extensions encourages people to connect with your brand through integrated contact forms under your ad.",
+  "tags": [
+    "forms",
+    "analytics"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829972/catalog/google-lead-form-extension/icon128x128.png"
+}

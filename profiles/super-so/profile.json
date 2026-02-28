@@ -1,0 +1,15 @@
+{
+  "id": "super-so",
+  "title": "Super",
+  "subtitle": "Turn your Notion pages into fast, functional websites with custom domains, fonts, analytics, and more.",
+  "tags": [
+    "website-builders",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612187950/icons/super-so.jpg",
+  "website": "https://super.so/",
+  "docsUrl": "https://support.remote.com"
+}

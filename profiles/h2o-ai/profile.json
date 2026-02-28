@@ -1,0 +1,14 @@
+{
+  "id": "h2o-ai",
+  "title": "H2O.ai",
+  "subtitle": "H2O.ai is the creator of H2O the leading open source machine learning and artificial intelligence platform trusted by...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566433002/catalog/h2o-ai/icon128x128.jpg",
+  "website": "https://www.h2o.ai/",
+  "docsUrl": "https://docs.h2o.ai"
+}

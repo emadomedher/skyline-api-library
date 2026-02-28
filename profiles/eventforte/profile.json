@@ -1,0 +1,13 @@
+{
+  "id": "eventforte",
+  "title": "EventForte",
+  "subtitle": "The quick strategies to reduce stress and save time on your events whether you are an event planner, DIY, hotel, or o...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947060/catalog/eventforte/icon128x128.png",
+  "website": "https://eventforte.com"
+}

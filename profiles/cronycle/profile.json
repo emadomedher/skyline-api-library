@@ -1,0 +1,13 @@
+{
+  "id": "cronycle",
+  "title": "Cronycle",
+  "subtitle": "Cronycle empowers you to discover, curate and distribute content with your team, all in one place.",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719646/catalog/cronycle/icon128x128.jpg",
+  "website": "https://Cronycle.com"
+}

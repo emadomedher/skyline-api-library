@@ -1,0 +1,13 @@
+{
+  "id": "metooo",
+  "title": "Metooo",
+  "subtitle": "Exalt promotion and RSVP. Sell more tickets easily and reduce planning and management costs.",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946829/catalog/metooo/icon128x128.jpg",
+  "website": "https://metooo.io"
+}

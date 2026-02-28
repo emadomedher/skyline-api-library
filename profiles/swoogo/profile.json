@@ -1,0 +1,14 @@
+{
+  "id": "swoogo",
+  "title": "Swoogo",
+  "subtitle": "Swoogo is super customizable event management software made for event profs who plan in-person, virtual, or hybrid ev...",
+  "tags": [
+    "events-meetings-and-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722406/catalog/swoogo/icon128x128.jpg",
+  "website": "https://swoogo.com",
+  "docsUrl": "https://developer.swoogo.com/#auth-info-bb38e605-25ec-4cd4-8cb1-cbd66482e902"
+}

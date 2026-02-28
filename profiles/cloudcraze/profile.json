@@ -1,0 +1,13 @@
+{
+  "id": "cloudcraze",
+  "title": "cloudcraze",
+  "subtitle": "cloudcraze API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433790/catalog/cloudcraze/icon128x128.png",
+  "website": "https://cloudcraze.com"
+}

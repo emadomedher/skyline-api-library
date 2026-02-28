@@ -1,0 +1,13 @@
+{
+  "id": "khoros",
+  "title": "Khoros",
+  "subtitle": "Khoros software solutions help enterprises deliver the best customer experiences by building and scaling digital care...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589508673/catalog/khoros/icon128x128.jpg",
+  "website": "https://khoros.com/"
+}

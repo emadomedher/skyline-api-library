@@ -1,0 +1,15 @@
+{
+  "id": "paychex",
+  "title": "Paychex",
+  "subtitle": "Paychex is a provider of payroll, human resource, and benefits outsourcing solutions for small- to medium-sized busin...",
+  "tags": [
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554586087/catalog/paychex/icon128x128.jpg",
+  "website": "https://www.paychex.com/",
+  "docsUrl": "https://developer.paychex.com/"
+}

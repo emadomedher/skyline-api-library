@@ -1,0 +1,14 @@
+{
+  "id": "google",
+  "title": "Google",
+  "subtitle": "Google API integration",
+  "tags": [
+    "search-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547936497/catalog/google/icon128x128.png",
+  "website": "https://www.google.com",
+  "docsUrl": "https://developers.google.com/"
+}

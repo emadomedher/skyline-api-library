@@ -1,0 +1,13 @@
+{
+  "id": "latticeflow-ai",
+  "title": "LatticeFlow",
+  "subtitle": "We empower organizations to build and deploy robust AI they can understand and trust",
+  "tags": [
+    "ai-models"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611123672/icons/latticeflow-ai.jpg",
+  "website": "https://latticeflow.ai/"
+}

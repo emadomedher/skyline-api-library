@@ -1,0 +1,16 @@
+{
+  "id": "commercelayer-io",
+  "title": "Commerce Layer",
+  "subtitle": "Commerce Layer is an API-first commerce platform that lets you easily add enterprise-grade e-commerce to any website,...",
+  "tags": [
+    "ecommerce",
+    "api-first",
+    "jamstack"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585484056/catalog/commercelayer-io/icon128x128.jpg",
+  "website": "https://commercelayer.io/",
+  "docsUrl": "https://commercelayer.io/api/reference"
+}

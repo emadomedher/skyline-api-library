@@ -1,0 +1,13 @@
+{
+  "id": "levelbank",
+  "title": "Level",
+  "subtitle": "Level - a high-APY deposit account that gives you the rewards you actually want.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582233363/catalog/levelbank/icon128x128.jpg",
+  "website": "https://levelbank.com/"
+}

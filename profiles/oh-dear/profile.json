@@ -1,0 +1,14 @@
+{
+  "id": "oh-dear",
+  "title": "Oh Dear!",
+  "subtitle": "Complete website monitoring: from multiple locations, broken links & mixed content detection & advanced ssl certifica...",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561939038/catalog/oh-dear/icon128x128.jpg",
+  "website": "https://ohdear.app/",
+  "docsUrl": "https://ohdear.app/docs"
+}

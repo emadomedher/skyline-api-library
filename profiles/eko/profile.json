@@ -1,0 +1,13 @@
+{
+  "id": "eko",
+  "title": "Eko",
+  "subtitle": "Welcome to Eko, your new home for interactive video. Step in to the story and discover original interactive comedy, d...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775069/catalog/eko/icon128x128.jpg",
+  "website": "https://helloeko.com"
+}

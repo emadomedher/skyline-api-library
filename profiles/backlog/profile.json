@@ -1,0 +1,15 @@
+{
+  "id": "backlog",
+  "title": "Backlog",
+  "subtitle": "Backlog is your all-in-one project management software for your whole team. Issue tracking, Git hosting and version c...",
+  "tags": [
+    "project-management",
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598542097/icons/backlog.jpg",
+  "website": "https://backlog.com/",
+  "docsUrl": "https://developer.nulab.com/docs/backlog"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zenloop",
+  "title": "zenloop",
+  "subtitle": "zenloop is a NPS feedback management platform which improves customer retention by using the Net Promoter System® (NP...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306583/catalog/zenloop/icon128x128.png",
+  "website": "https://zenloop.com"
+}

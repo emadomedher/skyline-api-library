@@ -1,0 +1,13 @@
+{
+  "id": "flat-mx",
+  "title": "Flat.mx",
+  "subtitle": "La forma más fácil de vender tu propiedad en la Ciudad de México es con Flat",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611530598/icons/flat-mx.jpg",
+  "website": "https://flat.mx/"
+}

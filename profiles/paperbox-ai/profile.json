@@ -1,0 +1,13 @@
+{
+  "id": "paperbox-ai",
+  "title": "Paperbox",
+  "subtitle": "Releasing the world of manual paperwork! Using artificial intelligence to distill your documents and contracts automa...",
+  "tags": [
+    "document-processing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869871/icons/paperbox-ai.png",
+  "website": "https://www.paperbox.ai/"
+}

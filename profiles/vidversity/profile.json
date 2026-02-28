@@ -1,0 +1,13 @@
+{
+  "id": "vidversity",
+  "title": "VidVersity",
+  "subtitle": "Do you want to make modern mandatory online training courses? We can do it for you or show you how using the VidVersi...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647901514/icons/vidversity.jpg",
+  "website": "https://vidversity.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "typetalk",
+  "title": "Typetalk",
+  "subtitle": "This cloud-based chat app delivers the features you need for a price your team can afford. Also available on desktop ...",
+  "tags": [
+    "team-collaboration",
+    "team-messaging"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598542095/icons/typetalk.jpg",
+  "website": "https://www.typetalk.com/",
+  "docsUrl": "https://developer.nulab.com/docs/typetalk"
+}

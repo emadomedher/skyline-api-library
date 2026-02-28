@@ -1,0 +1,14 @@
+{
+  "id": "apple-card",
+  "title": "Apple Card",
+  "subtitle": "Apple Card is a credit card created by Apple Inc. and issued by Goldman Sachs, designed primarily to be used with App...",
+  "tags": [
+    "credit-cards",
+    "payment-methods"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590612407/catalog/apple-card/icon128x128.png",
+  "website": "https://www.apple.com/apple-card/"
+}

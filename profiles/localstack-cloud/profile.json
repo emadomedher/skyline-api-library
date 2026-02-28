@@ -1,0 +1,16 @@
+{
+  "id": "localstack-cloud",
+  "title": "LocalStack",
+  "subtitle": "LocalStack API integration",
+  "tags": [
+    "testing-environment",
+    "local-development",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602966190/icons/localstack-cloud.jpg",
+  "website": "https://localstack.cloud/",
+  "docsUrl": "https://localstack.cloud"
+}

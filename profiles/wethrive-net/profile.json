@@ -1,0 +1,13 @@
+{
+  "id": "wethrive-net",
+  "title": "WeThrive",
+  "subtitle": "Gather employee feedback and instantly find out what to do to make it better, and create high-performance, engaged te...",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1694886921/icons/wethrive-net.jpg",
+  "website": "https://wethrive.net/"
+}

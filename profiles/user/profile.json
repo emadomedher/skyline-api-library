@@ -1,0 +1,14 @@
+{
+  "id": "user",
+  "title": "User.com",
+  "subtitle": "User.com is an advanced marketing and sales automation software. We help companies streamline internal processes and ...",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578423842/catalog/user/icon128x128.jpg",
+  "website": "https://user.com/",
+  "docsUrl": "https://user.com/en/mobile-sdk"
+}

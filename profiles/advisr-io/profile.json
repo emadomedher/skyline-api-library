@@ -1,0 +1,13 @@
+{
+  "id": "advisr-io",
+  "title": "Advisr",
+  "subtitle": "Advisr API integration",
+  "tags": [
+    "sales-support"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605549885/icons/advisr-io.png",
+  "website": "https://advisr.io"
+}

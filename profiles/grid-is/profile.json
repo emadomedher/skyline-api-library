@@ -1,0 +1,13 @@
+{
+  "id": "grid-is",
+  "title": "GRID ",
+  "subtitle": "GRID enables you to leverage your existing spreadsheet skills to build smart, interactive web documents. Get started ...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615498559/icons/grid-is.png",
+  "website": "https://grid.is/"
+}

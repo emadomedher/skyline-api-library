@@ -1,0 +1,14 @@
+{
+  "id": "anorak-life",
+  "title": "Anorak",
+  "subtitle": "Working out how much life insurance you need is tricky. Anorak does the maths for you, then scans the market for your...",
+  "tags": [
+    "insurance",
+    "life-insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579223519/catalog/anorak-life/icon128x128.png",
+  "website": "https://www.anorak.life/"
+}

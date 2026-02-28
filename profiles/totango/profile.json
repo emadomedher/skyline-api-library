@@ -1,0 +1,14 @@
+{
+  "id": "totango",
+  "title": "Totango",
+  "subtitle": "Totango is a Customer Engagement Management platform. ",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306357/catalog/totango/icon128x128.png",
+  "website": "https://totango.com",
+  "docsUrl": "https://support.totango.com/hc/en-us/articles/203639605-Totango-HTTP-API-Overview"
+}

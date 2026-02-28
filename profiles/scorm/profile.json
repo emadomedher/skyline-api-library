@@ -1,0 +1,15 @@
+{
+  "id": "scorm",
+  "title": "SCORM Cloud",
+  "subtitle": "SCORM.com is dedicated to helping you understand what SCORM is and how to use it. We strive to make SCORM conformance...",
+  "tags": [
+    "e-learning",
+    "standards"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441085/catalog/scorm/icon128x128.jpg",
+  "website": "https://scorm.com/",
+  "docsUrl": "https://scorm.com/scorm-explained/technical-scorm"
+}

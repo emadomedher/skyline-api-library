@@ -1,0 +1,13 @@
+{
+  "id": "invitebox",
+  "title": "Invitebox",
+  "subtitle": "Referral program platform with refer a friend widget. Reach new customers today with a social refferal program. Invit...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946901/catalog/invitebox/icon128x128.png",
+  "website": "https://invitebox.com"
+}

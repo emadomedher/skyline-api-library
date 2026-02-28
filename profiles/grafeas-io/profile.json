@@ -1,0 +1,13 @@
+{
+  "id": "grafeas-io",
+  "title": "Grafeas.io",
+  "subtitle": "An open artifact metadata API to audit and govern your software supply chain.",
+  "tags": [
+    "development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614351/catalog/grafeas-io/icon128x128.jpg",
+  "website": "https://grafeas.io/"
+}

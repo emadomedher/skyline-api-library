@@ -1,0 +1,14 @@
+{
+  "id": "finom-co",
+  "title": "Finom",
+  "subtitle": "With Finom you can create electronic and regular invoices in 60 seconds. Finom helps you with your invoices to get pa...",
+  "tags": [
+    "invoicing",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588288426/catalog/finom-co/icon128x128.png",
+  "website": "https://finom.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "any-do",
+  "title": "Any.do",
+  "subtitle": "Any.do is a simple &amp; powerful way to manage Projects, To-do lists &amp; Reminders. Available on Web, iPhone, Andr...",
+  "tags": [
+    "to-do-lists"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829018/catalog/any-do/icon128x128.png",
+  "website": "https://any.do"
+}

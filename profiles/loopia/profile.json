@@ -1,0 +1,14 @@
+{
+  "id": "loopia",
+  "title": "Loopia",
+  "subtitle": "Loopia AB is a stable hosting company that also helps you to register domain names at low cost, as .se, .com, .nu and...",
+  "tags": [
+    "cloud-hosting",
+    "domain-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006425/icons/loopia.jpg",
+  "website": "https://www.loopia.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "magneteventpro",
+  "title": "Magnet",
+  "subtitle": "Magnet event tool, you can easily create a small or large scale event completely on your own terms. No matter the typ...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588293747/catalog/magneteventpro/icon128x128.png",
+  "website": "https://www.magneteventpro.com/"
+}

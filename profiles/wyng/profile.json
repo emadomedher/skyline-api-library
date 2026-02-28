@@ -1,0 +1,13 @@
+{
+  "id": "wyng",
+  "title": "Wyng",
+  "subtitle": "A marketing platform for brands & agencies. Build and run social & digital campaigns that drive participation and ele...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722942/catalog/wyng/icon128x128.jpg",
+  "website": "https://wyng.com"
+}

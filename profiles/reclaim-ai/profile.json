@@ -1,0 +1,15 @@
+{
+  "id": "reclaim-ai",
+  "title": "Reclaim",
+  "subtitle": "Reclaim is an intelligent calendar assistant that blocks flexible time on your calendar for anything you want to focu...",
+  "tags": [
+    "calendar",
+    "productivity"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650227970/icons/reclaim-ai.jpg",
+  "website": "https://reclaim.ai/",
+  "docsUrl": "https://help.reclaim.ai/en"
+}

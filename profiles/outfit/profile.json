@@ -1,0 +1,14 @@
+{
+  "id": "outfit",
+  "title": "Outfit",
+  "subtitle": "Outfit automates brand management at scale through intelligent data use, templates and integrations to reduce product...",
+  "tags": [
+    "dam-and-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963411/catalog/outfit/icon128x128.png",
+  "website": "https://outfit.io",
+  "docsUrl": "https://outfit.io/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "scibu",
+  "title": "Qubics",
+  "subtitle": "Effectieve online bedrijfssoftware voor de verkoop, marketing en serviceafdeling. Speciaal voor het MKB.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590424535/catalog/scibu/icon128x128.jpg",
+  "website": "https://www.scibu.com/"
+}

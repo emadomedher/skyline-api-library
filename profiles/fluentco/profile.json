@@ -1,0 +1,13 @@
+{
+  "id": "fluentco",
+  "title": "Fluent",
+  "subtitle": "We drive engagement- powered by 1-party, self-declared data, we connect our clients to the right consumer at the righ...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582086599/catalog/fluentco/icon128x128.jpg",
+  "website": "https://www.fluentco.com/"
+}

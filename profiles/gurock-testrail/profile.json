@@ -1,0 +1,16 @@
+{
+  "id": "gurock-testrail",
+  "title": "TestRail",
+  "subtitle": "TestRail is a test case and test management software tool that helps teams manage and track their software testing ef...",
+  "tags": [
+    "test-case-management",
+    "qa",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601691181/icons/gurock-testrail.jpg",
+  "website": "https://www.gurock.com/testrail/",
+  "docsUrl": "https://www.gurock.com/testrail/docs/user-guide"
+}

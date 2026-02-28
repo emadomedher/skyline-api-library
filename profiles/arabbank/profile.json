@@ -1,0 +1,14 @@
+{
+  "id": "arabbank",
+  "title": "Arab Bank",
+  "subtitle": "Arab Bank is one of the largest financial institutions in the Middle East, founded in 1930 in Jerusalem, Mandatory Pa...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630015795/icons/arabbank.jpg",
+  "website": "https://arabbank.com/",
+  "docsUrl": "https://developer.arabbank.com/"
+}

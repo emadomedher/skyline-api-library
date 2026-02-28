@@ -1,0 +1,14 @@
+{
+  "id": "onefootprint",
+  "title": "Footprint",
+  "subtitle": "The last identity verification you'll ever need",
+  "tags": [
+    "kyc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686602999/icons/onefootprint.jpg",
+  "website": "https://www.onefootprint.com/",
+  "docsUrl": "https://docs.onefootprint.com"
+}

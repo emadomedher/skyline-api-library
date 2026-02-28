@@ -1,0 +1,15 @@
+{
+  "id": "rally-io",
+  "title": "Rally",
+  "subtitle": "Rally enables creators to launch independent micro economies for their fan communities via ethereum-powered creator c...",
+  "tags": [
+    "creator-communities",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640816162/icons/rally-io.jpg",
+  "website": "https://rally.io/",
+  "docsUrl": "https://rally.io/evergreen/developer-ecosystem"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tome-app",
+  "title": "Tome",
+  "subtitle": "Bring ideas to life in seconds using video, interactivity, and live data.",
+  "tags": [
+    "storytelling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649374922/icons/tome-app.png",
+  "website": "https://beta.tome.app/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "quokka-io",
+  "title": "Quokka",
+  "subtitle": "Quokka API integration",
+  "tags": [
+    "email-marketing",
+    "email-analytics",
+    "remarketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574014029/catalog/quokka-io/icon128x128.png",
+  "website": "https://quokka.io"
+}

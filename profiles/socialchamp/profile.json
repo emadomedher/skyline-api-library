@@ -1,0 +1,13 @@
+{
+  "id": "socialchamp",
+  "title": "SocialChamp",
+  "subtitle": "Automate multiple social media accounts with Social Champ. This platform is trusted by companies, brands, businesses,...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722189/catalog/socialchamp/icon128x128.png",
+  "website": "https://socialchamp.io"
+}

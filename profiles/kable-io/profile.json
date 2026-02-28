@@ -1,0 +1,14 @@
+{
+  "id": "kable-io",
+  "title": "Kable",
+  "subtitle": "Kable makes it easy for developers to add usage-based billing, analytics, invoicing, and payments to their API produc...",
+  "tags": [
+    "usage-based-billing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655384605/icons/kable-io.jpg",
+  "website": "https://www.kable.io/",
+  "docsUrl": "https://docs.kable.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "1sales",
+  "title": "1sales",
+  "subtitle": "Wir helfen dir dabei Zeit zu sparen und deinen Gewinn zu maximieren. In 60 Sekunden startklar. CRM leicht gemacht - a...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432651/catalog/1sales/icon128x128.png",
+  "website": "https://1sales.io"
+}

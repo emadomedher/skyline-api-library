@@ -1,0 +1,13 @@
+{
+  "id": "squeezecmm",
+  "title": "SqueezeCMM",
+  "subtitle": "B2B Content Analytics that are specific to your business. Your marketing programs are unique, your analytics need to ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946538/catalog/squeezecmm/icon128x128.png",
+  "website": "https://squeezecmm.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "amazon-kinesis-firehose",
+  "title": "Amazon Kinesis Firehose",
+  "subtitle": "Amazon Kinesis Firehose API integration",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439089/catalog/amazon-kinesis-firehose/icon128x128.svg"
+}

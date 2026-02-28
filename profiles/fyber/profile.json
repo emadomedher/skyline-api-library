@@ -1,0 +1,14 @@
+{
+  "id": "fyber",
+  "title": "Fyber",
+  "subtitle": "Fyber is a global technology company, developing a next generation monetization platform for mobile publishers. This ...",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434730/catalog/fyber/icon128x128.png",
+  "website": "https://fyber.com",
+  "docsUrl": "https://developer.fyber.com"
+}

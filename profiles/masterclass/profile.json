@@ -1,0 +1,14 @@
+{
+  "id": "masterclass",
+  "title": "MasterClass",
+  "subtitle": "MasterClass offers online classes created for students of all skill levels. Our instructors are the best in the world.\n",
+  "tags": [
+    "courses",
+    "online-classes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612562364/icons/masterclass.jpg",
+  "website": "https://www.masterclass.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wallmine",
+  "title": "wallmine",
+  "subtitle": "US stock market today: stock quotes, stock screener, stock charts, insiders trading, market news, portfolio tracking,...",
+  "tags": [
+    "stock-screening",
+    "portfolio-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638775787/icons/wallmine.jpg",
+  "website": "https://wallmine.com/",
+  "docsUrl": "https://wallmine.com/developers/widgets"
+}

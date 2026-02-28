@@ -1,0 +1,12 @@
+{
+  "id": "redtailcrm",
+  "title": "Redtail CRM",
+  "subtitle": "Redtail CRM is cost-effective, easy to use, cloud based solution for today’s financial professional. Packed with powe...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305852/catalog/redtailcrm/icon128x128.png"
+}

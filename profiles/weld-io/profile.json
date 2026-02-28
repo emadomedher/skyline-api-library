@@ -1,0 +1,13 @@
+{
+  "id": "weld-io",
+  "title": "Weld",
+  "subtitle": "Design any kind of web content. Publish in minutes. Works with any web platform. Responsive design. Create web animat...",
+  "tags": [
+    "landing-page-builder"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588292446/catalog/weld-io/icon128x128.jpg",
+  "website": "https://www.weld.io/"
+}

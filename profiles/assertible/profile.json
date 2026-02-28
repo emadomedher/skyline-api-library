@@ -1,0 +1,14 @@
+{
+  "id": "assertible",
+  "title": "Assertible",
+  "subtitle": "Continuously test your web services. Teams and individuals gain confidence in crucial infrastructure by using Asserti...",
+  "tags": [
+    "api-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570971639/catalog/assertible/icon128x128.png",
+  "website": "https://assertible.com",
+  "docsUrl": "https://assertible.com/docs"
+}

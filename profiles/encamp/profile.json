@@ -1,0 +1,14 @@
+{
+  "id": "encamp",
+  "title": "Encamp",
+  "subtitle": "Encamp is the end-to-end environmental compliance platform — a best-in-class EHS software system built for environmen...",
+  "tags": [
+    "ehs-compliance",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590626654/catalog/encamp/icon128x128.png",
+  "website": "https://www.encamp.com/"
+}

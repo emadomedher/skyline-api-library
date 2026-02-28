@@ -1,0 +1,15 @@
+{
+  "id": "tatum-io",
+  "title": "Tatum",
+  "subtitle": "The simple unified REST API that requires no blockchain expertise. Supports over 20 blockchain protocols and 2000+ di...",
+  "tags": [
+    "blockchain",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629770112/icons/tatum-io.png",
+  "website": "https://tatum.io/",
+  "docsUrl": "https://tatum.io/#"
+}

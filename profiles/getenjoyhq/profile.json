@@ -1,0 +1,15 @@
+{
+  "id": "getenjoyhq",
+  "title": "EnjoyHQ",
+  "subtitle": "Do better UX research with EnjoyHQ. Centralize research data, discover insights, and share research findings with sta...",
+  "tags": [
+    "ux-research",
+    "user-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565368282/catalog/getenjoyhq/icon128x128.png",
+  "website": "https://getenjoyhq.com",
+  "docsUrl": "https://documentation.getenjoyhq.com"
+}

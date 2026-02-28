@@ -1,0 +1,12 @@
+{
+  "id": "teachery",
+  "title": "Teachery",
+  "subtitle": "Teachery is an online course building platform. Create and sell beautiful online courses in minutes with no transacti...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284629/catalog/teachery/icon128x128.png"
+}

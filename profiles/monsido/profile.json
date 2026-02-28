@@ -1,0 +1,13 @@
+{
+  "id": "monsido",
+  "title": "Monsido",
+  "subtitle": "Monsido is an all-in-one platform that delivers the insights needed to build a better web experience for their visitors",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826981/catalog/monsido/icon128x128.jpg",
+  "website": "https://monsido.com"
+}

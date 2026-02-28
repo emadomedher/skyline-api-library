@@ -1,0 +1,13 @@
+{
+  "id": "productplan",
+  "title": "ProductPlan",
+  "subtitle": "ProductPlan is the easiest way to plan and communicate your product roadmap. Get started with a free 30-day trial and...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721592/catalog/productplan/icon128x128.jpg",
+  "website": "https://productplan.com"
+}

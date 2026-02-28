@@ -1,0 +1,13 @@
+{
+  "id": "trybento-co",
+  "title": "Bento",
+  "subtitle": "A low-code onboarding tool to bring tailored customer success directly into the product.",
+  "tags": [
+    "onboarding"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617908514/icons/trybento-co.png",
+  "website": "https://www.trybento.co/"
+}

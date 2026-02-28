@@ -1,0 +1,15 @@
+{
+  "id": "coppa",
+  "title": "COPPA",
+  "subtitle": "The Children's Online Privacy Protection Act of 1998 is a United States federal law, located at 15 U.S.C. §§ 6501–6506.",
+  "tags": [
+    "privacy",
+    "compliance",
+    "regulations"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605634715/icons/coppa.png",
+  "website": "https://www.ftc.gov/enforcement/rules/rulemaking-regulatory-reform-proceedings/childrens-online-privacy-protection-rule"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cloze",
+  "title": "Cloze",
+  "subtitle": "Cloze is like a personal assistant for your professional relationships that is always prompting you at the right mome...",
+  "tags": [
+    "contacts",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304665/catalog/cloze/icon128x128.png",
+  "website": "https://cloze.com"
+}

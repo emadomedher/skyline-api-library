@@ -1,0 +1,13 @@
+{
+  "id": "whaller",
+  "title": "Whaller",
+  "subtitle": "Whaller allows anyone to create their own private social networks. Very usefull for families, companies, schools and ...",
+  "tags": [
+    "social-media-management",
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306499/catalog/whaller/icon128x128.png"
+}

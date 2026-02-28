@@ -1,0 +1,14 @@
+{
+  "id": "beeceptor",
+  "title": "Beeceptor",
+  "subtitle": "Get an HTTP endpoint to build mock APIs. Beeceptor intercepts HTTP requests for you to mock in real-time. Create rule...",
+  "tags": [
+    "api-mocking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620301288/icons/beeceptor.png",
+  "website": "https://beeceptor.com/",
+  "docsUrl": "https://docs.beeceptor.com/docs/features-inspect-requests"
+}

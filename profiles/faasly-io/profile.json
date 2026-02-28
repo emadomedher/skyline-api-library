@@ -1,0 +1,13 @@
+{
+  "id": "faasly-io",
+  "title": "Faasly.io",
+  "subtitle": "High fidelity metrics and monitoring service which allows you to see inside AWS Lambda functions. No vendor lock-in, ...",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607767290/icons/faasly-io.jpg",
+  "website": "https://faasly.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gorillas-io",
+  "title": "Gorillas",
+  "subtitle": "Groceries at retail prices, delivered in 10 minutes",
+  "tags": [
+    "grocery-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622242228/icons/gorillas-io.jpg",
+  "website": "https://gorillas.io/",
+  "docsUrl": "https://gorillas.io/en/docs/privacy-policy#main"
+}

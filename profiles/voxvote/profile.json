@@ -1,0 +1,13 @@
+{
+  "id": "voxvote",
+  "title": "VoxVote",
+  "subtitle": "Free Audience Response System for live voting with your audience.  Vote over the internet with any smartphone browser. \n",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722803/catalog/voxvote/icon128x128.jpg",
+  "website": "https://voxvote.com"
+}

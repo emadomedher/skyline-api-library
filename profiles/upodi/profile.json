@@ -1,0 +1,14 @@
+{
+  "id": "upodi",
+  "title": "Upodi",
+  "subtitle": "We take care of your subscription management & recurring billing while you take care of your new business growth.",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438174/catalog/upodi/icon128x128.png",
+  "website": "https://upodi.com",
+  "docsUrl": "https://docs.upodi.com/"
+}

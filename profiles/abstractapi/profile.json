@@ -1,0 +1,14 @@
+{
+  "id": "abstractapi",
+  "title": "Abstract",
+  "subtitle": "Abstract provides powerful APIs to help you enrich any user experience or automate any workflow. Used by 10,000+ deve...",
+  "tags": [
+    "data-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639600165/icons/abstractapi.png",
+  "website": "https://www.abstractapi.com/",
+  "docsUrl": "https://www.abstractapi.com/api-glossary/api-documentation"
+}

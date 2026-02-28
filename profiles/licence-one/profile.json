@@ -1,0 +1,14 @@
+{
+  "id": "licence-one",
+  "title": "LicenceOne",
+  "subtitle": "LicenceOne is the hub for SMEs to detect their software subscriptions, prevent wasted spend, and managing employee ac...",
+  "tags": [
+    "saas-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645810140/icons/licence-one.png",
+  "website": "https://www.licence.one/",
+  "docsUrl": "https://www.notion.so/licenceone/help-support-documentation-875fa0c198e7430ab83603774bf71eeb"
+}

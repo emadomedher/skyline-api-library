@@ -1,0 +1,14 @@
+{
+  "id": "bluecrewjobs",
+  "title": "Bluecrew",
+  "subtitle": "Bluecrew is an hourly staffing platform that makes it easy for employers to access pre-screened W-2 temp workers. Our...",
+  "tags": [
+    "staffing",
+    "staffing-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599828180/icons/bluecrewjobs.jpg",
+  "website": "https://www.bluecrewjobs.com/"
+}

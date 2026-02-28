@@ -1,0 +1,14 @@
+{
+  "id": "oneschema-co",
+  "title": "OneSchema",
+  "subtitle": "Empower your data migration team in onboarding customers quickly and effectively. OneSchema's data cleansing and coll...",
+  "tags": [
+    "csv-import",
+    "data-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626371081/icons/oneschema-co.png",
+  "website": "https://www.oneschema.co/"
+}

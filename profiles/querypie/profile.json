@@ -1,0 +1,13 @@
+{
+  "id": "querypie",
+  "title": "QueryPie",
+  "subtitle": "QueryPie is a centralized platform to manage scattered data sources and security policies all in one place.",
+  "tags": [
+    "data-governance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618689449/icons/querypie.png",
+  "website": "https://www.querypie.com/"
+}

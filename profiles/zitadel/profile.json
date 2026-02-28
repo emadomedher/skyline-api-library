@@ -1,0 +1,15 @@
+{
+  "id": "zitadel",
+  "title": "ZITADEL",
+  "subtitle": "ZITADEL provides you with all the features necessary to build great solutions, without the need of building the login...",
+  "tags": [
+    "identity-management",
+    "open-source"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655078792/icons/zitadel.jpg",
+  "website": "https://zitadel.com/",
+  "docsUrl": "https://docs.zitadel.com/docs/apis/introduction"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ad-up-nl",
+  "title": "Ad Up",
+  "subtitle": "In 3 klikken een product bestellen vanaf een advertentie op social media, website of QR code op papier. Maak gebruik ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627928954/icons/ad-up-nl.png",
+  "website": "https://ad-up.nl"
+}

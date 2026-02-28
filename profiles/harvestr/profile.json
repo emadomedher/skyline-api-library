@@ -1,0 +1,12 @@
+{
+  "id": "harvestr",
+  "title": "Harvestr",
+  "subtitle": "Harvestr is a product management tool that lets you centralize user feedback, prioritize features and communicate on ...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305093/catalog/harvestr/icon128x128.png"
+}

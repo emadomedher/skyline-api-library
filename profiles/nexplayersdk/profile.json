@@ -1,0 +1,14 @@
+{
+  "id": "nexplayersdk",
+  "title": "NexPlayer",
+  "subtitle": "NexPlayer: The Market Leader Video Player SDK. Highest HLS and DASH streaming video quality across all Android, IOS, ...",
+  "tags": [
+    "video-sdks",
+    "videos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582966229/catalog/nexplayersdk/icon128x128.jpg",
+  "website": "https://www.nexplayersdk.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ninjaforms",
+  "title": "Ninja Forms",
+  "subtitle": "Ninja Forms is the easiest and most flexible WordPress Form builder.",
+  "tags": [
+    "wordpress",
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305530/catalog/ninjaforms/icon128x128.png",
+  "website": "https://ninjaforms.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "threatjammer",
+  "title": "Threat Jammer",
+  "subtitle": "Risk assessment for your peace of mind. A Data Enrichment API for developers, security engineers, and IT professional...",
+  "tags": [
+    "risk-assessment-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647976957/icons/threatjammer.jpg",
+  "website": "https://threatjammer.com/",
+  "docsUrl": "https://threatjammer.com/docs"
+}

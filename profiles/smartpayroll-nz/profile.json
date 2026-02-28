@@ -1,0 +1,13 @@
+{
+  "id": "smartpayroll-nz",
+  "title": "SmartPayroll",
+  "subtitle": "Online payroll software from SmartPayroll, New Zealand. SmartPayroll is an easy-to-use online system that makes it si...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675405/catalog/smartpayroll-nz/icon128x128.jpg",
+  "website": "https://www.smartpayroll.co.nz/"
+}

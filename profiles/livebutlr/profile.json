@@ -1,0 +1,14 @@
+{
+  "id": "livebutlr",
+  "title": "butlr.",
+  "subtitle": "AIoT insight and intelligence for indoor people movement without violating individual privacy",
+  "tags": [
+    "retail",
+    "location-technology"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595597621/icons/livebutlr.png",
+  "website": "https://www.livebutlr.com/"
+}

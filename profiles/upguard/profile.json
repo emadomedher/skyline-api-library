@@ -1,0 +1,14 @@
+{
+  "id": "upguard",
+  "title": "UpGuard",
+  "subtitle": "UpGuard reduces cyber risk, prevents breaches and protects customer data for hundreds of customers all over the world.",
+  "tags": [
+    "vendor-risk-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572302412/catalog/upguard/icon128x128.png",
+  "website": "https://www.upguard.com/"
+}

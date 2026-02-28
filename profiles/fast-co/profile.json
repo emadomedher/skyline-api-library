@@ -1,0 +1,15 @@
+{
+  "id": "fast-co",
+  "title": "Fast",
+  "subtitle": "Fast makes it fast, easy and safe to login, signup and pay online. With 1-click login and 1-click checkout, we make t...",
+  "tags": [
+    "payments",
+    "ecommerce"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600070661/icons/fast-co.jpg",
+  "website": "https://www.fast.co/",
+  "docsUrl": "https://www.fast.co/docs/developer-portal/"
+}

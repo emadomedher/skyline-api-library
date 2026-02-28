@@ -1,0 +1,13 @@
+{
+  "id": "zoho-forms",
+  "title": "Zoho Forms",
+  "subtitle": "Zoho Forms is a free online form builder that lets you create custom forms, receive responses by email, and collabora...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306601/catalog/zoho-forms/icon128x128.png",
+  "website": "https://www.zoho.com/forms/"
+}

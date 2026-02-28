@@ -1,0 +1,13 @@
+{
+  "id": "banco-europeo-de-finanzas",
+  "title": "Banco Europeo de Finanzas",
+  "subtitle": "Banco Europeo de Finanzas S.A. provides financial services. The Company offers the financing of public or private pro...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622932340/icons/banco-europeo-de-finanzas.png",
+  "website": "https://www.bef.es"
+}

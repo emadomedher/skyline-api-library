@@ -1,0 +1,14 @@
+{
+  "id": "peppy-health",
+  "title": "Peppy",
+  "subtitle": "Peppy API integration",
+  "tags": [
+    "employee-healthcare-benefits",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591898022/icons/peppy-health.png",
+  "website": "https://peppy.health/"
+}

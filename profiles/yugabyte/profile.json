@@ -1,0 +1,15 @@
+{
+  "id": "yugabyte",
+  "title": "Yugabyte",
+  "subtitle": "YugabyteDB is the open source, Postgres-compatible distributed SQL database for mission critical cloud native applica...",
+  "tags": [
+    "databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632537542/icons/yugabyte.png",
+  "website": "https://www.yugabyte.com/",
+  "docsUrl": "https://docs.yugabyte.com"
+}

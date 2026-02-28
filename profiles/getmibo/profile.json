@@ -1,0 +1,15 @@
+{
+  "id": "getmibo",
+  "title": "Mibo — the fun way to meet!",
+  "subtitle": "Mibo is a videochat app made for informal meetings, remote drinks, social mixers, networking events, or just hanging ...",
+  "tags": [
+    "video-chat",
+    "remote",
+    "remote-work"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618478861/icons/getmibo.png",
+  "website": "https://getmibo.com/"
+}

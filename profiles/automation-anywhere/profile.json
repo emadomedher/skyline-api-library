@@ -1,0 +1,13 @@
+{
+  "id": "automation-anywhere",
+  "title": "Automation Anywhere",
+  "subtitle": "No. 1: Automation Anywhere is the world’s most widely deployed RPA platform.",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719060/catalog/automation-anywhere/icon128x128.jpg",
+  "website": "https://automationanywhere.com"
+}

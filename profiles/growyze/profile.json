@@ -1,0 +1,15 @@
+{
+  "id": "growyze",
+  "title": "growyze",
+  "subtitle": "Stock management app for food and drink stock control. With barcode scanning, product ordering and invoice reconcilia...",
+  "tags": [
+    "restaurant-inventory-management",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1689145703/icons/growyze.jpg",
+  "website": "https://www.growyze.com/",
+  "docsUrl": "https://www.growyze.com/#"
+}

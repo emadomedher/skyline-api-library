@@ -1,0 +1,14 @@
+{
+  "id": "meshpayments",
+  "title": "Mesh Payments",
+  "subtitle": "Finance teams get all-new insight and control over their corporate spend with Mesh. Know everything. Optimize anythin...",
+  "tags": [
+    "spend-management",
+    "financial-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635691253/icons/meshpayments.png",
+  "website": "https://meshpayments.com/"
+}

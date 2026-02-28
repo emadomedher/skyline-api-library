@@ -1,0 +1,13 @@
+{
+  "id": "lotusjump",
+  "title": "LotusJump",
+  "subtitle": "LotusJump API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435633/catalog/lotusjump/icon128x128.png",
+  "website": "https://lotusjump.com"
+}

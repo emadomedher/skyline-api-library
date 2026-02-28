@@ -1,0 +1,12 @@
+{
+  "id": "opesta",
+  "title": "Opesta",
+  "subtitle": "Opesta is a Messenger Automation Platform (MAP) that makes it easy for you to create advanced Facebook Messenger mark...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284568/catalog/opesta/icon128x128.png"
+}

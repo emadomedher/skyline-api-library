@@ -1,0 +1,13 @@
+{
+  "id": "complai",
+  "title": "ComplAi",
+  "subtitle": "AUDITING MADE EASY. We enable secure, efficient, and transparent end-to-end management of compliance. The ComplAi sof...",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679429051/icons/complai.jpg",
+  "website": "https://complai.com/"
+}

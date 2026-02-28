@@ -1,0 +1,13 @@
+{
+  "id": "officevault-za",
+  "title": "Office Vault",
+  "subtitle": "Office Vault API integration",
+  "tags": [
+    "document-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632537554/icons/officevault-za.png",
+  "website": "https://www.officevault.co.za/"
+}

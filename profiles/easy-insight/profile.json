@@ -1,0 +1,13 @@
+{
+  "id": "easy-insight",
+  "title": "Easy Insight",
+  "subtitle": "Easy Insight is the cloud analytics platform that powers your business with real time dashboards and enables you to t...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947105/catalog/easy-insight/icon128x128.png",
+  "website": "https://easy-insight.com"
+}

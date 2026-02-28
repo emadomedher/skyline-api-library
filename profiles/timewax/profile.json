@@ -1,0 +1,15 @@
+{
+  "id": "timewax",
+  "title": "Timewax",
+  "subtitle": "Time is money, and our project management software will help you make the most of it. Find out how our multi-platform...",
+  "tags": [
+    "project-management",
+    "resource-planning"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616460140/icons/timewax.jpg",
+  "website": "https://www.timewax.com/",
+  "docsUrl": "https://www.timewax.com/integrations/timewax-api"
+}

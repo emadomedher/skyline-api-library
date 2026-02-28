@@ -1,0 +1,17 @@
+{
+  "id": "payment-rails",
+  "title": "Payment Rails",
+  "subtitle": "Payment Rails is simplifying global payouts for online marketplaces, share economy, crowdsourcing platforms, app stor...",
+  "tags": [
+    "mass-payments",
+    "payment-processing",
+    "payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284570/catalog/payment-rails/icon128x128.png",
+  "website": "https://www.paymentrails.com/",
+  "docsUrl": "https://www.paymentrails.com/developers"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "amplication",
+  "title": "Amplication",
+  "subtitle": "Amplication is an open‑source development tool. It helps you develop \n    quality Node.js applications without spendi...",
+  "tags": [
+    "api-generation",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615427295/icons/amplication.jpg",
+  "website": "https://amplication.com/",
+  "docsUrl": "https://docs.amplication.com/docs/getting-started"
+}

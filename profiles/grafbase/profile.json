@@ -1,0 +1,15 @@
+{
+  "id": "grafbase",
+  "title": "Grafbase",
+  "subtitle": "Grafbase is a data platform for developers that enables you to deploy globally fast data applications in seconds.",
+  "tags": [
+    "graphql",
+    "developer-tools",
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632328138/icons/grafbase.jpg",
+  "website": "https://grafbase.com/"
+}

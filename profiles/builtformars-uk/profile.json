@@ -1,0 +1,15 @@
+{
+  "id": "builtformars-uk",
+  "title": "Built for Mars",
+  "subtitle": "Product case studies and UX analysis",
+  "tags": [
+    "consultancy",
+    "ux",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595514636/icons/builtformars-uk.jpg",
+  "website": "https://builtformars.co.uk/"
+}

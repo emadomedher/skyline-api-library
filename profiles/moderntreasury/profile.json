@@ -1,0 +1,15 @@
+{
+  "id": "moderntreasury",
+  "title": "Modern Treasury",
+  "subtitle": "Modern Treasury builds payment operations software. Use our tools through web application or API to manage the full c...",
+  "tags": [
+    "payment-operations",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616008252/icons/moderntreasury.jpg",
+  "website": "https://www.moderntreasury.com/",
+  "docsUrl": "https://docs.moderntreasury.com"
+}

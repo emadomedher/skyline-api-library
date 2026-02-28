@@ -1,0 +1,14 @@
+{
+  "id": "splitgraph",
+  "title": "Splitgraph",
+  "subtitle": "Unified Data Stack",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698401/icons/splitgraph.png",
+  "website": "https://www.splitgraph.com/",
+  "docsUrl": "https://www.splitgraph.com/docs/concepts/images"
+}

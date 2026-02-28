@@ -1,0 +1,14 @@
+{
+  "id": "adobe-experience-manager",
+  "title": "Adobe Experience Manager",
+  "subtitle": "Adobe Experience Manager connects digital asset management, a powerful content management system, and digital enrollm...",
+  "tags": [
+    "dam",
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574341759/catalog/adobe-experience-manager/icon128x128.svg",
+  "website": "https://www.adobe.com/marketing/experience-manager.html"
+}

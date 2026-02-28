@@ -1,0 +1,14 @@
+{
+  "id": "haekka",
+  "title": "Haekka",
+  "subtitle": "Haekka is a modern training platform for remote teams that love Slack. Bring your own training content or choose from...",
+  "tags": [
+    "security-training"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667495116/icons/haekka.jpg",
+  "website": "https://www.haekka.com/",
+  "docsUrl": "https://www.haekka.com/documentation"
+}

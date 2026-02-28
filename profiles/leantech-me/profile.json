@@ -1,0 +1,14 @@
+{
+  "id": "leantech-me",
+  "title": "Lean Technologies",
+  "subtitle": "The gateway to fintech in the Middle East",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628455970/icons/leantech-me.png",
+  "website": "https://leantech.me/",
+  "docsUrl": "https://leantech.me/#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "coiney",
+  "title": "Coiney",
+  "subtitle": "STORESターミナル（旧：Coiney）なら、クレジットカード決済も、電子マネー決済も、QR決済も、これひとつで。決済手数料は3.24%〜、固定費は0円！お手持ちのスマホと決済端末があれば、いつでも、どこでもかんたんにはじめられます...",
+  "tags": [
+    "credit-card-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589150158/catalog/coiney/icon128x128.png",
+  "website": "https://coiney.com/",
+  "docsUrl": "https://coiney.com/docs"
+}

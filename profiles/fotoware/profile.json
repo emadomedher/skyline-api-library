@@ -1,0 +1,13 @@
+{
+  "id": "fotoware",
+  "title": "Fotoware",
+  "subtitle": "Simplify your day by organizing your files with our digital asset management software. Cloud or on-premise. Free trial.\n",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963865/catalog/fotoware/icon128x128.png",
+  "website": "https://fotoware.com"
+}

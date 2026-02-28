@@ -1,0 +1,13 @@
+{
+  "id": "kukuio",
+  "title": "KUKU.io",
+  "subtitle": "50,000 marketers use KUKU.io software to manage multiple social media accounts. Save time posting on social networks ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720731/catalog/kukuio/icon128x128.jpg",
+  "website": "https://kuku.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cegid",
+  "title": "Cegid",
+  "subtitle": "Cegid API integration",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719388/catalog/cegid/icon128x128.jpg",
+  "website": "https://cegid.com"
+}

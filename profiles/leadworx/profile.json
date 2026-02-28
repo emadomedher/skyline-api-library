@@ -1,0 +1,13 @@
+{
+  "id": "leadworx",
+  "title": "Leadworx",
+  "subtitle": "Leadworx identifies companies browsing anonymously through your site and engages decision makers on multiple channels...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547769998/catalog/leadworx/icon128x128.png",
+  "website": "https://www.leadworx.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "usepixie",
+  "title": "Pixie",
+  "subtitle": "Simple, flexible practice management software for accountants and bookkeepers. The only software accountants need to ...",
+  "tags": [
+    "practice-management",
+    "accountants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215664/icons/usepixie.png",
+  "website": "https://www.usepixie.com/"
+}

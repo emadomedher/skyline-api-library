@@ -1,0 +1,15 @@
+{
+  "id": "opendining-net",
+  "title": "Open Dining",
+  "subtitle": "More orders. Bigger tickets. Get online, mobile, and Facebook orders today with Open Dining's online ordering system ...",
+  "tags": [
+    "food-ordering-system",
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171243/catalog/opendining-net/icon128x128.png",
+  "website": "https://www.opendining.net/",
+  "docsUrl": "https://docs.opendining.net"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "transloadit",
+  "title": "Transloadit",
+  "subtitle": "Transloadit is the world’s most advanced file uploading and processing service aimed at developers. Our API is an all...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306367/catalog/transloadit/icon128x128.png",
+  "website": "https://transloadit.com/",
+  "docsUrl": "https://transloadit.com/docs"
+}

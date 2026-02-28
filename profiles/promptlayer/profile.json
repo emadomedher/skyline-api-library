@@ -1,0 +1,14 @@
+{
+  "id": "promptlayer",
+  "title": "PromptLayer",
+  "subtitle": "PromptLayer API integration",
+  "tags": [
+    "prompt-engineering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680329012/icons/promptlayer.png",
+  "website": "https://promptlayer.com/",
+  "docsUrl": "https://docs.promptlayer.com"
+}

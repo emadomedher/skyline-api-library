@@ -1,0 +1,14 @@
+{
+  "id": "weweb-io",
+  "title": "WeWeb",
+  "subtitle": "Build performant websites faster using components.",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581584914/catalog/weweb-io/icon128x128.jpg",
+  "website": "https://www.weweb.io/",
+  "docsUrl": "https://learn.weweb.io/documentation"
+}

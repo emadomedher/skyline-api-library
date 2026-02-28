@@ -1,0 +1,13 @@
+{
+  "id": "mikogo",
+  "title": "Mikogo",
+  "subtitle": "Free screen sharing for online meetings and web conferencing, Mikogo is an easy & intuitive way to share your screen ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721125/catalog/mikogo/icon128x128.jpg",
+  "website": "https://mikogo.com"
+}

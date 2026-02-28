@@ -1,0 +1,14 @@
+{
+  "id": "storyblocks",
+  "title": "Storyblocks",
+  "subtitle": "Meet the growing demand for video with subscription plans that give you unlimited stock downloads, flexible licensing...",
+  "tags": [
+    "stock-video"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656700601/icons/storyblocks.jpg",
+  "website": "https://www.storyblocks.com/",
+  "docsUrl": "https://developer.storyblocks.com/login?_ga=2.71879827.1241706938.1644848555-1789547468.1623774003"
+}

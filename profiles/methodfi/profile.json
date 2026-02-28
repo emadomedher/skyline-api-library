@@ -1,0 +1,15 @@
+{
+  "id": "methodfi",
+  "title": "Method ",
+  "subtitle": "The easiest way to move your users' money. Method allows developers to make bank transfers, move money, and pay debts...",
+  "tags": [
+    "debt-repayment",
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619649872/icons/methodfi.png",
+  "website": "https://methodfi.com/",
+  "docsUrl": "https://docs.methodfi.com/docs/reference/docs/1.%20method%20api/1-introduction.md"
+}

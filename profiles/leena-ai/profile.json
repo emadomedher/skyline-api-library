@@ -1,0 +1,13 @@
+{
+  "id": "leena-ai",
+  "title": "Leena AI",
+  "subtitle": "Leena AI is an enterprise conversational AI that enhances employee experience via HR helpdesk automation and employee...",
+  "tags": [
+    "employee-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604372332/icons/leena-ai.png",
+  "website": "https://www.leena.ai/"
+}

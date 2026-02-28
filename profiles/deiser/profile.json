@@ -1,0 +1,14 @@
+{
+  "id": "deiser",
+  "title": "DEISER",
+  "subtitle": "DEISER is Atlassian Platinum Solution Partner Enterprise in Spain, makers of Profields for Jira project tracking, and...",
+  "tags": [
+    "atlassian-solution-partners",
+    "solution-partners"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598542095/icons/deiser.png",
+  "website": "https://www.deiser.com/"
+}

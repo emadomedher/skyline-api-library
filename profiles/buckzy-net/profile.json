@@ -1,0 +1,14 @@
+{
+  "id": "buckzy-net",
+  "title": "Buckzy Payments",
+  "subtitle": "Buckzy Payments API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595194349/icons/buckzy-net.jpg",
+  "website": "https://buckzy.net",
+  "docsUrl": "https://www.buckzy.net/developer-login"
+}

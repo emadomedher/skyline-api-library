@@ -1,0 +1,14 @@
+{
+  "id": "knack",
+  "title": "Knack",
+  "subtitle": "Knack is the easy way to build online databases and applications.",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305255/catalog/knack/icon128x128.png",
+  "website": "https://www.knack.com/",
+  "docsUrl": "https://docs.knack.com/docs"
+}

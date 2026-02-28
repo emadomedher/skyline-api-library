@@ -1,0 +1,13 @@
+{
+  "id": "loop11",
+  "title": "Loop11",
+  "subtitle": "Loop11 is a website user testing tool that enables you to identify navigational and usability issues of any website",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720895/catalog/loop11/icon128x128.png",
+  "website": "https://loop11.com"
+}

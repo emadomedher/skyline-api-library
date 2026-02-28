@@ -1,0 +1,12 @@
+{
+  "id": "kirimemail",
+  "title": "KIRIM.EMAIL",
+  "subtitle": "KIRIM.EMAIL is an email marketing solution for any size of business, currently operated in the Indonesian and ASEAN m...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305246/catalog/kirimemail/icon128x128.png"
+}

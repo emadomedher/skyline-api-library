@@ -1,0 +1,14 @@
+{
+  "id": "tecalliance-net",
+  "title": "TecAlliance",
+  "subtitle": "Our products help automotive aftermarket players advance their business through the power of standardised data",
+  "tags": [
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152903/icons/tecalliance-net.jpg",
+  "website": "https://www.tecalliance.net/",
+  "docsUrl": "https://www.tecalliance.net/tecdoc-data/#reference"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kallidus",
+  "title": "Kallidus",
+  "subtitle": "Recruit top talent, modernise learning and create a culture of transparent feedback and employee development from ini...",
+  "tags": [
+    "learning-management-system-(lms)",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630613912/icons/kallidus.jpg",
+  "website": "https://www.kallidus.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "opendigits-co",
+  "title": "OpenDigits",
+  "subtitle": "From bookkeeping to tax preparation and tax filings we have you covered. Get access to a team of dedicated experts th...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741001/icons/opendigits-co.png",
+  "website": "https://www.opendigits.co/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mosaicml",
+  "title": "MosaicML",
+  "subtitle": "MosaicML enables you to easily train and deploy LLMs and other generative AI models on your data, in your secure envi...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683375414/icons/mosaicml.png",
+  "website": "https://www.mosaicml.com/",
+  "docsUrl": "https://docs.mosaicml.com"
+}

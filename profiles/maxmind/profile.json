@@ -1,0 +1,14 @@
+{
+  "id": "maxmind",
+  "title": "MaxMind",
+  "subtitle": "MaxMind is a leading provider of IP intelligence and online fraud prevention tools. Learn about GeoIP databases and s...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559117513/catalog/maxmind/icon128x128.png",
+  "website": "https://maxmind.com",
+  "docsUrl": "https://dev.maxmind.com"
+}

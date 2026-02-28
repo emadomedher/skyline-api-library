@@ -1,0 +1,16 @@
+{
+  "id": "appway",
+  "title": "Appway",
+  "subtitle": "With its toolsets, leadership, community, and methodology, Appway enables companies to revolutionize their business m...",
+  "tags": [
+    "wealth-management",
+    "kyc",
+    "banking-as-a-service",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591344999/icons/appway.jpg",
+  "website": "https://www.appway.com/"
+}

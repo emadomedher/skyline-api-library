@@ -1,0 +1,14 @@
+{
+  "id": "graphql-scalars-dev",
+  "title": "GraphQL Scalars",
+  "subtitle": "Query anything, run anywhere",
+  "tags": [
+    "graphql-tooling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628694840/icons/graphql-scalars-dev.png",
+  "website": "https://www.graphql-scalars.dev/",
+  "docsUrl": "https://www.graphql-scalars.dev/docs/introduction"
+}

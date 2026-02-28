@@ -1,0 +1,13 @@
+{
+  "id": "workoutloud",
+  "title": "WorkOutLoud",
+  "subtitle": "WorkOutLoud helps organizations build meaningful customer communities. Free Trial • Easy Set-up • Feature-Rich • Priv...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946344/catalog/workoutloud/icon128x128.jpg",
+  "website": "https://workoutloud.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "doofinder",
+  "title": "Doofinder",
+  "subtitle": "A powerful, cheap and straightforward internal search engine for your website or e-commerce. Increase sales and attra...",
+  "tags": [
+    "hosted-search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556306566/catalog/doofinder/icon128x128.jpg",
+  "website": "https://doofinder.com"
+}

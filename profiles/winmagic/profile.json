@@ -1,0 +1,13 @@
+{
+  "id": "winmagic",
+  "title": "WinMagic",
+  "subtitle": "Concerned about data security & encryption to protect your business? WinMagic's SecureDoc software will ensure that y...",
+  "tags": [
+    "mobile-data-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630505500/icons/winmagic.jpg",
+  "website": "https://www.winmagic.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "electronjs",
+  "title": "Electron",
+  "subtitle": "Build cross-platform desktop apps with JavaScript, HTML, and CSS.",
+  "tags": [
+    "desktop-apps",
+    "developer-tools",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599511928/icons/electronjs.jpg",
+  "website": "https://www.electronjs.org/",
+  "docsUrl": "https://www.electronjs.org/docs"
+}

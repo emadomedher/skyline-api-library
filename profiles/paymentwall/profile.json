@@ -1,0 +1,13 @@
+{
+  "id": "paymentwall",
+  "title": "Paymentwall",
+  "subtitle": "Paymentwall is a global payment provider that allows you to process credit card payments and local payment methods in...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599741712/icons/paymentwall.jpg",
+  "website": "https://www.paymentwall.com/"
+}

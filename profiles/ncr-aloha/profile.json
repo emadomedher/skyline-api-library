@@ -1,0 +1,14 @@
+{
+  "id": "ncr-aloha",
+  "title": "Aloha POS",
+  "subtitle": "Aloha is a powerful restaurant POS system, providing contactless ordering, state-of-the-art security, with robust rep...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801265/catalog/ncr-aloha/icon128x128.png",
+  "website": "https://www.ncr.com/restaurants/aloha-pos",
+  "docsUrl": "https://developer.ncr.com/"
+}

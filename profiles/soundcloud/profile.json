@@ -1,0 +1,13 @@
+{
+  "id": "soundcloud",
+  "title": "SoundCloud",
+  "subtitle": "The world's largest community of artists, bands, podcasters and creators of music and audio.",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306142/catalog/soundcloud/icon128x128.png",
+  "website": "https://soundcloud.com/"
+}

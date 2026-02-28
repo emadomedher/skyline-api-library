@@ -1,0 +1,14 @@
+{
+  "id": "canny-changelog",
+  "title": "Canny Changelog",
+  "subtitle": "Announce product updates to engage customers with your newest features.",
+  "tags": [
+    "changelogs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561942374/catalog/canny-changelog/icon128x128.gif",
+  "website": "https://canny.io/features/changelog",
+  "docsUrl": "https://developers.canny.io/install"
+}

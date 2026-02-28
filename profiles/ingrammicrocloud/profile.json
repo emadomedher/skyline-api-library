@@ -1,0 +1,13 @@
+{
+  "id": "ingrammicrocloud",
+  "title": "Ingram Micro Cloud",
+  "subtitle": "Find the right solutions to compete and grow in the digital economy. Learn how Ingram Micro Cloud’s end-to-end platfo...",
+  "tags": [
+    "cloud-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597236532/icons/ingrammicrocloud.jpg",
+  "website": "https://www.ingrammicrocloud.com/"
+}

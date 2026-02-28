@@ -1,0 +1,14 @@
+{
+  "id": "bec-dk",
+  "title": "BEC",
+  "subtitle": "BEC is an IT partner for banks and others in Denmark's financial sector. 1,400+ employees work together in an agile s...",
+  "tags": [
+    "it-service-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074606/icons/bec-dk.png",
+  "website": "https://www.bec.dk/",
+  "docsUrl": "https://apiportal.prod.bec.dk/openbanking/sandbox"
+}

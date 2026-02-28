@@ -1,0 +1,14 @@
+{
+  "id": "viabill",
+  "title": "ViaBill",
+  "subtitle": "ViaBill API integration",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607045532/icons/viabill.png",
+  "website": "https://viabill.com/",
+  "docsUrl": "https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mijnwebwinkel-nl",
+  "title": "Mijnwebwinkel",
+  "subtitle": "Mijnwebwinkel is het populairste webwinkel systeem van Nederland. Meer dan 42.000 webwinkeliers gebruiken ons platfor...",
+  "tags": [
+    "webshops",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509309/catalog/mijnwebwinkel-nl/icon128x128.jpg",
+  "website": "https://www.mijnwebwinkel.nl/"
+}

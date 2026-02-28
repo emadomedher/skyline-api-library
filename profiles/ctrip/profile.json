@@ -1,0 +1,14 @@
+{
+  "id": "ctrip",
+  "title": "Ctrip",
+  "subtitle": "携程旅行网是中国领先的在线旅行服务公司，向超过9000万会员提供酒店预订、酒店点评及特价酒店查询、机票预订、飞机票查询、时刻表、票价查询、航班查询、度假预订、商旅管理、为您的出行提供全方位旅行服务。",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612714214/icons/ctrip.jpg",
+  "website": "http://ctrip.com/"
+}

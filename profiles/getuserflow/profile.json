@@ -1,0 +1,14 @@
+{
+  "id": "getuserflow",
+  "title": "Userflow",
+  "subtitle": "Turbo-charge your user onboarding and convert more customers. Build highly-customized onboarding guides and product t...",
+  "tags": [
+    "user-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572482150/catalog/getuserflow/icon128x128.png",
+  "website": "https://getuserflow.com/",
+  "docsUrl": "https://getuserflow.com/docs"
+}

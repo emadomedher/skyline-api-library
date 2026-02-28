@@ -1,0 +1,15 @@
+{
+  "id": "cleeng",
+  "title": "Cleeng",
+  "subtitle": "Build a profitable OTT TV platform for live sports and video on demand. Best online PPV & SVOD platforms rely on modu...",
+  "tags": [
+    "subscriber-retention-mangement",
+    "ott-video"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565304472/catalog/cleeng/icon128x128.jpg",
+  "website": "https://cleeng.com",
+  "docsUrl": "https://developers.cleeng.com"
+}

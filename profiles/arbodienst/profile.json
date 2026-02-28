@@ -1,0 +1,12 @@
+{
+  "id": "arbodienst",
+  "title": "Arbodienst",
+  "subtitle": "De Arbodienst is een adviesorganisatie nieuwe stijl. De Arbodienst is in 2003 opgericht. Mede door De Arbodienst heef...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256888/catalog/arbodienst/icon128x128.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "unsplash",
+  "title": "Unsplash",
+  "subtitle": "Over 300,000 free (do whatever you want) high-resolution photos brought to you by the world’s most generous community...",
+  "tags": [
+    "stock-images"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559327915/catalog/unsplash/icon128x128.jpg",
+  "website": "https://unsplash.com",
+  "docsUrl": "https://unsplash.com/developers"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "metabase",
+  "title": "Metabase",
+  "subtitle": "The fastest, easiest way to share data and analytics inside your company. An open source Business Intelligence server...",
+  "tags": [
+    "business-intelligence",
+    "open-source"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598713726/icons/metabase.jpg",
+  "website": "https://www.metabase.com/",
+  "docsUrl": "https://www.metabase.com/docs/latest"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "giddyup",
+  "title": "GiddyUp",
+  "subtitle": "GiddyUp API integration",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562611431/catalog/giddyup/icon128x128.png",
+  "website": "https://www.cuttercroix.com/GiddyUp/"
+}

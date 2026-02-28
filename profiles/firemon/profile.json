@@ -1,0 +1,13 @@
+{
+  "id": "firemon",
+  "title": "FireMon",
+  "subtitle": "The FireMon Firewall Management Software allows you to continuously analyze, visualize and improve your existing fire...",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720092/catalog/firemon/icon128x128.jpg",
+  "website": "https://firemon.com"
+}

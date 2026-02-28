@@ -1,0 +1,13 @@
+{
+  "id": "liveclicker",
+  "title": "LiveClicker",
+  "subtitle": "LiveClicker API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435693/catalog/liveclicker/icon128x128.png",
+  "website": "https://liveclicker.com"
+}

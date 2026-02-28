@@ -1,0 +1,13 @@
+{
+  "id": "wordsmith",
+  "title": "Wordsmith",
+  "subtitle": "Wordsmith automatically turns data into articles and reports so you can generate personalized messages in real time f...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306521/catalog/wordsmith/icon128x128.png",
+  "website": "https://automatedinsights.com/wordsmith/"
+}

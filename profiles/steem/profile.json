@@ -1,0 +1,13 @@
+{
+  "id": "steem",
+  "title": "Steem",
+  "subtitle": "Steem is a social blockchain that grows communities and makes immediate revenue streams possible for users by rewardi...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722339/catalog/steem/icon128x128.jpg",
+  "website": "https://steem.com"
+}

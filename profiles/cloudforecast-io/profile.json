@@ -1,0 +1,13 @@
+{
+  "id": "cloudforecast-io",
+  "title": "CloudForecast",
+  "subtitle": "CloudForecast is a cloud cost management tool that helps your team eliminate wasted cost on AWS with an easy to under...",
+  "tags": [
+    "cloud-cost-optimization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187656/catalog/cloudforecast-io/icon128x128.jpg",
+  "website": "https://cloudforecast.io/"
+}

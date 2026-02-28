@@ -1,0 +1,14 @@
+{
+  "id": "plivo",
+  "title": "Plivo",
+  "subtitle": "Plivo's SMS API and Voice API platform enables businesses to communicate with their customers on a global scale. Sign...",
+  "tags": [
+    "sms"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643105668/icons/plivo.jpg",
+  "website": "https://www.plivo.com/",
+  "docsUrl": "https://www.plivo.com/docs"
+}

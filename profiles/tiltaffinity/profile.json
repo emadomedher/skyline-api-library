@@ -1,0 +1,13 @@
+{
+  "id": "tiltaffinity",
+  "title": "Tilt Property Software",
+  "subtitle": "Property software solutions for social housing associations and AHB's (Approved Housing Bodies) in the Republic of Ir...",
+  "tags": [
+    "social-housing-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302457/icons/tiltaffinity.png",
+  "website": "https://www.tiltaffinity.com/"
+}

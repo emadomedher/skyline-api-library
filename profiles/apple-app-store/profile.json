@@ -1,0 +1,13 @@
+{
+  "id": "apple-app-store",
+  "title": "Apple App Store",
+  "subtitle": "Apple App Store API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565368893/catalog/apple-app-store/icon128x128.png",
+  "website": "https://apps.apple.com/"
+}

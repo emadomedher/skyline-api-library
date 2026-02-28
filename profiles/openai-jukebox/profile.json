@@ -1,0 +1,13 @@
+{
+  "id": "openai-jukebox",
+  "title": "OpenAI Jukebox",
+  "subtitle": "A neural net that generates music, including rudimentary singing, as raw audio in a variety of genres and artist styles.",
+  "tags": [
+    "neural-networks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623553475/icons/openai-jukebox.png",
+  "website": "https://openai.com/blog/jukebox/"
+}

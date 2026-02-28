@@ -1,0 +1,15 @@
+{
+  "id": "vowel",
+  "title": "Vowel",
+  "subtitle": "Vowel is a tool that captures your team’s meetings. Use it to annotate meetings in real-time, tag action items, call ...",
+  "tags": [
+    "meeting-notes",
+    "transcription",
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578333156/catalog/vowel/icon128x128.jpg",
+  "website": "https://www.vowel.com/"
+}

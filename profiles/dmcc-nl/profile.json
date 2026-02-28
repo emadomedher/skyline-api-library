@@ -1,0 +1,14 @@
+{
+  "id": "dmcc-nl",
+  "title": "DMCC Nederland B.V.",
+  "subtitle": "DMCC is de compliance-specialist. Thuis in klantcontact, data privacy, ICT en fondsenwerving. We zorgen voor processe...",
+  "tags": [
+    "consultancy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581894807/catalog/dmcc-nl/icon128x128.jpg",
+  "website": "https://dmcc.nl/"
+}

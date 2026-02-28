@@ -1,0 +1,13 @@
+{
+  "id": "placeguru",
+  "title": "PlaceGuru",
+  "subtitle": "PlaceGuru API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569632511/catalog/placeguru/icon128x128.png",
+  "website": "https://placer.io"
+}

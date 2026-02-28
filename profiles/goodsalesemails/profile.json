@@ -1,0 +1,13 @@
+{
+  "id": "goodsalesemails",
+  "title": "Good Sales Emails",
+  "subtitle": "Example sales emails from great companies",
+  "tags": [
+    "sales-email-templates"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622055088/icons/goodsalesemails.png",
+  "website": "http://goodsalesemails.com/"
+}

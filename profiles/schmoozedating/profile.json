@@ -1,0 +1,13 @@
+{
+  "id": "schmoozedating",
+  "title": "Schmooze",
+  "subtitle": "Like Memes? We can find you Dates to enjoy it with. Say No to bad dates and creepy experiences. Say No to objectifica...",
+  "tags": [
+    "dating-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622243101/icons/schmoozedating.jpg",
+  "website": "https://www.schmoozedating.com/"
+}

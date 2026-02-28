@@ -1,0 +1,14 @@
+{
+  "id": "apis-io",
+  "title": "apis.io",
+  "subtitle": "Find all the APIs you need to build your successful projects. APIs.io is the first search engine for APIs.",
+  "tags": [
+    "api-directories",
+    "resources"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610070922/icons/apis-io.png",
+  "website": "https://apis.io/"
+}

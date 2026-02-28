@@ -1,0 +1,13 @@
+{
+  "id": "tchop",
+  "title": "tchop",
+  "subtitle": "Combine real time messaging, daily news and relevant content in one branded app for your employees, management or cus...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946493/catalog/tchop/icon128x128.jpg",
+  "website": "https://tchop.io"
+}

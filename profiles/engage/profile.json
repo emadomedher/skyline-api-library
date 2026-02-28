@@ -1,0 +1,13 @@
+{
+  "id": "engage",
+  "title": "engage",
+  "subtitle": "Engage is a website tool that helps you meet and sell to visitors and \ncustomers instantly.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947081/catalog/engage/icon128x128.jpg",
+  "website": "https://engage.co"
+}

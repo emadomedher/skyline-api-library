@@ -1,0 +1,13 @@
+{
+  "id": "pointr-tech",
+  "title": "Pointr",
+  "subtitle": "The Most Accurate Indoor Location Platform for Retail, Airports, Workplace and Hospitality | Pointr Deep Location",
+  "tags": [
+    "location"
+  ],
+  "category": "Maps & Geolocation",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585396714/catalog/pointr-tech/icon128x128.png",
+  "website": "https://www.pointr.tech/"
+}

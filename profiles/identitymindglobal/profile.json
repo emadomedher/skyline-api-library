@@ -1,0 +1,14 @@
+{
+  "id": "identitymindglobal",
+  "title": "IdentityMind",
+  "subtitle": "IdentityMind creates and analyzes digital identities for identity proofing, KYC onboarding, AML, fraud prevention, tr...",
+  "tags": [
+    "identity",
+    "kyc"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586363955/catalog/identitymindglobal/icon128x128.jpg",
+  "website": "https://identitymindglobal.com/"
+}

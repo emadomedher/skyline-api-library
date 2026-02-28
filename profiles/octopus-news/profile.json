@@ -1,0 +1,13 @@
+{
+  "id": "octopus-news",
+  "title": "Octopus Newsroom",
+  "subtitle": "Octopus Newsroom is an advanced, end to end newsroom computer system (NRCS) that modernizes the news production, ampl...",
+  "tags": [
+    "newsroom-production"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590575871/catalog/octopus-news/icon128x128.jpg",
+  "website": "https://www.octopus-news.com/"
+}

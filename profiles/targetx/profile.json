@@ -1,0 +1,13 @@
+{
+  "id": "targetx",
+  "title": "TargetX",
+  "subtitle": "Improve enrollment and increase student success with TargetX - the leading provider of higher education CRM solutions...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722455/catalog/targetx/icon128x128.jpg",
+  "website": "https://targetx.com"
+}

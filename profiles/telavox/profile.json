@@ -1,0 +1,15 @@
+{
+  "id": "telavox",
+  "title": "Telavox",
+  "subtitle": "Telephony, PBX, messaging, meetings, and contact center in one platform. Collaborate with colleagues and engage with ...",
+  "tags": [
+    "telephony",
+    "contact-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655155984/icons/telavox.jpg",
+  "website": "https://telavox.com/",
+  "docsUrl": "https://developer.telavox.com"
+}

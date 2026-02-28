@@ -1,0 +1,13 @@
+{
+  "id": "betterworks",
+  "title": "BetterWorks",
+  "subtitle": "Continuous Performance Management™ with Betterworks can help improve employee engagement, OKRs and employee development.",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719114/catalog/betterworks/icon128x128.jpg",
+  "website": "https://betterworks.com"
+}

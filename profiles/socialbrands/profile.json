@@ -1,0 +1,13 @@
+{
+  "id": "socialbrands",
+  "title": "SocialBrands",
+  "subtitle": "Met het SocialBrands marketing platform voor het maken van apps bereikt u uw doelgroep en verzamelt u leads. Maak een...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722188/catalog/socialbrands/icon128x128.png",
+  "website": "https://socialbrandsapp.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pathable",
+  "title": "Pathable",
+  "subtitle": "Beautiful and engaging mobile event apps for conferences, tradeshows and meetings from Pathable. Your attendees will ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721440/catalog/pathable/icon128x128.jpg",
+  "website": "https://pathable.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "docsend",
+  "title": "DocSend",
+  "subtitle": "DocSend tells you how prospects engage with your sales material after you send it. Know when to follow up, who to fol...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304800/catalog/docsend/icon128x128.png",
+  "website": "https://docsend.com"
+}

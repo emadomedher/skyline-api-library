@@ -1,0 +1,15 @@
+{
+  "id": "belvo-co",
+  "title": "Belvo",
+  "subtitle": "Build the future of fintech in Latin America by connecting your application to any bank account or tax authority.",
+  "tags": [
+    "banking-api-aggregators",
+    "fintech",
+    "financial-apis"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582233372/catalog/belvo-co/icon128x128.jpg",
+  "website": "https://belvo.co/"
+}

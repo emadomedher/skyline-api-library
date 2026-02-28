@@ -1,0 +1,13 @@
+{
+  "id": "logiwa",
+  "title": "Logiwa",
+  "subtitle": "Warehouse management system (WMS Software) for 3PLs, wholesalers, distributors and ecommerce. The best choice for inv...",
+  "tags": [
+    "warehouse-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565461/catalog/logiwa/icon128x128.jpg",
+  "website": "https://www.logiwa.com/"
+}

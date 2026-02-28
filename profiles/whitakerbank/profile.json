@@ -1,0 +1,13 @@
+{
+  "id": "whitakerbank",
+  "title": "Whitaker Bank",
+  "subtitle": "Whitaker Bank Corporation of Kentucky increased from five locations in three counties and total assets of $59 million...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779833/catalog/whitakerbank/icon128x128.jpg",
+  "website": "https://www.whitakerbank.com/"
+}

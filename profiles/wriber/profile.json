@@ -1,0 +1,13 @@
+{
+  "id": "wriber",
+  "title": "Wriber",
+  "subtitle": "Writing in Wriber is kind of like having a team of editors helping you research, organizing your notes, and optimizin...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946339/catalog/wriber/icon128x128.png",
+  "website": "https://wriber.com"
+}

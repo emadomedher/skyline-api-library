@@ -1,0 +1,14 @@
+{
+  "id": "thehomelike",
+  "title": "Homelike",
+  "subtitle": "Homelike is your partner for furnished apartments. Book a business apartment for your next business trip online with ...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641115/icons/thehomelike.jpg",
+  "website": "https://www.thehomelike.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "liondesk",
+  "title": "LionDesk",
+  "subtitle": "Lion Desk Real Estage Agent CRM is an end to end Sales and Marketing Automation Solution for Real Estate Agents and R...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946855/catalog/liondesk/icon128x128.png",
+  "website": "https://liondesk.com"
+}

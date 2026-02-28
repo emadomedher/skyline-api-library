@@ -1,0 +1,14 @@
+{
+  "id": "escape-technology",
+  "title": "Escape Technology",
+  "subtitle": "Escape Technology are more than your average reseller. We are trusted technology partners for innovators and content ...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476509/icons/escape-technology.png",
+  "website": "https://www.escape-technology.com/",
+  "docsUrl": "https://www.escape-technology.com/#"
+}

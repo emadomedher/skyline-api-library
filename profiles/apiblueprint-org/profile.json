@@ -1,0 +1,16 @@
+{
+  "id": "apiblueprint-org",
+  "title": "API Blueprint",
+  "subtitle": "API Blueprint API integration",
+  "tags": [
+    "api-specifications",
+    "api",
+    "api-design"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599874119/icons/apiblueprint-org.png",
+  "website": "https://apiblueprint.org/",
+  "docsUrl": "https://apiblueprint.org/documentation"
+}

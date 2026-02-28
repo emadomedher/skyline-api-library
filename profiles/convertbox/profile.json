@@ -1,0 +1,13 @@
+{
+  "id": "convertbox",
+  "title": "ConvertBox",
+  "subtitle": "Beautiful on-site messages and CTA's for your website that convert more visitors into leads, sales and repeat custome...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561446652/catalog/convertbox/icon128x128.png",
+  "website": "https://convertbox.com"
+}

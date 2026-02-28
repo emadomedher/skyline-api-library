@@ -1,0 +1,13 @@
+{
+  "id": "hey-oliver",
+  "title": "Hey Oliver",
+  "subtitle": "Hey Oliver is an all-in-one marketing tool, that helps companies grow, generate leads, increase sales by delivering t...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946949/catalog/hey-oliver/icon128x128.jpg",
+  "website": "https://heyoliver.com"
+}

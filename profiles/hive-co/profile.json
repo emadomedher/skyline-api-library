@@ -1,0 +1,13 @@
+{
+  "id": "hive-co",
+  "title": "Hive.co",
+  "subtitle": "Action your customer data with targeted email campaigns and automations. Building an email marketing strategy that in...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738461/catalog/hive-co/icon128x128.png",
+  "website": "https://www.hive.co/"
+}

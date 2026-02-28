@@ -1,0 +1,14 @@
+{
+  "id": "rush-app",
+  "title": "Rush",
+  "subtitle": "Automated, State-Of-The-Art Shipment Tracking For Shopify eCommerce Businesses. The all-in-one post-purchase solution...",
+  "tags": [
+    "order-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650881482/icons/rush-app.png",
+  "website": "https://www.rush.app/",
+  "docsUrl": "https://support.rush.app/developers"
+}

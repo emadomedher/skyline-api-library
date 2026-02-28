@@ -1,0 +1,13 @@
+{
+  "id": "indebted-co",
+  "title": "InDebted",
+  "subtitle": "InDebted is a digital debt collection agency that has reinvented the collections experience. We help you resolve your...",
+  "tags": [
+    "debt-collection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612488688/icons/indebted-co.jpg",
+  "website": "https://www.indebted.co/"
+}

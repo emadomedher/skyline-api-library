@@ -1,0 +1,15 @@
+{
+  "id": "proxiad",
+  "title": "PROXIAD",
+  "subtitle": "Le groupe Proxiad pense que l'épanouissement professionnel n'est pas fait de renoncements mais de valeurs. La proximi...",
+  "tags": [
+    "customer-support-servicesnon-software",
+    "it-services",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604137315/icons/proxiad.jpg",
+  "website": "https://www.proxiad.com/"
+}

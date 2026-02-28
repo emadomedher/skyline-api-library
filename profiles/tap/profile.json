@@ -1,0 +1,13 @@
+{
+  "id": "tap",
+  "title": "Tap",
+  "subtitle": "Tap API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437860/catalog/tap/icon128x128.png",
+  "website": "https://tapcoin.net"
+}

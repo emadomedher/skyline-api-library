@@ -1,0 +1,13 @@
+{
+  "id": "nymbler",
+  "title": "Nymbler",
+  "subtitle": "NYMBLR is the ultimate, all-in-one B2B data and enrichment platform designed for salespeople, marketers, and develope...",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671583873/icons/nymbler.png",
+  "website": "https://www.nymblr.com/"
+}

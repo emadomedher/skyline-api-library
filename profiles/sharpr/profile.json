@@ -1,0 +1,13 @@
+{
+  "id": "sharpr",
+  "title": "Sharpr",
+  "subtitle": "When insights need to be centralized and made searchable, shareable, and dynamically delivered, the best brands in th...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946603/catalog/sharpr/icon128x128.jpg",
+  "website": "https://sharpr.com"
+}

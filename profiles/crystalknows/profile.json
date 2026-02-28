@@ -1,0 +1,13 @@
+{
+  "id": "crystalknows",
+  "title": "CrystalKnows",
+  "subtitle": "Personality assessments, predictions and coaching tools to understand anyone’s personality for hiring, team building,...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964131/catalog/crystalknows/icon128x128.png",
+  "website": "https://crystalknows.com"
+}

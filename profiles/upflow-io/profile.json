@@ -1,0 +1,13 @@
+{
+  "id": "upflow-io",
+  "title": "Upflow",
+  "subtitle": "Manage your invoices, from creation to payment, and collect 100% of your turnover",
+  "tags": [
+    "dunning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579137382/catalog/upflow-io/icon128x128.png",
+  "website": "https://upflow.io/"
+}

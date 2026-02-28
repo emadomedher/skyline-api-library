@@ -1,0 +1,13 @@
+{
+  "id": "mediasite",
+  "title": "Mediasite",
+  "subtitle": "Mediasite offers scalable video streaming technology solutions for business, healthcare, education and events. Reques...",
+  "tags": [
+    "video-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441096/catalog/mediasite/icon128x128.jpg",
+  "website": "https://mediasite.com/"
+}

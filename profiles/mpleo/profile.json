@@ -1,0 +1,13 @@
+{
+  "id": "mpleo",
+  "title": "mpleo",
+  "subtitle": "Are you looking for specialised software for online personnel management? Discover the mpleo solution! \n",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753718/icons/mpleo.png",
+  "website": "https://www.mpleo.com/en/"
+}

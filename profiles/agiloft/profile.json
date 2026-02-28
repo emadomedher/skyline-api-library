@@ -1,0 +1,15 @@
+{
+  "id": "agiloft",
+  "title": "Agiloft",
+  "subtitle": "Agile contract lifecycle management software: Agiloft - the world's most adaptable and rapidly deployed enterprise so...",
+  "tags": [
+    "contract-lifecyle-management",
+    "projects-and-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774762/catalog/agiloft/icon128x128.jpg",
+  "website": "https://agiloft.com",
+  "docsUrl": "https://www.agiloft.com/resources/documentation"
+}

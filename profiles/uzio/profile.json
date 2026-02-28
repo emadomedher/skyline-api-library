@@ -1,0 +1,14 @@
+{
+  "id": "uzio",
+  "title": "UZIO",
+  "subtitle": "A complete SaaS-based workforce management solution. Payroll software, time tracking, HRIS & benefits management soft...",
+  "tags": [
+    "hr",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653610419/icons/uzio.jpg",
+  "website": "https://www.uzio.com/"
+}

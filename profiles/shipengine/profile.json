@@ -1,0 +1,15 @@
+{
+  "id": "shipengine",
+  "title": "ShipEngine",
+  "subtitle": "The new standard in multi-carrier shipping & logistics. Our APIs have powered over a billion shipments for the fastes...",
+  "tags": [
+    "shipping-aggregators",
+    "shipping-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589567981/catalog/shipengine/icon128x128.png",
+  "website": "https://www.shipengine.com/",
+  "docsUrl": "https://www.shipengine.com/docs"
+}

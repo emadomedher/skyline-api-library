@@ -1,0 +1,14 @@
+{
+  "id": "interseller",
+  "title": "Interseller",
+  "subtitle": "Interseller helps recruiters find and make contact with candidates by finding their email and sending email sequences",
+  "tags": [
+    "recruiting-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305198/catalog/interseller/icon128x128.png",
+  "website": "https://www.interseller.io/",
+  "docsUrl": "https://api-docs.interseller.io"
+}

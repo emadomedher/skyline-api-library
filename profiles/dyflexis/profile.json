@@ -1,0 +1,12 @@
+{
+  "id": "dyflexis",
+  "title": "Dyflexis",
+  "subtitle": "Dyflexis is het complete systeem voor personeelsplanning en urenregistratie. Via de browser en mobiele app is het sys...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256923/catalog/dyflexis/icon128x128.png"
+}

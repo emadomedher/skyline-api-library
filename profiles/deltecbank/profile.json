@@ -1,0 +1,13 @@
+{
+  "id": "deltecbank",
+  "title": "Deltec",
+  "subtitle": "Deltec Bank & Trust Limited is a fully licensed and regulated financial services institution, operating for over 70 y...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779852/catalog/deltecbank/icon128x128.png",
+  "website": "https://www.deltecbank.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "route",
+  "title": "Route",
+  "subtitle": "Route is a multi-channel marketing automation platform. Identify contacts in your site or app, track their behaviour ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305919/catalog/route/icon128x128.png",
+  "website": "https://route.to"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "devart",
+  "title": "Devart",
+  "subtitle": "Devart is a vendor of database development and management software for SQL Server, MySQL, Oracle, PostrgeSQL, data co...",
+  "tags": [
+    "ipaas-clouddata-integration-and-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719775/catalog/devart/icon128x128.jpg",
+  "website": "https://devart.com",
+  "docsUrl": "https://docs.devart.com"
+}

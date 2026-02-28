@@ -1,0 +1,14 @@
+{
+  "id": "fonoa",
+  "title": "Fonoa",
+  "subtitle": "Manage your sales tax, VAT, and GST obligations seamlessly through our API, globally. For internet businesses around ...",
+  "tags": [
+    "tax-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628273048/icons/fonoa.jpg",
+  "website": "https://www.fonoa.com/",
+  "docsUrl": "https://docs.fonoatech.com"
+}

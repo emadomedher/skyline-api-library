@@ -1,0 +1,14 @@
+{
+  "id": "azure-active-directory",
+  "title": "Azure Active Directory",
+  "subtitle": "Azure Active Directory (Azure AD) is Microsoft’s cloud-based identity and access management service, which helps your...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565006693/catalog/azure-active-directory/icon128x128.png",
+  "website": "https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis",
+  "docsUrl": "https://docs.microsoft.com/en-us/graph/api/resources/azure-ad-overview?view=graph-rest-1.0"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "uppy-io",
+  "title": "Uppy",
+  "subtitle": "Uppy fetches files locally and from remote places like Dropbox or Instagram. With its seamless integration, reliabili...",
+  "tags": [
+    "file-uploader",
+    "open-source",
+    "file-uploaders",
+    "files",
+    "javascript"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590612389/catalog/uppy-io/icon128x128.jpg",
+  "website": "https://uppy.io/",
+  "docsUrl": "https://uppy.io/docs"
+}

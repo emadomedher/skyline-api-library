@@ -1,0 +1,15 @@
+{
+  "id": "crowdstrike",
+  "title": "CrowdStrike",
+  "subtitle": "CrowdStrike's cloud-native endpoint security platform combines Next-Gen Av, EDR, Threat Intelligence, Threat Hunting,...",
+  "tags": [
+    "endpoint-protection-platform",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494243/catalog/crowdstrike/icon128x128.jpg",
+  "website": "https://www.crowdstrike.com/",
+  "docsUrl": "https://developer.crowdstrike.com"
+}

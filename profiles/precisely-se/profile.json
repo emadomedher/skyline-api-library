@@ -1,0 +1,14 @@
+{
+  "id": "precisely-se",
+  "title": "Precisely",
+  "subtitle": "Precisely – contract management in the cloud. Contract automation, e-signatures, digital archive and smart reminders....",
+  "tags": [
+    "contracts",
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604671332/icons/precisely-se.jpg",
+  "website": "https://precisely.se/"
+}

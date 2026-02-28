@@ -1,0 +1,13 @@
+{
+  "id": "zoho-campaigns",
+  "title": "Zoho Campaigns",
+  "subtitle": "Zoho Campaigns API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573695715/catalog/zoho-campaigns/icon128x128.png",
+  "website": "https://www.zoho.com/campaigns/"
+}

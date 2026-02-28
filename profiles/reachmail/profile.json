@@ -1,0 +1,14 @@
+{
+  "id": "reachmail",
+  "title": "ReachMail",
+  "subtitle": "Send one-at-a-time (or transactional email) through ReachMail. Useful for order confirmations, shipping notices or more!",
+  "tags": [
+    "email-newsletters",
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305825/catalog/reachmail/icon128x128.png",
+  "website": "https://reachmail.net"
+}

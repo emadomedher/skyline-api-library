@@ -1,0 +1,13 @@
+{
+  "id": "socialmotus",
+  "title": "SocialMotus",
+  "subtitle": "SocialMotus API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722198/catalog/socialmotus/icon128x128.png",
+  "website": "https://socialmotus.com"
+}

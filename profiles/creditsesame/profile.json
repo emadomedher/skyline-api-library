@@ -1,0 +1,14 @@
+{
+  "id": "creditsesame",
+  "title": "Credit Sesame",
+  "subtitle": "Credit Sesame helps you access, understand, leverage, and protect your credit all under one platform - free of charge.",
+  "tags": [
+    "challenger-banks",
+    "credit-scoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592355239/icons/creditsesame.jpg",
+  "website": "https://www.creditsesame.com/"
+}

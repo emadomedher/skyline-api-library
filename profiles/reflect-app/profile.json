@@ -1,0 +1,13 @@
+{
+  "id": "reflect-app",
+  "title": "Reflect",
+  "subtitle": "Reflect keeps track of your thoughts, books, and meetings.",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885615/icons/reflect-app.jpg",
+  "website": "https://reflect.app/"
+}

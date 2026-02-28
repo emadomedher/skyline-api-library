@@ -1,0 +1,14 @@
+{
+  "id": "arya-ai",
+  "title": "Arya.ai",
+  "subtitle": "Bring transparency & auditability to your AI Solutions that is acceptable by every stakeholder.",
+  "tags": [
+    "ml-observability"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677864061/icons/arya-ai.png",
+  "website": "https://xai.arya.ai/",
+  "docsUrl": "https://xai.arya.ai/docs/introduction"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mypos-eu",
+  "title": "myPOS",
+  "subtitle": "Koop een professionele mobiele of vaste pinautomaat van myPOS, met vaste transactiekosten zonder abonnementen en zond...",
+  "tags": [
+    "pos-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628624913/icons/mypos-eu.jpg",
+  "website": "https://www.mypos.eu/nl",
+  "docsUrl": "https://www.mypos.eu/nl/legal_docs/download/data:wyiwmdiilcjhvemilcjhvemxmdgxmsisijawmiisbnvsbcxbxswiz29cl0l2cwlcl291szlqnnlvczdhcnhmbkttsktjd2rtehn0zkf5cgltbk1ivxnitfgixq=="
+}

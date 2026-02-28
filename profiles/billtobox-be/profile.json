@@ -1,0 +1,15 @@
+{
+  "id": "billtobox-be",
+  "title": "Billtobox",
+  "subtitle": "Billtobox API integration",
+  "tags": [
+    "accounting",
+    "invoicing",
+    "einvoicing"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592574639/icons/billtobox-be.png",
+  "website": "https://billtobox.be/"
+}

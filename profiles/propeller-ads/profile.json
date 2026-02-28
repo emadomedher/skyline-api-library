@@ -1,0 +1,13 @@
+{
+  "id": "propeller-ads",
+  "title": "Propeller Ads",
+  "subtitle": "Propeller Ads API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436640/catalog/propeller-ads/icon128x128.png",
+  "website": "https://propellerads.com"
+}

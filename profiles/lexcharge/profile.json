@@ -1,0 +1,14 @@
+{
+  "id": "lexcharge",
+  "title": "LexCharge",
+  "subtitle": "LexCharge offers legal credit card processing for lawyers. It's easy to get started and collecting payments right awa...",
+  "tags": [
+    "payment-processing",
+    "lawtech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589454476/catalog/lexcharge/icon128x128.png",
+  "website": "https://www.lexcharge.com/"
+}

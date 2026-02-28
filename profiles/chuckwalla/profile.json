@@ -1,0 +1,13 @@
+{
+  "id": "chuckwalla",
+  "title": "Chuckwalla",
+  "subtitle": "Built in 2010 Chuckwalla Valley Raceway or (CVR) is Southern California's \nPremier automobile and motorcycle road cou...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719428/catalog/chuckwalla/icon128x128.jpg",
+  "website": "https://chuckwalla.com"
+}

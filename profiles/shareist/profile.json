@@ -1,0 +1,13 @@
+{
+  "id": "shareist",
+  "title": "Shareist",
+  "subtitle": "Shareist API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946610/catalog/shareist/icon128x128.png",
+  "website": "https://shareist.com"
+}

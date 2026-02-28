@@ -1,0 +1,14 @@
+{
+  "id": "hubspot-ventures",
+  "title": "HubSpot Ventures",
+  "subtitle": "Introducing HubSpot’s CRM Platform Fund, a new $100 million investment fund for startups that align with HubSpot's mi...",
+  "tags": [
+    "investors",
+    "venture-capital"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634146832/icons/hubspot-ventures.png",
+  "website": "https://www.hubspot.com/ventures"
+}

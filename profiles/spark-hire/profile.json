@@ -1,0 +1,13 @@
+{
+  "id": "spark-hire",
+  "title": "Spark Hire",
+  "subtitle": "Spark Hire's easy-to-use video interview software is trusted by 6,000+ organizations making it the #1 video interview...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306156/catalog/spark-hire/icon128x128.png",
+  "website": "https://www.sparkhire.com/"
+}

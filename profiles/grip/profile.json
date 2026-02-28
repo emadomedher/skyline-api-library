@@ -1,0 +1,13 @@
+{
+  "id": "grip",
+  "title": "Grip",
+  "subtitle": "The first AI-powered event matchmaking solution",
+  "tags": [
+    "event-technology"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861290/catalog/grip/icon128x128.png",
+  "website": "https://www.grip.events"
+}

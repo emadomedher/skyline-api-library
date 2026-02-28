@@ -1,0 +1,14 @@
+{
+  "id": "refapp-se",
+  "title": "Refapp",
+  "subtitle": "Digital referenstagning med Refapp hjälper dig att effektivisera, strukturera, höja validiteten och GDPR-anpassa refe...",
+  "tags": [
+    "recruitment",
+    "reference-checks"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582914360/catalog/refapp-se/icon128x128.png",
+  "website": "https://www.refapp.com/"
+}

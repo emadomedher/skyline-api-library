@@ -1,0 +1,14 @@
+{
+  "id": "wati-io",
+  "title": "WATI",
+  "subtitle": "Support your customers on WhatsApp with the multiple agent customer support tool and WhatsApp Support CRM. Powered by...",
+  "tags": [
+    "customer-engagement"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667746896/icons/wati-io.jpg",
+  "website": "https://www.wati.io/",
+  "docsUrl": "https://docs.wati.io"
+}

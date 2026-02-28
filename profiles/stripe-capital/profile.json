@@ -1,0 +1,14 @@
+{
+  "id": "stripe-capital",
+  "title": "Stripe Capital",
+  "subtitle": "Access the funds you need to grow your business. Stripe Capital provides access to fast financing with one flat fee a...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590335078/catalog/stripe-capital/icon128x128.jpg",
+  "website": "https://stripe.com/capital",
+  "docsUrl": "https://stripe.com/docs/stripe-js/reference"
+}

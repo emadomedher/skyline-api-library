@@ -1,0 +1,14 @@
+{
+  "id": "chefclub-tv",
+  "title": "Chefclub",
+  "subtitle": "Discover our latest recipes!",
+  "tags": [
+    "foodtech",
+    "media"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611922344/icons/chefclub-tv.jpg",
+  "website": "https://www.chefclub.tv/"
+}

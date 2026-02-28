@@ -1,0 +1,15 @@
+{
+  "id": "flourish",
+  "title": "Flourish",
+  "subtitle": "Beautiful, easy data visualization and storytelling",
+  "tags": [
+    "dashboards-and-data-visualization",
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720124/catalog/flourish/icon128x128.jpg",
+  "website": "https://flourish.studio",
+  "docsUrl": "https://flourish.studio/developers"
+}

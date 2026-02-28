@@ -1,0 +1,15 @@
+{
+  "id": "kluster",
+  "title": "Kluster",
+  "subtitle": "Kluster Intelligence interprets CRM data to produce innovative insights and action-points, designed to drive growth a...",
+  "tags": [
+    "sales-forecasting",
+    "revenue-analytics",
+    "sales-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588579223/catalog/kluster/icon128x128.png",
+  "website": "https://kluster.com/"
+}

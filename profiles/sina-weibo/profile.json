@@ -1,0 +1,13 @@
+{
+  "id": "sina-weibo",
+  "title": "Sina Weibo",
+  "subtitle": "Sina Weibo is a popular social and microblogging service in China.",
+  "tags": [
+    "websites",
+    "social"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056164/catalog/sina-weibo/icon128x128.png"
+}

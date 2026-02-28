@@ -1,0 +1,14 @@
+{
+  "id": "tito",
+  "title": "Tito",
+  "subtitle": "Design-led software for simple management of ticket sales for events. We aim to be a sustainable, ethical business dr...",
+  "tags": [
+    "events-meetings-and-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946463/catalog/tito/icon128x128.png",
+  "website": "https://ti.to",
+  "docsUrl": "https://ti.to/developers"
+}

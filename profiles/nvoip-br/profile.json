@@ -1,0 +1,14 @@
+{
+  "id": "nvoip-br",
+  "title": "Nvoip",
+  "subtitle": "Destaque-se no mercado utilizando a plataforma de comunicação da Nvoip Voz, SMS e API em um só lugar. Criar conta grá...",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603878950/icons/nvoip-br.jpg",
+  "website": "https://www.nvoip.com.br/en/",
+  "docsUrl": "https://nvoip.docs.apiary.io"
+}

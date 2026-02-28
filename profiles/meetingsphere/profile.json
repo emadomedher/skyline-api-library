@@ -1,0 +1,13 @@
+{
+  "id": "meetingsphere",
+  "title": "MeetingSphere",
+  "subtitle": "MeetingSphere - Dynamic Meeting Solutions.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435831/catalog/meetingsphere/icon128x128.png",
+  "website": "https://meetingsphere.com"
+}

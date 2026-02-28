@@ -1,0 +1,13 @@
+{
+  "id": "cartfunnel",
+  "title": "Cartfunnel",
+  "subtitle": "Cartfunnel API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433601/catalog/cartfunnel/icon128x128.png",
+  "website": "https://cartfunnel.com"
+}

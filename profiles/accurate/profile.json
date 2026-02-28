@@ -1,0 +1,13 @@
+{
+  "id": "accurate",
+  "title": "Accurate Background",
+  "subtitle": "Service and technology for a better employment screening process. The optimized client and candidate experience you'v...",
+  "tags": [
+    "background-screening"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595961355/icons/accurate.jpg",
+  "website": "https://www.accurate.com/"
+}

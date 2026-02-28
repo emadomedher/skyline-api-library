@@ -1,0 +1,14 @@
+{
+  "id": "greatquestion-co",
+  "title": "Great Question",
+  "subtitle": "Conduct every part of the customer research process in a single platform from panel management to studies, to incenti...",
+  "tags": [
+    "customer-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644272550/icons/greatquestion-co.png",
+  "website": "https://greatquestion.co/",
+  "docsUrl": "http://docs.greatquestion.co"
+}

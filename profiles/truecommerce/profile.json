@@ -1,0 +1,13 @@
+{
+  "id": "truecommerce",
+  "title": "TrueCommerce",
+  "subtitle": "EDI Systems and EDI Software From TrueCommerce – The Industry’s Most Accredited Managed Service EDI Provider By ERP S...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588444266/catalog/truecommerce/icon128x128.jpg",
+  "website": "https://www.truecommerce.com/"
+}

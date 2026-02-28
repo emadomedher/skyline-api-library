@@ -1,0 +1,12 @@
+{
+  "id": "forte-payments",
+  "title": "Forte Payments",
+  "subtitle": "Forte Payment Systems is a leading provider of innovative electronic payment solutions.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304977/catalog/forte-payments/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "notablist",
+  "title": "Notablist",
+  "subtitle": "Email sender intelligence for sales teams",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946776/catalog/notablist/icon128x128.png",
+  "website": "https://notablist.com"
+}

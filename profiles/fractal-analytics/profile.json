@@ -1,0 +1,13 @@
+{
+  "id": "fractal-analytics",
+  "title": "Fractal Analytics",
+  "subtitle": "Fractal Analytics API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775133/catalog/fractal-analytics/icon128x128.png",
+  "website": "https://fractalanalytics.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "jupiterone",
+  "title": "JupiterOne",
+  "subtitle": "JupiterOne is a cyber asset analysis platform for cybersecurity designed to continuously collect, connect, and analyz...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1690989491/icons/jupiterone.jpg",
+  "website": "https://www.jupiterone.com/",
+  "docsUrl": "https://community.askj1.com/kb/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "koho-ca",
+  "title": "KOHO",
+  "subtitle": "A no-fee spending account with instant cash back & an app designed to make managing your money easy.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575220016/catalog/koho-ca/icon128x128.png",
+  "website": "https://www.koho.ca/"
+}

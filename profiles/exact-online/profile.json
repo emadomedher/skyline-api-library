@@ -1,0 +1,15 @@
+{
+  "id": "exact-online",
+  "title": "Exact Online",
+  "subtitle": "Exact Cloud business software offers accounting and industry software in the cloud for SME's on desktop, laptop, tabl...",
+  "tags": [
+    "accounting",
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548122132/catalog/exact-online/icon128x128.png",
+  "website": "https://www.exact.com/",
+  "docsUrl": "https://www.exact.com/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jedox",
+  "title": "Jedox",
+  "subtitle": "Jedox API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435283/catalog/jedox/icon128x128.png",
+  "website": "https://jedox.com"
+}

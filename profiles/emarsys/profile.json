@@ -1,0 +1,13 @@
+{
+  "id": "emarsys",
+  "title": "Emarsys",
+  "subtitle": "Emarsys, a leading provider of marketing software, enables true, one-to-one interactions between marketers and consum...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719907/catalog/emarsys/icon128x128.jpg",
+  "website": "https://emarsys.com"
+}

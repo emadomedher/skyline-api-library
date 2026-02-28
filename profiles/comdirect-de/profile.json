@@ -1,0 +1,13 @@
+{
+  "id": "comdirect-de",
+  "title": "Comdirect",
+  "subtitle": "Comdirect bank AG is the third-largest German direct bank and is based in Quickborn, Schleswig-Holstein. Founded by t...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594331712/icons/comdirect-de.jpg",
+  "website": "https://www.comdirect.de/"
+}

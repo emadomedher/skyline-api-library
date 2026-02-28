@@ -1,0 +1,13 @@
+{
+  "id": "cisco-spark",
+  "title": "Cisco Spark",
+  "subtitle": "Cisco Webex Teams (formerly Cisco Spark) brings teams together instantly in rooms where you can send messages, video ...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304613/catalog/cisco-spark/icon128x128.png",
+  "website": "https://www.webex.com/products/teams/index.html"
+}

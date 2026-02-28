@@ -1,0 +1,13 @@
+{
+  "id": "enalyzer",
+  "title": "Enalyzer",
+  "subtitle": "An easy and free tool for creating surveys and analyzing results.",
+  "tags": [
+    "surveys",
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304866/catalog/enalyzer/icon128x128.png"
+}

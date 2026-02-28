@@ -1,0 +1,13 @@
+{
+  "id": "textspark-ai",
+  "title": "TextSpark AI",
+  "subtitle": "A new AI writing tool designed to spark your creativity and accelerate your writing with the help of your own persona...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619679549/icons/textspark-ai.png",
+  "website": "https://textspark.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aws-cognito",
+  "title": "AWS Cognito",
+  "subtitle": "AWS Cognito API integration",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760634/icons/aws-cognito.jpg",
+  "website": "https://aws.amazon.com/cognito/"
+}

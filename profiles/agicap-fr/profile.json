@@ -1,0 +1,13 @@
+{
+  "id": "agicap-fr",
+  "title": "Agicap",
+  "subtitle": "Agicap propose un logiciel simple et innovant de gestion de trésorerie. Automatisez votre suivi et pilotez la trésore...",
+  "tags": [
+    "cash-flow-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796510/catalog/agicap-fr/icon128x128.jpg",
+  "website": "https://agicap.com/"
+}

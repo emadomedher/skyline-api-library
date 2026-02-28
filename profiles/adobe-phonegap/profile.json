@@ -1,0 +1,13 @@
+{
+  "id": "adobe-phonegap",
+  "title": "Adobe PhoneGap",
+  "subtitle": "Easily create apps using the web technologies you know and love: HTML, CSS, and JavaScript.",
+  "tags": [
+    "mobile-app-development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1074739258668109824/APORyV-z_400x400.jpg",
+  "website": "https://phonegap.com/"
+}

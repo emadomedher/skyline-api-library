@@ -1,0 +1,13 @@
+{
+  "id": "splitwise",
+  "title": "Splitwise",
+  "subtitle": "Splitwise is an app for splitting bills and expenses with friends.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284619/catalog/splitwise/icon128x128.png",
+  "website": "https://zapier.com/apps/splitwise/integrations"
+}

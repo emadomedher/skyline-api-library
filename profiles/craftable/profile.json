@@ -1,0 +1,14 @@
+{
+  "id": "craftable",
+  "title": "Craftable",
+  "subtitle": "Craftable automates your back of house to control costs & drive profit. Streamline purchasing, inventory & accounting...",
+  "tags": [
+    "restaurant-management",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653513071/icons/craftable.jpg",
+  "website": "https://craftable.com/"
+}

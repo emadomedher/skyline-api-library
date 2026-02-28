@@ -1,0 +1,14 @@
+{
+  "id": "squadcast-fm",
+  "title": "SquadCast.fm",
+  "subtitle": "Record remote conversations that podcast listeners love. Save time without sacrificing quality. Sign up today for you...",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588616590/catalog/squadcast-fm/icon128x128.jpg",
+  "website": "https://squadcast.fm/",
+  "docsUrl": "https://squadcast.fm/support-docs"
+}

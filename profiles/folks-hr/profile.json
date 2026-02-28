@@ -1,0 +1,13 @@
+{
+  "id": "folks-hr",
+  "title": "Folks",
+  "subtitle": "Folks provides SMBs with powerful HR software solutions adapted to their financial reality.",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1709210376/icons/folks-hr.jpg",
+  "website": "https://folksrh.com/"
+}

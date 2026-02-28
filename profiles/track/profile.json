@@ -1,0 +1,13 @@
+{
+  "id": "track",
+  "title": "Track Information",
+  "subtitle": "Track Information API integration",
+  "tags": [
+    "vaccination-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641269599/icons/track.png",
+  "website": "https://www.track.com/"
+}

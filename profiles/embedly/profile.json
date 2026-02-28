@@ -1,0 +1,13 @@
+{
+  "id": "embedly",
+  "title": "Embedly",
+  "subtitle": "Embedly delivers the ultra-fast, easy to use products and tools for richer sites and apps.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826358/catalog/embedly/icon128x128.png",
+  "website": "https://embed.ly"
+}

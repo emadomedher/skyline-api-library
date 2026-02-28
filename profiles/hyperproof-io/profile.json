@@ -1,0 +1,13 @@
+{
+  "id": "hyperproof-io",
+  "title": "Hyperproof",
+  "subtitle": "Hyperproof is the single source of truth for compliance programs. Tag and reuse evidence, map controls across framewo...",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574570919/catalog/hyperproof-io/icon128x128.png",
+  "website": "https://hyperproof.io/"
+}

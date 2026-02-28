@@ -1,0 +1,12 @@
+{
+  "id": "cerb",
+  "title": "Cerb",
+  "subtitle": "Cerb is a fast and flexible web-based platform for business collaboration and automation. Remember anything about any...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304580/catalog/cerb/icon128x128.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "amazon-seller-central",
+  "title": "Amazon Seller Central",
+  "subtitle": "Amazon Seller Central enables both individuals and businesses to sell their products and inventory on Amazon.com (US ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054206/catalog/amazon-seller-central/icon128x128.png"
+}

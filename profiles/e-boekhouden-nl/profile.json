@@ -1,0 +1,12 @@
+{
+  "id": "e-boekhouden-nl",
+  "title": "e-Boekhouden.nl",
+  "subtitle": "e-Boekhouden.nl is een online boekhoud- en facturatieprogramma waarmee starters, zzp'ers en mkb-ondernemers zelf of i...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563055952/catalog/e-boekhouden-nl/icon128x128.png"
+}

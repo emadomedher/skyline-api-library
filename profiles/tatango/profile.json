@@ -1,0 +1,13 @@
+{
+  "id": "tatango",
+  "title": "Tatango",
+  "subtitle": "Tatango offers a complete suit of SMS marketing products, including SMS marketing campaigns to your customers. Find o...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306270/catalog/tatango/icon128x128.png",
+  "website": "https://tatango.com"
+}

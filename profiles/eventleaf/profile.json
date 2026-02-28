@@ -1,0 +1,13 @@
+{
+  "id": "eventleaf",
+  "title": "EventLeaf",
+  "subtitle": "Create events, sell tickets, customize registration form, invite attendees, manage registrations, and use mobile app ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555982826/catalog/eventleaf/icon128x128.png",
+  "website": "https://eventleaf.com"
+}

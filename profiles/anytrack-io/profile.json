@@ -1,0 +1,14 @@
+{
+  "id": "anytrack-io",
+  "title": "AnyTrack.io",
+  "subtitle": "AnyTrack is a Conversion tracking software that helps digital marketers track and sync any conversion data acros your...",
+  "tags": [
+    "tag-managers",
+    "attribution"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576619792/catalog/anytrack-io/icon128x128.jpg",
+  "website": "https://anytrack.io/"
+}

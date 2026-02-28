@@ -1,0 +1,15 @@
+{
+  "id": "zendesk",
+  "title": "Zendesk",
+  "subtitle": "Customer service software and support ticketing system by Zendesk. Cloud-based help desk solution used by more than 2...",
+  "tags": [
+    "customer-support",
+    "issue-tracking"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456178/catalog/zendesk/icon128x128.png",
+  "website": "https://www.zendesk.com/",
+  "docsUrl": "https://developer.zendesk.com/"
+}

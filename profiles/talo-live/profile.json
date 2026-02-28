@@ -1,0 +1,13 @@
+{
+  "id": "talo-live",
+  "title": "Talo",
+  "subtitle": "Build Product that your customers love by collecting their feedback, feature requests, and bug reporting.  Everything...",
+  "tags": [
+    "product-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583850727/catalog/talo-live/icon128x128.jpg",
+  "website": "https://www.talo.live/"
+}

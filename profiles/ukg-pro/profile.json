@@ -1,0 +1,15 @@
+{
+  "id": "ukg-pro",
+  "title": "UKG Pro",
+  "subtitle": "The UKG Pro™ human capital management solution delivers unique, culture-driven capabilities for midsize to large ente...",
+  "tags": [
+    "hcm",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636588404/icons/ukg-pro.jpg",
+  "website": "https://www.ukg.com/solutions/ukg-pro",
+  "docsUrl": "https://developer.ukg.com/hcm/reference/welcome-to-the-pro-developer-hub"
+}

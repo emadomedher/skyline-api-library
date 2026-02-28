@@ -1,0 +1,15 @@
+{
+  "id": "yoyowallet",
+  "title": "Yoyo",
+  "subtitle": "Join 1.5 million other users. Download Yoyo Wallet today. Amazing rewards, digital receipts, order ahead and so much ...",
+  "tags": [
+    "receipts",
+    "loyalty",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565432648/catalog/yoyowallet/icon128x128.jpg",
+  "website": "https://yoyowallet.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pipedream",
+  "title": "Pipedream",
+  "subtitle": "Pipedream is a serverless integration and compute platform, built for developers.",
+  "tags": [
+    "developer-tools",
+    "ipaas",
+    "api"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598990702/icons/pipedream.jpg",
+  "website": "https://pipedream.com/",
+  "docsUrl": "https://docs.pipedream.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sezzle",
+  "title": "Sezzle",
+  "subtitle": "Sezzle empowers shoppers to purchase today, and make 4 interest-free payments over 6 weeks! Increase your conversions...",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605791798/icons/sezzle.jpg",
+  "website": "https://sezzle.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "paced-email",
+  "title": "Paced Email",
+  "subtitle": "Paced Email API integration",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584650686/catalog/paced-email/icon128x128.jpg",
+  "website": "https://www.paced.email/",
+  "docsUrl": "https://www.paced.email/docs"
+}

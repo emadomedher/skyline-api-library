@@ -1,0 +1,13 @@
+{
+  "id": "customergauge",
+  "title": "CustomerGauge",
+  "subtitle": "CustomerGauge's Account Experience software excels at collecting feedback and signals at the account-level and distri...",
+  "tags": [
+    "live-chat-and-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775017/catalog/customergauge/icon128x128.jpg",
+  "website": "https://customergauge.com"
+}

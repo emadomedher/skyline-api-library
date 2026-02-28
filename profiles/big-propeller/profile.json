@@ -1,0 +1,13 @@
+{
+  "id": "big-propeller",
+  "title": "Big Propeller",
+  "subtitle": "Creators of Gain, the marketing automation platrorm for e-commerce and \npublishing industries",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964245/catalog/big-propeller/icon128x128.png",
+  "website": "https://bigpropeller.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "meetcleo",
+  "title": "Cleo",
+  "subtitle": "Your AI friend that looks after your money. Sign up for free, it takes less than 2 minutes.",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586382071/catalog/meetcleo/icon128x128.jpg",
+  "website": "https://www.meetcleo.com/"
+}

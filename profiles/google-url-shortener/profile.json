@@ -1,0 +1,13 @@
+{
+  "id": "google-url-shortener",
+  "title": "Google URL Shortener",
+  "subtitle": "Google URL Shortener is a tool to create short URLs that can be easily shared, tweeted, or emailed to friends.",
+  "tags": [
+    "social-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305055/catalog/google-url-shortener/icon128x128.png",
+  "website": "https://goo.gl"
+}

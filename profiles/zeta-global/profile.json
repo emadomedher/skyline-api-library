@@ -1,0 +1,13 @@
+{
+  "id": "zeta-global",
+  "title": "Zeta Global",
+  "subtitle": "Zeta Global API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961867/catalog/zeta-global/icon128x128.png",
+  "website": "https://zetaglobal.com"
+}

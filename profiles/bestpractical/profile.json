@@ -1,0 +1,13 @@
+{
+  "id": "bestpractical",
+  "title": "Best Practical",
+  "subtitle": "Request Tracker, the open-source enterprise grade issue and ticket tracking system.",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249019/icons/bestpractical.png",
+  "website": "https://bestpractical.com"
+}

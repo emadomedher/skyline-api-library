@@ -1,0 +1,14 @@
+{
+  "id": "proximus-be",
+  "title": "Proximus",
+  "subtitle": "Proximus offers you the best quality network and wide mobile coverage within Belgium. You’ll also benefit from a top-...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593705305/icons/proximus-be.png",
+  "website": "https://www.proximus.be/",
+  "docsUrl": "https://proximusapi.enco.io/"
+}

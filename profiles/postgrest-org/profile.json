@@ -1,0 +1,15 @@
+{
+  "id": "postgrest-org",
+  "title": "PostgREST",
+  "subtitle": "PostgREST API integration",
+  "tags": [
+    "database-to-api",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608914746/icons/postgrest-org.png",
+  "website": "https://postgrest.org/",
+  "docsUrl": "https://postgrest.org/en/v7.0.0/#"
+}

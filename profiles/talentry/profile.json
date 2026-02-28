@@ -1,0 +1,14 @@
+{
+  "id": "talentry",
+  "title": "Talentry",
+  "subtitle": "The Talent Relationship Platform for proactive recruiting combines candidate and employee relationship management, e....",
+  "tags": [
+    "employee-referral"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620205252/icons/talentry.jpg",
+  "website": "https://www.talentry.com/",
+  "docsUrl": "https://www.talentry.com/#"
+}

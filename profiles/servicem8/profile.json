@@ -1,0 +1,13 @@
+{
+  "id": "servicem8",
+  "title": "ServiceM8",
+  "subtitle": "ServiceM8 is a field service app and small business management platform for your computer, iPhone and iPad. Track sta...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306042/catalog/servicem8/icon128x128.png",
+  "website": "https://www.servicem8.com/eu/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "goscore-me",
+  "title": "goscore",
+  "subtitle": "Pay debt faster with goscore. Get a better financial experience: understand your financials at a glance, track your e...",
+  "tags": [
+    "personal-finance-management",
+    "credit-scoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573697282/catalog/goscore-me/icon128x128.png",
+  "website": "https://goscore.me/"
+}

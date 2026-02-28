@@ -1,0 +1,13 @@
+{
+  "id": "oracle-cloud-erp",
+  "title": "Oracle Cloud ERP",
+  "subtitle": "Oracle Cloud ERP API integration",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675428053/icons/oracle-cloud-erp.jpg",
+  "website": "https://www.oracle.com/erp/"
+}

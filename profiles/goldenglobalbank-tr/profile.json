@@ -1,0 +1,13 @@
+{
+  "id": "goldenglobalbank-tr",
+  "title": "Golden Global Bank",
+  "subtitle": "Granted the establishment license for an Investment Bank by Banking Regulation and Supervision Agency on May 25th 201...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602114689/icons/goldenglobalbank-tr.jpg",
+  "website": "https://goldenglobalbank.com.tr/"
+}

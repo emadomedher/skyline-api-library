@@ -1,0 +1,16 @@
+{
+  "id": "stoplight-prism",
+  "title": "Prism",
+  "subtitle": "Accelerate API development with realistic mock servers powered by API descriptions",
+  "tags": [
+    "api-mocking",
+    "open-source",
+    "mock-server"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598019684/icons/stoplight-prism.png",
+  "website": "https://stoplight.io/open-source/prism",
+  "docsUrl": "https://meta.stoplight.io/docs/prism/readme.md"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "google-cloud-functions",
+  "title": "Google Cloud Functions",
+  "subtitle": "Google Cloud Functions API integration",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574004763/catalog/google-cloud-functions/icon128x128.png",
+  "website": "https://cloud.google.com/functions"
+}

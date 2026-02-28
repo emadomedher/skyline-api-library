@@ -1,0 +1,16 @@
+{
+  "id": "tasktop",
+  "title": "Tasktop",
+  "subtitle": "Integrate Jira, ServiceNow, Azure DevOps, TFS, Micro Focus ALM, and many more with Tasktop Integration Hub. Connect d...",
+  "tags": [
+    "devops",
+    "developers",
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565390640/catalog/tasktop/icon128x128.png",
+  "website": "https://tasktop.com",
+  "docsUrl": "https://docs.tasktop.com/tasktop"
+}

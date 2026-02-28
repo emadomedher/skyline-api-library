@@ -1,0 +1,13 @@
+{
+  "id": "unicorntracker",
+  "title": "Unicorn Tracker",
+  "subtitle": "A unicorn company is a startup with a valuation over $1 billion. This is an ongoing list of all unicorn companies in ...",
+  "tags": [
+    "directory"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595000487/icons/unicorntracker.jpg",
+  "website": "https://www.cbinsights.com/research-unicorn-companies"
+}

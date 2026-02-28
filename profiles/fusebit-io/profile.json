@@ -1,0 +1,14 @@
+{
+  "id": "fusebit-io",
+  "title": "Fusebit",
+  "subtitle": "Accelerate customer acquisition and improve retention in your platform with powerful customizations and integrations",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573694243/catalog/fusebit-io/icon128x128.png",
+  "website": "https://fusebit.io/",
+  "docsUrl": "https://fusebit.io/docs"
+}

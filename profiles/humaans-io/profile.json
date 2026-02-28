@@ -1,0 +1,14 @@
+{
+  "id": "humaans-io",
+  "title": "Humaans",
+  "subtitle": "The fastest way to onboard and manage your staff. Mobile first, perfect for remote and distributed teams, and takes 1...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635814193/icons/humaans-io.jpg",
+  "website": "https://humaans.io/",
+  "docsUrl": "https://docs.humaans.io/api"
+}

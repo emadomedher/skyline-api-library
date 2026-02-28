@@ -1,0 +1,13 @@
+{
+  "id": "vainu",
+  "title": "Vainu.io",
+  "subtitle": "A tool for finding sales leads by utilizing big data.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306420/catalog/vainu/icon128x128.png",
+  "website": "https://vainu.io"
+}

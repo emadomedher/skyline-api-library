@@ -1,0 +1,15 @@
+{
+  "id": "tyntec",
+  "title": "tyntec",
+  "subtitle": "Find here our acceptable use policy.",
+  "tags": [
+    "messaging-apis",
+    "phone"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611781386/icons/tyntec.jpg",
+  "website": "https://www.tyntec.com/",
+  "docsUrl": "https://api.tyntec.com/reference/"
+}

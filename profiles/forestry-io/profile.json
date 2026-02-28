@@ -1,0 +1,16 @@
+{
+  "id": "forestry-io",
+  "title": "Forestry.io",
+  "subtitle": "Content management system for sites built with static site generators. Get the speed, security, and reliability of st...",
+  "tags": [
+    "cms",
+    "headless",
+    "headless-cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571689657/catalog/forestry-io/icon128x128.jpg",
+  "website": "https://forestry.io/",
+  "docsUrl": "https://forestry.io/docs/guides"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bitrix24",
+  "title": "Bitrix24",
+  "subtitle": "Bitrix24 is a free (for small businesses) social enterprise platform. It is a united work space which handles the man...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719146/catalog/bitrix24/icon128x128.jpg",
+  "website": "https://bitrix24.com"
+}

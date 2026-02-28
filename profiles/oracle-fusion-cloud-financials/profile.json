@@ -1,0 +1,15 @@
+{
+  "id": "oracle-fusion-cloud-financials",
+  "title": "Oracle Fusion Cloud Financials",
+  "subtitle": "Oracle Fusion Cloud Financials API integration",
+  "tags": [
+    "erp",
+    "accounting"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975833/icons/oracle-fusion-cloud-financials.png",
+  "website": "https://www.oracle.com/erp/financials/",
+  "docsUrl": "https://docs.oracle.com/en/cloud/saas/financials/22c/farfa/rest-endpoints.html"
+}

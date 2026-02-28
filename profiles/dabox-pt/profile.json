@@ -1,0 +1,13 @@
+{
+  "id": "dabox-pt",
+  "title": "DABOX",
+  "subtitle": "A personal financial management app by CaixaBank",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575925959/catalog/dabox-pt/icon128x128.png",
+  "website": "https://www.dabox.pt/"
+}

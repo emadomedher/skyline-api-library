@@ -1,0 +1,15 @@
+{
+  "id": "yonomi-co",
+  "title": "Yonomi",
+  "subtitle": "Bring your home to life.™ Yonomi is the IoT company creating a more \nconnected smart home.",
+  "tags": [
+    "smart-home",
+    "integration-platforms"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618792255/icons/yonomi-co.jpg",
+  "website": "https://www.yonomi.co/",
+  "docsUrl": "https://www.yonomi.co/developer-portal"
+}

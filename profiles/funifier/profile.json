@@ -1,0 +1,14 @@
+{
+  "id": "funifier",
+  "title": "Funifier",
+  "subtitle": "Purpose-built for the enterprise, Funifier’s proven gamification solutions, increase user engagement while delivering...",
+  "tags": [
+    "gamification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605367958/icons/funifier.jpg",
+  "website": "https://funifier.com/",
+  "docsUrl": "https://funifier.com/#"
+}

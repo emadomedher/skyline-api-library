@@ -1,0 +1,13 @@
+{
+  "id": "lgtm",
+  "title": "LGTM",
+  "subtitle": "Find zero-days and prevent vulnerabilities with LGTM's code analysis platform, powered by the purpose-built QL query ...",
+  "tags": [
+    "continuous-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626758175/icons/lgtm.jpg",
+  "website": "https://lgtm.com/"
+}

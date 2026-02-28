@@ -1,0 +1,13 @@
+{
+  "id": "invoice-2go",
+  "title": "Invoice2Go",
+  "subtitle": "Straightforward invoicing, estimates & tools to run your business. Send professional invoices from any device. Start ...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625016081/icons/invoice-2go.png",
+  "website": "https://invoice.2go.com/"
+}

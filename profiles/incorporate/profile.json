@@ -1,0 +1,13 @@
+{
+  "id": "incorporate",
+  "title": "incorporate.com",
+  "subtitle": "Considering starting an LLC or Corporation? Learn more about LLC bylaws, if bylaws are required, operating agreements...",
+  "tags": [
+    "incorporation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581634303/catalog/incorporate/icon128x128.jpg",
+  "website": "https://www.incorporate.com/"
+}

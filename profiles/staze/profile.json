@@ -1,0 +1,14 @@
+{
+  "id": "staze",
+  "title": "Staze",
+  "subtitle": "Make net zero hotel bookings in every major city on the planet. Compare carbon like you compare price. Offset every b...",
+  "tags": [
+    "climate",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677500439/icons/staze.jpg",
+  "website": "https://staze.com/"
+}

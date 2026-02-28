@@ -1,0 +1,13 @@
+{
+  "id": "pm-me",
+  "title": "Proton",
+  "subtitle": "pm.me is a short email domain name offered by ProtonMail, the world's largest encrypted email service. Get an email a...",
+  "tags": [
+    "email-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652394974/icons/pm-me.jpg",
+  "website": "https://pm.me/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "canadapost-ca",
+  "title": "Canada Post",
+  "subtitle": "Mail letters, ship parcels, market your business or sell from your online store with Canada Post. We have personal se...",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573130946/catalog/canadapost-ca/icon128x128.png",
+  "website": "https://www.canadapost.ca/"
+}

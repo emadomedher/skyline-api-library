@@ -1,0 +1,14 @@
+{
+  "id": "ios-carplay",
+  "title": "CarPlay",
+  "subtitle": "With CarPlay, get directions, play music, and more on your car’s built-in display. And use digital car keys to unlock...",
+  "tags": [
+    "automotive",
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607014585/icons/ios-carplay.png",
+  "website": "https://www.apple.com/ios/carplay/"
+}

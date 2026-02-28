@@ -1,0 +1,12 @@
+{
+  "id": "daywize",
+  "title": "Daywize",
+  "subtitle": "Alle HR-zaken komen in Daywize Cloud samen in één omgeving. Daywize Cloud heeft een ruim aanbod aan specialistische H...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256920/catalog/daywize/icon128x128.jpg"
+}

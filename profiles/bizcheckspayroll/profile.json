@@ -1,0 +1,13 @@
+{
+  "id": "bizcheckspayroll",
+  "title": "BizChecks Payroll",
+  "subtitle": "BizChecks Payroll is your leading local payroll service. We are a Massachusetts owned and operated company that provi...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623012617/icons/bizcheckspayroll.jpg",
+  "website": "https://www.bizcheckspayroll.com/"
+}

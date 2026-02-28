@@ -1,0 +1,13 @@
+{
+  "id": "rs2-bankworks",
+  "title": "BankWORKS®",
+  "subtitle": "BankWORKS® Acquiring manages efficient large-scale acquiring of payments transactions through POS, ATM, Internet and ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571962499/catalog/rs2-bankworks/icon128x128.jpg",
+  "website": "https://www.rs2.com/licensed-payment-solutions/acquiring/"
+}

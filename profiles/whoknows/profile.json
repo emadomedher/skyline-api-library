@@ -1,0 +1,13 @@
+{
+  "id": "whoknows",
+  "title": "WhoKnows",
+  "subtitle": "WhoKnows is a global business network powered by machine learning with over 300M machine-enriched profiles that recru...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722878/catalog/whoknows/icon128x128.jpg",
+  "website": "https://whoknows.com"
+}

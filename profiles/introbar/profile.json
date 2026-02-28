@@ -1,0 +1,13 @@
+{
+  "id": "introbar",
+  "title": "IntroBar",
+  "subtitle": "IntroBar API integration",
+  "tags": [
+    "website-personalisation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562717646/catalog/introbar/icon128x128.png",
+  "website": "https://introbar.com"
+}

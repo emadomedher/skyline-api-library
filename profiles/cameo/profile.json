@@ -1,0 +1,14 @@
+{
+  "id": "cameo",
+  "title": "Cameo",
+  "subtitle": "Get the Cameo app to view the latest content, DM your idols, share your Cameos + more. Just like that.",
+  "tags": [
+    "personalized-video-messages-marketplaces",
+    "marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592727624/icons/cameo.jpg",
+  "website": "https://www.cameo.com/"
+}

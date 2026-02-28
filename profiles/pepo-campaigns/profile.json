@@ -1,0 +1,13 @@
+{
+  "id": "pepo-campaigns",
+  "title": "Pepo Campaigns",
+  "subtitle": "The first full-featured email marketing platform built on AWS that enables you to send marketing campaigns, transacti...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436414/catalog/pepo-campaigns/icon128x128.png",
+  "website": "https://pepocampaigns.com"
+}

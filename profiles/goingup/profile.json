@@ -1,0 +1,13 @@
+{
+  "id": "goingup",
+  "title": "GoingUp",
+  "subtitle": "GoingUp API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434822/catalog/goingup/icon128x128.png",
+  "website": "https://goingup.com"
+}

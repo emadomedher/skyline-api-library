@@ -1,0 +1,13 @@
+{
+  "id": "dynoforms",
+  "title": "DynoForms",
+  "subtitle": "DynoForms is the easiest way to create mobile forms for any device. Every mobile form is completely customizable and ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562629880/catalog/dynoforms/icon128x128.png",
+  "website": "https://dynoforms.com"
+}

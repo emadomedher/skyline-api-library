@@ -1,0 +1,13 @@
+{
+  "id": "appointmentcore",
+  "title": "AppointmentCore",
+  "subtitle": "Automate your Infusionsoft appointments with AppointmentCore scheduling software. Integrates with Infusionsoft, Googl...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582273472/catalog/appointmentcore/icon128x128.jpg",
+  "website": "https://www.appointmentcore.com/"
+}

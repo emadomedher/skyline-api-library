@@ -1,0 +1,13 @@
+{
+  "id": "thebancorp",
+  "title": "The Bancorp",
+  "subtitle": "Explore our innovative private-label banking and technology solutions for non-bank companies.",
+  "tags": [
+    "private-label-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589508667/catalog/thebancorp/icon128x128.jpg",
+  "website": "https://www.thebancorp.com/"
+}

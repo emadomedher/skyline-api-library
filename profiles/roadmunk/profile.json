@@ -1,0 +1,13 @@
+{
+  "id": "roadmunk",
+  "title": "Roadmunk",
+  "subtitle": "Create beautiful product roadmaps quickly. Drag & Drop functionality. Export your roadmaps into formats such as: PPT,...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946656/catalog/roadmunk/icon128x128.jpg",
+  "website": "https://roadmunk.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "thirdai",
+  "title": "ThirdAI",
+  "subtitle": "ThirdAI is on a mission to make sophisticated large language models (LLMs) and other cutting-edge AI technologies acc...",
+  "tags": [
+    "llm",
+    "llm-ops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687512146/icons/thirdai.jpg",
+  "website": "https://www.thirdai.com/"
+}

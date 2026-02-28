@@ -1,0 +1,15 @@
+{
+  "id": "lawhackers-co",
+  "title": "Law Hackers",
+  "subtitle": "Discover #LegalTech startups.",
+  "tags": [
+    "directories",
+    "review-websites",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585314685/catalog/lawhackers-co/icon128x128.png",
+  "website": "https://www.lawhackers.co/"
+}

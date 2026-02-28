@@ -1,0 +1,14 @@
+{
+  "id": "k6-io",
+  "title": "k6.io",
+  "subtitle": "k6 is an open-source load testing tool and cloud service providing the best developer experience for API performance ...",
+  "tags": [
+    "load-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821132/catalog/k6-io/icon128x128.jpg",
+  "website": "https://k6.io/",
+  "docsUrl": "https://k6.io/docs"
+}

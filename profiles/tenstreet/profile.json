@@ -1,0 +1,13 @@
+{
+  "id": "tenstreet",
+  "title": "Tenstreet",
+  "subtitle": "World-class driver recruiting software & solutions focused 100% on helping trucking companies market to, recruit, hir...",
+  "tags": [
+    "trucking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678808115/icons/tenstreet.png",
+  "website": "https://www.tenstreet.com/"
+}

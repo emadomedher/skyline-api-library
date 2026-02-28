@@ -1,0 +1,15 @@
+{
+  "id": "spaycial",
+  "title": "Spaycial",
+  "subtitle": "Spaycial enables better relationships between people and brands, by turning payment data into shopping behaviour clues.",
+  "tags": [
+    "ecommerce",
+    "loyalty"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406260/icons/spaycial.jpg",
+  "website": "https://www.spaycial.com/",
+  "docsUrl": "https://developer.spaycial.com"
+}

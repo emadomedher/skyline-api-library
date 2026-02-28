@@ -1,0 +1,14 @@
+{
+  "id": "healthstream",
+  "title": "HealthStream",
+  "subtitle": "Learn why over half of U.S. healthcare organizations have chosen HealthStream as their partner for improving clinical...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1684211512/icons/healthstream.jpg",
+  "website": "https://www.healthstream.com/",
+  "docsUrl": "https://developers.hstream.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "speedybooker",
+  "title": "SpeedyBooker",
+  "subtitle": "Best price guarantee on great independent hotels, B&Bs, holiday rentals & things to do. Quick and easy to book.",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641117/icons/speedybooker.jpg",
+  "website": "https://www.speedybooker.com/"
+}

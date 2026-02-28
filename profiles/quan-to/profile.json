@@ -1,0 +1,13 @@
+{
+  "id": "quan-to",
+  "title": "Quanto",
+  "subtitle": "Somos a plataforma de Open Finance que conecta o futuro das soluções financeiras aos bancos, empresas e usuários de h...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600859084/icons/quan-to.jpg",
+  "website": "https://quan.to/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "newzsocial",
+  "title": "NewzSocial",
+  "subtitle": "NewzSocial gives marketers a platform to reach wider audiences in social media using employee advocacy.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721261/catalog/newzsocial/icon128x128.png",
+  "website": "https://newzsocial.com"
+}

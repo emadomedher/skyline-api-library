@@ -1,0 +1,14 @@
+{
+  "id": "ingenico",
+  "title": "Ingenico Group",
+  "subtitle": "Ingenico Group is providing smart, trusted and secure payment solutions to empower commerce across all channels, in-s...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569813034/catalog/ingenico/icon128x128.jpg",
+  "website": "https://www.ingenico.com/",
+  "docsUrl": "https://www.ingenico.com/press-and-publications/financial-documentation"
+}

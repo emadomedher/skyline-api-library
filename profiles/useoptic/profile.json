@@ -1,0 +1,15 @@
+{
+  "id": "useoptic",
+  "title": "Optic",
+  "subtitle": "Open Source Tools that make API specifications as easy to use as Git.",
+  "tags": [
+    "api-testing",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602856469/icons/useoptic.png",
+  "website": "https://www.useoptic.com/",
+  "docsUrl": "https://www.useoptic.com/docs"
+}

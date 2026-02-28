@@ -1,0 +1,14 @@
+{
+  "id": "openai-gpt-3-cnet-sdk",
+  "title": "OpenAI GPT-3 C#/.NET SDK ",
+  "subtitle": "A C#/.NET SDK for accessing the OpenAI GPT-3 API. Contribute to OkGoDoIt/OpenAI-API-dotnet development by creating an...",
+  "tags": [
+    "sdks",
+    "gpt-3"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612656356/icons/openai-gpt-3-cnet-sdk.png",
+  "website": "https://github.com/OkGoDoIt/OpenAI-API-dotnet"
+}

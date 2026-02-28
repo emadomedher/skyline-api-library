@@ -1,0 +1,14 @@
+{
+  "id": "mapmycustomers-me",
+  "title": "Map My Customers",
+  "subtitle": "CRM mapping for sales teams. The mobile sales tool proven to simplify your team’s day-to-day —  sales mapping, sales ...",
+  "tags": [
+    "crm-mapping"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629487069/icons/mapmycustomers-me.jpg",
+  "website": "https://mapmycustomers.me/",
+  "docsUrl": "https://developers.mapmycustomers.me/reference"
+}

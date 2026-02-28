@@ -1,0 +1,13 @@
+{
+  "id": "ascora-au",
+  "title": "Ascora",
+  "subtitle": "Ascora manages the entire job process from enquiry, through to quote, job and invoice.  With credit card processing, ...",
+  "tags": [
+    "job-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630350463/icons/ascora-au.jpg",
+  "website": "https://www.ascora.com.au/"
+}

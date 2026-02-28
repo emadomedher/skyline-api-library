@@ -1,0 +1,13 @@
+{
+  "id": "netx",
+  "title": "NetX",
+  "subtitle": "NetX is an easy to use digital asset management (DAM) software with a clean, modern UI that is simple to learn, helpi...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436097/catalog/netx/icon128x128.png",
+  "website": "https://netx.net"
+}

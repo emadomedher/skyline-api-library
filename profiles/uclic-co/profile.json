@@ -1,0 +1,14 @@
+{
+  "id": "uclic-co",
+  "title": "Uclic",
+  "subtitle": "Why is your Linkedin outreach not working?You are no different to the rest! You follow your competition like sheep. Y...",
+  "tags": [
+    "linkedin-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605139740/icons/uclic-co.jpg",
+  "website": "https://uclic.co/",
+  "docsUrl": "https://uclic.co/doc-api"
+}

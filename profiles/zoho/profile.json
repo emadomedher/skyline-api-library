@@ -1,0 +1,13 @@
+{
+  "id": "zoho",
+  "title": "Zoho",
+  "subtitle": "Run your entire business with Zoho's suite of online productivity tools and SaaS applications. Zoho is a web-based on...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610588323/icons/zoho.jpg",
+  "website": "https://zoho.com"
+}

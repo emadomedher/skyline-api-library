@@ -1,0 +1,14 @@
+{
+  "id": "usergems",
+  "title": "UserGems",
+  "subtitle": "UserGems is an easy way to fill your sales pipeline with warm leads. Know when your customers change their jobs to a ...",
+  "tags": [
+    "sales-prospection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528000/icons/usergems.jpg",
+  "website": "https://www.usergems.com/",
+  "docsUrl": "https://data.usergems.com/api/documentation"
+}

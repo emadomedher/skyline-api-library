@@ -1,0 +1,14 @@
+{
+  "id": "otainsight",
+  "title": "OTA Insight",
+  "subtitle": "The global leader in providing data intelligence for the hospitality industry. Empowering hoteliers to make smarter r...",
+  "tags": [
+    "hotel-revenue-management",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567217472/catalog/otainsight/icon128x128.jpg",
+  "website": "https://www.otainsight.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "clearbooks-uk",
+  "title": "Clear Books",
+  "subtitle": "Making Tax Digital compatible accounting software for small businesses and accountants in the UK. Take a 30 day free ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566774056/catalog/clearbooks-uk/icon128x128.jpg",
+  "website": "https://www.clearbooks.co.uk/"
+}

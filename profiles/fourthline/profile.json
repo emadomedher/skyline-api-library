@@ -1,0 +1,14 @@
+{
+  "id": "fourthline",
+  "title": "Fourthline",
+  "subtitle": "Best-in-class fraud detection at industry-leading conversion and compliance levels. For banks and leading fintechs. K...",
+  "tags": [
+    "kyc",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573957889/catalog/fourthline/icon128x128.png",
+  "website": "https://www.fourthline.com/"
+}

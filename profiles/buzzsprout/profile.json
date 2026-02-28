@@ -1,0 +1,13 @@
+{
+  "id": "buzzsprout",
+  "title": "Buzzsprout",
+  "subtitle": "Start podcasting today with free podcast hosting from Buzzsprout, the easiest podcasting software for hosting, promot...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825983/catalog/buzzsprout/icon128x128.png",
+  "website": "https://buzzsprout.com"
+}

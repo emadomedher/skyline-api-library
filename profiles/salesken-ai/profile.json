@@ -1,0 +1,13 @@
+{
+  "id": "salesken-ai",
+  "title": "Salesken",
+  "subtitle": "SalesKen helps you get play-by-play visibility into your sales rep's performance on calls so you can improve their cu...",
+  "tags": [
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648651274/icons/salesken-ai.jpg",
+  "website": "https://www.salesken.ai/"
+}

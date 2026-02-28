@@ -1,0 +1,15 @@
+{
+  "id": "graphcms",
+  "title": "GraphCMS",
+  "subtitle": "GraphCMS is the next generation GraphQL-Native Headless CMS. Create and access content on any platform. Start buildin...",
+  "tags": [
+    "cms-and-web-experience-management",
+    "headless-cms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653043678/icons/graphcms.jpg",
+  "website": "https://graphcms.com",
+  "docsUrl": "https://graphcms.com/docs"
+}

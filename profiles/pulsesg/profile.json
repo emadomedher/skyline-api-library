@@ -1,0 +1,13 @@
+{
+  "id": "pulsesg",
+  "title": "pulsESG",
+  "subtitle": "pulsESG API integration",
+  "tags": [
+    "esg"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904808/icons/pulsesg.png",
+  "website": "https://pulsesg.com/"
+}

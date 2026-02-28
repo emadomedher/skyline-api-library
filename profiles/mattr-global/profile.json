@@ -1,0 +1,14 @@
+{
+  "id": "mattr-global",
+  "title": "MATTR",
+  "subtitle": "We are creating a new type of freedom through digital trust and verifiable data, built for interoperability, security...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645157824/icons/mattr-global.jpg",
+  "website": "https://mattr.global/",
+  "docsUrl": "https://mattr.global/#"
+}

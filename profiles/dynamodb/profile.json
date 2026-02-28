@@ -1,0 +1,13 @@
+{
+  "id": "dynamodb",
+  "title": "Amazon DynamoDB",
+  "subtitle": "Amazon's DynamoDB is a fast NoSQL database service. It is fully managed, simple and cost-effective. It can store and ...",
+  "tags": [
+    "databases",
+    "amazon-web-services-(aws)"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055866/catalog/dynamodb/icon128x128.png"
+}

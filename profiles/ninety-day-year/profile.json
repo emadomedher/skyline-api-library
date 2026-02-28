@@ -1,0 +1,12 @@
+{
+  "id": "ninety-day-year",
+  "title": "The 90 Day Year",
+  "subtitle": "A simple and robust tool for 90 Day Year students to reach their goals, set their daily tasks and create powerful hab...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305529/catalog/ninety-day-year/icon128x128.png"
+}

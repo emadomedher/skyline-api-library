@@ -1,0 +1,15 @@
+{
+  "id": "plastiq",
+  "title": "Plastiq",
+  "subtitle": "Plastiq is bill payment with benefits. Use your favorite credit card to pay for virtually any expense. Free up cash f...",
+  "tags": [
+    "cash-flow-management",
+    "payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566455655/catalog/plastiq/icon128x128.jpg",
+  "website": "https://www.plastiq.com/"
+}

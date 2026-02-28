@@ -1,0 +1,13 @@
+{
+  "id": "mingdao",
+  "title": "Mingdao",
+  "subtitle": "Mingdao is the leading social collaboration suite for China market, covering messaging, social, task, calendar to fil...",
+  "tags": [
+    "team-chat",
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305448/catalog/mingdao/icon128x128.png"
+}

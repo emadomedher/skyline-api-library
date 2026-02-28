@@ -1,0 +1,13 @@
+{
+  "id": "inboundrocket",
+  "title": "InboundRocket",
+  "subtitle": "Learn how Inbound Marketing can help you get more traffic from the customer you want. With our Wordpress plugin we le...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826601/catalog/inboundrocket/icon128x128.png",
+  "website": "https://inboundrocket.co"
+}

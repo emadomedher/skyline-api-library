@@ -1,0 +1,13 @@
+{
+  "id": "expensya",
+  "title": "Expensya",
+  "subtitle": "De la dématérialisation des factures au remboursement, Expensya automatise chaque étape du processus de gestion des d...",
+  "tags": [
+    "spend-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627503899/icons/medius.jpg",
+  "website": "https://www.expensya.com/en/"
+}

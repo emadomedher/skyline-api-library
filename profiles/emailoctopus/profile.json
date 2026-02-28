@@ -1,0 +1,13 @@
+{
+  "id": "emailoctopus",
+  "title": "EmailOctopus",
+  "subtitle": "A cheaper way to send your email marketing campaigns, using Amazon SES.",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304850/catalog/emailoctopus/icon128x128.png",
+  "website": "https://emailoctopus.com"
+}

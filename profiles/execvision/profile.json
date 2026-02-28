@@ -1,0 +1,13 @@
+{
+  "id": "execvision",
+  "title": "ExecVision",
+  "subtitle": "See how our conversation intelligence platform provides insight into critical moments within your B2B & B2C conversat...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947035/catalog/execvision/icon128x128.jpg",
+  "website": "https://execvision.io"
+}

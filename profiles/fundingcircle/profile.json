@@ -1,0 +1,13 @@
+{
+  "id": "fundingcircle",
+  "title": "Funding Circle",
+  "subtitle": "Business loans funded by thousands of individual investors. Great investment opportunities for investors & fast busin...",
+  "tags": [
+    "business-lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604960407/icons/fundingcircle.jpg",
+  "website": "https://www.fundingcircle.com/"
+}

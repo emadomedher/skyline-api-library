@@ -1,0 +1,13 @@
+{
+  "id": "modus",
+  "title": "Modus",
+  "subtitle": "Modus is the foremost Enterprise Digital Sales Enablement software to empower sales success by creating, distributing...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826971/catalog/modus/icon128x128.jpg",
+  "website": "https://gomodus.com/"
+}

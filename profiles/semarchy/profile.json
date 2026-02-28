@@ -1,0 +1,13 @@
+{
+  "id": "semarchy",
+  "title": "Semarchy",
+  "subtitle": "Our xDM platform empowers organizations of any size to build trusted data applications quickly, with fast time to val...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946626/catalog/semarchy/icon128x128.png",
+  "website": "https://semarchy.com"
+}

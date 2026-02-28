@@ -1,0 +1,14 @@
+{
+  "id": "nextiva",
+  "title": "Nextiva",
+  "subtitle": "Nextiva is the #1 Rated Business Phone Software by U.S. News. Get VoIP, Video & Conferencing on iOS, Android or deskt...",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231790/icons/nextiva.jpg",
+  "website": "https://www.nextiva.com/",
+  "docsUrl": "https://go.nextiva.com/emailpreference/e/epc/64132/fbbce1sjk0tcrzyyhaiohx_uqvbblw2p_xmjumbdze0/697"
+}

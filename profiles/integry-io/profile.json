@@ -1,0 +1,14 @@
+{
+  "id": "integry-io",
+  "title": "Integry",
+  "subtitle": "Native, in-app integrations for your users. Choose from pre-made integrations to add inside your app. Users don't lea...",
+  "tags": [
+    "integration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580985280/catalog/integry-io/icon128x128.jpg",
+  "website": "https://integry.io/",
+  "docsUrl": "https://integry.io/#imp-category-6"
+}

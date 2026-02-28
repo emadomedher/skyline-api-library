@@ -1,0 +1,13 @@
+{
+  "id": "atomic-io",
+  "title": "Atomic",
+  "subtitle": "Built for enterprise – Atomic enables rapid, secure in-app customer engagement",
+  "tags": [
+    "customer-engagement"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661844589/icons/atomic-io.png",
+  "website": "https://www.atomic.io/"
+}

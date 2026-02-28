@@ -1,0 +1,15 @@
+{
+  "id": "pulumi",
+  "title": "Pulumi",
+  "subtitle": "Pulumi's open source infrastructure as code SDK enables you to create, deploy, and manage infrastructure on any cloud...",
+  "tags": [
+    "infrastructure-as-code",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600227761/icons/pulumi.png",
+  "website": "https://www.pulumi.com/",
+  "docsUrl": "https://www.pulumi.com/docs"
+}

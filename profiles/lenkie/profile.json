@@ -1,0 +1,13 @@
+{
+  "id": "lenkie",
+  "title": "Lenkie",
+  "subtitle": "Lenkie provides all the infrastructure required to enable platforms to become a source of funding and growth for thei...",
+  "tags": [
+    "embedded-lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660849066/icons/lenkie.png",
+  "website": "https://lenkie.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "phrasee-co",
+  "title": "Phrasee",
+  "subtitle": "Phrasee® is AI that specialises in language generation for marketing copy. We use artificial intelligence to generate...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587458220/catalog/phrasee-co/icon128x128.png",
+  "website": "https://phrasee.co/"
+}

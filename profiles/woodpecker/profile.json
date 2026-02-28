@@ -1,0 +1,13 @@
+{
+  "id": "woodpecker",
+  "title": "Woodpecker.co",
+  "subtitle": "Woodpecker.co helps B2B companies directly contact prospective clients by automated sending of personalized sales ema...",
+  "tags": [
+    "drip-emails"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306513/catalog/woodpecker/icon128x128.png",
+  "website": "https://woodpecker.co"
+}

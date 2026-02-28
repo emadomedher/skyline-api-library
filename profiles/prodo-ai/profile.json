@@ -1,0 +1,13 @@
+{
+  "id": "prodo-ai",
+  "title": "Prodo",
+  "subtitle": "Intelligent code generation for developer tools and low-code platforms",
+  "tags": [
+    "code-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580407143/catalog/prodo-ai/icon128x128.jpg",
+  "website": "https://prodo.ai"
+}

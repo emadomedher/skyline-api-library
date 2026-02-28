@@ -1,0 +1,13 @@
+{
+  "id": "orderyoyo",
+  "title": "OrderYOYO",
+  "subtitle": "Go beyond an Online Ordering System. At OrderYOYO, you get your own personalised website & app and marketing solution...",
+  "tags": [
+    "food-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637953/icons/orderyoyo.jpg",
+  "website": "https://www.orderyoyo.com/"
+}

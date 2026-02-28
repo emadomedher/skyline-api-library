@@ -1,0 +1,14 @@
+{
+  "id": "justcall",
+  "title": "JustCall",
+  "subtitle": "JustCall is a cloud based phone system for your remote sales and support teams. Integrates with HubSpot, Intercom, Pi...",
+  "tags": [
+    "call-analytics-and-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720630/catalog/justcall/icon128x128.jpg",
+  "website": "https://justcall.io",
+  "docsUrl": "https://justcall.io/developer-docs"
+}

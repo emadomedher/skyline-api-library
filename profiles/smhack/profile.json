@@ -1,0 +1,13 @@
+{
+  "id": "smhack",
+  "title": "SMhack",
+  "subtitle": "Come aboard the simplest social media management software. Monitor, Publish and Analyze all your social media posts f...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722149/catalog/smhack/icon128x128.jpg",
+  "website": "https://smhack.io"
+}

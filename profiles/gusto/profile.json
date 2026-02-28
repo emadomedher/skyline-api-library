@@ -1,0 +1,16 @@
+{
+  "id": "gusto",
+  "title": "Gusto",
+  "subtitle": "Gusto’s people platform helps businesses like yours onboard, pay, insure, and support your hardworking team. Payroll,...",
+  "tags": [
+    "hris",
+    "hr",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554403247/catalog/gusto/icon128x128.jpg",
+  "website": "https://gusto.com/",
+  "docsUrl": "https://docs.gusto.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "followanalytics",
+  "title": "FollowAnalytics",
+  "subtitle": "FollowAnalytics API integration",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389303/catalog/followanalytics/icon128x128.png",
+  "website": "https://followanalytics.com"
+}

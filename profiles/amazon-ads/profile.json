@@ -1,0 +1,13 @@
+{
+  "id": "amazon-ads",
+  "title": "Amazon Advertising",
+  "subtitle": "Ad solutions to find, attract, and engage customers throughout their journey.",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582121328/catalog/amazon-ads/icon128x128.jpg",
+  "website": "https://advertising.amazon.com/"
+}

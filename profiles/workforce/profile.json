@@ -1,0 +1,14 @@
+{
+  "id": "workforce",
+  "title": "Workforce",
+  "subtitle": "Workforce.com provides the best platform for scheduling, attendance and time management, labour compliance and more! ...",
+  "tags": [
+    "workforce-management",
+    "scheduling"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578240431/catalog/workforce/icon128x128.jpg",
+  "website": "https://www.workforce.com/"
+}

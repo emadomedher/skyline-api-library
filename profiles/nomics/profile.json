@@ -1,0 +1,15 @@
+{
+  "id": "nomics",
+  "title": "Nomics: Crypto Market Caps - Prices, All-Time Highs, Charts",
+  "subtitle": "Real-time crypto market cap rankings, historical prices, charts, all-time highs, supply data & more for top cryptocur...",
+  "tags": [
+    "crypto-data",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573957574/catalog/nomics/icon128x128.jpg",
+  "website": "https://nomics.com/",
+  "docsUrl": "https://docs.nomics.com"
+}

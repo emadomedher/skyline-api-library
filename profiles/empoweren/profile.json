@@ -1,0 +1,13 @@
+{
+  "id": "empoweren",
+  "title": "Empoweren",
+  "subtitle": "Learn about Empoweren, the \"Build It With Help\" website content management platform.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434384/catalog/empoweren/icon128x128.png",
+  "website": "https://empoweren.com"
+}

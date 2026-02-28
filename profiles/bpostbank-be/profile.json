@@ -1,0 +1,13 @@
+{
+  "id": "bpostbank-be",
+  "title": "bpost bank",
+  "subtitle": "Bij bpost bank vindt u alle info over zicht - en spaarrekeningen, leningen, hypotheek, verzekeringen en beleggen. We ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563414790/catalog/bpostbank-be/icon128x128.png",
+  "website": "https://bpostbank.be"
+}

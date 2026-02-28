@@ -1,0 +1,15 @@
+{
+  "id": "cnvrg-io",
+  "title": "cnvrg.io",
+  "subtitle": "Accelerate time from research to production with an all-in-one ML platform, optimized for production.",
+  "tags": [
+    "machine-learning",
+    "data-science"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585768077/catalog/cnvrg-io/icon128x128.jpg",
+  "website": "https://cnvrg.io/",
+  "docsUrl": "https://cnvrg.io/solutions/software-developers"
+}

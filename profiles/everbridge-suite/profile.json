@@ -1,0 +1,12 @@
+{
+  "id": "everbridge-suite",
+  "title": "Everbridge Suite",
+  "subtitle": "When every second counts, Everbridge connects the right people, devices and the Internet of Things (IoT), whether aro...",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304877/catalog/everbridge-suite/icon128x128.png"
+}

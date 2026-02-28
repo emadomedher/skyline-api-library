@@ -1,0 +1,13 @@
+{
+  "id": "google-cloud-storage",
+  "title": "Google Cloud Storage",
+  "subtitle": "Cloud Storage provides worldwide, highly durable object storage for developers and enterprises.",
+  "tags": [
+    "storage"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1689014129/icons/google-cloud-storage.png",
+  "website": "https://cloud.google.com/storage/"
+}

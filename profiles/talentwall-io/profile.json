@@ -1,0 +1,14 @@
+{
+  "id": "talentwall-io",
+  "title": "TalentWall",
+  "subtitle": "TalentWall API integration",
+  "tags": [
+    "ats",
+    "candidate-relationship-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231774/icons/talentwall-io.jpg",
+  "website": "https://talentwall.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "acebot-ai",
+  "title": "AceBot",
+  "subtitle": "AceBot is an AI based conversational survey tool that helps you create engaging surveys and receive higher response r...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578001538/catalog/acebot-ai/icon128x128.png",
+  "website": "https://acebot.ai/"
+}

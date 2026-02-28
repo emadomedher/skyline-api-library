@@ -1,0 +1,14 @@
+{
+  "id": "joinforma",
+  "title": "Forma",
+  "subtitle": "Forma’s flexible benefits software helps companies offer competitive benefits packages while reducing costs. Select f...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686735638/icons/joinforma.jpg",
+  "website": "https://www.joinforma.com/",
+  "docsUrl": "https://www.joinforma.com/legal/documentation"
+}

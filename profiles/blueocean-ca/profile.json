@@ -1,0 +1,14 @@
+{
+  "id": "blueocean-ca",
+  "title": "Blue Ocean",
+  "subtitle": "Blue Ocean provides customer care and contact center outsourcing in mission critical customer support scenarios for i...",
+  "tags": [
+    "contact-center-outsourcing",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603252937/icons/blueocean-ca.png",
+  "website": "https://blueocean.ca/"
+}

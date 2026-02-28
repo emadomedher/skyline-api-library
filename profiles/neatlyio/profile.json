@@ -1,0 +1,13 @@
+{
+  "id": "neatlyio",
+  "title": "Neatly.io",
+  "subtitle": "Tips and Tricks to grow your online business from leading experts, from startups to multi million businesses, sign up...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721219/catalog/neatlyio/icon128x128.jpg",
+  "website": "https://neatly.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vivafirst",
+  "title": "Viva First",
+  "subtitle": "Viva First is the first free mobile bank and Visa® debit card designed with the Latino community in mind. Join the mo...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602556883/icons/vivafirst.jpg",
+  "website": "https://www.vivafirst.com/"
+}

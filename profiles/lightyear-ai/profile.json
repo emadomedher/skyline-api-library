@@ -1,0 +1,15 @@
+{
+  "id": "lightyear-ai",
+  "title": "Lightyear",
+  "subtitle": "Find, compare, and purchase business IT infrastructure (internet, voice, managed wi-fi, etc.) completely online. Stop...",
+  "tags": [
+    "networking-infrastructure-procurement",
+    "procurement",
+    "telecom-expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015083/icons/lightyear-ai.jpg",
+  "website": "https://lightyear.ai/"
+}

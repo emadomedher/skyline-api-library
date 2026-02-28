@@ -1,0 +1,14 @@
+{
+  "id": "dokku",
+  "title": "Dokku",
+  "subtitle": "Dokku API integration",
+  "tags": [
+    "paas"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625066648/icons/dokku.jpg",
+  "website": "https://dokku.com/",
+  "docsUrl": "https://dokku.com/docs/getting-started/installation"
+}

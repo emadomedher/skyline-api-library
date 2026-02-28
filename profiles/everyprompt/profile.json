@@ -1,0 +1,13 @@
+{
+  "id": "everyprompt",
+  "title": "Everyprompt",
+  "subtitle": "Everyprompt is a playground for GPT-3. It's a place to explore and play with the newest language models. It's a place...",
+  "tags": [
+    "prompt-engineering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672744386/icons/everyprompt.jpg",
+  "website": "https://www.everyprompt.com/"
+}

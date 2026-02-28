@@ -1,0 +1,13 @@
+{
+  "id": "livestream-llc",
+  "title": "Livestream LLC",
+  "subtitle": "Livestream LLC API integration",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946854/catalog/livestream-llc/icon128x128.jpg",
+  "website": "https://livestream.com"
+}

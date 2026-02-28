@@ -1,0 +1,14 @@
+{
+  "id": "vuestorefront-io",
+  "title": "Vue Storefront",
+  "subtitle": "Vue Storefront provides shopping experiences like native apps, boosts site performance, and customization. See, what ...",
+  "tags": [
+    "headless-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634146806/icons/vuestorefront-io.jpg",
+  "website": "https://www.vuestorefront.io/",
+  "docsUrl": "https://www.vuestorefront.io/developers"
+}

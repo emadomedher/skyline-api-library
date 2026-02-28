@@ -1,0 +1,14 @@
+{
+  "id": "whiplash",
+  "title": "Whiplash",
+  "subtitle": "Whiplash ecommerce fulfillment connects seamlessly with your ecommerce platform. Turn orders into shipped packages wi...",
+  "tags": [
+    "ecommerce-fulfillment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632178750/icons/whiplash.png",
+  "website": "https://whiplash.com/",
+  "docsUrl": "https://help.whiplash.com/hc/en-us/categories/360004947551-developers"
+}

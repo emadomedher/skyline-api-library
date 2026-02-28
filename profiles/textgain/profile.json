@@ -1,0 +1,14 @@
+{
+  "id": "textgain",
+  "title": "Textgain",
+  "subtitle": "Real-time Text Analytics Gain a unique advantage with our Natural Language Processing tools for GDPR-compliant user p...",
+  "tags": [
+    "text-analytics",
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611426900/icons/textgain.jpg",
+  "website": "https://www.textgain.com/"
+}

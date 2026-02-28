@@ -1,0 +1,14 @@
+{
+  "id": "aha",
+  "title": "Aha!",
+  "subtitle": "Aha! is the world's #1 product development software. More than 700,000 product builders trust us to build lovable pro...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304383/catalog/aha/icon128x128.png",
+  "website": "https://www.aha.io/",
+  "docsUrl": "https://www.aha.io/api"
+}

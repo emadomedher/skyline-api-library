@@ -1,0 +1,14 @@
+{
+  "id": "dz-bank",
+  "title": "DZ Bank",
+  "subtitle": "DZ Bank AG is the second largest bank in Germany by asset size and the central institution for more than 900 cooperat...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569631997/catalog/dz-bank/icon128x128.jpg",
+  "website": "https://www.dzbank.com/",
+  "docsUrl": "https://www.dzbank.de/content/dzbank_de/de/home/unsere_kunden/firmenkunden/produkte_und_leistungen/transaction_banking/konto/psd2-schnittstelle.html"
+}

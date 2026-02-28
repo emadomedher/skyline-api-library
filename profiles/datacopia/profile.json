@@ -1,0 +1,13 @@
+{
+  "id": "datacopia",
+  "title": "DataCopia",
+  "subtitle": "Datacopia - Data Visualization Reimagined.  Create beautiful charts and graphs online instantly by simply pasting in ...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964095/catalog/datacopia/icon128x128.png",
+  "website": "https://datacopia.com"
+}

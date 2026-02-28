@@ -1,0 +1,13 @@
+{
+  "id": "teza-ai",
+  "title": "teza.ai",
+  "subtitle": "People search, reimagined",
+  "tags": [
+    "prospect-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622486077/icons/teza-ai.jpg",
+  "website": "https://teza.ai/"
+}

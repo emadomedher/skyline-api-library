@@ -1,0 +1,13 @@
+{
+  "id": "glofox",
+  "title": "Glofox",
+  "subtitle": "Glofox’s gym management software is the all-in-one solution powering fitness business globally, from studios to globa...",
+  "tags": [
+    "gym-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623277736/icons/glofox.jpg",
+  "website": "https://www.glofox.com/"
+}

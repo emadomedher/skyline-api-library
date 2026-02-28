@@ -1,0 +1,15 @@
+{
+  "id": "placements-io",
+  "title": "Placements.io",
+  "subtitle": "Request a demo. Learn about our revenue & billing management platform, DSM migration, push to ad server, forecasting,...",
+  "tags": [
+    "adtech",
+    "revenue-management",
+    "bidding-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581440202/catalog/placements-io/icon128x128.jpg",
+  "website": "https://placements.io/"
+}

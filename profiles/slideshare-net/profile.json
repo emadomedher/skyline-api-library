@@ -1,0 +1,14 @@
+{
+  "id": "slideshare-net",
+  "title": "LinkedIn SlideShare",
+  "subtitle": "Discover, Share, and Present presentations and infographics with the world’s largest professional content sharing com...",
+  "tags": [
+    "presentations"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075869/icons/slideshare-net.png",
+  "website": "https://www.slideshare.net/",
+  "docsUrl": "https://www.slideshare.net/developers"
+}

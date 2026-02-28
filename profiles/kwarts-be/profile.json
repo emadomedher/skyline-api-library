@@ -1,0 +1,14 @@
+{
+  "id": "kwarts-be",
+  "title": "KWARTS",
+  "subtitle": "Empower your commercial and medical teams to better respond to customer needs. A-Inside brings actionable insights in...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915288/icons/kwarts-be.jpg",
+  "website": "https://www.kwarts.be/",
+  "docsUrl": "https://www.kwarts.be/#"
+}

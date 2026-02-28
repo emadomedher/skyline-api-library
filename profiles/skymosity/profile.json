@@ -1,0 +1,13 @@
+{
+  "id": "skymosity",
+  "title": "Skymosity",
+  "subtitle": "Skymosity API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389966/catalog/skymosity/icon128x128.png",
+  "website": "https://skymosity.com"
+}

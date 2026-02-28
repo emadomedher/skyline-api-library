@@ -1,0 +1,13 @@
+{
+  "id": "roi-influencer-media",
+  "title": "ROI Influencer Media",
+  "subtitle": "The most influential people on the most influential platforms. Hollywood Celebrities, Bloggers, Vloggers and Social M...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437027/catalog/roi-influencer-media/icon128x128.png",
+  "website": "https://roiinfluencer.com"
+}

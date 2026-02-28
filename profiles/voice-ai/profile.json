@@ -1,0 +1,14 @@
+{
+  "id": "voice-ai",
+  "title": "voice.ai",
+  "subtitle": "Download our A.I driven Voice Changer Software to use with Phone Calls, Video or Streaming.  Voice filter Synthesizes...",
+  "tags": [
+    "voice-cloning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675113424/icons/voice-ai.jpg",
+  "website": "https://voice.ai/",
+  "docsUrl": "https://voice.ai/contact"
+}

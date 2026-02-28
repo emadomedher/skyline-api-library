@@ -1,0 +1,13 @@
+{
+  "id": "odinanswers",
+  "title": "OdinAnswers",
+  "subtitle": "OdinAnswers API integration",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396559/icons/odinanswers.png",
+  "website": "https://odinanswers.com/"
+}

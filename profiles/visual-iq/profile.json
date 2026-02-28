@@ -1,0 +1,13 @@
+{
+  "id": "visual-iq",
+  "title": "Visual IQ",
+  "subtitle": "We combine the power of diverse analytic approaches so you have access to the right insights, at exactly the right ti...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722772/catalog/visual-iq/icon128x128.jpg",
+  "website": "https://visualiq.com"
+}

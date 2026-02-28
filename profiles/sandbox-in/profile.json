@@ -1,0 +1,14 @@
+{
+  "id": "sandbox-in",
+  "title": "Sandbox",
+  "subtitle": "Explore a wide range Tax Compliance APIs built for India. Enable income tax filing, GST registration & return filing,...",
+  "tags": [
+    "tax-compliance-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656799/icons/sandbox-in.jpg",
+  "website": "https://sandbox.co.in/",
+  "docsUrl": "https://developer.sandbox.co.in/docs/income-tax-business-api"
+}

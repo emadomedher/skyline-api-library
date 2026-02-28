@@ -1,0 +1,13 @@
+{
+  "id": "mocky-io",
+  "title": "Mocky",
+  "subtitle": "Don't wait for the backend to be ready, generate custom API responses with Mocky and start working on your applicatio...",
+  "tags": [
+    "api-mocking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661205857/icons/mocky-io.png",
+  "website": "https://designer.mocky.io/"
+}

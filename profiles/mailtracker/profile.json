@@ -1,0 +1,13 @@
+{
+  "id": "mailtracker",
+  "title": "MailTracker",
+  "subtitle": "MailTracker API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963632/catalog/mailtracker/icon128x128.png",
+  "website": "https://mailtrackerapp.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pagofx",
+  "title": "PagoFX",
+  "subtitle": "We’re taking the stress out of sending money abroad. Secure. Low cost. Dedicated support. Send money abroad with conf...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583189300/catalog/pagofx/icon128x128.png",
+  "website": "https://pagofx.com/"
+}

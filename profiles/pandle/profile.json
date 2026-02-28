@@ -1,0 +1,14 @@
+{
+  "id": "pandle",
+  "title": "Pandle",
+  "subtitle": "Pandle is a free cloud accounting software made with real people in mind. Pandle makes it easy for any small business...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602351250/icons/pandle.jpg",
+  "website": "https://www.pandle.com/",
+  "docsUrl": "https://my.pandle.co.uk/api/docs"
+}

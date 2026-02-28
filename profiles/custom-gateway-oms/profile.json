@@ -1,0 +1,12 @@
+{
+  "id": "custom-gateway-oms",
+  "title": "Custom Gateway OMS",
+  "subtitle": "Custom Gateway is a system for creating artwork and managing / distributing orders for personalized and print on dema...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304716/catalog/custom-gateway-oms/icon128x128.png"
+}

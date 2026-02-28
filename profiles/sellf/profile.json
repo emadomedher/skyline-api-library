@@ -1,0 +1,13 @@
+{
+  "id": "sellf",
+  "title": "Sellf",
+  "subtitle": "Sellf is the Runkeeper for sales, a CRM software for deal makers. Manage prospects, customers and deals, organize you...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306002/catalog/sellf/icon128x128.png",
+  "website": "https://sellfapp.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "podbean",
+  "title": "Podbean",
+  "subtitle": "Starting a podcast exactly the way you want. With Podbean, you get the whole package - reliable podcast hosting, unli...",
+  "tags": [
+    "podcast-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614642925/icons/podbean.jpg",
+  "website": "https://www.podbean.com/",
+  "docsUrl": "https://developers.podbean.com"
+}

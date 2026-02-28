@@ -1,0 +1,14 @@
+{
+  "id": "sendbird",
+  "title": "Sendbird",
+  "subtitle": "SendBird is a Messaging SDK, Chat API, and fully managed chat infrastructure for your mobile apps and websites. Embed...",
+  "tags": [
+    "chat-and-messaging-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559190212/catalog/sendbird/icon128x128.jpg",
+  "website": "https://sendbird.com",
+  "docsUrl": "https://sendbird.com/developer"
+}

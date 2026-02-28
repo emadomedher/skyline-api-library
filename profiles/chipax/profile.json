@@ -1,0 +1,14 @@
+{
+  "id": "chipax",
+  "title": "Chipax",
+  "subtitle": "Chipax es un software de finanzas que integra bancos y SII para que controles tu negocio, puedas conciliar, cobrar y ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885674/icons/chipax.jpg",
+  "website": "https://www.chipax.com/",
+  "docsUrl": "https://documenter.getpostman.com/view/2348061/szfdx5bs?version=latest#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rebrandly",
+  "title": "Rebrandly",
+  "subtitle": "Rebrandly is the easiest way to create and share branded links (short URLs using your own domain name).",
+  "tags": [
+    "social-media-management",
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305828/catalog/rebrandly/icon128x128.png",
+  "website": "https://rebrandly.com"
+}

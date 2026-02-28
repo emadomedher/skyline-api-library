@@ -1,0 +1,13 @@
+{
+  "id": "absentiemanager",
+  "title": "Absentiemanager",
+  "subtitle": "Absentiemanager - De online totaaloplossing voor verzuimbeheer in uw organisatie",
+  "tags": [
+    "verzuim"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256878/catalog/absentiemanager/icon128x128.jpg",
+  "website": "https://absentiemanager.nl/"
+}

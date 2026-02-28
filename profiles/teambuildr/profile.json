@@ -1,0 +1,13 @@
+{
+  "id": "teambuildr",
+  "title": "TeamBuildr",
+  "subtitle": "Top strength and conditioning software for teams, gyms, facilities and strength coaches in any setting.",
+  "tags": [
+    "sportstech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574083994/catalog/teambuildr/icon128x128.jpg",
+  "website": "https://www.teambuildr.com/"
+}

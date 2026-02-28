@@ -1,0 +1,13 @@
+{
+  "id": "aptible",
+  "title": "Aptible",
+  "subtitle": "Aptible is the leading security management platform for small companies. Grow by meeting security requirements for SO...",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574193800/catalog/aptible/icon128x128.png",
+  "website": "https://www.aptible.com/"
+}

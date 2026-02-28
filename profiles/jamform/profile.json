@@ -1,0 +1,15 @@
+{
+  "id": "jamform",
+  "title": "Jamform",
+  "subtitle": "Jamform is a form backend service designed for JAMstack applications. No server or database needed. Setup your form i...",
+  "tags": [
+    "forms",
+    "serverless"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612234909/icons/jamform.jpg",
+  "website": "https://jamform.com/",
+  "docsUrl": "https://jamform.com/docs"
+}

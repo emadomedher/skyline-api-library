@@ -1,0 +1,15 @@
+{
+  "id": "flespi",
+  "title": "flespi",
+  "subtitle": "IoT and Telematics backend platform for fleet management, micromobility, asset tracking, GPS monitoring, and other lo...",
+  "tags": [
+    "iot",
+    "telematics"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619169/icons/flespi.jpg",
+  "website": "https://flespi.com/",
+  "docsUrl": "https://flespi.io/docs/#"
+}

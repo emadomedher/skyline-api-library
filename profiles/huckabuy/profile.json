@@ -1,0 +1,13 @@
+{
+  "id": "huckabuy",
+  "title": "Huckabuy",
+  "subtitle": "Huckabuy is changing SEO with software products that are fully aligned with key Google initiatives – now and in the f...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589447837/catalog/huckabuy/icon128x128.png",
+  "website": "https://huckabuy.com/"
+}

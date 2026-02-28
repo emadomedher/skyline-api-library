@@ -1,0 +1,14 @@
+{
+  "id": "cognite",
+  "title": "Cognite",
+  "subtitle": "We believe success knows no silos. Cognite breaks your data free from disparate systems, so you can harness its power...",
+  "tags": [
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623808072/icons/cognite.jpg",
+  "website": "https://www.cognite.com/",
+  "docsUrl": "https://docs.cognite.com"
+}

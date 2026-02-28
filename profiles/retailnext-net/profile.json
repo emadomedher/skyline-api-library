@@ -1,0 +1,14 @@
+{
+  "id": "retailnext-net",
+  "title": "RetailNext",
+  "subtitle": "Analyzing more than 800 million shoppers a month across dozens of retail chains, RetailNext is the leading provider o...",
+  "tags": [
+    "iot",
+    "retail"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582062004/catalog/retailnext-net/icon128x128.png",
+  "website": "https://retailnext.net/"
+}

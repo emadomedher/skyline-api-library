@@ -1,0 +1,13 @@
+{
+  "id": "prmdeals",
+  "title": "Prmdeals",
+  "subtitle": "Prmdeals API integration",
+  "tags": [
+    "channel-partner-&-local-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436615/catalog/prmdeals/icon128x128.png",
+  "website": "https://prmdeals.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "cocapina",
+  "title": "Cocapina",
+  "subtitle": "Cocapina is an easy web tool for collecting and sharing information, in a conversational way.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284481/catalog/cocapina/icon128x128.png"
+}

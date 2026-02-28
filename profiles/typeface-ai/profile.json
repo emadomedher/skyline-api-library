@@ -1,0 +1,13 @@
+{
+  "id": "typeface-ai",
+  "title": "Typeface",
+  "subtitle": "Typeface, the generative AI application for enterprise content creation, empowers all businesses to create exceptiona...",
+  "tags": [
+    "generative-ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678020046/icons/typeface-ai.png",
+  "website": "https://www.typeface.ai/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sonovate",
+  "title": "Sonovate",
+  "subtitle": "Invoice finance and back office for contract recruitment agencies and consultancies. Market leading 100% funding. Onl...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592429370/icons/sonovate.jpg",
+  "website": "https://www.sonovate.com/",
+  "docsUrl": "https://www.sonovate.com/developer-api"
+}

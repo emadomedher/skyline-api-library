@@ -1,0 +1,13 @@
+{
+  "id": "engagedly",
+  "title": "Engagedly",
+  "subtitle": "Engagedly is a performance review software that incorporates elements of employee engagement. It is simple yet flexib...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947079/catalog/engagedly/icon128x128.jpg",
+  "website": "https://engagedly.com"
+}

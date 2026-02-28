@@ -1,0 +1,14 @@
+{
+  "id": "jibble-io",
+  "title": "Jibble",
+  "subtitle": "Time tracking software. Free forever for unlimited users. Dead easy-to-use, loved by the world's best companies to tr...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414400/icons/jibble-io.png",
+  "website": "https://www.jibble.io/",
+  "docsUrl": "https://docs.api.jibble.io"
+}

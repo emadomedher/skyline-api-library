@@ -1,0 +1,13 @@
+{
+  "id": "yogosha",
+  "title": "Yogosha",
+  "subtitle": "Yogosha is the first private Bug Bounty platform in Europe, helping organizations to detect and fix vulnerabilities b...",
+  "tags": [
+    "bug-bounty-programs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556139/icons/yogosha.png",
+  "website": "https://yogosha.com/"
+}

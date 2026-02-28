@@ -1,0 +1,14 @@
+{
+  "id": "workvivo",
+  "title": "Workvivo",
+  "subtitle": "Workvivo's employee app provides a social experience that creates a true sense of community, culture alignment and em...",
+  "tags": [
+    "employee-communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605455844/icons/workvivo.png",
+  "website": "https://www.workvivo.com/",
+  "docsUrl": "https://www.workvivo.com/#"
+}

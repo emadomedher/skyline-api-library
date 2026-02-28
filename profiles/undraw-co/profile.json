@@ -1,0 +1,14 @@
+{
+  "id": "undraw-co",
+  "title": "unDraw",
+  "subtitle": "The design project with open-source illustrations for any idea you can imagine and create. Create beautiful websites,...",
+  "tags": [
+    "stock-illustrations",
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594981064/icons/undraw-co.jpg",
+  "website": "https://undraw.co/"
+}

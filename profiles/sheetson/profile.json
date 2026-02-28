@@ -1,0 +1,14 @@
+{
+  "id": "sheetson",
+  "title": "Sheetson",
+  "subtitle": "Sheetson API integration",
+  "tags": [
+    "spreadsheets",
+    "api"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982420/catalog/sheetson/icon128x128.png",
+  "website": "https://sheetson.com/"
+}

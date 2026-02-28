@@ -1,0 +1,15 @@
+{
+  "id": "bigeye",
+  "title": "Bigeye",
+  "subtitle": "Bigeye API integration",
+  "tags": [
+    "data-quality",
+    "data-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618613025/icons/bigeye.jpg",
+  "website": "https://www.bigeye.com/",
+  "docsUrl": "https://docs.bigeye.com"
+}

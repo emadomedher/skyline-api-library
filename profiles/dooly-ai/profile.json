@@ -1,0 +1,14 @@
+{
+  "id": "dooly-ai",
+  "title": "Dooly",
+  "subtitle": "Close deals effortlessly with notes that update Salesforce for you.",
+  "tags": [
+    "sales-productivity",
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574204047/catalog/dooly-ai/icon128x128.png",
+  "website": "https://www.dooly.ai/"
+}

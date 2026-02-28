@@ -1,0 +1,13 @@
+{
+  "id": "revetize",
+  "title": "Revetize",
+  "subtitle": "Revetize allows you to quickly gather customer reviews, referrals, new leads, and feedback through its seamless invit...",
+  "tags": [
+    "referral"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414364/icons/revetize.jpg",
+  "website": "https://revetize.com/"
+}

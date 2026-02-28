@@ -1,0 +1,15 @@
+{
+  "id": "manpowergroup-talent-solutions",
+  "title": "ManpowerGroup Talent Solutions",
+  "subtitle": "As technological disruption and growing talent shortages increase the complexity of workforce needs, organizations mu...",
+  "tags": [
+    "hr",
+    "recruitment",
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600433053/icons/manpowergroup-talent-solutions.jpg",
+  "website": "https://talentsolutions.manpowergroup.com/"
+}

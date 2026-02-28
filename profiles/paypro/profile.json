@@ -1,0 +1,13 @@
+{
+  "id": "paypro",
+  "title": "PayPro",
+  "subtitle": "PayPro is a payment service provider combined with affiliate marketing services. We make it as easy as possible to se...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305650/catalog/paypro/icon128x128.png",
+  "website": "https://home.payproapp.com"
+}

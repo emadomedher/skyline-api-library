@@ -1,0 +1,15 @@
+{
+  "id": "criteriacorp",
+  "title": "Criteria",
+  "subtitle": "Criteria Corp is a leading provider of professionally developed pre-employment tests, including aptitude, personality...",
+  "tags": [
+    "employee-assessment",
+    "employee-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592559701/icons/criteriacorp.jpg",
+  "website": "https://www.criteriacorp.com/",
+  "docsUrl": "https://www.criteriacorp.com/resources/whitepapers_and_documentation.php"
+}

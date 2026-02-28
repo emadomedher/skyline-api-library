@@ -1,0 +1,13 @@
+{
+  "id": "icloud-calendar",
+  "title": "iCloud Calendar",
+  "subtitle": "iCloud Calendar API integration",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588083024/catalog/icloud-calendar/icon128x128.png",
+  "website": "https://www.icloud.com/calendar"
+}

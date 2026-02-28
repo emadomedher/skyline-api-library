@@ -1,0 +1,13 @@
+{
+  "id": "officexlr",
+  "title": "Officexlr",
+  "subtitle": "Officexlr is a low-code platform for building internal business tools. Customize your workflow and collaborate. Build...",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613706198/icons/officexlr.jpg",
+  "website": "https://www.officexlr.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "docdroid",
+  "title": "DocDroid",
+  "subtitle": "DocDroid is a document sharing platform. Distribute your PDFs, DOCs and presentations easily using a public URL.",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284496/catalog/docdroid/icon128x128.png"
+}

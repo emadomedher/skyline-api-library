@@ -1,0 +1,12 @@
+{
+  "id": "assessment-generator",
+  "title": "Assessment Generator",
+  "subtitle": "Easily create assessments, questionnaires, and quizzes that you can add to any website to engage users.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304432/catalog/assessment-generator/icon128x128.png"
+}

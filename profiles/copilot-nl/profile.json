@@ -1,0 +1,13 @@
+{
+  "id": "copilot-nl",
+  "title": "CoPilot",
+  "subtitle": "Maak je salaris- en personeelsadministratie zo simpel, dat je er geen omkijken meer naar hebt.",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215723/icons/copilot-nl.png",
+  "website": "https://www.copilot.nl/"
+}

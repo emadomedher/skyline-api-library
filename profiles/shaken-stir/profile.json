@@ -1,0 +1,14 @@
+{
+  "id": "shaken-stir",
+  "title": "SHAKEN/STIR",
+  "subtitle": "STIR/SHAKEN, or SHAKEN/STIR, is a suite of protocols and procedures intended to combat caller ID spoofing on public t...",
+  "tags": [
+    "compliance",
+    "regulations"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630990203/icons/shaken-stir.png",
+  "website": "https://en.wikipedia.org/wiki/STIR/SHAKEN"
+}

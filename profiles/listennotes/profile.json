@@ -1,0 +1,15 @@
+{
+  "id": "listennotes",
+  "title": "Listen Notes",
+  "subtitle": "The most comprehensive podcast database online. Discover best podcasts. Search podcast show notes and audio transcrip...",
+  "tags": [
+    "podcast-apis",
+    "podcast-search-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653022198/icons/listennotes.jpg",
+  "website": "https://www.listennotes.com/",
+  "docsUrl": "https://www.listennotes.com/api/docs/?s=modal"
+}

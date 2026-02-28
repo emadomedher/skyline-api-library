@@ -1,0 +1,15 @@
+{
+  "id": "calendly",
+  "title": "Calendly",
+  "subtitle": "Find the perfect meeting time with super easy online appointment scheduling software from Calendly, and say goodbye t...",
+  "tags": [
+    "scheduling",
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456082/catalog/calendly/icon128x128.png",
+  "website": "https://calendly.com/",
+  "docsUrl": "https://developer.calendly.com/"
+}

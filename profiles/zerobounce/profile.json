@@ -1,0 +1,14 @@
+{
+  "id": "zerobounce",
+  "title": "ZeroBounce",
+  "subtitle": "ZeroBounce is an email validation service. By removing bounces and spam traps, we help businesses across the globe re...",
+  "tags": [
+    "email-validation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554327576/catalog/zerobounce/icon128x128.jpg",
+  "website": "https://www.zerobounce.net/",
+  "docsUrl": "https://www.zerobounce.net/docs/#version-2-v2"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "reply-ai",
+  "title": "Reply.ai",
+  "subtitle": "Scale your customer service and deliver great customer experiences using AI chatbots and intelligent self-service tha...",
+  "tags": [
+    "customer-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589508670/catalog/reply-ai/icon128x128.jpg",
+  "website": "https://www.reply.ai/"
+}

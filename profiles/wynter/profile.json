@@ -1,0 +1,14 @@
+{
+  "id": "wynter",
+  "title": "Wynter",
+  "subtitle": "Speed up your feedback loops. Intel from the people you're marketing to. Learn what they want, how they want it, and ...",
+  "tags": [
+    "user-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668171276/icons/wynter.jpg",
+  "website": "https://wynter.com/",
+  "docsUrl": "https://docs.mongodb.com/manual/tutorial/configure-ssl/#certificate-authorities"
+}

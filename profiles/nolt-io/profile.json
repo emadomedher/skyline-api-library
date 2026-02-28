@@ -1,0 +1,13 @@
+{
+  "id": "nolt-io",
+  "title": "Nolt",
+  "subtitle": "Collect feedback in a central place that your users will love. Prioritize feedback, create a roadmap with just a few ...",
+  "tags": [
+    "product-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441090/catalog/nolt-io/icon128x128.jpg",
+  "website": "https://nolt.io/"
+}

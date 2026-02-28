@@ -1,0 +1,14 @@
+{
+  "id": "adapt-io",
+  "title": "Adapt.io",
+  "subtitle": "Adapt.io, a sales acceleration software platform that provides B2B contact database for Sales and Marketing to run ou...",
+  "tags": [
+    "sales-prospection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634146850/icons/adapt-io.png",
+  "website": "https://www.adapt.io/",
+  "docsUrl": "https://www.adapt.io/api-documentation.htm"
+}

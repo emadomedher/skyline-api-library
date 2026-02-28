@@ -1,0 +1,13 @@
+{
+  "id": "ansy",
+  "title": "Ansy",
+  "subtitle": "Automate your community FAQs in under 5 mins! GPT-3 powered Discord bot that answers questions from your Discord comm...",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672782361/icons/ansy.png",
+  "website": "https://ansy.ai/"
+}

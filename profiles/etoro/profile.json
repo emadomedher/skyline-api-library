@@ -1,0 +1,14 @@
+{
+  "id": "etoro",
+  "title": "eToro",
+  "subtitle": "Trade and invest in cryptocurrencies, stocks, ETFs, currencies, indices and commodities or copy leading investors on ...",
+  "tags": [
+    "trading",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582263806/catalog/etoro/icon128x128.png",
+  "website": "https://www.etoro.com/"
+}

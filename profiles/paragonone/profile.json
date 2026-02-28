@@ -1,0 +1,13 @@
+{
+  "id": "paragonone",
+  "title": "Paragon One",
+  "subtitle": "Paragon One API integration",
+  "tags": [
+    "remote-internships"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615487641/icons/paragonone.jpg",
+  "website": "https://www.paragonone.com/"
+}

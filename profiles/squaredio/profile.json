@@ -1,0 +1,13 @@
+{
+  "id": "squaredio",
+  "title": "Squared.io",
+  "subtitle": "Squared.io API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962226/catalog/squaredio/icon128x128.png",
+  "website": "https://squared.io"
+}

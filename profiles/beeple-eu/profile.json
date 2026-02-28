@@ -1,0 +1,15 @@
+{
+  "id": "beeple-eu",
+  "title": "Beeple",
+  "subtitle": "Save 66% of your time by using Beeple, a flexible planning tool. No paperwork needed. Make staff management and plann...",
+  "tags": [
+    "employee-scheduling",
+    "flex-workers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600433064/icons/beeple-eu.jpg",
+  "website": "https://www.beeple.eu/",
+  "docsUrl": "http://developers.beeple.eu"
+}

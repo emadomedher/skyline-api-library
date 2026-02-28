@@ -1,0 +1,15 @@
+{
+  "id": "phorum-org",
+  "title": "Phorum",
+  "subtitle": "Phorum is open source forum software with a penchant for speed.  Phorum's very flexible hook and module system can sa...",
+  "tags": [
+    "forum",
+    "php"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583849753/catalog/phorum-org/icon128x128.png",
+  "website": "https://www.phorum.org/",
+  "docsUrl": "https://www.phorum.org/docs/html"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fraudlabs-pro",
+  "title": "FraudLabs Pro",
+  "subtitle": "FraudLabs Pro helps merchants to protect their online stores from payment frauds.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304979/catalog/fraudlabs-pro/icon128x128.png"
+}

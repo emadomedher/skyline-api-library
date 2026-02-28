@@ -1,0 +1,14 @@
+{
+  "id": "arcsight",
+  "title": "ArcSight",
+  "subtitle": "Micro Focus Security ArcSight ESM is an enterprise security information and event management (SIEM) solution that use...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565163206/catalog/arcsight/icon128x128.jpg",
+  "website": "https://microfocus.com",
+  "docsUrl": "https://www.microfocus.com/en-us/support-and-services/documentation"
+}

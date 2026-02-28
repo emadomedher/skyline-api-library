@@ -1,0 +1,14 @@
+{
+  "id": "evernote",
+  "title": "Evernote",
+  "subtitle": "Our note taking app helps you capture and prioritize ideas, projects and to-do lists, so nothing falls through the cr...",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456036/catalog/evernote/icon128x128.png",
+  "website": "https://evernote.com/",
+  "docsUrl": "https://evernote.com/features/pdf-document-search"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "clickatell",
+  "title": "Clickatell",
+  "subtitle": "Send SMS messages (up to 765 characters) through your Clickatell account to alert mobile users on various triggers OR...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304628/catalog/clickatell/icon128x128.png",
+  "website": "https://clickatell.com"
+}

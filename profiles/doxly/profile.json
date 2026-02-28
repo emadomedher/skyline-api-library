@@ -1,0 +1,14 @@
+{
+  "id": "doxly",
+  "title": "Doxly",
+  "subtitle": "Doxly brings efficiency, transparency, and order to the legal transaction process. Legal transactions are complex and...",
+  "tags": [
+    "legal-transaction-management",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567369113/catalog/doxly/icon128x128.jpg",
+  "website": "https://doxly.com/"
+}

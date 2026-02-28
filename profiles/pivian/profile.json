@@ -1,0 +1,13 @@
+{
+  "id": "pivian",
+  "title": "Pivian",
+  "subtitle": "Pivian API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436474/catalog/pivian/icon128x128.png",
+  "website": "https://pivian.com"
+}

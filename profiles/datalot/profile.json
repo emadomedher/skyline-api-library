@@ -1,0 +1,14 @@
+{
+  "id": "datalot",
+  "title": "Datalot",
+  "subtitle": "Datalot API integration",
+  "tags": [
+    "insurtech",
+    "demand-generation"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630350459/icons/datalot.jpg",
+  "website": "https://www.datalot.com/"
+}

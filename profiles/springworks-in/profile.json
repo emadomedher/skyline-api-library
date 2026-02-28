@@ -1,0 +1,14 @@
+{
+  "id": "springworks-in",
+  "title": "Springworks",
+  "subtitle": "Springworks builds human resources software solutions to solve challenges in recruitment, background verification & e...",
+  "tags": [
+    "employee-engagement",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656792/icons/springworks-in.png",
+  "website": "https://www.springworks.in/"
+}

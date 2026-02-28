@@ -1,0 +1,14 @@
+{
+  "id": "lighton-ai",
+  "title": "LightOn",
+  "subtitle": "LightOn develops Large Language Models (VLM-4) and makes these NLP models available to all through the Muse API.",
+  "tags": [
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650143704/icons/lighton-ai.png",
+  "website": "https://lighton.ai/",
+  "docsUrl": "https://muse-docs.lighton.ai"
+}

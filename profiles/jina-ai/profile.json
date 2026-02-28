@@ -1,0 +1,14 @@
+{
+  "id": "jina-ai",
+  "title": "Jina AI",
+  "subtitle": "Open source neural search ecosystem for businesses and developers, allowing anyone to search any kind of data with hi...",
+  "tags": [
+    "search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624221136/icons/jina-ai.jpg",
+  "website": "https://jina.ai/",
+  "docsUrl": "https://docs1.jina.ai/chapters/install/os/on-wsl"
+}

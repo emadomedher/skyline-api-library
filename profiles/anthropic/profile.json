@@ -1,0 +1,15 @@
+{
+  "id": "anthropic",
+  "title": "Anthropic",
+  "subtitle": "Anthropic AI research company site",
+  "tags": [
+    "ai-research",
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622242230/icons/anthropic.jpg",
+  "website": "https://www.anthropic.com/",
+  "docsUrl": "https://arxiv.org/about/people/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "culinaro-pos",
+  "title": "Culinaro",
+  "subtitle": "Einfach gute Kasse machen – das gelingt jetzt ganz leicht! Mit CULINARO, dem ersten iPad® Kassensystem von CHEFS CULI...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751874/icons/culinaro-pos.png",
+  "website": "https://www.chefsculinar.de/culinaro-kassensystem-einfach-gute-kasse-machen-21016.htm"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dux-soup",
+  "title": "The Dux",
+  "subtitle": "Dux-Soup's LinkedIn automation tool accelerates your LinkedIn lead generation pipeline. Save time with auto connectio...",
+  "tags": [
+    "lead-generation",
+    "linkedin-automation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628029368/icons/dux-soup.jpg",
+  "website": "https://www.dux-soup.com/"
+}

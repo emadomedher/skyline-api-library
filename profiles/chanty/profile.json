@@ -1,0 +1,13 @@
+{
+  "id": "chanty",
+  "title": "Chanty",
+  "subtitle": "Chanty is a simple AI-powered team chat to make your team super productive. Applets let you automate tasks, free time...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829388/catalog/chanty/icon128x128.png",
+  "website": "https://chanty.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hellodialog",
+  "title": "HelloDialog",
+  "subtitle": "HelloDialog API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378793/catalog/hellodialog/icon128x128.png"
+}

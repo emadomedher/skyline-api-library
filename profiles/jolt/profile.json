@@ -1,0 +1,13 @@
+{
+  "id": "jolt",
+  "title": "Jolt",
+  "subtitle": "Jolt is your digital assistant manager for restaurants and businesses available on smartphones and tablets. Jolt oper...",
+  "tags": [
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576180762/catalog/jolt/icon128x128.png",
+  "website": "https://www.jolt.com/"
+}

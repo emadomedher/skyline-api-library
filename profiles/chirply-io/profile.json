@@ -1,0 +1,13 @@
+{
+  "id": "chirply-io",
+  "title": "Chirply",
+  "subtitle": "Chirply API integration",
+  "tags": [
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578262042/catalog/chirply-io/icon128x128.png",
+  "website": "https://www.chirply.io/"
+}

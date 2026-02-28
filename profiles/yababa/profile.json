@@ -1,0 +1,14 @@
+{
+  "id": "yababa",
+  "title": "Yababa",
+  "subtitle": "We deliver Turkish & Arabic groceries, same-day. Shop your weekly groceries with us and we deliver to your doorstep. ...",
+  "tags": [
+    "grocery-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637851168/icons/yababa.jpg",
+  "website": "https://www.yababa.com/",
+  "docsUrl": "https://www.yababa.com/#"
+}

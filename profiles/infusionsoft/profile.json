@@ -1,0 +1,15 @@
+{
+  "id": "infusionsoft",
+  "title": "Infusionsoft",
+  "subtitle": "Infusionsoft is all-in-one marketing and sales automation software for small businesses. It effortlessly combines CRM...",
+  "tags": [
+    "marketing-automation",
+    "drip-emails",
+    "crm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456102/catalog/infusionsoft/icon128x128.png",
+  "website": "https://www.infusionsoft.com/"
+}

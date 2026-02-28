@@ -1,0 +1,14 @@
+{
+  "id": "nulab",
+  "title": "Nulab",
+  "subtitle": "Millions of users rely on Nulab products each day to improve team work and collaboration. Connect and bring your team...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598542094/icons/nulab.jpg",
+  "website": "https://nulab.com/",
+  "docsUrl": "https://developer.nulab.com"
+}

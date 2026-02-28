@@ -1,0 +1,14 @@
+{
+  "id": "instoried",
+  "title": "Instoried",
+  "subtitle": "Predict the sentiment analysis, emotional engagement, plagiarism checker, how creative is your content with our conte...",
+  "tags": [
+    "copywriting",
+    "sentiment-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629327165/icons/instoried.jpg",
+  "website": "https://instoried.com/"
+}

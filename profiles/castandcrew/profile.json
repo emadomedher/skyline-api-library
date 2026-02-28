@@ -1,0 +1,15 @@
+{
+  "id": "castandcrew",
+  "title": "Cast & Crew",
+  "subtitle": "We offer the industry’s best technology-enabled payroll, accounting and production workflow solutions. Enabling your ...",
+  "tags": [
+    "cast-management",
+    "payroll",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633051674/icons/castandcrew.png",
+  "website": "https://www.castandcrew.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shazam",
+  "title": "Shazam",
+  "subtitle": "Shazam API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962356/catalog/shazam/icon128x128.png",
+  "website": "https://shazam.com"
+}

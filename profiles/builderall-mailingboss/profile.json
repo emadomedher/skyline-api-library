@@ -1,0 +1,12 @@
+{
+  "id": "builderall-mailingboss",
+  "title": "Builderall Mailingboss",
+  "subtitle": "Builderall Mailingboss is an Autoresponder and Email Marketing Platform. With Mailingboss you can capture and send un...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284466/catalog/builderall-mailingboss/icon128x128.png"
+}

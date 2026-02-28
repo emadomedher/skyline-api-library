@@ -1,0 +1,15 @@
+{
+  "id": "biz4zib-be",
+  "title": "Biz4zib",
+  "subtitle": "Home",
+  "tags": [
+    "resources",
+    "hr",
+    "non-software"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600433179/icons/biz4zib-be.png",
+  "website": "http://www.biz4zib.be/"
+}

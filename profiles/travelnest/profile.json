@@ -1,0 +1,13 @@
+{
+  "id": "travelnest",
+  "title": "TravelNest",
+  "subtitle": "Advertise your vacation rental on top travel sites like Airbnb, Booking.com, Expedia, TripAdvisor, HomeAway, TUI and ...",
+  "tags": [
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655938362/icons/travelnest.jpg",
+  "website": "https://travelnest.com/"
+}

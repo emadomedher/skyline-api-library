@@ -1,0 +1,13 @@
+{
+  "id": "edi",
+  "title": "EDI",
+  "subtitle": "Electronic data interchange (EDI) is the concept of businesses electronically communicating information that was trad...",
+  "tags": [
+    "invoicing",
+    "standards"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588444282/catalog/edi/icon128x128.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "startstackin",
+  "title": "Stackin'",
+  "subtitle": "Money can be hard af. Stackin' makes the conversation stress-free by keeping it real all via text, just like your BFF. ",
+  "tags": [
+    "fintech",
+    "financial-advice"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590745668/catalog/startstackin/icon128x128.jpg",
+  "website": "https://www.startstackin.com/"
+}

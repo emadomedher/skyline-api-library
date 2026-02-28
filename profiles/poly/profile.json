@@ -1,0 +1,14 @@
+{
+  "id": "poly",
+  "title": "Poly",
+  "subtitle": "Poly is the leader in video and voice solutions. Learn how our technology can help your organization unleash the powe...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631974036/icons/poly.jpg",
+  "website": "https://www.poly.com/",
+  "docsUrl": "https://support.polycom.com/content/support/north-america/usa/en/support.html"
+}

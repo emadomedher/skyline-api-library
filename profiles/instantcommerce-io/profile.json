@@ -1,0 +1,14 @@
+{
+  "id": "instantcommerce-io",
+  "title": "Instant Commerce",
+  "subtitle": "The top rated Storefront Builder for Headless Commerce with Shopify and Storyblok. Improve conversion, site speed, us...",
+  "tags": [
+    "headless-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680207448/icons/instantcommerce-io.jpg",
+  "website": "https://instantcommerce.io/",
+  "docsUrl": "https://docs.instantcommerce.io"
+}

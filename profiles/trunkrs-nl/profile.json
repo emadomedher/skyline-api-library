@@ -1,0 +1,14 @@
+{
+  "id": "trunkrs-nl",
+  "title": "Trunkrs",
+  "subtitle": "Vandaag besteld, vandaag in huis. Ga voor de beste Same Day Delivery bezorgervaring van Nederland en geef jouw klante...",
+  "tags": [
+    "delivery-services",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587218294/catalog/trunkrs-nl/icon128x128.jpg",
+  "website": "https://www.trunkrs.nl/"
+}

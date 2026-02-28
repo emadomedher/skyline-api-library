@@ -1,0 +1,14 @@
+{
+  "id": "nordsecurity",
+  "title": "NordSec",
+  "subtitle": "Nord Security is the leader in the field of online privacy and security. Our security tools have earned praise from r...",
+  "tags": [
+    "vpn",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613277196/icons/nordsecurity.png",
+  "website": "https://nordsecurity.com/"
+}

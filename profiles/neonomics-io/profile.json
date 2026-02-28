@@ -1,0 +1,14 @@
+{
+  "id": "neonomics-io",
+  "title": "Neonomics",
+  "subtitle": "Neonomics enables a new movement of payments and date by connecting thousands of banks through one API. In doing so, ...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573694235/catalog/neonomics-io/icon128x128.png",
+  "website": "https://www.neonomics.io/",
+  "docsUrl": "https://developer.neonomics.io/login"
+}

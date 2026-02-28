@@ -1,0 +1,14 @@
+{
+  "id": "salesforce-dmp",
+  "title": "Salesforce DMP",
+  "subtitle": "Use Salesforce's data management platform to unify your data and strengthen customer relationships across every touch...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571004856/catalog/salesforce-dmp/icon128x128.jpg",
+  "website": "https://www.salesforce.com/products/marketing-cloud/data-management/",
+  "docsUrl": "https://developer.salesforce.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "roosboard",
+  "title": "Roosboard",
+  "subtitle": "Roosboard provides powerful voice & search enabled analytics to discover the business data in seconds and to comprehe...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721886/catalog/roosboard/icon128x128.jpg",
+  "website": "https://roosboard.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "foursixty",
+  "title": "Foursixty",
+  "subtitle": "Foursixty API integration",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591112904/icons/foursixty.png",
+  "website": "https://foursixty.com"
+}

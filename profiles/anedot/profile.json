@@ -1,0 +1,13 @@
+{
+  "id": "anedot",
+  "title": "Anedot",
+  "subtitle": "Trusted by more than 20,000 churches, campaigns, schools, and nonprofits, Anedot optimizes the donation experience re...",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657718814/icons/anedot.jpg",
+  "website": "https://www.anedot.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zoominfo",
+  "title": "ZoomInfo",
+  "subtitle": "It's our business to grow yours! Own your market with leading B2B contact data combined with sales intelligence, enga...",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946302/catalog/zoominfo/icon128x128.jpg",
+  "website": "https://zoominfo.com",
+  "docsUrl": "https://api-docs.zoominfo.com/#f0c2d39d-d7d4-42d8-86a3-bb3464c40443"
+}

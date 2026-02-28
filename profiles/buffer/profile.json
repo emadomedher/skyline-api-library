@@ -1,0 +1,13 @@
+{
+  "id": "buffer",
+  "title": "Buffer",
+  "subtitle": "Manage your social media marketing together with Buffer's tools to schedule posts, analyze performance, and publish t...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456600/catalog/buffer/icon128x128.png",
+  "website": "https://buffer.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "polymail-io",
+  "title": "Polymail",
+  "subtitle": "Polymail is a new email platform that keeps you on top of your most important communications.",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583758040/catalog/polymail-io/icon128x128.jpg",
+  "website": "https://polymail.io/"
+}

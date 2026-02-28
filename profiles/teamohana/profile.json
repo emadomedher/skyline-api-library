@@ -1,0 +1,13 @@
+{
+  "id": "teamohana",
+  "title": "TeamOhana",
+  "subtitle": "TeamOhana unifies people, processes, and data into one single source of truth so you can execute your headcount plan ...",
+  "tags": [
+    "headcount-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1666698513/icons/teamohana.jpg",
+  "website": "https://www.teamohana.com/"
+}

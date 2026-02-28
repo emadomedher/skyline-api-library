@@ -1,0 +1,15 @@
+{
+  "id": "django-rest-framework",
+  "title": "Django REST framework",
+  "subtitle": "Django REST framework is a powerful and flexible toolkit for building Web APIs.",
+  "tags": [
+    "api-tooling",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616206512/icons/django-rest-framework.png",
+  "website": "https://www.django-rest-framework.org/",
+  "docsUrl": "https://www.django-rest-framework.org/#mkdocs_search_modal"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "amazinghiring",
+  "title": "AmazingHiring",
+  "subtitle": "AmazingHiring is an AI-powered sourcing solution that helps IT recruiters find, pre-screen and engage technical talents.",
+  "tags": [
+    "talent-sourcing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658417771/icons/amazinghiring.jpg",
+  "website": "https://amazinghiring.com/",
+  "docsUrl": "https://amazinghiring.com/software-developer-map"
+}

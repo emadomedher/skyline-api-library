@@ -1,0 +1,13 @@
+{
+  "id": "ca-technologies",
+  "title": "CA Technologies",
+  "subtitle": "Broadcom Inc. is a global technology leader that designs, develops and supplies semiconductor and infrastructure soft...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947224/catalog/ca-technologies/icon128x128.jpg",
+  "website": "https://ca.com"
+}

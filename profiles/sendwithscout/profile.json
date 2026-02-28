@@ -1,0 +1,13 @@
+{
+  "id": "sendwithscout",
+  "title": "Scout",
+  "subtitle": "Scout is the next generation in postcard marketing. Design postcards in your browser, add tracking for every card, ge...",
+  "tags": [
+    "direct-mail"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578586740/catalog/sendwithscout/icon128x128.png",
+  "website": "https://www.sendwithscout.com/"
+}

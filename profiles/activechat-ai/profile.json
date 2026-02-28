@@ -1,0 +1,13 @@
+{
+  "id": "activechat-ai",
+  "title": "ActiveChat.ai",
+  "subtitle": "Smart conversational AI platform with natural language understanding for customer support, e-commerce and marketing c...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582263812/catalog/activechat-ai/icon128x128.png",
+  "website": "https://activechat.ai/"
+}

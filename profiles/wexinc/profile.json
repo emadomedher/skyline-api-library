@@ -1,0 +1,13 @@
+{
+  "id": "wexinc",
+  "title": "WEX",
+  "subtitle": "We simplify complex payment systems for fleets, corporate payments, and healthcare—unlocking insights, opportunities,...",
+  "tags": [
+    "corporate-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625461441/icons/wexinc.jpg",
+  "website": "https://www.wexinc.com/"
+}

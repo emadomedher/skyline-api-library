@@ -1,0 +1,15 @@
+{
+  "id": "financialforce",
+  "title": "FinancialForce",
+  "subtitle": "Combine your front and back office on one platform with the top cloud ERP software apps built on Salesforce.",
+  "tags": [
+    "erp",
+    "salesforce"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572473894/catalog/financialforce/icon128x128.jpg",
+  "website": "https://www.financialforce.com/",
+  "docsUrl": "https://developer.financialforce.com"
+}

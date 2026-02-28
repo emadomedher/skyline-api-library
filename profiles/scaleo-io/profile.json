@@ -1,0 +1,13 @@
+{
+  "id": "scaleo-io",
+  "title": "Scaleo",
+  "subtitle": "Stop wasting time & money with complicated, unattractive tracking solutions! Scaleo is fast, reliable, cool looking, ...",
+  "tags": [
+    "affiliate-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594654715/icons/scaleo-io.jpg",
+  "website": "https://www.scaleo.io/"
+}

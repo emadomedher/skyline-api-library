@@ -1,0 +1,14 @@
+{
+  "id": "lua-language",
+  "title": "Lua",
+  "subtitle": "Official web site of the Lua language",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396562/icons/lua-language.svg",
+  "website": "https://www.lua.org/",
+  "docsUrl": "https://www.lua.org/docs.html"
+}

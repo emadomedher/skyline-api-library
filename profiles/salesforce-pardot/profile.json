@@ -1,0 +1,13 @@
+{
+  "id": "salesforce-pardot",
+  "title": "Salesforce Pardot",
+  "subtitle": "Pardot B2B marketing automation by Salesforce helps marketers create more leads, generate more pipeline, and empower ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548681644/catalog/salesforce-pardot/icon128x128.png",
+  "website": "https://www.pardot.com/"
+}

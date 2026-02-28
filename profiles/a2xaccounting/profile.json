@@ -1,0 +1,14 @@
+{
+  "id": "a2xaccounting",
+  "title": "A2X",
+  "subtitle": "A2X is the gold standard in ecommerce accounting for Amazon and Shopify businesses. Try it Free.",
+  "tags": [
+    "accounting",
+    "ecommerce"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588537663/catalog/a2xaccounting/icon128x128.jpg",
+  "website": "https://www.a2xaccounting.com/"
+}

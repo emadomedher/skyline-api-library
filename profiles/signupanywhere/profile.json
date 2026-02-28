@@ -1,0 +1,13 @@
+{
+  "id": "signupanywhere",
+  "title": "SignUpAnywhere",
+  "subtitle": "SignUpAnywhere allows you and your team to capture email addresses and leads even when you’re offline.",
+  "tags": [
+    "forms",
+    "developer-tools"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306087/catalog/signupanywhere/icon128x128.png"
+}

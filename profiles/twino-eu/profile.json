@@ -1,0 +1,13 @@
+{
+  "id": "twino-eu",
+  "title": "TWINO",
+  "subtitle": "TWINO - Europe's most secure p2p lending marketplace. Earn from 10% on any investment.",
+  "tags": [
+    "investing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652083783/icons/twino-eu.png",
+  "website": "https://www.twino.eu/"
+}

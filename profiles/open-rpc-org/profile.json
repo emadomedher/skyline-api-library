@@ -1,0 +1,16 @@
+{
+  "id": "open-rpc-org",
+  "title": "OpenRPC",
+  "subtitle": "OpenRPC API integration",
+  "tags": [
+    "api-tooling",
+    "api-specifications",
+    "rpc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612980290/icons/open-rpc-org.png",
+  "website": "https://open-rpc.org/",
+  "docsUrl": "https://open-rpc.org/developers"
+}

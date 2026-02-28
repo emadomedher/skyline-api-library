@@ -1,0 +1,12 @@
+{
+  "id": "convertapi",
+  "title": "ConvertAPI",
+  "subtitle": "ConvertAPI is a file conversion service which supports many file conversions from numerous sources and file manipulat...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304692/catalog/convertapi/icon128x128.png"
+}

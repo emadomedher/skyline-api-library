@@ -1,0 +1,13 @@
+{
+  "id": "sourcescrub",
+  "title": "SourceScrub",
+  "subtitle": "Improve M&A deal origination & PE deal sourcing with our software platform. Efficiently source private market info, m...",
+  "tags": [
+    "manda"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656794/icons/sourcescrub.png",
+  "website": "https://www.sourcescrub.com/"
+}

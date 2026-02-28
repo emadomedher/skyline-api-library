@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-forms",
+  "title": "Microsoft Forms",
+  "subtitle": "Create online quizzes, online surveys and online polls with Microsoft Forms. Use AI to collect and share customer and...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264806/catalog/microsoft-forms/icon128x128.png",
+  "website": "https://www.microsoft.com/en-gb/microsoft-365/online-surveys-polls-quizzes"
+}

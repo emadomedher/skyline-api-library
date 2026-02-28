@@ -1,0 +1,13 @@
+{
+  "id": "docparser",
+  "title": "Docparser",
+  "subtitle": "Docparser converts your PDF documents into structured and easy-to-handle data. With Docparser you can pull out specif...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304783/catalog/docparser/icon128x128.png",
+  "website": "https://docparser.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ebillity",
+  "title": "eBillity",
+  "subtitle": "Save time and money with eBillity's time tracking software. Run an efficient payroll and invoice fast, forecast labor...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567217524/catalog/ebillity/icon128x128.jpg",
+  "website": "https://www.ebillity.com/",
+  "docsUrl": "https://www.ebillity.com/developer"
+}

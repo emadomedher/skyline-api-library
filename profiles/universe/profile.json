@@ -1,0 +1,13 @@
+{
+  "id": "universe",
+  "title": "Universe",
+  "subtitle": "Universe is a DIY ticketing platform that provides everything event organizers need to sell tickets and manage small ...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306403/catalog/universe/icon128x128.png",
+  "website": "https://www.universe.com/"
+}

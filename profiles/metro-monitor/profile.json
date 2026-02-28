@@ -1,0 +1,13 @@
+{
+  "id": "metro-monitor",
+  "title": "Metro Monitor",
+  "subtitle": "Metro Monitor API integration",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435862/catalog/metro-monitor/icon128x128.png",
+  "website": "https://metromonitor.com"
+}

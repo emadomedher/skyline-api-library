@@ -1,0 +1,13 @@
+{
+  "id": "logicbox",
+  "title": "Logicbox",
+  "subtitle": "Logicbox is business management software that helps companies grow by combining every facet of their business into a ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830246/catalog/logicbox/icon128x128.png",
+  "website": "https://logicboxsoftware.com"
+}

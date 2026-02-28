@@ -1,0 +1,14 @@
+{
+  "id": "forcepoint",
+  "title": "Forcepoint",
+  "subtitle": "Data-first SASE From Endpoint to Cloud. Unified secure access and data protection in the only SASE solution spanning ...",
+  "tags": [
+    "data-protection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406245/icons/forcepoint.jpg",
+  "website": "https://www.forcepoint.com/",
+  "docsUrl": "https://go.forcepoint.com/communicationpreferencecenter.html"
+}

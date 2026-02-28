@@ -1,0 +1,14 @@
+{
+  "id": "collectivebenefits",
+  "title": "CollectiveBenefits",
+  "subtitle": "Finally, big company benefits for feelancers\n  Join Collective, a community rebuilding benefits from the ground up.",
+  "tags": [
+    "company-benefits",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582702513/catalog/collectivebenefits/icon128x128.png",
+  "website": "https://www.collectivebenefits.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "invision-studio",
+  "title": "InVision Studio",
+  "subtitle": "The world’s most powerful screen design tool. Rapid prototyping, animation, built-in design systems, and collaboratio...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605123823/icons/invision-studio.jpg",
+  "website": "https://www.invisionapp.com/studio"
+}

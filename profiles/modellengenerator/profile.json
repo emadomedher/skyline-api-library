@@ -1,0 +1,12 @@
+{
+  "id": "modellengenerator",
+  "title": "Modellengenerator",
+  "subtitle": "Met Modellengenerator kun je eenvoudig modellen omzetten in kwalitatief hoogwaardige documenten, welke met de nieuwe ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256949/catalog/modellengenerator/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "the-search-monitor",
+  "title": "The Search Monitor",
+  "subtitle": "The Search Monitor API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556772418/catalog/the-search-monitor/icon128x128.png",
+  "website": "https://thesearchmonitor.com"
+}

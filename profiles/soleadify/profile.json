@@ -1,0 +1,14 @@
+{
+  "id": "soleadify",
+  "title": "Soleadify",
+  "subtitle": "Find B2B Leads with the best B2B lead generation tool (40M+ business contact details). Quality prospecting with an ac...",
+  "tags": [
+    "sales-prospection",
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603215544/icons/soleadify.jpg",
+  "website": "https://www.soleadify.com/"
+}

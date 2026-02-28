@@ -1,0 +1,13 @@
+{
+  "id": "11fs-foundry",
+  "title": "11:FS Foundry",
+  "subtitle": "Embed finance into your product in weeks with the 11:FS Foundry financial services operating system. Add payments, de...",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661008025/icons/11fs-foundry.jpg",
+  "website": "https://www.11fs.com/products/11fs-foundry"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bind-erp",
+  "title": "Bind ERP",
+  "subtitle": "Bind ERP is a management system that allows SMBs to take control of their business in an easy, accessible manner.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538956/catalog/bind-erp/icon128x128.png"
+}

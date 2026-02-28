@@ -1,0 +1,13 @@
+{
+  "id": "samai",
+  "title": "SAM.ai",
+  "subtitle": "SAM.ai API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721928/catalog/samai/icon128x128.jpg",
+  "website": "https://sam.ai"
+}

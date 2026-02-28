@@ -1,0 +1,14 @@
+{
+  "id": "laracon-us",
+  "title": "Laracon US",
+  "subtitle": "Laracon VII is coming and tickets are first come, first serve. Sign up to get notified when tickets are available!",
+  "tags": [
+    "laravel",
+    "events"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572619771/catalog/laracon-us/icon128x128.jpg",
+  "website": "https://laracon.us/"
+}

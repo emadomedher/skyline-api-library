@@ -1,0 +1,14 @@
+{
+  "id": "yesbookit",
+  "title": "YesBookit",
+  "subtitle": "Save time and increase business with YesBookit booking management software, specialised holiday websites, cleaner, ow...",
+  "tags": [
+    "holiday-rentals-booking-management",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594263295/icons/yesbookit.jpg",
+  "website": "https://www.yesbookit.com"
+}

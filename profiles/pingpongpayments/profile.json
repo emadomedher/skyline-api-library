@@ -1,0 +1,14 @@
+{
+  "id": "pingpongpayments",
+  "title": "PingPong",
+  "subtitle": "PingPong helps E-commerce global sellers keep more hard-earned profits. Find out why more than 42,642 e-commerce sell...",
+  "tags": [
+    "payments",
+    "ecommerce"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574261266/catalog/pingpongpayments/icon128x128.jpg",
+  "website": "https://pingpongpayments.com/"
+}

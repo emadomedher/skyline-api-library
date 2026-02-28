@@ -1,0 +1,15 @@
+{
+  "id": "accessibe",
+  "title": "accessiBe",
+  "subtitle": "Fully automated web accessibility solutions. Compliant with WCAG 2.1, ADA, Section 508, AODA, ACA and more with acces...",
+  "tags": [
+    "web-accessibility",
+    "ada-compliance",
+    "wcag-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622628752/icons/accessibe.png",
+  "website": "https://accessibe.com/"
+}

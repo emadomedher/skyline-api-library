@@ -1,0 +1,15 @@
+{
+  "id": "workpatterns",
+  "title": "WorkPatterns",
+  "subtitle": "High functioning teams need a modern OS. Anchoring on tools for better \nmeetings, WorkPatterns guides workflows in be...",
+  "tags": [
+    "meetings",
+    "hr",
+    "employee-feedback"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598261277/icons/workpatterns.jpg",
+  "website": "https://www.workpatterns.com/"
+}

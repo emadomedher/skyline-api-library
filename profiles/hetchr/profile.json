@@ -1,0 +1,14 @@
+{
+  "id": "hetchr",
+  "title": "Hetchr",
+  "subtitle": "By filtering the noise from your suite of developer tools, Hetchr displays only the data that you and your software e...",
+  "tags": [
+    "productivity",
+    "developer-tools"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613706204/icons/hetchr.jpg",
+  "website": "https://www.hetchr.com/"
+}

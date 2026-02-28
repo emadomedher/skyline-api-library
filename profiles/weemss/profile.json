@@ -1,0 +1,13 @@
+{
+  "id": "weemss",
+  "title": "Weemss",
+  "subtitle": "Weemss® is an event management software that does the heavy-duty work, so you can focus on the actual event. It lets ...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306492/catalog/weemss/icon128x128.png",
+  "website": "https://weemss.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "deskaway",
+  "title": "DeskAway",
+  "subtitle": "DeskAway is a web-based team and project management software that makes it easy to organize, manage and track project...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719773/catalog/deskaway/icon128x128.jpg",
+  "website": "https://deskaway.com"
+}

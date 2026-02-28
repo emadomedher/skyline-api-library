@@ -1,0 +1,14 @@
+{
+  "id": "immuta",
+  "title": "Immuta",
+  "subtitle": "Immuta gives you granular, dynamic control of who accesses your data and why — without copying data or writing a sing...",
+  "tags": [
+    "data-governance",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581969860/catalog/immuta/icon128x128.jpg",
+  "website": "https://www.immuta.com/"
+}

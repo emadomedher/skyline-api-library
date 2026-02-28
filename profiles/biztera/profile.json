@@ -1,0 +1,13 @@
+{
+  "id": "biztera",
+  "title": "Biztera",
+  "subtitle": "Biztera is a service for organizations to keep track of approval requests between members. For example, CFOs use Bizt...",
+  "tags": [
+    "proposals-&-invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304501/catalog/biztera/icon128x128.png",
+  "website": "https://biztera.com/"
+}

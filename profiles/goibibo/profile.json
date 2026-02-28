@@ -1,0 +1,14 @@
+{
+  "id": "goibibo",
+  "title": "Goibibo",
+  "subtitle": "Get best deals on all your online travel bookings. Book hotels, flights, bus, trains and cabs at Goibibo. 100% custom...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448038/icons/goibibo.jpg",
+  "website": "https://www.goibibo.com/"
+}

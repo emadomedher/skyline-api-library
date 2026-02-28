@@ -1,0 +1,13 @@
+{
+  "id": "azure-logic-apps",
+  "title": "Azure Logic Apps",
+  "subtitle": "Azure Logic Apps is a cloud service that helps you automate and orchestrate tasks, business processes, and workflows ...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546980858/catalog/azure-logic-apps/icon128x128.jpg",
+  "website": "https://azure.microsoft.com/en-us/services/logic-apps/"
+}

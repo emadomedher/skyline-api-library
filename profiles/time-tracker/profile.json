@@ -1,0 +1,12 @@
+{
+  "id": "time-tracker",
+  "title": "Time Tracker",
+  "subtitle": "Time Tracker by eBillity helps you track and bill for your time.",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306341/catalog/time-tracker/icon128x128.png"
+}

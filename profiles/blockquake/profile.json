@@ -1,0 +1,13 @@
+{
+  "id": "blockquake",
+  "title": "BlockQuake",
+  "subtitle": "BlockQuake™ is a digital asset / cryptocurrency trading platform that is regulatory driven.",
+  "tags": [
+    "crypto-exchanges"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616256835/icons/blockquake.jpg",
+  "website": "https://www.blockquake.com/"
+}

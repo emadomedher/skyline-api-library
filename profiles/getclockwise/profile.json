@@ -1,0 +1,13 @@
+{
+  "id": "getclockwise",
+  "title": "Clockwise",
+  "subtitle": "Clockwise is an intelligent calendar system that frees up your time so you can work on what matters. We make your cal...",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560869272/catalog/getclockwise/icon128x128.jpg",
+  "website": "https://getclockwise.com"
+}

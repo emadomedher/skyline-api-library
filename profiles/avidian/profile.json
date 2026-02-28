@@ -1,0 +1,13 @@
+{
+  "id": "avidian",
+  "title": "Avidian",
+  "subtitle": "Avidian Technologies Inc. is a software company that built Prophet CRM. A one of the kind completely integrated solut...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719069/catalog/avidian/icon128x128.png",
+  "website": "https://avidian.com"
+}

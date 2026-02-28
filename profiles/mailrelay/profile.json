@@ -1,0 +1,13 @@
+{
+  "id": "mailrelay",
+  "title": "MailRelay",
+  "subtitle": "Crea tu cuenta gratuita ahora y envía hasta 75.000 emails al mes gratis. Sin compromiso, sin caducidad, sin datos de ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435714/catalog/mailrelay/icon128x128.png",
+  "website": "https://mailrelay.com"
+}

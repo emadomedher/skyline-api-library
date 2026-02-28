@@ -1,0 +1,14 @@
+{
+  "id": "unsubscriber",
+  "title": "Unsubscriber",
+  "subtitle": "Unsubscribe from emails with one click! Clear your inbox from old emails and unwanted senders. Finally have a clean i...",
+  "tags": [
+    "privacy",
+    "anti-spam"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583849743/catalog/unsubscriber/icon128x128.png",
+  "website": "https://unsubscriber.com/"
+}

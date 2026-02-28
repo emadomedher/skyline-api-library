@@ -1,0 +1,15 @@
+{
+  "id": "gpt-2",
+  "title": "GPT-2",
+  "subtitle": "Generative Pre-trained Transformer 2 is an open-source artificial intelligence created by OpenAI in February 2019.",
+  "tags": [
+    "language-models",
+    "ai",
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615960059/icons/gpt-2.png",
+  "website": "https://openai.com/blog/better-language-models/"
+}

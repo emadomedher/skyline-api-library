@@ -1,0 +1,14 @@
+{
+  "id": "linear-app",
+  "title": "Linear",
+  "subtitle": "Linear lets you manage software development and track bugs. Linear's streamlined design is built for speed and effici...",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574445169/catalog/linear-app/icon128x128.png",
+  "website": "https://linear.app/",
+  "docsUrl": "https://developers.linear.app/"
+}

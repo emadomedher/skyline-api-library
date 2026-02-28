@@ -1,0 +1,13 @@
+{
+  "id": "vantagecircle",
+  "title": "Vantage Circle",
+  "subtitle": "Vantage Circle is a Global Employee Engagement Platform to create great workplaces using solutions for Employee Rewar...",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414337/icons/vantagecircle.jpg",
+  "website": "https://www.vantagecircle.com/"
+}

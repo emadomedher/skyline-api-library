@@ -1,0 +1,13 @@
+{
+  "id": "taboola",
+  "title": "Taboola",
+  "subtitle": "Taboola API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437825/catalog/taboola/icon128x128.png",
+  "website": "https://taboola.com"
+}

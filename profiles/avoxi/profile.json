@@ -1,0 +1,14 @@
+{
+  "id": "avoxi",
+  "title": "AVOXI",
+  "subtitle": "Set up virtual phone numbers anywhere! Try the flexible and easy-to-use cloud contact center solution, AVOXI Genius®,...",
+  "tags": [
+    "contact-center",
+    "virtual-number"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616387733/icons/avoxi.jpg",
+  "website": "https://www.avoxi.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "philips-speechlive",
+  "title": "Philips SpeechLive",
+  "subtitle": "Philips SpeechLive is a leading cloud-based dictation solution: smartphone recorder included, work from anywhere at a...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284571/catalog/philips-speechlive/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "staah",
+  "title": "STAAH",
+  "subtitle": "Looking for an online booking system to help boost conversions? Need a cloud-based channel manager for hotels, ideal ...",
+  "tags": [
+    "hospitality-revenue-management",
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572194405/catalog/staah/icon128x128.jpg",
+  "website": "https://www.staah.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "response-tap",
+  "title": "Response Tap",
+  "subtitle": "With Intelligent Call Tracking from ResponseTap, you can finally reveal the campaigns, channels and keywords that mak...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721859/catalog/response-tap/icon128x128.jpg",
+  "website": "https://responsetap.com"
+}

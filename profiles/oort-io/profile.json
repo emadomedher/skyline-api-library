@@ -1,0 +1,14 @@
+{
+  "id": "oort-io",
+  "title": "Oort",
+  "subtitle": "Detect and respond to identity threats, investigate users, and remediate risk with an identity security platform that...",
+  "tags": [
+    "user-and-entity-behavior-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686602996/icons/oort-io.png",
+  "website": "https://oort.io/",
+  "docsUrl": "https://docs.oort.io"
+}

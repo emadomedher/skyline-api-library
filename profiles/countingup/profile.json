@@ -1,0 +1,14 @@
+{
+  "id": "countingup",
+  "title": "Countingup",
+  "subtitle": "Countingup is your accounting and banking in one place; the simple way to run a business. For freelancers, contractor...",
+  "tags": [
+    "challenger-banks",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589110337/catalog/countingup/icon128x128.jpg",
+  "website": "https://countingup.com/"
+}

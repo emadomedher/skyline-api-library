@@ -1,0 +1,13 @@
+{
+  "id": "meta",
+  "title": "Meta",
+  "subtitle": "The metaverse is the next evolution of social connection. Our company’s vision is to help bring the metaverse to life...",
+  "tags": [
+    "social-media"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528065/icons/meta.png",
+  "website": "http://meta.com/"
+}

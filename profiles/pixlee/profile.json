@@ -1,0 +1,13 @@
+{
+  "id": "pixlee",
+  "title": "Pixlee",
+  "subtitle": "Leading Visual Marketing Platform for Brands using user-generated content from Instagram, Facebook, Twitter and more",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827204/catalog/pixlee/icon128x128.jpg",
+  "website": "https://pixlee.com"
+}

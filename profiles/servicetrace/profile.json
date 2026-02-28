@@ -1,0 +1,14 @@
+{
+  "id": "servicetrace",
+  "title": "ServiceTrace",
+  "subtitle": "Automate your business processes with Servicetrace Intelligent RPA, APM and TA Software. Find out more and get a free...",
+  "tags": [
+    "rpa"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627962792/icons/servicetrace.png",
+  "website": "https://www.servicetrace.com/",
+  "docsUrl": "https://www.servicetrace.com/#"
+}

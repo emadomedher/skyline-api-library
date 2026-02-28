@@ -1,0 +1,13 @@
+{
+  "id": "povis-nl",
+  "title": "Povis",
+  "subtitle": "Povis ontwikkelt, levert en onderhoudt goedkope, gebruiksvriendelijke en veelzijdige kassasystemen voor ondernemers i...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599156420/icons/povis-nl.png",
+  "website": "https://www.povis.nl/"
+}

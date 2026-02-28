@@ -1,0 +1,15 @@
+{
+  "id": "corelogic",
+  "title": "CoreLogic",
+  "subtitle": "CoreLogic (NYSE: CLGX) is a leading provider of consumer, financial and property data, analytics and services to busi...",
+  "tags": [
+    "proptech",
+    "real-estate",
+    "property-data"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581299034/catalog/corelogic/icon128x128.jpg",
+  "website": "https://www.corelogic.com/"
+}

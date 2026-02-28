@@ -1,0 +1,13 @@
+{
+  "id": "madvertise",
+  "title": "Madvertise",
+  "subtitle": "Madvertise API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050357/icons/madvertise.png",
+  "website": "https://madvertise.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "spell-tools",
+  "title": "Spell",
+  "subtitle": "AI-assisted content creation for busy marketers who want to create relevant, personalized content quickly.",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614066352/icons/spell-tools.jpg",
+  "website": "https://spell.tools/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pinwheelpay",
+  "title": "Pinwheel Pay",
+  "subtitle": "Pinwheel Pay API integration",
+  "tags": [
+    "payment-routing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591899505/icons/pinwheelpay.png",
+  "website": "https://pinwheelpay.com/"
+}

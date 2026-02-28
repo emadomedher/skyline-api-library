@@ -1,0 +1,14 @@
+{
+  "id": "cozy-io",
+  "title": "Cozy Cloud",
+  "subtitle": "Cozy is a human-centric, open source and french personal cloud that gather all your data for more services, control a...",
+  "tags": [
+    "password-manager"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637971/icons/cozy-io.jpg",
+  "website": "https://cozy.io/",
+  "docsUrl": "https://cozy.io/en/community"
+}

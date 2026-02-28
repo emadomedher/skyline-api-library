@@ -1,0 +1,14 @@
+{
+  "id": "heroku",
+  "title": "Heroku",
+  "subtitle": "Heroku is a platform as a service (PaaS) that enables developers to build, run, and operate applications entirely in ...",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557631594/catalog/heroku/icon128x128.png",
+  "website": "https://heroku.com",
+  "docsUrl": "https://devcenter.heroku.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tomorrow-one",
+  "title": "Tomorrow",
+  "subtitle": "Mobile Banking meets green finance. Tomorrow is the first mobile current account with a positive impact.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583231609/catalog/tomorrow-one/icon128x128.jpg",
+  "website": "https://www.tomorrow.one/"
+}

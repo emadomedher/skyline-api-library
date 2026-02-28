@@ -1,0 +1,13 @@
+{
+  "id": "handshake",
+  "title": "Handshake",
+  "subtitle": "Handshake is an e-commerce platform strictly for B2B, with a native mobile app for your sales reps in the field, a cu...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284531/catalog/handshake/icon128x128.png",
+  "website": "https://handshake.com"
+}

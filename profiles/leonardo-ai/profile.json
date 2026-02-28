@@ -1,0 +1,13 @@
+{
+  "id": "leonardo-ai",
+  "title": "Leonardo.Ai",
+  "subtitle": "Generate production quality assets for your creative projects with AI-driven speed and style-consistency.",
+  "tags": [
+    "image-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688934831/icons/leonardo-ai.jpg",
+  "website": "https://leonardo.ai/"
+}

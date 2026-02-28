@@ -1,0 +1,13 @@
+{
+  "id": "intro-io",
+  "title": "Intro",
+  "subtitle": "Aevy helps you discover hidden talent by sparking warm dialogues with brilliant technical candidates.",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602206731/icons/intro-io.png",
+  "website": "https://www.intro.io/"
+}

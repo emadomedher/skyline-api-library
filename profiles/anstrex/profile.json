@@ -1,0 +1,13 @@
+{
+  "id": "anstrex",
+  "title": "Anstrex",
+  "subtitle": "Anstrex API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964319/catalog/anstrex/icon128x128.png",
+  "website": "https://anstrex.com"
+}

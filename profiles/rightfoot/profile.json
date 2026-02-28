@@ -1,0 +1,14 @@
+{
+  "id": "rightfoot",
+  "title": "Rightfoot",
+  "subtitle": "Add student debt repayment to your product in a snap. Rightfoot's APIs streamline debt repayment across a market of f...",
+  "tags": [
+    "student-debt-repayment-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627283665/icons/rightfoot.jpg",
+  "website": "https://www.rightfoot.com/",
+  "docsUrl": "https://docs.rightfoot.com"
+}

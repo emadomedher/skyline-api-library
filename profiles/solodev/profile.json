@@ -1,0 +1,13 @@
+{
+  "id": "solodev",
+  "title": "Solodev",
+  "subtitle": "Professional Content Management System for web design, web experience management, enterprise hosting and web developm...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827680/catalog/solodev/icon128x128.png",
+  "website": "https://solodev.com"
+}

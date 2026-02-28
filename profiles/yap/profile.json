@@ -1,0 +1,13 @@
+{
+  "id": "yap",
+  "title": "YAP",
+  "subtitle": "YAP is a neobank focused wholly on improving the digital banking experience.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615388533/icons/yap.png",
+  "website": "https://www.yap.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "magento-v2",
+  "title": "Magento 2",
+  "subtitle": "Magento 2.X is the premier open source e-commerce app used by millions of customers each and every day.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056016/catalog/magento-v2/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ordercup",
+  "title": "OrderCup",
+  "subtitle": "OrderCup is one of the best softwares or plugins which automates eCommerce order management, fulfillment and shipping...",
+  "tags": [
+    "ecommerce",
+    "order-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599235551/icons/ordercup.jpg",
+  "website": "https://ordercup.com/"
+}

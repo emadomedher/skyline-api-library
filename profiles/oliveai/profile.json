@@ -1,0 +1,14 @@
+{
+  "id": "oliveai",
+  "title": "Olive",
+  "subtitle": "Olive is the only AI as a Service purpose-built for healthcare. She improves operational efficiency for healthcare or...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649237574/icons/oliveai.png",
+  "website": "https://oliveai.com/",
+  "docsUrl": "https://oliveai.com/developers"
+}

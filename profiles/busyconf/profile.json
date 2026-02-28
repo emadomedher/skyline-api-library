@@ -1,0 +1,13 @@
+{
+  "id": "busyconf",
+  "title": "BusyConf",
+  "subtitle": "BusyConf is a collaborative conference management tool for speaker proposals, event registration, agendas, a mobile s...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719280/catalog/busyconf/icon128x128.png",
+  "website": "https://busyconf.com"
+}

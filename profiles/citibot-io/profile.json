@@ -1,0 +1,13 @@
+{
+  "id": "citibot-io",
+  "title": "Citibot",
+  "subtitle": "With Citibot, civic engagement becomes easier and governments become smarter.",
+  "tags": [
+    "citizen-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573518497/catalog/citibot-io/icon128x128.jpg",
+  "website": "https://www.citibot.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "icontact-pro",
+  "title": "iContact Pro",
+  "subtitle": "iContact Pro is an advanced email market solution that supports email marketers through every aspects of executing su...",
+  "tags": [
+    "marketing-automation",
+    "email-newsletters"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305153/catalog/icontact-pro/icon128x128.png"
+}

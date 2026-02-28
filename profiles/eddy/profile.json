@@ -1,0 +1,14 @@
+{
+  "id": "eddy",
+  "title": "Eddy",
+  "subtitle": "Eddy is the all-in-one HR Suite built to help local businesses with frontline workers easily manage their people, pay...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685868378/icons/eddy.jpg",
+  "website": "https://eddy.com/",
+  "docsUrl": "https://stripe.com/docs/security/stripe"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "peoplebox-ai",
+  "title": "Peoplebox",
+  "subtitle": "Peoplebox helps managers have meaningful 1-on-1s, get continuous feedback, review performance in real-time and take c...",
+  "tags": [
+    "employee-engagement",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509860/catalog/peoplebox-ai/icon128x128.png",
+  "website": "https://www.peoplebox.ai/"
+}

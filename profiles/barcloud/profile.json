@@ -1,0 +1,12 @@
+{
+  "id": "barcloud",
+  "title": "BarCloud",
+  "subtitle": "BarCloud is an online, barcode-based inventory and asset management system.  The solution includes Android and iOS de...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304454/catalog/barcloud/icon128x128.png"
+}

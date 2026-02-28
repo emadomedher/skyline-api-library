@@ -1,0 +1,13 @@
+{
+  "id": "navegg",
+  "title": "Navegg",
+  "subtitle": "A Navegg é líder do mercado latinoamericano em big data, soluções DMP e analytics para realizar estratégias de retarg...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721225/catalog/navegg/icon128x128.jpg",
+  "website": "https://navegg.com"
+}

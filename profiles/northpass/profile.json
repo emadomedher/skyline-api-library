@@ -1,0 +1,14 @@
+{
+  "id": "northpass",
+  "title": "Northpass",
+  "subtitle": "Northpass (formerly SchoolKeep) is a modern LMS for customer, partner and workforce training. We enable you to create...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494232/catalog/northpass/icon128x128.jpg",
+  "website": "https://www.northpass.com/",
+  "docsUrl": "https://app.northpass.com/api/v2/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "optkit",
+  "title": "Optkit",
+  "subtitle": "Optkit API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963434/catalog/optkit/icon128x128.png",
+  "website": "https://optkit.com"
+}

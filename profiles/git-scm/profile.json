@@ -1,0 +1,16 @@
+{
+  "id": "git-scm",
+  "title": "Git",
+  "subtitle": "Git API integration",
+  "tags": [
+    "git",
+    "version-control",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599954822/icons/git-scm.png",
+  "website": "https://git-scm.com/",
+  "docsUrl": "https://raw.github.com/git/git/master/documentation/relnotes/2.28.0.txt"
+}

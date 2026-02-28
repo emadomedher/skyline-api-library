@@ -1,0 +1,14 @@
+{
+  "id": "nearpod",
+  "title": "nearpod",
+  "subtitle": "Nearpod is an award-winning student engagement platform with ready-to-run interactive lessons for K-12 teachers. Expl...",
+  "tags": [
+    "education",
+    "schools"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565520338/catalog/nearpod/icon128x128.jpg",
+  "website": "https://nearpod.com/"
+}

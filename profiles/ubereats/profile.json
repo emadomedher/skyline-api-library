@@ -1,0 +1,15 @@
+{
+  "id": "ubereats",
+  "title": "Uber Eats",
+  "subtitle": "Uber Eats is an American online food ordering and delivery platform launched by Uber in 2014 and based in San Francis...",
+  "tags": [
+    "food-delivery",
+    "restaurant-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801235/catalog/ubereats/icon128x128.png",
+  "website": "https://www.ubereats.com",
+  "docsUrl": "https://developer.uber.com/docs/eats"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "versal",
+  "title": "Versal",
+  "subtitle": "Versal is a modern corporate and education training platform to create interactive online courses.",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946396/catalog/versal/icon128x128.jpg",
+  "website": "https://versal.com"
+}

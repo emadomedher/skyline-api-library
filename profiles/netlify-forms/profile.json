@@ -1,0 +1,14 @@
+{
+  "id": "netlify-forms",
+  "title": "Netlify Forms",
+  "subtitle": "Manage forms and submissions without any server-side code or JavaScript.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522280/icons/netlify-forms.jpg",
+  "website": "https://www.netlify.com/products/forms/",
+  "docsUrl": "https://www.netlify.com/docs/form-handling"
+}

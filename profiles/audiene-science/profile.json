@@ -1,0 +1,13 @@
+{
+  "id": "audiene-science",
+  "title": "Audiene Science",
+  "subtitle": "AudienceScience is the leading global SaaS-based Advertising Automation suite, delivering simplicity and accountabili...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433153/catalog/audiene-science/icon128x128.png",
+  "website": "https://audiencescience.com"
+}

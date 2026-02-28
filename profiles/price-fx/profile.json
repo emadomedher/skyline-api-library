@@ -1,0 +1,13 @@
+{
+  "id": "price-fx",
+  "title": "Price f(x)",
+  "subtitle": "Pricing software vendor providing SaaS solution for your problems with existing pricing tools with all advantages of ...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827255/catalog/price-fx/icon128x128.jpg",
+  "website": "https://pricefx.eu"
+}

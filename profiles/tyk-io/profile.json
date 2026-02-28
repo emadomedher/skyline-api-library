@@ -1,0 +1,14 @@
+{
+  "id": "tyk-io",
+  "title": "Tyk",
+  "subtitle": "Tyk - Open Source API Gateway, API Management Platform, Developer Portal and Analytics - Tyk",
+  "tags": [
+    "api-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563152094/catalog/tyk-io/icon128x128.jpg",
+  "website": "https://tyk.io",
+  "docsUrl": "https://tyk.io/docs"
+}

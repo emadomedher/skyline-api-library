@@ -1,0 +1,15 @@
+{
+  "id": "ponzu-cms",
+  "title": "Ponzu CMS",
+  "subtitle": "Ponzu CMS API integration",
+  "tags": [
+    "headless-cms",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599955739/icons/ponzu-cms.jpg",
+  "website": "https://docs.ponzu-cms.org/",
+  "docsUrl": "https://docs.ponzu-cms.org"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "github",
+  "title": "GitHub",
+  "subtitle": "GitHub brings together the world’s largest community of developers to discover, share, and build better software. Fro...",
+  "tags": [
+    "developer-tools",
+    "issue-tracking",
+    "code-hosting"
+  ],
+  "category": "DevOps",
+  "specType": "openapi",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598543613/icons/github.png",
+  "specUrl": "https://raw.githubusercontent.com/github/rest-api-description/main/descriptions/api.github.com/dereferenced/api.github.com.deref.json",
+  "website": "https://github.com/",
+  "docsUrl": "https://docs.github.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ferratumgroup",
+  "title": "Ferratum Group",
+  "subtitle": "A pioneer in digital banking born from Nordic fintech roots and growing into a global financial services provider. Pr...",
+  "tags": [
+    "financial-services",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607045539/icons/ferratumgroup.jpg",
+  "website": "https://www.ferratumgroup.com/"
+}

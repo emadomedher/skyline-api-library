@@ -1,0 +1,14 @@
+{
+  "id": "hotel-de",
+  "title": "HOTEL DE",
+  "subtitle": "Über 2 Mio. Hotelbewertungen von Gästen helfen Ihnen bei Ihrer Hotelsuche und Ihrem Hotelvergleich. Buchen Sie jetzt ...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612702247/icons/hotel-de.png",
+  "website": "https://www.hotel.de/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "k2c-listening",
+  "title": "K2C Listening",
+  "subtitle": "K2C Listening API integration",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435341/catalog/k2c-listening/icon128x128.png",
+  "website": "https://klick2contactsales.com"
+}

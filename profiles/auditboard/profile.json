@@ -1,0 +1,15 @@
+{
+  "id": "auditboard",
+  "title": "AuditBoard",
+  "subtitle": "AuditBoard is the industry's most complete & user-friendly SOX Compliance and Audit Management software. Trusted by F...",
+  "tags": [
+    "auditing",
+    "sox-compliance",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565655925/catalog/auditboard/icon128x128.jpg",
+  "website": "https://www.auditboard.com/"
+}

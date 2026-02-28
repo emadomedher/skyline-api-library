@@ -1,0 +1,13 @@
+{
+  "id": "pixabay",
+  "title": "Pixabay",
+  "subtitle": "Find your perfect free image or video to download and use for anything. ✓ Free for commercial use ✓ No attribution re...",
+  "tags": [
+    "stock-video"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656700636/icons/pixabay.jpg",
+  "website": "https://pixabay.com/"
+}

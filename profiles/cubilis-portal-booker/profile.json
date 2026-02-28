@@ -1,0 +1,14 @@
+{
+  "id": "cubilis-portal-booker",
+  "title": "Cubilis Portal Booker",
+  "subtitle": "List hotels and B&Bs on one central booking system Portal Booker. This cloud-based reservation system is the ideal pl...",
+  "tags": [
+    "internet-booking-engines",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448047/icons/cubilis-portal-booker.png",
+  "website": "https://www.cubilis.com/en/portal-booker-1"
+}

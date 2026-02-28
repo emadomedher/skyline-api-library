@@ -1,0 +1,13 @@
+{
+  "id": "savicom",
+  "title": "Savicom",
+  "subtitle": "Our web-based email marketing software provides an easy, convenient user experience for marketing managers.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721944/catalog/savicom/icon128x128.png",
+  "website": "https://savicom.com"
+}

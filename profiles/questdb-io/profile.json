@@ -1,0 +1,16 @@
+{
+  "id": "questdb-io",
+  "title": "QuestDB",
+  "subtitle": "QuestDB is an open source database designed to make time-series lightning fast and easy. It exposes a high performanc...",
+  "tags": [
+    "time-series-databases",
+    "databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603815435/icons/questdb-io.png",
+  "website": "https://questdb.io/",
+  "docsUrl": "https://questdb.io/docs/get-started/docker"
+}

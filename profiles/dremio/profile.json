@@ -1,0 +1,14 @@
+{
+  "id": "dremio",
+  "title": "Dremio",
+  "subtitle": "Dremio is a SQL lakehouse platform that enables high-performing BI and analytics directly on data lake storage. Get s...",
+  "tags": [
+    "data-lake"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630506275/icons/dremio.png",
+  "website": "https://www.dremio.com/",
+  "docsUrl": "https://docs.dremio.com"
+}

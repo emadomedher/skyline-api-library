@@ -1,0 +1,14 @@
+{
+  "id": "scrive",
+  "title": "Scrive",
+  "subtitle": "Electronic signature and manage your documents from anywhere, on any device. Discover e signature solutions for any c...",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637114178/icons/scrive.jpg",
+  "website": "https://www.scrive.com/",
+  "docsUrl": "https://apidocs.scrive.com"
+}

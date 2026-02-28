@@ -1,0 +1,15 @@
+{
+  "id": "sdworx-cobra",
+  "title": "Cobra HRM & Salaris",
+  "subtitle": "Cobra HRM & Salaris API integration",
+  "tags": [
+    "hris",
+    "hrm",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801596/icons/sdworx-cobra.jpg",
+  "website": "https://www.sdworx.nl/nl-nl/zorgeloze-salaris--en-hr-administratie/efficiente-en-correcte-verwerking-van-payroll-en-hr-zaken/cobra"
+}

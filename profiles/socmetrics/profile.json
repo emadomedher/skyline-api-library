@@ -1,0 +1,13 @@
+{
+  "id": "socmetrics",
+  "title": "SocMetrics",
+  "subtitle": "SocMetrics API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722225/catalog/socmetrics/icon128x128.jpg",
+  "website": "https://socmetrics.com"
+}

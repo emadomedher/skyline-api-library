@@ -1,0 +1,13 @@
+{
+  "id": "servicesource",
+  "title": "ServiceSource",
+  "subtitle": "Global leader in outsourced inside sales, customer success, revenue retention and customer journey experience. Servic...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946614/catalog/servicesource/icon128x128.jpg",
+  "website": "https://servicesource.com"
+}

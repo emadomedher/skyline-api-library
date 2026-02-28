@@ -1,0 +1,14 @@
+{
+  "id": "veremark",
+  "title": "Veremark",
+  "subtitle": "Veremark is a leading background checking and applicant screening platform. Veremark is global, scalable, secure and ...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990331/icons/veremark.png",
+  "website": "https://www.veremark.com/",
+  "docsUrl": "https://api.veremark.com/external/v1/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cisco-tropo",
+  "title": "Cisco Tropo",
+  "subtitle": "Hosted Voice and SMS API",
+  "tags": [
+    "cpaas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561048372/catalog/cisco-tropo/icon128x128.png",
+  "website": "https://tropo.com",
+  "docsUrl": "https://www.tropo.com/docs"
+}

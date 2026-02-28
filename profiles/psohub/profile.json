@@ -1,0 +1,14 @@
+{
+  "id": "psohub",
+  "title": "PSOhub",
+  "subtitle": "A professional services automation (PSA) solution for HubSpot users. Featuring project management, contract managemen...",
+  "tags": [
+    "project-management",
+    "contract-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605027161/icons/psohub.jpg",
+  "website": "https://www.psohub.com/"
+}

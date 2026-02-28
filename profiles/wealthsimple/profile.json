@@ -1,0 +1,15 @@
+{
+  "id": "wealthsimple",
+  "title": "Wealthsimple",
+  "subtitle": "The simple way to grow your money like the world's most sophisticated investors. No-maintenance portfolios, expert in...",
+  "tags": [
+    "wealth-management",
+    "investments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565432652/catalog/wealthsimple/icon128x128.jpg",
+  "website": "https://wealthsimple.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "archy",
+  "title": "Archy » One platform to power your entire dental practice",
+  "subtitle": "When Big Tech meets the dental industry, you get Archy, a HIPAA-compliant cloud-based platform that's intuitive, comp...",
+  "tags": [
+    "dental-practice-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909672/icons/archy.png",
+  "website": "https://www.archy.com/"
+}

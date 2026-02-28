@@ -1,0 +1,13 @@
+{
+  "id": "topi",
+  "title": "Topi",
+  "subtitle": "We engineer serendipity with technology for conferences, tradeshows, and social events.",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722541/catalog/topi/icon128x128.jpg",
+  "website": "https://topi.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "directiq",
+  "title": "DirectIQ",
+  "subtitle": "DirectIQ API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947139/catalog/directiq/icon128x128.png",
+  "website": "https://directiq.com"
+}

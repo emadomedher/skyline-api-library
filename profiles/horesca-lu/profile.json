@@ -1,0 +1,14 @@
+{
+  "id": "horesca-lu",
+  "title": "Horesca",
+  "subtitle": "Horesca API integration",
+  "tags": [
+    "portal-bookers",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751552/icons/horesca-lu.png",
+  "website": "https://www.horesca.lu/"
+}

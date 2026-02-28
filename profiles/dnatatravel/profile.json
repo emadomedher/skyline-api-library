@@ -1,0 +1,14 @@
+{
+  "id": "dnatatravel",
+  "title": "dnata Travel",
+  "subtitle": "Great deals on flights, holidays, hotels & more with up to 50% savings on stay & free upgrades. 24 hour Customer Supp...",
+  "tags": [
+    "wholesalertour-operator",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724235/icons/dnatatravel.jpg",
+  "website": "https://www.dnatatravel.com/"
+}

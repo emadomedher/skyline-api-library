@@ -1,0 +1,15 @@
+{
+  "id": "wefoster",
+  "title": "WeFoster",
+  "subtitle": "Hosting & Development Company",
+  "tags": [
+    "hosting",
+    "wordpress",
+    "development"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861273/catalog/wefoster/icon128x128.png",
+  "website": "http://wefoster.co"
+}

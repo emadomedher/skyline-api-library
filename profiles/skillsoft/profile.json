@@ -1,0 +1,14 @@
+{
+  "id": "skillsoft",
+  "title": "Skillsoft",
+  "subtitle": "180,000 courses, videos and books with the largest catalog in IT, Business and Leadership skills, and Compliance trai...",
+  "tags": [
+    "online-courses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617783796/icons/skillsoft.jpg",
+  "website": "https://www.skillsoft.com/",
+  "docsUrl": "https://www.skillsoft.com/tech-dev"
+}

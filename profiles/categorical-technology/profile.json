@@ -1,0 +1,13 @@
+{
+  "id": "categorical-technology",
+  "title": "Categorical Technology",
+  "subtitle": "Categorical Technology API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433616/catalog/categorical-technology/icon128x128.png",
+  "website": "https://categorical.com"
+}

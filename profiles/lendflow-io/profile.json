@@ -1,0 +1,15 @@
+{
+  "id": "lendflow-io",
+  "title": "Lendflow",
+  "subtitle": "Lendflow API integration",
+  "tags": [
+    "lending",
+    "lending-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600373224/icons/lendflow-io.png",
+  "website": "https://lendflow.io/",
+  "docsUrl": "https://app.lendflow.io/docs/#introduction"
+}

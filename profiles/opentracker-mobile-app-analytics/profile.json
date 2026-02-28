@@ -1,0 +1,13 @@
+{
+  "id": "opentracker-mobile-app-analytics",
+  "title": "Opentracker Mobile App Analytics",
+  "subtitle": "Use real time analytics to engage with your customers. Monitor behavior on your sit as it happens. Advanced event ana...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963443/catalog/opentracker-mobile-app-analytics/icon128x128.png",
+  "website": "https://opentracker.net"
+}

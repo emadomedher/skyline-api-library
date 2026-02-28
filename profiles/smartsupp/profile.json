@@ -1,0 +1,13 @@
+{
+  "id": "smartsupp",
+  "title": "Smartsupp",
+  "subtitle": "Your customers are currently browsing your site, chat with them. Today. Try live chat for 30 days for FREE.",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722156/catalog/smartsupp/icon128x128.jpg",
+  "website": "https://smartsupp.com"
+}

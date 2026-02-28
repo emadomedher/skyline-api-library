@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-azure",
+  "title": "Microsoft Azure",
+  "subtitle": "Microsoft Azure API integration",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548081100/catalog/microsoft-azure/icon128x128.png",
+  "website": "https://azure.microsoft.com"
+}

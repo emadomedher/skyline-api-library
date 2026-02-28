@@ -1,0 +1,13 @@
+{
+  "id": "ukmail",
+  "title": "Uk Mail Group Plc",
+  "subtitle": "Streamline your mail processes with UK Mail. We can collect your mail or simply upload and print mail directly from y...",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573130941/catalog/ukmail/icon128x128.png",
+  "website": "https://www.ukmail.com/"
+}

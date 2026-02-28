@@ -1,0 +1,13 @@
+{
+  "id": "kudani",
+  "title": "Kudani",
+  "subtitle": "Kudani is a leading content marketing software that helps you discover trending content, curate high quality articles...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946874/catalog/kudani/icon128x128.png",
+  "website": "https://kudani.com"
+}

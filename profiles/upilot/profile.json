@@ -1,0 +1,13 @@
+{
+  "id": "upilot",
+  "title": "UPilot",
+  "subtitle": "UPilot is a CRM with advanced features like role-based access and control, email tracking, revenue forecast, all on a...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306403/catalog/upilot/icon128x128.png",
+  "website": "https://upilot.com"
+}

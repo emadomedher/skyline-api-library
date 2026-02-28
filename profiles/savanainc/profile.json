@@ -1,0 +1,13 @@
+{
+  "id": "savanainc",
+  "title": "Savana",
+  "subtitle": "We're powering the next generation of banking with turnkey operational excellence, competitive advantage, and custome...",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904787/icons/savanainc.jpg",
+  "website": "https://www.savanainc.com/"
+}

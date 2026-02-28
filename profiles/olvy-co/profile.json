@@ -1,0 +1,13 @@
+{
+  "id": "olvy-co",
+  "title": "Olvy",
+  "subtitle": "To keep your users in the know, Olvy is coming up with an innovative and easy to use notification centre and changelo...",
+  "tags": [
+    "changelog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614051883/icons/olvy-co.jpg",
+  "website": "https://olvy.co/"
+}

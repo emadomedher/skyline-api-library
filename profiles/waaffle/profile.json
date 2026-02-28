@@ -1,0 +1,13 @@
+{
+  "id": "waaffle",
+  "title": "Waaffle",
+  "subtitle": "Aggregate social media posts, measure audience engagement and publish custom content feeds for your campaigns, websit...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946375/catalog/waaffle/icon128x128.jpg",
+  "website": "https://waaffle.com"
+}

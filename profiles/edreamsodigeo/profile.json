@@ -1,0 +1,14 @@
+{
+  "id": "edreamsodigeo",
+  "title": "eDreams ODIGEO",
+  "subtitle": "eDreams ODIGEO is a leading online travel group worldwide, one of Europe's largest e-commerce and owner of eDreams, O...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448043/icons/edreamsodigeo.jpg",
+  "website": "https://www.edreamsodigeo.com/"
+}

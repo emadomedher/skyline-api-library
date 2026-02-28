@@ -1,0 +1,15 @@
+{
+  "id": "singular-net",
+  "title": "Singular",
+  "subtitle": "The world's top marketers at companies like Lyft, LinkedIn, Rovio and Microsoft use Singular to unify marketing data,...",
+  "tags": [
+    "marketing-analytics",
+    "attribution"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801246/catalog/singular-net/icon128x128.png",
+  "website": "https://www.singular.net/",
+  "docsUrl": "https://developers.singular.net"
+}

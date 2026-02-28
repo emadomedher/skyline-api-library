@@ -1,0 +1,13 @@
+{
+  "id": "creately",
+  "title": "Creately",
+  "subtitle": "Visual workspace software to collaborate on brainstorming, planning, executing, and analyzing projects. Real-time col...",
+  "tags": [
+    "diagramming"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622574942/icons/creately.jpg",
+  "website": "https://creately.com/"
+}

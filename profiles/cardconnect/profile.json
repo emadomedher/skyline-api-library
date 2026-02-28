@@ -1,0 +1,15 @@
+{
+  "id": "cardconnect",
+  "title": "CardConnect",
+  "subtitle": "CardConnect provides seamless payment acceptance integrations for all businesses, protected by powerful security solu...",
+  "tags": [
+    "payment-integration",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589147444/catalog/cardconnect/icon128x128.jpg",
+  "website": "https://cardconnect.com/",
+  "docsUrl": "https://cardconnect.com/developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "urbantz",
+  "title": "Urbantz",
+  "subtitle": "Last mile delivery and logistics orchestration platform for your enterprise A tier-one enterprise SaaS solution for a...",
+  "tags": [
+    "last-mile-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674686293/icons/urbantz.png",
+  "website": "https://urbantz.com/",
+  "docsUrl": "https://docs.urbantz.com"
+}

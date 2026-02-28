@@ -1,0 +1,13 @@
+{
+  "id": "powerlinks-media",
+  "title": "PowerLinks Media",
+  "subtitle": "PowerLinks Media API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436574/catalog/powerlinks-media/icon128x128.png",
+  "website": "https://powerlinks.com"
+}

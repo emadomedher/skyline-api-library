@@ -1,0 +1,15 @@
+{
+  "id": "microsoft-dynamics",
+  "title": "Microsoft Dynamics CRM",
+  "subtitle": "Dynamics CRM is a leading customer resource management and enterprise resource planning software.",
+  "tags": [
+    "microsoft",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686868862/icons/microsoft-dynamics.png",
+  "website": "https://dynamics.microsoft.com/en-us/",
+  "docsUrl": "https://docs.microsoft.com/en-gb/dynamics365/"
+}

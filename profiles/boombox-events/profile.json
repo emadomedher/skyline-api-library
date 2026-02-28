@@ -1,0 +1,13 @@
+{
+  "id": "boombox-events",
+  "title": "Boombox Events",
+  "subtitle": "World-class experiences for teams and groups. Book an event and experience something new!",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017247/icons/boombox-events.jpg",
+  "website": "https://boombox.events/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "databand-ai",
+  "title": "Databand",
+  "subtitle": "Our ML Development Solution Helps Machine Learning Teams Move Quicker From Research to Release, Without Changing The ...",
+  "tags": [
+    "data-pipelines",
+    "machine-learning",
+    "data-observability"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570907118/catalog/databand-ai/icon128x128.png",
+  "website": "https://databand.ai/",
+  "docsUrl": "https://docs.databand.ai/docs"
+}

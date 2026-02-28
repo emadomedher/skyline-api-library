@@ -1,0 +1,15 @@
+{
+  "id": "lodgify",
+  "title": "Lodgify",
+  "subtitle": "Easily create a website with a “Book Now” function and manage all your reservations from one place with our all-in-on...",
+  "tags": [
+    "travel",
+    "vacation-rental"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570350233/catalog/lodgify/icon128x128.jpg",
+  "website": "https://www.lodgify.com",
+  "docsUrl": "https://www.lodgify.com/docs/api"
+}

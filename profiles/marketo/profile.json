@@ -1,0 +1,14 @@
+{
+  "id": "marketo",
+  "title": "Marketo",
+  "subtitle": "Marketo's marketing automation software helps marketers engage customers and prospects.",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636522745/icons/marketo.jpg",
+  "website": "https://www.marketo.com/",
+  "docsUrl": "https://developers.marketo.com/"
+}

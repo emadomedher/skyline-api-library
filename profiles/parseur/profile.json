@@ -1,0 +1,14 @@
+{
+  "id": "parseur",
+  "title": "Parseur",
+  "subtitle": "Parseur is an easy-to-use email parser which lets you extract meaningful data from your automated emails.",
+  "tags": [
+    "email",
+    "documents"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305640/catalog/parseur/icon128x128.png",
+  "website": "https://parseur.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lever",
+  "title": "Lever",
+  "subtitle": "Lever is an applicant tracking + CRM that draws the entire team together to source, nurture, interview, and hire top ...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637201599/icons/lever.png",
+  "website": "https://www.lever.co/",
+  "docsUrl": "https://hire.lever.co/developer"
+}

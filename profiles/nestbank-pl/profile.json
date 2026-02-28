@@ -1,0 +1,14 @@
+{
+  "id": "nestbank-pl",
+  "title": "Nest Bank",
+  "subtitle": "Nest Bank is a Polish retail and SME lender.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585396890/catalog/nestbank-pl/icon128x128.png",
+  "website": "https://nestbank.pl/",
+  "docsUrl": "https://psd2api.nestbank.pl/"
+}

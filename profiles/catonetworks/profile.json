@@ -1,0 +1,14 @@
+{
+  "id": "catonetworks",
+  "title": "Cato Networks",
+  "subtitle": "Cato converges SD-WAN and security into a global, cloud-based SASE platform.",
+  "tags": [
+    "networking",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746591/icons/catonetworks.png",
+  "website": "https://www.catonetworks.com/"
+}

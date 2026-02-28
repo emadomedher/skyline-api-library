@@ -1,0 +1,13 @@
+{
+  "id": "imagin",
+  "title": "imagin",
+  "subtitle": "Spain's first mobile-only bank providing banking services exclusively through mobile apps and social networks.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592519782/icons/imagin.jpg",
+  "website": "https://www.imagin.com/"
+}

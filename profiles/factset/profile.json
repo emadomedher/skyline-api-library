@@ -1,0 +1,14 @@
+{
+  "id": "factset",
+  "title": "FactSet Research Systems",
+  "subtitle": "FactSet’s flexible, open data and software solutions for the financial industry bring the front, middle, and back off...",
+  "tags": [
+    "financial-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615757971/icons/factset.jpg",
+  "website": "https://www.factset.com/",
+  "docsUrl": "https://developer.factset.com"
+}

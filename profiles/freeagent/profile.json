@@ -1,0 +1,13 @@
+{
+  "id": "freeagent",
+  "title": "FreeAgent",
+  "subtitle": "FreeAgent's powerful and easy-to-use accounting software for UK businesses brings everything together – from invoices...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304984/catalog/freeagent/icon128x128.png",
+  "website": "https://www.freeagent.com/"
+}

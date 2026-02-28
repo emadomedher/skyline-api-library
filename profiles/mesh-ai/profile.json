@@ -1,0 +1,14 @@
+{
+  "id": "mesh-ai",
+  "title": "Mesh",
+  "subtitle": "We're helping teams all over the world reimagine performance management and employee engagement to fit the way you re...",
+  "tags": [
+    "employee-performance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093476/icons/mesh-ai.png",
+  "website": "https://www.mesh.ai/",
+  "docsUrl": "https://www.mesh.ai/knowledge-hub"
+}

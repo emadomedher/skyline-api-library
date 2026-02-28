@@ -1,0 +1,15 @@
+{
+  "id": "acuantcorp",
+  "title": "Acuant",
+  "subtitle": "Patented technology for your most trusted Data Capture, Document Authentication & Identity Verification Solutions",
+  "tags": [
+    "identity",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586354044/catalog/acuantcorp/icon128x128.png",
+  "website": "https://www.acuantcorp.com/",
+  "docsUrl": "https://www.acuantcorp.com/developers/acuantgo-mobile-app-sdk-trial"
+}

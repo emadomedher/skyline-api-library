@@ -1,0 +1,13 @@
+{
+  "id": "hdfcbank",
+  "title": "HDFC Bank",
+  "subtitle": "HDFC Bank Limited is an Indian banking and financial services company, headquartered in Mumbai, Maharashtra. HDFC Ban...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623519086/icons/hdfcbank.jpg",
+  "website": "https://www.hdfcbank.com/"
+}

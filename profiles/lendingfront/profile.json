@@ -1,0 +1,13 @@
+{
+  "id": "lendingfront",
+  "title": "LendingFront",
+  "subtitle": "LendingFront gives banks and other credit providers the most up-to-date lending technology to originate, underwrite, ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268419/icons/lendingfront.jpg",
+  "website": "https://lendingfront.com"
+}

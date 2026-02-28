@@ -1,0 +1,12 @@
+{
+  "id": "memberspace",
+  "title": "MemberSpace",
+  "subtitle": "Create your online course, training program, or other business idea inside your existing Squarespace website.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305428/catalog/memberspace/icon128x128.png"
+}

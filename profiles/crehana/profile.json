@@ -1,0 +1,13 @@
+{
+  "id": "crehana",
+  "title": "Crehana",
+  "subtitle": "Cursos online de marketing, fotografía, negocios, ilustración, diseño, animación y más. Mejora tus habilidades y apre...",
+  "tags": [
+    "online-courses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618435379/icons/crehana.jpg",
+  "website": "https://www.crehana.com/"
+}

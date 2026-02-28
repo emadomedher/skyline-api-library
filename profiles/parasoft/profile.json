@@ -1,0 +1,13 @@
+{
+  "id": "parasoft",
+  "title": "Parasoft",
+  "subtitle": "Reduce the time, effort, and cost of delivering secure, reliable, and compliant software with Parasoft’s comprehensiv...",
+  "tags": [
+    "automated-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644346046/icons/parasoft.jpg",
+  "website": "https://www.parasoft.com/"
+}

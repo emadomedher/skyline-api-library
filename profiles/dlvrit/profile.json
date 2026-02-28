@@ -1,0 +1,13 @@
+{
+  "id": "dlvrit",
+  "title": "dlvr.it",
+  "subtitle": "Put your social media on autopilot. Automatically schedule and post blogs, photos, RSS, news and videos to Facebook, ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947133/catalog/dlvrit/icon128x128.png",
+  "website": "https://dlvrit.com"
+}

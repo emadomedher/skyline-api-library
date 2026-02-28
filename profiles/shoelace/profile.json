@@ -1,0 +1,13 @@
+{
+  "id": "shoelace",
+  "title": "Shoelace",
+  "subtitle": "We combine real human experts with smart technology to create highly customized retargeting journeys for your online ...",
+  "tags": [
+    "customer-journey-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738443/catalog/shoelace/icon128x128.jpg",
+  "website": "https://shoelace.com/"
+}

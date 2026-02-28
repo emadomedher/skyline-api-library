@@ -1,0 +1,13 @@
+{
+  "id": "harvest-fr",
+  "title": "Harvest SA",
+  "subtitle": "Harvest est un éditeur de logiciels spécialisé sur les métiers du conseil financier, de la gestion de patrimoine et d...",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592727615/icons/harvest-fr.jpg",
+  "website": "https://www.harvest.fr/"
+}

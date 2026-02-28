@@ -1,0 +1,13 @@
+{
+  "id": "mobietrain",
+  "title": "MobieTrain",
+  "subtitle": "Empower your frontline staff with effective training. MobieTrain revolutionises workplace learning with our mobile-fi...",
+  "tags": [
+    "microlearning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595888834/icons/mobietrain.jpg",
+  "website": "https://www.mobietrain.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "openlibrary",
+  "title": "Open Library",
+  "subtitle": "Open Library is an open, editable library catalog, building towards a web page for every book ever published. Read, b...",
+  "tags": [
+    "books",
+    "open-data"
+  ],
+  "category": "Open Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630094637/icons/openlibrary.jpg",
+  "website": "https://openlibrary.org/",
+  "docsUrl": "https://openlibrary.org/developers"
+}

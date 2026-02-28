@@ -1,0 +1,12 @@
+{
+  "id": "leadabode",
+  "title": "LeadAbode",
+  "subtitle": "LeadAbode is a sales leads generation platform which generates sales leads for the websites through live chat with si...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305272/catalog/leadabode/icon128x128.png"
+}

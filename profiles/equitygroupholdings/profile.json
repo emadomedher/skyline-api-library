@@ -1,0 +1,13 @@
+{
+  "id": "equitygroupholdings",
+  "title": "Equity Bank Kenya",
+  "subtitle": "Equity Bank Kenya API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608488629/icons/equitygroupholdings.jpg",
+  "website": "https://equitygroupholdings.com/"
+}

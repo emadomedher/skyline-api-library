@@ -1,0 +1,14 @@
+{
+  "id": "vikwp",
+  "title": "VikWP",
+  "subtitle": "We build powerful Plugins and Themes for WordPress, available for your online businesses such as Hotels, Car Rentals,...",
+  "tags": [
+    "wordpress-plugins"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616397985/icons/vikwp.jpg",
+  "website": "https://vikwp.com/",
+  "docsUrl": "https://vikwp.com/support/documentation/developers"
+}

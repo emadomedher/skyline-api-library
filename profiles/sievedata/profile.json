@@ -1,0 +1,14 @@
+{
+  "id": "sievedata",
+  "title": "Sieve",
+  "subtitle": "Join leading teams building next-generation applications with the power of video AI. Build AI workflows to process, u...",
+  "tags": [
+    "video-ai"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637948/icons/sievedata.jpg",
+  "website": "https://www.sievedata.com/",
+  "docsUrl": "https://docs.sievedata.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "actifio",
+  "title": "Actifio",
+  "subtitle": "Actifio enterprise cloud data management enables thousands of businesses to deliver their data just as they deliver t...",
+  "tags": [
+    "data-management"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606932774/icons/actifio.png",
+  "website": "https://www.actifio.com/",
+  "docsUrl": "https://www.actifio.com/who-we-help/devops-developers"
+}

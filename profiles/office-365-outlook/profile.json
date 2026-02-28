@@ -1,0 +1,12 @@
+{
+  "id": "office-365-outlook",
+  "title": "Office 365 Outlook",
+  "subtitle": "Microsoft Office 365 is a cloud-based service that is designed to help meet your organization's needs for robust secu...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264818/catalog/office-365-outlook/icon128x128.png"
+}

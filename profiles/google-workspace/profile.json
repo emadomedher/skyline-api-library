@@ -1,0 +1,14 @@
+{
+  "id": "google-workspace",
+  "title": "Google Workspace",
+  "subtitle": "An integrated suite of secure, cloud-native collaboration and productivity apps powered by Google AI. Includes Gmail,...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602094842/icons/google-workspace.jpg",
+  "website": "https://workspace.google.com/",
+  "docsUrl": "https://developers.google.com/workspace"
+}

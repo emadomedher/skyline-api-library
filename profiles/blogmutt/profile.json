@@ -1,0 +1,13 @@
+{
+  "id": "blogmutt",
+  "title": "BlogMutt",
+  "subtitle": "Verblio is a content and blog writing service that creates original, high-quality blog content for your business or a...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565591/catalog/blogmutt/icon128x128.png",
+  "website": "https://blogmutt.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nakamahr-eu",
+  "title": "Nakama HR",
+  "subtitle": "Nakama helps you to design a Employee Referral Strategy and digitalize it in our leading software.",
+  "tags": [
+    "employee-referral",
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577703329/catalog/nakamahr-eu/icon128x128.png",
+  "website": "https://www.nakamahr.eu/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "callexa-feedback",
+  "title": "Callexa Feedback",
+  "subtitle": "Callexa is a full-featured surveying tool based on the established Net Promoter Score. Get valuable customer feedback...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304553/catalog/callexa-feedback/icon128x128.png"
+}

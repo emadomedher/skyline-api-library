@@ -1,0 +1,13 @@
+{
+  "id": "adaptus",
+  "title": "Adaptus",
+  "subtitle": "Adaptus is a software as a service offering the industry's first and only On-Demand virus scanner for Salesforce and ...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311419/catalog/adaptus/icon128x128.jpg",
+  "website": "https://adaptus.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "elearnio",
+  "title": "elearnio",
+  "subtitle": "Talent Management Software for successful preboarding, onboarding and employee training. All in one platform. Try now...",
+  "tags": [
+    "employee-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643305956/icons/elearnio.png",
+  "website": "https://elearnio.com/"
+}

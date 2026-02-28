@@ -1,0 +1,13 @@
+{
+  "id": "delmondo",
+  "title": "Delmondo",
+  "subtitle": "Social video analytics & audience insights software for leading brands, publishers, media companies and sports organi...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719772/catalog/delmondo/icon128x128.jpg",
+  "website": "https://delmondo.co"
+}

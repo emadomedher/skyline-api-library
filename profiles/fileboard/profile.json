@@ -1,0 +1,13 @@
+{
+  "id": "fileboard",
+  "title": "Fileboard",
+  "subtitle": "SDRs and Account Executives use Fileboard for sales engagement, automation, and AI. Reduce your sales cycle, close bu...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434607/catalog/fileboard/icon128x128.png",
+  "website": "https://fileboard.com"
+}

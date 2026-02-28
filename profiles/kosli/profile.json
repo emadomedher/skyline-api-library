@@ -1,0 +1,14 @@
+{
+  "id": "kosli",
+  "title": "Kosli",
+  "subtitle": "Track and query every change to your code from commit to production. See exactly how your pipelines and environments ...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667856382/icons/kosli.jpg",
+  "website": "https://www.kosli.com/",
+  "docsUrl": "https://www.kosli.com/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "homesnap",
+  "title": "Homesnap",
+  "subtitle": "The site for serious homebuyers. See every home for sale with our award-winning MLS-powered search. Tour homes, make ...",
+  "tags": [
+    "real-estate-portals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598475480/icons/homesnap.jpg",
+  "website": "https://www.homesnap.com/"
+}

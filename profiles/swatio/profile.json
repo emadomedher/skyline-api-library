@@ -1,0 +1,13 @@
+{
+  "id": "swatio",
+  "title": "Swat.io",
+  "subtitle": "The Enterprise & Agency Solution for Content Planning, Community Management and Social Customer Service.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946513/catalog/swatio/icon128x128.png",
+  "website": "https://swat.io"
+}

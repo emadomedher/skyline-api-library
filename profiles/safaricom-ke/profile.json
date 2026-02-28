@@ -1,0 +1,13 @@
+{
+  "id": "safaricom-ke",
+  "title": "Safaricom PLC",
+  "subtitle": "Safaricom PLC API integration",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588684461/catalog/safaricom-ke/icon128x128.jpg",
+  "website": "https://www.safaricom.co.ke/"
+}

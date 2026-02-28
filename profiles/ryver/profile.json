@@ -1,0 +1,13 @@
+{
+  "id": "ryver",
+  "title": "Ryver",
+  "subtitle": "Ryver is a new, more powerful way to communicate with your team(s). Ryver combines the freedom and immediacy of chat ...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305945/catalog/ryver/icon128x128.png",
+  "website": "https://ryver.com/"
+}

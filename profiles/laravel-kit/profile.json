@@ -1,0 +1,13 @@
+{
+  "id": "laravel-kit",
+  "title": "Laravel Kit",
+  "subtitle": "A desktop Laravel admin panel app. Contribute to tmdh/laravel-kit development by creating an account on GitHub.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615571321/icons/laravel-kit.png",
+  "website": "https://github.com/tmdh/laravel-kit"
+}

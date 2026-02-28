@@ -1,0 +1,13 @@
+{
+  "id": "artsai",
+  "title": "Artsai",
+  "subtitle": "Artsai API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719007/catalog/artsai/icon128x128.jpg",
+  "website": "https://artsai.com"
+}

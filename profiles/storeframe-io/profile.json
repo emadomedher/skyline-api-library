@@ -1,0 +1,15 @@
+{
+  "id": "storeframe-io",
+  "title": "StoreFrame",
+  "subtitle": "StoreFrame API integration",
+  "tags": [
+    "webshop-builder",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627928928/icons/storeframe-io.png",
+  "website": "https://www.storeframe.io/",
+  "docsUrl": "https://www.storeframe.io/for-developers"
+}

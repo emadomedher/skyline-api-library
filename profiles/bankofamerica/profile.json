@@ -1,0 +1,14 @@
+{
+  "id": "bankofamerica",
+  "title": "Bank of America",
+  "subtitle": "The Bank of America Corporation is an American multinational investment bank and financial services company based in ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569446920/catalog/bankofamerica/icon128x128.jpg",
+  "website": "https://bankofamerica.com",
+  "docsUrl": "https://developer.bankofamerica.com"
+}

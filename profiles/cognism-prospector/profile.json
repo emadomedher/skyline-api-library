@@ -1,0 +1,13 @@
+{
+  "id": "cognism-prospector",
+  "title": "Cognism Prospector",
+  "subtitle": "Grow sales and revenue with Cognism Prospector. Find global B2B leads and automate your outreach. Book meetings and c...",
+  "tags": [
+    "sales-prospection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006410/icons/cognism-prospector.jpg",
+  "website": "https://www.cognism.com/prospector"
+}

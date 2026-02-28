@@ -1,0 +1,14 @@
+{
+  "id": "easysolution-be",
+  "title": "EASYSOLUTION",
+  "subtitle": "EasySolution est une entreprise de services informatiques spécialisée dans le développement web au service des indépe...",
+  "tags": [
+    "it-service-providers",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604860509/icons/easysolution-be.png",
+  "website": "https://www.easysolution.be/"
+}

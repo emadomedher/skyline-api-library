@@ -1,0 +1,13 @@
+{
+  "id": "globalpaymentsinc",
+  "title": "Global Payments",
+  "subtitle": "Headquartered in Atlanta, Global Payments has merchants and partners throughout North America, Europe, the Asia-Pacif...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571962508/catalog/globalpaymentsinc/icon128x128.jpg",
+  "website": "https://www.globalpaymentsinc.com"
+}

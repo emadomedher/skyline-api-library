@@ -1,0 +1,15 @@
+{
+  "id": "snyk-io",
+  "title": "Snyk",
+  "subtitle": "Snyk helps you use open source and stay secure. Continuously find and fix vulnerabilities for npm, Maven, NuGet, Ruby...",
+  "tags": [
+    "security",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567129483/catalog/snyk-io/icon128x128.png",
+  "website": "https://snyk.io",
+  "docsUrl": "https://snyk.io/docs"
+}

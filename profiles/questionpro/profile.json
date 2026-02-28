@@ -1,0 +1,13 @@
+{
+  "id": "questionpro",
+  "title": "QuestionPro",
+  "subtitle": "QuestionPro is an online survey platform that allows users to generate the insights they need to make better business...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284586/catalog/questionpro/icon128x128.png",
+  "website": "https://questionpro.com"
+}

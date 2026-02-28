@@ -1,0 +1,13 @@
+{
+  "id": "interprefy",
+  "title": "Interprefy",
+  "subtitle": "Looking for a remote simultaneous interpretation platform for your next event or need remote interpreting services? W...",
+  "tags": [
+    "interpretation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647328156/icons/interprefy.jpg",
+  "website": "https://www.interprefy.com/"
+}

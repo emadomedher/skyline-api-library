@@ -1,0 +1,14 @@
+{
+  "id": "droyd-io",
+  "title": "Droyd",
+  "subtitle": "Schedule revenue updates in Slack. Droyd automates reports from Salesforce, HubSpot, Pipedrive and other data sources...",
+  "tags": [
+    "analytics-reporting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626442147/icons/droyd-io.png",
+  "website": "https://www.droyd.io/",
+  "docsUrl": "https://www.notion.so/droyd/droyd-user-documentation-4cdeeb95631648d1899ee80b3b878e71"
+}

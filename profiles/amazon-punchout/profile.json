@@ -1,0 +1,13 @@
+{
+  "id": "amazon-punchout",
+  "title": "Amazon PunchOut",
+  "subtitle": "Amazon PunchOut API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561501121/catalog/amazon-punchout/icon128x128.png",
+  "website": "https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201722990"
+}

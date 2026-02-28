@@ -1,0 +1,13 @@
+{
+  "id": "vanhack",
+  "title": "VanHack",
+  "subtitle": "VanHack helps you quickly find Senior Tech Professionals from our global community of over 400,000 candidates who are...",
+  "tags": [
+    "job-search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663081991/icons/vanhack.jpg",
+  "website": "https://vanhack.com/"
+}

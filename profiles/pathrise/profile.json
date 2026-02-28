@@ -1,0 +1,13 @@
+{
+  "id": "pathrise",
+  "title": "Pathrise",
+  "subtitle": "Pathrise is a career accelerator that helps you build real-world experience, pairs you with an industry leading mento...",
+  "tags": [
+    "career-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572100076/catalog/pathrise/icon128x128.jpg",
+  "website": "https://www.pathrise.com/"
+}

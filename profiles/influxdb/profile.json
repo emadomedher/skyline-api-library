@@ -1,0 +1,16 @@
+{
+  "id": "influxdb",
+  "title": "InfluxDB",
+  "subtitle": "InfluxDB is a time series database designed to handle high write and query loads. It is meant to be used as back end ...",
+  "tags": [
+    "databases",
+    "time-series-databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080681/catalog/influxdb/icon128x128.png",
+  "website": "https://www.influxdata.com/products/influxdb-overview/",
+  "docsUrl": "https://www.influxdata.com/developers"
+}

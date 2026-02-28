@@ -1,0 +1,13 @@
+{
+  "id": "flare-cloud-accounting",
+  "title": "Flare Cloud Accounting",
+  "subtitle": "Flare small business accounting software helps business owners and accountants increase profit by providing real-time...",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946998/catalog/flare-cloud-accounting/icon128x128.jpg",
+  "website": "https://flareapps.com"
+}

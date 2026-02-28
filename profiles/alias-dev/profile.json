@@ -1,0 +1,14 @@
+{
+  "id": "alias-dev",
+  "title": "Alias",
+  "subtitle": "APIs and tools to help Developers and DPOs to manage GDPR compliance at scale",
+  "tags": [
+    "data-privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622146251/icons/alias-dev.jpg",
+  "website": "https://www.alias.dev/"
+}

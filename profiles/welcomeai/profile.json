@@ -1,0 +1,13 @@
+{
+  "id": "welcomeai",
+  "title": "Welcome.AI",
+  "subtitle": " The Artificial Intelligence Market Network. Discover and learn about AI Companies, Technologies and Case Studies in ...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946363/catalog/welcomeai/icon128x128.jpg",
+  "website": "https://welcome.ai"
+}

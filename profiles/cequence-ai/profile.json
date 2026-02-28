@@ -1,0 +1,13 @@
+{
+  "id": "cequence-ai",
+  "title": "Cequence Security",
+  "subtitle": "Cequence secures web, mobile, and API applications. We discover all apps, detect malicious bots, and stop attacks wit...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567128397/catalog/cequence-ai/icon128x128.jpg",
+  "website": "https://www.cequence.ai"
+}

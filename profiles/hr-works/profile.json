@@ -1,0 +1,13 @@
+{
+  "id": "hr-works",
+  "title": "HRworks",
+  "subtitle": "HRworks is an HR tech company with locations in Freiburg, Frankfurt, and Berlin. It is one of the most successful pro...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1710503763/icons/hr-works.jpg",
+  "website": "https://www.hrworks.de/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "airmason",
+  "title": "AirMason",
+  "subtitle": "AirMason's online employee handbook software makes it easy to create, distribute, track and update digital employee h...",
+  "tags": [
+    "employee-handbook",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583862060/catalog/airmason/icon128x128.jpg",
+  "website": "https://www.airmason.com/"
+}

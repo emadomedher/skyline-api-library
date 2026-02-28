@@ -1,0 +1,13 @@
+{
+  "id": "twimbit",
+  "title": "twimbit",
+  "subtitle": "Innovate to solve the biggest challenges like trust, aspirational careers, connectivity, experience and financial inc...",
+  "tags": [
+    "innovation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648651255/icons/twimbit.jpg",
+  "website": "https://twimbit.com/"
+}

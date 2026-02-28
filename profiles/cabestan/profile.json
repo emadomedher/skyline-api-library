@@ -1,0 +1,13 @@
+{
+  "id": "cabestan",
+  "title": "Cabestan",
+  "subtitle": "Editeur d’une plateforme SaaS dédiée au marketing relationnel, Cabestan propose une solution tout en un pour orchestr...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570999821/catalog/cabestan/icon128x128.png",
+  "website": "https://www.cabestan.com/"
+}

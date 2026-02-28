@@ -1,0 +1,15 @@
+{
+  "id": "matterway-io",
+  "title": "Matterway",
+  "subtitle": "Increase productivity with your employees' new integrated digital workspace",
+  "tags": [
+    "employee-assistants",
+    "hr",
+    "employee-productivity"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801272/catalog/matterway-io/icon128x128.jpg",
+  "website": "https://matterway.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "generateideas-ai",
+  "title": "GenerateIdeas.ai",
+  "subtitle": "Generate ideas about anything with the world's first artificially intelligent brainstorming tool. Sign up for free an...",
+  "tags": [
+    "idea-generators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637980023/icons/generateideas-ai.png",
+  "website": "https://www.generateideas.ai/"
+}

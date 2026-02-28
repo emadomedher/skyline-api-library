@@ -1,0 +1,14 @@
+{
+  "id": "wonderflow-ai",
+  "title": "Wonderflow",
+  "subtitle": "Simple. Accurate. Predictive. Wonderflow AI-based analytics platform enables brands to make winning decisions listeni...",
+  "tags": [
+    "voc-analytics",
+    "customer-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637639865/icons/wonderflow-ai.jpg",
+  "website": "https://www.wonderflow.ai/"
+}

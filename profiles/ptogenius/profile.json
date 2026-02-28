@@ -1,0 +1,14 @@
+{
+  "id": "ptogenius",
+  "title": "PTO Genius",
+  "subtitle": "Easily increase employee engagement, retention, peace of mind and job satisfaction while reducing PTO liability with ...",
+  "tags": [
+    "pto",
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082043/icons/ptogenius.jpg",
+  "website": "https://www.ptogenius.com/"
+}

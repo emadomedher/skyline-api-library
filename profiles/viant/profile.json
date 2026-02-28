@@ -1,0 +1,13 @@
+{
+  "id": "viant",
+  "title": "Viant",
+  "subtitle": "Viant API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438260/catalog/viant/icon128x128.png",
+  "website": "https://viantinc.com"
+}

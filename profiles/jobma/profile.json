@@ -1,0 +1,13 @@
+{
+  "id": "jobma",
+  "title": "Jobma",
+  "subtitle": "Jobma offers live and pre-recorded video interview services to its potential customers. Jobma video interview platfor...",
+  "tags": [
+    "video-interview"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641943811/icons/jobma.jpg",
+  "website": "https://www.jobma.com/"
+}

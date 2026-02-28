@@ -1,0 +1,13 @@
+{
+  "id": "google-classroom",
+  "title": "Google Classroom",
+  "subtitle": "Classroom helps students and teachers organize assignments, boost collaboration, and foster better communication.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587320462/catalog/google-classroom/icon128x128.jpg",
+  "website": "https://edu.google.com/products/classroom"
+}

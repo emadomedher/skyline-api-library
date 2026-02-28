@@ -1,0 +1,13 @@
+{
+  "id": "amp-au",
+  "title": "AMP",
+  "subtitle": "AMP is a financial services company in Australia and New Zealand providing superannuation and investment products, fi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618333990/icons/amp-au.jpg",
+  "website": "https://www.amp.com.au/"
+}

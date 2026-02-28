@@ -1,0 +1,14 @@
+{
+  "id": "onepagecrm",
+  "title": "OnePageCRM",
+  "subtitle": "OnePageCRM is the #1 action-focused CRM software. Straightforward and easy-to-use CRM solution for sales teams of all...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178335/catalog/onepagecrm/icon128x128.png",
+  "website": "https://onepagecrm.com",
+  "docsUrl": "https://developer.onepagecrm.com/"
+}

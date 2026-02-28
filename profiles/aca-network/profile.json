@@ -1,0 +1,14 @@
+{
+  "id": "aca-network",
+  "title": "ACA Network",
+  "subtitle": "ACA Network is a blockchain-based marketing platform that allows merchants and affiliates to interact directly withou...",
+  "tags": [
+    "display-and-programmatic-advertising",
+    "blockchain"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432691/catalog/aca-network/icon128x128.png",
+  "website": "https://aca.network"
+}

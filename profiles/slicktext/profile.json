@@ -1,0 +1,13 @@
+{
+  "id": "slicktext",
+  "title": "SlickText",
+  "subtitle": "SlickText provides businesses and organizations with SMS marketing and mass text messaging solutions.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539023/catalog/slicktext/icon128x128.png",
+  "website": "https://slicktext.com"
+}

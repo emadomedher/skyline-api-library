@@ -1,0 +1,13 @@
+{
+  "id": "talkpoint",
+  "title": "Talkpoint",
+  "subtitle": "TalkPoint is the global standard for cloud-based communications including live webcasting and delivery of video for t...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722437/catalog/talkpoint/icon128x128.jpg",
+  "website": "https://talkpoint.com"
+}

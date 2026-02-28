@@ -1,0 +1,12 @@
+{
+  "id": "revv",
+  "title": "Revv",
+  "subtitle": "Revv is a donation platform that will help your cause, non-profit, or political campaign raise more money.",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305889/catalog/revv/icon128x128.png"
+}

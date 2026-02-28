@@ -1,0 +1,14 @@
+{
+  "id": "postalytics",
+  "title": "Postalytics",
+  "subtitle": "Postalytics turns direct mail into a digital channel providing tools to build, send and track postcards and letters.",
+  "tags": [
+    "printing",
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305720/catalog/postalytics/icon128x128.png",
+  "website": "https://Postalytics.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dashmetrics",
+  "title": "DashMetrics",
+  "subtitle": "DashMetrics is a platform that enables individuals and companies to create easily digestible infographic dashboards a...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947167/catalog/dashmetrics/icon128x128.png",
+  "website": "https://dashmetrics.io"
+}

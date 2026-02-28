@@ -1,0 +1,13 @@
+{
+  "id": "storyports",
+  "title": "Storyports",
+  "subtitle": "Storyports API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946525/catalog/storyports/icon128x128.png",
+  "website": "https://storyports.com"
+}

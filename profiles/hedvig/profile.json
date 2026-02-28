@@ -1,0 +1,14 @@
+{
+  "id": "hedvig",
+  "title": "Hedvig",
+  "subtitle": "Insurance has been broken for way too long. With the latest technologies, some common sense and people’s best interes...",
+  "tags": [
+    "insurance",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567033153/catalog/hedvig/icon128x128.jpg",
+  "website": "https://www.hedvig.com/"
+}

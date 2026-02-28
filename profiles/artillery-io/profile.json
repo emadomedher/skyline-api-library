@@ -1,0 +1,15 @@
+{
+  "id": "artillery-io",
+  "title": "Artillery.io",
+  "subtitle": "Artillery.io API integration",
+  "tags": [
+    "load-testing",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606682569/icons/artillery-io.jpg",
+  "website": "https://artillery.io/",
+  "docsUrl": "https://artillery.io/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zalando-payments",
+  "title": "Zalando Payments",
+  "subtitle": "Zalando Payments API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605455846/icons/zalando-payments.jpg",
+  "website": "https://sites.google.com/zalando.de/zalando-payments/zalando-payments"
+}

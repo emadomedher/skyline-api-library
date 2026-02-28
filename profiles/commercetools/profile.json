@@ -1,0 +1,14 @@
+{
+  "id": "commercetools",
+  "title": "commercetools",
+  "subtitle": "Increase business agility, innovate across new business models. Build your commerce architecture of the future with t...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964155/catalog/commercetools/icon128x128.png",
+  "website": "https://commercetools.com",
+  "docsUrl": "https://commercetools.com/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aviatrix",
+  "title": "Aviatrix",
+  "subtitle": "Aviatrix API integration",
+  "tags": [
+    "cloud-networking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584551427/catalog/aviatrix/icon128x128.png",
+  "website": "https://aviatrix.com/"
+}

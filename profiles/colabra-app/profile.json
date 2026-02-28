@@ -1,0 +1,14 @@
+{
+  "id": "colabra-app",
+  "title": "Colabra",
+  "subtitle": "Colabra catalogs events throughout the R&D lifecycle, streamlines FAIR data governance, and connects siloed systems i...",
+  "tags": [
+    "randd-workflow-visibility"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681899113/icons/colabra-app.jpg",
+  "website": "https://colabra.app/",
+  "docsUrl": "https://colabra.app/docs"
+}

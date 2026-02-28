@@ -1,0 +1,12 @@
+{
+  "id": "bulksms",
+  "title": "BulkSMS.my",
+  "subtitle": "SMS service by BulkSMS.my. Add-on SMS notification, SMS scheduling and SMS personalised broadcasting with just a few ...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304546/catalog/bulksms/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ppro",
+  "title": "PPRO",
+  "subtitle": "PPRO works with payment service providers and local payment methods to help merchants optimise the payment experience...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590612394/catalog/ppro/icon128x128.jpg",
+  "website": "https://www.ppro.com/"
+}

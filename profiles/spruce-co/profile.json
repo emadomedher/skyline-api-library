@@ -1,0 +1,14 @@
+{
+  "id": "spruce-co",
+  "title": "Spruce",
+  "subtitle": "Improve efficiency, leverage tech, and provide better customer experiences. Spruce makes buying & selling real estate...",
+  "tags": [
+    "proptech",
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590189923/catalog/spruce-co/icon128x128.jpg",
+  "website": "https://spruce.co/"
+}

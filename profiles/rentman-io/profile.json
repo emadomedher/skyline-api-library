@@ -1,0 +1,14 @@
+{
+  "id": "rentman-io",
+  "title": "Rentman",
+  "subtitle": "Modern rental software to run your live event rentals and productions. Manage and plan resources, scheduling, and com...",
+  "tags": [
+    "rental",
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599667387/icons/rentman-io.jpg",
+  "website": "https://rentman.io/"
+}

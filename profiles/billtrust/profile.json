@@ -1,0 +1,14 @@
+{
+  "id": "billtrust",
+  "title": "Billtrust",
+  "subtitle": "Billtrust's intelligent AR solutions enable companies to create their own financial success stories by making B2B pay...",
+  "tags": [
+    "accounting",
+    "accounts-receivable"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597962510/icons/billtrust.png",
+  "website": "https://www.billtrust.com/"
+}

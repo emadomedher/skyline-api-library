@@ -1,0 +1,15 @@
+{
+  "id": "tripetto",
+  "title": "Tripetto",
+  "subtitle": "Tripetto is a conversational form builder with a really fresh vision on conversational data collection. Give life to ...",
+  "tags": [
+    "forms",
+    "no-code"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613706192/icons/tripetto.jpg",
+  "website": "https://tripetto.com/",
+  "docsUrl": "https://tripetto.com/developers"
+}

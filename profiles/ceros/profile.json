@@ -1,0 +1,13 @@
+{
+  "id": "ceros",
+  "title": "Ceros",
+  "subtitle": "Ceros is an experiential content creation platform that empowers marketers and designers to create engaging, interact...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433640/catalog/ceros/icon128x128.png",
+  "website": "https://ceros.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "qchain",
+  "title": "QChain",
+  "subtitle": "QChain API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436728/catalog/qchain/icon128x128.png",
+  "website": "https://qchain.co"
+}

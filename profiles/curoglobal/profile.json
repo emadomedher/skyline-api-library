@@ -1,0 +1,13 @@
+{
+  "id": "curoglobal",
+  "title": "Curo",
+  "subtitle": "Curo is a GPS-Enabled task management for today's mobile workforce. Make sure that all of your tasks are done right t...",
+  "tags": [
+    "field-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302482/icons/curoglobal.png",
+  "website": "https://curoglobal.com/"
+}

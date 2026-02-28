@@ -1,0 +1,14 @@
+{
+  "id": "trackjs",
+  "title": "Track JS",
+  "subtitle": "TrackJS monitors your users for JavaScript errors and reports them to you with all the context you need to understand...",
+  "tags": [
+    "performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567217511/catalog/trackjs/icon128x128.jpg",
+  "website": "https://trackjs.com/",
+  "docsUrl": "https://docs.trackjs.com"
+}

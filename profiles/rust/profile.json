@@ -1,0 +1,14 @@
+{
+  "id": "rust",
+  "title": "Rust",
+  "subtitle": "A language empowering everyone to build reliable and efficient software.",
+  "tags": [
+    "programming-language"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559924062/catalog/rust/icon128x128.png",
+  "website": "https://rust-lang.org",
+  "docsUrl": "https://doc.rust-lang.org"
+}

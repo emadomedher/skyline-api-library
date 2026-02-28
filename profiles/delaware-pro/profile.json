@@ -1,0 +1,15 @@
+{
+  "id": "delaware-pro",
+  "title": "delaware",
+  "subtitle": "delaware is a fast-growing, global company that delivers advanced solutions and services to organizations striving fo...",
+  "tags": [
+    "consultancy",
+    "accountancy-services",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622425469/icons/delaware-pro.jpg",
+  "website": "https://www.delaware.pro/"
+}

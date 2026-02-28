@@ -1,0 +1,15 @@
+{
+  "id": "vworkapp",
+  "title": "vWork",
+  "subtitle": "vWork is the leading job scheduling and dispatch software for business on move. Used by businesses worldwide to optim...",
+  "tags": [
+    "scheduling",
+    "field-service"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588107996/catalog/vworkapp/icon128x128.png",
+  "website": "https://www.vworkapp.com/",
+  "docsUrl": "https://www.vworkapp.com/for-developers"
+}

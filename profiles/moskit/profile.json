@@ -1,0 +1,13 @@
+{
+  "id": "moskit",
+  "title": "Moskit",
+  "subtitle": "Moskit CRM works hard for our customers to achieve new goals and have impactful results with contact management, deal...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305486/catalog/moskit/icon128x128.png",
+  "website": "https://moskitcrm.com"
+}

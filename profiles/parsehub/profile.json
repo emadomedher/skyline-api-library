@@ -1,0 +1,14 @@
+{
+  "id": "parsehub",
+  "title": "ParseHub",
+  "subtitle": "ParseHub is a free web scraping tool. Turn any site into a spreadsheet or API. As easy as clicking on the data you wa...",
+  "tags": [
+    "web-scrapers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599352464/icons/parsehub.jpg",
+  "website": "https://www.parsehub.com/",
+  "docsUrl": "https://www.parsehub.com/docs/ref/api/v2"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "scopely",
+  "title": "Scopely",
+  "subtitle": "Scopely is an interactive entertainment company and a leading mobile games publisher of the award-winning WWE Champio...",
+  "tags": [
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015074/icons/scopely.png",
+  "website": "https://scopely.com/"
+}

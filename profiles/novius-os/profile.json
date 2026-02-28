@@ -1,0 +1,13 @@
+{
+  "id": "novius-os",
+  "title": "Novius-OS",
+  "subtitle": "Novius-OS API integration",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946774/catalog/novius-os/icon128x128.png",
+  "website": "https://novius-os.org"
+}

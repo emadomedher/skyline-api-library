@@ -1,0 +1,14 @@
+{
+  "id": "airkit",
+  "title": "Airkit",
+  "subtitle": "Digitize customer interactions in your contact center.",
+  "tags": [
+    "low-code",
+    "customer-engagement"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793925/icons/airkit.jpg",
+  "website": "https://www.airkit.com/"
+}

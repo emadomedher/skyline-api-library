@@ -1,0 +1,13 @@
+{
+  "id": "gatsby-ai",
+  "title": "Gatsby",
+  "subtitle": "Gatsby helps you build real relationships with your influential customers. Add it to your site in minutes and start i...",
+  "tags": [
+    "influencer-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589447844/catalog/gatsby-ai/icon128x128.jpg",
+  "website": "https://www.gatsby.ai/"
+}

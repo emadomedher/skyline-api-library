@@ -1,0 +1,16 @@
+{
+  "id": "treasuryprime",
+  "title": "Treasury Prime",
+  "subtitle": "The API platform for banks and fintechs. Treasury Prime provides the technology to partner, operationalize, and launc...",
+  "tags": [
+    "banking",
+    "fintech",
+    "banking-as-a-service"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588809149/catalog/treasuryprime/icon128x128.jpg",
+  "website": "https://treasuryprime.com/",
+  "docsUrl": "https://dashboard.treasuryprime.com/docs"
+}

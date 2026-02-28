@@ -1,0 +1,13 @@
+{
+  "id": "telcoswitch",
+  "title": "TelcoSwitch",
+  "subtitle": "TelcoSwitch API integration",
+  "tags": [
+    "unified-communications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593705293/icons/telcoswitch.jpg",
+  "website": "https://www.telcoswitch.com/"
+}

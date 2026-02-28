@@ -1,0 +1,13 @@
+{
+  "id": "gumroad",
+  "title": "Gumroad",
+  "subtitle": "Gumroad allows all types of creators to sell their work (music, art, books, films, etc) directly to their audiences.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305080/catalog/gumroad/icon128x128.png",
+  "website": "https://gumroad.com/"
+}

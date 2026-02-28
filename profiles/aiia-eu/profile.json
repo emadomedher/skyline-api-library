@@ -1,0 +1,14 @@
+{
+  "id": "aiia-eu",
+  "title": "Aiia",
+  "subtitle": "Connect your applications to users bank accounts and enable seamless payments from European banks to create simple so...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631050688/icons/aiia-eu.jpg",
+  "website": "https://www.aiia.eu/",
+  "docsUrl": "https://www.aiia.eu/#"
+}

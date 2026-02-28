@@ -1,0 +1,14 @@
+{
+  "id": "expensify",
+  "title": "Expensify",
+  "subtitle": "Expensify is the world's leading application for expense management, receipt scanning, and business travel. Snap a ph...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055887/catalog/expensify/icon128x128.png",
+  "website": "https://www.expensify.com/",
+  "docsUrl": "https://integrations.expensify.com/Integration-Server/doc/"
+}

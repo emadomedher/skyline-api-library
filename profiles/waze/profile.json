@@ -1,0 +1,14 @@
+{
+  "id": "waze",
+  "title": "Waze",
+  "subtitle": "Get driving directions, a live traffic map & road alerts. Save time & money by riding together with Waze Carpool. Dow...",
+  "tags": [
+    "gps-navigation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600227754/icons/waze.png",
+  "website": "https://www.waze.com/",
+  "docsUrl": "https://developers.google.com/waze"
+}

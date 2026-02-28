@@ -1,0 +1,14 @@
+{
+  "id": "stripe-payment-links",
+  "title": "Stripe Payment Links",
+  "subtitle": "Use Payment Links to sell online without a website and without any code. Create a full payment page in just a few cli...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629577662/icons/stripe-payment-links.svg",
+  "website": "https://stripe.com/en-gb-be/payments/payment-links",
+  "docsUrl": "https://stripe.com/docs/payments/payment-links"
+}

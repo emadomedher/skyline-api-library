@@ -1,0 +1,15 @@
+{
+  "id": "pcibooking-net",
+  "title": "PCI Booking",
+  "subtitle": "Become PCI Compliant with PCI Booking. Protect your online transactions through tokenization and state-of-the-art pay...",
+  "tags": [
+    "pci-compliance",
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699473/catalog/pcibooking-net/icon128x128.jpg",
+  "website": "https://www.pcibooking.net/",
+  "docsUrl": "https://developers.pcibooking.net/docs/introduction"
+}

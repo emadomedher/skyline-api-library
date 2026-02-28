@@ -1,0 +1,14 @@
+{
+  "id": "flowtrack-co",
+  "title": "FlowTrack",
+  "subtitle": "In Less Than 2 Minutes You Will Drag & Drop to Build, Market, Sell, & Automate",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638213328/icons/flowtrack-co.jpg",
+  "website": "https://flowtrack.co/",
+  "docsUrl": "https://policy.flowtrack.co/ref"
+}

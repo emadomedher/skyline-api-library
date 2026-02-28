@@ -1,0 +1,14 @@
+{
+  "id": "pledgeling",
+  "title": "Pledgeling",
+  "subtitle": "Empower your business to grow through giving. Pledgeling aligns brands with causes around the world to increase their...",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602837380/icons/pledgeling.jpg",
+  "website": "https://www.pledgeling.com/",
+  "docsUrl": "https://stripe.com/docs/security/stripe"
+}

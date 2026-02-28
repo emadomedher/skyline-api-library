@@ -1,0 +1,14 @@
+{
+  "id": "superchat",
+  "title": "Superchat",
+  "subtitle": "Make customer communication your priority. Create real and long-term customer relationships with the messaging soluti...",
+  "tags": [
+    "unified-inbox",
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659963154/icons/superchat.png",
+  "website": "https://www.superchat.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "alterai-me",
+  "title": "AlterAI",
+  "subtitle": "Powerful AI tools at your fingertips.",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622433616/icons/alterai-me.png",
+  "website": "https://alterai.me/"
+}

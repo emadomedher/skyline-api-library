@@ -1,0 +1,14 @@
+{
+  "id": "getshuffle-app",
+  "title": "Shuffle",
+  "subtitle": "Explore a personalized feed of podcast clips, and create your own to share. Get the iOS app.",
+  "tags": [
+    "podcast-discovery",
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610219530/icons/getshuffle-app.png",
+  "website": "https://getshuffle.app/"
+}

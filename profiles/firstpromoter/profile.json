@@ -1,0 +1,14 @@
+{
+  "id": "firstpromoter",
+  "title": "First Promoter",
+  "subtitle": "Affiliate and referral tracking for SaaS.",
+  "tags": [
+    "referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553346470/catalog/firstpromoter/icon128x128.jpg",
+  "website": "https://firstpromoter.com/",
+  "docsUrl": "https://docs.firstpromoter.com/"
+}

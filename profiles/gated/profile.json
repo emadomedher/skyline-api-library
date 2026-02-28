@@ -1,0 +1,13 @@
+{
+  "id": "gated",
+  "title": "Gated",
+  "subtitle": "Increase productivity and focus with this free automated email solution that challenges unknown senders to make a cha...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657155412/icons/gated.jpg",
+  "website": "https://www.gated.com/"
+}

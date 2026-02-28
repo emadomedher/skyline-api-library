@@ -1,0 +1,14 @@
+{
+  "id": "climax-eco",
+  "title": "Climax",
+  "subtitle": "Climax helps financial institutions and enterprises to transform organisational and financial data into certified car...",
+  "tags": [
+    "carbon-accounting",
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657641600/icons/climax-eco.png",
+  "website": "https://climax.eco/"
+}

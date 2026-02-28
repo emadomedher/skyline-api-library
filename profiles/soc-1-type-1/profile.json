@@ -1,0 +1,15 @@
+{
+  "id": "soc-1-type-1",
+  "title": " SOC 1 Type 1",
+  "subtitle": "A SOC 1 engagement is an audit of the internal controls which a service organization has implemented to protect clien...",
+  "tags": [
+    "compliance",
+    "certifications",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613721542/icons/soc-1-type-1.jpg",
+  "website": "https://www.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report.html"
+}

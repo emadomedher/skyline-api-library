@@ -1,0 +1,15 @@
+{
+  "id": "securityjourney",
+  "title": "Security Journey",
+  "subtitle": "Security Journey is an engaging application security training program that gets your entire team on the same page so ...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193178/catalog/securityjourney/icon128x128.png",
+  "website": "https://www.securityjourney.com",
+  "docsUrl": "https://www.securityjourney.com/#fd0f920f88157ad6b"
+}

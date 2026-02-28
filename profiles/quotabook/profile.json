@@ -1,0 +1,13 @@
+{
+  "id": "quotabook",
+  "title": "Quotabook",
+  "subtitle": "Build cap tables, manage stock options, and update investors directly on QuotaBook.",
+  "tags": [
+    "equity-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660809055/icons/quotabook.jpg",
+  "website": "https://www.quotabook.com/"
+}

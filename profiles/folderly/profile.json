@@ -1,0 +1,13 @@
+{
+  "id": "folderly",
+  "title": "Folderly",
+  "subtitle": "No more looking at your stats and wondering why your emails go to SPAM. Our email checker gives you insights that mat...",
+  "tags": [
+    "email-deliverability"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637251126/icons/folderly.png",
+  "website": "https://folderly.com/"
+}

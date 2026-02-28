@@ -1,0 +1,14 @@
+{
+  "id": "musement",
+  "title": "Musement",
+  "subtitle": "Discover a world of activities with Musement: book tickets for attractions, museums, fun activities and much more.",
+  "tags": [
+    "travel",
+    "tourism"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576975003/catalog/musement/icon128x128.jpg",
+  "website": "https://www.musement.com/"
+}

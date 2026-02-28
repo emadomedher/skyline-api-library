@@ -1,0 +1,15 @@
+{
+  "id": "ontraport",
+  "title": "Ontraport",
+  "subtitle": "An all-in-one business and marketing platform designed for information marketers, experts, and coaches.",
+  "tags": [
+    "websites",
+    "marketing-automation",
+    "e-commerce"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305604/catalog/ontraport/icon128x128.jpg",
+  "website": "https://ontraport.com/"
+}

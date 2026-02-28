@@ -1,0 +1,14 @@
+{
+  "id": "phenom",
+  "title": "Phenom.com",
+  "subtitle": "Phenom is a global HR technology company that delivers a single-platform solution and hyper-personalized experiences ...",
+  "tags": [
+    "talent-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610129707/icons/phenom.jpg",
+  "website": "https://www.phenom.com/",
+  "docsUrl": "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html"
+}

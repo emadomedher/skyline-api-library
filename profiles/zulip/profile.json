@@ -1,0 +1,15 @@
+{
+  "id": "zulip",
+  "title": "Zulip",
+  "subtitle": "Zulip combines the immediacy of real-time chat with an email threading model. With Zulip, you can catch up on importa...",
+  "tags": [
+    "open-source",
+    "team-messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625063199/icons/zulip.jpg",
+  "website": "https://zulip.com/",
+  "docsUrl": "https://zulip.readthedocs.io"
+}

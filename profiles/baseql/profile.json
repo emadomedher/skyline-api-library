@@ -1,0 +1,14 @@
+{
+  "id": "baseql",
+  "title": "BaseQL",
+  "subtitle": "BaseQL API integration",
+  "tags": [
+    "graphql-tooling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617908524/icons/baseql.jpg",
+  "website": "https://www.baseql.com/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlscz7rrlaytb7psexat46wv5znj4vvf6omp78-z07jtaavv-va/viewform"
+}

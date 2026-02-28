@@ -1,0 +1,13 @@
+{
+  "id": "billit-be",
+  "title": "Billit",
+  "subtitle": "Billit is de online administratie oplossing voor kleine bedrijven. UBL, e-Factuur, digitaal factureren, PEPPOL, CODA,...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565279391/catalog/billit-be/icon128x128.png",
+  "website": "https://billit.be"
+}

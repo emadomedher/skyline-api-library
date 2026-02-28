@@ -1,0 +1,13 @@
+{
+  "id": "matomy-media-group",
+  "title": "Matomy Media Group",
+  "subtitle": "Matomy Media Group API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435793/catalog/matomy-media-group/icon128x128.png",
+  "website": "https://matomy.com"
+}

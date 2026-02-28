@@ -1,0 +1,14 @@
+{
+  "id": "modebanking",
+  "title": "Mode",
+  "subtitle": "Mode is the all-in-one solution for all your Bitcoin needs, one that gives you the control and transparency you deserve.",
+  "tags": [
+    "challenger-banks",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595919835/icons/modebanking.jpg",
+  "website": "https://modebanking.com/"
+}

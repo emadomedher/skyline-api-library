@@ -1,0 +1,13 @@
+{
+  "id": "square-appointments",
+  "title": "Square Appointments",
+  "subtitle": "Square’s appointment software and app shows your calendar, services, and pricing. Send custom reminders and get no-sh...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649664800/icons/square-appointments.jpg",
+  "website": "https://squareup.com/us/en/appointments"
+}

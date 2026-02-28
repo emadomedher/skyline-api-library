@@ -1,0 +1,16 @@
+{
+  "id": "buildbuddy-io",
+  "title": "BuildBuddy",
+  "subtitle": "BuildBuddy provides enterprise features for Bazel - the open source build system that allows you to build and test so...",
+  "tags": [
+    "continuous-integration",
+    "build-event-viewers",
+    "open-core"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609010926/icons/buildbuddy-io.jpg",
+  "website": "https://www.buildbuddy.io/",
+  "docsUrl": "https://www.buildbuddy.io/docs/introduction"
+}

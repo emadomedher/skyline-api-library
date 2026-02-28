@@ -1,0 +1,14 @@
+{
+  "id": "flarum",
+  "title": "Flarum",
+  "subtitle": "Flarum is the next-generation forum software that makes online discussion fun. It's simple, fast, and free.",
+  "tags": [
+    "community-and-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570184111/catalog/flarum/icon128x128.png",
+  "website": "https://flarum.org",
+  "docsUrl": "https://flarum.org/docs"
+}

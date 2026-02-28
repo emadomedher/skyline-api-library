@@ -1,0 +1,13 @@
+{
+  "id": "sightmill",
+  "title": "SightMill",
+  "subtitle": "Net Promoter Score software makes it easy to gather feedback from your customers and employees by email, SMS, on your...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722070/catalog/sightmill/icon128x128.png",
+  "website": "https://sightmill.com"
+}

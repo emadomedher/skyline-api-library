@@ -1,0 +1,13 @@
+{
+  "id": "lanyon",
+  "title": "Lanyon",
+  "subtitle": "Our software solutions for meetings, events & travel have helped organizations & hotels around the world to engage th...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946869/catalog/lanyon/icon128x128.jpg",
+  "website": "https://lanyon.com"
+}

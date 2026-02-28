@@ -1,0 +1,13 @@
+{
+  "id": "openviewpartners",
+  "title": "OpenView Venture Partners",
+  "subtitle": "OpenView is the expansion stage venture capital firm. Learn more about our unique approach to how we work with our po...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567242293/catalog/openviewpartners/icon128x128.jpg",
+  "website": "https://openviewpartners.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "raymon-ai",
+  "title": "Raymon.ai - A simpler way to maintain Machine Learning systems",
+  "subtitle": "Raymon is an open Machine Learning observability platform for data inspection, data validation, issue detection and t...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603297606/icons/raymon-ai.png",
+  "website": "https://raymon.ai/"
+}

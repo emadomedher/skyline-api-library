@@ -1,0 +1,13 @@
+{
+  "id": "inkling",
+  "title": "Inkling",
+  "subtitle": "Inkling puts the right information in the hands of your frontline workforce, when they need it, to turn your plans in...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826622/catalog/inkling/icon128x128.jpg",
+  "website": "https://inkling.com"
+}

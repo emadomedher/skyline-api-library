@@ -1,0 +1,15 @@
+{
+  "id": "swaggerhub",
+  "title": "SwaggerHub",
+  "subtitle": "Join the world's home for REST APIs. Design fast and generate documentation automatically with the OpenAPI Specificat...",
+  "tags": [
+    "api-design",
+    "developer-docs"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606326373/icons/swaggerhub.jpg",
+  "website": "https://swagger.io/tools/swaggerhub/",
+  "docsUrl": "https://swagger.io/solutions/api-documentation"
+}

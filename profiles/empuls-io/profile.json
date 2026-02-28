@@ -1,0 +1,13 @@
+{
+  "id": "empuls-io",
+  "title": "Empuls",
+  "subtitle": "Empuls is an employee engagement platform that empowers HR, people leaders, and managers to build highly engaged and ...",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650533514/icons/empuls-io.jpg",
+  "website": "https://www.empuls.io/"
+}

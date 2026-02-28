@@ -1,0 +1,13 @@
+{
+  "id": "salesmanago",
+  "title": "SALESmanago",
+  "subtitle": "SALESmanago - platforma marketing automation, która pozwala zwiększać przychody firm poprzez dostarczanie spersonaliz...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827481/catalog/salesmanago/icon128x128.jpg",
+  "website": "https://salesmanago.pl"
+}

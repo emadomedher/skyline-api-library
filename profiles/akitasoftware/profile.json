@@ -1,0 +1,15 @@
+{
+  "id": "akitasoftware",
+  "title": "Akita Software",
+  "subtitle": "Where Observability Meets Structure. Visualize, Map, and Manage Every Relationship Across your Service Ecosystem.",
+  "tags": [
+    "api-contract-management",
+    "api-observability"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074608/icons/akitasoftware.jpg",
+  "website": "https://www.akitasoftware.com/",
+  "docsUrl": "https://docs.akita.software/docs"
+}

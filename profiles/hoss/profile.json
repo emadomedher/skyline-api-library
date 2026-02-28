@@ -1,0 +1,14 @@
+{
+  "id": "hoss",
+  "title": "HOSS",
+  "subtitle": "Hoss tracks and manages the APIs companies consume. API integrations come with inherent challenges, and the consequen...",
+  "tags": [
+    "api-development",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591351443/icons/hoss.jpg",
+  "website": "https://www.hoss.com/"
+}

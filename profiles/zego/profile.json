@@ -1,0 +1,14 @@
+{
+  "id": "zego",
+  "title": "Zego",
+  "subtitle": "Scooter insurance for delivery drivers. We offer policies ranging from an hour to a year so you get insurance that fi...",
+  "tags": [
+    "insurtech",
+    "scooter-insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615417842/icons/zego.jpg",
+  "website": "https://www.zego.com/"
+}

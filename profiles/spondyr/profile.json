@@ -1,0 +1,12 @@
+{
+  "id": "spondyr",
+  "title": "Spondyr",
+  "subtitle": "Spondyr is a templated document & correspondence platform, enabling you to effortlessly deliver template-driven conte...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306159/catalog/spondyr/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "unum",
+  "title": "Unum",
+  "subtitle": "Unum provides comprehensive financial insurance products to industries of all sizes. Leader in disability insurance, ...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604703248/icons/unum.jpg",
+  "website": "https://www.unum.com/"
+}

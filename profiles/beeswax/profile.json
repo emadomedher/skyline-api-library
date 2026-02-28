@@ -1,0 +1,13 @@
+{
+  "id": "beeswax",
+  "title": "Beeswax",
+  "subtitle": "Beeswax API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433262/catalog/beeswax/icon128x128.png",
+  "website": "https://beeswax.com"
+}

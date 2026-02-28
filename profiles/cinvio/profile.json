@@ -1,0 +1,14 @@
+{
+  "id": "cinvio",
+  "title": "cinvio",
+  "subtitle": "Any B2B logistics provider can accelerate growth by offering customers e-commerce with fully automated financial flows.",
+  "tags": [
+    "b2b-payments",
+    "logistics"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640050231/icons/cinvio.ico",
+  "website": "https://cinvio.com/"
+}

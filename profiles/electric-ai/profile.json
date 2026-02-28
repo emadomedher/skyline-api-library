@@ -1,0 +1,14 @@
+{
+  "id": "electric-ai",
+  "title": "Electric",
+  "subtitle": "Electric provides a modern IT solution that's simplified. Check out our core solutions that include IT support, secur...",
+  "tags": [
+    "it-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589833343/catalog/electric-ai/icon128x128.jpg",
+  "website": "https://www.electric.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "reftoken",
+  "title": "RefToken",
+  "subtitle": "RefToken API integration",
+  "tags": [
+    "affiliate-marketing-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962501/catalog/reftoken/icon128x128.png",
+  "website": "https://reftoken.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "maps-system",
+  "title": "MaPS System",
+  "subtitle": "Discover MaPS System - the all-in-1 Data Management solution for Multichannel Marketing ",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720981/catalog/maps-system/icon128x128.jpg",
+  "website": "https://maps-system.com"
+}

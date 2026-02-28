@@ -1,0 +1,13 @@
+{
+  "id": "transactpaymentsltd",
+  "title": "Transact Payments",
+  "subtitle": "Transact Payments provide innovative and flexible European BIN sponsorship and modular payment, debit and prepaid ser...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602235642/icons/transactpaymentsltd.jpg",
+  "website": "https://www.transactpaymentsltd.com/"
+}

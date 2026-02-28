@@ -1,0 +1,14 @@
+{
+  "id": "ludus-one",
+  "title": "Ludus",
+  "subtitle": "Ludus is an advanced presentation tool for creative professionals. It's like Sketch and Keynote had a baby in the cloud.",
+  "tags": [
+    "presentations"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603297608/icons/ludus-one.jpg",
+  "website": "https://ludus.one/",
+  "docsUrl": "https://help.ludus.one"
+}

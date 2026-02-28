@@ -1,0 +1,15 @@
+{
+  "id": "hrsquare-be",
+  "title": "HR Square",
+  "subtitle": "HR Square API integration",
+  "tags": [
+    "communities",
+    "hr",
+    "non-software"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600433055/icons/hrsquare-be.jpg",
+  "website": "https://www.hrsquare.be/"
+}

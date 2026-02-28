@@ -1,0 +1,13 @@
+{
+  "id": "email-hunter",
+  "title": "Email Hunter",
+  "subtitle": "Hunter is the leading solution to find and verify professional email addresses. Start using Hunter and connect with t...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826353/catalog/email-hunter/icon128x128.jpg",
+  "website": "https://hunter.io"
+}

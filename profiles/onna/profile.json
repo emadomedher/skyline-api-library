@@ -1,0 +1,17 @@
+{
+  "id": "onna",
+  "title": "Onna",
+  "subtitle": "Onna centralizes data from your favorite apps to deliver a streamlined, simplified search and management experience a...",
+  "tags": [
+    "knowledge-integration",
+    "ediscovery",
+    "compliance",
+    "search"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592483258/icons/onna.jpg",
+  "website": "https://onna.com/",
+  "docsUrl": "https://developers.onna.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "booqable",
+  "title": "Booqable",
+  "subtitle": "Booqable is a rental software platform that helps you manage rentals, keep track of inventory, and optimize your cust...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829028/catalog/booqable/icon128x128.png",
+  "website": "https://booqable.com"
+}

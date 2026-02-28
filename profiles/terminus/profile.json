@@ -1,0 +1,13 @@
+{
+  "id": "terminus",
+  "title": "Terminus",
+  "subtitle": "With Terminus, B2B professionals can easily start and scale account based marketing programs to increase revenue, imp...",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962150/catalog/terminus/icon128x128.png",
+  "website": "https://terminus.com"
+}

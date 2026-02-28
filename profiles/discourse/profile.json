@@ -1,0 +1,14 @@
+{
+  "id": "discourse",
+  "title": "Discourse",
+  "subtitle": "Discourse is modern forum software for your community. Use it as a mailing list, discussion forum, long-form chat roo...",
+  "tags": [
+    "cms",
+    "social"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055856/catalog/discourse/icon128x128.png",
+  "website": "https://discourse.org"
+}

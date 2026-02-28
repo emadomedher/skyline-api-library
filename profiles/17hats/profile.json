@@ -1,0 +1,13 @@
+{
+  "id": "17hats",
+  "title": "17hats",
+  "subtitle": "17hats is a premiere business platform that provides you with a suite of business solutions to help organize, systemi...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829005/catalog/17hats/icon128x128.png",
+  "website": "https://17hats.com"
+}

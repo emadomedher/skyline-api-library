@@ -1,0 +1,15 @@
+{
+  "id": "webexpenses",
+  "title": "Webexpenses",
+  "subtitle": "Easily track, manage, and report business expenses online with our top user-rated expenses system. Complete your spen...",
+  "tags": [
+    "expense-management",
+    "ap-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909505/icons/webexpenses.png",
+  "website": "https://www.webexpenses.com/",
+  "docsUrl": "https://docs.api.ca.webexpenses.com/"
+}

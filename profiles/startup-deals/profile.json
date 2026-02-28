@@ -1,0 +1,13 @@
+{
+  "id": "startup-deals",
+  "title": "Startup.deals",
+  "subtitle": "Become a member on Startup Deals and gain access to TermsFeed and 167 more discounted tools.\n",
+  "tags": [
+    "startup-deals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581635305/catalog/startup-deals/icon128x128.png",
+  "website": "https://startup.deals/"
+}

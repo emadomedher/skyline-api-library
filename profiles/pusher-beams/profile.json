@@ -1,0 +1,14 @@
+{
+  "id": "pusher-beams",
+  "title": "Pusher Beams",
+  "subtitle": "Pusher Beams is a hosted push notifications API designed for developers who need critical transactional information d...",
+  "tags": [
+    "push-notifications-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592595080/icons/pusher-beams.jpg",
+  "website": "https://pusher.com/beams",
+  "docsUrl": "https://pusher.com/docs"
+}

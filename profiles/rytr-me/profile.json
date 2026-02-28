@@ -1,0 +1,14 @@
+{
+  "id": "rytr-me",
+  "title": "Rytr",
+  "subtitle": "Rytr is an AI writing assistant that helps you create high-quality content, in just a few seconds, at a fraction of t...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642040820/icons/rytr-me.jpg",
+  "website": "https://rytr.me/",
+  "docsUrl": "https://rytr.me/developers/api"
+}

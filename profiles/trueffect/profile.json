@@ -1,0 +1,13 @@
+{
+  "id": "trueffect",
+  "title": "Trueffect",
+  "subtitle": "Trueffect API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555983445/catalog/trueffect/icon128x128.png",
+  "website": "https://trueffect.com"
+}

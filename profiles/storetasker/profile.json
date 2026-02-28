@@ -1,0 +1,13 @@
+{
+  "id": "storetasker",
+  "title": "Storetasker",
+  "subtitle": "The #1 Shopify Outsourcing Service. Looking to hire Shopify experts or get help with your Shopify store? Storetasker ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592488226/icons/storetasker.png",
+  "website": "https://www.storetasker.com/"
+}

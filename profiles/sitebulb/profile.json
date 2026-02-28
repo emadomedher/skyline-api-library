@@ -1,0 +1,13 @@
+{
+  "id": "sitebulb",
+  "title": "Sitebulb",
+  "subtitle": "Sitebulb API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962322/catalog/sitebulb/icon128x128.png",
+  "website": "https://sitebulb.com"
+}

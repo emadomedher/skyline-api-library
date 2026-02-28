@@ -1,0 +1,14 @@
+{
+  "id": "cm",
+  "title": "CM",
+  "subtitle": "CM.com: a smart combination of messaging channels, voice solutions and innovative payment methods. Take the next step...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284478/catalog/cm/icon128x128.png",
+  "website": "https://cm.com",
+  "docsUrl": "https://www.cm.com/developers"
+}

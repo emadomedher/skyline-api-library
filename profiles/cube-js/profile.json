@@ -1,0 +1,14 @@
+{
+  "id": "cube-js",
+  "title": "Cube.js",
+  "subtitle": "Cube.js is an open source modular framework to build analytical web applications. It is primarily used to build inter...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561985235/catalog/cube-js/icon128x128.jpg",
+  "website": "https://cube.dev/",
+  "docsUrl": "https://cube.dev/docs"
+}

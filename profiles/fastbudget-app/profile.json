@@ -1,0 +1,13 @@
+{
+  "id": "fastbudget-app",
+  "title": "Fast Budget - Home",
+  "subtitle": "Manage your personal finances and easily track your money, expenses and budget",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607045788/icons/fastbudget-app.jpg",
+  "website": "https://fastbudget.app/"
+}

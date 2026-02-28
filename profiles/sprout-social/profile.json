@@ -1,0 +1,13 @@
+{
+  "id": "sprout-social",
+  "title": "Sprout Social",
+  "subtitle": "Form real connections with those who love your brand through the power of Sprout Social. See our social media managem...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946540/catalog/sprout-social/icon128x128.png",
+  "website": "https://sproutsocial.com"
+}

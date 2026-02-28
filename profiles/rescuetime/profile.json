@@ -1,0 +1,13 @@
+{
+  "id": "rescuetime",
+  "title": "RescueTime",
+  "subtitle": "RescueTime helps you understand how you spend your time on the computer by automatically keeping a log of the time yo...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305871/catalog/rescuetime/icon128x128.png",
+  "website": "https://www.rescuetime.com/"
+}

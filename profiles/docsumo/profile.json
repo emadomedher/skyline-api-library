@@ -1,0 +1,16 @@
+{
+  "id": "docsumo",
+  "title": "Docsumo",
+  "subtitle": "With Docsumo, automate data capture, extraction, and processing with 100% efficiency. Automate invoice processing wit...",
+  "tags": [
+    "ocr",
+    "scraping",
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605367960/icons/docsumo.jpg",
+  "website": "https://docsumo.com/",
+  "docsUrl": "https://docsumo.com/use-cases/pan-card-verification-api"
+}

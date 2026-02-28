@@ -1,0 +1,14 @@
+{
+  "id": "cux-io",
+  "title": "cux.io",
+  "subtitle": "Easiest and fastest way to understand the human behind the screen.",
+  "tags": [
+    "heatmaps",
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588809155/catalog/cux-io/icon128x128.jpg",
+  "website": "https://cux.io/"
+}

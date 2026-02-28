@@ -1,0 +1,14 @@
+{
+  "id": "shl",
+  "title": "SHL",
+  "subtitle": "SHL's solutions and platform provide your organization with the power and scale for your business to thrive because y...",
+  "tags": [
+    "talent-management",
+    "skills-assessment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641943781/icons/shl.png",
+  "website": "https://www.shl.com/"
+}

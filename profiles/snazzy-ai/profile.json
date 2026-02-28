@@ -1,0 +1,13 @@
+{
+  "id": "snazzy-ai",
+  "title": "Snazzy AI",
+  "subtitle": "Snazzy AI - The easiest way to create content for your brand. Our AI powered copywriter will do the work for you!",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612305782/icons/snazzy-ai.png",
+  "website": "https://snazzy.ai/"
+}

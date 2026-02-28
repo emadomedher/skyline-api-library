@@ -1,0 +1,13 @@
+{
+  "id": "freshleadfinder",
+  "title": "Fresh Lead Finder",
+  "subtitle": "Use our powerful local lead finder to quickly discover local business data for fuelling effective cold email marketin...",
+  "tags": [
+    "sales-prospection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650143726/icons/freshleadfinder.jpg",
+  "website": "https://freshleadfinder.com/"
+}

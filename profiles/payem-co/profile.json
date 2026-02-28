@@ -1,0 +1,14 @@
+{
+  "id": "payem-co",
+  "title": "PayEm",
+  "subtitle": "PayEm helps finance teams get their job done and done quickly by offering control, transparency, and automation to co...",
+  "tags": [
+    "spend-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635693752/icons/payem-co.png",
+  "website": "https://www.payem.co/",
+  "docsUrl": "https://www.payem.co/jobs/full-stack-developer"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "securityscorecard",
+  "title": "SecurityScorecard",
+  "subtitle": "Discover + solve cybersecurity, compliance and risk management challenges. Instantly rate and understand any company'...",
+  "tags": [
+    "security",
+    "vendor-risk-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572302414/catalog/securityscorecard/icon128x128.jpg",
+  "website": "https://securityscorecard.com/"
+}

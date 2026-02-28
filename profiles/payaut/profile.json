@@ -1,0 +1,14 @@
+{
+  "id": "payaut",
+  "title": "Payaut",
+  "subtitle": "Automate seller onboarding & payouts Compatible with any payment service provider Ensure compliance under PSD2 regula...",
+  "tags": [
+    "marketplace-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608117574/icons/payaut.png",
+  "website": "https://payaut.com/",
+  "docsUrl": "https://docs.payaut.com"
+}

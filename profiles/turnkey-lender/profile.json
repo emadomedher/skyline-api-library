@@ -1,0 +1,13 @@
+{
+  "id": "turnkey-lender",
+  "title": "TurnKey Lender",
+  "subtitle": "Turnkey Lender is a Commercial lending software that can improve efficiency and reduce costs for financial services c...",
+  "tags": [
+    "lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611731829/icons/turnkey-lender.jpg",
+  "website": "https://www.turnkey-lender.com/"
+}

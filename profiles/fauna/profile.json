@@ -1,0 +1,15 @@
+{
+  "id": "fauna",
+  "title": "FaunaDB",
+  "subtitle": "FaunaDB revolutionizes the database into a productive, programmable, secure and operations-free data API with GraphQL.",
+  "tags": [
+    "serverless",
+    "databases"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522288/icons/fauna.jpg",
+  "website": "https://fauna.com/",
+  "docsUrl": "https://docs.fauna.com"
+}

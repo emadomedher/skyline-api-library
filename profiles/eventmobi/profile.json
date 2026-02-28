@@ -1,0 +1,13 @@
+{
+  "id": "eventmobi",
+  "title": "EventMobi",
+  "subtitle": "Mobile event apps for events, conferences & meetings. Create an incredible event experience. Available on all devices...",
+  "tags": [
+    "events-meetings-and-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947056/catalog/eventmobi/icon128x128.jpg",
+  "website": "https://eventmobi.com"
+}

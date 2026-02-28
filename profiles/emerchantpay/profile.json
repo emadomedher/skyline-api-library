@@ -1,0 +1,14 @@
+{
+  "id": "emerchantpay",
+  "title": "emerchantpay",
+  "subtitle": "We provide seamless and secure online and in-store payment solutions. Acquiring Services | Risk & Fraud Management | ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643028334/icons/emerchantpay.jpg",
+  "website": "https://www.emerchantpay.com/",
+  "docsUrl": "https://github.com/emerchantpay"
+}

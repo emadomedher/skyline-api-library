@@ -1,0 +1,14 @@
+{
+  "id": "hirestack-ai",
+  "title": "HireStack",
+  "subtitle": "Screen candidates 10x faster with video interviews. Forget scheduling delays and zoom fatigue - quickly review candid...",
+  "tags": [
+    "video-interviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646845303/icons/hirestack-ai.jpg",
+  "website": "https://hirestack.ai/",
+  "docsUrl": "https://hirestack.ai/interviews/web-developer-interview-questions"
+}

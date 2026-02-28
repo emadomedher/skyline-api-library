@@ -1,0 +1,14 @@
+{
+  "id": "runbox",
+  "title": "Runbox",
+  "subtitle": "Secure and sustainable email services provided by email professionals. Powerful Email, Domain, and Web Hosting for bu...",
+  "tags": [
+    "email-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574296284/catalog/runbox/icon128x128.jpg",
+  "website": "https://runbox.com/",
+  "docsUrl": "https://help.runbox.com"
+}

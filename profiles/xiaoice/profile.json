@@ -1,0 +1,13 @@
+{
+  "id": "xiaoice",
+  "title": "Xiaoice",
+  "subtitle": "Xiaoice is the AI system developed by Microsoft (Asia) Software Technology Center (STCA) in 2014 based on emotional c...",
+  "tags": [
+    "chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1673710327/icons/xiaoice.webp",
+  "website": "https://www.xiaoice.com/"
+}

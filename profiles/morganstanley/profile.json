@@ -1,0 +1,13 @@
+{
+  "id": "morganstanley",
+  "title": "Morgan Stanley",
+  "subtitle": "Morgan Stanley API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579381798/catalog/morganstanley/icon128x128.jpg",
+  "website": "https://www.morganstanley.com/"
+}

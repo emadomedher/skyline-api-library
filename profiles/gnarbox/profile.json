@@ -1,0 +1,14 @@
+{
+  "id": "gnarbox",
+  "title": "GNARBOX",
+  "subtitle": "GNARBOX 2.0 SSD is a rugged backup device for pro content creators who need the most reliable way to back up their fi...",
+  "tags": [
+    "hardware",
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592519783/icons/gnarbox.png",
+  "website": "https://www.gnarbox.com/"
+}

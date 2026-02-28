@@ -1,0 +1,14 @@
+{
+  "id": "robinpowered",
+  "title": "Robin",
+  "subtitle": "Robin’s conference room scheduling software simplifies booking with the tools your team needs to do great work.",
+  "tags": [
+    "meeting-room-booking-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/889544972113936385/W-QdmZ8q_200x200.png",
+  "website": "https://robinpowered.com/",
+  "docsUrl": "https://docs.robinpowered.com/docs"
+}

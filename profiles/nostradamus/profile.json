@@ -1,0 +1,13 @@
+{
+  "id": "nostradamus",
+  "title": "Nostradamus",
+  "subtitle": "Ontwikkeld op basis van trends en ervaringen binnen de horeca, is Nostradamus hét antwoord op alledaagse en praktisch...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256956/catalog/nostradamus/icon128x128.png",
+  "website": "https://nostradamus.nu/"
+}

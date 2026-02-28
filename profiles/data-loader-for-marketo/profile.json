@@ -1,0 +1,13 @@
+{
+  "id": "data-loader-for-marketo",
+  "title": "Data Loader for Marketo",
+  "subtitle": "Data Loader for Marketo (DLM) is a powerful tool to allow you easily extract Marketo data and push it to your databas...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947165/catalog/data-loader-for-marketo/icon128x128.jpg",
+  "website": "https://dlm.trend.org"
+}

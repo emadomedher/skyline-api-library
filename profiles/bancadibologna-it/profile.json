@@ -1,0 +1,13 @@
+{
+  "id": "bancadibologna-it",
+  "title": "Banca di Bologna",
+  "subtitle": "The Bank offers debit and credit cards, mortgages, loans, online banking, and investment services. Banca di Bologna C...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621779699/icons/bancadibologna-it.png",
+  "website": "https://www.bancadibologna.it/"
+}

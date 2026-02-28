@@ -1,0 +1,13 @@
+{
+  "id": "cloudera-enterprise",
+  "title": "Cloudera Enterprise",
+  "subtitle": "Cloudera Enterprise API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433791/catalog/cloudera-enterprise/icon128x128.png",
+  "website": "https://cloudera.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "freshsales",
+  "title": "Freshworks CRM",
+  "subtitle": "Freshsales is an online, cloud-based CRM with Integrated phone and email, User behavior tracking, Lead scoring and more.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304992/catalog/freshsales/icon128x128.png",
+  "website": "https://www.freshworks.com/freshsales-crm/",
+  "docsUrl": "https://www.freshbooks.com/developers"
+}

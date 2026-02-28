@@ -1,0 +1,13 @@
+{
+  "id": "postcron",
+  "title": "Postcron",
+  "subtitle": "Schedule your posts on Twitter, Facebook fan pages and groups, Instagram, LinkedIn, Google+, and Pinterest with Postcron",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721572/catalog/postcron/icon128x128.jpg",
+  "website": "https://postcron.com"
+}

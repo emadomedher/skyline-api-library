@@ -1,0 +1,14 @@
+{
+  "id": "stackpath",
+  "title": "StackPath",
+  "subtitle": "StackPath global platform provides secure edge computing resources including containers, VMs, and serverless scriptin...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559049515/catalog/stackpath/icon128x128.png",
+  "website": "https://stackpath.com",
+  "docsUrl": "https://stackpath.dev/"
+}

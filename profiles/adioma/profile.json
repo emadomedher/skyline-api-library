@@ -1,0 +1,13 @@
+{
+  "id": "adioma",
+  "title": "Adioma",
+  "subtitle": "Adioma is an infographic maker that automates design for you using visual language and infographic templates. Sign up...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825673/catalog/adioma/icon128x128.jpg",
+  "website": "https://adioma.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tribed-co",
+  "title": "Tribed",
+  "subtitle": "See what every customer is doing on your site. Trigger automated emails. Set up in minutes. Forever-free plan availab...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615512009/icons/tribed-co.png",
+  "website": "https://tribed.co/"
+}

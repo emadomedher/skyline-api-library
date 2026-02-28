@@ -1,0 +1,13 @@
+{
+  "id": "identitii",
+  "title": "Identitii",
+  "subtitle": "A single platform that automates anti-money laundering (AML) and counter-terrorist financing (CTF) compliance obligat...",
+  "tags": [
+    "aml"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632178776/icons/identitii.jpg",
+  "website": "https://identitii.com/"
+}

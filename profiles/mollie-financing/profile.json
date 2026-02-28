@@ -1,0 +1,13 @@
+{
+  "id": "mollie-financing",
+  "title": "Mollie Financing",
+  "subtitle": "Mollie Capital offers fast and flexible financing to grow your business. Get up to 250k based on your transaction his...",
+  "tags": [
+    "revenue-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975836/icons/mollie-financing.jpg",
+  "website": "https://www.mollie.com/en/capital"
+}

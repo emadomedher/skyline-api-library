@@ -1,0 +1,13 @@
+{
+  "id": "getsling",
+  "title": "Sling",
+  "subtitle": "Sling is a free and easy to use employee shift scheduling and planning software that helps your business manage shift...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017797/icons/getsling.png",
+  "website": "https://getsling.com/"
+}

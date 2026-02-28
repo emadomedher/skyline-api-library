@@ -1,0 +1,14 @@
+{
+  "id": "snowflakesoftware",
+  "title": "Snowflake Software",
+  "subtitle": "Making Aviation Data Accessible and Easy to Use. The Laminar Data Platform manages flight, weather and aeronautical d...",
+  "tags": [
+    "aviation-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669478/icons/snowflakesoftware.jpg",
+  "website": "https://snowflakesoftware.com/",
+  "docsUrl": "https://snowflakesoftware.com/#tab-1379a2dea49f9b04dcd"
+}

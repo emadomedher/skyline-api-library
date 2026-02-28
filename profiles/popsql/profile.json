@@ -1,0 +1,14 @@
+{
+  "id": "popsql",
+  "title": "PopSQL",
+  "subtitle": "Try now for free. Write queries, visualize data, and share your results. Share queries by URL, and organize them in f...",
+  "tags": [
+    "sql-editors"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599594348/icons/popsql.jpg",
+  "website": "https://popsql.com/",
+  "docsUrl": "https://popsql.com/docs"
+}

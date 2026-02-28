@@ -1,0 +1,13 @@
+{
+  "id": "theydo",
+  "title": "TheyDo",
+  "subtitle": "Customer journey management: organize your business around the customer journey. Manage insights, journeys, opportuni...",
+  "tags": [
+    "customer-journey-mapping"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676570028/icons/theydo.png",
+  "website": "https://www.theydo.com/"
+}

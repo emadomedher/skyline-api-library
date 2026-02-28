@@ -1,0 +1,13 @@
+{
+  "id": "zoho-writer",
+  "title": "Zoho Writer",
+  "subtitle": "Writer is a powerful word processor made for collaborative work.",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306632/catalog/zoho-writer/icon128x128.png",
+  "website": "https://www.zoho.com/writer/"
+}

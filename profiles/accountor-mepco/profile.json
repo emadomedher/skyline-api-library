@@ -1,0 +1,14 @@
+{
+  "id": "accountor-mepco",
+  "title": "Mepco",
+  "subtitle": "Mepco is a flexible HRM and payroll administration system. Mepco-solutions includes the modules of payroll and human ...",
+  "tags": [
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668171291/icons/accountor-mepco.jpg",
+  "website": "https://www.accountor.com/en/finland/mepco-solutions"
+}

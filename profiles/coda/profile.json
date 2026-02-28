@@ -1,0 +1,13 @@
+{
+  "id": "coda",
+  "title": "Coda",
+  "subtitle": "Coda is a new type of document that blends the flexibility of documents, the power of spreadsheets, and the utility o...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304668/catalog/coda/icon128x128.png",
+  "website": "https://coda.io/welcome"
+}

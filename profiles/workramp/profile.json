@@ -1,0 +1,13 @@
+{
+  "id": "workramp",
+  "title": "WorkRamp",
+  "subtitle": "WorkRamp's training and enablement software bridges the gap between strategy and execution. From onboarding and train...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946347/catalog/workramp/icon128x128.jpg",
+  "website": "https://workramp.com"
+}

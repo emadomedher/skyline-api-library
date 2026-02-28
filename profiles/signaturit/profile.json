@@ -1,0 +1,13 @@
+{
+  "id": "signaturit",
+  "title": "Signaturit",
+  "subtitle": "Signaturit allows to send and sign documents online with legally binding electronic signatures.",
+  "tags": [
+    "signatures",
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306093/catalog/signaturit/icon128x128.png"
+}

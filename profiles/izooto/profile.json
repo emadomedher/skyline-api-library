@@ -1,0 +1,13 @@
+{
+  "id": "izooto",
+  "title": "iZooto",
+  "subtitle": "IZooto is a web push notification platform which enables website owners to re-engage and re-target visitors through w...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305204/catalog/izooto/icon128x128.png",
+  "website": "https://izooto.com"
+}

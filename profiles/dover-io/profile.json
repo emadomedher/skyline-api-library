@@ -1,0 +1,13 @@
+{
+  "id": "dover-io",
+  "title": "Dover",
+  "subtitle": "Join the 100+ companies relying on Dover to hire the best talent.",
+  "tags": [
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611848103/icons/dover-io.png",
+  "website": "https://www.dover.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fairmarkit",
+  "title": "Fairmarkit",
+  "subtitle": "Sourcing is time consuming. But it’s also effective. With Fairmarkit’s intelligent sourcing platform, procurement tea...",
+  "tags": [
+    "procurement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647328170/icons/fairmarkit.jpg",
+  "website": "https://www.fairmarkit.com/"
+}

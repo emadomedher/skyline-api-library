@@ -1,0 +1,14 @@
+{
+  "id": "trio-br",
+  "title": "Trio",
+  "subtitle": "Trio is an Infrastructure as a Service (IaaS) API that encrypts data safely and provides to its users valuable inform...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620461958/icons/trio-br.jpg",
+  "website": "https://trio.com.br",
+  "docsUrl": "https://developers.trio.com.br/docs/quickstart?ref=site_home_developers_cta"
+}

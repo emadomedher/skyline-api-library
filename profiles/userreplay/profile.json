@@ -1,0 +1,14 @@
+{
+  "id": "userreplay",
+  "title": "UserReplay",
+  "subtitle": "UserReplay is a customer experience analytics solution which enables businesses to discover the truth about their cus...",
+  "tags": [
+    "mobile-and-web-analytics",
+    "session-replay"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946423/catalog/userreplay/icon128x128.png",
+  "website": "https://userreplay.com"
+}

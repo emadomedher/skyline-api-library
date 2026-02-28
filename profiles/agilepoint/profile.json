@@ -1,0 +1,13 @@
+{
+  "id": "agilepoint",
+  "title": "Agilepoint",
+  "subtitle": "AgilePoint NX is a cloud-based, low-code application platform for building process, forms, data-driven and mobile app...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947301/catalog/agilepoint/icon128x128.png",
+  "website": "https://agilepoint.com"
+}

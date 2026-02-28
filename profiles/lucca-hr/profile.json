@@ -1,0 +1,14 @@
+{
+  "id": "lucca-hr",
+  "title": "Lucca",
+  "subtitle": "Build your own HRIS by combining specialised software programs for all your administrative and HR management matters",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/icons/lucca-hr",
+  "website": "https://www.lucca-hr.com/",
+  "docsUrl": "https://developers.lucca.fr/en"
+}

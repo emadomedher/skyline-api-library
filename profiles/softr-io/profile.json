@@ -1,0 +1,15 @@
+{
+  "id": "softr-io",
+  "title": "Softr",
+  "subtitle": "The easiest and fastest way to build beautiful and responsive websites, using building blocks. Zero design and coding...",
+  "tags": [
+    "websites",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598475473/icons/softr-io.jpg",
+  "website": "https://www.softr.io/",
+  "docsUrl": "https://docs.softr.io"
+}

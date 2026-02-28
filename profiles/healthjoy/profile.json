@@ -1,0 +1,13 @@
+{
+  "id": "healthjoy",
+  "title": "HealthJoy",
+  "subtitle": "HealthJoy is the smarter way for employees to interact with their benefits, make better healthcare decisions, and sav...",
+  "tags": [
+    "health-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612008/catalog/healthjoy/icon128x128.jpg",
+  "website": "https://healthjoy.com/"
+}

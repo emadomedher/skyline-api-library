@@ -1,0 +1,13 @@
+{
+  "id": "katanamrp",
+  "title": "Katana",
+  "subtitle": "Smart inventory and manufacturing software for scaling businesses looking \nto automate workflows. Try it for free!",
+  "tags": [
+    "manufacturing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801283/catalog/katanamrp/icon128x128.jpg",
+  "website": "https://katanamrp.com/"
+}

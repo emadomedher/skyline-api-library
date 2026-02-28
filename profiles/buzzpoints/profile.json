@@ -1,0 +1,13 @@
+{
+  "id": "buzzpoints",
+  "title": "Buzzpoints",
+  "subtitle": "Buzzpoints API integration",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964213/catalog/buzzpoints/icon128x128.png",
+  "website": "https://buzzpoints.com"
+}

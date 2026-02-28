@@ -1,0 +1,12 @@
+{
+  "id": "sakari-sms",
+  "title": "Sakari SMS",
+  "subtitle": "Sakari is a platform for sending and receiving SMS messages. Our platform is optimized for sending customized message...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284597/catalog/sakari-sms/icon128x128.png"
+}

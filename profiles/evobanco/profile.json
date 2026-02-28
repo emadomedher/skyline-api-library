@@ -1,0 +1,13 @@
+{
+  "id": "evobanco",
+  "title": "EVO Banco",
+  "subtitle": "EVO Banco, S.A.U. is a Spanish bank based in Madrid. EVO Banco was created by NCG Banco on March 12, 2012 as a divisi...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598784361/icons/evobanco.jpg",
+  "website": "https://www.evobanco.com/"
+}

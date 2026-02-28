@@ -1,0 +1,12 @@
+{
+  "id": "timecamp",
+  "title": "TimeCamp",
+  "subtitle": "TimeCamp helps you and your team to track time. Automatic time-tracking software that tracks websites and application...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306340/catalog/timecamp/icon128x128.png"
+}

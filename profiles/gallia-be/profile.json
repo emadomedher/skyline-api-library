@@ -1,0 +1,14 @@
+{
+  "id": "gallia-be",
+  "title": "GALLIA",
+  "subtitle": "Touroperator voor rondreizen en vaarvakanties in Ierland, UK, Scandinavië en Canada; online informatie en reservaties.",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612634785/icons/gallia-be.png",
+  "website": "https://www.gallia.be/"
+}

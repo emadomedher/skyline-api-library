@@ -1,0 +1,13 @@
+{
+  "id": "simpliconnect-ca",
+  "title": "simpliConnect",
+  "subtitle": "simpliConnect API integration",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679429020/icons/simpliconnect-ca.png",
+  "website": "https://simpliconnect.ca/"
+}

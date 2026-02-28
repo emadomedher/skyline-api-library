@@ -1,0 +1,13 @@
+{
+  "id": "interviewschedule",
+  "title": "Interview Schedule",
+  "subtitle": "Interview Schedule's software simplifies recruiting operations, increasing scheduling efficiency and saving time. Foc...",
+  "tags": [
+    "recruiting-interview-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610129709/icons/interviewschedule.png",
+  "website": "https://interviewschedule.com/"
+}

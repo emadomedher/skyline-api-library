@@ -1,0 +1,13 @@
+{
+  "id": "pushalert",
+  "title": "PushAlert",
+  "subtitle": "PushAlert allows you to send push notifications to your website subscribers on Chrome, Firefox and Safari. Signup for...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946693/catalog/pushalert/icon128x128.jpg",
+  "website": "https://pushalert.co"
+}

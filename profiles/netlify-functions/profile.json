@@ -1,0 +1,14 @@
+{
+  "id": "netlify-functions",
+  "title": "Netlify Functions",
+  "subtitle": "A modern, scalable backend built into every Netlify account. No setup, servers, or ops required.",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522278/icons/netlify-functions.jpg",
+  "website": "https://www.netlify.com/products/functions/",
+  "docsUrl": "https://www.netlify.com/docs/functions/#event-triggered-functions"
+}

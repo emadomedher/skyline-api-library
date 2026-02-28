@@ -1,0 +1,12 @@
+{
+  "id": "elopage",
+  "title": "elopage",
+  "subtitle": "Elopage is a SaaS-Platform for managing, selling and scaling digital products, online courses, membership plans and e...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304842/catalog/elopage/icon128x128.png"
+}

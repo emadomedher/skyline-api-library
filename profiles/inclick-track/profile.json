@@ -1,0 +1,13 @@
+{
+  "id": "inclick-track",
+  "title": "Inclick Track",
+  "subtitle": "Inclick provides Social Media Intelligence to everyone through it's products and services. Get a free trial today!",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946920/catalog/inclick-track/icon128x128.jpg",
+  "website": "https://inclick.co"
+}

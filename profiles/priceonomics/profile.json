@@ -1,0 +1,13 @@
+{
+  "id": "priceonomics",
+  "title": "Priceonomics",
+  "subtitle": "Data crawling, visualization and analysis",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827259/catalog/priceonomics/icon128x128.png",
+  "website": "https://priceonomics.com"
+}

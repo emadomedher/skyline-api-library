@@ -1,0 +1,13 @@
+{
+  "id": "yandex-checkout",
+  "title": "Yandex.Checkout",
+  "subtitle": "Yandex.Checkout: easy integration of payment systems for online stores and any other websites. Bank cards: Visa, Mast...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574290637/catalog/yandex-checkout/icon128x128.png",
+  "website": "https://checkout.yandex.com/"
+}

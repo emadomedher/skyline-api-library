@@ -1,0 +1,13 @@
+{
+  "id": "stackpulse-io",
+  "title": "StackPulse: Site Reliability Engineering Platform",
+  "subtitle": "Let’s make the world a more reliable place.\n  We help SREs and developers eliminate toil, reduce alert fatigue and im...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327341/icons/stackpulse-io.jpg",
+  "website": "https://stackpulse.io"
+}

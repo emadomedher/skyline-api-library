@@ -1,0 +1,14 @@
+{
+  "id": "markdown",
+  "title": "Markdown",
+  "subtitle": "Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to ...",
+  "tags": [
+    "files",
+    "markup-languages"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590427745/catalog/markdown/icon128x128.png",
+  "website": "https://en.wikipedia.org/wiki/Markdown"
+}

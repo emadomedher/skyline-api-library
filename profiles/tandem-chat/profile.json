@@ -1,0 +1,14 @@
+{
+  "id": "tandem-chat",
+  "title": "Tandem",
+  "subtitle": "Re-discover the flow of working together in‑person. See, talk to, and collaborate with your team in one click.",
+  "tags": [
+    "remote",
+    "video-cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587489801/catalog/tandem-chat/icon128x128.jpg",
+  "website": "https://tandem.chat"
+}

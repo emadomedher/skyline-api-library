@@ -1,0 +1,13 @@
+{
+  "id": "finn-ai",
+  "title": "Finn AI",
+  "subtitle": "Finn AI is the leading conversational AI platform for banking, with chatbots to help banks, credit unions, and challe...",
+  "tags": [
+    "conversational-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625198103/icons/finn-ai.jpg",
+  "website": "https://www.finn.ai/"
+}

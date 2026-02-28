@@ -1,0 +1,17 @@
+{
+  "id": "cashplus",
+  "title": "Cashplus",
+  "subtitle": "Cashplus API integration",
+  "tags": [
+    "challenger-banks",
+    "fintech",
+    "business-expense-cards",
+    "debit-mastercards"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568494913/catalog/cashplus/icon128x128.jpg",
+  "website": "https://www.cashplus.com/",
+  "docsUrl": "https://apisandbox.mycashplus.co.uk/swagger/ui/index#!/Root32Infrastructure"
+}

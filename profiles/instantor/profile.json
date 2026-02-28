@@ -1,0 +1,15 @@
+{
+  "id": "instantor",
+  "title": "Instantor",
+  "subtitle": "We make clever solutions that help everyday people and the financing ecosystem communicate with each other. Making it...",
+  "tags": [
+    "credit-risk-management-api",
+    "credit",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573418096/catalog/instantor/icon128x128.png",
+  "website": "https://www.instantor.com/"
+}

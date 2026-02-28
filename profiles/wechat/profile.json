@@ -1,0 +1,14 @@
+{
+  "id": "wechat",
+  "title": "WeChat",
+  "subtitle": "Available for all kinds of platforms; enjoy group chat; support voice,photo,video and text messages.",
+  "tags": [
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559218753/catalog/wechat/icon128x128.jpg",
+  "website": "https://wechat.com",
+  "docsUrl": "https://developers.weixin.qq.com/miniprogram/en/dev/api/"
+}

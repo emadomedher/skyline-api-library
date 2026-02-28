@@ -1,0 +1,14 @@
+{
+  "id": "openocean-finance",
+  "title": "OpenOcean Finance",
+  "subtitle": "Leading DEX/DeFi aggregator, providing traders and dApps with the best prices by combining liquidity from decentraliz...",
+  "tags": [
+    "dex-aggregators",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909568/icons/openocean-finance.jpg",
+  "website": "https://openocean.finance/"
+}

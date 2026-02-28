@@ -1,0 +1,14 @@
+{
+  "id": "sisense",
+  "title": "Sisense",
+  "subtitle": "Business Intelligence software by Sisense, the industry leader in BI for complex data - easily prepare, analyze & exp...",
+  "tags": [
+    "business-intelligence"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553698073/catalog/sisense/icon128x128.jpg",
+  "website": "https://www.sisense.com/",
+  "docsUrl": "https://sisense.dev/"
+}

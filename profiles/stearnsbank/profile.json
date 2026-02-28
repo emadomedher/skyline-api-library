@@ -1,0 +1,13 @@
+{
+  "id": "stearnsbank",
+  "title": "Stearns Bank",
+  "subtitle": "Stearns Bank, a full-service bank with branches in Minnesota, Florida, and Arizona, offers the friendly service of a ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633822316/icons/stearnsbank.jpg",
+  "website": "https://www.stearnsbank.com/"
+}

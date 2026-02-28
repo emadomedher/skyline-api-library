@@ -1,0 +1,13 @@
+{
+  "id": "altair-smartworks",
+  "title": "Altair SmartWorks",
+  "subtitle": "Altair SmartWorks has a deep, integrated toolset to help you reduce operational waste and/or offer new services to yo...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718921/catalog/altair-smartworks/icon128x128.jpg",
+  "website": "https://altairsmartworks.com"
+}

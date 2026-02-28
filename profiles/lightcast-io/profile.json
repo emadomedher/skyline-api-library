@@ -1,0 +1,14 @@
+{
+  "id": "lightcast-io",
+  "title": "Lightcast",
+  "subtitle": "Labor market insights to help your people thrive.",
+  "tags": [
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663261368/icons/lightcast-io.png",
+  "website": "https://lightcast.io/",
+  "docsUrl": "https://lightcast.io/solutions/economic-and-workforce-development/developer"
+}

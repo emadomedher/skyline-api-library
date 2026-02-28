@@ -1,0 +1,13 @@
+{
+  "id": "facebook-offline-conversions",
+  "title": "Facebook Offline Conversions",
+  "subtitle": "With offline conversion measurement on Facebook, you can track when events occur in your physical retail store and ot...",
+  "tags": [
+    "facebook",
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439189/catalog/facebook-offline-conversions/icon128x128.svg"
+}

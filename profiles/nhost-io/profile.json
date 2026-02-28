@@ -1,0 +1,15 @@
+{
+  "id": "nhost-io",
+  "title": "Nhost",
+  "subtitle": "Get a complete backend in seconds: Database, GraphQL API (realtime), Authentication, Storage and Serverless Functions.",
+  "tags": [
+    "databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627010763/icons/nhost-io.jpg",
+  "website": "https://nhost.io/",
+  "docsUrl": "https://docs.nhost.io"
+}

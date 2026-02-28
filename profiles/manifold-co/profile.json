@@ -1,0 +1,15 @@
+{
+  "id": "manifold-co",
+  "title": "Manifold",
+  "subtitle": "Manifold powers marketplace infrastructure that connects millions of developers to the best APIs, tools, and services...",
+  "tags": [
+    "marketplace",
+    "developer-tooling"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509864/catalog/manifold-co/icon128x128.png",
+  "website": "https://manifold.co/",
+  "docsUrl": "https://docs.manifold.co/docs/plans-and-pricing-7lqkwmGo5FmWGOQv2QEFwc"
+}

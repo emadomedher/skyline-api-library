@@ -1,0 +1,13 @@
+{
+  "id": "fpx",
+  "title": "FPX",
+  "subtitle": "FPX Configure Price Quote (CPQ) transforms the B2B buying and selling experience. FPX delivers omnichannel-ready CPQ ...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946980/catalog/fpx/icon128x128.png",
+  "website": "https://fpx.com"
+}

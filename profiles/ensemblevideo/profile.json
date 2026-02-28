@@ -1,0 +1,14 @@
+{
+  "id": "ensemblevideo",
+  "title": "Ensemble Video",
+  "subtitle": "The Ensemble Video Platform is in tune with your audience, media producers and IT. Our video platform solution will s...",
+  "tags": [
+    "video-cms",
+    "education"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609719579/icons/ensemblevideo.jpg",
+  "website": "https://www.ensemblevideo.com/"
+}

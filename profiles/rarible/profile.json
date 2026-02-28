@@ -1,0 +1,13 @@
+{
+  "id": "rarible",
+  "title": "Rarible",
+  "subtitle": "Create and sell digital collectibles secured with blockchain",
+  "tags": [
+    "nft-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192460/icons/rarible.png",
+  "website": "https://rarible.com/"
+}

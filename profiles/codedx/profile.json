@@ -1,0 +1,15 @@
+{
+  "id": "codedx",
+  "title": "Code Dx",
+  "subtitle": "Code Dx is the only tool that integrates numerous open-source solutions for application vulnerability management. Pra...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193103/catalog/codedx/icon128x128.jpg",
+  "website": "https://www.codedx.com",
+  "docsUrl": "https://codedx.com/for-developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mouseflow",
+  "title": "Mouseflow",
+  "subtitle": "Customer experience analytics that unlock revenue opportunities. Bring your whole team (unlimited users) and record e...",
+  "tags": [
+    "mobile-and-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651433782/icons/mouseflow.png",
+  "website": "https://mouseflow.com",
+  "docsUrl": "https://help.mouseflow.com/en/articles/4327004-mouseflow-s-rest-api"
+}

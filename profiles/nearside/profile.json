@@ -1,0 +1,13 @@
+{
+  "id": "nearside",
+  "title": "Nearside",
+  "subtitle": "FDIC-insured business checking account and cashback rewards debit card. Get 2.2% cashback in 2022 on all eligible bus...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753716/icons/nearside.png",
+  "website": "https://www.nearside.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "posist",
+  "title": "Posist Technologies",
+  "subtitle": "Complete Cloud-Based Restaurant Management software, helping over 10000 restaurants across 35 countries streamline op...",
+  "tags": [
+    "restaurant-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651682889/icons/posist.jpg",
+  "website": "https://www.posist.com/"
+}

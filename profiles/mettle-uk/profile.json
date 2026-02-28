@@ -1,0 +1,14 @@
+{
+  "id": "mettle-uk",
+  "title": "Mettle",
+  "subtitle": "Mettle (by NatWest) is a digital bank account for small and medium-sized businesses.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586373265/catalog/mettle-uk/icon128x128.png",
+  "website": "https://www.mettle.co.uk/",
+  "docsUrl": "https://www.bankofapis.com"
+}

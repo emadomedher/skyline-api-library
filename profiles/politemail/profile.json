@@ -1,0 +1,12 @@
+{
+  "id": "politemail",
+  "title": "PoliteMail",
+  "subtitle": "Measure results with powerful email metrics, including opens, read-time and click through rates plus valuable analyti...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264832/catalog/politemail/icon128x128.png"
+}

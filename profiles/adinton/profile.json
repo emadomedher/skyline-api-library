@@ -1,0 +1,13 @@
+{
+  "id": "adinton",
+  "title": "Adinton",
+  "subtitle": "Adinton API integration",
+  "tags": [
+    "marketing-analytics-performance-and-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432787/catalog/adinton/icon128x128.png",
+  "website": "https://adinton.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "privacypolicies",
+  "title": "PrivacyPolicies.com",
+  "subtitle": "PrivacyPolicies.com API integration",
+  "tags": [
+    "privacy-policies",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613278184/icons/privacypolicies.jpg",
+  "website": "https://www.privacypolicies.com/"
+}

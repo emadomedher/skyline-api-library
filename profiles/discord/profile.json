@@ -1,0 +1,14 @@
+{
+  "id": "discord",
+  "title": "Discord",
+  "subtitle": "Step up your game with a modern voice & text chat app. Crystal clear voice, multiple server and channel support, mobi...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304781/catalog/discord/icon128x128.png",
+  "website": "https://discordapp.com",
+  "docsUrl": "https://discordapp.com/developers/docs"
+}

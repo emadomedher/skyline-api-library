@@ -1,0 +1,13 @@
+{
+  "id": "pushwizard",
+  "title": "PushWizard",
+  "subtitle": "PushWizard API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962550/catalog/pushwizard/icon128x128.png",
+  "website": "https://pushwizard.com"
+}

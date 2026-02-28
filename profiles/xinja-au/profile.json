@@ -1,0 +1,13 @@
+{
+  "id": "xinja-au",
+  "title": "Xinja",
+  "subtitle": "Xinja will make it quick, easy and fun to track your spending, save for what you want and get a lot more out of your ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573524324/catalog/xinja-au/icon128x128.png",
+  "website": "https://xinja.com.au/"
+}

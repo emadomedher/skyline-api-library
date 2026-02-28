@@ -1,0 +1,14 @@
+{
+  "id": "tacklit",
+  "title": "Tacklit",
+  "subtitle": "The platform psychologists and mental health therapists have been waiting for.  Coordinate all aspects of your practi...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887374/icons/tacklit.jpg",
+  "website": "https://www.tacklit.com/",
+  "docsUrl": "https://www.tacklit.com/who/developers"
+}

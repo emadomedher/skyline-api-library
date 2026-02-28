@@ -1,0 +1,13 @@
+{
+  "id": "kylas-io",
+  "title": "Kylas",
+  "subtitle": "Kylas Sales CRM Software helps Growing Businesses scale with expertise. Set your sales team up for success. Try free ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659049744/icons/kylas-io.jpg",
+  "website": "https://kylas.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "functionfox",
+  "title": "FunctionFox",
+  "subtitle": "Easily track online timesheets, simplify project management, and stay on top of estimates, invoices and every detail ...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720171/catalog/functionfox/icon128x128.jpg",
+  "website": "https://functionfox.com"
+}

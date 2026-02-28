@@ -1,0 +1,13 @@
+{
+  "id": "withpurple",
+  "title": "Purple",
+  "subtitle": "Open a Purple bank account to receive your Social Security Income (SSI) and Social Security Disability Insurance (SSD...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624221127/icons/withpurple.png",
+  "website": "https://www.withpurple.com/"
+}

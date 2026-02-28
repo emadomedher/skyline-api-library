@@ -1,0 +1,13 @@
+{
+  "id": "consolfreight",
+  "title": "Consolfreight",
+  "subtitle": "Consolfreight API integration",
+  "tags": [
+    "freight-forwarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801297/catalog/consolfreight/icon128x128.png",
+  "website": "https://consolfreight.com/"
+}

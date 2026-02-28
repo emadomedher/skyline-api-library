@@ -1,0 +1,13 @@
+{
+  "id": "prognoz",
+  "title": "Prognoz",
+  "subtitle": "Prognoz API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561400129/catalog/prognoz/icon128x128.png",
+  "website": "https://prognoz.com"
+}

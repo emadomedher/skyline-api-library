@@ -1,0 +1,13 @@
+{
+  "id": "agent3",
+  "title": "Agent3",
+  "subtitle": "Agent3 API integration",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432878/catalog/agent3/icon128x128.png",
+  "website": "https://agent3.com"
+}

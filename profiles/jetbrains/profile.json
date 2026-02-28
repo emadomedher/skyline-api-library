@@ -1,0 +1,14 @@
+{
+  "id": "jetbrains",
+  "title": "JetBrains",
+  "subtitle": "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including ...",
+  "tags": [
+    "ide",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587651098/catalog/jetbrains/icon128x128.jpg",
+  "website": "https://www.jetbrains.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "4degrees-ai",
+  "title": "4Degrees",
+  "subtitle": "Automatically track your relationships & deals with actionable intelligence to help you move them forward.",
+  "tags": [
+    "crm",
+    "personal-crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600898678/icons/4degrees-ai.jpg",
+  "website": "https://4degrees.ai/"
+}

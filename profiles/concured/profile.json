@@ -1,0 +1,13 @@
+{
+  "id": "concured",
+  "title": "CONCURED",
+  "subtitle": "Concured uses Artificial Intelligence to analyse audience behaviour, at scale, to help you plan your content marketin...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826129/catalog/concured/icon128x128.jpg",
+  "website": "https://concured.com"
+}

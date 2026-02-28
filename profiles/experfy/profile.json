@@ -1,0 +1,14 @@
+{
+  "id": "experfy",
+  "title": "Experfy",
+  "subtitle": "Harvard-incubated Experfy platform enables the pipelining and hiring of external talent at unprecedented speed. Also,...",
+  "tags": [
+    "expert-networks",
+    "talent-acquisition"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641977852/icons/experfy.jpg",
+  "website": "https://www.experfy.com/"
+}

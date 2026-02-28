@@ -1,0 +1,13 @@
+{
+  "id": "appboxo",
+  "title": "Appboxo",
+  "subtitle": "Appboxo enables apps to be launched inside of other apps to create beautiful and lightning fast mobile experiences.",
+  "tags": [
+    "super-app"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608005307/icons/appboxo.jpg",
+  "website": "https://appboxo.com/"
+}

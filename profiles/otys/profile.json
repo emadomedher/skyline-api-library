@@ -1,0 +1,13 @@
+{
+  "id": "otys",
+  "title": "OTYS",
+  "subtitle": "A good Recruiting Technology Platform has been constructed in order to relieve you of work and let you seize opportun...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406232/icons/otys.png",
+  "website": "https://www.otys.com/"
+}

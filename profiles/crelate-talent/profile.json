@@ -1,0 +1,13 @@
+{
+  "id": "crelate-talent",
+  "title": "Crelate Talent",
+  "subtitle": "All-in-one recruiting software for profesional recruiters. Crelate is affordable Recruiting CRM + ATS software delive...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719642/catalog/crelate-talent/icon128x128.jpg",
+  "website": "https://crelate.com"
+}

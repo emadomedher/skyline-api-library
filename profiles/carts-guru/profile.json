@@ -1,0 +1,13 @@
+{
+  "id": "carts-guru",
+  "title": "Carts Guru",
+  "subtitle": "Carts Guru API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774928/catalog/carts-guru/icon128x128.png",
+  "website": "https://carts.guru"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "deepsource-io",
+  "title": "DeepSource",
+  "subtitle": "Discover and fix bug risks, anti-patterns, performance issues, and security flaws during code reviews. Up and running...",
+  "tags": [
+    "static-code-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327374/icons/deepsource-io.png",
+  "website": "https://deepsource.io",
+  "docsUrl": "https://deepsource.io/docs"
+}

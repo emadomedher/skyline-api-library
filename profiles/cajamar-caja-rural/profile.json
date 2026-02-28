@@ -1,0 +1,13 @@
+{
+  "id": "cajamar-caja-rural",
+  "title": "Cajamar Caja Rural",
+  "subtitle": "Gestiona fácilmente tus cuentas, tarjetas, hipotecas... con nuestra Banca online. ¿Conoces nuestro Club Seguros? Tene...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623529069/icons/cajamar-caja-rural.jpg",
+  "website": "https://www.cajamar.es/"
+}

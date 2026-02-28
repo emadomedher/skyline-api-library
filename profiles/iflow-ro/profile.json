@@ -1,0 +1,13 @@
+{
+  "id": "iflow-ro",
+  "title": "iFlow",
+  "subtitle": "✅ Easy to use Timekeeping & HR App. ✅ Keep track of your employees' paid and sick leave. All in one place! Try it Now...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584964336/catalog/iflow-ro/icon128x128.jpg",
+  "website": "https://iflow.ro/en"
+}

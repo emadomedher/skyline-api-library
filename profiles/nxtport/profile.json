@@ -1,0 +1,15 @@
+{
+  "id": "nxtport",
+  "title": "NxtPort",
+  "subtitle": "Digital logistics, data sharing, data-sharing, datasharing, logistics, port of the future, dataplatform Port of Antwe...",
+  "tags": [
+    "data-sharing",
+    "logistics",
+    "ports"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576619790/catalog/nxtport/icon128x128.jpg",
+  "website": "https://www.nxtport.com/"
+}

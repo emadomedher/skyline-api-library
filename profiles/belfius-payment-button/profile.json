@@ -1,0 +1,12 @@
+{
+  "id": "belfius-payment-button",
+  "title": "Belfius Payment Button",
+  "subtitle": "What is the Belfius Pay Button? Belfius is one of Belgium's biggest banks and provides its customers with its own onl...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563414796/catalog/belfius-be/icon128x128.jpg"
+}

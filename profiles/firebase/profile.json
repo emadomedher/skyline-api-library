@@ -1,0 +1,15 @@
+{
+  "id": "firebase",
+  "title": "Firebase",
+  "subtitle": "Firebase is Google’s mobile platform that helps you quickly develop high-quality apps and grow your business.",
+  "tags": [
+    "databases",
+    "push-notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612388991/icons/firebase.jpg",
+  "website": "https://firebase.google.com/",
+  "docsUrl": "https://firebase.google.com/docs"
+}

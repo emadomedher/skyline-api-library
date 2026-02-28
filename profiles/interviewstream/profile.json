@@ -1,0 +1,13 @@
+{
+  "id": "interviewstream",
+  "title": "InterviewStream",
+  "subtitle": "Interviews Simplified. Hiring Transformed. Learn More The Hiring Process should be simple and seamless. Easier said t...",
+  "tags": [
+    "video-interview"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821133/catalog/interviewstream/icon128x128.png",
+  "website": "https://interviewstream.com/"
+}

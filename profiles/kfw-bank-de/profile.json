@@ -1,0 +1,13 @@
+{
+  "id": "kfw-bank-de",
+  "title": "KfW",
+  "subtitle": "The KfW, formerly KfW Bankengruppe, is a German state-owned development bank, based in Frankfurt. Its name originally...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608488623/icons/kfw-bank-de.jpg",
+  "website": "https://www.kfw.de/kfw.de-2.html"
+}

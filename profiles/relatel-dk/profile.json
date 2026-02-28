@@ -1,0 +1,15 @@
+{
+  "id": "relatel-dk",
+  "title": "Relatel",
+  "subtitle": "Relatel leverer samtaleteknologier som mobiltelefoni, omstilling og chat. Prøv Relatel gratis. Find din næste erhverv...",
+  "tags": [
+    "phone-systems",
+    "communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608194304/icons/relatel-dk.jpg",
+  "website": "https://www.relatel.dk/",
+  "docsUrl": "https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html"
+}

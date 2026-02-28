@@ -1,0 +1,15 @@
+{
+  "id": "panzura",
+  "title": "Panzura",
+  "subtitle": "Panzura's global cloud cloud file system allows users across hundreds of offices to work as if they were in the same ...",
+  "tags": [
+    "cloud-management",
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602966188/icons/panzura.jpg",
+  "website": "https://panzura.com/",
+  "docsUrl": "https://developers.google.com/maps/terms"
+}

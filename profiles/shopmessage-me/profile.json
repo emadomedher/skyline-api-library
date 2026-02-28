@@ -1,0 +1,13 @@
+{
+  "id": "shopmessage-me",
+  "title": "ShopMessage",
+  "subtitle": "ShopMessage is the leading marketing automation platform for Facebook Messenger designed for e-commerce and retail br...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892861/catalog/shopmessage-me/icon128x128.png",
+  "website": "https://www.shopmessage.me/"
+}

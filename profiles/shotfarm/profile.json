@@ -1,0 +1,13 @@
+{
+  "id": "shotfarm",
+  "title": "Shotfarm",
+  "subtitle": "Join Shotfarm's Product Content Network™ and get Product Info from Point A to Point B in the simplest, most efficient...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437313/catalog/shotfarm/icon128x128.png",
+  "website": "https://shotfarm.com"
+}

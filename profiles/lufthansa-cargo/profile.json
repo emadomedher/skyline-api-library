@@ -1,0 +1,12 @@
+{
+  "id": "lufthansa-cargo",
+  "title": "Lufthansa Cargo",
+  "subtitle": "Lufthansa Cargo API integration",
+  "tags": [
+    "cargo-airlines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573957578/catalog/lufthansa-cargo/icon128x128.png"
+}

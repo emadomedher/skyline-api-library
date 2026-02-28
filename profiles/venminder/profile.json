@@ -1,0 +1,14 @@
+{
+  "id": "venminder",
+  "title": "Venminder",
+  "subtitle": "Automate and centralize processes with Venminder's third-party vendor risk management software and uncover gaps with ...",
+  "tags": [
+    "vendor-risk-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637700340/icons/venminder.png",
+  "website": "https://www.venminder.com/",
+  "docsUrl": "https://developers.venminder.com/318218fb2/p/344105-overview"
+}

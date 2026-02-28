@@ -1,0 +1,13 @@
+{
+  "id": "onefinance",
+  "title": "One Finance",
+  "subtitle": "More money in your pocket Welcome to One, the better way to bank. One maximizes the power of your paycheck so you hav...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584648257/catalog/onefinance/icon128x128.png",
+  "website": "https://www.onefinance.com/"
+}

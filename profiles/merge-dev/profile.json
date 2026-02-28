@@ -1,0 +1,14 @@
+{
+  "id": "merge-dev",
+  "title": "Merge",
+  "subtitle": "Full integrations lifecycle platform for HR, payroll, and recruiting. One platform to help you build, maintain, and o...",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621289660/icons/merge-dev.jpg",
+  "website": "https://www.merge.dev/",
+  "docsUrl": "https://www.merge.dev/docs"
+}

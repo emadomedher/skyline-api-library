@@ -1,0 +1,14 @@
+{
+  "id": "bookit-nl",
+  "title": "Bookit",
+  "subtitle": "Bookit API integration",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448057/icons/bookit-nl.png",
+  "website": "https://bookit.nl/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "zendirect",
+  "title": "ZenDirect",
+  "subtitle": "Build better relationships with your clients, employees and prospects. Our service lets you easily personalize, print...",
+  "tags": [
+    "printing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306572/catalog/zendirect/icon128x128.png"
+}

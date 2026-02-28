@@ -1,0 +1,13 @@
+{
+  "id": "telkom-ke",
+  "title": "Telkom Kenya",
+  "subtitle": "Telkom Kenya API integration",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623601/icons/telkom-ke.png",
+  "website": "https://telkom.co.ke/"
+}

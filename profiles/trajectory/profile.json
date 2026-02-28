@@ -1,0 +1,13 @@
+{
+  "id": "trajectory",
+  "title": "Trajectory",
+  "subtitle": "Trajectory API integration",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438037/catalog/trajectory/icon128x128.png",
+  "website": "https://apptrajectory.com"
+}

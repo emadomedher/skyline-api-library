@@ -1,0 +1,13 @@
+{
+  "id": "apple-siri",
+  "title": "Siri",
+  "subtitle": "Siri is an intelligent assistant that offers a faster, easier way to get things done on your Apple devices. Even befo...",
+  "tags": [
+    "voice-assistant"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672744166/icons/apple-siri.png",
+  "website": "https://www.apple.com/siri/"
+}

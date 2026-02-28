@@ -1,0 +1,13 @@
+{
+  "id": "gripp",
+  "title": "Gripp",
+  "subtitle": "Gripp is a team collaboration tool that lets you organize anything and everything to keep your projects on task.",
+  "tags": [
+    "team-collaboration",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305065/catalog/gripp/icon128x128.png"
+}

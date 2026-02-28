@@ -1,0 +1,13 @@
+{
+  "id": "airtasker",
+  "title": "Airtasker",
+  "subtitle": "Access thousands of skilled people for your home & office tasks. From furniture assembly to data entry - hire a skill...",
+  "tags": [
+    "home-services-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613458938/icons/airtasker.jpg",
+  "website": "https://www.airtasker.com/"
+}

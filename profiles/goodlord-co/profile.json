@@ -1,0 +1,15 @@
+{
+  "id": "goodlord-co",
+  "title": "Goodlord",
+  "subtitle": "Goodlord's lettings software and services improve the renting process for agents, landlords and tenants alike.",
+  "tags": [
+    "proptech",
+    "lettings",
+    "renting"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796490/catalog/goodlord-co/icon128x128.jpg",
+  "website": "https://www.goodlord.co/"
+}

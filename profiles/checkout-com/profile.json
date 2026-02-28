@@ -1,0 +1,14 @@
+{
+  "id": "checkout-com",
+  "title": "Checkout.com",
+  "subtitle": "Accept more transactions, currencies and payment methods through one integration. Our unified payment platform gives ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572573174/catalog/checkout-com/icon128x128.jpg",
+  "website": "https://www.checkout.com/",
+  "docsUrl": "https://docs.checkout.com"
+}

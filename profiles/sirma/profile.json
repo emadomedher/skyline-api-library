@@ -1,0 +1,14 @@
+{
+  "id": "sirma",
+  "title": "Sırma",
+  "subtitle": "Navigate organizations' intelligent evolution by mastering Data, Information & Knowledge. Evolve our technologies tow...",
+  "tags": [
+    "banking",
+    "healthcare"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582121323/catalog/sirma/icon128x128.jpg",
+  "website": "https://sirma.com/"
+}

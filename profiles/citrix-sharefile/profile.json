@@ -1,0 +1,13 @@
+{
+  "id": "citrix-sharefile",
+  "title": "Citrix ShareFile",
+  "subtitle": "Citrix ShareFile is an enterprise \"follow-me\" data solution that makes it easy for users to store, sync and share dat...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304619/catalog/citrix-sharefile/icon128x128.png",
+  "website": "https://www.sharefile.com/"
+}

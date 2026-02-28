@@ -1,0 +1,16 @@
+{
+  "id": "instant-ramp-network",
+  "title": "Ramp Network",
+  "subtitle": "An embeddable widget to give your dApp the best onramp and let your users buy crypto in minutes. Delightfully easy in...",
+  "tags": [
+    "open-banking",
+    "crypto",
+    "crypto-exchanges"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572362550/catalog/instant-ramp-network/icon128x128.jpg",
+  "website": "https://instant.ramp.network/",
+  "docsUrl": "https://docs.ramp.network"
+}

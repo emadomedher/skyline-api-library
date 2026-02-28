@@ -1,0 +1,14 @@
+{
+  "id": "kaleido-io",
+  "title": "Kaleido",
+  "subtitle": "Create and manage private, enterprise blockchain networks in minutes using Kaleido's platform. Our full-stack enterpr...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602837906/icons/kaleido-io.png",
+  "website": "https://www.kaleido.io/",
+  "docsUrl": "https://www.kaleido.io/marketplace"
+}

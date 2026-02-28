@@ -1,0 +1,13 @@
+{
+  "id": "broadleafcommerce",
+  "title": "broadleafcommerce",
+  "subtitle": "broadleafcommerce API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561399391/catalog/broadleafcommerce/icon128x128.png",
+  "website": "https://broadleafcommerce.com"
+}

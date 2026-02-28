@@ -1,0 +1,13 @@
+{
+  "id": "bernieportal",
+  "title": "BerniePortal",
+  "subtitle": "BerniePortal's all in one benefits administration & HR software provides an online employee self-service solution for...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049913/icons/bernieportal.png",
+  "website": "https://www.bernieportal.com/"
+}

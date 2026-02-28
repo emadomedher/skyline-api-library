@@ -1,0 +1,15 @@
+{
+  "id": "rafay-co",
+  "title": "Rafay Systems",
+  "subtitle": "Rafay’s Multi-Cluster Management and Applications Operations with Kubernetes and automates ongoing app operations in ...",
+  "tags": [
+    "kubernetes",
+    "containers"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576895789/catalog/rafay-co/icon128x128.jpg",
+  "website": "https://rafay.co/",
+  "docsUrl": "https://rafay.co/#"
+}

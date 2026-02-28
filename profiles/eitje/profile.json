@@ -1,0 +1,12 @@
+{
+  "id": "eitje",
+  "title": "Eitje",
+  "subtitle": "Eitje is de horeca plannings app! Met Eitje kunnen werkgevers hun hele team op sociaal vlak verbinden en inwerken",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256925/catalog/eitje/icon128x128.png"
+}

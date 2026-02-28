@@ -1,0 +1,13 @@
+{
+  "id": "pricegrid",
+  "title": "PriceGrid",
+  "subtitle": "PriceGrid API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436603/catalog/pricegrid/icon128x128.png",
+  "website": "https://pricegrid.com"
+}

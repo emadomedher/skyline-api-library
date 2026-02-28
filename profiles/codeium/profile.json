@@ -1,0 +1,13 @@
+{
+  "id": "codeium",
+  "title": "Codeium",
+  "subtitle": "The modern coding superpower",
+  "tags": [
+    "coding-assistants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674409328/icons/codeium.png",
+  "website": "https://www.codeium.com/"
+}

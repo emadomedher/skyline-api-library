@@ -1,0 +1,13 @@
+{
+  "id": "pi-datametrics",
+  "title": "Pi Datametrics",
+  "subtitle": "Pi Datametrics API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436442/catalog/pi-datametrics/icon128x128.png",
+  "website": "https://pi-datametrics.com"
+}

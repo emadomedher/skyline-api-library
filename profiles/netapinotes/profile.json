@@ -1,0 +1,16 @@
+{
+  "id": "netapinotes",
+  "title": "NetAPINotes",
+  "subtitle": "NetAPINotes API integration",
+  "tags": [
+    "api",
+    "resources",
+    "newsletters",
+    "non-software"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611872593/icons/netapinotes.png",
+  "website": "https://tinyletter.com/NetAPINotes"
+}

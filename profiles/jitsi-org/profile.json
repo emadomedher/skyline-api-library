@@ -1,0 +1,14 @@
+{
+  "id": "jitsi-org",
+  "title": "Jitsi",
+  "subtitle": "Free open-source video conferencing for web & mobile. Make a call, launch on your own servers in minutes, integrate i...",
+  "tags": [
+    "video-conferencing",
+    "open-source"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588359695/catalog/jitsi-org/icon128x128.png",
+  "website": "https://jitsi.org/"
+}

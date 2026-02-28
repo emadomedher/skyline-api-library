@@ -1,0 +1,14 @@
+{
+  "id": "blooma-ai",
+  "title": "Blooma",
+  "subtitle": "Blooma API integration",
+  "tags": [
+    "lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566562165/catalog/blooma-ai/icon128x128.png",
+  "website": "https://blooma.ai/"
+}

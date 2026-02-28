@@ -1,0 +1,14 @@
+{
+  "id": "kraken-io",
+  "title": "Kraken.io",
+  "subtitle": "Optimize your images with blazing speed using powerful API and online web interface",
+  "tags": [
+    "image-optimization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586354030/catalog/kraken-io/icon128x128.png",
+  "website": "https://kraken.io/",
+  "docsUrl": "https://kraken.io/docs/getting-started"
+}

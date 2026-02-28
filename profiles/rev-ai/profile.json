@@ -1,0 +1,16 @@
+{
+  "id": "rev-ai",
+  "title": "Rev.ai",
+  "subtitle": "Rev.ai is the most accurate speech-to-text API on the market at only 3.5¢/min. Get your first transcript in minutes. ...",
+  "tags": [
+    "speech-to-text-api",
+    "speech",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572296388/catalog/rev-ai/icon128x128.jpg",
+  "website": "https://www.rev.ai/",
+  "docsUrl": "https://www.rev.ai/docs"
+}

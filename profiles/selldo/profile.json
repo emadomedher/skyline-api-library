@@ -1,0 +1,13 @@
+{
+  "id": "selldo",
+  "title": "Sell.Do",
+  "subtitle": "Sell.Do is the leading real estate CRM software built exclusively for real estate companies that automates the comple...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962407/catalog/selldo/icon128x128.png",
+  "website": "https://sell.do"
+}

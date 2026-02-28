@@ -1,0 +1,12 @@
+{
+  "id": "site24x7",
+  "title": "Site24x7",
+  "subtitle": "Alerts when Downtime is detected.",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306107/catalog/site24x7/icon128x128.png"
+}

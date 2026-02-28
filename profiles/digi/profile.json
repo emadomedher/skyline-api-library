@@ -1,0 +1,14 @@
+{
+  "id": "digi",
+  "title": "Digi",
+  "subtitle": "Learn about Digi IIoT devices, software and services for enterprise, industrial and smart city IoT and M2M applications.",
+  "tags": [
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644983637/icons/digi.jpg",
+  "website": "https://www.digi.com/",
+  "docsUrl": "https://www.digi.com/solutions/by-technology/lorawan"
+}

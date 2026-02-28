@@ -1,0 +1,15 @@
+{
+  "id": "form-io",
+  "title": "Form.IO",
+  "subtitle": "A Form and Data Management Platform for Serverless Form-based Applications : Simplify the connections between your fo...",
+  "tags": [
+    "forms",
+    "api"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567641552/catalog/form-io/icon128x128.jpg",
+  "website": "https://www.form.io/",
+  "docsUrl": "https://help.form.io"
+}

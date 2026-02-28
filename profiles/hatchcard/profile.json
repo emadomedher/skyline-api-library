@@ -1,0 +1,13 @@
+{
+  "id": "hatchcard",
+  "title": "Hatch",
+  "subtitle": "FDIC-insured business checking account with up to 5% in cashback rewards, perks and discounts, no NSF fees, and a Mas...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618435375/icons/hatchcard.jpg",
+  "website": "https://www.hatchcard.com/"
+}

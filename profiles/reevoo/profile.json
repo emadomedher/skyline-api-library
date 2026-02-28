@@ -1,0 +1,13 @@
+{
+  "id": "reevoo",
+  "title": "Reevoo",
+  "subtitle": "We help some of the world’s smartest companies talk with, listen to and learn from their customers with user-generate...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721786/catalog/reevoo/icon128x128.png",
+  "website": "https://reevoo.com"
+}

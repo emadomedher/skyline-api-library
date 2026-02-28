@@ -1,0 +1,13 @@
+{
+  "id": "compucase-nl",
+  "title": "CompuCase BV",
+  "subtitle": "Verzuimsoftware voor arbodienstverleners en grotere werkgevers. Zeer flexibel en gebruiksvriendelijk én zeer gunstige...",
+  "tags": [
+    "absence-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586262021/catalog/compucase-nl/icon128x128.png",
+  "website": "https://www.compucase.nl/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hackerone",
+  "title": "HackerOne",
+  "subtitle": "HackerOne develops bug bounty solutions to help organizations reduce the risk of a security incident by working with ...",
+  "tags": [
+    "bug-bounty-programs",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565399396/catalog/hackerone/icon128x128.png",
+  "website": "https://hackerone.com",
+  "docsUrl": "https://docs.hackerone.com"
+}

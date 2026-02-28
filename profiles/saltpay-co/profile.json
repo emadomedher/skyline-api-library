@@ -1,0 +1,14 @@
+{
+  "id": "saltpay-co",
+  "title": "SaltPay",
+  "subtitle": "Fast and secure payment solutions that can help small and medium-sized businesses to better manage and grow their ope...",
+  "tags": [
+    "payments",
+    "pos"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801598/icons/saltpay-co.png",
+  "website": "https://www.saltpay.co/"
+}

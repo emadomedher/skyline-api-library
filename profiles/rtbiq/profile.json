@@ -1,0 +1,14 @@
+{
+  "id": "rtbiq",
+  "title": "RTBiQ",
+  "subtitle": "Our proprietary demand side platform is a high-performance, adaptive \nmachine for exploring, executing, and analyzing...",
+  "tags": [
+    "demand-side-platforms",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581299028/catalog/rtbiq/icon128x128.jpg",
+  "website": "https://www.rtbiq.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "demoblox",
+  "title": "DemoBlox – Demo Data for your sales demos",
+  "subtitle": "DemoBlox – Demo Data for your sales demos API integration",
+  "tags": [
+    "sales-demo"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616567463/icons/demoblox.png",
+  "website": "https://demoblox.com/"
+}

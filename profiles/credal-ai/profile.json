@@ -1,0 +1,14 @@
+{
+  "id": "credal-ai",
+  "title": "Credal.ai",
+  "subtitle": "Credal protects your sensitive data across all AI apps. We ensure everyone at your company can get the benefits of AI...",
+  "tags": [
+    "ai-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686954364/icons/credal-ai.jpg",
+  "website": "https://www.credal.ai/",
+  "docsUrl": "https://credalai.notion.site/drop-in-apis-3a45d32405c347e8bfd0a570afb61e8b"
+}

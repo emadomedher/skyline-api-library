@@ -1,0 +1,13 @@
+{
+  "id": "honk-me",
+  "title": "Honk",
+  "subtitle": "Real-time messaging.",
+  "tags": [
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608914748/icons/honk-me.jpg",
+  "website": "https://honk.me/"
+}

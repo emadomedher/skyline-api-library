@@ -1,0 +1,12 @@
+{
+  "id": "shipwire",
+  "title": "Shipwire",
+  "subtitle": "Shipwire makes it simple to outsource ecommerce order fulfillment and logistics services for businesses. They have wa...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056155/catalog/shipwire/icon128x128.png"
+}

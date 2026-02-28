@@ -1,0 +1,14 @@
+{
+  "id": "nuula",
+  "title": "Nuula",
+  "subtitle": "A small business finance app that provides access to a flexible line of \ncredit, credit score monitoring, cash flow f...",
+  "tags": [
+    "cash-flow-forecasting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421366/icons/nuula.jpg",
+  "website": "https://nuula.com/",
+  "docsUrl": "https://blog.botmakers.net/how-much-chatbot-developers-charge-for-facebook-messenger-bots-e60d6628ba20"
+}

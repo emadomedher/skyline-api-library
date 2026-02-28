@@ -1,0 +1,13 @@
+{
+  "id": "upaknee",
+  "title": "Upaknee",
+  "subtitle": "Upaknee is a Canadian email marketing company, which provides easy to use online marketing tools to create beautiful ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722633/catalog/upaknee/icon128x128.jpg",
+  "website": "https://upaknee.com"
+}

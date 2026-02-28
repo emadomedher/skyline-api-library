@@ -1,0 +1,13 @@
+{
+  "id": "joomla",
+  "title": "Joomla!",
+  "subtitle": "Joomla! is a popular open source CMS that is powerful and easy to use. Combined with extensions like RSform and Profo...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056002/catalog/joomla/icon128x128.png",
+  "website": "https://joomla.org"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "flexys",
+  "title": "Flexys",
+  "subtitle": "Cloud-native modular, highly scalable and extensible debt management, collection and recovery solutions for the digit...",
+  "tags": [
+    "debt-collection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606762984/icons/flexys.jpg",
+  "website": "https://www.flexys.com/",
+  "docsUrl": "http://www.thinkwordpress.co.uk"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rotacloud",
+  "title": "RotaCloud",
+  "subtitle": "Easy to use online rota software. Plan rotas, manage leave requests, monitor time & attendance — with free apps for y...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688587940/icons/rotacloud.jpg",
+  "website": "https://rotacloud.com/",
+  "docsUrl": "https://rotacloud.docs.apiary.io"
+}

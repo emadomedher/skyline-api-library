@@ -1,0 +1,14 @@
+{
+  "id": "commento-io",
+  "title": "Commento",
+  "subtitle": "Commento lets you embed comments without giving up your privacy. It's fast, lightweight, and modern.",
+  "tags": [
+    "embedded-comments",
+    "privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396573/icons/commento-io.jpg",
+  "website": "https://commento.io/"
+}

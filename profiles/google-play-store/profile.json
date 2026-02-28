@@ -1,0 +1,13 @@
+{
+  "id": "google-play-store",
+  "title": "Google Play Store",
+  "subtitle": "Google Play Store API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565355880/catalog/google-play-store/icon128x128.jpg",
+  "website": "https://play.google.com/"
+}

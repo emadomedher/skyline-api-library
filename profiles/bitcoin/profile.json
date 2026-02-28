@@ -1,0 +1,15 @@
+{
+  "id": "bitcoin",
+  "title": "Bitcoin",
+  "subtitle": "Bitcoin is an innovative payment network and a new kind of money. Find all you need to know and get started with Bitc...",
+  "tags": [
+    "open-source",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583231620/catalog/bitcoin/icon128x128.jpg",
+  "website": "https://bitcoin.org/",
+  "docsUrl": "https://bitcoin.org/en/bitcoin-for-developers"
+}

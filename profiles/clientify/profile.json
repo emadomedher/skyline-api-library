@@ -1,0 +1,15 @@
+{
+  "id": "clientify",
+  "title": "Clientify",
+  "subtitle": "Tecnología de automatización de marketing de las grandes empresas para presupuestos de pequeñas empresas",
+  "tags": [
+    "marketing-automation",
+    "sales-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611530601/icons/clientify.jpg",
+  "website": "https://clientify.com/",
+  "docsUrl": "https://developer.clientify.com"
+}

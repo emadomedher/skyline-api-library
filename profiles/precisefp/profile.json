@@ -1,0 +1,12 @@
+{
+  "id": "precisefp",
+  "title": "PreciseFP",
+  "subtitle": "PreciseFP is a data management platform that helps with your data-gathering process and automates your administrative...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305732/catalog/precisefp/icon128x128.png"
+}

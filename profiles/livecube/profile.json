@@ -1,0 +1,13 @@
+{
+  "id": "livecube",
+  "title": "LiveCube",
+  "subtitle": "the world's most engaging event app. social media + game mechanics + agenda + networking + polling + surveys = max au...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720864/catalog/livecube/icon128x128.png",
+  "website": "https://livecubeapp.com"
+}

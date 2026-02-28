@@ -1,0 +1,12 @@
+{
+  "id": "zoho-sheet",
+  "title": "Zoho Sheet",
+  "subtitle": "Zoho Sheet is a cloud-based spreadsheet software that allows you to create, edit, share and collaborate on spreadshee...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284666/catalog/zoho-sheet/icon128x128.png"
+}

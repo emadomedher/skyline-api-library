@@ -1,0 +1,14 @@
+{
+  "id": "ebiinc",
+  "title": "Employment Background Investigations",
+  "subtitle": "EBI provides compliant background screening solutions for businesses from a single platform. This includes background...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610643750/icons/ebiinc.jpg",
+  "website": "https://www.ebiinc.com/",
+  "docsUrl": "https://www.ebiinc.com/solutions/verifications-and-credentialing"
+}

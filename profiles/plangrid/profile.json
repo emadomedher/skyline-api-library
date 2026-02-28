@@ -1,0 +1,13 @@
+{
+  "id": "plangrid",
+  "title": "PlanGrid",
+  "subtitle": "The No 1 construction software to reduce rework, save on labour, and never work from an outdated drawing. For iPhone,...",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575464711/catalog/plangrid/icon128x128.jpg",
+  "website": "https://www.plangrid.com/"
+}

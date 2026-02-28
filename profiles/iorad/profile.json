@@ -1,0 +1,13 @@
+{
+  "id": "iorad",
+  "title": "iorad",
+  "subtitle": "Instantly make guided, step-by-step directions for any website directly in the browser. iorad is the quickest and eas...",
+  "tags": [
+    "tutorial-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574344491/catalog/iorad/icon128x128.jpg",
+  "website": "https://www.iorad.com/"
+}

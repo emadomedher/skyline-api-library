@@ -1,0 +1,14 @@
+{
+  "id": "mailwarm",
+  "title": "Mailwarm",
+  "subtitle": "Raise your email reputation to avoid the SPAM folder. Mailwarm interacts with your email account as tons of intereste...",
+  "tags": [
+    "email-marketing",
+    "sales"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583563236/catalog/mailwarm/icon128x128.jpg",
+  "website": "https://www.mailwarm.com/"
+}

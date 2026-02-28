@@ -1,0 +1,14 @@
+{
+  "id": "shipworks",
+  "title": "ShipWorks",
+  "subtitle": "ShipWorks is shipping software for e-commerce sellers and online retailers. Import orders from your cart, print shipp...",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618704555/icons/shipworks.jpg",
+  "website": "https://www.shipworks.com/",
+  "docsUrl": "https://www.shipworks.com/developer"
+}

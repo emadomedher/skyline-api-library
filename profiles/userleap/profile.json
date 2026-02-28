@@ -1,0 +1,15 @@
+{
+  "id": "userleap",
+  "title": "UserLeap",
+  "subtitle": "Continuously identify opportunities to acquire and retain more customers. Gain clarity into customer needs and grow y...",
+  "tags": [
+    "user-research",
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608194297/icons/userleap.jpg",
+  "website": "https://userleap.com/",
+  "docsUrl": "https://docs.userleap.com"
+}

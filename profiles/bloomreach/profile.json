@@ -1,0 +1,14 @@
+{
+  "id": "bloomreach",
+  "title": "BloomReach",
+  "subtitle": "Bloomreach solutions combine the power of unified customer and product data with the speed and scale of AI and predic...",
+  "tags": [
+    "optimization-personalization-and-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825901/catalog/bloomreach/icon128x128.jpg",
+  "website": "https://bloomreach.com",
+  "docsUrl": "https://www.bloomreach.com/en#"
+}

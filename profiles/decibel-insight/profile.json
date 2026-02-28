@@ -1,0 +1,13 @@
+{
+  "id": "decibel-insight",
+  "title": "Decibel Insight",
+  "subtitle": "Decibel is a digital experience analytics solution, creator of the Digital Experience Score (DXS), that identifies po...",
+  "tags": [
+    "mobile-and-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719760/catalog/decibel-insight/icon128x128.jpg",
+  "website": "https://decibelinsight.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kensu-io",
+  "title": "Kensu",
+  "subtitle": "Kensu is a Data Governance solutions provider focused on solving organization’s compliance, security, and data contro...",
+  "tags": [
+    "data-governance",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581440207/catalog/kensu-io/icon128x128.jpg",
+  "website": "https://www.kensu.io/"
+}

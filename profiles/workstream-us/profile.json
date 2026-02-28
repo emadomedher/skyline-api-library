@@ -1,0 +1,14 @@
+{
+  "id": "workstream-us",
+  "title": "Workstream",
+  "subtitle": "Workstream | #1 HR software for finding, hiring, and training hourly employees.",
+  "tags": [
+    "recruitment",
+    "hiring"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589110326/catalog/workstream-us/icon128x128.png",
+  "website": "https://www.workstream.us/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "storychief",
+  "title": "Storychief",
+  "subtitle": "StoryChief puts everything you need to get your content marketing done in one place. Organise, structure & publish yo...",
+  "tags": [
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284624/catalog/storychief/icon128x128.png",
+  "website": "https://storychief.io/",
+  "docsUrl": "https://storychief.io/gdpr"
+}

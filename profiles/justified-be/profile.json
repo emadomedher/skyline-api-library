@@ -1,0 +1,13 @@
+{
+  "id": "justified-be",
+  "title": "Justified",
+  "subtitle": "Justified helpt elke ondernemer en zelfstandige om zijn onbetaalde facturen snel betaald te krijgen, zonder zorgen. D...",
+  "tags": [
+    "dunning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584051179/catalog/justified-be/icon128x128.png",
+  "website": "https://www.justified.be/"
+}

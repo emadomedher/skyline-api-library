@@ -1,0 +1,13 @@
+{
+  "id": "verafin",
+  "title": "Verafin",
+  "subtitle": "The industry's leading Financial Crime Management platform: Fraud Detection, BSA/AML, High-Risk Customer Management a...",
+  "tags": [
+    "fraud-detection"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605910277/icons/verafin.jpg",
+  "website": "https://verafin.com/"
+}

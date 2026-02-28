@@ -1,0 +1,13 @@
+{
+  "id": "clevertim",
+  "title": "CleverTim",
+  "subtitle": "Clevertim is an easy to learn & use, web based CRM and contact manager for small businesses. Our primary strengths ar...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433745/catalog/clevertim/icon128x128.png",
+  "website": "https://clevertim.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "google-forms",
+  "title": "Google Forms",
+  "subtitle": "Google Forms is an easy way to collect data from the web with a simple UI and powerful editor. Works hand-in-hand wit...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455998/catalog/google-forms/icon128x128.png",
+  "website": "https://www.google.com/forms/about/",
+  "docsUrl": "https://developers.google.com/forms/api"
+}

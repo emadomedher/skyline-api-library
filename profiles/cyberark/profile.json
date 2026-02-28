@@ -1,0 +1,13 @@
+{
+  "id": "cyberark",
+  "title": "CyberArk",
+  "subtitle": "Learn the five key reccomendations for securely scaling RPA from CISOs for the Global 1000 in the latest edition of C...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612014/catalog/cyberark/icon128x128.jpg",
+  "website": "https://www.cyberark.com/"
+}

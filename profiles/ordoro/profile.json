@@ -1,0 +1,15 @@
+{
+  "id": "ordoro",
+  "title": "Ordoro",
+  "subtitle": "A single ecommerce app for managing shipping, inventory, and everything in between. Access cost-effective rates, prin...",
+  "tags": [
+    "shipping",
+    "inventory-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605910279/icons/ordoro.jpg",
+  "website": "https://www.ordoro.com/",
+  "docsUrl": "https://www.ordoro.com/developer"
+}

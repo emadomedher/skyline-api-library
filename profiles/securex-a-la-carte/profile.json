@@ -1,0 +1,15 @@
+{
+  "id": "securex-a-la-carte",
+  "title": "Securex À la carte",
+  "subtitle": "Met onze ‘A la carte’ oplossing kunt u altijd rekenen op de hulp van een coach die u tijdens elke fase van de levensc...",
+  "tags": [
+    "payroll",
+    "hr",
+    "non-software"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602235645/icons/securex-a-la-carte.jpg",
+  "website": "https://www.securex.be/nl/ondernemen/ontwikkelen/a-la-carte"
+}

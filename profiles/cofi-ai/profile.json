@@ -1,0 +1,13 @@
+{
+  "id": "cofi-ai",
+  "title": "Cofi",
+  "subtitle": "Collaborative FP&A platform for modern finance teams. Automate manual tasks and get insights 10x faster. Fully contro...",
+  "tags": [
+    "financial-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659688154/icons/cofi-ai.png",
+  "website": "https://www.cofi.ai/"
+}

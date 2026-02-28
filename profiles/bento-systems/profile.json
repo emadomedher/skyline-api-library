@@ -1,0 +1,13 @@
+{
+  "id": "bento-systems",
+  "title": "Bento Systems",
+  "subtitle": "Bento Systems API integration",
+  "tags": [
+    "workflow-automation"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606506302/icons/bento-systems.jpg",
+  "website": "https://bento.systems/"
+}

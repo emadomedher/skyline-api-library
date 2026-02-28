@@ -1,0 +1,13 @@
+{
+  "id": "onpay",
+  "title": "OnPay",
+  "subtitle": "Simplify small business payroll, taxes, HR and benefits. OnPay’s top-rated online payroll services bring it all toget...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590537/icons/onpay.jpg",
+  "website": "https://onpay.com/"
+}

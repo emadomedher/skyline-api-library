@@ -1,0 +1,13 @@
+{
+  "id": "demandfarm",
+  "title": "DemandFarm",
+  "subtitle": "Explore Key account management tools that make your key account plan ridiculously easy. Our products will let you do ...",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826265/catalog/demandfarm/icon128x128.png",
+  "website": "https://demandfarm.com"
+}

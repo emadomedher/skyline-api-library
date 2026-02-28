@@ -1,0 +1,14 @@
+{
+  "id": "simplify",
+  "title": "Simplify Commerce",
+  "subtitle": "Add an online payment solution to your website, mobile app and e-Commerce store and start taking payments today.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/897450965791420417/TxJO7iLD_400x400.jpg",
+  "website": "https://www.simplify.com/",
+  "docsUrl": "https://www.simplify.com/commerce/docs"
+}

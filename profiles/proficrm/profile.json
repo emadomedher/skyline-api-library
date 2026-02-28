@@ -1,0 +1,13 @@
+{
+  "id": "proficrm",
+  "title": "ProfiCRM",
+  "subtitle": "CRM solution. CRM system designed to help companies organize themselves more efficiently. CRM focused on the sales pr...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613154085/icons/proficrm.png",
+  "website": "https://proficrm.com"
+}

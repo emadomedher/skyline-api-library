@@ -1,0 +1,13 @@
+{
+  "id": "receptive",
+  "title": "Receptive",
+  "subtitle": "Receptive is a platform that helps SaaS companies manage product feedback and requests from their customers and team.",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306041/catalog/receptive/icon128x128.png",
+  "website": "https://receptive.io"
+}

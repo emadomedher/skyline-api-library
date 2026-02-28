@@ -1,0 +1,13 @@
+{
+  "id": "bizwizard-se",
+  "title": "Netoptions AB",
+  "subtitle": "Stärk sina kundrelationer och skapa kundlojalitet genom effektiv digital kommunikation. BizWizard | Utskick via e-pos...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588292454/catalog/bizwizard-se/icon128x128.png",
+  "website": "https://www.bizwizard.se/"
+}

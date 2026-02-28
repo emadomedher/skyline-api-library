@@ -1,0 +1,13 @@
+{
+  "id": "getcabal",
+  "title": "Cabal",
+  "subtitle": "A private workspace for founders to send asks & updates, track contributions, and scale their advisor program",
+  "tags": [
+    "investor-communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656831/icons/getcabal.png",
+  "website": "https://getcabal.com/"
+}

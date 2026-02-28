@@ -1,0 +1,13 @@
+{
+  "id": "apiant",
+  "title": "APIANT",
+  "subtitle": "APIANT offers Data Integration Software Solutions for Citizen Integrators, Integration Specialists, IT Managers, SaaS...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555085464/catalog/apiant/icon128x128.png",
+  "website": "https://apiant.com/"
+}

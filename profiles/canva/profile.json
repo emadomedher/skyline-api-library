@@ -1,0 +1,14 @@
+{
+  "id": "canva",
+  "title": "Canva",
+  "subtitle": "Create beautiful designs with your team. Use Canva's drag-and-drop feature and layouts to design, share and print bus...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581894810/catalog/canva/icon128x128.png",
+  "website": "https://canva.com",
+  "docsUrl": "https://www.canva.com/developers"
+}

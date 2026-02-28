@@ -1,0 +1,13 @@
+{
+  "id": "datameer",
+  "title": "Datameer",
+  "subtitle": "Unlock all your raw data. Datameer is an agile analytics lifecycle platform that enables enterprises to unlock the va...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719730/catalog/datameer/icon128x128.jpg",
+  "website": "https://datameer.com"
+}

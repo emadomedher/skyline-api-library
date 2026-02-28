@@ -1,0 +1,14 @@
+{
+  "id": "google-hotel-ads",
+  "title": "Google Hotel Ads",
+  "subtitle": "Millions of travelers around the world search for hotels on Google every day. Help your next guest find you with Goog...",
+  "tags": [
+    "ads",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612642019/icons/google-hotel-ads.jpg",
+  "website": "https://ads.google.com/hotels/"
+}

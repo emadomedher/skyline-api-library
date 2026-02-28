@@ -1,0 +1,13 @@
+{
+  "id": "rabo-omnikassa",
+  "title": "Rabo OmniKassa",
+  "subtitle": "Rabo OmniKassa biedt je klanten betaalgemak in je winkel, je webwinkel en onderweg. Alles overzichtelijk in je OmniKa...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612733234/icons/rabo-omnikassa.jpg",
+  "website": "https://www.rabobank.nl/bedrijven/betalen/klanten-laten-betalen/rabo-omnikassa-2-0/"
+}

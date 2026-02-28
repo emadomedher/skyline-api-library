@@ -1,0 +1,14 @@
+{
+  "id": "veeam",
+  "title": "Veeam Software",
+  "subtitle": "Veeam is the global leader in Data Protection. The trusted provider of Simple, Flexible, and Reliable backup and reco...",
+  "tags": [
+    "backup"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639854661/icons/veeam.jpg",
+  "website": "https://www.veeam.com/",
+  "docsUrl": "https://www.veeam.com/documentation-guides-datasheets.html?ad=menu-resources"
+}

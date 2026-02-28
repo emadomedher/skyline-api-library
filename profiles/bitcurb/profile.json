@@ -1,0 +1,13 @@
+{
+  "id": "bitcurb",
+  "title": "BitCurb",
+  "subtitle": "Streamline your reconciliation process with our SaaS solution. We help you have a cost-effective and accurate period-...",
+  "tags": [
+    "account-reconciliation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661844585/icons/bitcurb.jpg",
+  "website": "https://bitcurb.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "slash-graphql",
+  "title": "Slash GraphQL",
+  "subtitle": "Looking for an easier and faster way to build GraphQL apps? Dgraph is a native, ready-to-use, GraphQL database to hel...",
+  "tags": [
+    "hosted-graphql",
+    "graphql",
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599741709/icons/slash-graphql.jpg",
+  "website": "https://dgraph.io/slash-graphql",
+  "docsUrl": "https://dgraph.io/docs"
+}

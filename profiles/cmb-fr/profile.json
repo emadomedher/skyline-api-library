@@ -1,0 +1,14 @@
+{
+  "id": "cmb-fr",
+  "title": "Crédit Mutuel de Bretagne (CMB)",
+  "subtitle": "Crédit Mutuel is a French cooperative bank, with headquarters in Strasbourg, Alsace.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006412/icons/cmb-fr.png",
+  "website": "https://www.cmb.fr/",
+  "docsUrl": "https://www.cmb.fr/banque/assurance/credit-mutuel/pro/upload/docs/application/pdf/2019-01/politique-de-gestion-des-conflits-d-interets-cma.pdf"
+}

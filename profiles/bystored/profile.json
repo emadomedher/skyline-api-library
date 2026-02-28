@@ -1,0 +1,13 @@
+{
+  "id": "bystored",
+  "title": "bySTORED.",
+  "subtitle": "STORED is a storage company in London, providing storage and moving services across 200 different areas. Click NOW fo...",
+  "tags": [
+    "storage-units"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643056679/icons/bystored.jpg",
+  "website": "https://www.bystored.com/"
+}

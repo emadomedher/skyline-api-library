@@ -1,0 +1,13 @@
+{
+  "id": "survey-anyplace",
+  "title": "Survey Anyplace",
+  "subtitle": "Survey Anyplace is an easy-to-use tool to create fun, mobile and interactive surveys & quizzes.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306216/catalog/survey-anyplace/icon128x128.png",
+  "website": "https://surveyanyplace.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mailblast",
+  "title": "Mailblast",
+  "subtitle": "Conduct email marketing on a budget using Amazon SES. Powerful analytics, bounce/complaint tracking, Drag and Drop ed...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720949/catalog/mailblast/icon128x128.jpg",
+  "website": "https://mailblast.io"
+}

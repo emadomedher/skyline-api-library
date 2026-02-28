@@ -1,0 +1,13 @@
+{
+  "id": "arbit-inc",
+  "title": "Arbit Inc.",
+  "subtitle": "Arbit Inc. API integration",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556771421/catalog/arbit-inc/icon128x128.png",
+  "website": "https://askarbit.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "limacharlie-io",
+  "title": "LimaCharlie",
+  "subtitle": "Take a DevOps approach to Cyber Security. LimaCharlie provides cloud native \ncybersecurity tools and supporting infra...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642520258/icons/limacharlie-io.jpg",
+  "website": "https://www.limacharlie.io/",
+  "docsUrl": "https://doc.limacharlie.io"
+}

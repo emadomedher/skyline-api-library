@@ -1,0 +1,13 @@
+{
+  "id": "dataplay",
+  "title": "DataPlay",
+  "subtitle": "DataPlay is a data management software which enables users to analyze, visualize and present their data with Excel an...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719732/catalog/dataplay/icon128x128.png",
+  "website": "https://dataplay.us"
+}

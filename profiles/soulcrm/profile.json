@@ -1,0 +1,13 @@
+{
+  "id": "soulcrm",
+  "title": "SoulCRM",
+  "subtitle": "SoulCRM is all in one CRM Software Solution for managing accounting, marketing, sales, support, purchase, and reporti...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722253/catalog/soulcrm/icon128x128.jpg",
+  "website": "https://soulcrm.com"
+}

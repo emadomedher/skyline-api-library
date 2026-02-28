@@ -1,0 +1,13 @@
+{
+  "id": "realestate-au",
+  "title": "REA (realestate.com.au)",
+  "subtitle": "realestate.com.au is Australia's #1 place for property, with over 1 million visits every day.",
+  "tags": [
+    "real-estate-portals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551227411/catalog/realestate-au/icon128x128.jpg",
+  "website": "https://www.realestate.com.au/buy"
+}

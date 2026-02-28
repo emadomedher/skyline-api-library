@@ -1,0 +1,14 @@
+{
+  "id": "azure-synapse-analytics",
+  "title": "Azure Synapse Analytics",
+  "subtitle": "Azure Synapse is a limitless analytics service that brings together enterprise data warehousing and Big Data analytic...",
+  "tags": [
+    "data-warehouses",
+    "big-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612017/catalog/azure-synapse-analytics/icon128x128.png",
+  "website": "https://azure.microsoft.com/en-us/services/synapse-analytics/"
+}

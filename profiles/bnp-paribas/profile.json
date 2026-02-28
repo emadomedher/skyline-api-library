@@ -1,0 +1,14 @@
+{
+  "id": "bnp-paribas",
+  "title": "BNP Paribas",
+  "subtitle": "BNP Paribas Fortis is an international bank based in Belgium and is a subsidiary of BNP Paribas. It was formerly, tog...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568494915/catalog/bnp-paribas/icon128x128.jpg",
+  "website": "https://group.bnpparibas/",
+  "docsUrl": "https://apistore.bnpparibas/home"
+}

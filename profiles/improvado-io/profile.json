@@ -1,0 +1,14 @@
+{
+  "id": "improvado-io",
+  "title": "Improvado",
+  "subtitle": "Data analytics software for marketers, by marketers. 80+ integrations collect all your marketing data into one place,...",
+  "tags": [
+    "marketing-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588615818/catalog/improvado-io/icon128x128.png",
+  "website": "https://improvado.io/",
+  "docsUrl": "https://improvado.io/solutions/developers"
+}

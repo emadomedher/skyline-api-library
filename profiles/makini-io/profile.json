@@ -1,0 +1,15 @@
+{
+  "id": "makini-io",
+  "title": "makini",
+  "subtitle": "Makini is the universal CMMS & EAM API. Our infrastructure lets you connect with industrial facility management syste...",
+  "tags": [
+    "unified-apis",
+    "industrial-systems-api"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623885965/icons/makini-io.jpg",
+  "website": "https://www.makini.io/",
+  "docsUrl": "https://makini.stoplight.io/docs/api-docs/docs/getting-started.md"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "attend",
+  "title": "Attend",
+  "subtitle": "Attend's Revenue Event Marketing platform empowers your team to create and accelerate sales pipeline with in-person e...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719035/catalog/attend/icon128x128.jpg",
+  "website": "https://attend.com"
+}

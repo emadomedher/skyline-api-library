@@ -1,0 +1,13 @@
+{
+  "id": "foleon",
+  "title": "Foleon",
+  "subtitle": "Foleon is a content creation platform that makes it easy for anyone to create interactive content that is 100% on brand.",
+  "tags": [
+    "content-creation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639600130/icons/foleon.jpg",
+  "website": "https://www.foleon.com/"
+}

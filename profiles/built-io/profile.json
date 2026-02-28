@@ -1,0 +1,14 @@
+{
+  "id": "built-io",
+  "title": "Built.io",
+  "subtitle": "Built.io Flow is a cloud integration platform that focuses on quick and easy enablement of integration workflows for ...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546980978/catalog/built-io/icon128x128.png",
+  "website": "https://www.built.io/",
+  "docsUrl": "https://flowdocs.built.io/"
+}

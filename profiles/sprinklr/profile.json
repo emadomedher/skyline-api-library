@@ -1,0 +1,14 @@
+{
+  "id": "sprinklr",
+  "title": "Sprinklr",
+  "subtitle": "Sprinklr provides customer experience management with a unified front office platform across modern channels. Our ent...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962231/catalog/sprinklr/icon128x128.png",
+  "website": "https://sprinklr.com",
+  "docsUrl": "https://www.sprinklr.com/preference-center"
+}

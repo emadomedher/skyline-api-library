@@ -1,0 +1,14 @@
+{
+  "id": "nacapi",
+  "title": "NACAPI ",
+  "subtitle": "Develop user interface with a public API",
+  "tags": [
+    "api-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615785941/icons/nacapi.gif",
+  "website": "https://nacapi.com/",
+  "docsUrl": "https://www.producthunt.com/topics/developer-tools"
+}

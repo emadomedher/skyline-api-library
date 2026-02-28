@@ -1,0 +1,14 @@
+{
+  "id": "hubpay-ae",
+  "title": "Hubpay",
+  "subtitle": "Hubpay is a digital wallet solution for the remittance community, targeted \nat the South Asian foreign workers in the...",
+  "tags": [
+    "money-transfers",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588537657/catalog/hubpay-ae/icon128x128.png",
+  "website": "https://www.hubpay.ae/"
+}

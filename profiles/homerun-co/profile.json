@@ -1,0 +1,15 @@
+{
+  "id": "homerun-co",
+  "title": "Homerun",
+  "subtitle": "Everything you need to organise your hiring, review together and treat candidates better.",
+  "tags": [
+    "ats",
+    "hiring"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215705/icons/homerun-co.png",
+  "website": "https://www.homerun.co/",
+  "docsUrl": "https://developers.homerun.co/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "twikey",
+  "title": "Twikey",
+  "subtitle": "Twikey enables simple and accessible SEPA direct debits through e-Mandates. Are you in for less paperwork and easy fo...",
+  "tags": [
+    "b2b-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569691779/catalog/twikey/icon128x128.jpg",
+  "website": "https://www.twikey.com/",
+  "docsUrl": "https://www.twikey.com/developers.html"
+}

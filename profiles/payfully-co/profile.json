@@ -1,0 +1,15 @@
+{
+  "id": "payfully-co",
+  "title": "Payfully",
+  "subtitle": "Payfully is a safe and secure way to get your real estate commission while your listing is in contract. Zero no hidde...",
+  "tags": [
+    "p2p-rental",
+    "real-estate",
+    "fintech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494229/catalog/payfully-co/icon128x128.jpg",
+  "website": "https://www.payfully.co/"
+}

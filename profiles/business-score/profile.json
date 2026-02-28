@@ -1,0 +1,15 @@
+{
+  "id": "business-score",
+  "title": "Business Score",
+  "subtitle": "Business Score API integration",
+  "tags": [
+    "verification",
+    "kyb",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570907119/catalog/business-score/icon128x128.png",
+  "website": "https://www.scorethebusiness.com/"
+}

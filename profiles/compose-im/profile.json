@@ -1,0 +1,13 @@
+{
+  "id": "compose-im",
+  "title": "Compose",
+  "subtitle": "Bring your tools and conversations together to collaborate faster without switching apps.",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622794463/icons/compose-im.png",
+  "website": "https://compose.im/"
+}

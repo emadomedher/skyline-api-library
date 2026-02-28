@@ -1,0 +1,14 @@
+{
+  "id": "instabot",
+  "title": "Instabot: Chatbot Platform",
+  "subtitle": "Instabot is a conversion chatbot for your website, mobile app & emails.",
+  "tags": [
+    "social",
+    "marketing-automation",
+    "customer-support"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305170/catalog/instabot/icon128x128.png"
+}

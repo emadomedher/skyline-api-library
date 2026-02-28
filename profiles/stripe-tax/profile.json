@@ -1,0 +1,14 @@
+{
+  "id": "stripe-tax",
+  "title": "Stripe Tax",
+  "subtitle": "Stripe Tax lets you calculate and collect sales tax, VAT, and GST on your Stripe transactions. Know where to register...",
+  "tags": [
+    "tax-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623343866/icons/stripe-tax.svg",
+  "website": "https://stripe.com/tax",
+  "docsUrl": "https://stripe.com/docs/tax"
+}

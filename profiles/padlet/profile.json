@@ -1,0 +1,14 @@
+{
+  "id": "padlet",
+  "title": "Padlet",
+  "subtitle": "From your hobby to your career, your class notes to your final exam, your mood board to your runway show, padlets hel...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614051642/icons/padlet.jpg",
+  "website": "https://padlet.com/",
+  "docsUrl": "https://padlet.helpdocs.io"
+}

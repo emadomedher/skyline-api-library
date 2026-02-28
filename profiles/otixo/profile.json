@@ -1,0 +1,12 @@
+{
+  "id": "otixo",
+  "title": "Otixo",
+  "subtitle": "Otixo is a platform for team collaboration: everything in one place, with instant messaging, file sharing, search fun...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305615/catalog/otixo/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "confo",
+  "title": "Con.Fo",
+  "subtitle": "CON.FO helps you to make your event interactive. It is easy to use audience response system used at conferences and e...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433887/catalog/confo/icon128x128.png",
+  "website": "https://con.fo"
+}

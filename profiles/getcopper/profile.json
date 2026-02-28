@@ -1,0 +1,13 @@
+{
+  "id": "getcopper",
+  "title": "Copper Banking",
+  "subtitle": "Banking built for teens. Learn about money and build your wealth. Your future starts here. Waiting list now open.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598387978/icons/getcopper.jpg",
+  "website": "https://www.getcopper.com/"
+}

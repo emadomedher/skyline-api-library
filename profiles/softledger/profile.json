@@ -1,0 +1,14 @@
+{
+  "id": "softledger",
+  "title": "SoftLedger",
+  "subtitle": "Full-featured accounting software that's fast to implement, easy to learn, \nadaptable. Fully programmable via REST API.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632178757/icons/softledger.jpg",
+  "website": "https://softledger.com/",
+  "docsUrl": "https://api.softledger.com/docs"
+}

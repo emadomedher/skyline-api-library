@@ -1,0 +1,13 @@
+{
+  "id": "oracle-micros-simphony",
+  "title": "Oracle MICROS Simphony",
+  "subtitle": "Oracle MICROS Simphony API integration",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573172259/catalog/oracle-micros-simphony/icon128x128.png",
+  "website": "https://www.oracle.com/industries/food-beverage/products/simphony-pos/"
+}

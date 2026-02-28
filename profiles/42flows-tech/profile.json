@@ -1,0 +1,13 @@
+{
+  "id": "42flows-tech",
+  "title": "42flows.tech",
+  "subtitle": "42flows.tech designs data flows between customers, solutions, providers. It enables digital transformations and there...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652305221/icons/42flows-tech.png",
+  "website": "https://www.42flows.tech/"
+}

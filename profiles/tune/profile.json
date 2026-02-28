@@ -1,0 +1,15 @@
+{
+  "id": "tune",
+  "title": "TUNE",
+  "subtitle": "Partner the way you want to with TUNE (formerly HasOffers), the industry's most flexible partner marketing platform.",
+  "tags": [
+    "channel-ecosystem-management",
+    "mobile-and-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439380/catalog/tune/icon128x128.svg",
+  "website": "https://tune.com",
+  "docsUrl": "https://developers.tune.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "skyhive-ai",
+  "title": "SkyHive",
+  "subtitle": "SkyHive is the global standard for responsible & scalable reskilling. Through Quantum Labor Analysis, SkyHive is tran...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082020/icons/skyhive-ai.jpg",
+  "website": "https://www.skyhive.ai/"
+}

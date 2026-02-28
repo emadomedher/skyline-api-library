@@ -1,0 +1,13 @@
+{
+  "id": "changetower",
+  "title": "ChangeTower",
+  "subtitle": "ChangeTower is a website monitoring and archiving platform that detects and tracks critical changes and sends you det...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829388/catalog/changetower/icon128x128.png",
+  "website": "https://changetower.com"
+}

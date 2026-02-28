@@ -1,0 +1,13 @@
+{
+  "id": "adobe-firefly",
+  "title": "Adobe Firefly",
+  "subtitle": "Adobe Firefly API integration",
+  "tags": [
+    "text-to-image"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679429063/icons/adobe-firefly.png",
+  "website": "https://firefly.adobe.com/"
+}

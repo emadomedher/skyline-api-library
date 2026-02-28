@@ -1,0 +1,13 @@
+{
+  "id": "polljoy",
+  "title": "Polljoy",
+  "subtitle": "In-app native surveys and smart rating prompts to drive more 5 star reviews and increase app store ranking",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436546/catalog/polljoy/icon128x128.png",
+  "website": "https://polljoy.com"
+}

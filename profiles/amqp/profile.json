@@ -1,0 +1,15 @@
+{
+  "id": "amqp",
+  "title": "AMQP",
+  "subtitle": "AMQP API integration",
+  "tags": [
+    "protocols",
+    "messaging-queues"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579445944/catalog/amqp/icon128x128.png",
+  "website": "https://www.amqp.org/",
+  "docsUrl": "https://www.amqp.org/resources/developer-faqs"
+}

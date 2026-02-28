@@ -1,0 +1,14 @@
+{
+  "id": "kombo-dev",
+  "title": "Kombo",
+  "subtitle": "Kombo unifies all business tools that are used across Europe. Integrate just one API and allow your customers to conn...",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662068329/icons/kombo-dev.jpg",
+  "website": "https://www.kombo.dev/",
+  "docsUrl": "https://docs.kombo.dev/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "vmware",
+  "title": "VMware",
+  "subtitle": "VMware, a global leader in cloud infrastructure & digital workspace technology, accelerates digital transformation fo...",
+  "tags": [
+    "virtualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559418663/catalog/vmware/icon128x128.jpg",
+  "website": "https://vmware.com",
+  "docsUrl": "https://www.vmware.com/support/pubs"
+}

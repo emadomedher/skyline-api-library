@@ -1,0 +1,14 @@
+{
+  "id": "zilliqa",
+  "title": "Zilliqa",
+  "subtitle": "Zilliqa is the first public blockchain to implement sharding on its mainnet, delivering high performance and high sec...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1188008731658854400/vbASOR_h_200x200.jpg",
+  "website": "https://www.zilliqa.com/",
+  "docsUrl": "https://www.zilliqa.com/developers"
+}

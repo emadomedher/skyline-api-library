@@ -1,0 +1,13 @@
+{
+  "id": "knowlex",
+  "title": "Knowlex",
+  "subtitle": "Secure your professional knowhow",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861282/catalog/knowlex/icon128x128.png",
+  "website": "https://www.knowlex.be"
+}

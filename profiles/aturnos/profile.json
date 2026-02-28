@@ -1,0 +1,13 @@
+{
+  "id": "aturnos",
+  "title": "aTurnos",
+  "subtitle": "Make changes you need in an updated shcedule accessible from any device. Start in our Test Zone!",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646673061/icons/aturnos.jpg",
+  "website": "https://www.aturnos.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "google-ai",
+  "title": "Google AI",
+  "subtitle": "At Google, we think that AI can meaningfully improve people’s lives and that the biggest impact will come when everyo...",
+  "tags": [
+    "nlp",
+    "language-models",
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613007781/icons/google-ai.png",
+  "website": "https://ai.google/"
+}

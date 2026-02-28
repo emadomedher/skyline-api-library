@@ -1,0 +1,13 @@
+{
+  "id": "metromile",
+  "title": "Metromile",
+  "subtitle": "If you don't drive a lot, you shouldn't pay much for auto insurance. With Pay-per-mile car insurance, you could save ...",
+  "tags": [
+    "car-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613277198/icons/metromile.png",
+  "website": "https://www.metromile.com/"
+}

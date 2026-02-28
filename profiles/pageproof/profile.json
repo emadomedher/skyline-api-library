@@ -1,0 +1,12 @@
+{
+  "id": "pageproof",
+  "title": "PageProof",
+  "subtitle": "PageProof is a review and approval platform for all of your marketing content, including artwork, audio, video, HTML ...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305616/catalog/pageproof/icon128x128.png"
+}

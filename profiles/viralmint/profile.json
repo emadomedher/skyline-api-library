@@ -1,0 +1,13 @@
+{
+  "id": "viralmint",
+  "title": "ViralMint",
+  "subtitle": "ViralMint is an on-site marketing platform which helps you acquire new fans, increase sales, improve conversion and b...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722746/catalog/viralmint/icon128x128.png",
+  "website": "https://viralmint.com"
+}

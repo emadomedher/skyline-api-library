@@ -1,0 +1,13 @@
+{
+  "id": "getaround",
+  "title": "Getaround",
+  "subtitle": "Book nearby cars, trucks, and vans, by the hour or day, on Getaround. No lines or key exchanges. Simply book, unlock,...",
+  "tags": [
+    "ridesharing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615245838/icons/getaround.png",
+  "website": "https://www.getaround.com/"
+}

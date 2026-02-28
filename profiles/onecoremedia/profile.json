@@ -1,0 +1,13 @@
+{
+  "id": "onecoremedia",
+  "title": "OneCore Media",
+  "subtitle": "OneCore Media is a Toronto based full-service digital marketing agency helping small, mid-size and large companies br...",
+  "tags": [
+    "digital-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574083998/catalog/onecoremedia/icon128x128.jpg",
+  "website": "https://onecoremedia.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "companycam",
+  "title": "CompanyCam",
+  "subtitle": "Manage field work with smart photos. Smart photos automatically connect themselves to the right job and instantly syn...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304676/catalog/companycam/icon128x128.png",
+  "website": "https://companycam.com",
+  "docsUrl": "https://docs.companycam.com/docs"
+}

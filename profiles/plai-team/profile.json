@@ -1,0 +1,13 @@
+{
+  "id": "plai-team",
+  "title": "Plai",
+  "subtitle": "Grow your remote team with OKRs, share regular feedback and recognitions, conduct effortless performance/360 degree r...",
+  "tags": [
+    "okr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679055361/icons/plai-team.jpg",
+  "website": "https://www.plai.team/"
+}

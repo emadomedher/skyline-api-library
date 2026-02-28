@@ -1,0 +1,15 @@
+{
+  "id": "petalcard",
+  "title": "Petal",
+  "subtitle": "Responsible credit for the modern world. Petal doesn’t charge fees, helps you spend within a budget, and rewards you ...",
+  "tags": [
+    "credit-cards",
+    "fintech",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577066797/catalog/petalcard/icon128x128.png",
+  "website": "https://www.petalcard.com/"
+}

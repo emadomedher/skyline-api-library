@@ -1,0 +1,12 @@
+{
+  "id": "pggm",
+  "title": "PGGM",
+  "subtitle": "Als pensioenuitvoeringsorganisatie verleent PGGM diensten op het gebied van pensioenbeheer, integraal vermogensbeheer...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256963/catalog/pggm/icon128x128.jpg"
+}

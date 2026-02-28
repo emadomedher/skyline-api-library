@@ -1,0 +1,15 @@
+{
+  "id": "moneybird",
+  "title": "Moneybird",
+  "subtitle": "Accounting can be fun! More than 150.000 entrepreneurs use our software to manage their finances.",
+  "tags": [
+    "accounting",
+    "invoicing"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305474/catalog/moneybird/icon128x128.png",
+  "website": "https://www.moneybird.com/",
+  "docsUrl": "https://developer.moneybird.com/"
+}

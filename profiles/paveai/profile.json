@@ -1,0 +1,13 @@
+{
+  "id": "paveai",
+  "title": "PaveAI",
+  "subtitle": "PaveAI API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436396/catalog/paveai/icon128x128.png",
+  "website": "https://paveai.com"
+}

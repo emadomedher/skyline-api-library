@@ -1,0 +1,13 @@
+{
+  "id": "invotra",
+  "title": "Invotra",
+  "subtitle": "An enterprise-ready intranet and portal solution that will give you both control and flexibility in a highly secure a...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720550/catalog/invotra/icon128x128.jpg",
+  "website": "https://invotra.com"
+}

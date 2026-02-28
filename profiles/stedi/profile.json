@@ -1,0 +1,14 @@
+{
+  "id": "stedi",
+  "title": "Stedi",
+  "subtitle": "Stedi is the fastest, easiest way to implement EDI and automate every transaction with ERPs or other business systems...",
+  "tags": [
+    "edi",
+    "b-2-b-trade"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364573/icons/stedi.jpg",
+  "website": "https://www.stedi.com/"
+}

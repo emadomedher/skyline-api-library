@@ -1,0 +1,13 @@
+{
+  "id": "php-sdk",
+  "title": "PHP SDK",
+  "subtitle": "PHP is a popular general-purpose scripting language that is especially suited to web development.",
+  "tags": [
+    "sdks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573360765/catalog/php-sdk/icon128x128.png",
+  "website": "https://www.php.net/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "arconnet",
+  "title": "ARCON",
+  "subtitle": "ARCON is proud to be recognized in the 2021 Gartner Critical Capabilities for Privileged Access Management report.",
+  "tags": [
+    "privileged-access-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638318387/icons/arconnet.jpg",
+  "website": "https://arconnet.com/",
+  "docsUrl": "https://arconnet.com/case_studies/case-study-pam-saas-model-and-real-estate-developer"
+}

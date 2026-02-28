@@ -1,0 +1,13 @@
+{
+  "id": "welcomecommerce",
+  "title": "WelcomeCommerce",
+  "subtitle": "WelcomeCommerce API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555978611/catalog/welcomecommerce/icon128x128.png",
+  "website": "https://welcomecommerce.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "chatfuel-for-facebook",
+  "title": "Chatfuel for Facebook",
+  "subtitle": "Chatfuel allows anyone to create their own bots on Facebook Messenger for free, without coding.\nUsing this app you'll...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477885/catalog/chatfuel-for-facebook/icon128x128.png",
+  "website": "https://chatfuel.com/"
+}

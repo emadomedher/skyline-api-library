@@ -1,0 +1,13 @@
+{
+  "id": "apex-pacific",
+  "title": "APEX Pacific",
+  "subtitle": "APEX Pacific API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433009/catalog/apex-pacific/icon128x128.png",
+  "website": "https://mailcommunicator.com"
+}

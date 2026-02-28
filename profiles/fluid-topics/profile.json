@@ -1,0 +1,13 @@
+{
+  "id": "fluid-topics",
+  "title": "Fluid Topics",
+  "subtitle": "Fuid Topics is a Content Delivery Platform. Publish your Technical Documentation and Product Documentation into a sel...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826455/catalog/fluid-topics/icon128x128.jpg",
+  "website": "https://fluidtopics.com"
+}

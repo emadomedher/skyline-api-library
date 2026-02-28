@@ -1,0 +1,13 @@
+{
+  "id": "reputada",
+  "title": "Reputada",
+  "subtitle": "Frequent customer feedback helps you to be pro-active.  Surveys don't work for frequent and timely feedback. With Rep...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436924/catalog/reputada/icon128x128.png",
+  "website": "https://reputada.com"
+}

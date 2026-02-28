@@ -1,0 +1,12 @@
+{
+  "id": "fogbugz",
+  "title": "FogBugz",
+  "subtitle": "FogBugz is powerful hosted bug tracking software used to make great software by great teams.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304944/catalog/fogbugz/icon128x128.png"
+}

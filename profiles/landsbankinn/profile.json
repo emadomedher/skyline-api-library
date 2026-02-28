@@ -1,0 +1,14 @@
+{
+  "id": "landsbankinn",
+  "title": "Landsbankinn",
+  "subtitle": "Landsbankinn, originally NBI hf, is an Icelandic bank headquartered in Reykjavík. It was established in 2008 by the I...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638169956/icons/landsbankinn.jpg",
+  "website": "https://www.landsbankinn.is/en",
+  "docsUrl": "https://developers.landsbankinn.is/"
+}

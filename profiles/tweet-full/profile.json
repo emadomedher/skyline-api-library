@@ -1,0 +1,13 @@
+{
+  "id": "tweet-full",
+  "title": "Tweet Full",
+  "subtitle": "TweetFull is a Twitter automation bot that helps your marketing to get targeted traffic by auto liking, auto ReTweeti...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050655/icons/tweet-full.png",
+  "website": "https://tweetfull.com"
+}

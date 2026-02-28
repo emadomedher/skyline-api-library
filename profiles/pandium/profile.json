@@ -1,0 +1,16 @@
+{
+  "id": "pandium",
+  "title": "Pandium",
+  "subtitle": "Pandium API integration",
+  "tags": [
+    "marketplace-software",
+    "integrations",
+    "whitelabel-app-stores",
+    "integration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597168846/icons/pandium.jpg",
+  "website": "https://www.pandium.com/"
+}

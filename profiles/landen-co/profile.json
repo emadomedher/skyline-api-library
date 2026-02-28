@@ -1,0 +1,13 @@
+{
+  "id": "landen-co",
+  "title": "Landen",
+  "subtitle": "Generate, edit and publish beautiful websites and landing pages for your startup. All without code.",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567510942/catalog/landen-co/icon128x128.jpg",
+  "website": "https://www.landen.co/"
+}

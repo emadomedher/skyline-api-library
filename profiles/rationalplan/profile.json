@@ -1,0 +1,13 @@
+{
+  "id": "rationalplan",
+  "title": "RationalPlan",
+  "subtitle": "Project Management Software - great alternative to Microsoft Project covering project planning/tracking, overallocate...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721746/catalog/rationalplan/icon128x128.png",
+  "website": "https://rationalplan.com"
+}

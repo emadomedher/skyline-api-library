@@ -1,0 +1,15 @@
+{
+  "id": "quilljs",
+  "title": "Quill",
+  "subtitle": "Quill is a free, open source WYSIWYG editor built for the modern web. Completely customize it for any need with its m...",
+  "tags": [
+    "rich-text-editors",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597787927/icons/quilljs.jpg",
+  "website": "https://quilljs.com/",
+  "docsUrl": "https://quilljs.com/docs/quickstart"
+}

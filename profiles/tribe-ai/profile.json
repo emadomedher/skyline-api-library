@@ -1,0 +1,13 @@
+{
+  "id": "tribe-ai",
+  "title": "Tribe AI",
+  "subtitle": "You don't have to be Google to work with the best talent in AI.",
+  "tags": [
+    "machine-learning-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642281574/icons/tribe-ai.png",
+  "website": "https://www.tribe.ai/"
+}

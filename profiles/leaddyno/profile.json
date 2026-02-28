@@ -1,0 +1,13 @@
+{
+  "id": "leaddyno",
+  "title": "LeadDyno",
+  "subtitle": "LeadDyno is a platform that automatically runs affiliate programs, tracking them from lead sources. The system, which...",
+  "tags": [
+    "affiliate-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553346471/catalog/leaddyno/icon128x128.jpg",
+  "website": "https://www.leaddyno.com/"
+}

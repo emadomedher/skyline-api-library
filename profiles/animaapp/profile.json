@@ -1,0 +1,14 @@
+{
+  "id": "animaapp",
+  "title": "Anima App",
+  "subtitle": "Transform Figma, XD, and Sketch designs to developer-friendly React and HTML code automatically.",
+  "tags": [
+    "design",
+    "no-code"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604118588/icons/animaapp.png",
+  "website": "https://www.animaapp.com/"
+}

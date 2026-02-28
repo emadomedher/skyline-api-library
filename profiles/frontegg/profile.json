@@ -1,0 +1,17 @@
+{
+  "id": "frontegg",
+  "title": "Frontegg",
+  "subtitle": "Frontegg is a platform for SaaS applications, offering Enterprise-Readiness for very quick integration into an existi...",
+  "tags": [
+    "identity",
+    "notifications",
+    "saas",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602716509/icons/frontegg.jpg",
+  "website": "https://frontegg.com/",
+  "docsUrl": "http://frontegg.com/personas/developers"
+}

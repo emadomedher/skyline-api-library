@@ -1,0 +1,14 @@
+{
+  "id": "appcues",
+  "title": "Appcues",
+  "subtitle": "Appcues—the Product-Led Growth Platform—makes it easy to deliver exceptional user experiences at scale.",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439100/catalog/appcues/icon128x128.svg",
+  "website": "https://www.appcues.com/",
+  "docsUrl": "https://docs.appcues.com/article/48-install-overview"
+}

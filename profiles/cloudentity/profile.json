@@ -1,0 +1,16 @@
+{
+  "id": "cloudentity",
+  "title": "Cloudentity",
+  "subtitle": "Cloudentity provides enhanced API security and protection for applications with enforcement that deploy as close to y...",
+  "tags": [
+    "api-security",
+    "api-gateways",
+    "api-governance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599547699/icons/cloudentity.png",
+  "website": "https://cloudentity.com/",
+  "docsUrl": "https://github.com/cloudentity/pyron-docs"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "skrill",
+  "title": "Skrill",
+  "subtitle": "Make fast and secure payments and international money transfers. From betting and trading to shopping and gaming, Skr...",
+  "tags": [
+    "money-transfers",
+    "fx-transfers",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604933951/icons/skrill.jpg",
+  "website": "https://www.skrill.com/",
+  "docsUrl": "https://developer-psd2.skrill.com"
+}

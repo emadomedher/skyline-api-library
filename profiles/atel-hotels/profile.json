@@ -1,0 +1,14 @@
+{
+  "id": "atel-hotels",
+  "title": "ATEL HOTELS",
+  "subtitle": "Hôtel booking in Paris and all around the world : your best price, with Atel Hotels.com! Search availability, Choose ...",
+  "tags": [
+    "global-distribution-channels",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448070/icons/atel-hotels.jpg",
+  "website": "http://en.atel-hotels.com/"
+}

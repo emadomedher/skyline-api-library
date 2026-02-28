@@ -1,0 +1,13 @@
+{
+  "id": "media-options",
+  "title": "Media Options",
+  "subtitle": "Media Options API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963611/catalog/media-options/icon128x128.png",
+  "website": "https://mediaoptions.com"
+}

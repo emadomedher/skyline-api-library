@@ -1,0 +1,13 @@
+{
+  "id": "meetup",
+  "title": "Meetup",
+  "subtitle": "Meetup helps people with shared interests plan events and facilitates offline group meetings in various locations aro...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305421/catalog/meetup/icon128x128.png",
+  "website": "https://www.meetup.com/"
+}

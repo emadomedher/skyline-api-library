@@ -1,0 +1,12 @@
+{
+  "id": "cobot",
+  "title": "Cobot",
+  "subtitle": "Cobot is a management software for coworking spaces and shared offices. Cobot helps you with billing, invoicing, book...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304666/catalog/cobot/icon128x128.png"
+}

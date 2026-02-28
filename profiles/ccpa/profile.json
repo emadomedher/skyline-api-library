@@ -1,0 +1,14 @@
+{
+  "id": "ccpa",
+  "title": "CCPA",
+  "subtitle": "The California Consumer Privacy Act (CCPA) is a state statute intended to enhance privacy rights and consumer protect...",
+  "tags": [
+    "compliance",
+    "regulations"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613278193/icons/ccpa.png",
+  "website": "https://en.wikipedia.org/wiki/California_Consumer_Privacy_Act"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "flexera",
+  "title": "Flexera",
+  "subtitle": "Flexera specializes in IT management software, optimization & solutions. Let Flexera help control & manage your softw...",
+  "tags": [
+    "cloud-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614355/catalog/flexera/icon128x128.png",
+  "website": "https://www.flexera.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "upcloud",
+  "title": "UpCloud",
+  "subtitle": "Cloud servers with faster-than-SSD performance reaching 100,000 IOPS and 100% uptime SLA. Low cost hourly billing fro...",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566969745/catalog/upcloud/icon128x128.jpg",
+  "website": "https://upcloud.com",
+  "docsUrl": "https://developers.upcloud.com"
+}

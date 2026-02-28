@@ -1,0 +1,13 @@
+{
+  "id": "guest-crew",
+  "title": "Guest Crew",
+  "subtitle": "Guest Crew is a influencer marketing, content marketing and crowd speaking platform. Amplify your content with the po...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720296/catalog/guest-crew/icon128x128.png",
+  "website": "https://guestcrew.com"
+}

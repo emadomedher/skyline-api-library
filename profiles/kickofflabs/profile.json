@@ -1,0 +1,13 @@
+{
+  "id": "kickofflabs",
+  "title": "KickoffLabs",
+  "subtitle": "The best way to go from idea to email collecting landing page in less than 5 minutes",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305241/catalog/kickofflabs/icon128x128.png",
+  "website": "https://kickofflabs.com/"
+}

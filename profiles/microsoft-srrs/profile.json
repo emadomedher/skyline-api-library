@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-srrs",
+  "title": "Microsoft SRRS",
+  "subtitle": "Microsoft SRRS API integration",
+  "tags": [
+    "reporting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565203649/catalog/microsoft/icon128x128.png",
+  "website": "https://docs.microsoft.com/en-us/sql/reporting-services"
+}

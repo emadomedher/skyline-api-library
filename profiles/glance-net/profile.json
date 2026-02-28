@@ -1,0 +1,13 @@
+{
+  "id": "glance-net",
+  "title": "Glance",
+  "subtitle": "Glance API integration",
+  "tags": [
+    "customer-engagement"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574956589/catalog/glance-net/icon128x128.jpg",
+  "website": "https://ww2.glance.net/"
+}

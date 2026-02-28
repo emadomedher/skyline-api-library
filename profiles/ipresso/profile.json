@@ -1,0 +1,13 @@
+{
+  "id": "ipresso",
+  "title": "iPresso",
+  "subtitle": "Individual approach to each customer through a marketing automation strategy. Check marketing automation with iPresso...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720558/catalog/ipresso/icon128x128.jpg",
+  "website": "https://ipresso.com"
+}

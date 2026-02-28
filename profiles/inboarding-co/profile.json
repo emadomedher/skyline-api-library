@@ -1,0 +1,14 @@
+{
+  "id": "inboarding-co",
+  "title": "Inboarding",
+  "subtitle": "Inboarding is a new way to help companies to create an inclusive workplace where everyone belongs. We use chatbot sol...",
+  "tags": [
+    "employee-onboarding",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801286/catalog/inboarding-co/icon128x128.png",
+  "website": "https://www.inboarding.co/"
+}

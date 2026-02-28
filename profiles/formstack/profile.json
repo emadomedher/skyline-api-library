@@ -1,0 +1,13 @@
+{
+  "id": "formstack",
+  "title": "Formstack",
+  "subtitle": "Formstack is one of the easiest ways to build custom forms that let you collect data <em>your way</em>.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477930/catalog/formstack/icon128x128.png",
+  "website": "https://www.formstack.com/"
+}

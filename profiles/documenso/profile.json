@@ -1,0 +1,14 @@
+{
+  "id": "documenso",
+  "title": "Documenso",
+  "subtitle": "Join Documenso, the open signing infrastructure, and get a 10x better signing experience. Pricing starts at $30/mo. f...",
+  "tags": [
+    "signatures",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568756/icons/documenso.png",
+  "website": "https://documenso.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "objective-c",
+  "title": "Objective-C",
+  "subtitle": "Objective-C is the primary programming language you use when writing software for OS X and iOS. It’s a superset of th...",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607016260/icons/objective-c.png",
+  "website": "https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.htm"
+}

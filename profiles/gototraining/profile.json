@@ -1,0 +1,12 @@
+{
+  "id": "gototraining",
+  "title": "GoToTraining",
+  "subtitle": "GoToTraining is an online training software that enables enterprises and individuals to provide interactive training ...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055954/catalog/gototraining/icon128x128.png"
+}

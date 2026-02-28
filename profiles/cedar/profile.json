@@ -1,0 +1,13 @@
+{
+  "id": "cedar",
+  "title": "Cedar",
+  "subtitle": "Discover Cedar: the healthcare financial engagement platform that keeps patients happy and businesses healthy. Cedar ...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615417865/icons/cedar.jpg",
+  "website": "https://www.cedar.com/"
+}

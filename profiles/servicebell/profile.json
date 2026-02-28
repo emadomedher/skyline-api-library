@@ -1,0 +1,14 @@
+{
+  "id": "servicebell",
+  "title": "ServiceBELL.com",
+  "subtitle": "Accelerate sales, increase retention, & make training + onboarding faster. ServiceBell enables live video chat, scree...",
+  "tags": [
+    "video-outreach"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657718695/icons/servicebell.png",
+  "website": "https://www.servicebell.com/",
+  "docsUrl": "https://www.servicebell.com/#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "agatsoftware",
+  "title": "AGAT Software",
+  "subtitle": "Award-winning solutions that turn cloud-based Unified Communications (UC) and Collaboration services more secure and ...",
+  "tags": [
+    "security",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630506277/icons/agatsoftware.png",
+  "website": "https://agatsoftware.com/"
+}

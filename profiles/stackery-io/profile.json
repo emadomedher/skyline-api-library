@@ -1,0 +1,14 @@
+{
+  "id": "stackery-io",
+  "title": "Stackery",
+  "subtitle": "Stackery enables delivery of serverless applications quickly, securely, and at scale without complex infrastructure a...",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892860/catalog/stackery-io/icon128x128.jpg",
+  "website": "https://www.stackery.io/",
+  "docsUrl": "https://docs.stackery.io/docs/quickstart/quickstart-nodejs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tamr",
+  "title": "Tamr",
+  "subtitle": "Tamr's leading data management system and services work to create a data migration strategy that simplifies your data...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722443/catalog/tamr/icon128x128.png",
+  "website": "https://tamr.com"
+}

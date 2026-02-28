@@ -1,0 +1,14 @@
+{
+  "id": "masterpiece-so",
+  "title": "Masterpiece",
+  "subtitle": "The largest database of NFT artists, sales information, charts, valuations, rarities and many more metrics.",
+  "tags": [
+    "nft-aggregators",
+    "nft-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642286368/icons/masterpiece-so.png",
+  "website": "https://masterpiece.so/"
+}

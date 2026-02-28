@@ -1,0 +1,13 @@
+{
+  "id": "plandek",
+  "title": "Plandek",
+  "subtitle": "Build software better with efficient value stream management. Continuously improve your delivery effectiveness with t...",
+  "tags": [
+    "engineering-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915263/icons/plandek.png",
+  "website": "https://plandek.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "amasty",
+  "title": "Amasty",
+  "subtitle": "Amasty API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964338/catalog/amasty/icon128x128.png",
+  "website": "https://amasty.com"
+}

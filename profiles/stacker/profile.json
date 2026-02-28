@@ -1,0 +1,13 @@
+{
+  "id": "stacker",
+  "title": "Stacker",
+  "subtitle": "Stacker is the easiest way to manage multiple Social Media accounts at once. Post at the best times throughout the da...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722307/catalog/stacker/icon128x128.png",
+  "website": "https://getstacker.com"
+}

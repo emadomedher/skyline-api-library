@@ -1,0 +1,13 @@
+{
+  "id": "reeport",
+  "title": "Reeport",
+  "subtitle": "Reeport connecte vos données avec vos équipes. Plateforme intuitive et compléte de Business Intelligence et Data visu...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436879/catalog/reeport/icon128x128.png",
+  "website": "https://reeport.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "postmates",
+  "title": "Postmates",
+  "subtitle": "Order delivery or pickup from more than 350,000 restaurants, retails shops, grocers, and more all across your city. D...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171237/catalog/postmates/icon128x128.png",
+  "website": "https://postmates.com/",
+  "docsUrl": "https://postmates.com/developer"
+}

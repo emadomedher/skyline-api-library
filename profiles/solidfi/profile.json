@@ -1,0 +1,14 @@
+{
+  "id": "solidfi",
+  "title": "Solid",
+  "subtitle": "Instantly create bank accounts, send payments and issue cards, powered by the Solid Platform. Embedded Banking. Banki...",
+  "tags": [
+    "fintech-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641096076/icons/solidfi.png",
+  "website": "https://www.solidfi.com/",
+  "docsUrl": "https://solidfi.com/docs/introduction"
+}

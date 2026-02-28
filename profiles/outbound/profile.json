@@ -1,0 +1,12 @@
+{
+  "id": "outbound",
+  "title": "Outbound",
+  "subtitle": "Outbound API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439283/catalog/outbound/icon128x128.svg"
+}

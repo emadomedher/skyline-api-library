@@ -1,0 +1,13 @@
+{
+  "id": "host-analytics",
+  "title": "Host Analytics",
+  "subtitle": "Host Analytics provides a scalable, cloud-based platform for finance teams to automate planning, consolidation, and r...",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775180/catalog/host-analytics/icon128x128.jpg",
+  "website": "https://hostanalytics.com"
+}

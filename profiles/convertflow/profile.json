@@ -1,0 +1,13 @@
+{
+  "id": "convertflow",
+  "title": "ConvertFlow",
+  "subtitle": "Create, personalize and launch forms, popups, surveys, quizzes and landing pages – all without coding. Discover why t...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590575891/catalog/convertflow/icon128x128.png",
+  "website": "https://www.convertflow.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rd-station",
+  "title": "RD Station",
+  "subtitle": "Get to know RD Station and discover how you can complement your Digital Marketing and Sales experience. Start a free ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305824/catalog/rd-station/icon128x128.png",
+  "website": "https://rdstation.com",
+  "docsUrl": "https://developers.rdstation.com/en"
+}

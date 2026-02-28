@@ -1,0 +1,13 @@
+{
+  "id": "webroot",
+  "title": "Webroot",
+  "subtitle": "Webroot delivers multi-vector protection for endpoints and networks and threat intelligence services to protect busin...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579550551/catalog/webroot/icon128x128.jpg",
+  "website": "https://www.webroot.com/"
+}

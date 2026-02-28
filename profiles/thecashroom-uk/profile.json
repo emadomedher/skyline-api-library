@@ -1,0 +1,14 @@
+{
+  "id": "thecashroom-uk",
+  "title": "The Cashroom",
+  "subtitle": "The Cashroom provides expert outsourced accounting services for UK Law Firms including Legal Cashiering, Management A...",
+  "tags": [
+    "legaltech",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606833877/icons/thecashroom-uk.jpg",
+  "website": "https://www.thecashroom.co.uk/"
+}

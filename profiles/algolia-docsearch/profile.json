@@ -1,0 +1,13 @@
+{
+  "id": "algolia-docsearch",
+  "title": "DocSearch",
+  "subtitle": "The easiest way to add search to your documentation - Powered by Algolia",
+  "tags": [
+    "developer-docs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620758627/icons/algolia-docsearch.jpg",
+  "website": "https://docsearch.algolia.com/"
+}

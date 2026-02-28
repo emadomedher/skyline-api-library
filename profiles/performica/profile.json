@@ -1,0 +1,13 @@
+{
+  "id": "performica",
+  "title": "Performica",
+  "subtitle": "Leverage Performica’s Helpful Employee Retention Optimization (H.E.R.O.) program to automatically identify at-risk em...",
+  "tags": [
+    "performance-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687452007/icons/performica.jpg",
+  "website": "https://performica.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coredna",
+  "title": "CoreDNA",
+  "subtitle": "The only all-in-one SaaS digital platform that fully integrates Web Content Management, eCommerce, Intranet & Marketi...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826181/catalog/coredna/icon128x128.png",
+  "website": "https://coredna.com"
+}

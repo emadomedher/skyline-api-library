@@ -1,0 +1,14 @@
+{
+  "id": "kipwise",
+  "title": "Kipwise",
+  "subtitle": "Build your team knowledge base easily via Slack interactions. With our powerful integrations, you can access team kno...",
+  "tags": [
+    "knowledge-base",
+    "knowledge-platforms"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595003156/icons/kipwise.jpg",
+  "website": "https://kipwise.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "wealthkernel",
+  "title": "WealthKernel",
+  "subtitle": "WealthKernel provides everything you need to power your digital wealth offering. Onboarding, dealing, custody, regula...",
+  "tags": [
+    "wealth-management-infrastructure-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630057997/icons/wealthkernel.png",
+  "website": "https://www.wealthkernel.com/",
+  "docsUrl": "http://docs.wealthkernel.com"
+}

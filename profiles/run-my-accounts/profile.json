@@ -1,0 +1,12 @@
+{
+  "id": "run-my-accounts",
+  "title": "Run my Accounts",
+  "subtitle": "Bookkeeping service for Swiss SME. Scan your documents and you are done.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305920/catalog/run-my-accounts/icon128x128.png"
+}

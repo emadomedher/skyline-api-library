@@ -1,0 +1,14 @@
+{
+  "id": "helloforefront",
+  "title": "Forefront",
+  "subtitle": "Deploy standard and fine-tuned GPT-J instances with the best cost-efficiency and throughput available.",
+  "tags": [
+    "machine-learning-model-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630270573/icons/helloforefront.png",
+  "website": "https://www.helloforefront.com/",
+  "docsUrl": "https://docs.helloforefront.com"
+}

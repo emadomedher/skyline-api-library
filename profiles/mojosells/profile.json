@@ -1,0 +1,14 @@
+{
+  "id": "mojosells",
+  "title": "Mojo Selling Solutions",
+  "subtitle": "The Mojo Dialer is an all-in-one prospecting system including web-based and mobile CRM, Power Dialer and Real Estate ...",
+  "tags": [
+    "lead-management",
+    "lead-acquisition"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207269/icons/mojosells.jpg",
+  "website": "https://www.mojosells.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "castordoc",
+  "title": "Castor",
+  "subtitle": "Find, Understand, Use your data assets. With Castor, your data is well documented and discoverable by everyone in you...",
+  "tags": [
+    "data-catalog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639600141/icons/castordoc.png",
+  "website": "https://www.castordoc.com/",
+  "docsUrl": "http://docs.castordoc.com"
+}

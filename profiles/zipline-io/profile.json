@@ -1,0 +1,15 @@
+{
+  "id": "zipline-io",
+  "title": "Zipline",
+  "subtitle": "Zipline API integration",
+  "tags": [
+    "algorithmic-trading",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592818019/icons/zipline-io.png",
+  "website": "https://www.zipline.io/",
+  "docsUrl": "https://www.zipline.io/development-guidelines.html#contributing-to-the-docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kasisto",
+  "title": "Kasisto",
+  "subtitle": "Kasisto leads the financial industry with Conversational AI technology and intelligent virtual assistant solutions bu...",
+  "tags": [
+    "conversational-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625198095/icons/kasisto.jpg",
+  "website": "https://kasisto.com/"
+}

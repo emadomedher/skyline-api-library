@@ -1,0 +1,13 @@
+{
+  "id": "grayscaleapp",
+  "title": "Grayscale",
+  "subtitle": "Grayscale is a text recruiting platform, designed to help recruiters leverage texting and automation to engage talent...",
+  "tags": [
+    "text-recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610129715/icons/grayscaleapp.jpg",
+  "website": "https://www.grayscaleapp.com/"
+}

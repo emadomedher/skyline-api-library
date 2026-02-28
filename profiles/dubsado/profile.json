@@ -1,0 +1,12 @@
+{
+  "id": "dubsado",
+  "title": "Dubsado",
+  "subtitle": "​Dubsado is a business management suite for the creative industry professionals. Sign contracts, manage tasks, and ge...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304814/catalog/dubsado/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "boomity",
+  "title": "Boomity",
+  "subtitle": "Learn how the BOOMITY hosted web marketing platform can help generate traffic, build a loyal online community, and dr...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825921/catalog/boomity/icon128x128.jpg",
+  "website": "https://boomity.com"
+}

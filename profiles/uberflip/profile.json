@@ -1,0 +1,13 @@
+{
+  "id": "uberflip",
+  "title": "Uberflip",
+  "subtitle": "Uberflip is a Content Experience Platform that enables marketers to create digital experiences with content for every...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946436/catalog/uberflip/icon128x128.jpg",
+  "website": "https://uberflip.com"
+}

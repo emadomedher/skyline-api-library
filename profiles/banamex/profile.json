@@ -1,0 +1,13 @@
+{
+  "id": "banamex",
+  "title": "Citibanamex",
+  "subtitle": "Banamex was formed on June 2, 1884 from the merger of two banks, Banco Nacional Mexicano and Banco Mercantil Mexicano",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592595090/icons/banamex.jpg",
+  "website": "https://www.banamex.com/"
+}

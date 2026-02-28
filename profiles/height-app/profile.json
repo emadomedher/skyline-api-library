@@ -1,0 +1,15 @@
+{
+  "id": "height-app",
+  "title": "Height",
+  "subtitle": "Project management for software teams. Collaborate faster with tasks, chat, and flexible workflows. Sprints, mileston...",
+  "tags": [
+    "todo-lists",
+    "project-management",
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602003086/icons/height-app.png",
+  "website": "https://height.app/"
+}

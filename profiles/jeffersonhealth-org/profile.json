@@ -1,0 +1,14 @@
+{
+  "id": "jeffersonhealth-org",
+  "title": "Jefferson Health",
+  "subtitle": "Jefferson Health offers an extensive care network with offices throughout Pennsylvania and New Jersey. Use the direct...",
+  "tags": [
+    "healthcare",
+    "non-software"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600738015/icons/jeffersonhealth-org.jpg",
+  "website": "https://www.jeffersonhealth.org/"
+}

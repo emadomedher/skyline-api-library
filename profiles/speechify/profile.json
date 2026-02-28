@@ -1,0 +1,14 @@
+{
+  "id": "speechify",
+  "title": "Speechify",
+  "subtitle": "The leading text to speech app with millions of downloads on Chrome, iOS, & Android. Hear the Internet on any device....",
+  "tags": [
+    "text-to-speech"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672255713/icons/speechify.png",
+  "website": "https://speechify.com/",
+  "docsUrl": "https://speechify.com/blog/text-to-speech-google-docs"
+}

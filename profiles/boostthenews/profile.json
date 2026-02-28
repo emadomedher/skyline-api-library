@@ -1,0 +1,13 @@
+{
+  "id": "boostthenews",
+  "title": "BoostTheNews",
+  "subtitle": "Aktualne gazetki promocyjne największych sieci handlowych w Polsce. Sprawdź najlepsze promocje i wyprzedaże w całej P...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433390/catalog/boostthenews/icon128x128.png",
+  "website": "https://boostthenews.com"
+}

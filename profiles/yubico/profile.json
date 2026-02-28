@@ -1,0 +1,16 @@
+{
+  "id": "yubico",
+  "title": "Yubico",
+  "subtitle": "Get the YubiKey, the #1 security key, offering strong two factor authentication from industry leader Yubico.",
+  "tags": [
+    "hardware-authentication",
+    "identity",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612173282/icons/yubico.jpg",
+  "website": "https://www.yubico.com/",
+  "docsUrl": "https://www.yubico.com/why-yubico/for-developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "astral-sh",
+  "title": "Astral Dx",
+  "subtitle": "API developer-portal-as-a-service that can be launched wicked fast with the Astral Developer Experience Platform. ",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652986444/icons/astral-sh.jpg",
+  "website": "https://www.astral.sh/"
+}

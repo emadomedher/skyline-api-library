@@ -1,0 +1,13 @@
+{
+  "id": "relenta",
+  "title": "Relenta",
+  "subtitle": "Relenta is the top email-based CRM online. The #1 trusted solution of small businesses for Email management, contact ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436897/catalog/relenta/icon128x128.png",
+  "website": "https://relenta.com"
+}

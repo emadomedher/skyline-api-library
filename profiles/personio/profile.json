@@ -1,0 +1,17 @@
+{
+  "id": "personio",
+  "title": "Personio",
+  "subtitle": "Always be on top of your HR management. With a holistic HR and applicant management software designed for companies w...",
+  "tags": [
+    "hris",
+    "hr",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554586088/catalog/personio/icon128x128.jpg",
+  "specUrl": "https://raw.githubusercontent.com/personio/api-docs/master/personio-personnel-data-api-oa3.yaml",
+  "website": "https://www.personio.com/",
+  "docsUrl": "https://developer.personio.de/"
+}

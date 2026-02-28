@@ -1,0 +1,16 @@
+{
+  "id": "bizcuit",
+  "title": "Bizcuit",
+  "subtitle": "Financiële ondernemersapp | Actueel financieel inzicht | Automatische factuurverwerking en betaling | Boekhoudkoppeli...",
+  "tags": [
+    "accounting",
+    "finance",
+    "payments"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/icons/bizcuit",
+  "website": "https://bizcuit.nl/",
+  "docsUrl": "https://bizcuit.nl/developers"
+}

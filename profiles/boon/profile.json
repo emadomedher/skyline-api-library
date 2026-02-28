@@ -1,0 +1,12 @@
+{
+  "id": "boon",
+  "title": "Boon",
+  "subtitle": "Boon is a social recruiting network that lets businesses engage and hire the right candidates faster through intellig...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304521/catalog/boon/icon128x128.png"
+}

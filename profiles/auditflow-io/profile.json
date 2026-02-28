@@ -1,0 +1,14 @@
+{
+  "id": "auditflow-io",
+  "title": "Auditflow.io",
+  "subtitle": "Next-generation IT Audits and Pentests, managed together, in the cloud. Audits should be a continuous process, integr...",
+  "tags": [
+    "audit",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582233374/catalog/auditflow-io/icon128x128.png",
+  "website": "https://www.auditflow.io/"
+}

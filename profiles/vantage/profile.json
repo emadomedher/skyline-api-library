@@ -1,0 +1,13 @@
+{
+  "id": "vantage",
+  "title": "Vantage",
+  "subtitle": "Vantage API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946413/catalog/vantage/icon128x128.jpg",
+  "website": "https://gotvantage.com"
+}

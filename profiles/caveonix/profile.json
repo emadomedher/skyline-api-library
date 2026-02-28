@@ -1,0 +1,14 @@
+{
+  "id": "caveonix",
+  "title": "Caveonix",
+  "subtitle": "See how you can benefit from cloud security posture management (CSPM), cloud workload protection platform (CWPP), and...",
+  "tags": [
+    "risk-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630772195/icons/caveonix.jpg",
+  "website": "https://www.caveonix.com/"
+}

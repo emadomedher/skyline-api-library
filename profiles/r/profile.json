@@ -1,0 +1,13 @@
+{
+  "id": "r",
+  "title": "R",
+  "subtitle": "R is a free software environment for statistical computing and graphics.",
+  "tags": [
+    "programming-language"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557140945/catalog/r/icon128x128.png",
+  "website": "https://www.r-project.org/"
+}

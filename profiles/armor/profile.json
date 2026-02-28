@@ -1,0 +1,13 @@
+{
+  "id": "armor",
+  "title": "Armor",
+  "subtitle": "This Acceptable Use Policy (the “Policy” or “AUP”) is an integral part of your agreement with Armor Defense Inc. Plea...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612022/catalog/armor/icon128x128.jpg",
+  "website": "https://www.armor.com/"
+}

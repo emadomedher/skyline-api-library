@@ -1,0 +1,14 @@
+{
+  "id": "terraform-io",
+  "title": "Terraform",
+  "subtitle": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool...",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565016064/catalog/terraform-io/icon128x128.svg",
+  "website": "https://terraform.io",
+  "docsUrl": "https://www.terraform.io/docs/index.html"
+}

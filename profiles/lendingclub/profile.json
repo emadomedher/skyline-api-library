@@ -1,0 +1,15 @@
+{
+  "id": "lendingclub",
+  "title": "LendingClub",
+  "subtitle": "  Through personal loans, auto refinancing loans, business loans, and medical financing LendingClub offers the borrow...",
+  "tags": [
+    "p-2-p-lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591803955/icons/lendingclub.jpg",
+  "website": "https://www.lendingclub.com/",
+  "docsUrl": "https://ir.lendingclub.com/govdocs"
+}

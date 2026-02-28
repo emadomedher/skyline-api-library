@@ -1,0 +1,13 @@
+{
+  "id": "crmpro",
+  "title": "CRMPRO",
+  "subtitle": "CRMPRO CRM Software for customer relationship management, sales and support.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434000/catalog/crmpro/icon128x128.png",
+  "website": "https://crmpro.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ory-sh",
+  "title": "ORY",
+  "subtitle": "Implement OAuth 2.0 and OpenID Connect in minutes with open source from ORY. Works in both new and existing systems.",
+  "tags": [
+    "identity",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594078944/icons/ory-sh.png",
+  "website": "https://www.ory.sh/",
+  "docsUrl": "https://www.ory.sh/docs"
+}

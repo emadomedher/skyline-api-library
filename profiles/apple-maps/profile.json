@@ -1,0 +1,15 @@
+{
+  "id": "apple-maps",
+  "title": "Apple Maps",
+  "subtitle": "Apple Maps API integration",
+  "tags": [
+    "geolocation",
+    "maps"
+  ],
+  "category": "Maps & Geolocation",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656885710/icons/apple-maps.png",
+  "website": "https://www.apple.com/maps/",
+  "docsUrl": "https://developer.apple.com/documentation/applemapsserverapi"
+}

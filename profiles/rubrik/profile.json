@@ -1,0 +1,15 @@
+{
+  "id": "rubrik",
+  "title": "Rubrik",
+  "subtitle": "Instant recoveries, hands-free management, automated workflows, easy cloud adoption, & hard dollars saved. Legacy to ...",
+  "tags": [
+    "cloud-data-management",
+    "enterprise-backup"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597857722/icons/rubrik.jpg",
+  "website": "https://www.rubrik.com/",
+  "docsUrl": "https://www.rubrik.com/content/dam/rubrik/en/resources/white-paper/rubrik-and-vmware-vcloud-director-reference-architecture.pdf"
+}

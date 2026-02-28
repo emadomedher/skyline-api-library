@@ -1,0 +1,13 @@
+{
+  "id": "remagine-io",
+  "title": "Remagine",
+  "subtitle": "Get the best in digital business banking, while helping to create a better future. Ready to join the purposeful banki...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406229/icons/remagine-io.jpg",
+  "website": "https://remagine.io/"
+}

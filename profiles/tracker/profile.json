@@ -1,0 +1,13 @@
+{
+  "id": "tracker",
+  "title": "Tracker",
+  "subtitle": "Enterprise level customer service and support software at a fraction of the price. PhaseWare is a completely configur...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722552/catalog/tracker/icon128x128.jpg",
+  "website": "https://phaseware.com"
+}

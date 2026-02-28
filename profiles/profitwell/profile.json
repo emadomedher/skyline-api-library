@@ -1,0 +1,14 @@
+{
+  "id": "profitwell",
+  "title": "ProfitWell",
+  "subtitle": "ProfitWell provides free subscription metrics to help you identify opportunities and then tools to help you reduce ch...",
+  "tags": [
+    "subscription-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553346472/catalog/profitwell/icon128x128.jpg",
+  "website": "https://www.profitwell.com/",
+  "docsUrl": "https://profitwell.docs.apiary.io/"
+}

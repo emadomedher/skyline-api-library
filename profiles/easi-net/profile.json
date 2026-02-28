@@ -1,0 +1,13 @@
+{
+  "id": "easi-net",
+  "title": "EASI",
+  "subtitle": "EASI is a cloud, security & software provider offering management applications, professional cloud & security solutio...",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604860510/icons/easi-net.jpg",
+  "website": "https://easi.net/"
+}

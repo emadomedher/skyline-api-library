@@ -1,0 +1,13 @@
+{
+  "id": "fortnox-se",
+  "title": "Fortnox",
+  "subtitle": "Fortnox is a cloud-based platform that meets the needs of small businesses and accounting agencies for programs and s...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618847295/icons/fortnox-se.jpg",
+  "website": "https://www.fortnox.se/"
+}

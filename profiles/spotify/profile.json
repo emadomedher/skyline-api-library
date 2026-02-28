@@ -1,0 +1,14 @@
+{
+  "id": "spotify",
+  "title": "Spotify",
+  "subtitle": "Spotify is a Swedish audio streaming and media services provider founded in 2006 by Daniel Ek. Spotify is incorporate...",
+  "tags": [
+    "video",
+    "music-streaming-services"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306166/catalog/spotify/icon128x128.png",
+  "website": "https://www.spotify.com/be-nl/"
+}

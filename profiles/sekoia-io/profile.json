@@ -1,0 +1,14 @@
+{
+  "id": "sekoia-io",
+  "title": "sekoia.io",
+  "subtitle": "Fuse Cyber Threat Intelligence and Next-gen SIEM to Secure your Business.",
+  "tags": [
+    "security",
+    "siem"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602351249/icons/sekoia-io.png",
+  "website": "https://sekoia.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "redsift",
+  "title": "Red Sift",
+  "subtitle": "At Red Sift we want to democratise cybersecurity by using our open cloud platform to deliver innovative products that...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577487672/catalog/redsift/icon128x128.png",
+  "website": "https://redsift.com/",
+  "docsUrl": "https://docs.redsift.com"
+}

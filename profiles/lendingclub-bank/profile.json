@@ -1,0 +1,13 @@
+{
+  "id": "lendingclub-bank",
+  "title": "LendingClub Bank",
+  "subtitle": "LendingClub Bank is an online-focused community bank headquartered in Lehi, Utah. LendingClub Bank is a member of the...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635900782/icons/lendingclub-bank.jpg",
+  "website": "https://bank.lendingclub.com/"
+}

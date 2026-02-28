@@ -1,0 +1,14 @@
+{
+  "id": "marvelapp",
+  "title": "Marvel",
+  "subtitle": "The collaborative design platform. Wireframe, prototype, user test, design and inspect designs in one place, for free...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595003154/icons/marvelapp.jpg",
+  "website": "https://marvelapp.com/",
+  "docsUrl": "https://marvelapp.com/developers"
+}

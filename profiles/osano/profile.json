@@ -1,0 +1,16 @@
+{
+  "id": "osano",
+  "title": "Osana",
+  "subtitle": "Osano is an easy-to-use data privacy platform. Instantly make your website compliant with CCPA, GDPR, and monitor all...",
+  "tags": [
+    "compliance",
+    "legal",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570184109/catalog/osano/icon128x128.jpg",
+  "website": "https://www.osano.com/",
+  "docsUrl": "https://docs.osano.com"
+}

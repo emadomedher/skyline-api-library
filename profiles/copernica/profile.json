@@ -1,0 +1,14 @@
+{
+  "id": "copernica",
+  "title": "Copernica",
+  "subtitle": "Krachtige software voor e-mailmarketing automation. De flexibele databasestructuur van Copernica kun je naar eigen we...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719609/catalog/copernica/icon128x128.jpg",
+  "website": "https://copernica.com",
+  "docsUrl": "https://www.copernica.com/nl/documentation"
+}

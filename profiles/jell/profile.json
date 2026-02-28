@@ -1,0 +1,13 @@
+{
+  "id": "jell",
+  "title": "Jell",
+  "subtitle": "Daily online standups to unite teams, make projects and progress visible and reach goals faster—all in minutes a day. ",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720598/catalog/jell/icon128x128.png",
+  "website": "https://jell.com"
+}

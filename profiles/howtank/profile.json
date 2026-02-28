@@ -1,0 +1,13 @@
+{
+  "id": "howtank",
+  "title": "HowTank",
+  "subtitle": "Howtank est le réseau social de partage d'expérience qui réunit les clients et les marques pour discuter des sujets q...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946932/catalog/howtank/icon128x128.png",
+  "website": "https://howtank.com"
+}

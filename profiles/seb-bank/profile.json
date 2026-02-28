@@ -1,0 +1,14 @@
+{
+  "id": "seb-bank",
+  "title": "SEB",
+  "subtitle": "SEB API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633417500/icons/seb-bank.png",
+  "website": "https://sebgroup.com/",
+  "docsUrl": "https://developer.sebgroup.com/"
+}

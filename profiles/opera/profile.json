@@ -1,0 +1,13 @@
+{
+  "id": "opera",
+  "title": "Opera",
+  "subtitle": "\n    Get a faster, better browser. Opera's free VPN, Ad Blocker, integrated messengers and private mode help you brow...",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571592911/catalog/opera/icon128x128.png",
+  "website": "https://www.opera.com/"
+}

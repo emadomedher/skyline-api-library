@@ -1,0 +1,13 @@
+{
+  "id": "area42-tech",
+  "title": "AREA42",
+  "subtitle": "Trade innovation made easy. At AREA42, we reconcile the benefits and downsides of trade digitisation with relevant te...",
+  "tags": [
+    "trade-network"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569285753/catalog/area42-tech/icon128x128.png",
+  "website": "https://area42.tech"
+}

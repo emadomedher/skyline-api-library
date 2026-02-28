@@ -1,0 +1,14 @@
+{
+  "id": "anodot",
+  "title": "Anodot",
+  "subtitle": "Anodot autonomous business monitoring platform detects anomalies, correlate cross silos and forecasts business perfor...",
+  "tags": [
+    "mobile-and-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947283/catalog/anodot/icon128x128.jpg",
+  "website": "https://anodot.com",
+  "docsUrl": "https://docs.anodot.com/#api-reference"
+}

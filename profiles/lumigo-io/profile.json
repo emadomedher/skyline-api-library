@@ -1,0 +1,17 @@
+{
+  "id": "lumigo-io",
+  "title": "Lumigo",
+  "subtitle": "Get observability for your serverless application. Identify root-cause of issues, monitor costs and troubleshoot misc...",
+  "tags": [
+    "serverless-monitoring",
+    "serverless",
+    "monitoring",
+    "observability"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573332081/catalog/lumigo-io/icon128x128.jpg",
+  "website": "https://lumigo.io/",
+  "docsUrl": "https://docs.lumigo.io"
+}

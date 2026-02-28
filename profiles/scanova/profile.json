@@ -1,0 +1,13 @@
+{
+  "id": "scanova",
+  "title": "Scanova",
+  "subtitle": "Scanova API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437150/catalog/scanova/icon128x128.png",
+  "website": "https://scanova.io"
+}

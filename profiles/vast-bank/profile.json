@@ -1,0 +1,13 @@
+{
+  "id": "vast-bank",
+  "title": "Vast Bank",
+  "subtitle": "Vast became the first nationally chartered U.S. bank to enable customers to seamlessly buy, sell, and hold cryptocurr...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630649579/icons/vast-bank.png",
+  "website": "https://www.vast.bank/"
+}

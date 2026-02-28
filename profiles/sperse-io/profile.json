@@ -1,0 +1,14 @@
+{
+  "id": "sperse-io",
+  "title": "Sperse IO – App Integration Platform – Sperse IO is a Platform and WP Plugin to connect your apps!",
+  "subtitle": "Sperse IO – App Integration Platform – Sperse IO is a Platform and WP Plugin to connect your apps! API integration",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650579885/icons/sperse-io.png",
+  "website": "https://sperse.io/",
+  "docsUrl": "https://support.sperse.com"
+}

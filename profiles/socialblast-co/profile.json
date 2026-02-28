@@ -1,0 +1,13 @@
+{
+  "id": "socialblast-co",
+  "title": "SocialBlast",
+  "subtitle": "SocialBlast vous aide à augmenter votre visibilité sur Facebook, Twitter, LinkedIn, Instagram, Youtube, Quora, Pinter...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578099357/catalog/socialblast-co/icon128x128.jpg",
+  "website": "https://socialblast.co/"
+}

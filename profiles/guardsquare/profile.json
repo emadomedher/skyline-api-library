@@ -1,0 +1,14 @@
+{
+  "id": "guardsquare",
+  "title": "Guardsquare",
+  "subtitle": "GuardSquare is the global reference in mobile application protection",
+  "tags": [
+    "mobile-apps-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576599693/catalog/guardsquare/icon128x128.jpg",
+  "website": "https://www.guardsquare.com/",
+  "docsUrl": "https://www.guardsquare.com/en/blog/sharpen-these-app-security-skills-stand-out-developer"
+}

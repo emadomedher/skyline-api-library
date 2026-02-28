@@ -1,0 +1,14 @@
+{
+  "id": "color",
+  "title": "Color",
+  "subtitle": "From population genomics to high throughput COVID-19 testing, Color provides the technology & infrastructure for larg...",
+  "tags": [
+    "healthcare",
+    "genomics"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609900079/icons/color.png",
+  "website": "https://www.color.com/"
+}

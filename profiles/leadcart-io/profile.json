@@ -1,0 +1,14 @@
+{
+  "id": "leadcart-io",
+  "title": "LeadCart",
+  "subtitle": "LeadCart Is A Shopping Cart Software That Is Simple, Yet Powerful. It Was Created Specifically To Help You Convert Mo...",
+  "tags": [
+    "shopping-carts",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572569541/catalog/leadcart-io/icon128x128.png",
+  "website": "https://leadcart.io/"
+}

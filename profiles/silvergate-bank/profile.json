@@ -1,0 +1,14 @@
+{
+  "id": "silvergate-bank",
+  "title": "Silvergate Bank",
+  "subtitle": "Silvergate Bank is the leading bank for innovative businesses in fintech and cryptocurrency. Based in San Diego, Silv...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616023625/icons/silvergate-bank.png",
+  "website": "https://www.silvergatebank.com/",
+  "docsUrl": "https://silvergate.portal.azure-api.net/signin"
+}

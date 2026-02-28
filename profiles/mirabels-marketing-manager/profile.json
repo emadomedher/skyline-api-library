@@ -1,0 +1,12 @@
+{
+  "id": "mirabels-marketing-manager",
+  "title": "Mirabel's Marketing Manager",
+  "subtitle": "Marketing Manager identifies who is visiting your website and who is most interested with marketing CRM software.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305466/catalog/mirabels-marketing-manager/icon128x128.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "owasp",
+  "title": "OWASP",
+  "subtitle": "OWASP Foundation, the Open Source Foundation for Application Security on the main website for The OWASP Foundation. O...",
+  "tags": [
+    "foundations",
+    "security",
+    "open-source"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614273180/icons/owasp.jpg",
+  "website": "https://owasp.org/",
+  "docsUrl": "https://2017.appsec.eu/presos/developer/fixing%20mobile%20appsec%20the%20owasp%20mobile%20project-%20bernhard%20mueller%20and%20sven%20schleier%20-%20owasp_appsec-eu_2017.pdf"
+}

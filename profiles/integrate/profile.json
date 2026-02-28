@@ -1,0 +1,13 @@
+{
+  "id": "integrate",
+  "title": "Integrate",
+  "subtitle": "Integrate API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435183/catalog/integrate/icon128x128.png",
+  "website": "https://integrate.com"
+}

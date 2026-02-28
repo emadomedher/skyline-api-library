@@ -1,0 +1,14 @@
+{
+  "id": "deposit-solutions",
+  "title": "Deposit Solutions",
+  "subtitle": "We offer the leading Open Banking solution for deposits, connecting banks and customers across Europe and the US.",
+  "tags": [
+    "deposit-products",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588579226/catalog/deposit-solutions/icon128x128.jpg",
+  "website": "https://www.deposit-solutions.com/"
+}

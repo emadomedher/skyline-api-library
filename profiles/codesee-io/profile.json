@@ -1,0 +1,14 @@
+{
+  "id": "codesee-io",
+  "title": "CodeSee",
+  "subtitle": "CodeSee is the world’s first solution for Continuous Code Understanding. CodeSee helps development teams visually und...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642520287/icons/codesee-io.jpg",
+  "website": "https://www.codesee.io/",
+  "docsUrl": "https://docs.codesee.io"
+}

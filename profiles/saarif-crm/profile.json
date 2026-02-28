@@ -1,0 +1,13 @@
+{
+  "id": "saarif-crm",
+  "title": "Saarif CRM",
+  "subtitle": "Saarif.com is a sales and CRM software for small teams. Smart selling starts with Saarif CRM so try it for free today!",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946650/catalog/saarif-crm/icon128x128.jpg",
+  "website": "https://saarif.com"
+}

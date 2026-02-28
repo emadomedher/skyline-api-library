@@ -1,0 +1,13 @@
+{
+  "id": "curation-suite",
+  "title": "Curation Suite",
+  "subtitle": "Curation Suite a WordPress content curation plugin that works with any theme and any plugin you have. Easily publish ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947183/catalog/curation-suite/icon128x128.jpg",
+  "website": "https://curationsuite.com"
+}

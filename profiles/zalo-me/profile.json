@@ -1,0 +1,14 @@
+{
+  "id": "zalo-me",
+  "title": "Zalo",
+  "subtitle": "Tải Zalo PC cho máy tính để sử dụng các tính năng vượt trội như gửi file 1GB, Chụp màn hình, Phân loại nhóm,... Downl...",
+  "tags": [
+    "video-calls",
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584050122/catalog/zalo-me/icon128x128.png",
+  "website": "https://zalo.me/"
+}

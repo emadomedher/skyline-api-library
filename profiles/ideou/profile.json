@@ -1,0 +1,14 @@
+{
+  "id": "ideou",
+  "title": "IDEO U",
+  "subtitle": "IDEO U is an online school where leaders can unlock their creative potential and build their problem-solving skills.",
+  "tags": [
+    "online-courses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618435382/icons/ideou.jpg",
+  "website": "https://www.ideou.com/",
+  "docsUrl": "https://docs.google.com/forms/d/1icmlgme17stuhkmwslgoe9p45mzpeycq1bfzl9pzsac/edit"
+}

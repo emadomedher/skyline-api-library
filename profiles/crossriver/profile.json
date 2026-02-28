@@ -1,0 +1,16 @@
+{
+  "id": "crossriver",
+  "title": "Cross River",
+  "subtitle": "Cross River is the trusted financial services organization that merges the established expertise of a bank, with the ...",
+  "tags": [
+    "payments",
+    "banking-as-a-service",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062133/catalog/crossriver/icon128x128.jpg",
+  "website": "https://www.crossriver.com/",
+  "docsUrl": "https://www.crossriver.com/developers"
+}

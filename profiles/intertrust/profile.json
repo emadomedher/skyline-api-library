@@ -1,0 +1,14 @@
+{
+  "id": "intertrust",
+  "title": "Intertrust Technologies",
+  "subtitle": "IoT enables data marketplaces. We provide trust. Build successful IoT data marketplaces with Intertrust’s security an...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193127/catalog/intertrust/icon128x128.png",
+  "website": "https://www.intertrust.com"
+}

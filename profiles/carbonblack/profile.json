@@ -1,0 +1,13 @@
+{
+  "id": "carbonblack",
+  "title": "Carbon Black",
+  "subtitle": "VMware delivers virtualization benefits via virtual machine, virtual server, and virtual pc solutions.",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249015/icons/carbonblack.jpg",
+  "website": "https://carbonblack.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "composity",
+  "title": "Composity",
+  "subtitle": "Manage your entire business with Composity's solutions - online ERP, CRM, eCommerce and Point of Sale (POS) software....",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719552/catalog/composity/icon128x128.png",
+  "website": "https://composity.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "triggercmd",
+  "title": "TRIGGERcmd",
+  "subtitle": "TRIGGERcmd allows you to run commands on your computers remotely.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284641/catalog/triggercmd/icon128x128.png"
+}

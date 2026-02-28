@@ -1,0 +1,14 @@
+{
+  "id": "barracuda",
+  "title": "Barracuda Networks",
+  "subtitle": "Barracuda Networks is the worldwide leader in Security, Application Delivery and Data Protection Solutions.",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612019/catalog/barracuda/icon128x128.jpg",
+  "website": "https://www.barracuda.com/",
+  "docsUrl": "https://assets.barracuda.com/assets/docs/dms/Barracuda_Canada_Breach_Flyer_US_.pdf"
+}

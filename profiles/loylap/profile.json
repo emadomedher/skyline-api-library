@@ -1,0 +1,13 @@
+{
+  "id": "loylap",
+  "title": "Loylap",
+  "subtitle": "Boost your customer revenue and experience with LoyLap cashless payments. LoyLap offers a complete toolkit to delight...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435651/catalog/loylap/icon128x128.png",
+  "website": "https://loylap.com"
+}

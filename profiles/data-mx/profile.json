@@ -1,0 +1,14 @@
+{
+  "id": "data-mx",
+  "title": "MX",
+  "subtitle": "MX's data-driven solutions enables financial institutions and fintech companies to collect, enhance, analyze, present...",
+  "tags": [
+    "fintech",
+    "data-aggregators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573418099/catalog/data-mx/icon128x128.png",
+  "website": "https://data.mx.com/"
+}

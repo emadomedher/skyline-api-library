@@ -1,0 +1,13 @@
+{
+  "id": "aprika",
+  "title": "Aprika:Colin Johnson",
+  "subtitle": "Aprika specialises in Salesforce Apps for Project Management and SMS Text Messaging. Take Control of your Business - ...",
+  "tags": [
+    "salesforce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576574783/catalog/aprika/icon128x128.png",
+  "website": "https://aprika.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "adbutler",
+  "title": "AdButler",
+  "subtitle": "AdButler is a fully customizable and easy to use ad serving platform/ad manager that helps thousands of publishers sa...",
+  "tags": [
+    "ad-manager",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607794065/icons/adbutler.png",
+  "website": "https://www.adbutler.com/",
+  "docsUrl": "https://www.adbutler.com/developers.spark"
+}

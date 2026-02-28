@@ -1,0 +1,15 @@
+{
+  "id": "waylay-io",
+  "title": "Waylay",
+  "subtitle": "Intelligent automation and analytics software to improve the return on your IoT solutions.",
+  "tags": [
+    "iot",
+    "low-code"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615223018/icons/waylay-io.jpg",
+  "website": "https://www.waylay.io",
+  "docsUrl": "https://docs.waylay.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zoomai",
+  "title": "Zoom.ai",
+  "subtitle": "Zoom.ai is a enterprise productivity solution that helps employees securely automate everyday tasks including schedul...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946304/catalog/zoomai/icon128x128.jpg",
+  "website": "https://zoom.ai"
+}

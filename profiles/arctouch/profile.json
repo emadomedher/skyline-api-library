@@ -1,0 +1,13 @@
+{
+  "id": "arctouch",
+  "title": "Arctouch",
+  "subtitle": "ArcTouch is a leading San Francisco mobile app design & development company. We develop apps for iOS, Android, and Xa...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719005/catalog/arctouch/icon128x128.jpg",
+  "website": "https://arctouch.com"
+}

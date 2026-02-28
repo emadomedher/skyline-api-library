@@ -1,0 +1,14 @@
+{
+  "id": "invoker-dev",
+  "title": "Invoker",
+  "subtitle": "Invoker is a slick and simple desktop application that gives you all the tools you need to manage your Laravel projects.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912832/icons/invoker-dev.jpg",
+  "website": "https://invoker.dev/",
+  "docsUrl": "https://beyondco.de/docs/invoker/welcome"
+}

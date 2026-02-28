@@ -1,0 +1,13 @@
+{
+  "id": "tripolis",
+  "title": "Tripolis",
+  "subtitle": "Als e-Mail & Marketing Technology Hub, is Tripolis continu bezig met marketing technologie en data gedreven oplossingen.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438057/catalog/tripolis/icon128x128.png",
+  "website": "https://tripolis.com"
+}

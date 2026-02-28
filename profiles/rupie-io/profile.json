@@ -1,0 +1,13 @@
+{
+  "id": "rupie-io",
+  "title": "Rupie",
+  "subtitle": "Rupie surfaces the games industry's best pre-vetted, full-time hires and flexible contractors prepped and ready to co...",
+  "tags": [
+    "gaming-hiring-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622794455/icons/rupie-io.jpg",
+  "website": "https://rupie.io/"
+}

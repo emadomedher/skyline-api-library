@@ -1,0 +1,14 @@
+{
+  "id": "swiipe",
+  "title": "Swiipe",
+  "subtitle": "Få implementeret et One-Click Buy checkout som en ny online betalingsløsning, tilpasset til jeres erhverv. Opret kont...",
+  "tags": [
+    "ecommerce-payments",
+    "ecommerce-checkout"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607659993/icons/swiipe.png",
+  "website": "https://swiipe.com/en/"
+}

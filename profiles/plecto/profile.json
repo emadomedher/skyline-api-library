@@ -1,0 +1,13 @@
+{
+  "id": "plecto",
+  "title": "Plecto",
+  "subtitle": "Helps your sales and customer service employees reach their targets every month.",
+  "tags": [
+    "dashboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305710/catalog/plecto/icon128x128.png",
+  "website": "https://plecto.com"
+}

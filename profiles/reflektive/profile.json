@@ -1,0 +1,13 @@
+{
+  "id": "reflektive",
+  "title": "Reflektive",
+  "subtitle": "Reflektive API integration",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436887/catalog/reflektive/icon128x128.png",
+  "website": "https://reflektive.com"
+}

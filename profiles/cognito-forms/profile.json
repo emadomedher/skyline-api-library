@@ -1,0 +1,13 @@
+{
+  "id": "cognito-forms",
+  "title": "Cognito Forms",
+  "subtitle": "Cognito Forms is an easy-to-use form builder that allows users to quickly build a form, include it on their website, ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456696/catalog/cognito-forms/icon128x128.png",
+  "website": "https://www.cognitoforms.com/"
+}

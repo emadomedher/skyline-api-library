@@ -1,0 +1,13 @@
+{
+  "id": "iso",
+  "title": "ISO",
+  "subtitle": "We're ISO, the International Organization for Standardization. We develop and publish International Standards.",
+  "tags": [
+    "information-standards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089344/icons/iso.jpg",
+  "website": "https://www.iso.org/"
+}

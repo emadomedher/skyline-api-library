@@ -1,0 +1,12 @@
+{
+  "id": "fidelizador",
+  "title": "Fidelizador",
+  "subtitle": "Fidelizador is a professional solution to create, automate and customize emails. Engage your customers and build your...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538988/catalog/fidelizador/icon128x128.png"
+}

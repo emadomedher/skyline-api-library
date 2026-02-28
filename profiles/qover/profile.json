@@ -1,0 +1,13 @@
+{
+  "id": "qover",
+  "title": "Qover",
+  "subtitle": "Plug & play solutions empowering any digital business to integrate insurance into its strategy. Our promise? A tailor...",
+  "tags": [
+    "embedded-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655243469/icons/qover.png",
+  "website": "https://www.qover.com/"
+}

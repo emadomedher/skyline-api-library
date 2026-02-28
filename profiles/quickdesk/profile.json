@@ -1,0 +1,13 @@
+{
+  "id": "quickdesk",
+  "title": "QuickDesk",
+  "subtitle": "QuickDesk offers the best online customer relationship management (CRM) software in Singapore, Malaysia & Hong Kong (...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721686/catalog/quickdesk/icon128x128.jpg",
+  "website": "https://quickdesk.io"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "becosoft",
+  "title": "Becosoft IT Solutions",
+  "subtitle": "Becosoft ontwikkelt CRM en ERP software en POS-systemen voor winkels en groothandels. specialisatie in fashion en non...",
+  "tags": [
+    "pos",
+    "crm",
+    "erp"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567080750/catalog/becosoft/icon128x128.jpg",
+  "website": "https://becosoft.com"
+}

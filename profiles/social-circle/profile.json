@@ -1,0 +1,13 @@
+{
+  "id": "social-circle",
+  "title": "Social Circle",
+  "subtitle": "Social Circle API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775652/catalog/social-circle/icon128x128.png",
+  "website": "https://socialcircle.media"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "prebid-js",
+  "title": "Prebid",
+  "subtitle": "Prebid is the leading open source unified auction solution worldwide.",
+  "tags": [
+    "programmatic-advertising",
+    "unified-auction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638381658/icons/prebid-js.png",
+  "website": "https://prebid.org/",
+  "docsUrl": "https://docs.prebid.org"
+}

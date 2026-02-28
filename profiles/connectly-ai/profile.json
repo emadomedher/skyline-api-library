@@ -1,0 +1,13 @@
+{
+  "id": "connectly-ai",
+  "title": "Connectly.ai",
+  "subtitle": "Connectly is an AI-based messaging platform that enables small businesses to build meaningful relationships with thei...",
+  "tags": [
+    "unified-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632537565/icons/connectly-ai.jpg",
+  "website": "https://www.connectly.ai/"
+}

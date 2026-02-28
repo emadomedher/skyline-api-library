@@ -1,0 +1,12 @@
+{
+  "id": "learnworlds",
+  "title": "Learnworlds",
+  "subtitle": "Learnworlds is a premium learning platform via which you sell online courses under your own website.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539000/catalog/learnworlds/icon128x128.png"
+}

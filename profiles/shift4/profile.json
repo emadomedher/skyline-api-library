@@ -1,0 +1,14 @@
+{
+  "id": "shift4",
+  "title": "Shift4 Payments",
+  "subtitle": "Shift4 Payments is the leader in secure payment processing solutions, including point-to-point encryption, tokenizati...",
+  "tags": [
+    "payments",
+    "pos"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636480113/icons/shift4.png",
+  "website": "https://www.shift4.com/"
+}

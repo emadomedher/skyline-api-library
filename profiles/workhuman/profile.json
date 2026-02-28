@@ -1,0 +1,14 @@
+{
+  "id": "workhuman",
+  "title": "Workhuman",
+  "subtitle": "Workhuman® has been pioneering the human workplace for over 20 years. Discover how we help businesses reduce employee...",
+  "tags": [
+    "employee-engagement",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663081981/icons/workhuman.jpg",
+  "website": "https://www.workhuman.com/"
+}

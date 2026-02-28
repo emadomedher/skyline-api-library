@@ -1,0 +1,13 @@
+{
+  "id": "sendy",
+  "title": "Sendy",
+  "subtitle": "Sendy is a self hosted email newsletter application that lets you send newsletters via Amazon Simple Email Service (S...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306048/catalog/sendy/icon128x128.png",
+  "website": "https://sendy.co/s"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dynamics-365",
+  "title": "Dynamics 365",
+  "subtitle": "Microsoft Dynamics 365 is a cloud based service that provides a set of intelligent applications that seamlessly work ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264780/catalog/dynamics-365/icon128x128.png"
+}

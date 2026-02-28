@@ -1,0 +1,14 @@
+{
+  "id": "anydesk",
+  "title": "AnyDesk Software",
+  "subtitle": "Discover AnyDesk, the secure & intuitive remote desktop software, and take advantage of the application's innovative ...",
+  "tags": [
+    "remote-desktop"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049900/icons/anydesk.jpg",
+  "website": "https://anydesk.com/",
+  "docsUrl": "https://download.anydesk.com/docs/AnyDesk-Form-DataSubjectRequest.pdf"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shift4shop",
+  "title": "Shift4Shop",
+  "subtitle": "Shift4Shop is a technology company that develops e-commerce software for businesses.",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658250571/icons/shift4shop.png",
+  "website": "https://www.shift4shop.com/"
+}

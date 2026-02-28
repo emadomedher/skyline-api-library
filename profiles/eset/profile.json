@@ -1,0 +1,13 @@
+{
+  "id": "eset",
+  "title": "ESET",
+  "subtitle": "ESET® protects more than 110 million users worldwide. Trusted by businesses & individuals across the globe. Give ESET...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982434/catalog/eset/icon128x128.jpg",
+  "website": "https://www.eset.com/"
+}

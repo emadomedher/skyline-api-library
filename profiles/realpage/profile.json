@@ -1,0 +1,13 @@
+{
+  "id": "realpage",
+  "title": "RealPage",
+  "subtitle": "RealPage offers property management software and real estate management software for multifamily, single-family, seni...",
+  "tags": [
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598910102/icons/realpage.png",
+  "website": "https://www.realpage.com/"
+}

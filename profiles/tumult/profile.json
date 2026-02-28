@@ -1,0 +1,13 @@
+{
+  "id": "tumult",
+  "title": "Tumult",
+  "subtitle": "Tumult Hype is the HTML5 creation app for macOS. Animations and interactive content made with Tumult Hype work on des...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946440/catalog/tumult/icon128x128.jpg",
+  "website": "https://tumult.com"
+}

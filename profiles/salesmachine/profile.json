@@ -1,0 +1,14 @@
+{
+  "id": "salesmachine",
+  "title": "Salesmachine",
+  "subtitle": "Salesmachine helps sales, product and customer success teams instantly convert more leads, accelerate adoption and re...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305964/catalog/salesmachine/icon128x128.png",
+  "website": "https://salesmachine.io",
+  "docsUrl": "https://developers.salesmachine.io"
+}

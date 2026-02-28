@@ -1,0 +1,12 @@
+{
+  "id": "esignaturesio",
+  "title": "eSignatures.io",
+  "subtitle": "ESignatures.io is a tool used for signing mobile friendly contracts over the web.",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284510/catalog/esignaturesio/icon128x128.png"
+}

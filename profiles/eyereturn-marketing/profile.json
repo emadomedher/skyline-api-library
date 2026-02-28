@@ -1,0 +1,13 @@
+{
+  "id": "eyereturn-marketing",
+  "title": "Eyereturn Marketing",
+  "subtitle": "Eyereturn Marketing API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963906/catalog/eyereturn-marketing/icon128x128.png",
+  "website": "https://eyereturnmarketing.com"
+}

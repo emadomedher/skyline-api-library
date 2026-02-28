@@ -1,0 +1,14 @@
+{
+  "id": "rescale",
+  "title": "Rescale",
+  "subtitle": "Rescale is a cloud simulation platform that helps engineers and scientists build, compute, analyze, and scale simulat...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579037019/catalog/rescale/icon128x128.jpg",
+  "website": "https://www.rescale.com",
+  "docsUrl": "https://docs.rescale.com"
+}

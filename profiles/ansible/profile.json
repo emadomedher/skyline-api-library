@@ -1,0 +1,14 @@
+{
+  "id": "ansible",
+  "title": "Ansible",
+  "subtitle": "Ansible is the simplest way to automate apps and IT infrastructure. Application Deployment + Configuration Management...",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565027138/catalog/ansible/icon128x128.png",
+  "website": "https://ansible.com",
+  "docsUrl": "https://docs.ansible.com"
+}

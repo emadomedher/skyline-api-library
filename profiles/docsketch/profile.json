@@ -1,0 +1,14 @@
+{
+  "id": "docsketch",
+  "title": "Docsketch",
+  "subtitle": "Get your sales documents signed 40% faster with zero-setup electronic signatures. Docsketch helps you close sales in ...",
+  "tags": [
+    "document-signing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578726443/catalog/docsketch/icon128x128.jpg",
+  "website": "https://www.docsketch.com/",
+  "docsUrl": "https://www.docsketch.com/docsketch-signatures-legal"
+}

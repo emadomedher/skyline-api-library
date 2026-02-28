@@ -1,0 +1,13 @@
+{
+  "id": "guesty",
+  "title": "Guesty",
+  "subtitle": "Guesty is a property management platform. It is used by property managers to manage Short-Term Rentals and Vacation R...",
+  "tags": [
+    "property-management-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645810150/icons/guesty.jpg",
+  "website": "https://www.guesty.com/"
+}

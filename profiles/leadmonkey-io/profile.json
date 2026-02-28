@@ -1,0 +1,13 @@
+{
+  "id": "leadmonkey-io",
+  "title": "LeadMonkey ",
+  "subtitle": "Create high-quality prospect lists with verified contact info. LeadMonkey is search engine to find B2B and B2C contac...",
+  "tags": [
+    "sales-prospection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621996982/icons/leadmonkey-io.png",
+  "website": "https://www.leadmonkey.io/"
+}

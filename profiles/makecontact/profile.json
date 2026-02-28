@@ -1,0 +1,13 @@
+{
+  "id": "makecontact",
+  "title": "MakeContact",
+  "subtitle": "The data your sales team needs to target over 250 million businesses globally from MakeContact. Supercharge sales out...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720971/catalog/makecontact/icon128x128.jpg",
+  "website": "https://makecontact.app"
+}

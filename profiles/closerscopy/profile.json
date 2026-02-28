@@ -1,0 +1,13 @@
+{
+  "id": "closerscopy",
+  "title": "ClosersCopy",
+  "subtitle": "All-in-One Business App You Need To Master Copywriting.",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647178351/icons/closerscopy.png",
+  "website": "https://www.closerscopy.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "flow-ai",
+  "title": "Flow.ai",
+  "subtitle": "The leading visual bot platform to design and create AI chatbots for Facebook, WhatsApp and Web. Build integrated sol...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471975/icons/flow-ai.jpg",
+  "website": "https://flow.ai/",
+  "docsUrl": "https://flow.ai/docs/api-docs/#introduction"
+}

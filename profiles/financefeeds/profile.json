@@ -1,0 +1,14 @@
+{
+  "id": "financefeeds",
+  "title": "FinanceFeeds",
+  "subtitle": "The Fintech, finance and trading industry's leading news, insights, and research portal.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268428/icons/financefeeds.jpg",
+  "website": "https://financefeeds.com",
+  "docsUrl": "https://financefeeds.com/saxo-banks-bespoke-focus-continues-open-banking-initiatives-strengthened-via-developer-portal"
+}

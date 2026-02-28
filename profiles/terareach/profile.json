@@ -1,0 +1,13 @@
+{
+  "id": "terareach",
+  "title": "TeraReach",
+  "subtitle": "TeraReach API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962149/catalog/terareach/icon128x128.png",
+  "website": "https://terareach.com"
+}

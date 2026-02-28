@@ -1,0 +1,14 @@
+{
+  "id": "jetbrains-youtrack",
+  "title": "JetBrains YouTrack",
+  "subtitle": "Enjoy having everything together in one place. Track tasks, manage projects, keep a knowledge base, collaborate with ...",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598543612/icons/jetbrains-youtrack.jpg",
+  "website": "https://www.jetbrains.com/youtrack/",
+  "docsUrl": "https://www.jetbrains.com/youtrack/documentation"
+}

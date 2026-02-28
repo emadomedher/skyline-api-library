@@ -1,0 +1,15 @@
+{
+  "id": "sensu-io",
+  "title": "Sensu",
+  "subtitle": "Monitor your entire infrastructure, from Kubernetes to bare metal. The Sensu monitoring event pipeline empowers busin...",
+  "tags": [
+    "monitoring",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565253668/catalog/sensu-io/icon128x128.jpg",
+  "website": "https://sensu.io",
+  "docsUrl": "https://docs.sensu.io"
+}

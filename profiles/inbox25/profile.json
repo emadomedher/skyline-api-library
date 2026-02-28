@@ -1,0 +1,13 @@
+{
+  "id": "inbox25",
+  "title": "Inbox25",
+  "subtitle": "Inbox25 API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720450/catalog/inbox25/icon128x128.jpg",
+  "website": "https://inbox25.com"
+}

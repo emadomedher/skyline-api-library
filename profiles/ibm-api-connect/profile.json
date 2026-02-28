@@ -1,0 +1,14 @@
+{
+  "id": "ibm-api-connect",
+  "title": "IBM API Connect",
+  "subtitle": "Secure and manage your API ecosystem across multiple clouds with industry-leading IBM API Connect",
+  "tags": [
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/ibm-api-connect/icon128x128.jpg",
+  "website": "https://www.ibm.com/cloud/api-connect",
+  "docsUrl": "https://cloud.ibm.com/docs"
+}

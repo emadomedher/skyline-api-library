@@ -1,0 +1,13 @@
+{
+  "id": "simcorp",
+  "title": "Sim",
+  "subtitle": "Leading provider of investment management software solutions for the world's leading financial organizations. Discove...",
+  "tags": [
+    "investment-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050064/icons/simcorp.jpg",
+  "website": "https://www.simcorp.com/"
+}

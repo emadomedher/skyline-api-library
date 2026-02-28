@@ -1,0 +1,13 @@
+{
+  "id": "redhorse-systems",
+  "title": "Redhorse Systems",
+  "subtitle": "Completely customizable customer relationship management (CRM) and business management tool. QuickBooks, Constant Con...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597079617/icons/redhorse-systems.png",
+  "website": "https://redhorsesystems.com"
+}

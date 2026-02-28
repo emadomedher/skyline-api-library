@@ -1,0 +1,14 @@
+{
+  "id": "cloudback-it",
+  "title": "Cloudback",
+  "subtitle": "Cloudback secures your GitHub repositories with recurrent data backup. With Cloudback you can use your favorite cloud...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647977049/icons/cloudback-it.jpg",
+  "website": "https://cloudback.it/",
+  "docsUrl": "https://docs.cloudback.it"
+}

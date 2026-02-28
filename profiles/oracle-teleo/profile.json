@@ -1,0 +1,14 @@
+{
+  "id": "oracle-teleo",
+  "title": "Teleo",
+  "subtitle": "Teleo API integration",
+  "tags": [
+    "talent-management",
+    "recruiting"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574193794/catalog/oracle-teleo/icon128x128.png",
+  "website": "https://www.oracle.com/applications/taleo.html"
+}

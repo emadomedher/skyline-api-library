@@ -1,0 +1,12 @@
+{
+  "id": "optimizelyx",
+  "title": "Optimizely X",
+  "subtitle": "Optimizely X API integration",
+  "tags": [
+    "a/b-testing"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439287/catalog/optimizelyx/icon128x128.svg"
+}

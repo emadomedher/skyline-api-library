@@ -1,0 +1,13 @@
+{
+  "id": "rapidfire",
+  "title": "RapidFire",
+  "subtitle": "RapidFire API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436821/catalog/rapidfire/icon128x128.png",
+  "website": "https://rapidfire.com"
+}

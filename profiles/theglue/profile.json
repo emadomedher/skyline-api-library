@@ -1,0 +1,16 @@
+{
+  "id": "theglue",
+  "title": "The Glue",
+  "subtitle": "The Glue offers marketplace solutions for financial services, changing the way banks and insurance companies engage w...",
+  "tags": [
+    "open-banking",
+    "psd-2-compliance",
+    "whitelabel-marketplaces"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574290447/catalog/theglue/icon128x128.jpg",
+  "website": "https://theglue.com/",
+  "docsUrl": "https://theglue.com/reference-cases"
+}

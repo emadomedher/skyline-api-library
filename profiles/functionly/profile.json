@@ -1,0 +1,14 @@
+{
+  "id": "functionly",
+  "title": "Functionly",
+  "subtitle": "Master the complexity that scales as you do. Functionly is one platform to achieve true visibility, alignment and las...",
+  "tags": [
+    "org-design",
+    "org-chart"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605027168/icons/functionly.jpg",
+  "website": "https://www.functionly.com/"
+}

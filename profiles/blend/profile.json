@@ -1,0 +1,17 @@
+{
+  "id": "blend",
+  "title": "Blend",
+  "subtitle": "Better lending starts with Blend",
+  "tags": [
+    "lending",
+    "mortgage",
+    "fintech",
+    "mortgages"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571958130/catalog/blend/icon128x128.jpg",
+  "website": "https://blend.com/",
+  "docsUrl": "https://developers.blend.com"
+}

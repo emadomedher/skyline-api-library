@@ -1,0 +1,14 @@
+{
+  "id": "setu-co",
+  "title": "Setu",
+  "subtitle": "API infrastructure to help you reimagine financial products for the next billion users.",
+  "tags": [
+    "fintech-architecture"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630448371/icons/setu-co.jpg",
+  "website": "https://setu.co/",
+  "docsUrl": "https://docs.setu.co"
+}

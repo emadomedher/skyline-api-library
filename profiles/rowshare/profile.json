@@ -1,0 +1,15 @@
+{
+  "id": "rowshare",
+  "title": "RowShare",
+  "subtitle": "RowShare is an online Collaborative Table. Let each user see and edit just the relevant rows. Include pictures and at...",
+  "tags": [
+    "spreadsheets",
+    "databases",
+    "accounting"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305914/catalog/rowshare/icon128x128.png",
+  "website": "https://www.rowshare.com/"
+}

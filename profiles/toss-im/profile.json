@@ -1,0 +1,15 @@
+{
+  "id": "toss-im",
+  "title": "Toss (토스)",
+  "subtitle": "Toss, created by Viva Republica, is a mobile finance app that provides P2P money transfer services. The platform offe...",
+  "tags": [
+    "challenger-banks",
+    "p2p-payments",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598784355/icons/toss-im.jpg",
+  "website": "https://toss.im/"
+}

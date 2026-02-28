@@ -1,0 +1,13 @@
+{
+  "id": "kontest",
+  "title": "Kontest",
+  "subtitle": "Grow your community and qualify new leads. Create promotions quickly and easily with Kontest.",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946877/catalog/kontest/icon128x128.png",
+  "website": "https://kontestapp.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hello-customer",
+  "title": "Hello Customer",
+  "subtitle": "Hello Customer is an AI-driven feedback platform that helps you collect and convert unstructured open feedback into p...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434917/catalog/hello-customer/icon128x128.png",
+  "website": "https://www.hellocustomer.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sevdesk",
+  "title": "sevDesk",
+  "subtitle": "The simple online office software. Create invoices and estimates, take care of accounting, customer and warehouse man...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652969066/icons/sevdesk.jpg",
+  "website": "https://sevdesk.com/"
+}

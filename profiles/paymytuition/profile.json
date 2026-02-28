@@ -1,0 +1,13 @@
+{
+  "id": "paymytuition",
+  "title": "PayMyTuition",
+  "subtitle": "PayMyTuition is a leading provider of international payment solutions for universities and colleges. Students can mak...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613629347/icons/paymytuition.jpg",
+  "website": "https://www.paymytuition.com/"
+}

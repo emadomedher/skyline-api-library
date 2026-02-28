@@ -1,0 +1,13 @@
+{
+  "id": "acta-ai",
+  "title": "Acta",
+  "subtitle": "Acta API integration",
+  "tags": [
+    "meeting-notes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588425783/catalog/acta-ai/icon128x128.png",
+  "website": "https://acta.ai/"
+}

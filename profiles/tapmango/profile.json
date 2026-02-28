@@ -1,0 +1,13 @@
+{
+  "id": "tapmango",
+  "title": "TapMango",
+  "subtitle": "The most comprehensive & feature rich customer loyalty & online ordering platform on the market.",
+  "tags": [
+    "customer-experience-service-and-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722457/catalog/tapmango/icon128x128.jpg",
+  "website": "https://tapmango.com"
+}

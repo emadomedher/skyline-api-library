@@ -1,0 +1,13 @@
+{
+  "id": "futuri",
+  "title": "Futuri",
+  "subtitle": "Futuri Media is a leader in SaaS technology offering end-to-end audience engagement and sales tools for radio broadca...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720182/catalog/futuri/icon128x128.png",
+  "website": "https://futurimedia.com"
+}

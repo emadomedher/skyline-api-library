@@ -1,0 +1,13 @@
+{
+  "id": "prosper-by-santander",
+  "title": "Prosper by Santander",
+  "subtitle": "Hvis du er i tvivl om, hvordan du får Prosper, så læs med her. Vi gennemgår, hvordan du får adgang til Santanders nye...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617202627/icons/prosper-by-santander.png",
+  "website": "https://santanderconsumer.dk/magasinet/bedre-oekonomi/hvordan-faar-jeg-prosper/"
+}

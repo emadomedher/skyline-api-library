@@ -1,0 +1,14 @@
+{
+  "id": "deltek",
+  "title": "Deltek",
+  "subtitle": "Better software means better projects. Deltek delivers software and information solutions that enable superior levels...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631758593/icons/deltek.jpg",
+  "website": "https://www.deltek.com/",
+  "docsUrl": "https://help.deltek.com/Product/TalentManagement/Documentation/Developer_Resources_1.html"
+}

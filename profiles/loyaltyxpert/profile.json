@@ -1,0 +1,13 @@
+{
+  "id": "loyaltyxpert",
+  "title": "LoyaltyXpert",
+  "subtitle": "LoyaltyXpert is a SaaS-based loyalty program software in India. We give freedom, control of the loyalty management pl...",
+  "tags": [
+    "loyalty-program"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641269630/icons/loyaltyxpert.jpg",
+  "website": "https://www.loyaltyxpert.com/"
+}

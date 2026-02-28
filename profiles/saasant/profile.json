@@ -1,0 +1,14 @@
+{
+  "id": "saasant",
+  "title": "SaasAnt Infotech",
+  "subtitle": "Saasant brings you the best accounting software for small and medium sized business. Manage your business accounting ...",
+  "tags": [
+    "accounting-transaction-data",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591734125/icons/saasant.jpg",
+  "website": "https://www.saasant.com/"
+}

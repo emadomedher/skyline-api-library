@@ -1,0 +1,14 @@
+{
+  "id": "apiworx",
+  "title": "Apiworx",
+  "subtitle": "Apiworx API integration",
+  "tags": [
+    "ecommerce-integration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231822/icons/apiworx.png",
+  "website": "https://apiworx.com/",
+  "docsUrl": "https://apiworx.com/docs"
+}

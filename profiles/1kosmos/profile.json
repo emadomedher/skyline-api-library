@@ -1,0 +1,15 @@
+{
+  "id": "1kosmos",
+  "title": "1Kosmos BlockID",
+  "subtitle": "Digital identity and passwordless authentication for workforce and customers, powered by advanced biometrics and bloc...",
+  "tags": [
+    "identity",
+    "blockchain"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609900081/icons/1kosmos.jpg",
+  "website": "https://www.1kosmos.com/",
+  "docsUrl": "https://docs.1kosmos.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "odata",
+  "title": "OData",
+  "subtitle": "OData, short for Open Data Protocol, is an open protocol to allow the creation and consumption of queryable and inter...",
+  "tags": [
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604206051/icons/odata.png",
+  "website": "https://www.odata.org/",
+  "docsUrl": "https://www.odata.org/#"
+}

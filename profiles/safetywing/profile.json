@@ -1,0 +1,13 @@
+{
+  "id": "safetywing",
+  "title": "SafetyWing",
+  "subtitle": "Insurance for Nomads, by Nomads. Buy abroad, stay abroad. Simple and flexible, works like a subscription. Age 10-39: ...",
+  "tags": [
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614336/catalog/safetywing/icon128x128.jpg",
+  "website": "https://safetywing.com/"
+}

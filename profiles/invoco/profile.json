@@ -1,0 +1,13 @@
+{
+  "id": "invoco",
+  "title": "Invoco",
+  "subtitle": "Invoco is an easy to use call tracking and hosted telephony platform.",
+  "tags": [
+    "phone-&-sms",
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055984/catalog/invoco/icon128x128.png"
+}

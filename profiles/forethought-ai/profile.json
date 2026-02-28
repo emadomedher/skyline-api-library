@@ -1,0 +1,13 @@
+{
+  "id": "forethought-ai",
+  "title": "Forethought",
+  "subtitle": "Improve your customer experience by using AI to help your agents answer customer questions quicker and more accuratel...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624732842/icons/forethought-ai.jpg",
+  "website": "https://www.forethought.ai/"
+}

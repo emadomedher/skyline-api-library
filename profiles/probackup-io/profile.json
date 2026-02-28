@@ -1,0 +1,13 @@
+{
+  "id": "probackup-io",
+  "title": "Pro Backup",
+  "subtitle": "Pro Backup for work management apps",
+  "tags": [
+    "backup"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471950/icons/probackup-io.jpg",
+  "website": "https://probackup.io/"
+}

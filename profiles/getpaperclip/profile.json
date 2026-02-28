@@ -1,0 +1,13 @@
+{
+  "id": "getpaperclip",
+  "title": "Paperclip",
+  "subtitle": "Paperclip’s easy-to-use software connects to your bank accounts, organizes your accounting records, and provides real...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646844804/icons/getpaperclip.png",
+  "website": "https://www.getpaperclip.com/"
+}

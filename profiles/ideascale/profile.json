@@ -1,0 +1,13 @@
+{
+  "id": "ideascale",
+  "title": "IdeaScale",
+  "subtitle": "IdeaScale is the leading innovation management software platform. We help the government, enterprise, and universitie...",
+  "tags": [
+    "idea-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792173/icons/ideascale.jpg",
+  "website": "https://ideascale.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "forwardai",
+  "title": "ForwardAI",
+  "subtitle": "Fintechs, banks, and lenders can offer better services with ForwardAI. Wield the power of open banking to access or p...",
+  "tags": [
+    "unified-apis",
+    "accounting-data"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641338980/icons/forwardai.png",
+  "website": "https://www.forwardai.com/"
+}

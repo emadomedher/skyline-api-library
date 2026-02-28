@@ -1,0 +1,13 @@
+{
+  "id": "ace-metrix",
+  "title": "Ace Metrix",
+  "subtitle": "Ace Metrix is a technology company that measures the impact of video advertising and provides the tools and insights ...",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432805/catalog/ace-metrix/icon128x128.png",
+  "website": "https://acemetrix.com"
+}

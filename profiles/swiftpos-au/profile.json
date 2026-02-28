@@ -1,0 +1,13 @@
+{
+  "id": "swiftpos-au",
+  "title": "SwiftPOS Pty",
+  "subtitle": "The Best Hospitality POS Systems. Smart & Scalable Point of Sale Software for Clubs, Pubs & Restaurants. 24/7 Local S...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588108002/catalog/swiftpos-au/icon128x128.jpg",
+  "website": "https://www.swiftpos.com.au/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "finanzguide-de",
+  "title": "FinanzGuide",
+  "subtitle": "Alle Konten, Versicherungen, Depots und sonstige Vermögensgegenstände in einer App: Der FinanzGuide bietet die volle ...",
+  "tags": [
+    "personal-finance-management",
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601755960/icons/finanzguide-de.jpg",
+  "website": "https://www.finanzguide.de/"
+}

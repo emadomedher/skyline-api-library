@@ -1,0 +1,14 @@
+{
+  "id": "groundswell-io",
+  "title": "Groundswell",
+  "subtitle": "Groundswell, a new type of modern giving, is a corporate giving platform that decentralizes corporate philanthropy an...",
+  "tags": [
+    "employee-engagement",
+    "philanthropy-as-a-service"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660241589/icons/groundswell-io.png",
+  "website": "https://groundswell.io/"
+}

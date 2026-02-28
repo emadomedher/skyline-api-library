@@ -1,0 +1,14 @@
+{
+  "id": "sapling",
+  "title": "Sapling",
+  "subtitle": "HR onboarding software for new employees. Sapling is a best-of-breed onboarding and HRIS for employee data and offers...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554428045/catalog/sapling/icon128x128.png",
+  "website": "https://www.saplinghr.com/",
+  "docsUrl": "https://api.saplinghr.com/?version=latest"
+}

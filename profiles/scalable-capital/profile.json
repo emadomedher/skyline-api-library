@@ -1,0 +1,14 @@
+{
+  "id": "scalable-capital",
+  "title": "Scalable Capital",
+  "subtitle": "Der Broker mit Trading-Flatrate: Aktien, ETFs & Fonds handeln im kostenlosen Depot. Europas führende digitale Vermöge...",
+  "tags": [
+    "robo-advisors",
+    "wealthtech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595523769/icons/scalable-capital.jpg",
+  "website": "https://scalable.capital/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "trustsphere",
+  "title": "TrustSphere",
+  "subtitle": "TrustSphere is a widely recognized market leader in Relationship Analytics, helping organizations leverage their coll...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946444/catalog/trustsphere/icon128x128.jpg",
+  "website": "https://trustsphere.com"
+}

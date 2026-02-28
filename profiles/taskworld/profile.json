@@ -1,0 +1,13 @@
+{
+  "id": "taskworld",
+  "title": "Taskworld",
+  "subtitle": "Trusted by thousands of teams in over 80 countries to finish work on time, Taskworld packs visual task management, te...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946496/catalog/taskworld/icon128x128.jpg",
+  "website": "https://taskworld.com"
+}

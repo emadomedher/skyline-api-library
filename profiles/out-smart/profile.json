@@ -1,0 +1,13 @@
+{
+  "id": "out-smart",
+  "title": "OutSmart",
+  "subtitle": "OutSmart: ✓Van papieren naar digitale werkbon ✓De makkelijke werkbonnen app ✓Je buitendienst efficiënt ingericht ✓Pro...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572911830/catalog/out-smart/icon128x128.png",
+  "website": "https://out-smart.com/"
+}

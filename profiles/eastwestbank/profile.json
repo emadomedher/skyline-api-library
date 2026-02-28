@@ -1,0 +1,13 @@
+{
+  "id": "eastwestbank",
+  "title": "East West Bank",
+  "subtitle": "East West Bank, the primary subsidiary of East West Bancorp, Inc., is the largest independent bank headquartered in S...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622476393/icons/eastwestbank.jpg",
+  "website": "https://www.eastwestbank.com/"
+}

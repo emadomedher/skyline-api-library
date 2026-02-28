@@ -1,0 +1,13 @@
+{
+  "id": "atrea-nl",
+  "title": "Atrea",
+  "subtitle": "Atrea biedt tijdregistratiesystemen en toegangscontrole voor (middel)grote organisaties die inzicht willen krijgen in...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634905082/icons/atrea-nl.png",
+  "website": "https://www.atrea.nl/"
+}

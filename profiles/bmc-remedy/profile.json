@@ -1,0 +1,13 @@
+{
+  "id": "bmc-remedy",
+  "title": "BMC Remedy",
+  "subtitle": "BMC Remedy API integration",
+  "tags": [
+    "it-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593705329/icons/bmc-remedy.png",
+  "website": "https://www.bmc.com/it-solutions/remedy-itsm.html--categories=IT service management,ITSM"
+}

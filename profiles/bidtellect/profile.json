@@ -1,0 +1,13 @@
+{
+  "id": "bidtellect",
+  "title": "Bidtellect",
+  "subtitle": "Bidtellect API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563059526/catalog/bidtellect/icon128x128.png",
+  "website": "https://bidtellect.com"
+}

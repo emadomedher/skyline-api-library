@@ -1,0 +1,14 @@
+{
+  "id": "creditsafe",
+  "title": "Creditsafe",
+  "subtitle": "Creditsafe API integration",
+  "tags": [
+    "credit-reports"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641096115/icons/creditsafe.jpg",
+  "website": "https://www.creditsafe.com/",
+  "docsUrl": "https://www.creditsafe.com/gb/en/enterprise/integrations/api-documentation.html"
+}

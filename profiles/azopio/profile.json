@@ -1,0 +1,13 @@
+{
+  "id": "azopio",
+  "title": "Azopio",
+  "subtitle": "Azopio automatically retrieves and sorts your documents. Extracts key data from your bills, receipts and bank stateme...",
+  "tags": [
+    "invoice-collection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796507/catalog/azopio/icon128x128.jpg",
+  "website": "https://www.azopio.com/"
+}

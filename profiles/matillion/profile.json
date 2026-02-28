@@ -1,0 +1,13 @@
+{
+  "id": "matillion",
+  "title": "Matillion",
+  "subtitle": "Matillion delivers technology that helps companies exploit their data in the Cloud: makers of Matillion ETL for Amazo...",
+  "tags": [
+    "etl"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435870/catalog/matillion/icon128x128.png",
+  "website": "https://matillion.com"
+}

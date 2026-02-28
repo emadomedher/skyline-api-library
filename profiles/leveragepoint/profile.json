@@ -1,0 +1,13 @@
+{
+  "id": "leveragepoint",
+  "title": "LeveragePoint",
+  "subtitle": "Value Propositions provide key reasons why customers should buy, and quantified estimates of that worth, giving sales...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720821/catalog/leveragepoint/icon128x128.jpg",
+  "website": "https://leveragepoint.com"
+}

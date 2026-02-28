@@ -1,0 +1,16 @@
+{
+  "id": "tryterra-co",
+  "title": "Terra",
+  "subtitle": "Terra API integration",
+  "tags": [
+    "fitness-data",
+    "wereables",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632273577/icons/tryterra-co.jpg",
+  "website": "https://tryterra.co/",
+  "docsUrl": "https://tryterra.co/docs"
+}

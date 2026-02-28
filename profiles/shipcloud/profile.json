@@ -1,0 +1,13 @@
+{
+  "id": "shipcloud",
+  "title": "shipcloud",
+  "subtitle": "Shipcloud is a shipping service provider for creating shipping labels as well as tracking shipments.",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306071/catalog/shipcloud/icon128x128.png",
+  "website": "https://www.shipcloud.io/"
+}

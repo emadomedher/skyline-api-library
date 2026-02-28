@@ -1,0 +1,14 @@
+{
+  "id": "table2site",
+  "title": "Table2site",
+  "subtitle": "Convert your airtable base to websites with ease.",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578585687/catalog/table2site/icon128x128.png",
+  "website": "https://table2site.com/",
+  "docsUrl": "https://table2site.com/documentation"
+}

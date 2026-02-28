@@ -1,0 +1,13 @@
+{
+  "id": "sourcewhale",
+  "title": "SourceWhale",
+  "subtitle": "SourceWhale is the only platform recruiting teams need to execute their daily recruiting activities, find pipeline in...",
+  "tags": [
+    "recruiting-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658250564/icons/sourcewhale.png",
+  "website": "https://sourcewhale.com/"
+}

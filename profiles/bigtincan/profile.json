@@ -1,0 +1,15 @@
+{
+  "id": "bigtincan",
+  "title": "Bigtincan",
+  "subtitle": "Bigtincan is the leader in sales enablement software. Our automative platform provides a better marketing experience ...",
+  "tags": [
+    "channel-learning-and-readiness",
+    "sales-automation-enablement-and-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825886/catalog/bigtincan/icon128x128.jpg",
+  "website": "https://bigtincan.com",
+  "docsUrl": "https://help.bigtincan.com/help/bigtincan-public-api-documentation"
+}

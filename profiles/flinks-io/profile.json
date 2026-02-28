@@ -1,0 +1,15 @@
+{
+  "id": "flinks-io",
+  "title": "Flinks",
+  "subtitle": "Flinks is paving the way for the future of finance. Connect users and their banking data in your app to get valuable ...",
+  "tags": [
+    "open-banking-api-aggregators",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587750131/catalog/flinks-io/icon128x128.jpg",
+  "website": "https://flinks.io/",
+  "docsUrl": "https://docs.flinks.io/docs"
+}

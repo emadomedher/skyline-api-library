@@ -1,0 +1,14 @@
+{
+  "id": "sagepeople",
+  "title": "Sage People",
+  "subtitle": "Sage People, the global cloud HR and People system. Are you ready to become a People Company?",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589928294/catalog/sagepeople/icon128x128.jpg",
+  "website": "https://www.sagepeople.com/",
+  "docsUrl": "https://developer.sage.com/api/people/"
+}

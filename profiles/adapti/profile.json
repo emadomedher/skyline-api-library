@@ -1,0 +1,13 @@
+{
+  "id": "adapti",
+  "title": "Adapti",
+  "subtitle": "Adapti API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717119/catalog/adapti/icon128x128.jpg",
+  "website": "https://adapti.me"
+}

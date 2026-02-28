@@ -1,0 +1,13 @@
+{
+  "id": "zoho-mail",
+  "title": "Zoho Mail",
+  "subtitle": "Zoho Mail is a collaborative business communication platform for the modern workforce. It is a blend of classic email...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306612/catalog/zoho-mail/icon128x128.png",
+  "website": "https://www.zoho.com/mail/"
+}

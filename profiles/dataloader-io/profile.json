@@ -1,0 +1,13 @@
+{
+  "id": "dataloader-io",
+  "title": "Dataloader Io",
+  "subtitle": "Dataloader Io API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434113/catalog/dataloader-io/icon128x128.png",
+  "website": "https://dataloader.io"
+}

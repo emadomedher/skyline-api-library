@@ -1,0 +1,14 @@
+{
+  "id": "phocassoftware",
+  "title": "Phocas Software",
+  "subtitle": "Data Analytics, Financial Reporting, Planning, Budgeting and Forecasting. All together. In one tool. Easy to use for ...",
+  "tags": [
+    "financial-reporting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885624/icons/phocassoftware.jpg",
+  "website": "https://www.phocassoftware.com/",
+  "docsUrl": "https://helpphocassoftware.atlassian.net/wiki/spaces/userdoc/overview"
+}

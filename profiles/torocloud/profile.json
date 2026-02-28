@@ -1,0 +1,14 @@
+{
+  "id": "torocloud",
+  "title": "TORO Cloud",
+  "subtitle": "TORO Cloud enables digital transformation with Martini, a modern low-code platform for API management, application in...",
+  "tags": [
+    "low-code",
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595551111/icons/torocloud.jpg",
+  "website": "https://www.torocloud.com/"
+}

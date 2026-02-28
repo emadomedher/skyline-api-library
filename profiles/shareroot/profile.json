@@ -1,0 +1,13 @@
+{
+  "id": "shareroot",
+  "title": "Shareroot",
+  "subtitle": "ShareRoot provides brands with a full suite of visual social media campaigns with a robust UGC legal rights managemen...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827563/catalog/shareroot/icon128x128.jpg",
+  "website": "https://shareroot.co"
+}

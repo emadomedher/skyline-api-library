@@ -1,0 +1,13 @@
+{
+  "id": "aimbase",
+  "title": "Aimbase",
+  "subtitle": "AVALA Marketing Group helps brands selling high consideration goods and services through dealer networks, drive more ...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947295/catalog/aimbase/icon128x128.jpg",
+  "website": "https://aimbase.com"
+}

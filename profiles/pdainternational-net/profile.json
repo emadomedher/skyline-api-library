@@ -1,0 +1,13 @@
+{
+  "id": "pdainternational-net",
+  "title": "PDA International",
+  "subtitle": "PDA International API integration",
+  "tags": [
+    "talent-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642409772/icons/pdainternational-net.png",
+  "website": "https://pdainternational.net/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "vipps-no",
+  "title": "Vipps",
+  "subtitle": "Betaling, identifisering og signering. Vipps - laget i Norge med kjærlighet for forenkling",
+  "tags": [
+    "mobile-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604704854/icons/vipps-no.jpg",
+  "website": "https://www.vipps.no/",
+  "docsUrl": "https://www.vipps.no/developer"
+}

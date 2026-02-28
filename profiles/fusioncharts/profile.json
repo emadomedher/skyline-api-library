@@ -1,0 +1,13 @@
+{
+  "id": "fusioncharts",
+  "title": "FusionCharts",
+  "subtitle": "JavaScript charts for web and mobile apps. 95+ chart types, 1400+ maps and 20+ business dashboards with pre-built the...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720178/catalog/fusioncharts/icon128x128.jpg",
+  "website": "https://fusioncharts.com"
+}

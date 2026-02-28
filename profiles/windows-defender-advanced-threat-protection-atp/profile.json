@@ -1,0 +1,12 @@
+{
+  "id": "windows-defender-advanced-threat-protection-atp",
+  "title": "Windows Defender Advanced Threat Protection (ATP)",
+  "subtitle": "Windows Defender Advanced Threat Protection (ATP) is a unified platform for preventative protection, post-breach dete...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264853/catalog/windows-defender-advanced-threat-protection-atp/icon128x128.png"
+}

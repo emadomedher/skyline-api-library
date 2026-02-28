@@ -1,0 +1,13 @@
+{
+  "id": "treatwell",
+  "title": "Treatwell",
+  "subtitle": "Welcome to Treatwell, the first name in beauty bookings. Browse over 3,000 spas and salons,\n                        r...",
+  "tags": [
+    "salon"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649112353/icons/treatwell.png",
+  "website": "https://www.treatwell.nl/en/"
+}

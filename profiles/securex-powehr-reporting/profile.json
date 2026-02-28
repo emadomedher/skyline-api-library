@@ -1,0 +1,15 @@
+{
+  "id": "securex-powehr-reporting",
+  "title": "Securex PoweHR Reporting",
+  "subtitle": "HR-rapporten maken? HR-data met elkaar linken en vergelijken? Al uw HR-data op 1 plaats? Ontdek poweHR reporting, een...",
+  "tags": [
+    "payroll",
+    "hr",
+    "reporting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602243817/icons/securex-powehr-reporting.jpg",
+  "website": "https://www.securex.be/nl/personeelsbeheer/powehr-reporting"
+}

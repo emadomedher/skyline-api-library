@@ -1,0 +1,14 @@
+{
+  "id": "clearcover",
+  "title": "Clearcover",
+  "subtitle": "Clearcover is the smarter auto insurance company. Spend less for better coverage. Get your car insurance quote today!",
+  "tags": [
+    "car-insurance",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578152859/catalog/clearcover/icon128x128.png",
+  "website": "https://clearcover.com/"
+}

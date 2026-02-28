@@ -1,0 +1,15 @@
+{
+  "id": "strongdm",
+  "title": "strongDM",
+  "subtitle": "Manage access to any server, database, or Kubernetes instance in minutes. Fully auditable, replayable, secure, and dr...",
+  "tags": [
+    "security",
+    "database-access"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605576373/icons/strongdm.jpg",
+  "website": "https://www.strongdm.com/",
+  "docsUrl": "https://www.strongdm.com/docs"
+}

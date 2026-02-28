@@ -1,0 +1,14 @@
+{
+  "id": "socialanimal",
+  "title": "SocialAnimal",
+  "subtitle": "Social Animal is a Content Marketing Tool to find Trending content, Influencers & Generate ideas. Helps Create strate...",
+  "tags": [
+    "social-media-marketing-and-monitoring",
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556772335/catalog/socialanimal/icon128x128.png",
+  "website": "https://socialanimal.io"
+}

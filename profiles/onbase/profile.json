@@ -1,0 +1,13 @@
+{
+  "id": "onbase",
+  "title": "OnBase",
+  "subtitle": "OnBase is a single enterprise information platform for managing content, processes and cases, uniting all your critic...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946760/catalog/onbase/icon128x128.png",
+  "website": "https://onbase.com"
+}

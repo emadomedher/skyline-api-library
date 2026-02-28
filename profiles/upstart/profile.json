@@ -1,0 +1,13 @@
+{
+  "id": "upstart",
+  "title": "Upstart",
+  "subtitle": "Upstart API integration",
+  "tags": [
+    "lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611731827/icons/upstart.jpg",
+  "website": "https://www.upstart.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cardboard",
+  "title": "Cardboard",
+  "subtitle": "User Story Mapping made simple. If Google Docs and Post-It Notes had a kid, it would be CardBoard It! Remote collabor...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719366/catalog/cardboard/icon128x128.jpg",
+  "website": "https://cardboardit.com"
+}

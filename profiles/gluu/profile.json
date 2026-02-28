@@ -1,0 +1,13 @@
+{
+  "id": "gluu",
+  "title": "Gluu",
+  "subtitle": "Simple Business Process Management Software that lets you involve your organisation in creating and executing process...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720252/catalog/gluu/icon128x128.png",
+  "website": "https://gluu.biz"
+}

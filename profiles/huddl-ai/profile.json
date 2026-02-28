@@ -1,0 +1,14 @@
+{
+  "id": "huddl-ai",
+  "title": "huddl.ai",
+  "subtitle": "Get more done with your remote teams, online meetings, conference and more",
+  "tags": [
+    "virtual-meetings",
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595438334/icons/huddl-ai.png",
+  "website": "https://www.huddl.ai/"
+}

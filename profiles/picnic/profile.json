@@ -1,0 +1,13 @@
+{
+  "id": "picnic",
+  "title": "Picnic",
+  "subtitle": "Pug Pharm's Picnic - enterprise level community engagement and gamification platform. Platform for solutions includin...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436454/catalog/picnic/icon128x128.png",
+  "website": "https://picnicengine.com"
+}

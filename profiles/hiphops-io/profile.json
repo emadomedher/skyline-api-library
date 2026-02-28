@@ -1,0 +1,14 @@
+{
+  "id": "hiphops-io",
+  "title": "Hiphops",
+  "subtitle": "Hiphops is an automated release management platform. Automatically coordinate manual approvals in github and understa...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652051866/icons/hiphops-io.jpg",
+  "website": "https://www.hiphops.io/",
+  "docsUrl": "https://docs.hiphops.io"
+}

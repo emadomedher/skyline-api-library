@@ -1,0 +1,12 @@
+{
+  "id": "vcd-it-groep",
+  "title": "VCD IT Groep",
+  "subtitle": "VCD levert software, consultancy, infrastructuur en beheer aan bedrijven werkzaam in uiteenlopende branches.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256983/catalog/vcd-it-groep/icon128x128.jpg"
+}

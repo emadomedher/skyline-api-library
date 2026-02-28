@@ -1,0 +1,14 @@
+{
+  "id": "kusk-kubeshop-io",
+  "title": "Kusk",
+  "subtitle": "Kusk-gateway: open API-first kubernetes API gateway",
+  "tags": [
+    "api-gateways",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660602975/icons/kusk-kubeshop-io.jpg",
+  "website": "https://kusk.kubeshop.io/"
+}

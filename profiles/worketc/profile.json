@@ -1,0 +1,13 @@
+{
+  "id": "worketc",
+  "title": "Worketc",
+  "subtitle": "Worketc API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961924/catalog/worketc/icon128x128.png",
+  "website": "https://worketc.com"
+}

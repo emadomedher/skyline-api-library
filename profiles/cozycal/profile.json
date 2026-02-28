@@ -1,0 +1,12 @@
+{
+  "id": "cozycal",
+  "title": "CozyCal",
+  "subtitle": "CozyCal is a friendly appointment scheduling service that easily integrates with your website.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284486/catalog/cozycal/icon128x128.png"
+}

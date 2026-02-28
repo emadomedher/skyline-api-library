@@ -1,0 +1,14 @@
+{
+  "id": "appmaster-io",
+  "title": "AppMaster.io",
+  "subtitle": "AppMaster is a no-code platform designed to help businesses create production-level applications with source code gen...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647089148/icons/appmaster-io.jpg",
+  "website": "https://appmaster.io/",
+  "docsUrl": "https://docs.appmaster.io/docs"
+}

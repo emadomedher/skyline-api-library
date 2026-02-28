@@ -1,0 +1,13 @@
+{
+  "id": "beepsend",
+  "title": "Beepsend",
+  "subtitle": "Beepsend SMS is an easy and reliable tool to integrate SMS with your business applications. Beepsend's SMS services l...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304483/catalog/beepsend/icon128x128.png",
+  "website": "https://www.beepsend.com/"
+}

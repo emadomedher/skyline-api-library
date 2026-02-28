@@ -1,0 +1,13 @@
+{
+  "id": "social-chorus",
+  "title": "Social Chorus",
+  "subtitle": "SocialChorus is one place to plan, create, publish, and measure employee communications. A simple, powerful, branded ...",
+  "tags": [
+    "advocacy-loyalty-and-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722179/catalog/social-chorus/icon128x128.jpg",
+  "website": "https://socialchorus.com"
+}

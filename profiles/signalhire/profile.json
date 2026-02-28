@@ -1,0 +1,13 @@
+{
+  "id": "signalhire",
+  "title": "SignalHire",
+  "subtitle": "Use SignalHire email & phone number finder for your recruitment, sales or marketing needs. Our software helps you con...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635691249/icons/signalhire.png",
+  "website": "https://www.signalhire.com/"
+}

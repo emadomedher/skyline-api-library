@@ -1,0 +1,13 @@
+{
+  "id": "recko-io",
+  "title": "Recko",
+  "subtitle": "The Finance Operations Platform for fast growing Internet Companies",
+  "tags": [
+    "finance-operations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644171682/icons/recko-io.jpg",
+  "website": "https://www.recko.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "social-board",
+  "title": "Social Board",
+  "subtitle": "The world's simplest social media hashtag aggregator. Collect images and videos from Instagram, Facebook, Twitter, an...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827658/catalog/social-board/icon128x128.jpg",
+  "website": "https://thesocialboard.com"
+}

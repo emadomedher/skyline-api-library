@@ -1,0 +1,13 @@
+{
+  "id": "sitejet-io",
+  "title": "Sitejet",
+  "subtitle": "Easily collaborate with your team and customers to build, manage, and launch websites.",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567510947/catalog/sitejet-io/icon128x128.png",
+  "website": "https://www.sitejet.io/"
+}

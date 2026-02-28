@@ -1,0 +1,13 @@
+{
+  "id": "arpedio",
+  "title": "Arpedio",
+  "subtitle": "ARPEDIO offers sales enablement software for Salesforce and Salesforce consultents",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964281/catalog/arpedio/icon128x128.png",
+  "website": "https://arpedio.com"
+}

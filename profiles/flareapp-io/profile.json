@@ -1,0 +1,15 @@
+{
+  "id": "flareapp-io",
+  "title": "Flare",
+  "subtitle": "Flare is the error tracker for every Laravel environment. We focus on the solution so you can continue with serious d...",
+  "tags": [
+    "bug-tracking",
+    "laravel"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567437370/catalog/flareapp-io/icon128x128.jpg",
+  "website": "https://flareapp.io",
+  "docsUrl": "https://flareapp.io/docs"
+}

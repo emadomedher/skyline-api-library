@@ -1,0 +1,14 @@
+{
+  "id": "emoneyadvisor",
+  "title": "eMoney Advisor",
+  "subtitle": "Leading wealth management and financial planning software for advisors, firms, and enterprises. Support your business...",
+  "tags": [
+    "wealth-management",
+    "financial-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573360775/catalog/emoneyadvisor/icon128x128.png",
+  "website": "https://emoneyadvisor.com/"
+}

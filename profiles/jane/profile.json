@@ -1,0 +1,14 @@
+{
+  "id": "jane",
+  "title": "Jane",
+  "subtitle": "Your favorite daily deal site offering the latest trends in fashion and home decor. With 400+ deals a day up to 65% o...",
+  "tags": [
+    "marketplaces",
+    "fashion"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589570007/catalog/jane/icon128x128.jpg",
+  "website": "https://jane.com/"
+}

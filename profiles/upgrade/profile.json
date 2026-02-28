@@ -1,0 +1,15 @@
+{
+  "id": "upgrade",
+  "title": "Upgrade",
+  "subtitle": "Check your rate for a low fixed-rate personal loan in just minutes. Borrow up to $50,000 with no prepayment penalties...",
+  "tags": [
+    "lending",
+    "fintech",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565520329/catalog/upgrade/icon128x128.png",
+  "website": "https://www.upgrade.com/"
+}

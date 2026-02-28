@@ -1,0 +1,16 @@
+{
+  "id": "datahawk-co",
+  "title": "DataHawk",
+  "subtitle": "DataHawk Software Platform is a Set of Amazon Analytics Tools for Sellers and Vendors.",
+  "tags": [
+    "e-commerce",
+    "amazon",
+    "seo"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570098621/catalog/datahawk-co/icon128x128.png",
+  "website": "https://datahawk.co/",
+  "docsUrl": "https://help.datahawk.co/getting-started-with-datahawk/data-export/how-to-use-the-datahawk-api"
+}

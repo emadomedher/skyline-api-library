@@ -1,0 +1,14 @@
+{
+  "id": "daily-co",
+  "title": "Daily.co",
+  "subtitle": "Add and embed 1-click video chat to any site or app in minutes. We have more features so developers rapidly build cus...",
+  "tags": [
+    "video-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311408/catalog/daily-co/icon128x128.jpg",
+  "website": "https://www.daily.co/",
+  "docsUrl": "https://docs.daily.co/docs/hipaa"
+}

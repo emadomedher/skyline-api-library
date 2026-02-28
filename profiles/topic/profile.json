@@ -1,0 +1,13 @@
+{
+  "id": "topic",
+  "title": "Topic",
+  "subtitle": "The Best TV + Movies From Around the Globe. Award winners, festival and audience favorites from up-and-coming creator...",
+  "tags": [
+    "video-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621109270/icons/topic.png",
+  "website": "https://www.topic.com/"
+}

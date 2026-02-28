@@ -1,0 +1,13 @@
+{
+  "id": "tylio",
+  "title": "Tylio",
+  "subtitle": "Tylio API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722610/catalog/tylio/icon128x128.png",
+  "website": "https://tylio.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "albato",
+  "title": "Albato",
+  "subtitle": "Automate your workflow by integrating the apps you use every day. No-code integration platform with 500+ available ap...",
+  "tags": [
+    "no-code",
+    "ipaas"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688560646/icons/albato.png",
+  "website": "https://albato.com/",
+  "docsUrl": "https://albato.com/link"
+}

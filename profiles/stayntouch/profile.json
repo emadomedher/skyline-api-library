@@ -1,0 +1,15 @@
+{
+  "id": "stayntouch",
+  "title": "StayNTouch",
+  "subtitle": "Run your hotel from anywhere, on any device. Take your hotel to greater heights with a new hotel property management ...",
+  "tags": [
+    "property-management-software",
+    "hospitality",
+    "hotel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565613976/catalog/stayntouch/icon128x128.jpg",
+  "website": "https://www.stayntouch.com/"
+}

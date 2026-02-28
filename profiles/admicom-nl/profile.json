@@ -1,0 +1,13 @@
+{
+  "id": "admicom-nl",
+  "title": "Admicom Systems BV",
+  "subtitle": "Admicom is specialist in bouwsoftware. 10.000 gebruikers. ERP-software afgestemd op eisen van bouw, aannemers, schild...",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583910864/catalog/admicom-nl/icon128x128.jpg",
+  "website": "https://www.admicom.nl/"
+}

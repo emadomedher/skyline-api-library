@@ -1,0 +1,13 @@
+{
+  "id": "trekksoft",
+  "title": "TrekkSoft",
+  "subtitle": "TrekkSoft is a booking platform that allows you to receive and manage bookings and payments for your activity or tour...",
+  "tags": [
+    "management-tools",
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284639/catalog/trekksoft/icon128x128.png"
+}

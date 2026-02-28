@@ -1,0 +1,12 @@
+{
+  "id": "campaign-1to1",
+  "title": "Campaign1to1",
+  "subtitle": "gotomaxx Campaign1to1 offers automation of marketing campaigns with postal letters.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304560/catalog/campaign-1to1/icon128x128.png"
+}

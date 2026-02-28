@@ -1,0 +1,17 @@
+{
+  "id": "amazon-mws",
+  "title": "Amazon MWS",
+  "subtitle": "Amazon Marketplace Web Service (Amazon MWS) is an integrated web service API that helps Amazon sellers to programmati...",
+  "tags": [
+    "e",
+    "c",
+    "o",
+    "m",
+    "r"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599635091/icons/amazon-mws.svg",
+  "website": "https://developer.amazonservices.com/"
+}

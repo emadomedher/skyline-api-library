@@ -1,0 +1,13 @@
+{
+  "id": "comidor",
+  "title": "Comidor",
+  "subtitle": "Comibine the power of Low-Code BPM Platform to develop,run,automate and transform your business.Gain digital transfor...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719531/catalog/comidor/icon128x128.jpg",
+  "website": "https://comidor.com"
+}

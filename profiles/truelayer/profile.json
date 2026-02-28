@@ -1,0 +1,16 @@
+{
+  "id": "truelayer",
+  "title": "TrueLayer",
+  "subtitle": "Secure, reliable and easy access to banking infrastructure. A complete toolkit for you to build modern financial appl...",
+  "tags": [
+    "api-aggregators",
+    "banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591169579/icons/truelayer.jpg",
+  "website": "https://truelayer.com/",
+  "docsUrl": "https://docs.truelayer.com"
+}

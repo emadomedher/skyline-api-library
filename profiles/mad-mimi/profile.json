@@ -1,0 +1,13 @@
+{
+  "id": "mad-mimi",
+  "title": "Mad Mimi",
+  "subtitle": "Mad Mimi is the easiest and simplest way to create, send, share and track email newsletters.",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305334/catalog/mad-mimi/icon128x128.png",
+  "website": "https://madmimi.com/"
+}

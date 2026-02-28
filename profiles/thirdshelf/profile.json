@@ -1,0 +1,13 @@
+{
+  "id": "thirdshelf",
+  "title": "ThirdShelf",
+  "subtitle": "ThirdShelf API integration",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962126/catalog/thirdshelf/icon128x128.png",
+  "website": "https://thirdshelf.com"
+}

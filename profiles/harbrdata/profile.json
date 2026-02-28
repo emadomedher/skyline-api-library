@@ -1,0 +1,14 @@
+{
+  "id": "harbrdata",
+  "title": "HarbrData",
+  "subtitle": "The Harbr Data platform eliminates barriers to external collaboration, so \nthat every company can reveal, build and m...",
+  "tags": [
+    "data",
+    "data-marketplace"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982431/catalog/harbrdata/icon128x128.png",
+  "website": "https://harbrdata.com"
+}

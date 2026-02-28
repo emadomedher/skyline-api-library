@@ -1,0 +1,13 @@
+{
+  "id": "avatao",
+  "title": "Avatao",
+  "subtitle": "Avatao offers hands-on, job-relevant security training exercises that enable developers to learn new skills and pract...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567128399/catalog/avatao/icon128x128.png",
+  "website": "https://avatao.com"
+}

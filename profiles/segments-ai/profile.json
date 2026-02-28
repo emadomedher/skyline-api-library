@@ -1,0 +1,14 @@
+{
+  "id": "segments-ai",
+  "title": "Segments.ai",
+  "subtitle": "The platform for computer vision engineers and labeling teams to iterate between data labeling, model training and fa...",
+  "tags": [
+    "data-labeling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616597347/icons/segments-ai.jpg",
+  "website": "https://segments.ai/",
+  "docsUrl": "https://docs.segments.ai"
+}

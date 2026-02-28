@@ -1,0 +1,14 @@
+{
+  "id": "kaggle",
+  "title": "Kaggle",
+  "subtitle": "Kaggle is the world’s largest data science community with powerful tools and resources to help you achieve your data ...",
+  "tags": [
+    "customer-intelligence-and-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435334/catalog/kaggle/icon128x128.png",
+  "website": "https://kaggle.com",
+  "docsUrl": "https://www.kaggle.com/docs"
+}

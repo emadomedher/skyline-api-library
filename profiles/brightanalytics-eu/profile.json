@@ -1,0 +1,14 @@
+{
+  "id": "brightanalytics-eu",
+  "title": "BrightAnalytics",
+  "subtitle": "Discover BrightAnalytics, the Corporate Performance Management platform for the consolidated management reporting of ...",
+  "tags": [
+    "business-intelligence"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570202371/catalog/brightanalytics-eu/icon128x128.jpg",
+  "website": "https://www.brightanalytics.eu/",
+  "docsUrl": "https://www.brightanalytics.eu/en/references"
+}

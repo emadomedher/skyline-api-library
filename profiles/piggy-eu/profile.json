@@ -1,0 +1,14 @@
+{
+  "id": "piggy-eu",
+  "title": "Piggy",
+  "subtitle": "Want to start your own successful loyalty and reward program? Piggy is the easiest loyalty and rewards platform in Eu...",
+  "tags": [
+    "loyalty"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637880434/icons/piggy-eu.jpg",
+  "website": "https://www.piggy.eu/",
+  "docsUrl": "https://docs.piggy.eu"
+}

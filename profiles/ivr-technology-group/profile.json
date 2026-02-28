@@ -1,0 +1,13 @@
+{
+  "id": "ivr-technology-group",
+  "title": "IVR Technology Group",
+  "subtitle": "IVR Technology Group API integration",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720584/catalog/ivr-technology-group/icon128x128.jpg",
+  "website": "https://ivrtechgroup.com/solutions/call-tracking"
+}

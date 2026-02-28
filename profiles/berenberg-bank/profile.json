@@ -1,0 +1,14 @@
+{
+  "id": "berenberg-bank",
+  "title": "Berenberg Bank",
+  "subtitle": "Joh. Berenberg, Gossler & Co. KG, commonly known as Berenberg Bank and also branded as simply Berenberg, is a Hamburg...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610365789/icons/berenberg-bank.png",
+  "website": "https://www.berenberg.de/en/",
+  "docsUrl": "https://developer-portal.berenberg.de"
+}

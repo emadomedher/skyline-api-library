@@ -1,0 +1,13 @@
+{
+  "id": "fundthrough",
+  "title": "FundThrough",
+  "subtitle": "Businesses in the U.S. & Canada can get paid in a day by advancing funds from unpaid invoices with online invoice fin...",
+  "tags": [
+    "invoice-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642281623/icons/fundthrough.png",
+  "website": "https://www.fundthrough.com/"
+}

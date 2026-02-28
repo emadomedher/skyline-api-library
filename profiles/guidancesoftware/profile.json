@@ -1,0 +1,14 @@
+{
+  "id": "guidancesoftware",
+  "title": "Guidance Software",
+  "subtitle": "Guidance Software, now OpenText, is the maker of EnCase®, the gold standard in forensic security. Guidance Software p...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249002/icons/guidancesoftware.jpg",
+  "website": "https://guidancesoftware.com",
+  "docsUrl": "https://www.guidancesoftware.com/docs/default-source/document-library/product-brief/14705-sp--media-analyzer-data-sheet-final.pdf"
+}

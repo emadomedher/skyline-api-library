@@ -1,0 +1,14 @@
+{
+  "id": "onehash-ai",
+  "title": "OneHash",
+  "subtitle": "OneHash API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625942399/icons/onehash-ai.jpg",
+  "website": "https://onehash.ai/",
+  "docsUrl": "http://help.onehash.ai"
+}

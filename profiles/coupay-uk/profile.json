@@ -1,0 +1,14 @@
+{
+  "id": "coupay-uk",
+  "title": "Coupay",
+  "subtitle": "Coupay makes bank transfer smarter. Your customers can now make a bank transfer in just a few clicks and there is no ...",
+  "tags": [
+    "payments",
+    "invoice-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617283013/icons/coupay-uk.png",
+  "website": "https://coupay.co.uk/"
+}

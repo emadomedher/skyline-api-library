@@ -1,0 +1,13 @@
+{
+  "id": "caseware-auditcase",
+  "title": "AuditCase",
+  "subtitle": "Met de accountancy software van CaseWare werk je efficiënt, foutloos en eenvoudig. Ons totaalpakket biedt jou alles w...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192470/icons/caseware-auditcase.jpg",
+  "website": "https://www.caseware.nl/oplossingen/accountancy-software"
+}

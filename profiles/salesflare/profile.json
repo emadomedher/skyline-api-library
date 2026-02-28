@@ -1,0 +1,14 @@
+{
+  "id": "salesflare",
+  "title": "Salesflare",
+  "subtitle": "Try Salesflare, the #1 simple CRM for small businesses selling B2B. Integrate with Google & Outlook. Be fully mobile....",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/icons/salesflare",
+  "website": "https://salesflare.com",
+  "docsUrl": "https://api.salesflare.com/docs"
+}

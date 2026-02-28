@@ -1,0 +1,14 @@
+{
+  "id": "weav-co",
+  "title": "Weav",
+  "subtitle": "Weav enables financial institutions and fintech companies to connect with commerce platforms.",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619670202/icons/weav-co.png",
+  "website": "https://www.weav.co/",
+  "docsUrl": "https://docs.weav.co"
+}

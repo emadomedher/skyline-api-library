@@ -1,0 +1,15 @@
+{
+  "id": "bricsys",
+  "title": "Bricsys",
+  "subtitle": "Bricsys makes innovative CAD software for 2D drafting, 3D modeling, BIM and mechanical design - all in one, and all i...",
+  "tags": [
+    "building-information-modeling",
+    "cad"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575427455/catalog/bricsys/icon128x128.png",
+  "website": "https://www.bricsys.com/",
+  "docsUrl": "https://www.bricsys.com/developer"
+}

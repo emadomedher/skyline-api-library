@@ -1,0 +1,15 @@
+{
+  "id": "bitpay",
+  "title": "BitPay",
+  "subtitle": "Start accepting bitcoin today. Or spend & store bitcoin with the BitPay Card and Wallet.",
+  "tags": [
+    "challenger-banks",
+    "crypto-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605533753/icons/bitpay.jpg",
+  "website": "https://bitpay.com/",
+  "docsUrl": "https://bitpay.com/docs"
+}

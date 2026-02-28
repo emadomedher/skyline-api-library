@@ -1,0 +1,13 @@
+{
+  "id": "ts-platform",
+  "title": "TS Platform",
+  "subtitle": "TargetingS is automated platform for social content aggregation, management and optimization",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722586/catalog/ts-platform/icon128x128.png",
+  "website": "https://targetings.com"
+}

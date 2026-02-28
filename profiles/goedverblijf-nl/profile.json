@@ -1,0 +1,14 @@
+{
+  "id": "goedverblijf-nl",
+  "title": "Goedverblijf.nl",
+  "subtitle": "Hotels en hotelarrangementen in de leukste hotels in Nederland, België en Duitsland. Boek hier snel en voordelig uw h...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448039/icons/goedverblijf-nl.jpg",
+  "website": "https://goedverblijf.nl/"
+}

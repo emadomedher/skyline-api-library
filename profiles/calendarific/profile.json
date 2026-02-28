@@ -1,0 +1,15 @@
+{
+  "id": "calendarific",
+  "title": "Calendarific",
+  "subtitle": "Calendarific is a global event intelligence platform and a developer-friendly worldwide holiday API covering public, ...",
+  "tags": [
+    "data-api",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582535403/catalog/calendarific/icon128x128.jpg",
+  "website": "https://calendarific.com/",
+  "docsUrl": "https://calendarific.com/api-documentation"
+}

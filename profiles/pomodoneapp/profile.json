@@ -1,0 +1,13 @@
+{
+  "id": "pomodoneapp",
+  "title": "PomoDoneApp",
+  "subtitle": "Pomodone app enhances your task management by using the Pomodoro technique to boost your efficiency with controlled c...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305716/catalog/pomodoneapp/icon128x128.png",
+  "website": "https://pomodoneapp.com/"
+}

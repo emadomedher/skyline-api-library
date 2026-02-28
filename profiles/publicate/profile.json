@@ -1,0 +1,13 @@
+{
+  "id": "publicate",
+  "title": "Publicate",
+  "subtitle": "FACT: Email has the highest ROI of any marketing channel. Easily create newsletters that get results. Works with Gmai...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436672/catalog/publicate/icon128x128.png",
+  "website": "https://publicate.it"
+}

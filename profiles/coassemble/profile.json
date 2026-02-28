@@ -1,0 +1,14 @@
+{
+  "id": "coassemble",
+  "title": "Coassemble",
+  "subtitle": "Create and deliver beautiful online training with a platform trusted by entrepreneurs, businesses and training organi...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284479/catalog/coassemble/icon128x128.png",
+  "website": "https://coassemble.com/",
+  "docsUrl": "https://help.coassemble.com/en/articles/3667517-using-the-coassemble-api"
+}

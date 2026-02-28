@@ -1,0 +1,13 @@
+{
+  "id": "vaulthealth",
+  "title": "Vault",
+  "subtitle": "We make better health outcomes more accessible for everyone by bringing remote diagnostics and specialty care to pati...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645518372/icons/vaulthealth.jpg",
+  "website": "https://www.vaulthealth.com/"
+}

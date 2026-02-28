@@ -1,0 +1,13 @@
+{
+  "id": "stride",
+  "title": "Stride",
+  "subtitle": "Stride is a team messaging tool that offers direct messaging, video meetings, voice calls, and screen-sharing features.",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056497/catalog/stride/icon128x128.png",
+  "website": "https://www.stride.com/"
+}

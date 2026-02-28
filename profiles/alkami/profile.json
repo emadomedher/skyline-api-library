@@ -1,0 +1,13 @@
+{
+  "id": "alkami",
+  "title": "Alkami",
+  "subtitle": "The Alkami Digital Banking Platform enables banks and credit unions to grow confidently and compete with Megabanks an...",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644983657/icons/alkami.png",
+  "website": "https://www.alkami.com/"
+}

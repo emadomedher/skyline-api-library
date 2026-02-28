@@ -1,0 +1,13 @@
+{
+  "id": "manywho",
+  "title": "ManyWho",
+  "subtitle": "ManyWho, the low-code development platform for enterprise workflow and BPM applications. Build complex mobile apps wi...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720979/catalog/manywho/icon128x128.jpg",
+  "website": "https://manywho.com"
+}

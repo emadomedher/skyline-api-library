@@ -1,0 +1,13 @@
+{
+  "id": "dialog-insight",
+  "title": "Dialog Insight",
+  "subtitle": "Accelerate your growth with Dialog Insight all-in-one marketing campaign platform for personalized email marketing, m...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719780/catalog/dialog-insight/icon128x128.png",
+  "website": "https://dialoginsight.com"
+}

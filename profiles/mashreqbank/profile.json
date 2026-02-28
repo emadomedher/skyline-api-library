@@ -1,0 +1,13 @@
+{
+  "id": "mashreqbank",
+  "title": "Mashreq Bank",
+  "subtitle": "Mashreq Bank offers a range of banking solutions to suit your needs. Mashreqbank PSC is the oldest privately owned ba...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623592961/icons/mashreqbank.jpg",
+  "website": "https://www.mashreqbank.com/"
+}

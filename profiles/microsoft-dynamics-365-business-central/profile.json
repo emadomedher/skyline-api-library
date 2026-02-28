@@ -1,0 +1,15 @@
+{
+  "id": "microsoft-dynamics-365-business-central",
+  "title": "Microsoft Dynamics 365 Business Central",
+  "subtitle": "Microsoft Dynamics 365 Business Central is an enterprise resource planning (ERP) system focused on mid & large scale ...",
+  "tags": [
+    "accounting",
+    "erp"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547842527/catalog/microsoft-dynamics-365-business-central/icon128x128.jpg",
+  "website": "https://dynamics.microsoft.com/en-us/business-central/overview/",
+  "docsUrl": "https://docs.microsoft.com/dynamics-nav/api-reference/v1.0/"
+}

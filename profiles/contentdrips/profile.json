@@ -1,0 +1,13 @@
+{
+  "id": "contentdrips",
+  "title": "Contentdrips",
+  "subtitle": "Contentdrips is a simplest & fastest content tool built for personal brands. It creates bite-sized videos, quote styl...",
+  "tags": [
+    "content-creation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625084731/icons/contentdrips.jpg",
+  "website": "https://contentdrips.com/"
+}

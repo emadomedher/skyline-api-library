@@ -1,0 +1,14 @@
+{
+  "id": "quickbooks-desktop",
+  "title": "QuickBooks Desktop",
+  "subtitle": "Compare QuickBooks Desktop Pro 2021, QuickBooks Premier 2021, and QuickBooks Enterprise 21.0. Find the right QuickBoo...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620383391/icons/quickbooks-desktop.png",
+  "website": "https://quickbooks.intuit.com/desktop/",
+  "docsUrl": "https://developer.intuit.com/app/developer/qbdesktop/docs/api-reference/qbdesktop"
+}

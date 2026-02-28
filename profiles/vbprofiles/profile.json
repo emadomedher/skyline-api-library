@@ -1,0 +1,13 @@
+{
+  "id": "vbprofiles",
+  "title": "VBProfiles",
+  "subtitle": "Discover, contribute to, and create industry topics, organizations, companies, and people. Become a part of the new b...",
+  "tags": [
+    "vendor-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563061115/catalog/vbprofiles/icon128x128.png",
+  "website": "https://vbprofiles.com"
+}

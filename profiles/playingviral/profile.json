@@ -1,0 +1,13 @@
+{
+  "id": "playingviral",
+  "title": "PlayingViral",
+  "subtitle": "PlayingViral API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436496/catalog/playingviral/icon128x128.png",
+  "website": "https://playingviral.com"
+}

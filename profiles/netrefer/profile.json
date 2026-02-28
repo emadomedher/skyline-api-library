@@ -1,0 +1,13 @@
+{
+  "id": "netrefer",
+  "title": "Netrefer",
+  "subtitle": "Netrefer API integration",
+  "tags": [
+    "affiliate-marketing-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436089/catalog/netrefer/icon128x128.png",
+  "website": "https://netrefer.com"
+}

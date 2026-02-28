@@ -1,0 +1,15 @@
+{
+  "id": "globalsign",
+  "title": "GlobalSign",
+  "subtitle": "SSL Certificates, Authentication and Access Control, Identity and Access Management, Mobile Authentication, Secure Em...",
+  "tags": [
+    "pki-management",
+    "digital-certificates"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573824928/catalog/globalsign/icon128x128.jpg",
+  "website": "https://www.globalsign.com/",
+  "docsUrl": "https://www.globalsign.com/en/resources/apis/api-documentation"
+}

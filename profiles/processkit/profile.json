@@ -1,0 +1,14 @@
+{
+  "id": "processkit",
+  "title": "ProcessKit",
+  "subtitle": "Process-Drivin Project Management Software for teams to collaborate on repeatable projects.",
+  "tags": [
+    "workflow-management",
+    "business-process-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572483595/catalog/processkit/icon128x128.png",
+  "website": "https://processkit.com/"
+}

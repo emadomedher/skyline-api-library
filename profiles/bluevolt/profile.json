@@ -1,0 +1,14 @@
+{
+  "id": "bluevolt",
+  "title": "BlueVolt",
+  "subtitle": "Learning Management Solutions, LMS Platform, Online Training - BlueVolt",
+  "tags": [
+    "channel-learning-and-readiness",
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075910/icons/bluevolt.jpg",
+  "website": "https://www.bluevolt.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "privy-io",
+  "title": "Privy",
+  "subtitle": "With a few lines of code, securely integrate sensitive data into your product. Build delightful, privacy-preserving e...",
+  "tags": [
+    "data-privacy",
+    "web3"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753703/icons/privy-io.jpg",
+  "website": "https://www.privy.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fsisac",
+  "title": "FS-ISAC",
+  "subtitle": "An industry consortium dedicated to reducing cyber-risk in the global financial system.",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249007/icons/fsisac.jpg",
+  "website": "https://fsisac.com"
+}

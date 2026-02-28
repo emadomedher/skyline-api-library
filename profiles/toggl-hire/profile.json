@@ -1,0 +1,13 @@
+{
+  "id": "toggl-hire",
+  "title": "Toggl Hire",
+  "subtitle": "Toggl Hire helps you hire better, faster, and fairer with smart skills tests. Screen 1000s of candidates in seconds, ...",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805109/icons/toggl-hire.jpg",
+  "website": "https://toggl.com/hire/"
+}

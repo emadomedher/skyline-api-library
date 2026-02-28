@@ -1,0 +1,13 @@
+{
+  "id": "buzzigo-social",
+  "title": "Buzzigo Social",
+  "subtitle": "Automate your online local social media marketing with Buzzigo! Deliver relevant local content from your multi-locati...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947226/catalog/buzzigo-social/icon128x128.png",
+  "website": "https://buzzigosocial.com"
+}

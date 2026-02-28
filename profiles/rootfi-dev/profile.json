@@ -1,0 +1,15 @@
+{
+  "id": "rootfi-dev",
+  "title": "RootFi",
+  "subtitle": "Securely access your business customers accounting, commerce and payments data with a single integration.",
+  "tags": [
+    "unified-apis",
+    "accounting-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680600581/icons/rootfi-dev.png",
+  "website": "https://www.rootfi.dev/",
+  "docsUrl": "https://docs.rootfi.dev/docs/overview-2"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "styla",
+  "title": "Styla",
+  "subtitle": "Styla API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962194/catalog/styla/icon128x128.png",
+  "website": "https://styla.com"
+}

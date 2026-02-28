@@ -1,0 +1,13 @@
+{
+  "id": "sps",
+  "title": "SPS",
+  "subtitle": "SPS API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962229/catalog/sps/icon128x128.png",
+  "website": "https://spscommerce.com"
+}

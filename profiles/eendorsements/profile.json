@@ -1,0 +1,12 @@
+{
+  "id": "eendorsements",
+  "title": "eEndorsements",
+  "subtitle": "EEndorsements is an easy way to manage your online reputation and capture valuable customer feedback.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304840/catalog/eendorsements/icon128x128.png"
+}

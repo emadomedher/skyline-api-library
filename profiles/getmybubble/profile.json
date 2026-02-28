@@ -1,0 +1,14 @@
+{
+  "id": "getmybubble",
+  "title": "Bubble Insurance",
+  "subtitle": "Digitally bundled life and home insurance for homeowners to protect homes & family. Best Bundled Insurance in Califor...",
+  "tags": [
+    "embedded-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642215076/icons/getmybubble.jpg",
+  "website": "https://www.getmybubble.com/",
+  "docsUrl": "https://www.iafc.org/docs/default-source/uploaded-documents/wild-cwppreport.pdf?sfvrsn=8fe0df0d_0&download=true"
+}

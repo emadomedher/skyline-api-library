@@ -1,0 +1,12 @@
+{
+  "id": "inforumobile",
+  "title": "InforUMobile",
+  "subtitle": "InforUMobile is multi channel marketing software offering SMS, email marketing, landing pages, surveys and Facebook a...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305159/catalog/inforumobile/icon128x128.png"
+}

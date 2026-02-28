@@ -1,0 +1,14 @@
+{
+  "id": "frollo-au",
+  "title": "Frollo",
+  "subtitle": "We've built the simplest way to turn around your finances using Open Banking & AI. Our Saas Platform helps you do the...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624328719/icons/frollo-au.jpg",
+  "website": "https://frollo.com.au/",
+  "docsUrl": "https://developer.frollo.com.au/"
+}

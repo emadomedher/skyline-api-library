@@ -1,0 +1,14 @@
+{
+  "id": "seon-io",
+  "title": "SEON. Fraud Fighters",
+  "subtitle": "SEON Fraud Prevention tools help organisations reduce the costs and resources lost to fraud. Spot fake accounts, slas...",
+  "tags": [
+    "fraud-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616205758/icons/seon-io.jpg",
+  "website": "https://seon.io/",
+  "docsUrl": "https://developers.seon.io"
+}

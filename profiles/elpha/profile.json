@@ -1,0 +1,14 @@
+{
+  "id": "elpha",
+  "title": "Elpha",
+  "subtitle": "Elpha is where women build our careers together. Become a member to connect with peers and mentors, learn from expert...",
+  "tags": [
+    "professional-networks",
+    "femtech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630375695/icons/elpha.jpg",
+  "website": "https://elpha.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "userengage",
+  "title": "UserEngage",
+  "subtitle": "UserEngage is a marketing automation system that connects all data about your customers with all the communication ch...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306413/catalog/userengage/icon128x128.png"
+}

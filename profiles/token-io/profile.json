@@ -1,0 +1,14 @@
+{
+  "id": "token-io",
+  "title": "Token",
+  "subtitle": "Token's open banking platform brings PSD2 compliance to banks and access to bank data and payments for PSPs and devel...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573418086/catalog/token-io/icon128x128.jpg",
+  "website": "https://token.io/",
+  "docsUrl": "https://token.io/developers"
+}

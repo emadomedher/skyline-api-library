@@ -1,0 +1,14 @@
+{
+  "id": "adp",
+  "title": "ADP",
+  "subtitle": "ADP offers industry-leading online payroll and HR solutions, plus tax, compliance, benefit administration and more.",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554727717/catalog/adp/icon128x128.png",
+  "website": "https://www.adp.com/",
+  "docsUrl": "https://developers.adp.com"
+}

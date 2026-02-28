@@ -1,0 +1,14 @@
+{
+  "id": "payit-ae",
+  "title": "payit",
+  "subtitle": "Shop, dine and pay. Send money Anywhere. All in one wallet. With payit mobile wallet you can pay at restaurants, shop...",
+  "tags": [
+    "payment-methods",
+    "mobile-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602009490/icons/payit-ae.jpg",
+  "website": "https://payit.ae/"
+}

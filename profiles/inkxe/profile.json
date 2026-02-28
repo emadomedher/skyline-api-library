@@ -1,0 +1,12 @@
+{
+  "id": "inkxe",
+  "title": "inkXE",
+  "subtitle": "InkXE is an all-in-one online product designer tool made for print shops and product personalization businesses.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284537/catalog/inkxe/icon128x128.png"
+}

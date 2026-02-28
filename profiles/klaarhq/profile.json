@@ -1,0 +1,13 @@
+{
+  "id": "klaarhq",
+  "title": "Klaar",
+  "subtitle": "Klaar - People development for hybrid and remote teams",
+  "tags": [
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640617465/icons/klaarhq.jpg",
+  "website": "https://www.klaarhq.com/"
+}

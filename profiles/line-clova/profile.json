@@ -1,0 +1,13 @@
+{
+  "id": "line-clova",
+  "title": "LINE Clova",
+  "subtitle": "Clova is an intelligent personal assistant for Android and iOS operating systems developed by Naver Corporation and L...",
+  "tags": [
+    "voice-assistant"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597086885/icons/line-clova.png",
+  "website": "https://clova.line.me/"
+}

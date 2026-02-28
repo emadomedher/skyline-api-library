@@ -1,0 +1,13 @@
+{
+  "id": "exact-globe",
+  "title": "Exact Globe",
+  "subtitle": "Exact Globe is the basis of our financial and ERP solutions. Discover the possibilities of working with Exact.",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1213034877458812929/U1f2slhu_200x200.png",
+  "website": "https://www.exact.com/us/software/exact-globe"
+}

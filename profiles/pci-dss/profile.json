@@ -1,0 +1,14 @@
+{
+  "id": "pci-dss",
+  "title": "PCI DSS",
+  "subtitle": "The Payment Card Industry Data Security Standard is an information security standard for organizations that handle br...",
+  "tags": [
+    "security",
+    "payments"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602235647/icons/pci-dss.png",
+  "website": "https://www.pcisecuritystandards.org/"
+}

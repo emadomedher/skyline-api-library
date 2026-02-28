@@ -1,0 +1,14 @@
+{
+  "id": "stitchlabs",
+  "title": "Stitch Labs",
+  "subtitle": "Stitch is built for high-growth commerce brands looking to scale their operations. Manage your multi-channel inventor...",
+  "tags": [
+    "inventory-management",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586894461/catalog/stitchlabs/icon128x128.jpg",
+  "website": "https://www.stitchlabs.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "resonate",
+  "title": "Resonate",
+  "subtitle": "Resonate API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556147176/catalog/resonate/icon128x128.png",
+  "website": "https://resonate.com"
+}

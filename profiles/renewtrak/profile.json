@@ -1,0 +1,13 @@
+{
+  "id": "renewtrak",
+  "title": "Renewtrak",
+  "subtitle": "Renewtrak API integration",
+  "tags": [
+    "recurring-revenue-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528012/icons/renewtrak.jpg",
+  "website": "https://www.renewtrak.com/"
+}

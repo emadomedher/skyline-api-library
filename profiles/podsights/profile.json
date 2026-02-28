@@ -1,0 +1,14 @@
+{
+  "id": "podsights",
+  "title": "Podsights",
+  "subtitle": "Podsights builds the tools to take podcast advertising from guesswork to a science.",
+  "tags": [
+    "podcast-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574204036/catalog/podsights/icon128x128.png",
+  "website": "https://podsights.com/",
+  "docsUrl": "https://podsights.com/docs#analytics-prefix"
+}

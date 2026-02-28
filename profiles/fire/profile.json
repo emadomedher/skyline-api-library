@@ -1,0 +1,15 @@
+{
+  "id": "fire",
+  "title": "fire.com",
+  "subtitle": "We help businesses to manage payments with digital accounts and debit cards, supporting a range of payment services a...",
+  "tags": [
+    "open-banking-payments",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588444280/catalog/fire/icon128x128.jpg",
+  "website": "https://www.fire.com/",
+  "docsUrl": "https://www.fire.com/developers"
+}

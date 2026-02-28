@@ -1,0 +1,14 @@
+{
+  "id": "practifi",
+  "title": "Practifi",
+  "subtitle": "Practifi | Built For Growth - Practifi is the business management platform powering professional financial businesses...",
+  "tags": [
+    "financial-advisory"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887397/icons/practifi.jpg",
+  "website": "https://www.practifi.com/",
+  "docsUrl": "https://developer.practifi.com/docs/api"
+}

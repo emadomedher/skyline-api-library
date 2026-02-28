@@ -1,0 +1,13 @@
+{
+  "id": "micronotes",
+  "title": "Micronotes",
+  "subtitle": "Micronotes is a cloud-based marketing automation company leveraging \nautomated interviews & machine learning to solve...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946824/catalog/micronotes/icon128x128.jpg",
+  "website": "https://micronotes.com"
+}

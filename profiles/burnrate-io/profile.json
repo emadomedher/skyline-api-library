@@ -1,0 +1,13 @@
+{
+  "id": "burnrate-io",
+  "title": "BurnRate",
+  "subtitle": "BurnRate is the capacity planning platform for revenue growth and hiring. We help companies know exactly how to grow,...",
+  "tags": [
+    "cash-flow-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620461962/icons/burnrate-io.jpg",
+  "website": "https://burnrate.io/"
+}

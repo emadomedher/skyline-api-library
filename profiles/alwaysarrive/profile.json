@@ -1,0 +1,14 @@
+{
+  "id": "alwaysarrive",
+  "title": "AlwaysArrive",
+  "subtitle": "Our smart algorithm powered by Artificial Intelligence will get your email and keywords into the inbox and out of the...",
+  "tags": [
+    "email-delivery",
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594081830/icons/alwaysarrive.png",
+  "website": "https://alwaysarrive.com/"
+}

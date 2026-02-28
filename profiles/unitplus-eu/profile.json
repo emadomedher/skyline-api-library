@@ -1,0 +1,14 @@
+{
+  "id": "unitplus-eu",
+  "title": "Unitplus",
+  "subtitle": "Die weltweit erste Anlage-Konto-App für alle Smartsparer*innen.",
+  "tags": [
+    "investing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658250548/icons/unitplus-eu.png",
+  "website": "https://unitplus.eu/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rapyd-net",
+  "title": "Rapyd",
+  "subtitle": "Rapyd, a global fintech organization, has created the world's leading global payment network allowing companies to in...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591167548/icons/rapyd-net.jpg",
+  "website": "https://www.rapyd.net/",
+  "docsUrl": "https://www.rapyd.net/developers/overview"
+}

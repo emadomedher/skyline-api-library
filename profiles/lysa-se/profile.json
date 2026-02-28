@@ -1,0 +1,13 @@
+{
+  "id": "lysa-se",
+  "title": "Lysa",
+  "subtitle": "Lysa är en spartjänst som automatiskt investerar dina pengar till låga avgifter. Få ett gratis investeringsförslag oc...",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617202631/icons/lysa-se.jpg",
+  "website": "https://lysa.se/"
+}

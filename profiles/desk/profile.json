@@ -1,0 +1,13 @@
+{
+  "id": "desk",
+  "title": "Desk",
+  "subtitle": "Desk is the new version of Assistly under the flagship Salesforce brand.",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304762/catalog/desk/icon128x128.png",
+  "website": "https://www.salesforce.com/solutions/small-business-solutions/help-desk-software/"
+}

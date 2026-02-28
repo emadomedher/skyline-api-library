@@ -1,0 +1,13 @@
+{
+  "id": "skyword",
+  "title": "Skyword",
+  "subtitle": "Skyword offers an enterprise content marketing platform in Skyword360, a global community of storytellers, and indust...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946585/catalog/skyword/icon128x128.jpg",
+  "website": "https://skyword.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "dyspatch-io",
+  "title": "Dyspatch",
+  "subtitle": "Dyspatch is the ultimate email builder. It helps you create & change emails faster with state of the art modular inte...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581440210/catalog/dyspatch-io/icon128x128.jpg",
+  "website": "https://www.dyspatch.io/",
+  "docsUrl": "https://www.dyspatch.io/sendwithus/docs"
+}

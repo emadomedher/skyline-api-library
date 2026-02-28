@@ -1,0 +1,13 @@
+{
+  "id": "clayhr",
+  "title": "ClayHR",
+  "subtitle": "HR Software for all your Human Capital Management needs: employee records, onboarding, to, attendance, performance re...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688950300/icons/clayhr.jpg",
+  "website": "https://www.clayhr.com/"
+}

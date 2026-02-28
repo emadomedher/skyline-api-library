@@ -1,0 +1,14 @@
+{
+  "id": "clorder",
+  "title": "Clorder",
+  "subtitle": "Restaurant ordering system and delivery services by Clorder. With it's marketing services and mobile/Facebook orderin...",
+  "tags": [
+    "food-ordering-system",
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171263/catalog/clorder/icon128x128.jpg",
+  "website": "https://www.clorder.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pocketlaw",
+  "title": "PocketLaw",
+  "subtitle": "PocketLaw is a user-friendly and affordable solution that allows you to create contracts, get legal guidance, manage ...",
+  "tags": [
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638252922/icons/pocketlaw.jpg",
+  "website": "https://pocketlaw.com/"
+}

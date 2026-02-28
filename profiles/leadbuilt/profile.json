@@ -1,0 +1,13 @@
+{
+  "id": "leadbuilt",
+  "title": "Lead Built",
+  "subtitle": "Lead Built CRM helps you start, converse, and book more appointments on autopilot for your business through SMS, Emai...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637851185/icons/leadbuilt.png",
+  "website": "https://leadbuilt.com/"
+}

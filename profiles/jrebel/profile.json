@@ -1,0 +1,14 @@
+{
+  "id": "jrebel",
+  "title": "JRebel",
+  "subtitle": "JRebel by Perforce is home to the award-winning Java developer tools, JRebel and XRebel. See how they can help your t...",
+  "tags": [
+    "java-development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596813374/icons/jrebel.jpg",
+  "website": "https://www.jrebel.com/",
+  "docsUrl": "https://www.jrebel.com/resources/java-developer-productivity-report-2020"
+}

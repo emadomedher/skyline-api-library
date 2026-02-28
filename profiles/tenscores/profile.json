@@ -1,0 +1,13 @@
+{
+  "id": "tenscores",
+  "title": "Tenscores",
+  "subtitle": "Tenscores API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962154/catalog/tenscores/icon128x128.png",
+  "website": "https://tenscores.com"
+}

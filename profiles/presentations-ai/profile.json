@@ -1,0 +1,13 @@
+{
+  "id": "presentations-ai",
+  "title": "PresentationsAI",
+  "subtitle": "The only smart presentation tool that uses artificial intelligence coupled with best design practices to let you crea...",
+  "tags": [
+    "presentation-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612020885/icons/presentations-ai.jpg",
+  "website": "https://presentations.ai/"
+}

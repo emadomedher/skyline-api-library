@@ -1,0 +1,16 @@
+{
+  "id": "stackedit-io",
+  "title": "StackEdit",
+  "subtitle": "Full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the oth...",
+  "tags": [
+    "text-editors",
+    "markdown",
+    "open-source",
+    "markdown-editors"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982417/catalog/stackedit-io/icon128x128.jpg",
+  "website": "https://stackedit.io/"
+}

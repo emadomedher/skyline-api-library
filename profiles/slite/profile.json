@@ -1,0 +1,14 @@
+{
+  "id": "slite",
+  "title": "Slite",
+  "subtitle": "Slite is a simple tool that helps your whole company get organized and aligned.",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566502901/catalog/slite/icon128x128.jpg",
+  "website": "https://slite.com/",
+  "docsUrl": "https://slite.com/pages/alternative-to-google-docs"
+}

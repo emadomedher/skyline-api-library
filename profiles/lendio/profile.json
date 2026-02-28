@@ -1,0 +1,14 @@
+{
+  "id": "lendio",
+  "title": "Lendio",
+  "subtitle": "Lendio is your one-stop shop for business finances. One application to funding options, and one tool to get your fina...",
+  "tags": [
+    "lending",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637962/icons/lendio.jpg",
+  "website": "https://www.lendio.com/"
+}

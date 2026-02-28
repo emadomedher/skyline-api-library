@@ -1,0 +1,13 @@
+{
+  "id": "sendloop",
+  "title": "Sendloop",
+  "subtitle": "All-in-one email marketing solution for SaaS, e-commerce, application and small business owners.",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306014/catalog/sendloop/icon128x128.png",
+  "website": "https://sendloop.com/"
+}

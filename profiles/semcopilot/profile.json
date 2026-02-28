@@ -1,0 +1,13 @@
+{
+  "id": "semcopilot",
+  "title": "SEMCopilot",
+  "subtitle": "SEMCopilot API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962397/catalog/semcopilot/icon128x128.png",
+  "website": "https://semcopilot.com"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ekata",
+  "title": "Ekata",
+  "subtitle": "Ekata's global identity verification APIs and SaaS tool help digital commerce companies grow revenue by maximizing pr...",
+  "tags": [
+    "identity",
+    "data",
+    "fintech",
+    "identity-verification"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602969655/icons/ekata.png",
+  "website": "https://ekata.com/",
+  "docsUrl": "https://ekata.com/apis/"
+}

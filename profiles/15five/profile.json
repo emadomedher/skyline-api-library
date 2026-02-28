@@ -1,0 +1,14 @@
+{
+  "id": "15five",
+  "title": "15Five",
+  "subtitle": "15Five software elevates the performance and engagement of employees by continuously asking questions and starting th...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717053/catalog/15five/icon128x128.jpg",
+  "website": "https://15five.com",
+  "docsUrl": "https://success.15five.com"
+}

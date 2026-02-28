@@ -1,0 +1,14 @@
+{
+  "id": "brivo",
+  "title": "Brivo",
+  "subtitle": "Brivo API integration",
+  "tags": [
+    "access-control",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612020/catalog/brivo/icon128x128.jpg",
+  "website": "https://www.brivo.com/"
+}

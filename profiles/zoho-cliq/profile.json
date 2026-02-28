@@ -1,0 +1,13 @@
+{
+  "id": "zoho-cliq",
+  "title": "Zoho Cliq",
+  "subtitle": "Zoho Cliq is a real time messaging software built to provide enhanced productivity and team collaboration.",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306590/catalog/zoho-cliq/icon128x128.png",
+  "website": "https://cliq.zoho.com/"
+}

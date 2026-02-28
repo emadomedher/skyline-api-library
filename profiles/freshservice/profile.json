@@ -1,0 +1,13 @@
+{
+  "id": "freshservice",
+  "title": "Freshservice",
+  "subtitle": "Freshservice is an online, cloud-based IT Helpdesk which is ITIL ready.",
+  "tags": [
+    "issue-tracking",
+    "itsm"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304993/catalog/freshservice/icon128x128.png"
+}

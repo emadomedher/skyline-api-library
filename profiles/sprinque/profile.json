@@ -1,0 +1,14 @@
+{
+  "id": "sprinque",
+  "title": "Sprinque",
+  "subtitle": "Sprinque is the all-in-one checkout platform for B2B merchants and marketplaces\nEasily access all the functionality r...",
+  "tags": [
+    "b-2-b-ecommerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915232/icons/sprinque.jpg",
+  "website": "https://www.sprinque.com/",
+  "docsUrl": "https://www.sprinque.com/developers"
+}

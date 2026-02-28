@@ -1,0 +1,13 @@
+{
+  "id": "azure-openai-service",
+  "title": "Azure OpenAI Service",
+  "subtitle": "Azure OpenAI Service offers industry-leading language models that you can fine-tune to your specific needs for a vari...",
+  "tags": [
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635988567/icons/azure-openai-service.png",
+  "website": "https://azure.microsoft.com/en-us/services/openai-service/"
+}

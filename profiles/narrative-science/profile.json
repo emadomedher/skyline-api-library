@@ -1,0 +1,13 @@
+{
+  "id": "narrative-science",
+  "title": "Narrative Science",
+  "subtitle": "Narrative Science API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946795/catalog/narrative-science/icon128x128.jpg",
+  "website": "https://narrativescience.com"
+}

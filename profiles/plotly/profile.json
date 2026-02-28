@@ -1,0 +1,13 @@
+{
+  "id": "plotly",
+  "title": "Plotly",
+  "subtitle": "Plotly API integration",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721513/catalog/plotly/icon128x128.jpg",
+  "website": "https://plot.ly"
+}

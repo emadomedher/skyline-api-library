@@ -1,0 +1,14 @@
+{
+  "id": "joincliq",
+  "title": "Cliq",
+  "subtitle": "CRM and ATS for freelance and agency recruiters. Complete with all the tools a recruiter needs to navigate LinkedIn a...",
+  "tags": [
+    "ats",
+    "recruiting"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603335186/icons/joincliq.png",
+  "website": "https://www.joincliq.com/"
+}

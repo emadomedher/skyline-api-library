@@ -1,0 +1,13 @@
+{
+  "id": "snitcher",
+  "title": "Snitcher",
+  "subtitle": "Get insight into which companies are visiting your website and see what they do there. Because Snitcher combines the ...",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562689147/catalog/snitcher/icon128x128.png",
+  "website": "https://snitcher.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "unmind",
+  "title": "Unmind",
+  "subtitle": "Unmind is a workplace mental health platform. We empower employees to measure, understand, and improve their mental w...",
+  "tags": [
+    "mental-health"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631220827/icons/unmind.jpg",
+  "website": "https://unmind.com/"
+}

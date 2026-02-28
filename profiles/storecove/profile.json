@@ -1,0 +1,15 @@
+{
+  "id": "storecove",
+  "title": "Storecove",
+  "subtitle": "Storecove helps 1500+ companies with processing and sending e-invoices. Connect to the Peppol network through us. Try...",
+  "tags": [
+    "electronic-invoicing"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616750583/icons/storecove.png",
+  "specUrl": "https://www.storecove.com/api/v2/openapi.json",
+  "website": "https://www.storecove.com/",
+  "docsUrl": "https://www.storecove.com/be/en/docs"
+}

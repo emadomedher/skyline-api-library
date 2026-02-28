@@ -1,0 +1,13 @@
+{
+  "id": "hangseng",
+  "title": "Hang Seng Bank",
+  "subtitle": "Hang Seng Bank Limited is a Hong Kong-based banking and financial services company with headquarters in Central, Hong...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622476391/icons/hangseng.jpg",
+  "website": "https://www.hangseng.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "orphea",
+  "title": "Orphea",
+  "subtitle": "Orphea API integration",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721389/catalog/orphea/icon128x128.jpg",
+  "website": "https://orphea.com"
+}

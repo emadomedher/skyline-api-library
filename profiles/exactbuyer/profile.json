@@ -1,0 +1,14 @@
+{
+  "id": "exactbuyer",
+  "title": "ExactBuyer",
+  "subtitle": "ExactBuyer delivers B2B intelligence to identify prospects, personalize your marketing and sales conversations, & clo...",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637118574/icons/exactbuyer.jpg",
+  "website": "https://www.exactbuyer.com/",
+  "docsUrl": "https://docs.exactbuyer.com"
+}

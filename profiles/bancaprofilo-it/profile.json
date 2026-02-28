@@ -1,0 +1,13 @@
+{
+  "id": "bancaprofilo-it",
+  "title": "Banca Profilo",
+  "subtitle": "Banca Profilo S.p.A. is an investment bank which provides financial services for institutional clients and private in...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596921129/icons/bancaprofilo-it.png",
+  "website": "https://bancaprofilo.it"
+}

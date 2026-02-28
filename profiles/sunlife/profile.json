@@ -1,0 +1,14 @@
+{
+  "id": "sunlife",
+  "title": "Sun Life",
+  "subtitle": "Sun Life is a financial services company providing financial planning, life insurance, health insurance, investments ...",
+  "tags": [
+    "life-insurance",
+    "financial-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640007305/icons/sunlife.jpg",
+  "website": "https://www.sunlife.com/"
+}

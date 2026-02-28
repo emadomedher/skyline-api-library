@@ -1,0 +1,13 @@
+{
+  "id": "squarestack",
+  "title": "SquareStack",
+  "subtitle": "Watch our video! SquareStack was created to help Small Business Owners manage their “Stack” of Business Apps. SquareS...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946528/catalog/squarestack/icon128x128.jpg",
+  "website": "https://squarestack.com"
+}

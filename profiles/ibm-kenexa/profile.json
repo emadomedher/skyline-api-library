@@ -1,0 +1,14 @@
+{
+  "id": "ibm-kenexa",
+  "title": "IBM Kenexa",
+  "subtitle": "With IBM Kenexa talent management system solutions you can recruit your new stars, gain analytic insights and engage ...",
+  "tags": [
+    "talent-management-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049985/icons/ibm-kenexa.png",
+  "website": "https://www.ibm.com/watson/uk-en/talent/kenexa-solutions/",
+  "docsUrl": "https://www.ibm.com/developerworks/"
+}

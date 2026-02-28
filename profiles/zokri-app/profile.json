@@ -1,0 +1,13 @@
+{
+  "id": "zokri-app",
+  "title": "ZOKRI App",
+  "subtitle": "ZOKRI App API integration",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961849/catalog/zokri-app/icon128x128.png",
+  "website": "https://zokri.com"
+}

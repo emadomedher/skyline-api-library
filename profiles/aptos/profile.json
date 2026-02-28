@@ -1,0 +1,13 @@
+{
+  "id": "aptos",
+  "title": "Aptos",
+  "subtitle": "Aptos API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433081/catalog/aptos/icon128x128.png",
+  "website": "https://aptos.com"
+}

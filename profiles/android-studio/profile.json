@@ -1,0 +1,14 @@
+{
+  "id": "android-studio",
+  "title": "Android Studio",
+  "subtitle": "Android Studio is the official integrated development environment for Google's Android operating system, built on Jet...",
+  "tags": [
+    "mobile-development",
+    "ide"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583514630/catalog/android-studio/icon128x128.jpg",
+  "website": "https://developer.android.com/studio"
+}

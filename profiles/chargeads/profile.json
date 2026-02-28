@@ -1,0 +1,13 @@
+{
+  "id": "chargeads",
+  "title": "Chargeads",
+  "subtitle": "Chargeads API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826046/catalog/chargeads/icon128x128.png",
+  "website": "https://chargeads.com"
+}

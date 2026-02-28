@@ -1,0 +1,13 @@
+{
+  "id": "yottaa",
+  "title": "Yottaa",
+  "subtitle": "Yottaa API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561390249/catalog/yottaa/icon128x128.png",
+  "website": "https://yottaa.com"
+}

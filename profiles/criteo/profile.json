@@ -1,0 +1,14 @@
+{
+  "id": "criteo",
+  "title": "Criteo",
+  "subtitle": "Grow your business with best-in-class advertising technology solutions. Find, engage, and convert customers with Crit...",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553326181/catalog/criteo/icon128x128.png",
+  "website": "https://criteo.com",
+  "docsUrl": "https://developers.criteo.com"
+}

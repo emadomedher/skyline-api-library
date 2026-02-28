@@ -1,0 +1,13 @@
+{
+  "id": "tryramp",
+  "title": "Ramp",
+  "subtitle": "Grow more. Waste less. Enterprise corporate cards built from the ground up to save your company money: issue unlimite...",
+  "tags": [
+    "corporate-credit-cards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635693750/icons/tryramp.jpg",
+  "website": "https://tryramp.com/"
+}

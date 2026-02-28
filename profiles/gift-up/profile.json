@@ -1,0 +1,12 @@
+{
+  "id": "gift-up",
+  "title": "Gift Up!",
+  "subtitle": "Gift Up! is a digital gift card system for your website or Facebook page.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305012/catalog/gift-up/icon128x128.png"
+}

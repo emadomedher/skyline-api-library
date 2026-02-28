@@ -1,0 +1,13 @@
+{
+  "id": "sap-crm",
+  "title": "SAP CRM",
+  "subtitle": "Power seamless, personalized experiences with a CRM software platform and CX products from SAP. Learn more about our ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649112368/icons/sap-crm.jpg",
+  "website": "https://www.sap.com/products/crm.html"
+}

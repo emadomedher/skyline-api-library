@@ -1,0 +1,13 @@
+{
+  "id": "cloudapp",
+  "title": "CloudApp",
+  "subtitle": "CloudApp is an easy-to-use screen recorder that brings video, webcam, screenshot annotation, and GIF creation securel...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284477/catalog/cloudapp/icon128x128.png",
+  "website": "https://getcloudapp.com"
+}

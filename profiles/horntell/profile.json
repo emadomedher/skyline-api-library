@@ -1,0 +1,12 @@
+{
+  "id": "horntell",
+  "title": "Horntell",
+  "subtitle": "Horntell is a notification center which allows you to have a single feed for all your notifications. Stay updated thr...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305136/catalog/horntell/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "apptweak",
+  "title": "AppTweak",
+  "subtitle": "AppTweak is the easiest and most effective ASO tool to grow app businesses of all sizes. → Try for free!",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964287/catalog/apptweak/icon128x128.png",
+  "website": "https://apptweak.com",
+  "docsUrl": "https://www.apptweak.io/documentation"
+}

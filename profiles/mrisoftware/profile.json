@@ -1,0 +1,14 @@
+{
+  "id": "mrisoftware",
+  "title": "MRI Software",
+  "subtitle": "MRI Software delivers open and connected solutions to manage your property portfolio. Our real estate solutions can s...",
+  "tags": [
+    "estate-agency",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302469/icons/mrisoftware.jpg",
+  "website": "https://www.mrisoftware.com/"
+}

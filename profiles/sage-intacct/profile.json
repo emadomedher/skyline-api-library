@@ -1,0 +1,14 @@
+{
+  "id": "sage-intacct",
+  "title": "Sage Intacct",
+  "subtitle": "Sage Intacct API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547937028/catalog/sage-intacct/icon128x128.jpg",
+  "website": "https://www.sageintacct.com/",
+  "docsUrl": "https://developer.intacct.com/api/"
+}

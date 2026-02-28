@@ -1,0 +1,14 @@
+{
+  "id": "mebank-au",
+  "title": "ME Bank",
+  "subtitle": "ME Bank, also known as ME, is an Australian direct bank based in Melbourne, Victoria. ME Bank also has offices in Syd...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601846797/icons/mebank-au.png",
+  "website": "https://www.mebank.com.au/",
+  "docsUrl": "https://developer.mebank.com.au/"
+}

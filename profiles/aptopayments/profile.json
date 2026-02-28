@@ -1,0 +1,15 @@
+{
+  "id": "aptopayments",
+  "title": "Apto Payments",
+  "subtitle": "We help companies issue new kinds of cards in new ways. We do it with fewer constraints and more creativity, for a be...",
+  "tags": [
+    "card-payments",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572524129/catalog/aptopayments/icon128x128.png",
+  "website": "https://www.aptopayments.com/",
+  "docsUrl": "https://www.aptopayments.com/#/developers"
+}

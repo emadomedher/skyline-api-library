@@ -1,0 +1,13 @@
+{
+  "id": "wearepatchworks",
+  "title": "Patchworks",
+  "subtitle": "Patchworks is a leading integration platform for fast-growing retail, across the world.",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647901512/icons/wearepatchworks.png",
+  "website": "https://www.wearepatchworks.com/"
+}

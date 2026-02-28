@@ -1,0 +1,14 @@
+{
+  "id": "omnihr-co",
+  "title": "Omni",
+  "subtitle": "Omni HR helps companies automate the end-to-end employee journey including recruitment, onboarding, time off, employe...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904839/icons/omnihr-co.jpg",
+  "website": "https://omnihr.co/",
+  "docsUrl": "https://omnihr.co/product/document-management"
+}

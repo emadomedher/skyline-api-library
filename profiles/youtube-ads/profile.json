@@ -1,0 +1,13 @@
+{
+  "id": "youtube-ads",
+  "title": "Youtube Ads",
+  "subtitle": "Video advertising on YouTube works, and you only pay when people watch your video ads. Get started with online video ...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582086593/catalog/youtube-ads/icon128x128.jpg",
+  "website": "https://www.youtube.com/ads/"
+}

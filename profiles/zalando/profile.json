@@ -1,0 +1,14 @@
+{
+  "id": "zalando",
+  "title": "Zalando",
+  "subtitle": "Zalando SE is a German multi national e-commerce company based in Berlin, Germany. The company follows a platform app...",
+  "tags": [
+    "ecommerce",
+    "marketplaces"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620724007/icons/zalando.jpg",
+  "website": "https://www.zalando.com"
+}

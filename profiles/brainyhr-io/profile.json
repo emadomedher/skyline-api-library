@@ -1,0 +1,14 @@
+{
+  "id": "brainyhr-io",
+  "title": "Brainy HR",
+  "subtitle": " Brainy HR system is the HRIS that simplifies your daily human resources routine.   Hr management software.",
+  "tags": [
+    "hr",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614086941/icons/brainyhr-io.png",
+  "website": "https://brainyhr.io/"
+}

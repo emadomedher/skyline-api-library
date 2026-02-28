@@ -1,0 +1,15 @@
+{
+  "id": "plextrac",
+  "title": "PlexTrac",
+  "subtitle": "PlexTrac simplifies critical cybersecurity activities, including: reporting, tracking, program management, vulnerabil...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193158/catalog/plextrac/icon128x128.png",
+  "website": "https://plextrac.com",
+  "docsUrl": "https://docs.plextrac.com/plextrac-documentation"
+}

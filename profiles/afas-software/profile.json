@@ -1,0 +1,16 @@
+{
+  "id": "afas-software",
+  "title": "AFAS Software",
+  "subtitle": "AFAS Software is a software package to streamline all your business processes. HR and billing, procurement and accoun...",
+  "tags": [
+    "enterprise-resource-magagement-(erp)",
+    "accounting",
+    "hris"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548122129/catalog/afas-software/icon128x128.jpg",
+  "website": "https://www.afas.com/",
+  "docsUrl": "https://help.afas.nl/help/NL/SE/App_Cnr_Rest_Api.htm"
+}

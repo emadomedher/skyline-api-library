@@ -1,0 +1,14 @@
+{
+  "id": "tezos",
+  "title": "Tezos",
+  "subtitle": "Tezos is an open-source platform that addresses key barriers facing blockchain adoption for assets and applications, ...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628557305/icons/tezos.jpg",
+  "website": "https://tezos.com/",
+  "docsUrl": "https://tezos.com/developer-portal"
+}

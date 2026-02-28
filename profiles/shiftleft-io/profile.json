@@ -1,0 +1,16 @@
+{
+  "id": "shiftleft-io",
+  "title": "ShiftLeft",
+  "subtitle": "Changing the world of software security",
+  "tags": [
+    "application-security",
+    "security",
+    "code-security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "bearer",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193180/catalog/shiftleft-io/icon128x128.jpg",
+  "website": "https://www.shiftleft.io",
+  "docsUrl": "https://docs.shiftleft.io"
+}

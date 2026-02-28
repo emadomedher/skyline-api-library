@@ -1,0 +1,12 @@
+{
+  "id": "widen-collective",
+  "title": "Widen Collective",
+  "subtitle": "Widen Collective is a digital asset management solution that brings together all of your image, video and creative fi...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306500/catalog/widen-collective/icon128x128.png"
+}

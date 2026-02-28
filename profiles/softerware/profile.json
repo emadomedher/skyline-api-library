@@ -1,0 +1,13 @@
+{
+  "id": "softerware",
+  "title": "SofterWare",
+  "subtitle": "SofterWare stays true to our roots with innovative products that make our clients’ jobs easier.",
+  "tags": [
+    "donations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573853552/catalog/softerware/icon128x128.jpg",
+  "website": "https://www.softerware.com/"
+}

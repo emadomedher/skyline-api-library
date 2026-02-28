@@ -1,0 +1,14 @@
+{
+  "id": "titanfile",
+  "title": "TitanFile",
+  "subtitle": "TitanFile is an award-winning, easy and secure way for professionals to share files and communicate. HIPAA and PIPEDA...",
+  "tags": [
+    "file-sharing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598475472/icons/titanfile.png",
+  "website": "https://www.titanfile.com/",
+  "docsUrl": "http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118"
+}

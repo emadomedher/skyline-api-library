@@ -1,0 +1,13 @@
+{
+  "id": "answerdash",
+  "title": "AnswerDash",
+  "subtitle": "AnswerDash's AI powered self-service support predicts customers’ questions \nand deflects support tickets and live chats.",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964314/catalog/answerdash/icon128x128.png",
+  "website": "https://answerdash.com"
+}

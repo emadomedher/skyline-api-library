@@ -1,0 +1,13 @@
+{
+  "id": "magicbuddy-chat",
+  "title": "MagicBuddy",
+  "subtitle": "MagicBuddy is a virtual assistant based on ChatGPT for Telegram. Try our easy-to-use bot now and experience the power...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687512539/icons/magicbuddy-chat.jpg",
+  "website": "https://magicbuddy.chat/"
+}

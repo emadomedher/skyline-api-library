@@ -1,0 +1,13 @@
+{
+  "id": "academyocean",
+  "title": "AcademyOcean",
+  "subtitle": "Unique onboarding experience for your customers and employees",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559755122/catalog/academyocean/icon128x128.jpg",
+  "website": "https://academyocean.com"
+}

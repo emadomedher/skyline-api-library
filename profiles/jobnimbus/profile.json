@@ -1,0 +1,14 @@
+{
+  "id": "jobnimbus",
+  "title": "JobNimbus",
+  "subtitle": "Save time and money with simple CRM and project management software. Easily manage all your contacts, jobs, tasks, do...",
+  "tags": [
+    "project-management",
+    "construction"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305210/catalog/jobnimbus/icon128x128.png",
+  "website": "https://jobnimbus.com"
+}

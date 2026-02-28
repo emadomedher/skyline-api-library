@@ -1,0 +1,14 @@
+{
+  "id": "tremorvideo",
+  "title": "Tremor Video",
+  "subtitle": "Tremor Video helps advertisers deliver impactful brand stories across all screens through the power of innovative vid...",
+  "tags": [
+    "video-dsp",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587833005/catalog/tremorvideo/icon128x128.png",
+  "website": "https://www.tremorvideo.com/"
+}

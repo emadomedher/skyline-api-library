@@ -1,0 +1,13 @@
+{
+  "id": "nurture",
+  "title": "Nurture",
+  "subtitle": "Nurture is a dead easy marketing automation & revenue performance management application for B2B marketers. Get start...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946769/catalog/nurture/icon128x128.jpg",
+  "website": "https://nurturehq.com"
+}

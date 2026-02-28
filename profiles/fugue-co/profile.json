@@ -1,0 +1,15 @@
+{
+  "id": "fugue-co",
+  "title": "Fugue",
+  "subtitle": "Fugue prevents cloud misconfiguration and ensures cloud infrastructure stays in continuous compliance with enterprise...",
+  "tags": [
+    "cloud-security",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614491/catalog/fugue-co/icon128x128.jpg",
+  "website": "https://www.fugue.co/",
+  "docsUrl": "https://docs.fugue.co"
+}

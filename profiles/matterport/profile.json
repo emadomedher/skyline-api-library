@@ -1,0 +1,14 @@
+{
+  "id": "matterport",
+  "title": "Matterport",
+  "subtitle": "Our 3D cameras and virtual tour software platform help you digitize your building, automatically create 3D tours, 4K ...",
+  "tags": [
+    "real-estate-virtual-tour"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640007327/icons/matterport.jpg",
+  "website": "https://matterport.com/",
+  "docsUrl": "https://matterport.com/platform/developers"
+}

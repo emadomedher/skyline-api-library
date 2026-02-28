@@ -1,0 +1,13 @@
+{
+  "id": "kind-ads",
+  "title": "Kind Ads",
+  "subtitle": "Kind Ads API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963703/catalog/kind-ads/icon128x128.png",
+  "website": "https://kindads.io"
+}

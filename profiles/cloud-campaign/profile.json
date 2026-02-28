@@ -1,0 +1,13 @@
+{
+  "id": "cloud-campaign",
+  "title": "Cloud Campaign",
+  "subtitle": "Cloud Campaign is the easiest way for agencies to manage multiple brands at scale. Brand workspaces, robust schedulin...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719484/catalog/cloud-campaign/icon128x128.jpg",
+  "website": "https://cloudcampaign.io"
+}

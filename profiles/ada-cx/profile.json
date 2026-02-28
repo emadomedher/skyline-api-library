@@ -1,0 +1,14 @@
+{
+  "id": "ada-cx",
+  "title": "Ada",
+  "subtitle": "Answer common support questions, deliver personalized interaction, and anticipate user needs, all from one AI-driven ...",
+  "tags": [
+    "conversational-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686954368/icons/ada-cx.png",
+  "website": "https://www.ada.cx/",
+  "docsUrl": "https://docs.ada.cx/?lang=en"
+}

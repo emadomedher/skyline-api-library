@@ -1,0 +1,13 @@
+{
+  "id": "atomic-reach",
+  "title": "Atomic Reach",
+  "subtitle": "Atomic Reach is a Content Intelligence Platform built to transform your content marketing with AI-driven language aut...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825824/catalog/atomic-reach/icon128x128.png",
+  "website": "https://atomicreach.com"
+}

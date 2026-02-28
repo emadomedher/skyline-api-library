@@ -1,0 +1,13 @@
+{
+  "id": "globaldataresources-io",
+  "title": "GlobalDataResources",
+  "subtitle": "Global Data Resources turn neighborhood data into privacy safe targeting with reach.",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581466115/catalog/globaldataresources-io/icon128x128.jpg",
+  "website": "https://www.globaldataresources.io/"
+}

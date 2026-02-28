@@ -1,0 +1,15 @@
+{
+  "id": "stripe-apps",
+  "title": "Stripe Apps",
+  "subtitle": "Use the full power of Stripe’s API to build an app that integrates Stripe with your CRM, data warehouse, helpdesk, an...",
+  "tags": [
+    "embedded-apps",
+    "workflow-automation"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421324/icons/stripe-apps.jpg",
+  "website": "https://stripe.com/en-gb-be/apps",
+  "docsUrl": "https://stripe.com/docs/stripe-apps"
+}

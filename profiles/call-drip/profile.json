@@ -1,0 +1,12 @@
+{
+  "id": "call-drip",
+  "title": "Calldrip",
+  "subtitle": "Calldrip connects you and your new lead within 20 seconds increasing your chances of closing by 100%",
+  "tags": [
+    "call-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055831/catalog/call-drip/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "flawlessai",
+  "title": "Flawless",
+  "subtitle": "Flawless is pioneering the generative AI revolution in filmmaking. \nEmpowering the world’s greatest storytellers with...",
+  "tags": [
+    "video-editing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674766868/icons/flawlessai.jpg",
+  "website": "https://www.flawlessai.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "feefo",
+  "title": "Feefo",
+  "subtitle": "Feefo is a globally recognised platform used by thousands of brands to collect genuine, verified customer feedback.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304902/catalog/feefo/icon128x128.png",
+  "website": "https://feefo.com"
+}

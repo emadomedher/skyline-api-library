@@ -1,0 +1,13 @@
+{
+  "id": "winmo",
+  "title": "Winmo",
+  "subtitle": "Our advertising database gives you accurate, in-depth profiles on national advertisers and the decision-makers who ma...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828032/catalog/winmo/icon128x128.jpg",
+  "website": "https://winmo.com"
+}

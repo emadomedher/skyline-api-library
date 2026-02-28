@@ -1,0 +1,14 @@
+{
+  "id": "leandata",
+  "title": "LeanData",
+  "subtitle": "LeanData helps companies improve the buyer experience, accelerate time-to-revenue and increase operational alignment....",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826803/catalog/leandata/icon128x128.jpg",
+  "website": "https://leandatainc.com",
+  "docsUrl": "https://api.leandatainc.com/"
+}

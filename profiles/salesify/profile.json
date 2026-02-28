@@ -1,0 +1,13 @@
+{
+  "id": "salesify",
+  "title": "Salesify",
+  "subtitle": "Salesify offers products and solutions that arm data-driven marketers and sales professionals with critical B2B Custo...",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827480/catalog/salesify/icon128x128.png",
+  "website": "https://salesify.com"
+}

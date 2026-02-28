@@ -1,0 +1,13 @@
+{
+  "id": "checkvist",
+  "title": "Checkvist",
+  "subtitle": "Keyboard driven online outliner and task manager for teams and individuals. Capture your ideas and notes, create chec...",
+  "tags": [
+    "to-do-lists"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304609/catalog/checkvist/icon128x128.png",
+  "website": "https://checkvist.com/"
+}

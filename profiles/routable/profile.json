@@ -1,0 +1,16 @@
+{
+  "id": "routable",
+  "title": "Routable",
+  "subtitle": "Routable is the simplest way to send and receive business-to-business (B2B) payments. Improve your bill pay and invoi...",
+  "tags": [
+    "business-payments",
+    "bill-payments",
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268406/icons/routable.png",
+  "website": "https://routable.com/",
+  "docsUrl": "https://routable.com/roles/developers"
+}

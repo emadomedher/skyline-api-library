@@ -1,0 +1,13 @@
+{
+  "id": "fincrm-net",
+  "title": "FinCRM",
+  "subtitle": "Fincrm provides best CRM software for different business verticals, in that you can manages your sales, marketing, ac...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602704509/icons/fincrm-net.jpg",
+  "website": "http://www.fincrm.net/"
+}

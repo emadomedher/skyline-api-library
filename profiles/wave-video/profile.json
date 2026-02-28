@@ -1,0 +1,13 @@
+{
+  "id": "wave-video",
+  "title": "Wave.video",
+  "subtitle": "Create marketing videos and video ads for your blog, website, and social media with Wave.video, free online video mak...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305947/catalog/wave-video/icon128x128.jpg",
+  "website": "https://wave.video"
+}

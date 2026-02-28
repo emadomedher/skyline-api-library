@@ -1,0 +1,13 @@
+{
+  "id": "benchmark-games",
+  "title": "Benchmark.games",
+  "subtitle": "Benchmark.games help you reveal which candidate will perform well on the job. Match applicants with their ideal role ...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641943840/icons/benchmark-games.png",
+  "website": "https://www.benchmark.games/"
+}

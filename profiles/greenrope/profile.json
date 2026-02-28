@@ -1,0 +1,13 @@
+{
+  "id": "greenrope",
+  "title": "GreenRope",
+  "subtitle": "Small business marketing software providing powerful and easy to use CRM, email marketing, and social media integration.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305066/catalog/greenrope/icon128x128.png",
+  "website": "https://greenrope.com"
+}

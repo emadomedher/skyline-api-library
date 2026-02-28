@@ -1,0 +1,15 @@
+{
+  "id": "epersonate",
+  "title": "ePersonate.com",
+  "subtitle": "ePersonate.com - Impersonation As A Service",
+  "tags": [
+    "impersonation",
+    "customer-support",
+    "compliance"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597962619/icons/epersonate.png",
+  "website": "https://epersonate.com/"
+}

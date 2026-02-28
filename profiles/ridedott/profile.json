@@ -1,0 +1,13 @@
+{
+  "id": "ridedott",
+  "title": "Dott",
+  "subtitle": "We're here to free our cities with clean rides for everyone. Download Dott and hop on an electric vehicle! Reimagine ...",
+  "tags": [
+    "micromobility"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655763563/icons/ridedott.jpg",
+  "website": "https://ridedott.com/"
+}

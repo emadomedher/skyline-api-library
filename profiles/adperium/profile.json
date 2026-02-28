@@ -1,0 +1,13 @@
+{
+  "id": "adperium",
+  "title": "Adperium",
+  "subtitle": "Online advertising has never been so easy. Adperium offers the easiest self-service platform.",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964412/catalog/adperium/icon128x128.png",
+  "website": "https://adperium.com"
+}

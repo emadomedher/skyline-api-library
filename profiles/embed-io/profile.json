@@ -1,0 +1,13 @@
+{
+  "id": "embed-io",
+  "title": "Embed",
+  "subtitle": "Cross-Border localized, Our Banking-as-a-service platform has everything you need to build your own banking products.",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656700687/icons/embed-io.png",
+  "website": "https://embed.io/"
+}

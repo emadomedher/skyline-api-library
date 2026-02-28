@@ -1,0 +1,14 @@
+{
+  "id": "dockethq",
+  "title": "Docket",
+  "subtitle": "Docket is a meeting-focused workspace for collaborative agenda creation, decision documentation, and action item trac...",
+  "tags": [
+    "meetings",
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589208745/catalog/dockethq/icon128x128.png",
+  "website": "https://www.dockethq.com/"
+}

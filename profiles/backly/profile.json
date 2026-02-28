@@ -1,0 +1,13 @@
+{
+  "id": "backly",
+  "title": "Backly",
+  "subtitle": "Backly API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433208/catalog/backly/icon128x128.png",
+  "website": "https://back.ly"
+}

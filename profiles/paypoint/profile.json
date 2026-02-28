@@ -1,0 +1,13 @@
+{
+  "id": "paypoint",
+  "title": "PayPoint",
+  "subtitle": "PayPoint offers in store payment services for consumers, retailer services as well as secure mobile &amp; online mult...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591112897/icons/paypoint.jpg",
+  "website": "https://paypoint.com/"
+}

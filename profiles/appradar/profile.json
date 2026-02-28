@@ -1,0 +1,13 @@
+{
+  "id": "appradar",
+  "title": "App Radar",
+  "subtitle": "App Radar grows your apps and mobile game business  Powered by data-driven App Store Optimization and App Store Adv...",
+  "tags": [
+    "aso"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801307/catalog/appradar/icon128x128.jpg",
+  "website": "https://appradar.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "appier",
+  "title": "Appier",
+  "subtitle": "Appier API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964302/catalog/appier/icon128x128.png",
+  "website": "https://appier.com"
+}

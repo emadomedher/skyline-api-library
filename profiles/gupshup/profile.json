@@ -1,0 +1,13 @@
+{
+  "id": "gupshup",
+  "title": "Gupshup",
+  "subtitle": "Gupshup API integration",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826550/catalog/gupshup/icon128x128.png",
+  "website": "https://gupshup.io"
+}

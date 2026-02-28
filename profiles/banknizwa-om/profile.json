@@ -1,0 +1,13 @@
+{
+  "id": "banknizwa-om",
+  "title": "Bank Nizwa",
+  "subtitle": "Bank Nizwa is Oman’s first dedicated Islamic bank, with fully Shari’a compliant products and services.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609719583/icons/banknizwa-om.jpg",
+  "website": "https://www.banknizwa.om/"
+}

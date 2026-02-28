@@ -1,0 +1,15 @@
+{
+  "id": "spacy-io",
+  "title": "spaCy",
+  "subtitle": "spaCy is a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependen...",
+  "tags": [
+    "data-science",
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683414787/icons/spacy-io.png",
+  "website": "https://spacy.io/",
+  "docsUrl": "https://github.com/explosion/spacy/tree/master/website/docs/api/index.mdx"
+}

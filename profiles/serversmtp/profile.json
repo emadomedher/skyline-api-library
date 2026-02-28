@@ -1,0 +1,14 @@
+{
+  "id": "serversmtp",
+  "title": "turboSMTP",
+  "subtitle": "SOME AMONG OUR 100.000 HAPPY CUSTOMERS",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578165590/catalog/serversmtp/icon128x128.jpg",
+  "website": "https://serversmtp.com/",
+  "docsUrl": "https://serversmtp.com/en/developer-account-terms-conditions"
+}

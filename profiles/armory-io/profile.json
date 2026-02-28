@@ -1,0 +1,15 @@
+{
+  "id": "armory-io",
+  "title": "Armory.io",
+  "subtitle": "With Armory Spinnaker, devs are empowered to deploy code with safety, resilience, velocity, and compliance to any pro...",
+  "tags": [
+    "continuous-integration",
+    "deployments"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614369/catalog/armory-io/icon128x128.jpg",
+  "website": "https://www.armory.io/",
+  "docsUrl": "https://www.armory.io/solutions/developer-empowerment"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ridder-nl",
+  "title": "Ridder IQ",
+  "subtitle": "Ridder iQ is het ERP-pakket voor de maakindustrie. Ontwikkeld vanuit eigen praktijk, volledig op maat voor uw bedrijf...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601556273/icons/ridder-nl.jpg",
+  "website": "https://ridder.nl/"
+}

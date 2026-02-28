@@ -1,0 +1,14 @@
+{
+  "id": "dialpad",
+  "title": "Dialpad",
+  "subtitle": "Get business VoIP with Dialpad and connect your team with a cloud phone system that makes business communications eas...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975849/icons/dialpad.png",
+  "website": "https://dialpad.com",
+  "docsUrl": "https://developers.dialpad.com/docs"
+}

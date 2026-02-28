@@ -1,0 +1,13 @@
+{
+  "id": "sibs",
+  "title": "SIBS",
+  "subtitle": "SIBS API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574855510/catalog/sibs/icon128x128.jpg",
+  "website": "https://www.sibs.com/"
+}

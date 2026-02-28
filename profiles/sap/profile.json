@@ -1,0 +1,14 @@
+{
+  "id": "sap",
+  "title": "SAP",
+  "subtitle": "SAP API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547936490/catalog/sap/icon128x128.png",
+  "website": "https://sap.com",
+  "docsUrl": "https://developers.sap.com/"
+}

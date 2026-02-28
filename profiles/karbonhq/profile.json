@@ -1,0 +1,13 @@
+{
+  "id": "karbonhq",
+  "title": "Karbon",
+  "subtitle": "Karbon provides a truly collaborative platform for accounting firms to manage workflows, communicate with teams and d...",
+  "tags": [
+    "accounting-firm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701481/icons/karbonhq.png",
+  "website": "https://karbonhq.com/"
+}

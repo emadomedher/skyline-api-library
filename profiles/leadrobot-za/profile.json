@@ -1,0 +1,14 @@
+{
+  "id": "leadrobot-za",
+  "title": "LeadRobot",
+  "subtitle": "AI Driven Predictive Lead Scoring",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698447/icons/leadrobot-za.jpg",
+  "website": "https://www.leadrobot.co.za/",
+  "docsUrl": "https://docs.google.com/document/d/e/2pacx-1vrggurdrl2gsekqbe9dbka1rpnlloeitm778fu2tfemhrzh2lv3_izdjsojlwffv3_x85pbetgqliwg/pub"
+}

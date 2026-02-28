@@ -1,0 +1,12 @@
+{
+  "id": "pinterest-tag",
+  "title": "Pinterest Tag",
+  "subtitle": "Pinterest Tag API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439307/catalog/pinterest-tag/icon128x128.svg"
+}

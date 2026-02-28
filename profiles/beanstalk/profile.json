@@ -1,0 +1,13 @@
+{
+  "id": "beanstalk",
+  "title": "Beanstalk",
+  "subtitle": "A fast and secure way to handle a team's code, <a href=\"http://beanstalkapp.com/\" rel=\"nofollow\">Beanstalk</a> suppor...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304478/catalog/beanstalk/icon128x128.png",
+  "website": "https://beanstalkapp.com/"
+}

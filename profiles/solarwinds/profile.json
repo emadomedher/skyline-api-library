@@ -1,0 +1,15 @@
+{
+  "id": "solarwinds",
+  "title": "SolarWinds",
+  "subtitle": "SolarWinds IT monitoring and management tools are built for SysAdmins and network engineers who need powerful and aff...",
+  "tags": [
+    "monitoring",
+    "apm"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566502899/catalog/solarwinds/icon128x128.jpg",
+  "website": "https://www.solarwinds.com/",
+  "docsUrl": "https://support.solarwinds.com/SuccessCenter/s"
+}

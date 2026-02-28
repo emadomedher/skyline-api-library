@@ -1,0 +1,13 @@
+{
+  "id": "payflow-io",
+  "title": "Payflow",
+  "subtitle": "Payroll service task-management software, done right! Still using spreadsheets, paper checklists and whiteboards? Pay...",
+  "tags": [
+    "payroll-service-task-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638823290/icons/payflow-io.jpg",
+  "website": "https://www.payflow.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "operator",
+  "title": "Operator",
+  "subtitle": "Operator API integration",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662389205/icons/operator.jpg",
+  "website": "https://www.operator.com/",
+  "docsUrl": "https://2gj3dlwffpa.typeform.com/operator-ea#email=dogecoin&role=developer"
+}

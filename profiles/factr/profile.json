@@ -1,0 +1,13 @@
+{
+  "id": "factr",
+  "title": "Factr",
+  "subtitle": "Factr helps businesses, teams, and individuals \u0003find and share the information they need, and make better decisions.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947015/catalog/factr/icon128x128.jpg",
+  "website": "https://factr.com"
+}

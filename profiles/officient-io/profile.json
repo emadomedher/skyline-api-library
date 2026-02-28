@@ -1,0 +1,15 @@
+{
+  "id": "officient-io",
+  "title": "Officient",
+  "subtitle": "Officient offers a fully integrated HR platform. Manage employees, payroll, benefits, assets, contracts, days off, fl...",
+  "tags": [
+    "human-resources",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565297165/catalog/officient-io/icon128x128.jpg",
+  "website": "https://officient.io",
+  "docsUrl": "https://apidocs.officient.io/"
+}

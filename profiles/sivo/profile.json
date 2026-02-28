@@ -1,0 +1,15 @@
+{
+  "id": "sivo",
+  "title": "Sivo",
+  "subtitle": "Sivo is debt as a service with an API that allows companies to risk score their users and lend them money at scale. W...",
+  "tags": [
+    "embedded-debt",
+    "finance-as-a-service",
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616410447/icons/sivo.jpg",
+  "website": "https://www.sivo.com/"
+}

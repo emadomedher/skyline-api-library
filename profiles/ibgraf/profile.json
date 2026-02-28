@@ -1,0 +1,15 @@
+{
+  "id": "ibgraf",
+  "title": "IBGraf",
+  "subtitle": "Implanté à Liège, Wavre et Luxembourg, IBGraf est spécialisé dans l’informatique de gestion depuis 1982.",
+  "tags": [
+    "managed-it",
+    "service-partners",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622409881/icons/ibgraf.jpg",
+  "website": "https://ibgraf.com/"
+}

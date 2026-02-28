@@ -1,0 +1,14 @@
+{
+  "id": "bol-com",
+  "title": "bol.com",
+  "subtitle": "Bol.com is a webshop in the Netherlands and offers general merchandising products in categories such as music, film, ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509323/catalog/bol-com/icon128x128.png",
+  "website": "https://www.bol.com",
+  "docsUrl": "https://developers.bol.com/"
+}

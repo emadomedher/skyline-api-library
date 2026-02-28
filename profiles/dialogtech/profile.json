@@ -1,0 +1,13 @@
+{
+  "id": "dialogtech",
+  "title": "Dialogtech",
+  "subtitle": "DialogTech’s AI call tracking and conversation analytics helps digital marketers and agencies track ROI, drive sales,...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719783/catalog/dialogtech/icon128x128.jpg",
+  "website": "https://dialogtech.com"
+}

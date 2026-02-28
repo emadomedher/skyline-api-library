@@ -1,0 +1,15 @@
+{
+  "id": "joinlane",
+  "title": "Lane",
+  "subtitle": "A workplace experience platform designed to build community, connectivity and engagement at any office building. ",
+  "tags": [
+    "proptech",
+    "workspace-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608194309/icons/joinlane.jpg",
+  "website": "https://joinlane.com/",
+  "docsUrl": "https://apps.apple.com/ca/developer/lane-technologies-inc/id1038580582#see-all/i-phonei-pad-apps"
+}

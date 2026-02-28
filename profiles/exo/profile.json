@@ -1,0 +1,13 @@
+{
+  "id": "exo",
+  "title": "Exo",
+  "subtitle": "eXo Platform, an Open Source Team Collaboration Software, provides medium and large enterprises with modern intranet,...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947034/catalog/exo/icon128x128.png",
+  "website": "https://exoplatform.com"
+}

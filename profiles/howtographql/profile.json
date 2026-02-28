@@ -1,0 +1,16 @@
+{
+  "id": "howtographql",
+  "title": "How to GraphQL",
+  "subtitle": "Fullstack GraphQL Tutorial to go from zero to production covering all basics and advanced concepts. Includes tutorial...",
+  "tags": [
+    "graphql",
+    "resources",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607014587/icons/howtographql.jpg",
+  "website": "https://www.howtographql.com/",
+  "docsUrl": "https://developer.github.com/v4/guides/resource-limitations"
+}

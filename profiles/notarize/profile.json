@@ -1,0 +1,14 @@
+{
+  "id": "notarize",
+  "title": "Notarize",
+  "subtitle": "Notarize provides legal online notarizations available 24x7. Connect with licensed electronic notaries by live video ...",
+  "tags": [
+    "notarization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616750587/icons/notarize.png",
+  "website": "https://www.notarize.com/",
+  "docsUrl": "https://docs.google.com/document/d/1wtnu3ykj-xxh7znz40nobafwy2toibiv/edit#bookmark=id.35nkun2"
+}

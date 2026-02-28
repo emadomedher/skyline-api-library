@@ -1,0 +1,13 @@
+{
+  "id": "convertkit",
+  "title": "ConvertKit",
+  "subtitle": "ConvertKit is an email marketing platform for professional bloggers. Easily create email sequences, tag subscribers, ...",
+  "tags": [
+    "drip-emails"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304691/catalog/convertkit/icon128x128.png",
+  "website": "https://convertkit.com/"
+}

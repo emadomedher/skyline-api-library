@@ -1,0 +1,15 @@
+{
+  "id": "f5",
+  "title": "F5 Networks",
+  "subtitle": "F5 application services ensure that applications are always secure and perform the way they should—in any environment...",
+  "tags": [
+    "security",
+    "application-delivery"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574007375/catalog/f5/icon128x128.png",
+  "website": "https://www.f5.com/",
+  "docsUrl": "https://interact.f5.com/F5-Preference-Center.html"
+}

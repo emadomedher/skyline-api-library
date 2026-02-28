@@ -1,0 +1,13 @@
+{
+  "id": "sellerlabs",
+  "title": "sellerlabs",
+  "subtitle": "sellerlabs API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962403/catalog/sellerlabs/icon128x128.png",
+  "website": "https://sellerlabs.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "whispli",
+  "title": "Whispli",
+  "subtitle": "Whispli is the leading platform to engage anonymously with your employees whether it be for compliance, HR or culture...",
+  "tags": [
+    "hr",
+    "compliance",
+    "whistleblowing"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615245820/icons/whispli.jpg",
+  "website": "https://www.whispli.com/"
+}

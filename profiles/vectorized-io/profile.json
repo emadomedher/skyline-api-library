@@ -1,0 +1,16 @@
+{
+  "id": "vectorized-io",
+  "title": "vectorized.io",
+  "subtitle": "Redpanda is a Kafka® replacement for mission critical systems focused on operational simplicy, no data loss, engineer...",
+  "tags": [
+    "data-streaming",
+    "event-streaming",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611696016/icons/vectorized-io.jpg",
+  "website": "https://vectorized.io/",
+  "docsUrl": "https://vectorized.io/docs"
+}

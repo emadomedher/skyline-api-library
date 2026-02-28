@@ -1,0 +1,13 @@
+{
+  "id": "hmbradley",
+  "title": "HMBradley",
+  "subtitle": "Banking is old. Building is new. HMBradley develops a digital banking platform that automates the process of physical...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585655823/catalog/hmbradley/icon128x128.png",
+  "website": "https://www.hmbradley.com/"
+}

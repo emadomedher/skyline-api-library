@@ -1,0 +1,15 @@
+{
+  "id": "air-inc",
+  "title": "Air",
+  "subtitle": "Centralize your team's content in workspace that's organized, searchable, versioned, and easy to share. Your first 5G...",
+  "tags": [
+    "files",
+    "dam"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622794466/icons/air-inc.jpg",
+  "website": "https://air.inc/",
+  "docsUrl": "https://partner-security.withgoogle.com/docs/pentest_guidelines"
+}

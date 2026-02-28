@@ -1,0 +1,13 @@
+{
+  "id": "sign-upto",
+  "title": "Sign-Up.to",
+  "subtitle": "Integrate with the Sign-Up.to Permission Marketing API to manage the whole Permission Marketing cycle. Manage lists o...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306081/catalog/sign-upto/icon128x128.png",
+  "website": "https://www.signupto.com/"
+}

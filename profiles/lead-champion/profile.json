@@ -1,0 +1,13 @@
+{
+  "id": "lead-champion",
+  "title": "Lead Champion",
+  "subtitle": "Scopri potenziali clienti fra le aziende che visitano il tuo sito web e aumenta i contatti con form a comparsa intell...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720766/catalog/lead-champion/icon128x128.jpg",
+  "website": "https://leadchampion.com"
+}

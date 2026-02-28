@@ -1,0 +1,14 @@
+{
+  "id": "zapier-imap",
+  "title": "IMAP by Zapier",
+  "subtitle": "IMAP stands for Internet message access protocol, which is a widely used protocol for e-mail retrieval available in M...",
+  "tags": [
+    "zapier-tools",
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809810/catalog/zapier-imap/icon128x128.png",
+  "website": "https://zapier.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "syncspider",
+  "title": "SyncSpider",
+  "subtitle": "Synchronize your Webapp data  across 100’s of channels and platforms Automatically sync all your Webapp data like con...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597145920/icons/syncspider.jpg",
+  "website": "https://www.syncspider.com/"
+}

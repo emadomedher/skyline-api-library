@@ -1,0 +1,13 @@
+{
+  "id": "bossdata-be",
+  "title": "BossData",
+  "subtitle": "BossData - Digital Business Analysts & Advertising Experts. Digital Strategy ✓ Analytics ✓ Digital Marketing ✓ BossDa...",
+  "tags": [
+    "marketing-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658334509/icons/bossdata-be.png",
+  "website": "https://bossdata.be/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cangrade",
+  "title": "Cangrade",
+  "subtitle": "Results-driven, bias-free hiring. Harness the power of AI to build successful, equitable teams with Cangrade.",
+  "tags": [
+    "pre-employment-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633532404/icons/cangrade.jpg",
+  "website": "https://www.cangrade.com/"
+}

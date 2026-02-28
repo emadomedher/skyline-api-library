@@ -1,0 +1,13 @@
+{
+  "id": "xuppay",
+  "title": "XUP Payments",
+  "subtitle": "Own your merchant experience. XUP has multiple solutions designed to control the end-to-end payment experience, drivi...",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671556/icons/xuppay.jpg",
+  "website": "https://xuppay.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bavard-ai",
+  "title": "Bavard",
+  "subtitle": "Build Your Brand Connecting With Customers",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644396759/icons/bavard-ai.jpg",
+  "website": "https://bavard.ai/",
+  "docsUrl": "https://docs.bavard.ai"
+}

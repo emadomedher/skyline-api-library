@@ -1,0 +1,15 @@
+{
+  "id": "deluxe",
+  "title": "Deluxe",
+  "subtitle": "From payments to promotional products, digital marketing, incorporation services and more – Deluxe has been supportin...",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement",
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434155/catalog/deluxe/icon128x128.png",
+  "website": "https://fi.deluxe.com",
+  "docsUrl": "https://www.deluxe.com/policy/mobile-webservices"
+}

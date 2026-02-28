@@ -1,0 +1,14 @@
+{
+  "id": "keytel",
+  "title": "Keytel",
+  "subtitle": "Keytel API integration",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612576557/icons/keytel.png",
+  "website": "http://www.keytel.com/"
+}

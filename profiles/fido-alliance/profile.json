@@ -1,0 +1,14 @@
+{
+  "id": "fido-alliance",
+  "title": "FIDO Alliance",
+  "subtitle": "FIDO Alliance is focused on providing open and free authentication standards to help reduce the world’s reliance on p...",
+  "tags": [
+    "authentication-standards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869892/icons/fido-alliance.jpg",
+  "website": "https://fidoalliance.org/",
+  "docsUrl": "https://fidoalliance.org/developers"
+}

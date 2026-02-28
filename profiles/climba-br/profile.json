@@ -1,0 +1,13 @@
+{
+  "id": "climba-br",
+  "title": "Climba Commerce",
+  "subtitle": "Climba Commerce API integration",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642620035/icons/climba-br.png",
+  "website": "https://www.climba.com.br/"
+}

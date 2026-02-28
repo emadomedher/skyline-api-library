@@ -1,0 +1,14 @@
+{
+  "id": "reply-sales-catalog",
+  "title": "Reply Sales Catalog",
+  "subtitle": "A hand-curated list of sales tools & resources for SDRs, Account Executives and Sales Leaders. From lead generation t...",
+  "tags": [
+    "directories",
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574213144/catalog/reply-sales-catalog/icon128x128.jpg",
+  "website": "https://sales.reply.io/"
+}

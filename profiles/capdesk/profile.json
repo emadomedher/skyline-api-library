@@ -1,0 +1,14 @@
+{
+  "id": "capdesk",
+  "title": "Capdesk from Carta",
+  "subtitle": "Capdesk from Carta helps European companies simplify equity management. Manage your share plans, digitise your cap ta...",
+  "tags": [
+    "equity-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686603013/icons/capdesk.png",
+  "website": "https://www.capdesk.com/",
+  "docsUrl": "https://2303724.fs1.hubspotusercontent-na1.net/hubfs/2303724/legal%20docs/capdesk%20privacy%20statement%20(1).pdf"
+}

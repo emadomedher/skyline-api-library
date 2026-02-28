@@ -1,0 +1,13 @@
+{
+  "id": "boomset",
+  "title": "Boomset",
+  "subtitle": "Event management software solutions with on-site badge printing, RFID technology, and more for a seamless on-site eve...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719189/catalog/boomset/icon128x128.jpg",
+  "website": "https://boomset.com"
+}

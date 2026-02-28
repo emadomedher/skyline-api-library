@@ -1,0 +1,13 @@
+{
+  "id": "xepelin",
+  "title": "Xepelin",
+  "subtitle": "Ofrecemos Servicios Financieros de Financiamiento Directo, Pronto Pago, Créditos y Confirming digitales para PYMES en...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602837373/icons/xepelin.jpg",
+  "website": "https://www.xepelin.com/"
+}

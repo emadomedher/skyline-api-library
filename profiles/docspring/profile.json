@@ -1,0 +1,16 @@
+{
+  "id": "docspring",
+  "title": "DocSpring",
+  "subtitle": "Build an API integration in minutes and fill out PDF forms with your data. Set up field positions and data types usin...",
+  "tags": [
+    "pdf-api",
+    "documents",
+    "forms"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599352468/icons/docspring.jpg",
+  "website": "https://docspring.com/",
+  "docsUrl": "https://docspring.com/docs"
+}

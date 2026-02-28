@@ -1,0 +1,14 @@
+{
+  "id": "omnio-global",
+  "title": "OMNIO",
+  "subtitle": "We are a global technology partner for banks, building societies & credit unions; and we help ‘bankify’ enterprises. ...",
+  "tags": [
+    "payments",
+    "banking-as-a-service"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623613/icons/omnio-global.jpg",
+  "website": "https://www.omnio.global/"
+}

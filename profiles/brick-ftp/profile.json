@@ -1,0 +1,12 @@
+{
+  "id": "brick-ftp",
+  "title": "Brick FTP",
+  "subtitle": "Get your own server to send and receive files to and from your clients, vendors and co-workers. Supports any browser,...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304544/catalog/brick-ftp/icon128x128.png"
+}

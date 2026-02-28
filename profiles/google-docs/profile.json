@@ -1,0 +1,14 @@
+{
+  "id": "google-docs",
+  "title": "Google Docs",
+  "subtitle": "Google Docs is an online word processor that lets you create and format text documents. Collaboratively edit document...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456638/catalog/google-docs/icon128x128.png",
+  "website": "https://www.google.com/docs/about/",
+  "docsUrl": "https://developers.google.com/docs/api"
+}

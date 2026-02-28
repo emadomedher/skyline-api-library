@@ -1,0 +1,13 @@
+{
+  "id": "brandssl-io",
+  "title": "BrandSSL",
+  "subtitle": "BrandSSL provides On demand SSL management solution for SaaS businesses, distributed via a global node. Get started w...",
+  "tags": [
+    "ssl-certificates"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615018610/icons/brandssl-io.png",
+  "website": "https://www.brandssl.io/"
+}

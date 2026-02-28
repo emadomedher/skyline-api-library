@@ -1,0 +1,13 @@
+{
+  "id": "quotevine",
+  "title": "Quotevine",
+  "subtitle": "Quotevine is a UK Based fintech cloud solutions provider, that helps \nbusinesses in the automotive, asset and consume...",
+  "tags": [
+    "quotation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606682557/icons/quotevine.jpg",
+  "website": "https://www.quotevine.com/"
+}

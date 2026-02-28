@@ -1,0 +1,14 @@
+{
+  "id": "amgtime",
+  "title": "AMGtime",
+  "subtitle": "AMGtime simplifies employee time tracking & attendance management with Cloud & PC time clock software, biometric devi...",
+  "tags": [
+    "attendance-tracking",
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049896/icons/amgtime.jpg",
+  "website": "https://amgtime.com/"
+}

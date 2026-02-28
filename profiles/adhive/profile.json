@@ -1,0 +1,14 @@
+{
+  "id": "adhive",
+  "title": "Adhive",
+  "subtitle": "Advertising through Instagram influencers. No negotiations, precise targeting and full automation.",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947311/catalog/adhive/icon128x128.jpg",
+  "website": "https://adhive.com",
+  "docsUrl": "https://adhive.com/assets/docs/PrivacyPolicy_adhiveplatform.pdf"
+}

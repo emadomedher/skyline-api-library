@@ -1,0 +1,13 @@
+{
+  "id": "orderwise-uk",
+  "title": "OrderWise",
+  "subtitle": "OrderWise software - ERP, Warehouse Management & Stock Control Software. Award Winning Class-Leading Solution - eComm...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626758169/icons/orderwise-uk.jpg",
+  "website": "https://orderwise.co.uk/"
+}

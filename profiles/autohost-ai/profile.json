@@ -1,0 +1,14 @@
+{
+  "id": "autohost-ai",
+  "title": "Autohost",
+  "subtitle": "Intelligent guest screening and Airbnb background checks for short-term rental and hotel operators. Prevent parties, ...",
+  "tags": [
+    "identity-verification",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645810182/icons/autohost-ai.png",
+  "website": "https://www.autohost.ai/"
+}

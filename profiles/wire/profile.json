@@ -1,0 +1,13 @@
+{
+  "id": "wire",
+  "title": "Wire",
+  "subtitle": "Business chats, one-click conference calls and shared documents — all protected with end-to-end encryption. Welcome t...",
+  "tags": [
+    "collaboration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588389105/catalog/wire/icon128x128.jpg",
+  "website": "https://wire.com/"
+}

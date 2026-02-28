@@ -1,0 +1,14 @@
+{
+  "id": "vts",
+  "title": "VTS",
+  "subtitle": "Transform your commercial real estate and lease management process with VTS. Landlords and CRE brokers can manage ass...",
+  "tags": [
+    "real-estate-crm",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624490430/icons/vts.jpg",
+  "website": "https://www.vts.com/"
+}

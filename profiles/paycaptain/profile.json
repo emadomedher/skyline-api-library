@@ -1,0 +1,13 @@
+{
+  "id": "paycaptain",
+  "title": "PayCaptain",
+  "subtitle": "PayCaptain is the first UK cloud-based payroll software solution designed to bring Payroll, Banking, and Financial We...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648688822/icons/paycaptain.jpg",
+  "website": "https://www.paycaptain.com/"
+}

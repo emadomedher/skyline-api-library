@@ -1,0 +1,13 @@
+{
+  "id": "koalendar",
+  "title": "Koalendar",
+  "subtitle": "Looking for a free appointment scheduling software that integrates seamlessly with your Google Calendars? Koalendar i...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674851877/icons/koalendar.jpg",
+  "website": "https://koalendar.com/"
+}

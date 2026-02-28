@@ -1,0 +1,13 @@
+{
+  "id": "firstrepublic",
+  "title": "First Republic Bank",
+  "subtitle": "First Republic Bank is an American bank and wealth management company offering personal banking, business banking, tr...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575925956/catalog/firstrepublic/icon128x128.jpg",
+  "website": "https://www.firstrepublic.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "netric",
+  "title": "Netric",
+  "subtitle": "Netric API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946788/catalog/netric/icon128x128.png",
+  "website": "https://netric.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "forescout",
+  "title": "Forescout",
+  "subtitle": "Forescout actively defends the Enterprise of Things by identifying, segmenting and enforcing compliance of every conn...",
+  "tags": [
+    "iot-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605602528/icons/forescout.png",
+  "website": "https://www.forescout.com/",
+  "docsUrl": "https://www.forescout.com/company/technical-documentation"
+}

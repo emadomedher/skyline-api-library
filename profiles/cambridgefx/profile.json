@@ -1,0 +1,13 @@
+{
+  "id": "cambridgefx",
+  "title": "Cambridge",
+  "subtitle": "Cambridge Global Payments innovative payment technologies connect you to success.",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606682567/icons/cambridgefx.jpg",
+  "website": "https://www.cambridgefx.com/"
+}

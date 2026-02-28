@@ -1,0 +1,15 @@
+{
+  "id": "gist",
+  "title": "Gist",
+  "subtitle": "Gist is an all-in-one growth software that serves as a central source of truth through the entire customer journey. G...",
+  "tags": [
+    "marketing-automation",
+    "customer-support"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284527/catalog/gist/icon128x128.png",
+  "website": "https://getgist.com/",
+  "docsUrl": "https://docs.getgist.com"
+}

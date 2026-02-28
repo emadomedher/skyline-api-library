@@ -1,0 +1,13 @@
+{
+  "id": "skype-for-business",
+  "title": "Skype for Business",
+  "subtitle": "Skype for Business is an instant messaging enterprise software used with Skype for Business Server or with Skype for ...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573437315/catalog/skype-for-business/icon128x128.jpg",
+  "website": "https://www.skype.com/en/business/"
+}

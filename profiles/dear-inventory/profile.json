@@ -1,0 +1,13 @@
+{
+  "id": "dear-inventory",
+  "title": "DEAR Inventory",
+  "subtitle": "DEAR is an all in one holistic solution for Inventory Management, POS & B2B eCommerce. Easily manage all your invento...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284493/catalog/dear-inventory/icon128x128.png",
+  "docsUrl": "https://dearinventory.docs.apiary.io/"
+}

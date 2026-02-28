@@ -1,0 +1,15 @@
+{
+  "id": "flockjay",
+  "title": "Flockjay",
+  "subtitle": "We support jobseekers and companies looking to level up in B2B tech sales. We offer 300+ hours of expert, fully-remot...",
+  "tags": [
+    "hr",
+    "sales",
+    "carreer-planning"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594375625/icons/flockjay.jpg",
+  "website": "https://flockjay.com/"
+}

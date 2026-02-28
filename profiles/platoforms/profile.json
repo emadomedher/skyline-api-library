@@ -1,0 +1,12 @@
+{
+  "id": "platoforms",
+  "title": "PlatoForms",
+  "subtitle": "PlatoForms converts any PDF to an online web form to let your clients fill out PDF forms in the browser.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284576/catalog/platoforms/icon128x128.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "24sessions",
+  "title": "24sessions",
+  "subtitle": "Simplify communication with your customers through world-class video calling experiences. Schedule secure video calls...",
+  "tags": [
+    "video-calls"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304322/catalog/24sessions/icon128x128.png",
+  "specUrl": "https://apidocs.24sessions.com/swagger-api.yml?release=2021-02-08",
+  "website": "https://www.24sessions.com/",
+  "docsUrl": "https://apidocs.24sessions.com"
+}

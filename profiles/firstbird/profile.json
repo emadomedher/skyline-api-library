@@ -1,0 +1,13 @@
+{
+  "id": "firstbird",
+  "title": "Firstbird",
+  "subtitle": "With Firstbird, employees become brand ambassadors and referrals become your most successful recruiting channel. Book...",
+  "tags": [
+    "employee-referral"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571041831/catalog/firstbird/icon128x128.jpg",
+  "website": "https://www.firstbird.com"
+}

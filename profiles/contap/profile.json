@@ -1,0 +1,12 @@
+{
+  "id": "contap",
+  "title": "Contap",
+  "subtitle": "Contap is a networking app that allows you to easily swap contact info, social platforms, and documents with new cont...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538967/catalog/contap/icon128x128.png"
+}

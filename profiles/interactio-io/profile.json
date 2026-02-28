@@ -1,0 +1,14 @@
+{
+  "id": "interactio-io",
+  "title": "Interactio",
+  "subtitle": "Break language barriers with Interactio remote simultaneous interpretation platform. Get a full RSI solution for onli...",
+  "tags": [
+    "remote",
+    "multilingual-video-meetings"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622242227/icons/interactio-io.jpg",
+  "website": "https://www.interactio.io/"
+}

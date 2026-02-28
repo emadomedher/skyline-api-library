@@ -1,0 +1,13 @@
+{
+  "id": "clickfunnels",
+  "title": "ClickFunnels",
+  "subtitle": "Create beautiful landing pages and complete marketing funnels.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456023/catalog/clickfunnels/icon128x128.png",
+  "website": "https://www.clickfunnels.com/"
+}

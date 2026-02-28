@@ -1,0 +1,13 @@
+{
+  "id": "visma-netvisor",
+  "title": "Visma Netvisor",
+  "subtitle": "Netvisor online accounting software helps you manage your business easily and more efficiently with the help of autom...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669665506/icons/visma-netvisor.jpg",
+  "website": "https://netvisor.fi/accounting-software/"
+}

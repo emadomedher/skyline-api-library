@@ -1,0 +1,13 @@
+{
+  "id": "luxhub",
+  "title": "LUXHUB",
+  "subtitle": "LUXHUB API integration",
+  "tags": [
+    "psd-2-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575292629/catalog/luxhub/icon128x128.jpg",
+  "website": "https://www.luxhub.com/"
+}

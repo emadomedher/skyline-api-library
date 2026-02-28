@@ -1,0 +1,14 @@
+{
+  "id": "dropwizard-io",
+  "title": "Dropwizard",
+  "subtitle": "Dropwizard pulls together stable, mature libraries from the Java ecosystem into a simple, light-weight package that l...",
+  "tags": [
+    "api-frameworks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632075924/icons/dropwizard-io.png",
+  "website": "https://www.dropwizard.io/",
+  "docsUrl": "https://groups.google.com/forum/#!forum/dropwizard-dev"
+}

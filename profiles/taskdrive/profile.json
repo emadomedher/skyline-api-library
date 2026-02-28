@@ -1,0 +1,15 @@
+{
+  "id": "taskdrive",
+  "title": "TaskDrive",
+  "subtitle": "TaskDrive provides b2b lead generation service for sales teams and helps with tasks like list building, database enri...",
+  "tags": [
+    "sales",
+    "lead-generation-services",
+    "non-software"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581535409/catalog/taskdrive/icon128x128.jpg",
+  "website": "https://taskdrive.com/"
+}

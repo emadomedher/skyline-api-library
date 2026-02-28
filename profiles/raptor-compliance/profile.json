@@ -1,0 +1,13 @@
+{
+  "id": "raptor-compliance",
+  "title": "Raptor Compliance",
+  "subtitle": "One GDPR Solution combining high-tech software with expert advice to achieve GDPR Compliance for medium sized enterpr...",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721748/catalog/raptor-compliance/icon128x128.jpg",
+  "website": "https://raptorcompliance.com"
+}

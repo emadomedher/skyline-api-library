@@ -1,0 +1,14 @@
+{
+  "id": "stathat",
+  "title": "Stat Hat",
+  "subtitle": "StatHat is a custom stat tracking tool.  One line of code gets you beautiful charts, automatic alerts, and more.",
+  "tags": [
+    "time-series-charts",
+    "stat-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587320456/catalog/stathat/icon128x128.png",
+  "website": "https://www.stathat.com/"
+}

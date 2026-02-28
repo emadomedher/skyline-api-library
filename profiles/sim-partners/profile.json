@@ -1,0 +1,13 @@
+{
+  "id": "sim-partners",
+  "title": "SIM Partners",
+  "subtitle": "SIM Partners API integration",
+  "tags": [
+    "channel-partner-&-local-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437354/catalog/sim-partners/icon128x128.png",
+  "website": "https://simpartners.com"
+}

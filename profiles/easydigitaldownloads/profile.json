@@ -1,0 +1,15 @@
+{
+  "id": "easydigitaldownloads",
+  "title": "Easy Digital Downloads",
+  "subtitle": "Easy Digital Downloads is a complete eCommerce solution for WordPress. Use it right out of the box or tailor it to yo...",
+  "tags": [
+    "wordpress",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509318/catalog/easydigitaldownloads/icon128x128.png",
+  "website": "https://easydigitaldownloads.com/",
+  "docsUrl": "https://docs.easydigitaldownloads.com"
+}

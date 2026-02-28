@@ -1,0 +1,15 @@
+{
+  "id": "hexnode",
+  "title": "Hexnode",
+  "subtitle": "Hexnode MDM is an award winning Enterprise Mobility Management vendor which helps businesses to secure and manage BYO...",
+  "tags": [
+    "mobile-device-management",
+    "enterprise-device-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616460148/icons/hexnode.jpg",
+  "website": "https://www.hexnode.com/",
+  "docsUrl": "https://www.hexnode.com/mobile-device-management/api"
+}

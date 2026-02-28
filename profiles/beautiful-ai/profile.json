@@ -1,0 +1,13 @@
+{
+  "id": "beautiful-ai",
+  "title": "Beautiful.ai",
+  "subtitle": "Build better presentations with Beautiful.ai in minutes, not hours. Just think of an idea, choose a template, and wor...",
+  "tags": [
+    "presentations"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311412/catalog/beautiful-ai/icon128x128.png",
+  "website": "https://www.beautiful.ai/"
+}

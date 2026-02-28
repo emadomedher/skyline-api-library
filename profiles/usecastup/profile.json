@@ -1,0 +1,13 @@
+{
+  "id": "usecastup",
+  "title": "Castup",
+  "subtitle": "Castup is a startup that provides professional audio and video editing services subscription to Podcasters and Podcas...",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581637251/catalog/usecastup/icon128x128.jpg",
+  "website": "https://www.usecastup.com/"
+}

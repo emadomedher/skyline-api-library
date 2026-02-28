@@ -1,0 +1,13 @@
+{
+  "id": "getfeedback",
+  "title": "GetFeedback",
+  "subtitle": "Collect feedback throughout the customer journey with GetFeedback’s easy-to-use survey software, designed for busines...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720208/catalog/getfeedback/icon128x128.jpg",
+  "website": "https://getfeedback.com"
+}

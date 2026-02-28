@@ -1,0 +1,13 @@
+{
+  "id": "bigmarker",
+  "title": "BigMarker",
+  "subtitle": "BigMarker combines powerful webinar software with robust marketing features to create the world’s first end-to-end we...",
+  "tags": [
+    "webinars"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572577083/catalog/bigmarker/icon128x128.jpg",
+  "website": "https://www.bigmarker.com/"
+}

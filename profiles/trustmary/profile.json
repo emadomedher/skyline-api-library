@@ -1,0 +1,13 @@
+{
+  "id": "trustmary",
+  "title": "Trustmary",
+  "subtitle": "Automate the gathering of reviews, testimonials and feedback and improve your website conversion rate with them! - Tr...",
+  "tags": [
+    "testimonial-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698390/icons/trustmary.png",
+  "website": "https://trustmary.com/"
+}

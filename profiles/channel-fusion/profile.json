@@ -1,0 +1,13 @@
+{
+  "id": "channel-fusion",
+  "title": "Channel Fusion",
+  "subtitle": "Channel Fusion API integration",
+  "tags": [
+    "through-channel-marketing-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941494/icons/channel-fusion.png",
+  "website": "http://www.channel-fusion.com/"
+}

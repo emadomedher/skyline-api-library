@@ -1,0 +1,14 @@
+{
+  "id": "clear-co",
+  "title": "Clearco",
+  "subtitle": "Clearco is the fastest, most affordable way for founders to fund their business.",
+  "tags": [
+    "business-financing",
+    "revenue-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625937202/icons/clear-co.jpg",
+  "website": "https://clear.co/"
+}

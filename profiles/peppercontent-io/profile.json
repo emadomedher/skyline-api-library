@@ -1,0 +1,13 @@
+{
+  "id": "peppercontent-io",
+  "title": "Pepper",
+  "subtitle": "Pepper is a one stop-solution for creators and clients as we are a platform that brings together the best freelancers...",
+  "tags": [
+    "content-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614627350/icons/peppercontent-io.jpg",
+  "website": "https://www.peppercontent.io/"
+}

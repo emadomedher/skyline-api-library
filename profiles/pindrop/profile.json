@@ -1,0 +1,14 @@
+{
+  "id": "pindrop",
+  "title": "Pindrop",
+  "subtitle": "Pindrop uses AI-based IVR Authentication and Anti-Fraud Solutions to increase efficiency in call centers and stop fra...",
+  "tags": [
+    "voice-security",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617908518/icons/pindrop.jpg",
+  "website": "https://www.pindrop.com/"
+}

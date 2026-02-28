@@ -1,0 +1,13 @@
+{
+  "id": "cajasur-banco",
+  "title": "Cajasur Banco",
+  "subtitle": "CajaSur is a Spanish savings bank, property of Kutxabank. It has offices in Andalusia and Extremadura.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623529068/icons/cajasur-banco.png",
+  "website": "https://cajasur.es/"
+}

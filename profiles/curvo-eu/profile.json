@@ -1,0 +1,14 @@
+{
+  "id": "curvo-eu",
+  "title": "Curvo",
+  "subtitle": "We're building a better way of saving money compared to a traditional savings account by passive investing in index f...",
+  "tags": [
+    "fintech",
+    "savings"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571824346/catalog/curvo-eu/icon128x128.jpg",
+  "website": "https://curvo.eu"
+}

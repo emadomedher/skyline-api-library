@@ -1,0 +1,13 @@
+{
+  "id": "adestra",
+  "title": "Adestra",
+  "subtitle": "Powerful, easy-to-use Email Marketing Software. Customise & configure the structure of the system to your business re...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947314/catalog/adestra/icon128x128.png",
+  "website": "https://adestra.com"
+}

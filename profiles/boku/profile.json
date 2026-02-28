@@ -1,0 +1,14 @@
+{
+  "id": "boku",
+  "title": "Boku",
+  "subtitle": "Welcome to Boku Inc. (LON:BOKU). Merchants and carriers all over the world trust us to deliver innovative and effecti...",
+  "tags": [
+    "mobile-operators",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595194350/icons/boku.png",
+  "website": "https://www.boku.com/"
+}

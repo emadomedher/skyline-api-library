@@ -1,0 +1,13 @@
+{
+  "id": "moco",
+  "title": "MOCO",
+  "subtitle": "MOCO (MObile COmpany) is a lean cloud software made for small medium-sized agency and service businesses. Including t...",
+  "tags": [
+    "time-tracking",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305466/catalog/moco/icon128x128.png"
+}

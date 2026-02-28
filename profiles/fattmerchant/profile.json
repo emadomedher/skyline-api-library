@@ -1,0 +1,14 @@
+{
+  "id": "fattmerchant",
+  "title": "Fattmerchant",
+  "subtitle": "Merchant service provider. Offering flat-rate, month-to-month, and no strings attached transparent credit card proces...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606090621/icons/fattmerchant.jpg",
+  "website": "https://fattmerchant.com/",
+  "docsUrl": "https://fattmerchant.com/api"
+}

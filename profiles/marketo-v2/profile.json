@@ -1,0 +1,12 @@
+{
+  "id": "marketo-v2",
+  "title": "Marketo V2",
+  "subtitle": "Marketo V2 API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439266/catalog/marketo-v2/icon128x128.svg"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "amboss",
+  "title": "AMBOSS",
+  "subtitle": "Study smarter, not harder. AMBOSS is a breakthrough medical learning  platform dedicated to helping future physicians...",
+  "tags": [
+    "medical",
+    "knowledge",
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569892420/catalog/amboss/icon128x128.png",
+  "website": "https://www.amboss.com"
+}

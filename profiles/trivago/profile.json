@@ -1,0 +1,14 @@
+{
+  "id": "trivago",
+  "title": "trivago",
+  "subtitle": "Vergelijk hotelprijzen en profiteer van geweldige aanbiedingen. Bespaar tijd en geld bij het zoeken naar een accommod...",
+  "tags": [
+    "travel-meta-search",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641112/icons/trivago.jpg",
+  "website": "https://www.trivago.com/"
+}

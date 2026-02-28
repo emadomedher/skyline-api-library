@@ -1,0 +1,13 @@
+{
+  "id": "transporeon",
+  "title": "Transporeon",
+  "subtitle": "Transporeon API integration",
+  "tags": [
+    "logistics"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642182914/icons/transporeon.png",
+  "website": "https://www.transporeon.com/"
+}

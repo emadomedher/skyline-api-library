@@ -1,0 +1,13 @@
+{
+  "id": "kwfinder",
+  "title": "KWFinder",
+  "subtitle": "KWFinder API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435431/catalog/kwfinder/icon128x128.png",
+  "website": "https://kwfinder.com"
+}

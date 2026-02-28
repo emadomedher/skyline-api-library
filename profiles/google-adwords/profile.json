@@ -1,0 +1,12 @@
+{
+  "id": "google-adwords",
+  "title": "Google AdWords",
+  "subtitle": "AdWords is the premier platform for intent based advertising.",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055925/catalog/google-adwords/icon128x128.png"
+}

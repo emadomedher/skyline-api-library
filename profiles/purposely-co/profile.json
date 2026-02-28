@@ -1,0 +1,13 @@
+{
+  "id": "purposely-co",
+  "title": "Purposely",
+  "subtitle": "Discover the perfect volunteer opportunity that matches your lifestyle",
+  "tags": [
+    "employee-volunteering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642182941/icons/purposely-co.jpg",
+  "website": "https://purposely.co/"
+}

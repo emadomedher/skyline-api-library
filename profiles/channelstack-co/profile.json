@@ -1,0 +1,13 @@
+{
+  "id": "channelstack-co",
+  "title": "Channel Stack",
+  "subtitle": "Learn what channel software vendors are available in various categories from Forrester analyst Jay McBain.",
+  "tags": [
+    "directories"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593465471/icons/channelstack-co.jpg",
+  "website": "http://www.channelstack.co/"
+}

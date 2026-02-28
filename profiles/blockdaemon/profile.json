@@ -1,0 +1,14 @@
+{
+  "id": "blockdaemon",
+  "title": "Blockdaemon",
+  "subtitle": "Stake, Stake, Scale, and Deploy Nodes: Institutional Grade Blockchain Infrastructure serving leading crypto platforms...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794392/icons/blockdaemon.jpg",
+  "website": "https://blockdaemon.com/",
+  "docsUrl": "https://blockdaemon.com/docs"
+}

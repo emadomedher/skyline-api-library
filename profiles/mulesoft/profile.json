@@ -1,0 +1,15 @@
+{
+  "id": "mulesoft",
+  "title": "MuleSoft",
+  "subtitle": "MuleSoft provides the most widely used integration platform (Mule ESB & CloudHub) for connecting SaaS & enterprise ap...",
+  "tags": [
+    "ipaas-clouddata-integration-and-tag-management",
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946798/catalog/mulesoft/icon128x128.png",
+  "website": "https://mulesoft.com",
+  "docsUrl": "https://www.mulesoft.com/integration-solutions/developer"
+}

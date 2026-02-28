@@ -1,0 +1,13 @@
+{
+  "id": "typewise-app",
+  "title": "Typewise",
+  "subtitle": "The best free smartphone keyboard app. Type faster with 4x fewer typos + 100% privacy. Next-gen hexagon keyboard, sup...",
+  "tags": [
+    "text-prediction-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701427/icons/typewise-app.jpg",
+  "website": "https://www.typewise.app/"
+}

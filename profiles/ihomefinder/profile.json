@@ -1,0 +1,12 @@
+{
+  "id": "ihomefinder",
+  "title": "iHomefinder",
+  "subtitle": "IHomefinder is a leading national provider of real estate search technology and websites. Using the Internet Data eXc...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538997/catalog/ihomefinder/icon128x128.png"
+}

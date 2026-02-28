@@ -1,0 +1,13 @@
+{
+  "id": "loginhood-io",
+  "title": "Loginhood",
+  "subtitle": "Start blocking 500+ trackers that have been taking your data. Stop companies from earning money for your data. Your D...",
+  "tags": [
+    "privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578262217/catalog/loginhood-io/icon128x128.jpg",
+  "website": "https://loginhood.io/"
+}

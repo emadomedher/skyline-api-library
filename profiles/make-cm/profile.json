@@ -1,0 +1,14 @@
+{
+  "id": "make-cm",
+  "title": "Make",
+  "subtitle": "Generate and deliver high quality images and PDFs with the simplest and most powerful media generation API around.",
+  "tags": [
+    "media-generation-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620758988/icons/make-cm.svg",
+  "website": "https://make.cm/",
+  "docsUrl": "https://docs.make.cm"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "amity",
+  "title": "Amity",
+  "subtitle": "Amity API integration",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718927/catalog/amity/icon128x128.png",
+  "website": "https://getamity.com"
+}

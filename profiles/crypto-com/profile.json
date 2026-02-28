@@ -1,0 +1,15 @@
+{
+  "id": "crypto-com",
+  "title": "Crypto.com",
+  "subtitle": "Crypto.com is on a mission to accelerate the world’s transition to cryptocurrency. Through the Crypto.com Mobile App ...",
+  "tags": [
+    "fintech-infrastructure",
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616256832/icons/crypto-com.jpg",
+  "website": "https://crypto.com/",
+  "docsUrl": "https://exchange-docs.crypto.com/spot/index.html#introduction"
+}

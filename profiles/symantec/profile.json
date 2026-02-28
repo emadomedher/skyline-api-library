@@ -1,0 +1,14 @@
+{
+  "id": "symantec",
+  "title": "Symantec",
+  "subtitle": "Symantec API integration",
+  "tags": [
+    "antivirus",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645106581/icons/symantec.png",
+  "website": "https://securitycloud.symantec.com/cc/landing"
+}

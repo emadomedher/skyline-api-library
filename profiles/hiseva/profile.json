@@ -1,0 +1,15 @@
+{
+  "id": "hiseva",
+  "title": "Seva",
+  "subtitle": "Searching across multiple apps to find the information you need is time consuming and frustrating. With Seva, you spe...",
+  "tags": [
+    "knowledge-management",
+    "sales",
+    "marketing"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573320174/catalog/hiseva/icon128x128.jpg",
+  "website": "https://www.hiseva.com/"
+}

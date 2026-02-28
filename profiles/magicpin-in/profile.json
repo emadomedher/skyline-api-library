@@ -1,0 +1,13 @@
+{
+  "id": "magicpin-in",
+  "title": "magicpin",
+  "subtitle": "Discover the best places to eat, shop and hang out around you. Earn rewards by uploading all your bills. Exclusive vo...",
+  "tags": [
+    "local-shopping"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414391/icons/magicpin-in.jpg",
+  "website": "https://magicpin.in/"
+}

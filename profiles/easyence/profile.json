@@ -1,0 +1,13 @@
+{
+  "id": "easyence",
+  "title": "Easyence",
+  "subtitle": "Offrez une expérience omnicanale mémorable à vos clients et garantissez la satisfaction et la productivité de vos équ...",
+  "tags": [
+    "customer-data-platforms"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597145926/icons/easyence.png",
+  "website": "https://www.easyence.com/"
+}

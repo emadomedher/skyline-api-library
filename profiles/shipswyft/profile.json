@@ -1,0 +1,13 @@
+{
+  "id": "shipswyft",
+  "title": "ShipSwyft",
+  "subtitle": "ShipSwyft ",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587745622/catalog/shipswyft/icon128x128.png",
+  "website": "https://www.shipswyft.com/"
+}

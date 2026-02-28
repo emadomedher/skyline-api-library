@@ -1,0 +1,14 @@
+{
+  "id": "chargelab-co",
+  "title": "ChargeLab",
+  "subtitle": "ChargeLab is the operating system for EV chargers. We connect EV charging infrastructure everywhere you find electric...",
+  "tags": [
+    "electric-vehicle-charging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723385/icons/chargelab-co.jpg",
+  "website": "https://www.chargelab.co/",
+  "docsUrl": "https://www.chargelab.co/partners#software-developers"
+}

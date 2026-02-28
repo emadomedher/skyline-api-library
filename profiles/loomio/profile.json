@@ -1,0 +1,13 @@
+{
+  "id": "loomio",
+  "title": "Loomio",
+  "subtitle": "Loomio helps groups of people make decisions together, online",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720888/catalog/loomio/icon128x128.jpg",
+  "website": "https://loomio.org"
+}

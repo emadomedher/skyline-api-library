@@ -1,0 +1,16 @@
+{
+  "id": "arthur-ai",
+  "title": "ArthurAI",
+  "subtitle": "Centralized AI Monitoring and Explainability, helping businesses build and \nmaintain control over production AI.",
+  "tags": [
+    "ai-monitoring",
+    "ai-operations",
+    "llm-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576889956/catalog/arthur-ai/icon128x128.jpg",
+  "website": "https://www.arthur.ai/",
+  "docsUrl": "https://docs.arthur.ai"
+}

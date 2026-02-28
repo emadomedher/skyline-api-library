@@ -1,0 +1,13 @@
+{
+  "id": "pegasus-uk",
+  "title": "Pegasus Software",
+  "subtitle": "Pegasus Software is an award winning supplier of accounting and business software, supply chain, manufacturing, const...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622161962/icons/pegasus-uk.jpg",
+  "website": "https://www.pegasus.co.uk/"
+}

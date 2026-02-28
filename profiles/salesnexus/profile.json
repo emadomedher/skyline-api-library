@@ -1,0 +1,13 @@
+{
+  "id": "salesnexus",
+  "title": "SalesNexus",
+  "subtitle": "SalesNexus is lead generation, lead management plus sales process automation and full featured CRM, that's simple to ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721918/catalog/salesnexus/icon128x128.png",
+  "website": "https://salesnexus.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "appfigures",
+  "title": "Appfigures",
+  "subtitle": "Everything you need to monitor and optimize all of your mobile apps.",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264823/catalog/appfigures/icon128x128.png",
+  "website": "https://appfigures.com",
+  "docsUrl": "https://docs.appfigures.com"
+}

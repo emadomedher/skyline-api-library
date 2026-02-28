@@ -1,0 +1,13 @@
+{
+  "id": "fiserv",
+  "title": "Fiserv",
+  "subtitle": "Fiserv is a provider of technology solutions to the financial world, including banks, credit unions, securities proce...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571962511/catalog/fiserv/icon128x128.png",
+  "website": "https://www.fiserv.com/"
+}

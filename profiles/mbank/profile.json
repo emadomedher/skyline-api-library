@@ -1,0 +1,14 @@
+{
+  "id": "mbank",
+  "title": "mBank",
+  "subtitle": "mBank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568662660/catalog/mbank/icon128x128.jpg",
+  "website": "https://www.mbank.pl/indywidualny/",
+  "docsUrl": "https://developer.api.mbank.pl/"
+}

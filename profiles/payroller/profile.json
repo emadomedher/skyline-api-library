@@ -1,0 +1,13 @@
+{
+  "id": "payroller",
+  "title": "Payroller",
+  "subtitle": "Online payrolling in een handomdraai!",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602235649/icons/payroller.png",
+  "website": "https://payroller.com/"
+}

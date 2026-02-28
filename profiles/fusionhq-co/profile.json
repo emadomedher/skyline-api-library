@@ -1,0 +1,14 @@
+{
+  "id": "fusionhq-co",
+  "title": "Opensource user analytics and engagement platform",
+  "subtitle": "See how user interact with website, engage them with built-in realtime live-chat, send notifications, run targeted mi...",
+  "tags": [
+    "analytics",
+    "open-source"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634756620/icons/fusionhq-co.png",
+  "website": "https://fusionhq.co/"
+}

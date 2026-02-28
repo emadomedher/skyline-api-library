@@ -1,0 +1,13 @@
+{
+  "id": "eqbank-ca",
+  "title": "EQ Bank",
+  "subtitle": "Equitable Bank is a Canadian bank founded in 1970. The bank provides residential and commercial real estate lending s...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574828763/catalog/eqbank-ca/icon128x128.png",
+  "website": "https://www.eqbank.ca/"
+}

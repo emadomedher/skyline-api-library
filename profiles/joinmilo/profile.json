@@ -1,0 +1,13 @@
+{
+  "id": "joinmilo",
+  "title": "Milo",
+  "subtitle": "Giving parents a co-pilot for the mental load of everyday parenting.",
+  "tags": [
+    "parenting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679055368/icons/joinmilo.png",
+  "website": "https://www.joinmilo.com/"
+}

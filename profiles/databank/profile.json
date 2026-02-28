@@ -1,0 +1,13 @@
+{
+  "id": "databank",
+  "title": "DataBank",
+  "subtitle": "Best-in-class Colocation, Hybrid, Cloud, and Connectivity products under one roof means you don’t need to compromise ...",
+  "tags": [
+    "data-center"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602235654/icons/databank.jpg",
+  "website": "https://www.databank.com/"
+}

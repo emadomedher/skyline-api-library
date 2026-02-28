@@ -1,0 +1,13 @@
+{
+  "id": "gimitheapp",
+  "title": "Gimi",
+  "subtitle": "Gimi is a pocket money management app that teaches children about money.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610843822/icons/gimitheapp.jpg",
+  "website": "https://www.gimitheapp.com/"
+}

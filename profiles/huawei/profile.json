@@ -1,0 +1,15 @@
+{
+  "id": "huawei",
+  "title": "Huawei",
+  "subtitle": "Huawei is a leading global provider of information and communications technology (ICT) infrastructure and smart devices.",
+  "tags": [
+    "smartphone-makers",
+    "consumer-electronics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093485/icons/huawei.jpg",
+  "website": "https://www.huawei.com/",
+  "docsUrl": "https://developer.huaweicloud.com/intl/en-us/openapilist"
+}

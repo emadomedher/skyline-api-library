@@ -1,0 +1,16 @@
+{
+  "id": "aurelia-io",
+  "title": "Aurelia",
+  "subtitle": "Aurelia is a JavaScript client framework for web, mobile and desktop that leverages simple conventions to empower you...",
+  "tags": [
+    "javascript",
+    "frontend-frameworks",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599269152/icons/aurelia-io.png",
+  "website": "https://aurelia.io/",
+  "docsUrl": "https://aurelia.io/docs/tutorials/creating-a-todo-app"
+}

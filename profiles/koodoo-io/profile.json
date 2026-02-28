@@ -1,0 +1,13 @@
+{
+  "id": "koodoo-io",
+  "title": "Koodoo",
+  "subtitle": "Koodoo works with lenders and aggregators to intelligently connect homeowners with their next mortgage",
+  "tags": [
+    "mortgage"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604933958/icons/koodoo-io.jpg",
+  "website": "https://koodoo.io/"
+}

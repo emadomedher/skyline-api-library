@@ -1,0 +1,13 @@
+{
+  "id": "brain-fm",
+  "title": "Brain.fm",
+  "subtitle": "Brain.fm - Music designed for the brain to enhance focus, relaxation, meditation, naps and sleep within 10 - 15 minut...",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573480297/catalog/brain-fm/icon128x128.jpg",
+  "website": "https://brain.fm/"
+}

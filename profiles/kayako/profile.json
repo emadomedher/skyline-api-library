@@ -1,0 +1,13 @@
+{
+  "id": "kayako",
+  "title": "Kayako",
+  "subtitle": "Kayako offers a multi-channel (email, social media, and live chat) customer support platform with customizable engage...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305239/catalog/kayako/icon128x128.png",
+  "website": "https://kayako.com"
+}

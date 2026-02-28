@@ -1,0 +1,15 @@
+{
+  "id": "beefree-io",
+  "title": "BEE free",
+  "subtitle": "BEE is an email editor to build beautiful, responsive emails quickly and easily. Our objective is to build the Best E...",
+  "tags": [
+    "email-editors",
+    "landing-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723388/icons/beefree-io.png",
+  "website": "https://beefree.io/",
+  "docsUrl": "https://docs.beefree.io"
+}

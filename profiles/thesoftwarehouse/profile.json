@@ -1,0 +1,14 @@
+{
+  "id": "thesoftwarehouse",
+  "title": "The Software House",
+  "subtitle": "A custom software development company from Poland specialising in Node.js, Symfony, React, mobile development, cloud ...",
+  "tags": [
+    "development-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595242419/icons/thesoftwarehouse.png",
+  "website": "https://tsh.io/",
+  "docsUrl": "https://tsh.io/team"
+}

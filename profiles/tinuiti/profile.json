@@ -1,0 +1,13 @@
+{
+  "id": "tinuiti",
+  "title": "Tinuiti",
+  "subtitle": "Tinuiti is an award-winning agency that accelerates brand growth across the Triopoly of Google, Amazon, Facebook and ...",
+  "tags": [
+    "agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581324400/catalog/tinuiti/icon128x128.png",
+  "website": "https://tinuiti.com/"
+}

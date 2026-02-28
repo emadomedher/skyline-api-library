@@ -1,0 +1,13 @@
+{
+  "id": "amitree",
+  "title": "Amitree",
+  "subtitle": "Meet Folio. Your magical email assistant. Stay organized, stay on track right in your inbox.",
+  "tags": [
+    "email-assistants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642520299/icons/amitree.png",
+  "website": "https://www.amitree.com/"
+}

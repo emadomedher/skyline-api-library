@@ -1,0 +1,13 @@
+{
+  "id": "infotelligent",
+  "title": "Infotelligent",
+  "subtitle": "Infotelligent, your trusted B2B contact database provider, offers accurate business contact lookup solutions empoweri...",
+  "tags": [
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644513021/icons/infotelligent.png",
+  "website": "https://infotelligent.com/"
+}

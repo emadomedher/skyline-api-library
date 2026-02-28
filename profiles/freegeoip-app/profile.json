@@ -1,0 +1,14 @@
+{
+  "id": "freegeoip-app",
+  "title": "Free IP Geolocation API",
+  "subtitle": "Free IP Geolocation API with no registration required. 15000 requests per hour ✓ JSON, XML and CSV output ✓ Fast resp...",
+  "tags": [
+    "geolocation-apis",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573747392/catalog/freegeoip-app/icon128x128.png",
+  "website": "https://freegeoip.app/"
+}

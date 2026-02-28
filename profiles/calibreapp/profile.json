@@ -1,0 +1,14 @@
+{
+  "id": "calibreapp",
+  "title": "Calibre",
+  "subtitle": "Try the world’s best performance companion for free. Monitor and fix your performance. Receive powerful reports in yo...",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590753304/catalog/calibreapp/icon128x128.png",
+  "website": "https://calibreapp.com/",
+  "docsUrl": "https://calibreapp.com/docs"
+}

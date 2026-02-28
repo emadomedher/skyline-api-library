@@ -1,0 +1,12 @@
+{
+  "id": "simplesat",
+  "title": "Simplesat",
+  "subtitle": "Simplesat is a survey tool that makes it easy for any business to collect, analyze and publish customer feedback.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284607/catalog/simplesat/icon128x128.png"
+}

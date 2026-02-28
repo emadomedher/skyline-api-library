@@ -1,0 +1,16 @@
+{
+  "id": "unitek-ai",
+  "title": "Unitek",
+  "subtitle": "A powerful no-code intelligent automation software for financial services, that integrates manual and paper-based wor...",
+  "tags": [
+    "no-code",
+    "document-processing",
+    "fintech"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656700587/icons/unitek-ai.jpg",
+  "website": "https://www.unitek.ai/",
+  "docsUrl": "https://www.dataprotection.ie/docs/complaints/1592.htm"
+}

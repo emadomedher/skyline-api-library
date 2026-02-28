@@ -1,0 +1,14 @@
+{
+  "id": "brandmaker",
+  "title": "BrandMaker",
+  "subtitle": "Get the marketing operations solution that will free you to do the marketing you’re really here to do! BrandMaker is ...",
+  "tags": [
+    "through-channel-marketing-automation",
+    "budgeting-and-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433425/catalog/brandmaker/icon128x128.png",
+  "website": "https://brandmaker.com"
+}

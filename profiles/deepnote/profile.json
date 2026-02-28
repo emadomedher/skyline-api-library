@@ -1,0 +1,15 @@
+{
+  "id": "deepnote",
+  "title": "Deepnote",
+  "subtitle": "Fully managed data science notebooks that work well in a team.",
+  "tags": [
+    "data-science-notebooks",
+    "data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581132479/catalog/deepnote/icon128x128.jpg",
+  "website": "https://www.deepnote.com/",
+  "docsUrl": "https://docs.deepnote.com"
+}

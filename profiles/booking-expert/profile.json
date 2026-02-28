@@ -1,0 +1,15 @@
+{
+  "id": "booking-expert",
+  "title": "Booking Expert",
+  "subtitle": "Try Channel Manager, the Booking Engine, the PMS and other solutions to increase direct bookings and manage your hote...",
+  "tags": [
+    "booking-engines",
+    "property-management-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649154653/icons/booking-expert.png",
+  "website": "https://www.bookingexpert.com/en",
+  "docsUrl": "https://www.bookingexpert.com/en#"
+}

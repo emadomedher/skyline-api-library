@@ -1,0 +1,14 @@
+{
+  "id": "bonfyreapp",
+  "title": "Bonfyre",
+  "subtitle": "Bonfyre is an employee experience platform that brings together the tools to measure and drive engagement and bridges...",
+  "tags": [
+    "employee-experience",
+    "employee-communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588161892/catalog/bonfyreapp/icon128x128.png",
+  "website": "https://bonfyreapp.com/"
+}

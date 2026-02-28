@@ -1,0 +1,13 @@
+{
+  "id": "staxpayments",
+  "title": "Stax",
+  "subtitle": "One flat price. One platform. Every payment. Simplify your payments with Stax's all-in-one platform and subscription-...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659539039/icons/staxpayments.jpg",
+  "website": "https://staxpayments.com/"
+}

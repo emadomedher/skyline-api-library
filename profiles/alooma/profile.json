@@ -1,0 +1,13 @@
+{
+  "id": "alooma",
+  "title": "Alooma",
+  "subtitle": "Bring all your data sources together into BigQuery, Redshift, Snowflake, Azure, and more. Sign up for Alooma Enterpri...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717241/catalog/alooma/icon128x128.jpg",
+  "website": "https://alooma.com"
+}

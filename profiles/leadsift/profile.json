@@ -1,0 +1,13 @@
+{
+  "id": "leadsift",
+  "title": "LeadSift",
+  "subtitle": "We comb through the public web to deliver only qualified leads interacting with your competitors and with demonstrate...",
+  "tags": [
+    "marketing-automation-and-campaignlead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720797/catalog/leadsift/icon128x128.jpg",
+  "website": "https://leadsift.com"
+}

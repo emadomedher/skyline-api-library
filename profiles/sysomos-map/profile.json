@@ -1,0 +1,13 @@
+{
+  "id": "sysomos-map",
+  "title": "Sysomos MAP",
+  "subtitle": "A unified, insights-driven social platform empowering marketers to search, discover, listen, publish, engage, and ana...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722413/catalog/sysomos-map/icon128x128.jpg",
+  "website": "https://sysomos.com"
+}

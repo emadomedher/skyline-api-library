@@ -1,0 +1,13 @@
+{
+  "id": "nuevora",
+  "title": "Nuevora",
+  "subtitle": "Nuevora API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436176/catalog/nuevora/icon128x128.png",
+  "website": "https://nuevora.com"
+}

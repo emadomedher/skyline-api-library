@@ -1,0 +1,14 @@
+{
+  "id": "wavemaker",
+  "title": "WaveMaker",
+  "subtitle": "WaveMaker is an enterprise grade low-code development platform that allows organizations to build applications fast. ...",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601925992/icons/wavemaker.jpg",
+  "website": "https://www.wavemaker.com/",
+  "docsUrl": "https://www.wavemaker.com/learn"
+}

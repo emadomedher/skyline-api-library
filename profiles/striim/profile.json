@@ -1,0 +1,13 @@
+{
+  "id": "striim",
+  "title": "Striim",
+  "subtitle": "Striim API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437742/catalog/striim/icon128x128.png",
+  "website": "https://striim.com"
+}

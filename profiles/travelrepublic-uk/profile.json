@@ -1,0 +1,14 @@
+{
+  "id": "travelrepublic-uk",
+  "title": "Travel Republic",
+  "subtitle": "Need a Holiday? Find holidays across the world at surprisingly low prices. Pay in monthly instalments. Book with conf...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641110/icons/travelrepublic-uk.jpg",
+  "website": "https://www.travelrepublic.co.uk"
+}

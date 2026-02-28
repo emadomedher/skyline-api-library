@@ -1,0 +1,14 @@
+{
+  "id": "bics",
+  "title": "BICS",
+  "subtitle": "BICS API integration",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093497/icons/bics.jpg",
+  "website": "https://www.bics.com/",
+  "docsUrl": "https://mynumbers.api.bics.com/documentation"
+}

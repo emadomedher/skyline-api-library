@@ -1,0 +1,14 @@
+{
+  "id": "inaccord",
+  "title": "Accord",
+  "subtitle": "Accord is a customer collaboration platform built for high-growth sales leaders who need to hit scaling rev targets &...",
+  "tags": [
+    "sales",
+    "customer-collaboration"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613353344/icons/inaccord.jpg",
+  "website": "https://inaccord.com/"
+}

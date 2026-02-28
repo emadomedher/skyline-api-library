@@ -1,0 +1,13 @@
+{
+  "id": "maileeme",
+  "title": "Mailee.me",
+  "subtitle": "Complete tool to create and send newsletters and email marketing campaigns, with real time reports and integrations. ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946847/catalog/maileeme/icon128x128.jpg",
+  "website": "https://mailee.me"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "shiphero",
+  "title": "ShipHero",
+  "subtitle": "We make sure you deliver your ecommerce. Software for your warehouse, and outsourced shipping if you're hands-off. We...",
+  "tags": [
+    "fulfillment",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621463859/icons/shiphero.jpg",
+  "website": "https://shiphero.com/",
+  "docsUrl": "https://developer.shiphero.com"
+}

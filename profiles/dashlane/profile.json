@@ -1,0 +1,14 @@
+{
+  "id": "dashlane",
+  "title": "Dashlane",
+  "subtitle": "Live your best life online with Dashlane—the safe, simple way to store and fill passwords and personal information.",
+  "tags": [
+    "password-managers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611946440/icons/dashlane.jpg",
+  "website": "https://dashlane.com",
+  "docsUrl": "https://www.dashlane.com/#"
+}

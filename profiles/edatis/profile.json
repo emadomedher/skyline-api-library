@@ -1,0 +1,13 @@
+{
+  "id": "edatis",
+  "title": "Edatis",
+  "subtitle": "Fournisseur de solutions email marketing, newsletter et data, Edatis propose aux PME des services à budget abordable,...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947100/catalog/edatis/icon128x128.jpg",
+  "website": "https://edatis.com"
+}

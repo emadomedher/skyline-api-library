@@ -1,0 +1,14 @@
+{
+  "id": "accupay",
+  "title": "AccuPay",
+  "subtitle": "AccuPay is an Indianapolis tax, payroll and HR services firm located in Greenwood, Indiana committed to provided effi...",
+  "tags": [
+    "hcm",
+    "payroll-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622668475/icons/accupay.jpg",
+  "website": "https://accupay.com/"
+}

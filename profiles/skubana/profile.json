@@ -1,0 +1,13 @@
+{
+  "id": "skubana",
+  "title": "Skubana",
+  "subtitle": "Skubana is a cloud based, all-in-one operations software to handle and automate order management, inventory, analytic...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306117/catalog/skubana/icon128x128.png",
+  "website": "https://skubana.com"
+}

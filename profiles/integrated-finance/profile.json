@@ -1,0 +1,15 @@
+{
+  "id": "integrated-finance",
+  "title": "Integrated Finance",
+  "subtitle": "Automating workflows for financial technology firms and fintech startups. Integrated Finance helps connect and manage...",
+  "tags": [
+    "financial-infrastructure-apis",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635691256/icons/integrated-finance.jpg",
+  "website": "https://integrated.finance/",
+  "docsUrl": "https://integrated.finance/#"
+}

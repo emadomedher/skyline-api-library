@@ -1,0 +1,15 @@
+{
+  "id": "vidu",
+  "title": "Vidu",
+  "subtitle": "Vidu helps sales teams be more efficient and better engage the customers with hyper-personalized video, GIFs and memes",
+  "tags": [
+    "video-personalization",
+    "sales-outreach"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670902817/icons/vidu.jpg",
+  "website": "https://www.vidu.io/",
+  "docsUrl": "https://intercom.help/viduhq/en"
+}

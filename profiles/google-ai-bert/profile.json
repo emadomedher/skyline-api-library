@@ -1,0 +1,16 @@
+{
+  "id": "google-ai-bert",
+  "title": "Google BERT",
+  "subtitle": "BERT is Google's neural network-based technique for natural language processing (NLP) pre-training. BERT stands for B...",
+  "tags": [
+    "nlp",
+    "language-models",
+    "ai",
+    "open-source"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613006836/icons/google-ai-bert.png",
+  "website": "https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "withfrank-org",
+  "title": "FRANK",
+  "subtitle": "FRANK API integration",
+  "tags": [
+    "student-lending",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892853/catalog/withfrank-org/icon128x128.jpg",
+  "website": "https://withfrank.org/"
+}

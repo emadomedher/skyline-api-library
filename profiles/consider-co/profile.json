@@ -1,0 +1,16 @@
+{
+  "id": "consider-co",
+  "title": "Consider",
+  "subtitle": "Consider is email for startups: a new email client for you and your team, designed to enable focus and flow. We’ve in...",
+  "tags": [
+    "collaborative-inbox",
+    "email",
+    "premium-email",
+    "collaboration"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567028573/catalog/consider-co/icon128x128.png",
+  "website": "https://consider.co/"
+}

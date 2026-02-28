@@ -1,0 +1,13 @@
+{
+  "id": "outschool",
+  "title": "Outschool",
+  "subtitle": "100,000+ video chat classes for K-12 science, art, mindfulness, english, social studies, life skills, and more!",
+  "tags": [
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628565170/icons/outschool.png",
+  "website": "https://outschool.com/"
+}

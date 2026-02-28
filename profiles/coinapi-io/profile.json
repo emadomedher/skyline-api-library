@@ -1,0 +1,15 @@
+{
+  "id": "coinapi-io",
+  "title": "COINAPI",
+  "subtitle": "CoinAPI is a platform which provides fast, reliable and unified data APIs to cryptocurrency markets.",
+  "tags": [
+    "cryptocurrency-exchange-data-apis",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632178791/icons/coinapi-io.png",
+  "website": "https://www.coinapi.io/",
+  "docsUrl": "https://docs.coinapi.io"
+}

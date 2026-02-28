@@ -1,0 +1,12 @@
+{
+  "id": "surveybot",
+  "title": "Surveybot",
+  "subtitle": "Surveybot enables you to create chatbot surveys and distribute them on Facebook, Facebook Messenger and Workplace by ...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284627/catalog/surveybot/icon128x128.png"
+}

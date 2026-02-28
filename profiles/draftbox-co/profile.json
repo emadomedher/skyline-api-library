@@ -1,0 +1,14 @@
+{
+  "id": "draftbox-co",
+  "title": "Draftbox",
+  "subtitle": "2x faster page load, 2x SEO boost, 2x cheaper — a blog that your users and Google both will love. ",
+  "tags": [
+    "jamstack",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614175166/icons/draftbox-co.jpg",
+  "website": "https://draftbox.co/"
+}

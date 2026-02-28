@@ -1,0 +1,13 @@
+{
+  "id": "outreach",
+  "title": "Outreach",
+  "subtitle": "The Outreach Sales Engagement Platform helps efficiently and effectively engage prospects to drive more pipeline and ...",
+  "tags": [
+    "sales-automation-enablement-and-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178351/catalog/outreach/icon128x128.png",
+  "website": "https://outreach.io"
+}

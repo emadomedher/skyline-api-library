@@ -1,0 +1,16 @@
+{
+  "id": "cloudevents-io",
+  "title": "Cloud Events",
+  "subtitle": "A specification for describing event data in a common way",
+  "tags": [
+    "event-data",
+    "open-source",
+    "specifications"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600472463/icons/cloudevents-io.jpg",
+  "website": "https://cloudevents.io/",
+  "docsUrl": "https://docs.google.com/document/d/1xwcswqmmirn24a7o7oy9mstzmroaup31ookm5dru1jq"
+}

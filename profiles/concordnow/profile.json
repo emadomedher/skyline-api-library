@@ -1,0 +1,13 @@
+{
+  "id": "concordnow",
+  "title": "Concord",
+  "subtitle": "Concord's all-in-one contract management platform helps you increase revenue and achieve flawless compliance with fea...",
+  "tags": [
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584551423/catalog/concordnow/icon128x128.png",
+  "website": "https://www.concordnow.com/"
+}

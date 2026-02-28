@@ -1,0 +1,13 @@
+{
+  "id": "pick1",
+  "title": "Pick1",
+  "subtitle": "Get a deeper understanding of your own personality characteristics, need and values. Try it for yourself!",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721480/catalog/pick1/icon128x128.png",
+  "website": "https://pick1.com"
+}

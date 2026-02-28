@@ -1,0 +1,14 @@
+{
+  "id": "apptus",
+  "title": "Apptus",
+  "subtitle": "We provide software solutions that deliver great customer experiences across your e-commerce site. Proven to increase...",
+  "tags": [
+    "optimization-personalization-and-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774814/catalog/apptus/icon128x128.png",
+  "website": "https://www.apptus.com",
+  "docsUrl": "https://www.apptus.com/#"
+}

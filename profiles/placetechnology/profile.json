@@ -1,0 +1,13 @@
+{
+  "id": "placetechnology",
+  "title": "Place",
+  "subtitle": "SaaS Subscription Management + Forecasting in one PlaceWe empower SaaS leaders to align their operations with financi...",
+  "tags": [
+    "subscription-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663261342/icons/placetechnology.jpg",
+  "website": "https://www.placetechnology.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "google-fonts",
+  "title": "Google Fonts",
+  "subtitle": "Making the web more beautiful, fast, and open through great typography",
+  "tags": [
+    "fonts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612288406/icons/google-fonts.png",
+  "website": "https://fonts.google.com/"
+}

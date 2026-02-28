@@ -1,0 +1,14 @@
+{
+  "id": "payitoff-io",
+  "title": "Payitoff",
+  "subtitle": "Embed debt intelligence into any app. Increase engagement, retention, and wallet share all while helping customers be...",
+  "tags": [
+    "embedded-debt"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656623455/icons/payitoff-io.jpg",
+  "website": "https://payitoff.io/",
+  "docsUrl": "https://docs.payitoff.io"
+}

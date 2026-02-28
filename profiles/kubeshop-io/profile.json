@@ -1,0 +1,15 @@
+{
+  "id": "kubeshop-io",
+  "title": "Kubeshop",
+  "subtitle": "At Kubeshop, our mission is to build a thriving open-source ecosystem and pipeline of next generation Kubernetes prod...",
+  "tags": [
+    "startup-accelerators",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660602976/icons/kubeshop-io.jpg",
+  "website": "https://kubeshop.io/",
+  "docsUrl": "https://kubeshop.io/blog/detect-fix-performance-issues-using-tracetest"
+}

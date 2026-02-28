@@ -1,0 +1,13 @@
+{
+  "id": "atomicvest",
+  "title": "Atomic",
+  "subtitle": "Atomic API integration",
+  "tags": [
+    "investing-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723390/icons/atomicvest.png",
+  "website": "https://www.atomicvest.com/"
+}

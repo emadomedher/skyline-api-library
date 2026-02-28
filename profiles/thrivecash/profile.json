@@ -1,0 +1,14 @@
+{
+  "id": "thrivecash",
+  "title": "ThriveCash",
+  "subtitle": "ThriveCash is a new alternative for covering expenses in school. Get up to $25,000 with your internship or job offer ...",
+  "tags": [
+    "lending",
+    "student-loans"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779836/catalog/thrivecash/icon128x128.png",
+  "website": "https://thrivecash.com/"
+}

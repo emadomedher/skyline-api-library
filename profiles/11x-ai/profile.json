@@ -1,0 +1,13 @@
+{
+  "id": "11x-ai",
+  "title": "11x",
+  "subtitle": "Automated Digital Workers and workflow automation solution for everyone, so you can focus on what matters.",
+  "tags": [
+    "ai-workers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679358350/icons/11x-ai.png",
+  "website": "https://www.11x.ai/"
+}

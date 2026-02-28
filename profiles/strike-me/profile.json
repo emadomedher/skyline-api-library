@@ -1,0 +1,14 @@
+{
+  "id": "strike-me",
+  "title": "strike.me",
+  "subtitle": "HODL",
+  "tags": [
+    "cross-border-payments",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610315550/icons/strike-me.webp",
+  "website": "https://www.strike.me/"
+}

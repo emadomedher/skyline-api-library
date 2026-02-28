@@ -1,0 +1,14 @@
+{
+  "id": "algolia",
+  "title": "Algolia",
+  "subtitle": "Algolia helps businesses across industries quickly create relevant, scalable, and lightning fast search and discovery...",
+  "tags": [
+    "hosted-search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556571681/catalog/algolia/icon128x128.jpg",
+  "website": "https://algolia.com",
+  "docsUrl": "https://docs.algolia.com"
+}

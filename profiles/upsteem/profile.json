@@ -1,0 +1,13 @@
+{
+  "id": "upsteem",
+  "title": "Upsteem.com",
+  "subtitle": "Want to make your talent management system more manageable? Upsteem's Saas talent management suite enhances your effo...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592321628/icons/upsteem.png",
+  "website": "https://upsteem.com/"
+}

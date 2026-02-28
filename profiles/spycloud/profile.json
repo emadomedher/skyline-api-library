@@ -1,0 +1,14 @@
+{
+  "id": "spycloud",
+  "title": "SpyCloud",
+  "subtitle": "SpyCloud helps businesses proactively prevent account takeover and fraud attempts by securing billions of employee an...",
+  "tags": [
+    "security",
+    "account-takeover"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583845034/catalog/spycloud/icon128x128.jpg",
+  "website": "https://spycloud.com/"
+}

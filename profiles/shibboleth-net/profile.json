@@ -1,0 +1,14 @@
+{
+  "id": "shibboleth-net",
+  "title": "Shibboleth",
+  "subtitle": "Shibboleth API integration",
+  "tags": [
+    "sso",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821123/catalog/shibboleth-net/icon128x128.png",
+  "website": "https://www.shibboleth.net/"
+}

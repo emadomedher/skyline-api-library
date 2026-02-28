@@ -1,0 +1,13 @@
+{
+  "id": "industrial-medium",
+  "title": "Industrial Medium",
+  "subtitle": "Industrial Medium API integration",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554481756/catalog/industrial-medium/icon128x128.png",
+  "website": "https://industrialmedium.com"
+}

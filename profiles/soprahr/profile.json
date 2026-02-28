@@ -1,0 +1,13 @@
+{
+  "id": "soprahr",
+  "title": "Sopra HR",
+  "subtitle": "Acteur global des solutions Ressources Humaines, Sopra HR Software, filiale du groupe Sopra Steria, répond aux\nenjeux...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683569108/icons/soprahr.jpg",
+  "website": "https://www.soprahr.com/"
+}

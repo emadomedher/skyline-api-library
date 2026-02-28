@@ -1,0 +1,15 @@
+{
+  "id": "quip",
+  "title": "Quip",
+  "subtitle": "Quip is real-time collaborative documents, spreadsheets, and chat embedded inside Salesforce to transform any busines...",
+  "tags": [
+    "spreadsheets",
+    "documents"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305806/catalog/quip/icon128x128.png",
+  "website": "https://quip.com/",
+  "docsUrl": "https://quip.com/dev"
+}

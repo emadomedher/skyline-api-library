@@ -1,0 +1,13 @@
+{
+  "id": "evalea-de",
+  "title": "Evalea",
+  "subtitle": "Software für Personalentwicklung mit der Sie Ihre Mitarbeiter modern, nachhaltig und zielgenau für kommende Anforderu...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610375565/icons/evalea-de.png",
+  "website": "https://evalea.de/"
+}

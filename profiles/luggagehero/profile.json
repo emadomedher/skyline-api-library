@@ -1,0 +1,14 @@
+{
+  "id": "luggagehero",
+  "title": "LuggageHero",
+  "subtitle": " Luggage storage and left luggage locations near you ✓100% safe ✓No size restrictions ✓Open 24/7 ✓1000 locations ✓P...",
+  "tags": [
+    "luggage-storage",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623092121/icons/luggagehero.jpg",
+  "website": "https://luggagehero.com/"
+}

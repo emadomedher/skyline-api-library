@@ -1,0 +1,13 @@
+{
+  "id": "crew-work",
+  "title": "Crew.is",
+  "subtitle": "All-in-one recruiting platform that helps you hire the A players your moonshot mission needs.",
+  "tags": [
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627010783/icons/crew-work.png",
+  "website": "https://crew.work/"
+}

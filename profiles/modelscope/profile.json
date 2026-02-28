@@ -1,0 +1,15 @@
+{
+  "id": "modelscope",
+  "title": "ModelScope",
+  "subtitle": "ModelScope is built upon the notion of “Model-as-a-Service” (MaaS). It seeks to bring together most advanced machine ...",
+  "tags": [
+    "model-as-a-service",
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679535612/icons/modelscope.png",
+  "website": "https://www.modelscope.cn/",
+  "docsUrl": "https://www.modelscope.cn/docs"
+}

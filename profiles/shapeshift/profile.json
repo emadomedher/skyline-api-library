@@ -1,0 +1,14 @@
+{
+  "id": "shapeshift",
+  "title": "ShapeShift",
+  "subtitle": "The all-new ShapeShift is your complete crypto management platform: send, receive, trade, track, and hodl bitcoin and...",
+  "tags": [
+    "crypto-wallets"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602009484/icons/shapeshift.jpg",
+  "website": "https://shapeshift.com/",
+  "docsUrl": "https://shapeshift.com/developer-portal"
+}

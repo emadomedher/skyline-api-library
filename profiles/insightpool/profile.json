@@ -1,0 +1,13 @@
+{
+  "id": "insightpool",
+  "title": "Insightpool",
+  "subtitle": "Insightpool is now TrendKite Influencer Management! Come join us to help build the new era of Digital PR.",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946911/catalog/insightpool/icon128x128.jpg",
+  "website": "https://insightpool.com"
+}

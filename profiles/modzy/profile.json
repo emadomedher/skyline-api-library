@@ -1,0 +1,15 @@
+{
+  "id": "modzy",
+  "title": "Modzy",
+  "subtitle": "Modzy is the secure ModelOps and MLOps platform to run, use, and monitor AI models at scale, so you get to value faster.",
+  "tags": [
+    "ai",
+    "modelops"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629140675/icons/modzy.png",
+  "website": "https://www.modzy.com/",
+  "docsUrl": "https://www.modzy.com/developers"
+}

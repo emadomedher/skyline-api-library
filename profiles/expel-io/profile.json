@@ -1,0 +1,13 @@
+{
+  "id": "expel-io",
+  "title": "Expel",
+  "subtitle": "Take a quick scroll through an overview of Expel's new transparent managed security offering and see how we provide 2...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589508678/catalog/expel-io/icon128x128.jpg",
+  "website": "https://expel.io/"
+}

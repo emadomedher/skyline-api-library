@@ -1,0 +1,14 @@
+{
+  "id": "gladly",
+  "title": "Gladly",
+  "subtitle": "Gladly is a best-in-class customer service technology platform. Learn why leading companies are choosing Gladly's cus...",
+  "tags": [
+    "customer-experience-service-and-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946966/catalog/gladly/icon128x128.jpg",
+  "website": "https://gladly.com",
+  "docsUrl": "https://developer.gladly.com"
+}

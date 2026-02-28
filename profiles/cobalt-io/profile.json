@@ -1,0 +1,15 @@
+{
+  "id": "cobalt-io",
+  "title": "Cobalt",
+  "subtitle": "Cobalt.io is the future of penetration testing. We leverage global talent and a software platform to deliver a better...",
+  "tags": [
+    "pen-testing",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572568029/catalog/cobalt-io/icon128x128.jpg",
+  "website": "https://cobalt.io/",
+  "docsUrl": "https://docs.cobalt.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "graphql-cli",
+  "title": "GraphQL CLI",
+  "subtitle": "GraphQL CLI is a popular command-line tool providing various tools for creating and maintaining GraphQL based applica...",
+  "tags": [
+    "graphql-tooling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616257075/icons/graphql-cli.png",
+  "website": "https://graphql-cli.com/",
+  "docsUrl": "https://graphql-cli.com/introduction"
+}

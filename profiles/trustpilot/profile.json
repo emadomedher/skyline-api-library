@@ -1,0 +1,13 @@
+{
+  "id": "trustpilot",
+  "title": "Trustpilot",
+  "subtitle": "Get real customer feedback using Trustpilot, an independent review platform.",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306379/catalog/trustpilot/icon128x128.png",
+  "website": "https://www.trustpilot.com/"
+}

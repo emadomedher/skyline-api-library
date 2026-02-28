@@ -1,0 +1,12 @@
+{
+  "id": "pro-agent-solutions",
+  "title": "Pro Agent Solutions",
+  "subtitle": "Pro Agent Solutions helps real estate agents and brokers manage their customer relationships, stay organized and gene...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305744/catalog/pro-agent-solutions/icon128x128.png"
+}

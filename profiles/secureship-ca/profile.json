@@ -1,0 +1,14 @@
+{
+  "id": "secureship-ca",
+  "title": "Secureship",
+  "subtitle": "Find the best and cheapest way to ship your packages domestically or internationally with FedEx, UPS, Canada Post, PT...",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641269611/icons/secureship-ca.png",
+  "website": "https://secureship.ca/",
+  "docsUrl": "https://secureship.ca/api"
+}

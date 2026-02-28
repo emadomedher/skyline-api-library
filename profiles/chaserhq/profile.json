@@ -1,0 +1,13 @@
+{
+  "id": "chaserhq",
+  "title": "Chaser",
+  "subtitle": "Automate invoice reminders, get paid faster and maintain great customer relationships. Our users get paid 16+ days so...",
+  "tags": [
+    "accounts-receivable"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406252/icons/chaserhq.jpg",
+  "website": "https://www.chaserhq.com/"
+}

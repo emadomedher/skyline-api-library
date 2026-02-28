@@ -1,0 +1,14 @@
+{
+  "id": "chatify",
+  "title": "ChatifyHQ",
+  "subtitle": "Make your website work harder for less with our easy to use live chat software.",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577527284/catalog/chatify/icon128x128.jpg",
+  "website": "https://www.chatify.com/",
+  "docsUrl": "https://www.chatify.com/docs"
+}

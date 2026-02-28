@@ -1,0 +1,13 @@
+{
+  "id": "learnship",
+  "title": "Learnship",
+  "subtitle": "Improve productivity and collaboration with business language and cross-cultural communication training",
+  "tags": [
+    "communication-training"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006427/icons/learnship.png",
+  "website": "https://www.learnship.com/"
+}

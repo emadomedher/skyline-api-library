@@ -1,0 +1,13 @@
+{
+  "id": "sellhack",
+  "title": "SellHack",
+  "subtitle": "SellHack is a sales prospecting tool with a browser extension to build prospect lists.  Verify email addresses and ph...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946630/catalog/sellhack/icon128x128.png",
+  "website": "https://sellhack.com"
+}

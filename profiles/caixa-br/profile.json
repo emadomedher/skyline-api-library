@@ -1,0 +1,13 @@
+{
+  "id": "caixa-br",
+  "title": "Caixa Econômica Federal",
+  "subtitle": "Caixa Econômica Federal, also referred to as Caixa, is a state-owned Brazilian financial services company headquarter...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620494217/icons/caixa-br.jpg",
+  "website": "https://www.caixa.gov.br/"
+}

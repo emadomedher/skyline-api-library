@@ -1,0 +1,15 @@
+{
+  "id": "warp-dev",
+  "title": "Warp",
+  "subtitle": "Warp API integration",
+  "tags": [
+    "terminals",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668279936/icons/warp-dev.png",
+  "website": "https://www.warp.dev/",
+  "docsUrl": "https://docs.warp.dev/features/ai-command-search#:~:text=command%20search%20%2d%20warp%20documentation&text=ai%20command%20search%20converts%20natural,see%20how%20it%20works%20here)."
+}

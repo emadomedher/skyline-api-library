@@ -1,0 +1,13 @@
+{
+  "id": "open-systems",
+  "title": "Open Systems",
+  "subtitle": "Open Systems is a leading provider of a unified Secure SD-WAN and Security As-A-Service platform designed to eliminat...",
+  "tags": [
+    "network-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573320169/catalog/open-systems/icon128x128.png",
+  "website": "https://open-systems.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hunchads",
+  "title": "Hunch",
+  "subtitle": "Combine automated creative production and optimized ad buying to get 5x performance on Facebook, Instagram, and Google.",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578585692/catalog/hunchads/icon128x128.jpg",
+  "website": "https://hunchads.com/"
+}

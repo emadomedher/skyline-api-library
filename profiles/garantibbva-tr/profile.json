@@ -1,0 +1,13 @@
+{
+  "id": "garantibbva-tr",
+  "title": "Garanti BBVA",
+  "subtitle": "Garanti BBVA'nın uygun bireysel ihtiyaç, taşıt, mortgage kredisi ve avantajlı vadeli mevduat hesabı seçeneklerini inc...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602243819/icons/garantibbva-tr.png",
+  "website": "https://www.garantibbva.com.tr/"
+}

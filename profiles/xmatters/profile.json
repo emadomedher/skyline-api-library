@@ -1,0 +1,12 @@
+{
+  "id": "xmatters",
+  "title": "xMatters",
+  "subtitle": "xMatters is a communication platform that can add closed loop notifications to any business interruption.",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306548/catalog/xmatters/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "avetticommerce",
+  "title": "Avetti Commerce",
+  "subtitle": "Fully Integrated Enterprise Marketplace",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642620052/icons/avetticommerce.png",
+  "website": "https://www.avetticommerce.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "solvo-cloud",
+  "title": "Solvo",
+  "subtitle": "Hey, I care about you, and I don’t want you to waste time and resources on cloud security! :) Check out Solvo’s solut...",
+  "tags": [
+    "cloud-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602094839/icons/solvo-cloud.jpg",
+  "website": "https://www.solvo.cloud/"
+}

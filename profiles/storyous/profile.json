@@ -1,0 +1,14 @@
+{
+  "id": "storyous",
+  "title": "Storyous",
+  "subtitle": "Leading restaurant POS system. Track real-time performance of your business, fully train your staff in 5 minutes and ...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691960723/icons/storyous.png",
+  "website": "https://storyous.com/",
+  "docsUrl": "https://storyous.com/en/reference"
+}

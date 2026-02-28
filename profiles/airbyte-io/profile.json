@@ -1,0 +1,16 @@
+{
+  "id": "airbyte-io",
+  "title": "Airbyte",
+  "subtitle": "Airbyte is the turnkey open-source data integration plaform that gives your infrastructure super powers to move data ...",
+  "tags": [
+    "date-integration",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601004023/icons/airbyte-io.jpg",
+  "specUrl": "https://raw.githubusercontent.com/airbytehq/airbyte/master/airbyte-api/src/main/openapi/config.yaml#",
+  "website": "https://airbyte.io/",
+  "docsUrl": "https://airbyte.io/#"
+}

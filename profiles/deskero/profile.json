@@ -1,0 +1,13 @@
+{
+  "id": "deskero",
+  "title": "Deskero",
+  "subtitle": "Deskero is a simple, customisable and cloud help desk software and support ticket system to take care of customer ser...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719777/catalog/deskero/icon128x128.png",
+  "website": "https://deskero.com"
+}

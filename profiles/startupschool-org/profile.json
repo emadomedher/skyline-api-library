@@ -1,0 +1,15 @@
+{
+  "id": "startupschool-org",
+  "title": "Startup School",
+  "subtitle": "Startup School API integration",
+  "tags": [
+    "startups",
+    "education",
+    "non-software"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581596953/catalog/startupschool-org/icon128x128.jpg",
+  "website": "https://www.startupschool.org/"
+}

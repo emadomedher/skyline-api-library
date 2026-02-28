@@ -1,0 +1,13 @@
+{
+  "id": "brd-ro",
+  "title": "BRD",
+  "subtitle": "BRD is a universal bank and offers complete financial services for individuals and companies. Offer includes current ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569631981/catalog/brd/icon128x128.png",
+  "website": "https://www.brd.ro/en"
+}

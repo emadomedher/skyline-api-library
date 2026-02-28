@@ -1,0 +1,13 @@
+{
+  "id": "subadvies-nl",
+  "title": "SubAdvies",
+  "subtitle": "Dit om iedere onderneming van elk formaat efficiënter en optimaal te laten presteren op het gebied van Sociale Zekerh...",
+  "tags": [
+    "subsidies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602351248/icons/subadvies-nl.png",
+  "website": "https://subadvies.nl/"
+}

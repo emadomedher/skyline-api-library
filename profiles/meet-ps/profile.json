@@ -1,0 +1,15 @@
+{
+  "id": "meet-ps",
+  "title": "MeetingPulse",
+  "subtitle": "We provides businesses with live polling software, event design, and analysis. Our scalable business solutions engage...",
+  "tags": [
+    "audience-engagement",
+    "live-polling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656818/icons/meet-ps.png",
+  "website": "https://meet.ps/",
+  "docsUrl": "https://app.meet.ps/api/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "webex-events",
+  "title": "Webex Events",
+  "subtitle": "Webex Events is end-to-end event management software built to power virtual, in-person, and hybrid events that elevat...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655763528/icons/webex-events.jpg",
+  "website": "https://www.webex.com/events.html"
+}

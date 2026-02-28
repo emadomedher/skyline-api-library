@@ -1,0 +1,14 @@
+{
+  "id": "revops-io",
+  "title": "RevOps",
+  "subtitle": "Leave chaotic closing processes behind with templated quotes, approval workflows, and pricing guardrails to empower y...",
+  "tags": [
+    "quote-to-cash"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634687626/icons/revops-io.png",
+  "website": "https://www.revops.io/",
+  "docsUrl": "https://www.revops.io/docs"
+}

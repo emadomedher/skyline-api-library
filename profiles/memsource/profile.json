@@ -1,0 +1,14 @@
+{
+  "id": "memsource",
+  "title": "Memsource",
+  "subtitle": "Manage your translation workflow more efficiently with Memsource. Join the other global companies who have leveraged ...",
+  "tags": [
+    "translation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610985341/icons/memsource.jpg",
+  "website": "https://www.memsource.com/",
+  "docsUrl": "https://www.memsource.com/solutions/documentation"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gatsbyjs-cloud",
+  "title": "Gatsby Cloud",
+  "subtitle": "The Future is Fast",
+  "tags": [
+    "continuous-deployment"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590549/icons/gatsbyjs-cloud.png",
+  "website": "https://www.gatsbyjs.com/",
+  "docsUrl": "https://www.gatsbyjs.com/docs"
+}

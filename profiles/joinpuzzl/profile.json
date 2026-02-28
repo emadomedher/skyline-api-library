@@ -1,0 +1,14 @@
+{
+  "id": "joinpuzzl",
+  "title": "Puzzl",
+  "subtitle": "Puzzl is a fintech company powering the future of payroll. We build software to empower companies to build and manage...",
+  "tags": [
+    "embedded-payroll"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615931274/icons/joinpuzzl.png",
+  "website": "https://www.joinpuzzl.com/",
+  "docsUrl": "https://www.joinpuzzl.com/docs"
+}

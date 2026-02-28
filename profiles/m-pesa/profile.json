@@ -1,0 +1,14 @@
+{
+  "id": "m-pesa",
+  "title": "M-Pesa",
+  "subtitle": "M-Pesa is a mobile phone-based money transfer service, payments and micro-financing service, launched in 2007 by Voda...",
+  "tags": [
+    "mobile-payments",
+    "payments",
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588661504/catalog/m-pesa/icon128x128.png"
+}

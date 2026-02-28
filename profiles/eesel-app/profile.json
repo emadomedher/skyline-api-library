@@ -1,0 +1,13 @@
+{
+  "id": "eesel-app",
+  "title": "eesel",
+  "subtitle": "eesel filters your browser history to show the documents you need for work right in your new tab. See recent docs, fi...",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663459289/icons/eesel-app.png",
+  "website": "https://www.eesel.app/"
+}

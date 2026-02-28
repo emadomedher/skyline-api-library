@@ -1,0 +1,13 @@
+{
+  "id": "danaconnect",
+  "title": "DANAConnect",
+  "subtitle": "DANAConnect helps your company to keep in touch with your customers in an automated way by using cross-channel workfl...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947171/catalog/danaconnect/icon128x128.jpg",
+  "website": "https://danaconnect.com"
+}

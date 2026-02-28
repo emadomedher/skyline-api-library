@@ -1,0 +1,15 @@
+{
+  "id": "abyssale",
+  "title": "Abyssale",
+  "subtitle": "Abyssale enables you to generate banners for online advertising & social in minutes. No design skills required – Star...",
+  "tags": [
+    "advertising",
+    "banner-production",
+    "banner-automation-api"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049882/icons/abyssale.png",
+  "website": "https://www.abyssale.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "botpenguin",
+  "title": "BotPenguin",
+  "subtitle": "BotPenguin is AI powered free chatbot maker for website & FB messenger. Create your own website chatbot to generate l...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592569016/icons/botpenguin.jpg",
+  "website": "https://botpenguin.com/"
+}

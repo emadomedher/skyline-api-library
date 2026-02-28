@@ -1,0 +1,13 @@
+{
+  "id": "axomo",
+  "title": "AXOMO",
+  "subtitle": "Offer employee rewards, design/distribute custom gear, and inspire people to rep the brand. Find out why clients love...",
+  "tags": [
+    "swag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638823304/icons/axomo.png",
+  "website": "https://axomo.com/"
+}

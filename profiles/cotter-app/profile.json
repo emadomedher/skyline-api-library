@@ -1,0 +1,14 @@
+{
+  "id": "cotter-app",
+  "title": "Cotter",
+  "subtitle": "Cotter helps you build a one-tap passwordless authentication in just a few lines of code.",
+  "tags": [
+    "passwordless-auth"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612173283/icons/cotter-app.png",
+  "website": "https://www.cotter.app/",
+  "docsUrl": "https://docs.cotter.app"
+}

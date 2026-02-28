@@ -1,0 +1,14 @@
+{
+  "id": "avodocs",
+  "title": "Avodocs",
+  "subtitle": "Perfect documents for running your business. Free. No registration. No strings attached.",
+  "tags": [
+    "legal-documents"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576627581/catalog/avodocs/icon128x128.png",
+  "website": "https://www.avodocs.com/",
+  "docsUrl": "https://www.avodocs.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "atrapalo",
+  "title": "Atrápalo",
+  "subtitle": "Encuentra los mejores precios en viajes, vuelos, hoteles, restaurantes, entradas, actividades, coches, cruceros y dis...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448069/icons/atrapalo.png",
+  "website": "https://www.atrapalo.com/"
+}

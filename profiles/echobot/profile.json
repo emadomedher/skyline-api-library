@@ -1,0 +1,14 @@
+{
+  "id": "echobot",
+  "title": "Echobot Media Technologies",
+  "subtitle": "Start transforming your sales & marketing process today. Get access to the latest sales triggers and up to date busin...",
+  "tags": [
+    "sales-intelligence"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655856390/icons/echobot.jpg",
+  "website": "https://www.echobot.com/",
+  "docsUrl": "https://api.echobot.de/doc"
+}

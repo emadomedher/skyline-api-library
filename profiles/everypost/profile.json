@@ -1,0 +1,13 @@
+{
+  "id": "everypost",
+  "title": "Everypost",
+  "subtitle": "Everypost is a Social Media Platform that manages multiple networks simultaneously. Discover how to maximize your bus...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947041/catalog/everypost/icon128x128.png",
+  "website": "https://everypost.me"
+}

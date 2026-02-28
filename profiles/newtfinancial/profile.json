@@ -1,0 +1,13 @@
+{
+  "id": "newtfinancial",
+  "title": "Newt",
+  "subtitle": "Newt corporate website",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637251117/icons/newtfinancial.png",
+  "website": "https://www.newtfinancial.com/"
+}

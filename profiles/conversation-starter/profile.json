@@ -1,0 +1,13 @@
+{
+  "id": "conversation-starter",
+  "title": "Conversation Starter",
+  "subtitle": "Ensure your attendees go home satisfied. Conversation Starter helps them speak to the people they want to meet.",
+  "tags": [
+    "meetings"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562150861/catalog/conversation-starter/icon128x128.jpg",
+  "website": "https://conversationstarter.net"
+}

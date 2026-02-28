@@ -1,0 +1,14 @@
+{
+  "id": "crumblo",
+  "title": "Crumblo",
+  "subtitle": "Instant payments made easy Get started with the open banking revolution. Receive fast, secure and affordable payments...",
+  "tags": [
+    "bank-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605055764/icons/crumblo.jpg",
+  "website": "https://crumblo.com/",
+  "docsUrl": "https://crumblo.com/contact-us/#contact-form"
+}

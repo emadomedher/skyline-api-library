@@ -1,0 +1,14 @@
+{
+  "id": "observe-ai",
+  "title": "Observe.AI",
+  "subtitle": "Observe.AI infuses AI into 100% of customer conversations to optimize agent performance and automate repeatable workf...",
+  "tags": [
+    "conversation-intelligence",
+    "contact-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637955/icons/observe-ai.jpg",
+  "website": "https://www.observe.ai/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rezi-io",
+  "title": "Rezi",
+  "subtitle": "Rezi’s award-winning AI-powered free resume builder and templates are trusted by thousands of job seekers. Create a A...",
+  "tags": [
+    "resume-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612484111/icons/rezi-io.jpg",
+  "website": "https://www.rezi.io/",
+  "docsUrl": "https://www.rezi.io/#w-tabs-0-data-w-pane-4"
+}

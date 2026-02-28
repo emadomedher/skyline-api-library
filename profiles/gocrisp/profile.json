@@ -1,0 +1,14 @@
+{
+  "id": "gocrisp",
+  "title": "Crisp",
+  "subtitle": "Crisp API integration",
+  "tags": [
+    "foodtech",
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863271/icons/gocrisp.png",
+  "website": "https://www.gocrisp.com/"
+}

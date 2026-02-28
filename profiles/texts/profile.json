@@ -1,0 +1,14 @@
+{
+  "id": "texts",
+  "title": "Texts",
+  "subtitle": "The ultimate messaging app",
+  "tags": [
+    "unified-messaging",
+    "unified-inbox"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656788/icons/texts.jpg",
+  "website": "https://texts.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "swiggy",
+  "title": "Swiggy",
+  "subtitle": "Order food online from restaurants and get it delivered. Serving in Bangalore, Hyderabad, Delhi, Gurgaon, Nagpur, Jai...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801242/catalog/swiggy/icon128x128.jpg",
+  "website": "https://www.swiggy.com/"
+}

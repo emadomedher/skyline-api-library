@@ -1,0 +1,13 @@
+{
+  "id": "netsapiens",
+  "title": "NetSapiens",
+  "subtitle": "netsapiens offers unprecedented levels of profitability, customization, and ease of use with our Communications Platf...",
+  "tags": [
+    "communications"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023412/icons/netsapiens.jpg",
+  "website": "https://netsapiens.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cisco-umbrella",
+  "title": "Cisco Umbrella",
+  "subtitle": "Cisco Umbrella is cloud-delivered enterprise network security which provides users with a first line of defense again...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565027135/catalog/cisco-umbrella/icon128x128.jpg",
+  "website": "https://umbrella.cisco.com"
+}

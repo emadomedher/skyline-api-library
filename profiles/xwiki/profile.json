@@ -1,0 +1,13 @@
+{
+  "id": "xwiki",
+  "title": "XWiki",
+  "subtitle": "Enterprise wiki for sharing knowledge",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946327/catalog/xwiki/icon128x128.png",
+  "website": "https://xwiki.org"
+}

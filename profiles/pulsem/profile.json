@@ -1,0 +1,12 @@
+{
+  "id": "pulsem",
+  "title": "PulseM",
+  "subtitle": "PulseM is a customer engagement tool for the home services market which helps you to stay connected with your customers.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305785/catalog/pulsem/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sirenum",
+  "title": "Sirenum",
+  "subtitle": "Sirenum is the world’s leading staff management platform for temporary agencies and hourly workers: scheduling, payro...",
+  "tags": [
+    "shift-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612119281/icons/sirenum.png",
+  "website": "https://sirenum.com/",
+  "docsUrl": "https://sirenum.com/graduate-developer"
+}

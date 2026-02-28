@@ -1,0 +1,14 @@
+{
+  "id": "basin",
+  "title": "Basin",
+  "subtitle": "Basin is a simple form backend that allows you to collect submission data without writing a single line of code.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284452/catalog/basin/icon128x128.png",
+  "website": "https://usebasin.com",
+  "docsUrl": "https://usebasin.com/docs"
+}

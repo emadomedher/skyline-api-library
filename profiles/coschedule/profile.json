@@ -1,0 +1,13 @@
+{
+  "id": "coschedule",
+  "title": "CoSchedule",
+  "subtitle": "CoSchedule is mission control for your entire marketing strategy.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304698/catalog/coschedule/icon128x128.png",
+  "website": "https://coschedule.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sheetsu",
+  "title": "Sheetsu",
+  "subtitle": "Turn Google Sheets into API with Sheetsu in just 5 minutes. Access Google Spreadsheets via REST API and use it as a d...",
+  "tags": [
+    "spreadsheets",
+    "api"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602003076/icons/sheetsu.png",
+  "website": "https://sheetsu.com/",
+  "docsUrl": "https://sheetsu.com/docs"
+}

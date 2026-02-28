@@ -1,0 +1,13 @@
+{
+  "id": "customertimes",
+  "title": "CustomerTimes",
+  "subtitle": "Salesforce Platinum Partner CustomerTimes provide a full range of Salesforce Services. From consulting to development...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947179/catalog/customertimes/icon128x128.png",
+  "website": "https://customertimes.com"
+}

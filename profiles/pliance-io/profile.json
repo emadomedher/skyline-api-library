@@ -1,0 +1,17 @@
+{
+  "id": "pliance-io",
+  "title": "Pliance",
+  "subtitle": "Pliance offers powerful tools for automating AML compliance. Whether you are integrating into your existing systems a...",
+  "tags": [
+    "fintech",
+    "compliance",
+    "aml",
+    "api"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565163209/catalog/pliance-io/icon128x128.png",
+  "website": "https://pliance.io",
+  "docsUrl": "https://pliance.io/api"
+}

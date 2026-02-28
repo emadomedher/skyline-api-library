@@ -1,0 +1,13 @@
+{
+  "id": "virtualghostwriter",
+  "title": "Virtual Ghost Writer",
+  "subtitle": "A simple application that allows you to generate various copy with just a prompt. Its use ranges from summarizing lon...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615737941/icons/virtualghostwriter.png",
+  "website": "https://virtualghostwriter.com/"
+}

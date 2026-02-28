@@ -1,0 +1,13 @@
+{
+  "id": "firecart",
+  "title": "Firecart",
+  "subtitle": "Firecart API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434613/catalog/firecart/icon128x128.png",
+  "website": "https://firecart.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "inbound-now",
+  "title": "Inbound Now",
+  "subtitle": "Inbound now builds Marketing Plugins for WordPress and does Custom WordPress Development with a heavy emphasis on mar...",
+  "tags": [
+    "wordpress",
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305154/catalog/inbound-now/icon128x128.png",
+  "website": "https://www.inboundnow.com/"
+}

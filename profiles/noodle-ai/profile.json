@@ -1,0 +1,14 @@
+{
+  "id": "noodle-ai",
+  "title": "Noodle.ai",
+  "subtitle": "Noodle.ai is Enterprise AI®. We’re on a mission to create a world without waste. We push the limits of data science, ...",
+  "tags": [
+    "supply-chain",
+    "manufacturing"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584144649/catalog/noodle-ai/icon128x128.png",
+  "website": "https://noodle.ai/"
+}

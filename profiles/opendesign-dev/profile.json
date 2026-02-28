@@ -1,0 +1,15 @@
+{
+  "id": "opendesign-dev",
+  "title": "Open Design",
+  "subtitle": "Open Design allows you to get any type of data from Figma, Sketch, Adobe XD, Photoshop, and Illustrator designs using...",
+  "tags": [
+    "design",
+    "unified-apis"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623885962/icons/opendesign-dev.jpg",
+  "website": "https://opendesign.dev/",
+  "docsUrl": "https://opendesign.dev/docs/getting-started"
+}

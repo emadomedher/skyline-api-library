@@ -1,0 +1,13 @@
+{
+  "id": "acrossapp",
+  "title": "Across",
+  "subtitle": "Manage all of your customer relationships in Slack",
+  "tags": [
+    "customer-success"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588296687/catalog/acrossapp/icon128x128.png",
+  "website": "https://acrossapp.com/"
+}

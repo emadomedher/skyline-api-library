@@ -1,0 +1,13 @@
+{
+  "id": "wrapbook",
+  "title": "Wrapbook",
+  "subtitle": "Run entertainment payroll, customize your production insurance, and cut through mountains of paperwork with Wrapbook,...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616691097/icons/wrapbook.png",
+  "website": "https://www.wrapbook.com/"
+}

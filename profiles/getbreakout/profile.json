@@ -1,0 +1,13 @@
+{
+  "id": "getbreakout",
+  "title": "Breakout",
+  "subtitle": "Automate your work with Breakout's Platform. Build amazing process workflows, checklists, and collaboration tools in ...",
+  "tags": [
+    "workflow-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660849089/icons/getbreakout.jpg",
+  "website": "https://getbreakout.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kapture",
+  "title": "Kapture",
+  "subtitle": "Kapture Customer Relationship Management Software (CRM Software) is a one-stop solution for Intelligent Automation am...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720647/catalog/kapture/icon128x128.jpg",
+  "website": "https://kapturecrm.com"
+}

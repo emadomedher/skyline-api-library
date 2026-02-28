@@ -1,0 +1,13 @@
+{
+  "id": "kapost",
+  "title": "Kapost",
+  "subtitle": "Kapost provides content operations software and services to unite revenue teams and align the customer journey. Learn...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826707/catalog/kapost/icon128x128.jpg",
+  "website": "https://kapost.com"
+}

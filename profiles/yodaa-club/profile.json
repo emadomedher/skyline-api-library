@@ -1,0 +1,13 @@
+{
+  "id": "yodaa-club",
+  "title": "YodaaClub",
+  "subtitle": "Yodaa is a neo bank designed for teens, that empowers teen users with their own card and smart money app.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611530586/icons/yodaa-club.png",
+  "website": "https://yodaa.club/"
+}

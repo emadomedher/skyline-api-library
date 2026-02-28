@@ -1,0 +1,14 @@
+{
+  "id": "upshotly",
+  "title": "Upshotly",
+  "subtitle": "Upshotly helps you to empower, engage, recognise your employees and improve their performance.",
+  "tags": [
+    "performance-management",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570350222/catalog/upshotly/icon128x128.jpg",
+  "website": "https://www.upshotly.com/"
+}

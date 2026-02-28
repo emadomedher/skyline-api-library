@@ -1,0 +1,14 @@
+{
+  "id": "robomq-io",
+  "title": "RoboMQ",
+  "subtitle": "RoboMQ provides integration of SaaS and enterprise applications, such as Salesforce, for IT teams and business teams ...",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573320165/catalog/robomq-io/icon128x128.png",
+  "website": "https://www.robomq.io/",
+  "docsUrl": "https://www.robomq.io/docs"
+}

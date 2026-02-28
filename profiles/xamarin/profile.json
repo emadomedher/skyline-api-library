@@ -1,0 +1,13 @@
+{
+  "id": "xamarin",
+  "title": "Xamarin",
+  "subtitle": "Target all platforms with a single, shared codebase for Android, iOS, and Windows. Dowload our free IDEs on OS X and ...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616016737/icons/xamarin.png",
+  "website": "https://xamarin.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "reelo-io",
+  "title": "Reelo",
+  "subtitle": "Reelo is a loyalty management software built to empower small businesses to create your own customer rewards program....",
+  "tags": [
+    "customer-loyalty"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647901545/icons/reelo-io.jpg",
+  "website": "https://reelo.io/"
+}

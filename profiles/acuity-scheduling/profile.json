@@ -1,0 +1,14 @@
+{
+  "id": "acuity-scheduling",
+  "title": "Acuity Scheduling",
+  "subtitle": "Online appointment scheduling software. Clients schedule appointments, pay, and complete intake forms online 24/7. Fr...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456109/catalog/acuity-scheduling/icon128x128.png",
+  "website": "https://acuityscheduling.com/",
+  "docsUrl": "https://developers.acuityscheduling.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "audiomicro",
+  "title": "AudioMicro",
+  "subtitle": "Royalty Free stock music for any project - web, YouTube, film, TV, radio, DVDs, games, apps & more. License music and...",
+  "tags": [
+    "stock-music"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589827529/catalog/audiomicro/icon128x128.jpg",
+  "website": "https://www.audiomicro.com/",
+  "docsUrl": "https://www.audiomicro.com/legal-docs/music-license-agreement"
+}

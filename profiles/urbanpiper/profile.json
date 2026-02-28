@@ -1,0 +1,13 @@
+{
+  "id": "urbanpiper",
+  "title": "UrbanPiper",
+  "subtitle": "The only integration solution you need for Swiggy/Zomato/Amazon Food and to manage your own online store!",
+  "tags": [
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644983572/icons/urbanpiper.png",
+  "website": "https://www.urbanpiper.com/"
+}

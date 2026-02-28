@@ -1,0 +1,13 @@
+{
+  "id": "thundercontent",
+  "title": "Thundercontent",
+  "subtitle": "Thundercontent uses artificial intelligence to help you write articles unique articles at the speed of light. ⚡️Spend...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614034478/icons/thundercontent.png",
+  "website": "https://thundercontent.com/"
+}

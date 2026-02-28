@@ -1,0 +1,12 @@
+{
+  "id": "stp-nederland",
+  "title": "STP Nederland",
+  "subtitle": "STP Nederland is gespecialiseerd in het automatisch koppelen van deelnemersgegevens tussen loonadministratiesoftware ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256976/catalog/stp-nederland/icon128x128.png"
+}

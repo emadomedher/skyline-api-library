@@ -1,0 +1,14 @@
+{
+  "id": "ordwaylabs",
+  "title": "Ordway",
+  "subtitle": "Finance software for SaaS, cloud, fintech - subscription management, usage-based billing, revenue recognition, ARR/MR...",
+  "tags": [
+    "billing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686868860/icons/ordwaylabs.jpg",
+  "website": "https://ordwaylabs.com/",
+  "docsUrl": "https://ordwaylabs.stoplight.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "icontrolapp-se",
+  "title": "iControl",
+  "subtitle": "iControl | Skriv aldrig ett protokoll igen",
+  "tags": [
+    "construction-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565191177/catalog/icontrolapp-se/icon128x128.png",
+  "website": "https://icontrolapp.se"
+}

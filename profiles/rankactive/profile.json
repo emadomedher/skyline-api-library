@@ -1,0 +1,13 @@
+{
+  "id": "rankactive",
+  "title": "RankActive",
+  "subtitle": "RankActive API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436834/catalog/rankactive/icon128x128.png",
+  "website": "https://rankactive.com"
+}

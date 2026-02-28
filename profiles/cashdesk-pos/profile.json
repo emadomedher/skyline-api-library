@@ -1,0 +1,13 @@
+{
+  "id": "cashdesk-pos",
+  "title": "CashDesk",
+  "subtitle": "CashDesk has developed a highly intelligent unique system ! Delivery software, restaurant software, restaurant websit...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642445648/icons/cashdesk-pos.png",
+  "website": "https://www.cashdesk-pos.com/"
+}

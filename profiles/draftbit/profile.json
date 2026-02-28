@@ -1,0 +1,15 @@
+{
+  "id": "draftbit",
+  "title": "Draftbit",
+  "subtitle": "Ditch the prototypes and visually build native mobile apps—all from your browser. Easily build beautiful screens, add...",
+  "tags": [
+    "mobile-apps",
+    "low-code",
+    "mobile-development"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566774054/catalog/draftbit/icon128x128.jpg",
+  "website": "https://draftbit.com/"
+}

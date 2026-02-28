@@ -1,0 +1,13 @@
+{
+  "id": "doordash",
+  "title": "DoorDash",
+  "subtitle": "Best local restaurants now deliver. Get breakfast, lunch, dinner and more delivered from your favorite restaurants ri...",
+  "tags": [
+    "application-securitysecurity"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564923784/catalog/doordash/icon128x128.png",
+  "website": "https://doordash.com"
+}

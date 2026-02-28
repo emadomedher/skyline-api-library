@@ -1,0 +1,13 @@
+{
+  "id": "qashback",
+  "title": "QashBack",
+  "subtitle": "Qashback Home - QBK, 网络信誉, 信誉管理, Reputation management system, 宏正, 迈美, 国际美业旅游中心, 东方源流, 中马文化经济交流中心",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946690/catalog/qashback/icon128x128.jpg",
+  "website": "https://qashback.net"
+}

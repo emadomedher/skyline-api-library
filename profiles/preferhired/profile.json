@@ -1,0 +1,13 @@
+{
+  "id": "preferhired",
+  "title": "Preferhired",
+  "subtitle": "Preferhired API integration",
+  "tags": [
+    "employee-referral"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805130/icons/preferhired.jpg",
+  "website": "https://www.preferhired.com/"
+}

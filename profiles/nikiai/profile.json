@@ -1,0 +1,13 @@
+{
+  "id": "nikiai",
+  "title": "niki.ai",
+  "subtitle": "Talk To Niki and get things done. Experience the ease and convenience of making online transactions on chat. Get offe...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963505/catalog/nikiai/icon128x128.png",
+  "website": "https://niki.ai"
+}

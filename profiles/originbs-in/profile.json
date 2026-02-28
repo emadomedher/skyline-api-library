@@ -1,0 +1,14 @@
+{
+  "id": "originbs-in",
+  "title": "Origin Business Solutions",
+  "subtitle": "Origin Business Solutions API integration",
+  "tags": [
+    "executive-hiring",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599421354/icons/originbs-in.png",
+  "website": "https://www.originbs.in/"
+}

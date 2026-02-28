@@ -1,0 +1,13 @@
+{
+  "id": "typepad",
+  "title": "Typepad",
+  "subtitle": "Typepad is the reliable, flexible blogging platform that puts the publisher in control. Plus great one-on-one support...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827890/catalog/typepad/icon128x128.png",
+  "website": "https://typepad.com"
+}

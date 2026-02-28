@@ -1,0 +1,13 @@
+{
+  "id": "joust",
+  "title": "Joust",
+  "subtitle": "Joust, the all-inclusive banking toolkit for entrepreneurs and freelancers. We do banking, payments and invoices so y...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565647341/catalog/joust/icon128x128.png",
+  "website": "https://joust.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "streamelements",
+  "title": "StreamElements",
+  "subtitle": "StreamElements is the leading platform for live streaming on Twitch,Youtube and Facebook gaming. StreamElements featu...",
+  "tags": [
+    "livestreaming-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642182920/icons/streamelements.png",
+  "website": "https://streamelements.com/"
+}

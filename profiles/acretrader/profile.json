@@ -1,0 +1,13 @@
+{
+  "id": "acretrader",
+  "title": "AcreTrader",
+  "subtitle": "AcreTrader is the farmland real estate investment company offering low minimum, passive farm investments. Invest in m...",
+  "tags": [
+    "agritech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699489/catalog/acretrader/icon128x128.jpg",
+  "website": "https://www.acretrader.com/"
+}

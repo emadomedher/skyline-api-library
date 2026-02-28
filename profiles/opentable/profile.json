@@ -1,0 +1,13 @@
+{
+  "id": "opentable",
+  "title": "OpenTable",
+  "subtitle": "Make online reservations, read restaurant reviews from diners, and earn points towards free meals. OpenTable is a rea...",
+  "tags": [
+    "restaurant-reservations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598870925/icons/opentable.jpg",
+  "website": "https://www.opentable.com/"
+}

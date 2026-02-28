@@ -1,0 +1,13 @@
+{
+  "id": "paysera",
+  "title": "Paysera",
+  "subtitle": "Get private or business IBAN account, collect payments, exchange currency at favourable rates, pay with Paysera VISA,...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594331708/icons/paysera.png",
+  "website": "https://www.paysera.com/"
+}

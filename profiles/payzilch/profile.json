@@ -1,0 +1,14 @@
+{
+  "id": "payzilch",
+  "title": "Zilch",
+  "subtitle": "Have what you want, when you want it. Pay over time for the things you love using Zilch. Interest-free. Fee-free. For...",
+  "tags": [
+    "buy-now-pay-later",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606247254/icons/payzilch.jpg",
+  "website": "https://www.payzilch.com/"
+}

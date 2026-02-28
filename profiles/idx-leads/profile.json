@@ -1,0 +1,12 @@
+{
+  "id": "idx-leads",
+  "title": "IDX Leads",
+  "subtitle": "IDX Leads is a system for real estate lead capture. Leverage your MLS/IDX listings to collect qualified leads from hi...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305147/catalog/idx-leads/icon128x128.png"
+}

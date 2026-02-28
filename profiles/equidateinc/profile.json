@@ -1,0 +1,13 @@
+{
+  "id": "equidateinc",
+  "title": "Forge",
+  "subtitle": "Designed for investors seeking access to top pre-IPO companies, and startup employees seeking to unlock their net worth.",
+  "tags": [
+    "equity-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579381803/catalog/equidateinc/icon128x128.jpg",
+  "website": "https://equidateinc.com"
+}

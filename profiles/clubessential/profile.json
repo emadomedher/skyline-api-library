@@ -1,0 +1,13 @@
+{
+  "id": "clubessential",
+  "title": "Clubessential",
+  "subtitle": "Over 1,300 clubs across the globe trust Clubessential technology solutions to empower club staff to focus on what mat...",
+  "tags": [
+    "club-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062136/catalog/clubessential/icon128x128.jpg",
+  "website": "https://www.clubessential.com/"
+}

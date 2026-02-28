@@ -1,0 +1,12 @@
+{
+  "id": "quiz-maker",
+  "title": "Quiz Maker",
+  "subtitle": "Quiz Maker is a service for creating and publishing quizzes, surveys, trivia, polls, online forms, personality tests ...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305813/catalog/quiz-maker/icon128x128.png"
+}

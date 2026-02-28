@@ -1,0 +1,13 @@
+{
+  "id": "prodcamp",
+  "title": "ProdCamp",
+  "subtitle": "Collect feedback from all stakeholders across multiple channels, prioritize work, and enhance your customers' experie...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614523271/icons/prodcamp.png",
+  "website": "https://www.prodcamp.com/"
+}

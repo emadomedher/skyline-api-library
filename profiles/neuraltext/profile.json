@@ -1,0 +1,14 @@
+{
+  "id": "neuraltext",
+  "title": "NeuralText",
+  "subtitle": "Stop spending endless hours analyzing competitors. NeuralText helps search marketers obsessed with great content to s...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614086933/icons/neuraltext.png",
+  "website": "https://www.neuraltext.com/",
+  "docsUrl": "https://www.neuraltext.com/#"
+}

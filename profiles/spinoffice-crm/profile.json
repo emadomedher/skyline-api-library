@@ -1,0 +1,13 @@
+{
+  "id": "spinoffice-crm",
+  "title": "Mulberry Garden - SpinOffice CRM",
+  "subtitle": "All-In-One CRM software. Stay connected with your business contacts. All data stored in SpinOffice CRM is saved encry...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593276888/icons/spinoffice-crm.png",
+  "website": "https://www.spinoffice-crm.com/"
+}

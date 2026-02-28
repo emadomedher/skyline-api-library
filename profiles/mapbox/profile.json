@@ -1,0 +1,14 @@
+{
+  "id": "mapbox",
+  "title": "Mapbox",
+  "subtitle": "An open source mapping platform for custom designed maps. Our APIs and SDKs are the building blocks to integrate loca...",
+  "tags": [
+    "maps"
+  ],
+  "category": "Maps & Geolocation",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561318809/catalog/mapbox/icon128x128.png",
+  "website": "https://mapbox.com",
+  "docsUrl": "https://docs.mapbox.com"
+}

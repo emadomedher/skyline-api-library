@@ -1,0 +1,14 @@
+{
+  "id": "surveysparrow",
+  "title": "SurveySparrow",
+  "subtitle": "Create better experience for your customers & employees. Design 'Wow' moments. Get started with SurveySparrow, for FREE!",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539026/catalog/surveysparrow/icon128x128.png",
+  "website": "https://surveysparrow.com/",
+  "docsUrl": "https://surveysparrow.com/developer"
+}

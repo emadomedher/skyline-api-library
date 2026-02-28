@@ -1,0 +1,12 @@
+{
+  "id": "sellead",
+  "title": "Sellead",
+  "subtitle": "Sellead is a tool that simplifies the administration process of companies dealing with international travel education...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284602/catalog/sellead/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sdu-nl",
+  "title": "Sdu",
+  "subtitle": "Sdu biedt toonaangevende, actuele vakinformatie en tools voor juristen, fiscalisten en andere professionals die met w...",
+  "tags": [
+    "tax",
+    "legal"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509856/catalog/sdu-nl/icon128x128.jpg",
+  "website": "https://www.sdu.nl/"
+}

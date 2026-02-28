@@ -1,0 +1,13 @@
+{
+  "id": "collab",
+  "title": "Collab",
+  "subtitle": "We empower contact centers with omnichannel intuitive collab contact center software. With Gamification, CRM integrat...",
+  "tags": [
+    "contact-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662389262/icons/collab.jpg",
+  "website": "https://collab.com/"
+}

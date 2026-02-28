@@ -1,0 +1,14 @@
+{
+  "id": "1build",
+  "title": "1build",
+  "subtitle": "1build API integration",
+  "tags": [
+    "construction",
+    "estimation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593465478/icons/1build.png",
+  "website": "https://www.1build.com/"
+}

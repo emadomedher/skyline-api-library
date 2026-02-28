@@ -1,0 +1,15 @@
+{
+  "id": "blackfire-io",
+  "title": "Blackfire",
+  "subtitle": "Blackfire empowers all PHP developers and IT/Ops to continuously verify and improve their app’s performance, througho...",
+  "tags": [
+    "apm",
+    "php"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565253673/catalog/blackfire-io/icon128x128.png",
+  "website": "https://blackfire.io",
+  "docsUrl": "https://blackfire.io/docs/introduction"
+}

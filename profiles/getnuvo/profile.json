@@ -1,0 +1,14 @@
+{
+  "id": "getnuvo",
+  "title": "nuvo",
+  "subtitle": "Sick of handling messy data? Create the best possible file importer for your end customers with just a few lines of c...",
+  "tags": [
+    "file-import"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649549303/icons/getnuvo.png",
+  "website": "https://getnuvo.com/",
+  "docsUrl": "https://docs.getnuvo.com"
+}

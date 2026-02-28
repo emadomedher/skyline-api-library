@@ -1,0 +1,14 @@
+{
+  "id": "codota",
+  "title": "Codota",
+  "subtitle": "AI Code Completions for your IDE",
+  "tags": [
+    "developer-tools",
+    "code-autocomplete"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741019/icons/codota.jpg",
+  "website": "https://www.codota.com/"
+}

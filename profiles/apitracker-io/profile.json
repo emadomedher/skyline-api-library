@@ -1,0 +1,14 @@
+{
+  "id": "apitracker-io",
+  "title": "API Tracker",
+  "subtitle": "Tracking 1200 APIs and SaaS products across different +30 data points like available API specs, developer experiences...",
+  "tags": [
+    "resources",
+    "compensation-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615953461/icons/apitracker-io.png",
+  "website": "https://apitracker.io/"
+}

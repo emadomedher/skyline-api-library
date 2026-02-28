@@ -1,0 +1,13 @@
+{
+  "id": "polarisbanklimited",
+  "title": "Polaris Bank",
+  "subtitle": "Polaris Bank Limited, is a commercial bank based in Nigeria. It is licensed by the Central Bank of Nigeria, the count...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621880332/icons/polarisbanklimited.png",
+  "website": "https://www.polarisbanklimited.com/"
+}

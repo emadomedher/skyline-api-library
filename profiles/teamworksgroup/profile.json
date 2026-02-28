@@ -1,0 +1,14 @@
+{
+  "id": "teamworksgroup",
+  "title": "Teamworks Group",
+  "subtitle": "Business Admin software with white glove service for the 21st Century Business. BI Dashboards, Payroll, HR, Benefits ...",
+  "tags": [
+    "business-admin",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638823284/icons/teamworksgroup.png",
+  "website": "https://www.teamworksgroup.com/"
+}

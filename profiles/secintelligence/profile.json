@@ -1,0 +1,14 @@
+{
+  "id": "secintelligence",
+  "title": "SEC Intelligence",
+  "subtitle": "SEC Intelligence is making products that derive meaning from the unstructured content of the SEC filings. We assist L...",
+  "tags": [
+    "legal-research",
+    "unstructured-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592864759/icons/secintelligence.png",
+  "website": "https://www.secintelligence.com/"
+}

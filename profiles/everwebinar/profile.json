@@ -1,0 +1,13 @@
+{
+  "id": "everwebinar",
+  "title": "EverWebinar",
+  "subtitle": "The world's most powerful automated webinar platform",
+  "tags": [
+    "webinars"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566876699/catalog/everwebinar/icon128x128.png",
+  "website": "https://everwebinar.com"
+}

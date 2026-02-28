@@ -1,0 +1,13 @@
+{
+  "id": "keytiles",
+  "title": "Keytiles",
+  "subtitle": "Keytiles API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826714/catalog/keytiles/icon128x128.jpg",
+  "website": "https://keytiles.com"
+}

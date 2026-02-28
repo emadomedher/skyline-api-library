@@ -1,0 +1,12 @@
+{
+  "id": "agentlegend",
+  "title": "Agent Legend",
+  "subtitle": "Agent Legend is an automated, multi-channel marketing tool.",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304369/catalog/agentlegend/icon128x128.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "forest-admin",
+  "title": "Forest Admin",
+  "subtitle": "Forest Admin provides an off-the-shelf admin panel based on a highly-extensible API plugged into your application.",
+  "tags": [
+    "admin",
+    "admin-panels"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562107613/catalog/forest-admin/icon128x128.jpg",
+  "website": "https://forestadmin.com",
+  "docsUrl": "https://www.forestadmin.com/doc"
+}

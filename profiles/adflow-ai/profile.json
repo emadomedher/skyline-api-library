@@ -1,0 +1,14 @@
+{
+  "id": "adflow-ai",
+  "title": "Adflow",
+  "subtitle": "Use Adflow to write ads that convert using AI. Brands use Adflow to create original copy, images and creatives for Go...",
+  "tags": [
+    "ad-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617634813/icons/adflow-ai.jpg",
+  "website": "https://www.adflow.ai/",
+  "docsUrl": "https://www.notion.so/help-support-3d53f52a67284cf084314d6260cc5e08"
+}

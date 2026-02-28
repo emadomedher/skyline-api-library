@@ -1,0 +1,14 @@
+{
+  "id": "codat-io",
+  "title": "Codat",
+  "subtitle": "Codat provide you with seamless integrations with the financial software used by your small business customers - all ...",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625937200/icons/codat-io.png",
+  "website": "https://www.codat.io/",
+  "docsUrl": "https://docs.codat.io"
+}

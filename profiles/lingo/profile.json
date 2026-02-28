@@ -1,0 +1,13 @@
+{
+  "id": "lingo",
+  "title": "Lingo",
+  "subtitle": "Stop wasting time looking for files buried in folders. Visually organize all your assets in one place with Lingo. Cre...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720828/catalog/lingo/icon128x128.jpg",
+  "website": "https://lingoapp.com"
+}

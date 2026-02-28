@@ -1,0 +1,14 @@
+{
+  "id": "archistar-ai",
+  "title": "Archistar",
+  "subtitle": "Archistar's world-first artificial intelligence helps property professionals find profitable land development sites, ...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618883162/icons/archistar-ai.jpg",
+  "website": "https://archistar.ai/",
+  "docsUrl": "https://archistar.ai/for-property-developers"
+}

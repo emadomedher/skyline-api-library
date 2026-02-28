@@ -1,0 +1,13 @@
+{
+  "id": "netpeak-software",
+  "title": "Netpeak Software",
+  "subtitle": "Netpeak Software API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963516/catalog/netpeak-software/icon128x128.png",
+  "website": "https://netpeaksoftware.com"
+}

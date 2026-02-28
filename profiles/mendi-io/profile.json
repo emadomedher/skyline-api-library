@@ -1,0 +1,13 @@
+{
+  "id": "mendi-io",
+  "title": "Mendi.io",
+  "subtitle": "Unlock your brain's potential - Real brain training and lifestyle recommendations.",
+  "tags": [
+    "brain-training"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632869919/icons/mendi-io.jpg",
+  "website": "https://www.mendi.io/"
+}

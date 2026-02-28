@@ -1,0 +1,14 @@
+{
+  "id": "birdeatsbug",
+  "title": "Bird Eats Bug",
+  "subtitle": "Found a bug? Record and share with engineers. It will come with technical logs and everything. Your team will ❤️ you.",
+  "tags": [
+    "bug-reporting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187662/catalog/birdeatsbug/icon128x128.jpg",
+  "website": "https://birdeatsbug.com/",
+  "docsUrl": "https://birdeatsbug.com/software-developers"
+}

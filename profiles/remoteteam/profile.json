@@ -1,0 +1,14 @@
+{
+  "id": "remoteteam",
+  "title": "Remote Team",
+  "subtitle": "Remote Team is a HR platform for “Remote First” teams. Our fully-integrated platform automates payroll, payments and ...",
+  "tags": [
+    "remote",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584346801/catalog/remoteteam/icon128x128.jpg",
+  "website": "https://www.remoteteam.com/"
+}

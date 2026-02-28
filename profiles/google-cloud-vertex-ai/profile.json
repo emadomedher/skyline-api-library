@@ -1,0 +1,13 @@
+{
+  "id": "google-cloud-vertex-ai",
+  "title": "Vertex AI",
+  "subtitle": "Fast, scalable, and easy-to-use AI technologies. Branches of AI, network AI and artificial intelligence fields in dep...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650533502/icons/google-cloud-vertex-ai.png",
+  "website": "https://cloud.google.com/vertex-ai"
+}

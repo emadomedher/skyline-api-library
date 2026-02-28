@@ -1,0 +1,14 @@
+{
+  "id": "airswap",
+  "title": "AirSwap",
+  "subtitle": "Trade the most popular Ethereum tokens directly from your digital wallet. From instant to OTC, every trade is a few c...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559773048/catalog/airswap/icon128x128.jpg",
+  "website": "https://airswap.io",
+  "docsUrl": "https://www.airswap.io/#developers"
+}

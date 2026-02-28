@@ -1,0 +1,13 @@
+{
+  "id": "codeclimate",
+  "title": "Code Climate",
+  "subtitle": "Velocity synthesizes the data from your repos to give you full visibility and empowers your team for continuous deliv...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572371139/catalog/codeclimate/icon128x128.png",
+  "website": "https://codeclimate.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "luko-eu",
+  "title": "Luko",
+  "subtitle": "Discover the simple and transparent Home Insurance that protects your nest. Join a community of 20,000 and get Luko i...",
+  "tags": [
+    "home-insurance",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589928299/catalog/luko-eu/icon128x128.png",
+  "website": "https://www.luko.eu/"
+}

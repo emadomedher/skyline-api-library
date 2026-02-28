@@ -1,0 +1,13 @@
+{
+  "id": "kbm-group",
+  "title": "KBM Group",
+  "subtitle": "KBM Group transforms marketing efforts into mutually beneficial customer conversations through data-driven insights t...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720654/catalog/kbm-group/icon128x128.jpg",
+  "website": "https://kbmg.com"
+}

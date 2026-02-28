@@ -1,0 +1,13 @@
+{
+  "id": "tender-support",
+  "title": "Tender Support",
+  "subtitle": "Tender Support is an elegant help desk that organizes your customer care so you can focus on delivering the best serv...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306290/catalog/tender-support/icon128x128.png",
+  "website": "https://tenderapp.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adpage-io",
+  "title": "AdPage",
+  "subtitle": "AdPage API integration",
+  "tags": [
+    "landing-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562340446/catalog/adpage-io/icon128x128.jpg",
+  "website": "https://adpage.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nocodery",
+  "title": "NoCodery",
+  "subtitle": "NoCodery is the  1st no-code dedicated jobs board in the world trusted by hundreds of no coders and no-code compani...",
+  "tags": [
+    "no-code",
+    "education"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863267/icons/nocodery.jpg",
+  "website": "https://nocodery.com/"
+}

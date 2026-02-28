@@ -1,0 +1,13 @@
+{
+  "id": "unleashlive",
+  "title": "Unleash live",
+  "subtitle": "The Unleash live platform connects media captured through aerial drone cameras, other robotics cameras and sensors to...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268394/icons/unleashlive.jpg",
+  "website": "https://unleashlive.com"
+}

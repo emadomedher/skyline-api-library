@@ -1,0 +1,13 @@
+{
+  "id": "phind",
+  "title": "Phind",
+  "subtitle": "The AI search engine for developers. Get instant answers, explanations, and examples for all of your technical questi...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678357838/icons/phind.png",
+  "website": "https://www.phind.com/"
+}

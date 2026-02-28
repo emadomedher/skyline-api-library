@@ -1,0 +1,15 @@
+{
+  "id": "bazel-build",
+  "title": "bazelbuild",
+  "subtitle": "bazelbuild API integration",
+  "tags": [
+    "build-and-test",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609010930/icons/bazel-build.jpg",
+  "website": "https://bazel.build/",
+  "docsUrl": "https://docs.bazel.build"
+}

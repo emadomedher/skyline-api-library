@@ -1,0 +1,14 @@
+{
+  "id": "joinassembly",
+  "title": "Assembly",
+  "subtitle": "Automate routine workflows like one-on-ones (1:1s), employee recognition, daily standup, surveys, company announcemen...",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686735640/icons/joinassembly.jpg",
+  "website": "https://www.joinassembly.com/",
+  "docsUrl": "https://stripe.com/docs/security/stripe"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sweetprocess",
+  "title": "SweetProcess",
+  "subtitle": "SweetProcess makes documenting standard operating procedures (SOPs) easy and efficient. Share procedures with a team ...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946512/catalog/sweetprocess/icon128x128.png",
+  "website": "https://sweetprocess.com"
+}

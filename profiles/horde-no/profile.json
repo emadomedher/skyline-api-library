@@ -1,0 +1,13 @@
+{
+  "id": "horde-no",
+  "title": "Horde",
+  "subtitle": "Creating simple solutions that go beyond your expectations.",
+  "tags": [
+    "credit"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573694241/catalog/horde-no/icon128x128.png",
+  "website": "https://horde.no/"
+}

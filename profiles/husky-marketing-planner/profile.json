@@ -1,0 +1,13 @@
+{
+  "id": "husky-marketing-planner",
+  "title": "Husky Marketing Planner",
+  "subtitle": "Husky is dé project management tool voor marketeers: beheer je marketingplan, projecten, taken, campagnes, resultaten...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946930/catalog/husky-marketing-planner/icon128x128.jpg",
+  "website": "https://huskymarketingplanner.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ohris-fr",
+  "title": "oHRis",
+  "subtitle": "Dématérialisez vos processus RH et administratifs tels que la gestion de gestion des congés, des notes de frais ou vo...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683569104/icons/ohris-fr.png",
+  "website": "https://www.ohris.fr/"
+}

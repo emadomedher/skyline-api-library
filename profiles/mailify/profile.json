@@ -1,0 +1,14 @@
+{
+  "id": "mailify",
+  "title": "Mailify",
+  "subtitle": "Build a winning marketing strategy with Mailify's email marketing solution. Create email and SMS campaigns, landing p...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435706/catalog/mailify/icon128x128.png",
+  "website": "https://mailify.com",
+  "docsUrl": "https://developers.mailify.com"
+}

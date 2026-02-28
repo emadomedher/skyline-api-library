@@ -1,0 +1,13 @@
+{
+  "id": "pure-chat",
+  "title": "Pure Chat",
+  "subtitle": "Generate more leads and drive sales with Pure Chat. Add live chat software to your website to engage visitors and cus...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539018/catalog/pure-chat/icon128x128.png",
+  "website": "https://purechat.com"
+}

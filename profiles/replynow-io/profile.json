@@ -1,0 +1,13 @@
+{
+  "id": "replynow-io",
+  "title": "Reply Now",
+  "subtitle": "Reach out to your prospects directly in their favorite messengers, stand out from your competitors and get more engag...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562354007/catalog/replynow-io/icon128x128.png",
+  "website": "https://replynow.io"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "webiny",
+  "title": "Webiny",
+  "subtitle": "Webiny is a modern open source content management designed to run inside a serverless environment.  Webiny is powered...",
+  "tags": [
+    "serverless",
+    "headless-cms"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828011/catalog/webiny/icon128x128.jpg",
+  "website": "https://webiny.com",
+  "docsUrl": "https://docs.webiny.com"
+}

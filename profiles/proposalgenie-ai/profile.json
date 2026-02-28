@@ -1,0 +1,13 @@
+{
+  "id": "proposalgenie-ai",
+  "title": "Proposal Genie",
+  "subtitle": "Write the Perfect Upwork proposal in seconds",
+  "tags": [
+    "proposal-writing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672967425/icons/proposalgenie-ai.png",
+  "website": "https://www.proposalgenie.ai/"
+}

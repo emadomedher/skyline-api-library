@@ -1,0 +1,13 @@
+{
+  "id": "formsapp",
+  "title": "forms.app",
+  "subtitle": "forms.app is a platform where you can build forms, share them and get responses. You can create sales order form and ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829958/catalog/formsapp/icon128x128.png",
+  "website": "https://forms.app"
+}

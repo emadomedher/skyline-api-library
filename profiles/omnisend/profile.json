@@ -1,0 +1,13 @@
+{
+  "id": "omnisend",
+  "title": "Omnisend",
+  "subtitle": "Omnisend is the ecommerce marketing automation platform built for growing ecommerce businesses. Try Omnisend for FREE...",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284564/catalog/omnisend/icon128x128.png",
+  "website": "https://omnisend.com"
+}

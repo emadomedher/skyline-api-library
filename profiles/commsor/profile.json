@@ -1,0 +1,13 @@
+{
+  "id": "commsor",
+  "title": "Commsor",
+  "subtitle": "Commsor is built by community leaders, for community leaders. That's why we're creating community-first tools to help...",
+  "tags": [
+    "community-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796499/catalog/commsor/icon128x128.jpg",
+  "website": "https://commsor.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "finclude-ai",
+  "title": "Finclude",
+  "subtitle": "Finclude revolutionizes creditworthiness & affordability assessment of individuals with machine learning on their tra...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625213056/icons/finclude-ai.jpg",
+  "website": "https://www.finclude.ai/"
+}

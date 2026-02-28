@@ -1,0 +1,14 @@
+{
+  "id": "citybreak",
+  "title": "Citybreak Enterprise",
+  "subtitle": "Citybreak is for the inbound tourism industry. Package your and other operators products, distribute widely and get b...",
+  "tags": [
+    "central-reservation-systems",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448052/icons/citybreak.jpg",
+  "website": "https://www.citybreak.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gandi-net",
+  "title": "Gandi.net US",
+  "subtitle": "Your web presence starts with a great domain name. Choose from over 750 different domain extensions at Gandi.net, one...",
+  "tags": [
+    "domain-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441099/catalog/gandi-net/icon128x128.jpg",
+  "website": "https://www.gandi.net/",
+  "docsUrl": "https://docs.gandi.net/en"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "setschedule",
+  "title": "SetSchedule",
+  "subtitle": "Online Real Estate Leads -  As INC. 500 Company, We Strive To Create Efficiencies Using Tech To Address Real Estate P...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634756602/icons/setschedule.jpg",
+  "website": "https://www.setschedule.com/",
+  "docsUrl": "https://www.setschedule.com/developers"
+}

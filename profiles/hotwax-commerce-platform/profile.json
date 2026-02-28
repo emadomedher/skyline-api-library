@@ -1,0 +1,13 @@
+{
+  "id": "hotwax-commerce-platform",
+  "title": "HotWax Commerce Platform",
+  "subtitle": "HotWax Commerce Platform API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434988/catalog/hotwax-commerce-platform/icon128x128.png",
+  "website": "https://hotwax.co"
+}

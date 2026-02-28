@@ -1,0 +1,14 @@
+{
+  "id": "apideck-proxy",
+  "title": "Apideck Proxy",
+  "subtitle": "The easiest way to monitor third-party API calls. Fine grained analytics for private and pubic API calls.",
+  "tags": [
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628035014/icons/apideck-proxy.jpg",
+  "website": "https://www.apideck.com/products/proxy",
+  "docsUrl": "https://developers.apideck.com/apis/proxy/reference"
+}

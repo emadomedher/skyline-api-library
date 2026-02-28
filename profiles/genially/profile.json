@@ -1,0 +1,13 @@
+{
+  "id": "genially",
+  "title": "Genially",
+  "subtitle": "The tool for creating interactive content that makes your audience fall in love. Communicate, educate, and attract by...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946977/catalog/genially/icon128x128.jpg",
+  "website": "https://genial.ly"
+}

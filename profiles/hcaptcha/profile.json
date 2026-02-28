@@ -1,0 +1,15 @@
+{
+  "id": "hcaptcha",
+  "title": "hCaptcha",
+  "subtitle": "Do you use a captcha to keep out bots? hCaptcha protects user privacy, rewards websites, and helps companies get thei...",
+  "tags": [
+    "human-verification-systems",
+    "bot-protection",
+    "data-labeling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590575878/catalog/hcaptcha/icon128x128.jpg",
+  "website": "https://www.hcaptcha.com/"
+}

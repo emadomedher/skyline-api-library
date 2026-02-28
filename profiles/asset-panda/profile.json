@@ -1,0 +1,12 @@
+{
+  "id": "asset-panda",
+  "title": "Asset Panda",
+  "subtitle": "Asset Panda tracks and manages assets with reporting, alerts, workflows, and iOS/Android/desktop apps to track anythi...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284444/catalog/asset-panda/icon128x128.png"
+}

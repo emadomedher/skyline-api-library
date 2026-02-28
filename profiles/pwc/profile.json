@@ -1,0 +1,13 @@
+{
+  "id": "pwc",
+  "title": "PwC",
+  "subtitle": "Your agenda is our agenda. Let's work together to make sure your company is ready to take advantage of new opportunit...",
+  "tags": [
+    "consultancy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573231959/catalog/pwc/icon128x128.png",
+  "website": "https://www.pwc.com/"
+}

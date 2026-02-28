@@ -1,0 +1,14 @@
+{
+  "id": "stamped-io",
+  "title": "Stamped.io",
+  "subtitle": "Powering social proof for leading brands, Stamped.io is the best software platform to collect reviews and user-genera...",
+  "tags": [
+    "reviews",
+    "social-proof"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892858/catalog/stamped-io/icon128x128.jpg",
+  "website": "https://stamped.io/"
+}

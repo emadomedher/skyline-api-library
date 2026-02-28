@@ -1,0 +1,13 @@
+{
+  "id": "avalara-avatax",
+  "title": "Avalara AvaTax",
+  "subtitle": "Avalara AvaTax API integration",
+  "tags": [
+    "sales-tax"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592355241/icons/avalara-avatax.png",
+  "website": "https://www.avalara.com/us/en/products/sales-and-use-tax/avatax.html"
+}

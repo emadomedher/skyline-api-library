@@ -1,0 +1,13 @@
+{
+  "id": "kooomo",
+  "title": "Kooomo",
+  "subtitle": "Kooomo API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775282/catalog/kooomo/icon128x128.png",
+  "website": "https://kooomo.com"
+}

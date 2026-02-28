@@ -1,0 +1,13 @@
+{
+  "id": "grum",
+  "title": "Grum",
+  "subtitle": "The simplest way to upload photos from MAC/PC · Big time saver",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434877/catalog/grum/icon128x128.png",
+  "website": "https://grum.co"
+}

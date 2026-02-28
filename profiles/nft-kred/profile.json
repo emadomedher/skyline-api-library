@@ -1,0 +1,14 @@
+{
+  "id": "nft-kred",
+  "title": "NFT Kred",
+  "subtitle": "Influencers, Celebrities, Brands and Events engage their audiences in their own branded NFT experiences with NFT.Kred...",
+  "tags": [
+    "nft-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632178766/icons/nft-kred.png",
+  "website": "https://www.nft.kred/",
+  "docsUrl": "https://docs.nft.kred/docs"
+}

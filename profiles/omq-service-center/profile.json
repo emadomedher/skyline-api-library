@@ -1,0 +1,13 @@
+{
+  "id": "omq-service-center",
+  "title": "OMQ service center",
+  "subtitle": "Die OMQ Software hilft Ihrem Kundensupport Anfragen automatisch zu beantworten. Die Künstliche Intelligenz muss nicht...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946755/catalog/omq-service-center/icon128x128.jpg",
+  "website": "https://omq.de"
+}

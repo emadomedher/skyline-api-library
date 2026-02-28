@@ -1,0 +1,15 @@
+{
+  "id": "apitemplate-io",
+  "title": "APITemplateio",
+  "subtitle": "Previous Next APITemplate.io allows you to auto-generate images and PDF documents with a simple API Sign up & start a...",
+  "tags": [
+    "pdf-generation-api",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613458937/icons/apitemplate-io.jpg",
+  "website": "https://apitemplate.io/",
+  "docsUrl": "https://apitemplate.io/#documentation"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fitplanapp",
+  "title": "Fitplan",
+  "subtitle": "Elite personal training for a fraction of the price. Work out one-on-one with over 40 trainers and 100 fitness progra...",
+  "tags": [
+    "fitness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592559699/icons/fitplanapp.jpg",
+  "website": "https://www.fitplanapp.com/"
+}

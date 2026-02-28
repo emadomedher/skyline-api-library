@@ -1,0 +1,13 @@
+{
+  "id": "rightwave",
+  "title": "RightWave",
+  "subtitle": "Marketing Automation as a Service",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962472/catalog/rightwave/icon128x128.png",
+  "website": "https://rightwave.com"
+}

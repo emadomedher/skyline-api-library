@@ -1,0 +1,13 @@
+{
+  "id": "wazee-digital",
+  "title": "Wazee Digital",
+  "subtitle": "Wazee Digital's software powers digital asset management, content licensing, monetization, real-time live event captu...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722840/catalog/wazee-digital/icon128x128.jpg",
+  "website": "https://wazeedigital.com"
+}

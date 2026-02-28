@@ -1,0 +1,13 @@
+{
+  "id": "zak-app",
+  "title": "Zak",
+  "subtitle": "Soluções digitais e financeiras integradas em um sistema único, moderno, fluído e com custo fixo zero.",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723356/icons/zak-app.jpg",
+  "website": "https://www.zak.app/"
+}

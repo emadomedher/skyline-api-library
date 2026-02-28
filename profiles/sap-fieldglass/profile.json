@@ -1,0 +1,14 @@
+{
+  "id": "sap-fieldglass",
+  "title": "SAP Fieldglass",
+  "subtitle": "The SAP Fieldglass Vendor Management System (VMS) enables companies to optimize their use of external workers, contra...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082031/icons/sap-fieldglass.jpg",
+  "website": "https://www.fieldglass.com/",
+  "docsUrl": "https://web.fieldglass.com/fieldglass_unsubscribe.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bancobcr",
+  "title": "Banco de Costa Rica",
+  "subtitle": "Banco de Costa Rica is a state-owned commercial bank that operates in Costa Rica. With an equity of $806,606,710 and ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592321651/icons/bancobcr.jpg",
+  "website": "https://www.bancobcr.com/"
+}

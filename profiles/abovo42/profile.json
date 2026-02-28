@@ -1,0 +1,13 @@
+{
+  "id": "abovo42",
+  "title": "Abovo42",
+  "subtitle": "Abovo.co Social Email",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432690/catalog/abovo42/icon128x128.png",
+  "website": "https://abovo42.com"
+}

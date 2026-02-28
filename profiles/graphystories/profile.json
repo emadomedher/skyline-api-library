@@ -1,0 +1,13 @@
+{
+  "id": "graphystories",
+  "title": "GraphyStories",
+  "subtitle": "GraphyStories is a new Social Media Monitoring &amp; Content Discovery Tool for Media Professionals. Discover great c...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434858/catalog/graphystories/icon128x128.png",
+  "website": "https://graphystories.com"
+}

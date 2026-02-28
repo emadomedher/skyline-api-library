@@ -1,0 +1,13 @@
+{
+  "id": "usewhale-io",
+  "title": "Whale",
+  "subtitle": "The Whale knowlegde enablement platform empowers your customer facing teams through playbooks, offering them a clear ...",
+  "tags": [
+    "knowledge-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584015983/catalog/usewhale-io/icon128x128.jpg",
+  "website": "https://www.usewhale.io/"
+}

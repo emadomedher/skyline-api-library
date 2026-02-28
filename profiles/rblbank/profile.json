@@ -1,0 +1,14 @@
+{
+  "id": "rblbank",
+  "title": "RBL Bank",
+  "subtitle": "RBL Bank is an Indian private sector bank headquartered in the Mumbai and founded in 1943. It offers services in five...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574651630/catalog/rblbank/icon128x128.jpg",
+  "website": "https://www.rblbank.com/",
+  "docsUrl": "https://developer.rblbank.com/"
+}

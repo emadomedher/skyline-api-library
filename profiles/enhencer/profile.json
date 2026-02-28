@@ -1,0 +1,13 @@
+{
+  "id": "enhencer",
+  "title": "Enhencer",
+  "subtitle": "Enhencer is a self-service data analysis software that uses Machine Learning algorithms at the back to provide instan...",
+  "tags": [
+    "data-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579197965/catalog/enhencer/icon128x128.jpg",
+  "website": "https://www.enhencer.com/"
+}

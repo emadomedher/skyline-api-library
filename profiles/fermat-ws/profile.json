@@ -1,0 +1,14 @@
+{
+  "id": "fermat-ws",
+  "title": "Fermat",
+  "subtitle": "Collaborate with AI to unlock your creativity. Find your perfect set of tools. Brainstorming.",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672207739/icons/fermat-ws.jpg",
+  "website": "https://fermat.ws/",
+  "docsUrl": "https://docs.fermat.ws/getting-started/first-steps"
+}

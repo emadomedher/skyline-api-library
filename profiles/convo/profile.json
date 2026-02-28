@@ -1,0 +1,13 @@
+{
+  "id": "convo",
+  "title": "Convo",
+  "subtitle": "Convo is an Enterprise Social Network that helps you have actionable work conversations and file collaboration.",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304693/catalog/convo/icon128x128.png",
+  "website": "https://www.convo.com/"
+}

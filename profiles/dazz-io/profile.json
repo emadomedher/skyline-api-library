@@ -1,0 +1,13 @@
+{
+  "id": "dazz-io",
+  "title": "DAZZ.",
+  "subtitle": "We started our journey after years spent building cybersecurity products at Microsoft, Armis and Claroty . At Dazz, w...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640007348/icons/dazz-io.png",
+  "website": "https://www.dazz.io/"
+}

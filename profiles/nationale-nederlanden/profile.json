@@ -1,0 +1,12 @@
+{
+  "id": "nationale-nederlanden",
+  "title": "Nationale-Nederlanden",
+  "subtitle": "Nationale-Nederlanden behoort met ruim 4 miljoen particuliere en zakelijke klanten tot de grootste en meest toonaange...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256953/catalog/nationale-nederlanden/icon128x128.png"
+}

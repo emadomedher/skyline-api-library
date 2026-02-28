@@ -1,0 +1,13 @@
+{
+  "id": "alibaba",
+  "title": "Alibaba",
+  "subtitle": "Alibaba API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432921/catalog/alibaba/icon128x128.png",
+  "website": "https://alibaba.com"
+}

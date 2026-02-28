@@ -1,0 +1,13 @@
+{
+  "id": "simplycast",
+  "title": "SimplyCast",
+  "subtitle": "All-in-one marketing automation software that allows you to discover, organize, and communicate with your leads over ...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946593/catalog/simplycast/icon128x128.jpg",
+  "website": "https://simplycast.com"
+}

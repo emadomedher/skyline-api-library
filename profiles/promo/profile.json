@@ -1,0 +1,13 @@
+{
+  "id": "promo",
+  "title": "Promo",
+  "subtitle": "Every promotion starts with Promo.com. Grow your business with high-quality marketing videos and video ads",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305958/catalog/promo/icon128x128.jpg",
+  "website": "https://promo.com"
+}

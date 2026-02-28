@@ -1,0 +1,13 @@
+{
+  "id": "brickfox",
+  "title": "brickfox",
+  "subtitle": "Grow your business with brickfox - the Multichannel eCommerce Software. We offer central control of your products and...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559116916/catalog/brickfox/icon128x128.jpg",
+  "website": "https://brickfox.com"
+}

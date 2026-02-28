@@ -1,0 +1,14 @@
+{
+  "id": "knab-nl",
+  "title": "Knab",
+  "subtitle": "A Dutch bank operated by Aegon N.V., a multinational life insurance, pensions and asset management company headquarte...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566875201/catalog/knab-nl/icon128x128.jpg",
+  "website": "https://knab.nl",
+  "docsUrl": "https://developer.knab.nl/"
+}

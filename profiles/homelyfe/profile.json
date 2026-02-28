@@ -1,0 +1,16 @@
+{
+  "id": "homelyfe",
+  "title": "Homelyfe",
+  "subtitle": "Homelyfe API integration",
+  "tags": [
+    "home-insurance",
+    "insurance",
+    "insurtech",
+    "fintech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567642853/catalog/homelyfe/icon128x128.png",
+  "website": "https://www.homelyfe.com/"
+}

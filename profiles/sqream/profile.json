@@ -1,0 +1,14 @@
+{
+  "id": "sqream",
+  "title": "SQream",
+  "subtitle": "SQream empowers organizations to analyze the full scope of their massive data, accelerating sql queries and achieving...",
+  "tags": [
+    "data-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657718685/icons/sqream.jpg",
+  "website": "https://sqream.com/",
+  "docsUrl": "https://docs.sqream.com/en/latest"
+}

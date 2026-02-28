@@ -1,0 +1,13 @@
+{
+  "id": "happyhr",
+  "title": "Happy HR",
+  "subtitle": "HR software system Australia - Achieve more productivity with Happy HR’s performance management system that ensures e...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675411/catalog/happyhr/icon128x128.jpg",
+  "website": "https://happyhr.com/"
+}

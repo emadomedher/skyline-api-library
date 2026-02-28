@@ -1,0 +1,13 @@
+{
+  "id": "solvemate",
+  "title": "Solvemate",
+  "subtitle": "Solvemate is a Machine Learning platform for automating Customer Support. Best in class AI Chatbot for fast and accur...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573959822/catalog/solvemate/icon128x128.png",
+  "website": "https://www.solvemate.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pocus",
+  "title": "Pocus",
+  "subtitle": "Pocus helps PLG sales teams find, prioritize, understand, and action the best opportunities from their self-serve pip...",
+  "tags": [
+    "product-led-sales"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644525478/icons/pocus.jpg",
+  "website": "https://www.pocus.com/"
+}

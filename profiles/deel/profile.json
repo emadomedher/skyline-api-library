@@ -1,0 +1,16 @@
+{
+  "id": "deel",
+  "title": "Deel",
+  "subtitle": "Deel is the first payroll platform for remote teams that connects localized compliance and payments in one system of ...",
+  "tags": [
+    "payroll",
+    "remote",
+    "challenger-banks"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668295681/icons/deel.png",
+  "website": "https://www.deel.com/",
+  "docsUrl": "https://developer.deel.com/"
+}

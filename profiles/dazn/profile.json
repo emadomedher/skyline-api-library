@@ -1,0 +1,13 @@
+{
+  "id": "dazn",
+  "title": "DAZN",
+  "subtitle": "Watch sports live or later anytime, anywhere | DAZN",
+  "tags": [
+    "sports-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595242435/icons/dazn.jpg",
+  "website": "https://www.dazn.com/"
+}

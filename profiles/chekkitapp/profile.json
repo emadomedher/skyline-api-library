@@ -1,0 +1,13 @@
+{
+  "id": "chekkitapp",
+  "title": "Chekkit Technologies",
+  "subtitle": "Chekkit's product authentication technology solutions protects shoppers from buying fake products and connects manufa...",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628723128/icons/chekkitapp.jpg",
+  "website": "https://chekkitapp.com/"
+}

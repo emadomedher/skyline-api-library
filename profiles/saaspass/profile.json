@@ -1,0 +1,14 @@
+{
+  "id": "saaspass",
+  "title": "SAASPASS",
+  "subtitle": "undefined",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581894800/catalog/saaspass/icon128x128.jpg",
+  "website": "https://saaspass.com/",
+  "docsUrl": "https://saaspass.com/developer-multi-two-factor-authentication-2fa-mfa"
+}

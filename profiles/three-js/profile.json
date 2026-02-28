@@ -1,0 +1,15 @@
+{
+  "id": "three-js",
+  "title": "Three.js",
+  "subtitle": "Three.js API integration",
+  "tags": [
+    "javascript",
+    "3-d-libraries"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595809061/icons/three-js.jpg",
+  "website": "https://threejs.org/",
+  "docsUrl": "https://threejs.org/docs/index.html#manual/introduction/creating-a-scene"
+}

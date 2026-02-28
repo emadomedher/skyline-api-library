@@ -1,0 +1,15 @@
+{
+  "id": "demostack",
+  "title": "Demostack",
+  "subtitle": "Deliver tailored demos that drive discovery, build connection, and win more business.",
+  "tags": [
+    "sales-demo",
+    "demo-environment",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615315851/icons/demostack.jpg",
+  "website": "https://demostack.com/"
+}

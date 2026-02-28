@@ -1,0 +1,13 @@
+{
+  "id": "thecloudconnectors",
+  "title": "The Cloud Connectors",
+  "subtitle": "Unlock the potential of your HR Software with our solutions.",
+  "tags": [
+    "hr-integration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082005/icons/thecloudconnectors.jpg",
+  "website": "https://www.thecloudconnectors.com/"
+}

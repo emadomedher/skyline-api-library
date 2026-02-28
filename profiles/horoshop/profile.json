@@ -1,0 +1,12 @@
+{
+  "id": "horoshop",
+  "title": "Horoshop",
+  "subtitle": "Horoshop is an E-commerce platform that lets you to create powerful Online shops within a week.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305128/catalog/horoshop/icon128x128.png"
+}

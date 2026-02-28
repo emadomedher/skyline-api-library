@@ -1,0 +1,16 @@
+{
+  "id": "surepay-nl",
+  "title": "SurePay",
+  "subtitle": "SurePay is een corporate startup van Rabobank. Zij ontwikkelde de IBAN-Naam Check en levert deze aan banken en organi...",
+  "tags": [
+    "bank-account-checker",
+    "api",
+    "payments",
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062130/catalog/surepay-nl/icon128x128.png",
+  "website": "https://www.surepay.nl/"
+}

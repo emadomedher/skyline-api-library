@@ -1,0 +1,14 @@
+{
+  "id": "instamojo",
+  "title": "Instamojo",
+  "subtitle": "Instamojo is one of the top rated payment gateway & eCommerce platform in India. Trusted by 1,200,000+ Indian small b...",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593840372/icons/instamojo.jpg",
+  "website": "https://www.instamojo.com/",
+  "docsUrl": "https://www.instamojo.com/developers"
+}

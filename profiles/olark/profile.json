@@ -1,0 +1,13 @@
+{
+  "id": "olark",
+  "title": "Olark",
+  "subtitle": "Olark makes it easy to add live chat to your website and provide instantaneous support to your users and get valuable...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305555/catalog/olark/icon128x128.png",
+  "website": "https://www.olark.com/"
+}

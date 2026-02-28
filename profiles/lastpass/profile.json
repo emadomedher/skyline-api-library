@@ -1,0 +1,15 @@
+{
+  "id": "lastpass",
+  "title": "LastPass",
+  "subtitle": "LastPass API integration",
+  "tags": [
+    "password-management",
+    "management-tools",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829983/catalog/lastpass/icon128x128.png",
+  "website": "https://lastpass.com"
+}

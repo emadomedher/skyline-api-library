@@ -1,0 +1,12 @@
+{
+  "id": "aando-services",
+  "title": "A&O Services",
+  "subtitle": "A&O Services voert al 60 jaar, voor iedereen in de sector Afbouw en Onderhoud, een groot aantal regelingen uit.",
+  "tags": [
+    "pension"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256874/catalog/aando-services/icon128x128.jpg"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "validis",
+  "title": "Validis",
+  "subtitle": "At Validis, we seamlessly extract, standardize & analyze commercial accounting data to help financial institutions se...",
+  "tags": [
+    "unified-apis",
+    "accounting-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622146244/icons/validis.jpg",
+  "website": "https://www.validis.com/",
+  "docsUrl": "https://developer.validis.com"
+}

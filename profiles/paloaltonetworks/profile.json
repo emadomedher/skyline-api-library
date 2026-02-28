@@ -1,0 +1,14 @@
+{
+  "id": "paloaltonetworks",
+  "title": "Palo Alto Networks",
+  "subtitle": "Palo Alto Networks enables your team to prevent successful cyberattacks with an automated approach that delivers cons...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574007366/catalog/paloaltonetworks/icon128x128.png",
+  "website": "https://www.paloaltonetworks.com/",
+  "docsUrl": "https://docs.paloaltonetworks.com"
+}

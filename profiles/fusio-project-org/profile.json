@@ -1,0 +1,15 @@
+{
+  "id": "fusio-project-org",
+  "title": "Fusio",
+  "subtitle": "Fusio is an open source API management platform which helps to build and manage RESTful APIs",
+  "tags": [
+    "api-management",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611312811/icons/fusio-project-org.jpg",
+  "website": "https://www.fusio-project.org/",
+  "docsUrl": "https://www.fusio-project.org/documentation"
+}

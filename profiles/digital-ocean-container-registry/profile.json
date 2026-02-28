@@ -1,0 +1,13 @@
+{
+  "id": "digital-ocean-container-registry",
+  "title": "DigitalOcean Container Registry",
+  "subtitle": "Use DigitalOcean's container registry to store and manage private container images for rapid deployment to DigitalOce...",
+  "tags": [
+    "container-registries"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691960729/icons/digital-ocean-container-registry.png",
+  "website": "https://www.digitalocean.com/products/container-registry"
+}

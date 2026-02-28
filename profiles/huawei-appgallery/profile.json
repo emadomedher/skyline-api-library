@@ -1,0 +1,13 @@
+{
+  "id": "huawei-appgallery",
+  "title": "HUAWEI AppGallery",
+  "subtitle": "HUAWEI AppGallery API integration",
+  "tags": [
+    "app-stores"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723377/icons/huawei-appgallery.jpg",
+  "website": "https://appgallery.huawei.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "gremlin",
+  "title": "Gremlin",
+  "subtitle": "Prevent outages, innovate faster, and earn customer trust with Gremlin’s Chaos Engineering platform.",
+  "tags": [
+    "chaos-engineering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616036411/icons/gremlin.png",
+  "website": "https://www.gremlin.com/",
+  "docsUrl": "https://www.gremlin.com/docs/?ref=footer"
+}

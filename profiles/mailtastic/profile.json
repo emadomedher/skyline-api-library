@@ -1,0 +1,13 @@
+{
+  "id": "mailtastic",
+  "title": "Mailtastic",
+  "subtitle": "Heutzutage läuft die Geschäftswelt über die E-Mails der Mitarbeiter. Machen Sie sich E-Mail-Signatur-Marketing zu Ihr...",
+  "tags": [
+    "email-signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006401/icons/mailtastic.png",
+  "website": "https://mailtastic.com"
+}

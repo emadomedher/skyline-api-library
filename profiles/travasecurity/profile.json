@@ -1,0 +1,13 @@
+{
+  "id": "travasecurity",
+  "title": "Trava",
+  "subtitle": "Trava exists to protect SMBs from the potential damage of cyber threats. By integrating assessment, mitigation, and i...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608544891/icons/travasecurity.jpg",
+  "website": "https://www.travasecurity.com/"
+}

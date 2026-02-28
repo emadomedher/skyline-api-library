@@ -1,0 +1,13 @@
+{
+  "id": "staffd-me",
+  "title": "Staffd",
+  "subtitle": "Superior web-based Applicant Management, Employee Onboarding & eLearning system designed to streamline your company’s...",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688933812/icons/staffd-me.png",
+  "website": "https://staffd.me/"
+}

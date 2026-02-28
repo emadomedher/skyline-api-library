@@ -1,0 +1,13 @@
+{
+  "id": "denizbank-at",
+  "title": "DenizBank AG (Austria)",
+  "subtitle": "DenizBank AG was founded in 1996. As a universal bank, it is subject to the Austrian banking law and a member of a st...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591640866/icons/denizbank-at.png",
+  "website": "https://www.denizbank.at/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "http",
+  "title": "HTTP",
+  "subtitle": "HTTP means HyperText Transfer Protocol. HTTP is the underlying protocol used by the World Wide Web and this protocol ...",
+  "tags": [
+    "api",
+    "communication-protocols"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586880680/catalog/http/icon128x128.png"
+}

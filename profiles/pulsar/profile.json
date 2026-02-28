@@ -1,0 +1,13 @@
+{
+  "id": "pulsar",
+  "title": "Pulsar",
+  "subtitle": "Pulsar is an advanced social listening platform that has transformed how brands and agencies understand their audienc...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946697/catalog/pulsar/icon128x128.jpg",
+  "website": "https://pulsarplatform.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "luego-eu",
+  "title": "Luego",
+  "subtitle": "Un outil simple pour gérer vos factures, transactions, client et fournisseurs.",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609291878/icons/luego-eu.jpg",
+  "website": "https://www.luego.eu/"
+}

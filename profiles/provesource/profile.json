@@ -1,0 +1,13 @@
+{
+  "id": "provesource",
+  "title": "ProveSource",
+  "subtitle": "ProveSource is a social proof marketing platform that streams recent customer behaviors on your website to build trus...",
+  "tags": [
+    "social-proof"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561423041/catalog/provesource/icon128x128.jpg",
+  "website": "https://provesrc.com"
+}

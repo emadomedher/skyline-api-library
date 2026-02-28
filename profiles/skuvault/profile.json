@@ -1,0 +1,14 @@
+{
+  "id": "skuvault",
+  "title": "SkuVault",
+  "subtitle": "With SkuVault's eCommerce Inventory Management Software, you'll sell faster, pick faster, and ship faster. Find out how.",
+  "tags": [
+    "inventory-management",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609291876/icons/skuvault.jpg",
+  "website": "https://www.skuvault.com/"
+}

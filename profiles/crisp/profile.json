@@ -1,0 +1,14 @@
+{
+  "id": "crisp",
+  "title": "Crisp",
+  "subtitle": "Discover our Customer Messaging Platform for Startups & SMB's. The one stop for sales, marketing & support in one sof...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304704/catalog/crisp/icon128x128.png",
+  "website": "https://crisp.chat",
+  "docsUrl": "https://docs.crisp.chat/"
+}

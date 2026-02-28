@@ -1,0 +1,13 @@
+{
+  "id": "rundeck",
+  "title": "Rundeck",
+  "subtitle": "Rundeck API integration",
+  "tags": [
+    "incident-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599138895/icons/rundeck.jpg",
+  "website": "https://www.rundeck.com/"
+}

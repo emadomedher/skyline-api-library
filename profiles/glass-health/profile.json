@@ -1,0 +1,14 @@
+{
+  "id": "glass-health",
+  "title": "Glass Health",
+  "subtitle": "Glass is a knowledge management system tailored to the way\n    doctors learn, organize, and curate medical knowledge.",
+  "tags": [
+    "data-notebooks",
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675428057/icons/glass-health.jpg",
+  "website": "https://glass.health/"
+}

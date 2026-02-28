@@ -1,0 +1,14 @@
+{
+  "id": "appear-in",
+  "title": "Appear.in",
+  "subtitle": "Video conversations with up to 4 people for free - no login, no downloads. Create a video room. Share the link. Appea...",
+  "tags": [
+    "video-calls"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548446827/catalog/appear-in/icon128x128.png",
+  "website": "https://appear.in/",
+  "docsUrl": "https://github.com/appearin"
+}

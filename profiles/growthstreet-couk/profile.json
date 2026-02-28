@@ -1,0 +1,14 @@
+{
+  "id": "growthstreet-couk",
+  "title": "Growth Street",
+  "subtitle": "Growth Street: smart, flexible finance to help businesses grow.",
+  "tags": [
+    "fintech",
+    "b2b-lending"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565353322/catalog/growthstreet-couk/icon128x128.png",
+  "website": "https://growthstreet.co.uk"
+}

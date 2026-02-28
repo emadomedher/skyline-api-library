@@ -1,0 +1,15 @@
+{
+  "id": "puppeteer",
+  "title": "Puppeteer",
+  "subtitle": "Puppeteer API integration",
+  "tags": [
+    "browser-testing",
+    "developer-tools",
+    "headless-browsers"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625134770/icons/puppeteer.jpg",
+  "website": "https://pptr.dev/"
+}

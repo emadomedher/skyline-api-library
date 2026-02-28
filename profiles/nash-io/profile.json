@@ -1,0 +1,14 @@
+{
+  "id": "nash-io",
+  "title": "Nash",
+  "subtitle": "Buy Bitcoin. Trade cryptocurrencies. Pay with digital assets. However you use Nash, we never take control of your money.",
+  "tags": [
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611247042/icons/nash-io.jpg",
+  "website": "https://nash.io/",
+  "docsUrl": "https://nash.io/developers"
+}

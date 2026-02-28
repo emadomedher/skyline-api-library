@@ -1,0 +1,12 @@
+{
+  "id": "dropified",
+  "title": "Dropified",
+  "subtitle": "Dropified is a tool that turns e-commerce store into a well oiled machine.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538977/catalog/dropified/icon128x128.png"
+}

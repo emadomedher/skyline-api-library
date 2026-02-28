@@ -1,0 +1,14 @@
+{
+  "id": "entelo",
+  "title": "Entelo",
+  "subtitle": "The world’s most recognized brands use Entelo’s recruitment software to discover, qualify, and engage with top talent.",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602798489/icons/entelo.jpg",
+  "website": "https://www.entelo.com/",
+  "docsUrl": "https://docs.newrelic.com/docs/browser/new-relic-browser/page-load-timing-resources/new-relic-cookies"
+}

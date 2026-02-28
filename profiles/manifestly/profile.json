@@ -1,0 +1,13 @@
+{
+  "id": "manifestly",
+  "title": "Manifestly",
+  "subtitle": "Manifestly checklist software improves collaboration and accountability in your organization's recurring processes.",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305391/catalog/manifestly/icon128x128.png",
+  "website": "https://www.manifest.ly/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sapphire-db",
+  "title": "SapphireDb ",
+  "subtitle": "SapphireDb is an open source library for Asp.Net Core and EF Core that brings realtime data synchronization to your a...",
+  "tags": [
+    "realtime-databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612901485/icons/sapphire-db.png",
+  "website": "https://sapphire-db.com/",
+  "docsUrl": "https://docs.microsoft.com/de-de/ef/core/providers/?tabs=dotnet-core-cli"
+}

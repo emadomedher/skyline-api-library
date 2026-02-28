@@ -1,0 +1,13 @@
+{
+  "id": "panopto",
+  "title": "Panopto",
+  "subtitle": "Panopto is the leading video platform for businesses & universities. With Panopto, anyone can create and share profes...",
+  "tags": [
+    "video-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436367/catalog/panopto/icon128x128.png",
+  "website": "https://panopto.com"
+}

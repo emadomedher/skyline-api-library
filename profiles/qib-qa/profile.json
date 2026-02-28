@@ -1,0 +1,13 @@
+{
+  "id": "qib-qa",
+  "title": "Qatar Islamic Bank (QIB)",
+  "subtitle": "Qatar Islamic Bank was established in 1982 as the first Islamic financial institution in Qatar. Its products and oper...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603144351/icons/qib-qa.jpg",
+  "website": "https://www.qib.com.qa/"
+}

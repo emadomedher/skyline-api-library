@@ -1,0 +1,13 @@
+{
+  "id": "pillar-hr",
+  "title": "Pillar",
+  "subtitle": "Pillar, an ​​interview intelligence platform, helps grow companies by helping your team hire the right talent efficie...",
+  "tags": [
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635900778/icons/pillar-hr.jpg",
+  "website": "https://www.pillar.hr/"
+}

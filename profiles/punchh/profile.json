@@ -1,0 +1,15 @@
+{
+  "id": "punchh",
+  "title": "Punchh",
+  "subtitle": "Engage Customers, Predict Behaviors, and Increase Sales with the Punchh Marketing Cloud",
+  "tags": [
+    "hospitality",
+    "loyalty"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567840294/catalog/punchh/icon128x128.jpg",
+  "website": "https://punchh.com",
+  "docsUrl": "https://punchh.com/platform#developers"
+}

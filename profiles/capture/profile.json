@@ -1,0 +1,13 @@
+{
+  "id": "capture",
+  "title": "Capture",
+  "subtitle": "Capture LTD. - Digital Asset Management solutions",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719361/catalog/capture/icon128x128.jpg",
+  "website": "https://capture.co.uk"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "setsail-co",
+  "title": "SetSail",
+  "subtitle": "SetSail utilizes machine learning to discover what’s working in your sales process and incentivizes productivity-driv...",
+  "tags": [
+    "sales-compensation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594740993/icons/setsail-co.png",
+  "website": "https://www.setsail.co/"
+}

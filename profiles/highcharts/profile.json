@@ -1,0 +1,14 @@
+{
+  "id": "highcharts",
+  "title": "Highcharts JS",
+  "subtitle": "Highcharts - Interactive JavaScript charts for your web pages.",
+  "tags": [
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572444996/catalog/highcharts/icon128x128.jpg",
+  "website": "https://www.highcharts.com/",
+  "docsUrl": "https://www.highcharts.com/#"
+}

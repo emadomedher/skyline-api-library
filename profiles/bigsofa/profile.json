@@ -1,0 +1,13 @@
+{
+  "id": "bigsofa",
+  "title": "BigSofa",
+  "subtitle": "Video content management company, making digital assets easy to search, analyse, use and share.",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719125/catalog/bigsofa/icon128x128.png",
+  "website": "https://bigsofa.co.uk"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sociall",
+  "title": "Sociall",
+  "subtitle": "Social networking. But not as you know it. We’re creating the world’s best decentralised social network, so you can l...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946563/catalog/sociall/icon128x128.jpg",
+  "website": "https://sociall.io"
+}

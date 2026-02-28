@@ -1,0 +1,14 @@
+{
+  "id": "samepage",
+  "title": "Samepage",
+  "subtitle": "Samepage is a team collaboration platform that brings people together to get work done in one place. Discuss ideas, s...",
+  "tags": [
+    "team-chat",
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305973/catalog/samepage/icon128x128.png",
+  "website": "https://www.samepage.io/"
+}

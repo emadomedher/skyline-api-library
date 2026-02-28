@@ -1,0 +1,15 @@
+{
+  "id": "bridgecrew-io",
+  "title": "bridgecrew",
+  "subtitle": "Built to be simple- Protecting infrastructure in the public cloud is a software engineering challenge. We solve it li...",
+  "tags": [
+    "security",
+    "infrastructure-security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080692/catalog/bridgecrew-io/icon128x128.jpg",
+  "website": "https://bridgecrew.io/",
+  "docsUrl": "https://docs.bridgecrew.io/docs"
+}

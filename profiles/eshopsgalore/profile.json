@@ -1,0 +1,13 @@
+{
+  "id": "eshopsgalore",
+  "title": "eShopsGalore",
+  "subtitle": "eShopsGalore API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434441/catalog/eshopsgalore/icon128x128.png",
+  "website": "https://eshopsgalore.com"
+}

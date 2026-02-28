@@ -1,0 +1,13 @@
+{
+  "id": "ampliz",
+  "title": "Ampliz",
+  "subtitle": "Ampliz is a marketing automation tool through which you can reach targeted audience, generate sales-ready leads and e...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304407/catalog/ampliz/icon128x128.png",
+  "website": "https://ampliz.com"
+}

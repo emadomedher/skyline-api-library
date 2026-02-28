@@ -1,0 +1,13 @@
+{
+  "id": "affinity-solutions",
+  "title": "Affinity Solutions",
+  "subtitle": "Affinity Solutions API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432887/catalog/affinity-solutions/icon128x128.png",
+  "website": "https://affinity.solutions"
+}

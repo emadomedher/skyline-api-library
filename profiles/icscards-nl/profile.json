@@ -1,0 +1,14 @@
+{
+  "id": "icscards-nl",
+  "title": "ICS",
+  "subtitle": "Bij International Card Services kunt u terecht voor verschillende creditcards. Via Mijn ICS heeft u 24/7 toegang tot ...",
+  "tags": [
+    "fintech",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567038117/catalog/icscards-nl/icon128x128.jpg",
+  "website": "https://www.icscards.nl/"
+}

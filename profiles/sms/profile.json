@@ -1,0 +1,12 @@
+{
+  "id": "sms",
+  "title": "SMS",
+  "subtitle": "SMS (short message service) is a text messaging service component of most telephone, Internet, and mobile device syst...",
+  "tags": [
+    "sms"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568778899/catalog/sms/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "trywingman",
+  "title": "Wingman",
+  "subtitle": "Wingman API integration",
+  "tags": [
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566455649/catalog/trywingman/icon128x128.jpg",
+  "website": "https://www.trywingman.com/"
+}

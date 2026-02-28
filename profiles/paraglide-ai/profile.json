@@ -1,0 +1,14 @@
+{
+  "id": "paraglide-ai",
+  "title": "paraglide",
+  "subtitle": "paraglide API integration",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626207810/icons/paraglide-ai.jpg",
+  "website": "https://paraglide.ai/",
+  "docsUrl": "https://docs.paraglide.ai"
+}

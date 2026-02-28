@@ -1,0 +1,13 @@
+{
+  "id": "blocklist-de",
+  "title": "BlockList.de",
+  "subtitle": "www.blocklist.de -- Fail2Ban-Reporting Service (we sent Reports from Attacks on Postfix, SSH, Apache-Attacks, Spambot...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249018/icons/blocklist-de.jpg",
+  "website": "https://blocklist.de"
+}

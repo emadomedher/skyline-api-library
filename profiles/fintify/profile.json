@@ -1,0 +1,13 @@
+{
+  "id": "fintify",
+  "title": "Fintify",
+  "subtitle": "Revolutionize your way of spending money & monitor them all by this Finance Aggregating & Monitoring App.Get daily up...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629713261/icons/fintify.jpg",
+  "website": "https://www.fintify.com/"
+}

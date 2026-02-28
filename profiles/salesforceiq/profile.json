@@ -1,0 +1,13 @@
+{
+  "id": "salesforceiq",
+  "title": "SalesforceIQ",
+  "subtitle": "SalesforceIQ is a CRM app that integrates with your team's email inboxes, automatically captures your interactions wi...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305955/catalog/salesforceiq/icon128x128.png",
+  "website": "https://www.salesforce.com/solutions/essentials/"
+}

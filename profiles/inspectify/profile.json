@@ -1,0 +1,13 @@
+{
+  "id": "inspectify",
+  "title": "Inspectify",
+  "subtitle": "Inspectify API integration",
+  "tags": [
+    "home-inspection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638231425/icons/inspectify.png",
+  "website": "https://www.inspectify.com/"
+}

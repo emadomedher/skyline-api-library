@@ -1,0 +1,15 @@
+{
+  "id": "amlbot",
+  "title": "AMLBot",
+  "subtitle": "AML screening tool for crypto companies and end-users. AMLBot shows how bitcoin and altcoins are connected with illic...",
+  "tags": [
+    "aml",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647372681/icons/amlbot.png",
+  "website": "https://amlbot.com/",
+  "docsUrl": "https://www.notion.so/api-docs-for-telegram-bot-account-e62a520cb34041c1a11c445bb80ad28b"
+}

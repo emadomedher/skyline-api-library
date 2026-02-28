@@ -1,0 +1,13 @@
+{
+  "id": "alienvault",
+  "title": "AT&T",
+  "subtitle": "At AT&T Cybersecurity our mission is to provide phenomenal threat intelligence, collaborative defense & effective sec...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249026/icons/alienvault.png",
+  "website": "https://alienvault.com"
+}

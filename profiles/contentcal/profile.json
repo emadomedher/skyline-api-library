@@ -1,0 +1,13 @@
+{
+  "id": "contentcal",
+  "title": "ContentCal",
+  "subtitle": "ContentCal is a visual calendar for planning and auto-publishing your social media content.",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719578/catalog/contentcal/icon128x128.jpg",
+  "website": "https://contentcal.io"
+}

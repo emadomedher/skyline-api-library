@@ -1,0 +1,13 @@
+{
+  "id": "postproval",
+  "title": "PostProval",
+  "subtitle": "Social media scheduling by PostProval. A platform that helps you improve your social media management. Create your Po...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619107/icons/postproval.jpg",
+  "website": "https://postproval.com/"
+}

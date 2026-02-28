@@ -1,0 +1,14 @@
+{
+  "id": "shijigroup",
+  "title": "Shiji Group",
+  "subtitle": "Shiji Group and its 70+ subsidiaries and brands offer world-class technological solutions for the hotel, retail, food...",
+  "tags": [
+    "pos",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565612919/catalog/shijigroup/icon128x128.png",
+  "website": "https://www.shijigroup.com/"
+}

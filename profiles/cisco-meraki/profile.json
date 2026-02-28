@@ -1,0 +1,15 @@
+{
+  "id": "cisco-meraki",
+  "title": "Meraki",
+  "subtitle": "Cisco Meraki is the leader in cloud controlled WiFi, routing, and security. Secure and scalable, Cisco Meraki enterpr...",
+  "tags": [
+    "wifi",
+    "hardware",
+    "networks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570207406/catalog/cisco-meraki/icon128x128.jpg",
+  "website": "https://meraki.cisco.com/"
+}

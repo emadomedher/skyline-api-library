@@ -1,0 +1,15 @@
+{
+  "id": "trinet",
+  "title": "TriNet",
+  "subtitle": "TriNet provides businesses with HR solutions including payroll, benefits, risk management and compliance — all in one...",
+  "tags": [
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589827504/catalog/trinet/icon128x128.jpg",
+  "website": "https://www.trinet.com/",
+  "docsUrl": "https://developers.trinet.com/"
+}

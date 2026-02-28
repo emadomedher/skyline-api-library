@@ -1,0 +1,13 @@
+{
+  "id": "roialty",
+  "title": "Roialty",
+  "subtitle": "Roialty is a digital loyalty marketing solution, chosen by international brands to turn anonymous data with no value ...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946643/catalog/roialty/icon128x128.jpg",
+  "website": "https://roialty.com"
+}

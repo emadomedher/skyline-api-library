@@ -1,0 +1,12 @@
+{
+  "id": "q",
+  "title": "Q.",
+  "subtitle": "Q. is a business software that lets you organize your entire project flow from tasks to time tracking and billing in ...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539019/catalog/q/icon128x128.png"
+}

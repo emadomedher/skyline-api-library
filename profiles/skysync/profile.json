@@ -1,0 +1,13 @@
+{
+  "id": "skysync",
+  "title": "SkySync",
+  "subtitle": "SkySync's Enterprise Content Integration and Orchestration platform enables organizations to maximize productivity an...",
+  "tags": [
+    "cloud-migration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574179154/catalog/skysync/icon128x128.jpg",
+  "website": "https://www.skysync.com/"
+}

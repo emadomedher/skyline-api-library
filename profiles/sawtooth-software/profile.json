@@ -1,0 +1,13 @@
+{
+  "id": "sawtooth-software",
+  "title": "Sawtooth Software",
+  "subtitle": "Sawtooth Software provides online survey software and conjoint analysis tools. Our products have set standards in the...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721938/catalog/sawtooth-software/icon128x128.jpg",
+  "website": "https://sawtoothsoftware.com"
+}

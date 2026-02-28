@@ -1,0 +1,15 @@
+{
+  "id": "flexitime-works",
+  "title": "Flexitime",
+  "subtitle": "Onboard, roster, manage and pay your staff with FlexiTime’s people platform. Get started for free.",
+  "tags": [
+    "workforce-management",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476504/icons/flexitime-works.jpg",
+  "website": "https://www.flexitime.works/",
+  "docsUrl": "https://payhero-public.developer.azure-api.net"
+}

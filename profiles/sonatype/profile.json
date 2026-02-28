@@ -1,0 +1,16 @@
+{
+  "id": "sonatype",
+  "title": "Sonatype",
+  "subtitle": "Sonatype Nexus helps software development teams use open source so they can innovate faster and automatically control...",
+  "tags": [
+    "application-security",
+    "security",
+    "devsecops"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193186/catalog/sonatype/icon128x128.jpg",
+  "website": "https://www.sonatype.com",
+  "docsUrl": "https://help.sonatype.com"
+}

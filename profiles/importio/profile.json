@@ -1,0 +1,13 @@
+{
+  "id": "importio",
+  "title": "import.io",
+  "subtitle": "Web Data Integration - Import.io - Data Extraction, Web Data, Web Harvesting, Data Preparation, Data Integration",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720440/catalog/importio/icon128x128.jpg",
+  "website": "https://import.io"
+}

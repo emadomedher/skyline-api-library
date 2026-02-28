@@ -1,0 +1,14 @@
+{
+  "id": "lootlocker",
+  "title": "LootLocker",
+  "subtitle": "LootLocker is the plug and play, cross-platform backend for developers to build, ship, and run their best games. Skip...",
+  "tags": [
+    "game-backend"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655763597/icons/lootlocker.jpg",
+  "website": "https://lootlocker.com/",
+  "docsUrl": "https://docs.lootlocker.com"
+}

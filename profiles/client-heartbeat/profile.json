@@ -1,0 +1,13 @@
+{
+  "id": "client-heartbeat",
+  "title": "Client Heartbeat",
+  "subtitle": "Our customer satisfaction software tool helps you survey customers, measure satisfaction and identify those that are ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433764/catalog/client-heartbeat/icon128x128.png",
+  "website": "https://clientheartbeat.com"
+}

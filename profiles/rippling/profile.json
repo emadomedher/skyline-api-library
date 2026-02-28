@@ -1,0 +1,16 @@
+{
+  "id": "rippling",
+  "title": "Rippling",
+  "subtitle": "Manage your business's HR and IT— from payroll and benefits, to employee computers and software — all in one, easy-to...",
+  "tags": [
+    "hris",
+    "payroll",
+    "employee-onboarding"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554423006/catalog/rippling/icon128x128.jpg",
+  "website": "https://www.rippling.com/",
+  "docsUrl": "https://developer.rippling.com/"
+}

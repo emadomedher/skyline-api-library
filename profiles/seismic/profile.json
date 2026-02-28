@@ -1,0 +1,14 @@
+{
+  "id": "seismic",
+  "title": "Seismic",
+  "subtitle": "Seismic is the leading sales enablement and marketing enablement software that lets teams find the right sales conten...",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946631/catalog/seismic/icon128x128.jpg",
+  "website": "https://seismic.com",
+  "docsUrl": "https://developer.seismic.com/seismicsoftware/"
+}

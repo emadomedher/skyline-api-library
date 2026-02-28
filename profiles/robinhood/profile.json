@@ -1,0 +1,15 @@
+{
+  "id": "robinhood",
+  "title": "Robinhood",
+  "subtitle": "Invest in stocks, options, ETFs, and cryptos, all commission-free. $0 minimum deposit. Secure platform trusted by mil...",
+  "tags": [
+    "fintech",
+    "stock-trading",
+    "investing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565364958/catalog/robinhood/icon128x128.jpg",
+  "website": "https://robinhood.com"
+}

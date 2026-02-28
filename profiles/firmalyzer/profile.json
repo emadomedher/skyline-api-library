@@ -1,0 +1,15 @@
+{
+  "id": "firmalyzer",
+  "title": "Firmalyzer",
+  "subtitle": "Automated Security Analysis For IoT Device Firmware Binaries",
+  "tags": [
+    "iot",
+    "security"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567379101/catalog/firmalyzer/icon128x128.jpg",
+  "website": "https://firmalyzer.com/",
+  "docsUrl": "https://iotvas-api.firmalyzer.com/api/v1/docs"
+}

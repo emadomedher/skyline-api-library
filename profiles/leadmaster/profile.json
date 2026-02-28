@@ -1,0 +1,13 @@
+{
+  "id": "leadmaster",
+  "title": "Leadmaster",
+  "subtitle": "The LeadMaster CRM Software includes marketing automation, lead management, email marketing, website integration & mu...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178364/catalog/leadmaster/icon128x128.png",
+  "website": "https://leadmaster.com"
+}

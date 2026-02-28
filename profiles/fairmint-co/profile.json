@@ -1,0 +1,13 @@
+{
+  "id": "fairmint-co",
+  "title": "Fairmint",
+  "subtitle": "Fairmint helps founders turn their equity into the most powerful tool to engage with their contributors!",
+  "tags": [
+    "funding-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633193387/icons/fairmint-co.png",
+  "website": "https://www.fairmint.co/"
+}

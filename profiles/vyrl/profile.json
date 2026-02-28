@@ -1,0 +1,13 @@
+{
+  "id": "vyrl",
+  "title": "VYRL",
+  "subtitle": "VYRL is a community for social influencers. We enable users to connect, collaborate, and transact with each other in ...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946376/catalog/vyrl/icon128x128.jpg",
+  "website": "https://vyrl.co"
+}

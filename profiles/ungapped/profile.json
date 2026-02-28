@@ -1,0 +1,13 @@
+{
+  "id": "ungapped",
+  "title": "Ungapped",
+  "subtitle": "Ungapped has everything you need for growth marketing. A fully integrated platform with tools for email campaigns, fo...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722623/catalog/ungapped/icon128x128.jpg",
+  "website": "https://ungapped.com"
+}

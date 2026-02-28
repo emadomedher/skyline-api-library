@@ -1,0 +1,13 @@
+{
+  "id": "overcast-hq",
+  "title": "Overcast HQ",
+  "subtitle": "Digital asset management for video. Store, share and collaborate on video content with Overcast HQ video cloud platfo...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946731/catalog/overcast-hq/icon128x128.jpg",
+  "website": "https://overcasthq.com"
+}

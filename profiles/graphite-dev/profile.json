@@ -1,0 +1,14 @@
+{
+  "id": "graphite-dev",
+  "title": "Graphite",
+  "subtitle": "Stack diffs on GitHub.",
+  "tags": [
+    "code-review"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017794/icons/graphite-dev.png",
+  "website": "https://graphite.dev/",
+  "docsUrl": "https://docs.graphite.dev/getting-started/privacy-and-security"
+}

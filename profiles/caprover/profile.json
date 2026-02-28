@@ -1,0 +1,14 @@
+{
+  "id": "caprover",
+  "title": "CapRover",
+  "subtitle": "Build your own PaaS in a few minutes!",
+  "tags": [
+    "paas"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625066655/icons/caprover.jpg",
+  "website": "https://caprover.com/",
+  "docsUrl": "https://caprover.com/docs/get-started.html"
+}

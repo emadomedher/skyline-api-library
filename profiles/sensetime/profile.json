@@ -1,0 +1,13 @@
+{
+  "id": "sensetime",
+  "title": "SenseTime",
+  "subtitle": "SenseTime is committed to advancing AI research, providing AI services and solutions, developing scalable and afforda...",
+  "tags": [
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681298687/icons/sensetime.jpg",
+  "website": "https://www.sensetime.com/"
+}

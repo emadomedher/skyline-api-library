@@ -1,0 +1,12 @@
+{
+  "id": "crexendo",
+  "title": "Crexendo",
+  "subtitle": "Crexendo is a full-service cloud solutions provider that delivers critical voice and data technology infrastructure s...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304700/catalog/crexendo/icon128x128.png"
+}

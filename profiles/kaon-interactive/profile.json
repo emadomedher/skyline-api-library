@@ -1,0 +1,13 @@
+{
+  "id": "kaon-interactive",
+  "title": "Kaon Interactive",
+  "subtitle": "Kaon Interactive API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720644/catalog/kaon-interactive/icon128x128.jpg",
+  "website": "https://kaon.com"
+}

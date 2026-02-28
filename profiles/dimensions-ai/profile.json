@@ -1,0 +1,14 @@
+{
+  "id": "dimensions-ai",
+  "title": "Dimensions",
+  "subtitle": "From idea to impact: Quickly navigate and connect grants, publications, datasets, clinical trials, patents, and polic...",
+  "tags": [
+    "research-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663543935/icons/dimensions-ai.jpg",
+  "website": "https://www.dimensions.ai/",
+  "docsUrl": "https://digital-science.github.io/dimensions-data-schemas"
+}

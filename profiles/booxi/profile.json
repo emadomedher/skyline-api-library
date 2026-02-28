@@ -1,0 +1,14 @@
+{
+  "id": "booxi",
+  "title": "booxi",
+  "subtitle": "Connecting small business and customers with online booking and appointment reservation.",
+  "tags": [
+    "appointment-scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599235559/icons/booxi.png",
+  "website": "https://www.booxi.com/",
+  "docsUrl": "https://www.booxi.com/developers"
+}

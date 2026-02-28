@@ -1,0 +1,13 @@
+{
+  "id": "freesight",
+  "title": "FreeSight",
+  "subtitle": "FreeSight API integration",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434696/catalog/freesight/icon128x128.png",
+  "website": "https://freesightweb.com"
+}

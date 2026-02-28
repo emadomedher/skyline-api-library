@@ -1,0 +1,14 @@
+{
+  "id": "magicline",
+  "title": "Magicline",
+  "subtitle": "Magicline is one of the most innovative cloud-based gym management software in Europe. It digitalizes your processes ...",
+  "tags": [
+    "gym-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655115822/icons/magicline.png",
+  "website": "https://www.magicline.com/",
+  "docsUrl": "https://developer.magicline.com/"
+}

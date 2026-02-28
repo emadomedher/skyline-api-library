@@ -1,0 +1,14 @@
+{
+  "id": "essensys",
+  "title": "essensys",
+  "subtitle": "Manage your shared space with essensys' leading coworking software. Trusted by the smartest and fastest global worksp...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304868/catalog/essensys/icon128x128.png",
+  "website": "https://essensys.tech/",
+  "docsUrl": "https://operate-apidocs.essensys.tech"
+}

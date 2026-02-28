@@ -1,0 +1,14 @@
+{
+  "id": "zapier-translate",
+  "title": "Translate by Zapier",
+  "subtitle": "Automatically translates words, phrases, and web pages into over 100 languages.",
+  "tags": [
+    "zapier-tools",
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809814/catalog/zapier-translate/icon128x128.png",
+  "website": "https://zapier.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "beamapp-co",
+  "title": "Beam ",
+  "subtitle": "A new way to collect your thoughts and experience the internet. Coming soon to your Mac.",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603215555/icons/beamapp-co.jpg",
+  "website": "https://beamapp.co/"
+}

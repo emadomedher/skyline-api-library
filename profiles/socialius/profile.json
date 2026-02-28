@@ -1,0 +1,13 @@
+{
+  "id": "socialius",
+  "title": "Socialius",
+  "subtitle": "Socialius API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722194/catalog/socialius/icon128x128.jpg",
+  "website": "https://socialius.com"
+}

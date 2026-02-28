@@ -1,0 +1,13 @@
+{
+  "id": "bancolombia",
+  "title": "Bancolombia",
+  "subtitle": "Bancolombia Is a full-service financial institution that provides a range of financial products and services to a div...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611533836/icons/bancolombia.jpg",
+  "website": "https://www.grupobancolombia.com/"
+}

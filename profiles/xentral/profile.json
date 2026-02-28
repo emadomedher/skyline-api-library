@@ -1,0 +1,14 @@
+{
+  "id": "xentral",
+  "title": "Xentral",
+  "subtitle": "Scale your business with xentral lean ERP software: Effective automation, easy integration, 1,000+ features & APIs. S...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634146803/icons/xentral.jpg",
+  "website": "https://xentral.com/en",
+  "docsUrl": "https://community.xentral.com/hc/en-us"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "scrumdo",
+  "title": "ScrumDo",
+  "subtitle": "Online Scrum, Kanban and Scrumban project management software.",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721948/catalog/scrumdo/icon128x128.jpg",
+  "website": "https://scrumdo.com"
+}

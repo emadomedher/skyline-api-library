@@ -1,0 +1,14 @@
+{
+  "id": "resolver",
+  "title": "Resolver",
+  "subtitle": "Risk & Security Management Across the Enterprise in a Single Solution. Protect What Matters with Resolver!  ",
+  "tags": [
+    "risk-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628132429/icons/resolver.jpg",
+  "website": "https://www.resolver.com/"
+}

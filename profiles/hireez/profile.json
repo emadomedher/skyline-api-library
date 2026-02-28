@@ -1,0 +1,13 @@
+{
+  "id": "hireez",
+  "title": "hireEZ",
+  "subtitle": "hireEZ provides the solution for outbound recruiting with our AI-powered platform. Discover why enterprises and recru...",
+  "tags": [
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663261383/icons/hireez.jpg",
+  "website": "https://hireez.com/"
+}

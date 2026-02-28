@@ -1,0 +1,13 @@
+{
+  "id": "encharge-io",
+  "title": "Encharge",
+  "subtitle": "Graduate from email marketing to marketing automation. Bring in customer data from your marketing apps & send automat...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572302847/catalog/encharge-io/icon128x128.jpg",
+  "website": "https://encharge.io/"
+}

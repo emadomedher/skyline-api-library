@@ -1,0 +1,15 @@
+{
+  "id": "ukg-dimensions",
+  "title": "UKG Dimensions",
+  "subtitle": "The UKG Dimensions™ solution provides global workforce management capabilities on a unified and highly configurable p...",
+  "tags": [
+    "workforce-management",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638922123/icons/ukg-dimensions.jpg",
+  "website": "https://www.ukg.com/solutions/ukg-dimensions",
+  "docsUrl": "https://developer.ukg.com/wfm/reference/"
+}

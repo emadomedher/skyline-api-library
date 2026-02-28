@@ -1,0 +1,15 @@
+{
+  "id": "termius",
+  "title": "Termius",
+  "subtitle": "The #1 cross-platform terminal with built-in ssh client which works as your own portable server management system in ...",
+  "tags": [
+    "ssh-clients",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572910283/catalog/termius/icon128x128.jpg",
+  "website": "https://termius.com/",
+  "docsUrl": "https://docs.termius.com"
+}

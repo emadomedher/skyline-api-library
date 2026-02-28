@@ -1,0 +1,15 @@
+{
+  "id": "screeb-app",
+  "title": "Screeb",
+  "subtitle": "Get actionnable feedback from your users without ruining their experience ! Our in-app surveys will help you better i...",
+  "tags": [
+    "customer-feedback",
+    "survey"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618478854/icons/screeb-app.jpg",
+  "website": "https://screeb.app/",
+  "docsUrl": "https://github.com/screebapp/developers/wiki"
+}

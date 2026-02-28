@@ -1,0 +1,14 @@
+{
+  "id": "openbridge",
+  "title": "Openbridge",
+  "subtitle": "Our fully automated ELT and ETL data ingestion tool fuels Azure, Athena & Redshift Spectrum data lakes or AWS Redshif...",
+  "tags": [
+    "data-lakes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630990207/icons/openbridge.png",
+  "website": "https://www.openbridge.com/",
+  "docsUrl": "https://www.openbridge.com/etl-developer"
+}

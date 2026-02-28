@@ -1,0 +1,14 @@
+{
+  "id": "stackblitz",
+  "title": "StackBlitz",
+  "subtitle": "StackBlitz API integration",
+  "tags": [
+    "code-editor"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594981067/icons/stackblitz.jpg",
+  "website": "https://stackblitz.com/",
+  "docsUrl": "https://stackblitz.com/docs"
+}

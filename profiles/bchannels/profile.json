@@ -1,0 +1,13 @@
+{
+  "id": "bchannels",
+  "title": "bChannels",
+  "subtitle": "Maximise your partner sales.  bChannels provides channel insights, partner segmentation and recruiting, partner marke...",
+  "tags": [
+    "channel-data-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327398/icons/bchannels.jpg",
+  "website": "https://bchannels.com"
+}

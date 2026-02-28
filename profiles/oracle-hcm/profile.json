@@ -1,0 +1,14 @@
+{
+  "id": "oracle-hcm",
+  "title": "Oracle HCM",
+  "subtitle": "Oracle HCM API integration",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677166519/icons/oracle-hcm.png",
+  "website": "https://www.oracle.com/human-capital-management/",
+  "docsUrl": "https://docs.oracle.com/cd/E26401_01/doc.122/e59088/T2650T402390.htm"
+}

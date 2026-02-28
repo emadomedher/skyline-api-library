@@ -1,0 +1,13 @@
+{
+  "id": "hubnami",
+  "title": "HubNami",
+  "subtitle": "HubNami API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963799/catalog/hubnami/icon128x128.png",
+  "website": "https://hubnami.com"
+}

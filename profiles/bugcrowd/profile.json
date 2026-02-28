@@ -1,0 +1,14 @@
+{
+  "id": "bugcrowd",
+  "title": "Bugcrowd",
+  "subtitle": "With a powerful platform and team of experts, Bugcrowd connects organizations to a global crowd of trusted security r...",
+  "tags": [
+    "bug-bounty-programs",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565400166/catalog/bugcrowd/icon128x128.png",
+  "website": "https://bugcrowd.com"
+}

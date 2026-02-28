@@ -1,0 +1,12 @@
+{
+  "id": "eijsink",
+  "title": "Eijsink",
+  "subtitle": "Van personeelsplanning tot afrekensystemen, van keuken- en barmanagement tot webshops gekoppeld aan je kassa: Eijsink...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256927/catalog/eijsink/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "athennian",
+  "title": "Athennian",
+  "subtitle": "Athennian's cloud-based legal entity management software is trusted by law firms, legal departments, and corporate se...",
+  "tags": [
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639015156/icons/athennian.jpg",
+  "website": "https://www.athennian.com/",
+  "docsUrl": "https://help.athennian.com/hc/en-us"
+}

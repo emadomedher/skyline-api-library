@@ -1,0 +1,16 @@
+{
+  "id": "embrace-io",
+  "title": "Embrace",
+  "subtitle": "Embrace analyzes the details of every user session empowering mobile teams to detect, replay, and prioritize what mat...",
+  "tags": [
+    "bug-tracking",
+    "mobile",
+    "debugging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566598860/catalog/embrace-io/icon128x128.jpg",
+  "website": "https://embrace.io/",
+  "docsUrl": "https://docs.embrace.io"
+}

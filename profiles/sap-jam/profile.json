@@ -1,0 +1,12 @@
+{
+  "id": "sap-jam",
+  "title": "SAP Jam Collaboration",
+  "subtitle": "SAP Jam Collaboration is an enterprise social collaboration platform that brings together people, information, data a...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305986/catalog/sap-jam/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "brex",
+  "title": "Brex",
+  "subtitle": "Credit card with no personal guarantee, instant approvals, higher limits, and modern payment terms. Powered by the Ma...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619719406/icons/brex.jpg",
+  "website": "https://brex.com",
+  "docsUrl": "https://developer.brex.com"
+}

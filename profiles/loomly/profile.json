@@ -1,0 +1,13 @@
+{
+  "id": "loomly",
+  "title": "Loomly",
+  "subtitle": "Loomly is the Brand Success Platform that empowers marketing teams to grow successful brands online through collabora...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720894/catalog/loomly/icon128x128.png",
+  "website": "https://loomly.com"
+}

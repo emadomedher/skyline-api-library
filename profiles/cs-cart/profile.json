@@ -1,0 +1,13 @@
+{
+  "id": "cs-cart",
+  "title": "CS-Cart",
+  "subtitle": "CS-Cart API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434029/catalog/cs-cart/icon128x128.png",
+  "website": "https://cs-cart.com"
+}

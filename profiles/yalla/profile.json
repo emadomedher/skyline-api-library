@@ -1,0 +1,13 @@
+{
+  "id": "yalla",
+  "title": "Yalla",
+  "subtitle": "Yalla is a team management tool that helps get the right people working on the right things in the right priority all...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306552/catalog/yalla/icon128x128.png",
+  "website": "https://yallahq.com"
+}

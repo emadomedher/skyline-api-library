@@ -1,0 +1,13 @@
+{
+  "id": "cruxe-in",
+  "title": "Cruxe",
+  "subtitle": "An AI based Summarisation Platform for Content Creators",
+  "tags": [
+    "summarization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633193390/icons/cruxe-in.jpg",
+  "website": "https://www.cruxe.in/"
+}

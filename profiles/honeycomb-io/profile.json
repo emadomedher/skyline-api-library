@@ -1,0 +1,14 @@
+{
+  "id": "honeycomb-io",
+  "title": "Honeycomb.io",
+  "subtitle": "Honeycomb is a software debugging tool that can help you solve problems faster within your distributed services. Try ...",
+  "tags": [
+    "bug-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723379/icons/honeycomb-io.jpg",
+  "website": "https://www.honeycomb.io/",
+  "docsUrl": "https://docs.honeycomb.io"
+}

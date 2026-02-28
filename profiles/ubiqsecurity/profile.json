@@ -1,0 +1,17 @@
+{
+  "id": "ubiqsecurity",
+  "title": "Ubiq Security",
+  "subtitle": "Encryption made simple for developers. Leverage our scalable API’s to leverage industry-vetted encryption and key man...",
+  "tags": [
+    "security",
+    "encryption-api",
+    "compliance",
+    "api"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606090615/icons/ubiqsecurity.png",
+  "website": "https://www.ubiqsecurity.com/",
+  "docsUrl": "https://dev.ubiqsecurity.com"
+}

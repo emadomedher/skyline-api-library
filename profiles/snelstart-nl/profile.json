@@ -1,0 +1,14 @@
+{
+  "id": "snelstart-nl",
+  "title": "SnelStart",
+  "subtitle": "Makkelijk boekhouden en factureren voor zzp, mkb, boekhouders en accountants. Bankrekeningkoppelingen. Overal inzicht...",
+  "tags": [
+    "accounting",
+    "invoicing"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566661911/catalog/snelstart-nl/icon128x128.jpg",
+  "website": "https://www.snelstart.nl/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "snappy",
+  "title": "Snappy",
+  "subtitle": "Deliver better customer service. Email ticketing, knowledge base, and support widget to support your growing customer...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306136/catalog/snappy/icon128x128.png",
+  "website": "https://besnappy.com/"
+}

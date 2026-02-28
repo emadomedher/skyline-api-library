@@ -1,0 +1,14 @@
+{
+  "id": "unlaunch-io",
+  "title": "unlaunch",
+  "subtitle": "Unlaunch - Feature Flags and Release Platform for Developers",
+  "tags": [
+    "feature-flags"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612465810/icons/unlaunch-io.jpg",
+  "website": "https://www.unlaunch.io/",
+  "docsUrl": "https://www.unlaunch.io/#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lifesize",
+  "title": "Lifesize",
+  "subtitle": "Lifesize is a purpose-built video conferencing solution for the modern business. Try our industry-leading app for fre...",
+  "tags": [
+    "video-chat",
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311394/catalog/lifesize/icon128x128.jpg",
+  "website": "https://www.lifesize.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mycoverse-xyz",
+  "title": "Mycoverse",
+  "subtitle": "The Mycoverse is a collection of 3,333 mushroom-inspired NFTs on the Solana blockchain. We're on a mission to onboard...",
+  "tags": [
+    "nft-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701473/icons/mycoverse-xyz.jpg",
+  "website": "https://mycoverse.xyz/"
+}

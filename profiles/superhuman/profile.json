@@ -1,0 +1,14 @@
+{
+  "id": "superhuman",
+  "title": "Superhuman",
+  "subtitle": "The fastest email experience ever made",
+  "tags": [
+    "email",
+    "premium-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567028569/catalog/superhuman/icon128x128.jpg",
+  "website": "https://superhuman.com/"
+}

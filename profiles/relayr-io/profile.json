@@ -1,0 +1,14 @@
+{
+  "id": "relayr-io",
+  "title": "relayr",
+  "subtitle": "Relayr is the Industrial Internet of Things (IIoT) powerhouse delivering the most complete solution for risk-free dig...",
+  "tags": [
+    "industrial-iot"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616567468/icons/relayr-io.jpg",
+  "website": "https://relayr.io/",
+  "docsUrl": "https://api-documentation.relayr.io/"
+}

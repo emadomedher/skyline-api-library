@@ -1,0 +1,17 @@
+{
+  "id": "dapr-io",
+  "title": "Dapr",
+  "subtitle": "Dapr API integration",
+  "tags": [
+    "serverless-runtimes",
+    "serverless",
+    "microservices",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601004018/icons/dapr-io.jpg",
+  "website": "https://dapr.io/",
+  "docsUrl": "https://github.com/dapr/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vgd-eu",
+  "title": "VGD",
+  "subtitle": "VGD API integration",
+  "tags": [
+    "accountancy-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605367951/icons/vgd-eu.jpg",
+  "website": "https://be.vgd.eu/en"
+}

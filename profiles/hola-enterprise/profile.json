@@ -1,0 +1,13 @@
+{
+  "id": "hola-enterprise",
+  "title": "Hola Enterprise",
+  "subtitle": "Engage you audience with interactive video ads using Hola Card and benefit from call to action and detailed analytics.",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775177/catalog/hola-enterprise/icon128x128.jpg",
+  "website": "https://holaenterprise.com"
+}

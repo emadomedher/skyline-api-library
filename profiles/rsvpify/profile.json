@@ -1,0 +1,13 @@
+{
+  "id": "rsvpify",
+  "title": "RSVPify",
+  "subtitle": "A powerful, free RSVP website and event management app. Create custom online RSVPs for your wedding or event with our...",
+  "tags": [
+    "events"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584915996/catalog/rsvpify/icon128x128.png",
+  "website": "https://rsvpify.com/"
+}

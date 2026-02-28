@@ -1,0 +1,13 @@
+{
+  "id": "heyo",
+  "title": "Heyo",
+  "subtitle": "Use Heyo to easily create Sweepstakes, Contests, and Campaign apps that publish to Mobile, Facebook, and anywhere on ...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720357/catalog/heyo/icon128x128.png",
+  "website": "https://heyo.com"
+}

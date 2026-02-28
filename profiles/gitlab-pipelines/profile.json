@@ -1,0 +1,13 @@
+{
+  "id": "gitlab-pipelines",
+  "title": "GitLab pipelines",
+  "subtitle": "Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner.",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633273074/icons/gitlab-pipelines.jpg",
+  "website": "https://docs.gitlab.com/ee/ci/pipelines/"
+}

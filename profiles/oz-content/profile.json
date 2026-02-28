@@ -1,0 +1,13 @@
+{
+  "id": "oz-content",
+  "title": "Oz Content",
+  "subtitle": "Oz Content API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827137/catalog/oz-content/icon128x128.jpg",
+  "website": "https://ozcontent.com"
+}

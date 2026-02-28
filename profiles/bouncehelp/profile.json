@@ -1,0 +1,13 @@
+{
+  "id": "bouncehelp",
+  "title": "BounceHelp",
+  "subtitle": "Bouncehelp is a smart website engagement software that automatically engages your visitors and turns them into leads.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050174/icons/bouncehelp.png",
+  "website": "https://bouncehelp.com"
+}

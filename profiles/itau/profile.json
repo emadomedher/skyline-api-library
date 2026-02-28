@@ -1,0 +1,13 @@
+{
+  "id": "itau",
+  "title": "Itaú Unibanco",
+  "subtitle": "Itaú Unibanco, the largest private sector bank in Brazil and one of the largest financial institutions in Latin Ameri...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602351254/icons/itau.png",
+  "website": "https://www.itau.com/"
+}

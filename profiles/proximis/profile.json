@@ -1,0 +1,13 @@
+{
+  "id": "proximis",
+  "title": "Proximis",
+  "subtitle": "Equipment for your salespeople in-store, management of your online store, order management, share data about your bus...",
+  "tags": [
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746581/icons/proximis.jpg",
+  "website": "https://www.proximis.com/"
+}

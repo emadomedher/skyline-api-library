@@ -1,0 +1,14 @@
+{
+  "id": "maybe-co",
+  "title": "Maybe",
+  "subtitle": "Maybe is modern financial planning, investment management and retirement planning.",
+  "tags": [
+    "financial-planning",
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623100655/icons/maybe-co.png",
+  "website": "https://maybe.co/"
+}

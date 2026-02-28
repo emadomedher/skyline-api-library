@@ -1,0 +1,15 @@
+{
+  "id": "watercoolertrivia",
+  "title": "Water Cooler Trivia",
+  "subtitle": "Water Cooler Trivia API integration",
+  "tags": [
+    "remote-culture",
+    "office-culture",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588288694/catalog/watercoolertrivia/icon128x128.jpg",
+  "website": "https://www.watercoolertrivia.com/"
+}

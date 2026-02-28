@@ -1,0 +1,13 @@
+{
+  "id": "salezshark",
+  "title": "SalezShark",
+  "subtitle": "Salezshark offers best CRM for small business,relationship cloud,marketing automation crm and sales force automation ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721929/catalog/salezshark/icon128x128.jpg",
+  "website": "https://salezshark.com"
+}

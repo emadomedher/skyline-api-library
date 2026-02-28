@@ -1,0 +1,13 @@
+{
+  "id": "zappi-io",
+  "title": "Zappi",
+  "subtitle": "Zappi is the ad and innovation testing platform built by brands for brands. Test more, learn more, and make better de...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642244448/icons/zappi-io.jpg",
+  "website": "https://www.zappi.io/"
+}

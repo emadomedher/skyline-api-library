@@ -1,0 +1,13 @@
+{
+  "id": "messagegears",
+  "title": "MessageGears",
+  "subtitle": "Cross-channel messaging for the world's largest brands. A hybrid platform that removes barriers to data and empowers ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721108/catalog/messagegears/icon128x128.jpg",
+  "website": "https://messagegears.com"
+}

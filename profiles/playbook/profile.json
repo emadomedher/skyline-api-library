@@ -1,0 +1,13 @@
+{
+  "id": "playbook",
+  "title": "Playbook.com",
+  "subtitle": "Playbook is a modern creative file manager. Store, tag, and organize your files and folders beautifully. Designers, s...",
+  "tags": [
+    "cloud-storage"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904819/icons/playbook.png",
+  "website": "https://www.playbook.com/"
+}

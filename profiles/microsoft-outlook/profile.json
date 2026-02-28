@@ -1,0 +1,14 @@
+{
+  "id": "microsoft-outlook",
+  "title": "Microsoft Outlook",
+  "subtitle": "Microsoft Outlook API integration",
+  "tags": [
+    "microsoft",
+    "email",
+    "calendar"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829993/catalog/microsoft-outlook/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bluejeans-network",
+  "title": "BlueJeans Network",
+  "subtitle": "BlueJeans is the world's leader in cloud video conferencing. Easily and securely hold live video calls, webinars, con...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719181/catalog/bluejeans-network/icon128x128.jpg",
+  "website": "https://bluejeans.com"
+}

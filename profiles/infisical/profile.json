@@ -1,0 +1,15 @@
+{
+  "id": "infisical",
+  "title": "Infisical",
+  "subtitle": "Infisical lets developers manage secrets and app configurations. Used by everyone from small teams to large corporati...",
+  "tags": [
+    "secrets-management",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688983249/icons/infisical.png",
+  "website": "https://infisical.com/",
+  "docsUrl": "https://infisical.com/docs/documentation/getting-started/cli"
+}

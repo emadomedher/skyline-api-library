@@ -1,0 +1,13 @@
+{
+  "id": "venteur-co",
+  "title": "Venteur",
+  "subtitle": "Venteur is a digital benefits marketplace for independent workers. We make health insurance more transparent and give...",
+  "tags": [
+    "health-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645584280/icons/venteur-co.jpg",
+  "website": "https://www.venteur.co/"
+}

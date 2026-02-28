@@ -1,0 +1,15 @@
+{
+  "id": "drata",
+  "title": "Drata",
+  "subtitle": "Drata is the fastest & simplest way to achieve continuous SOC 2 compliance. Build trust & securely grow your business.",
+  "tags": [
+    "compliance",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626284895/icons/drata.jpg",
+  "website": "https://drata.com/",
+  "docsUrl": "https://developers.drata.com/docs"
+}

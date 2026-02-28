@@ -1,0 +1,14 @@
+{
+  "id": "june-so",
+  "title": "June",
+  "subtitle": "June is a lightweight product analytics for B2B SaaS. Get actionable insights and custom-built reports in seconds, no...",
+  "tags": [
+    "analytics-reporting",
+    "product-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622794459/icons/june-so.jpg",
+  "website": "https://june.so/"
+}

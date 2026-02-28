@@ -1,0 +1,14 @@
+{
+  "id": "adt",
+  "title": "ADT",
+  "subtitle": "Secure your home or business with the best alarm systems and monitoring from ADT Security. Call 855-497-8573 for your...",
+  "tags": [
+    "home-security",
+    "alarm-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207280/icons/adt.jpg",
+  "website": "https://www.adt.com/"
+}

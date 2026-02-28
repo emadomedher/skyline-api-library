@@ -1,0 +1,13 @@
+{
+  "id": "myemma-io",
+  "title": "MyEmma",
+  "subtitle": "Door met MyEmma te werken kan jij samen met jouw klanten veilig en op afstand documenten delen en direct communiceren...",
+  "tags": [
+    "docoument-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629251029/icons/myemma-io.png",
+  "website": "https://myemma.io/"
+}

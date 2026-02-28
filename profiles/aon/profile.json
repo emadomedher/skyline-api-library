@@ -1,0 +1,13 @@
+{
+  "id": "aon",
+  "title": "Aon",
+  "subtitle": "Aon plc (NYSE:AON) is a leading global professional services firm providing a broad range of risk, reinsurance, retir...",
+  "tags": [
+    "talent-assessment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582914375/catalog/aon/icon128x128.jpg",
+  "website": "https://www.aon.com/"
+}

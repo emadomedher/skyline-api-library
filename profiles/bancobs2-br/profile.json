@@ -1,0 +1,13 @@
+{
+  "id": "bancobs2-br",
+  "title": "Banco BS2",
+  "subtitle": "Banco BS2 SA. Banco BS2 S.A. provides banking services. The Bank offers currency exchange, credit, investment, loan, ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595597633/icons/bancobs2-br.jpg",
+  "website": "https://www.bancobs2.com.br/"
+}

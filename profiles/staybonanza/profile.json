@@ -1,0 +1,14 @@
+{
+  "id": "staybonanza",
+  "title": "Stay Bonanza",
+  "subtitle": " Big travel websites charge a lot of commission, which makes booking more expensive for you. Stay Bonanza gives you a...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448025/icons/staybonanza.jpg",
+  "website": "https://www.staybonanza.com/"
+}

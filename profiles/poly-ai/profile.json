@@ -1,0 +1,14 @@
+{
+  "id": "poly-ai",
+  "title": "PolyAI",
+  "subtitle": "Enterprise-ready voice assistants for customer service. Answer every call immediately, 24/7. No agents needed.",
+  "tags": [
+    "voice-assistant",
+    "customer-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662669838/icons/poly-ai.jpg",
+  "website": "https://poly.ai/"
+}

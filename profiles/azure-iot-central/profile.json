@@ -1,0 +1,12 @@
+{
+  "id": "azure-iot-central",
+  "title": "Azure IoT Central",
+  "subtitle": "Azure IoT Central is a service that makes it easy to connect, monitor, and manage your IoT devices at scale. With the...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264754/catalog/azure-iot-central/icon128x128.png"
+}

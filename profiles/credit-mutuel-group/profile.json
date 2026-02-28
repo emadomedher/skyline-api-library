@@ -1,0 +1,14 @@
+{
+  "id": "credit-mutuel-group",
+  "title": "Crédit Mutuel",
+  "subtitle": "Banque et assureur (bancassureur) de premier plan en France, le groupe Crédit Mutuel est composé du réseau du Crédit ...",
+  "tags": [
+    "banking",
+    "insurance"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595523777/icons/credit-mutuel-group.jpg",
+  "website": "https://www.creditmutuel.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "brax",
+  "title": "Brax",
+  "subtitle": "Brax API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433441/catalog/brax/icon128x128.png",
+  "website": "https://brax.io"
+}

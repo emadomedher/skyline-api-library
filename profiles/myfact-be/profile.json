@@ -1,0 +1,13 @@
+{
+  "id": "myfact-be",
+  "title": "MyFact",
+  "subtitle": "Bespaar tijd door uw administratie te vereenvoudigen met MyFact, unieke software voor freelancers, zelfstandigen en K...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585396891/catalog/myfact-be/icon128x128.jpg",
+  "website": "https://myfact.be/"
+}

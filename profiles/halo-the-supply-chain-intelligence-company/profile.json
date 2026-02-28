@@ -1,0 +1,13 @@
+{
+  "id": "halo-the-supply-chain-intelligence-company",
+  "title": "Halo - The Supply Chain Intelligence Company",
+  "subtitle": "Halo - The Supply Chain Intelligence Company API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434893/catalog/halo-the-supply-chain-intelligence-company/icon128x128.png",
+  "website": "https://halobi.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "marqeta",
+  "title": "Marqeta",
+  "subtitle": "Marqeta card-issuing platform is inspiring new possibilities for the world’s most innovative companies. Learn about o...",
+  "tags": [
+    "payments",
+    "card-issuing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571962502/catalog/marqeta/icon128x128.png",
+  "website": "https://www.marqeta.com/",
+  "docsUrl": "https://www.marqeta.com/api"
+}

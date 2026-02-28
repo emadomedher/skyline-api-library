@@ -1,0 +1,16 @@
+{
+  "id": "hitrust",
+  "title": "HITRUST",
+  "subtitle": "HITRUST API integration",
+  "tags": [
+    "compliance",
+    "healthcare",
+    "security-frameworks"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089463/icons/hitrust.jpg",
+  "website": "https://en.wikipedia.org/wiki/HITRUST",
+  "docsUrl": "https://docs.microsoft.com/en-us/microsoft-365/compliance/offering-hitrust"
+}

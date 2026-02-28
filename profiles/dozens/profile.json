@@ -1,0 +1,14 @@
+{
+  "id": "dozens",
+  "title": "Dozens",
+  "subtitle": "A current account with saving tools and an investments, all built on a socially responsible business model.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612119293/icons/dozens.jpg",
+  "website": "https://www.dozens.com/",
+  "docsUrl": "https://www.dozens.com/dozens-api-documentation"
+}

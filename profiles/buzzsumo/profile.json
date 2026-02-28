@@ -1,0 +1,13 @@
+{
+  "id": "buzzsumo",
+  "title": "BuzzSumo",
+  "subtitle": "BuzzSumo API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825993/catalog/buzzsumo/icon128x128.jpg",
+  "website": "https://buzzsumo.com"
+}

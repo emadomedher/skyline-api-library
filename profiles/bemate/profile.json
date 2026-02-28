@@ -1,0 +1,14 @@
+{
+  "id": "bemate",
+  "title": "BeMate",
+  "subtitle": "BeMate API integration",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448062/icons/bemate.png",
+  "website": "https://bemate.com/"
+}

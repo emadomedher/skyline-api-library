@@ -1,0 +1,13 @@
+{
+  "id": "skystats",
+  "title": "SkyStats",
+  "subtitle": "An all-in-one WordPress dashboard plugin brings analytics, social media, paid search, email, video and marketing metr...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946589/catalog/skystats/icon128x128.jpg",
+  "website": "https://skystats.com"
+}

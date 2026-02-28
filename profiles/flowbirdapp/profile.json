@@ -1,0 +1,13 @@
+{
+  "id": "flowbirdapp",
+  "title": "Flowbird",
+  "subtitle": "Flowbird allows you to pay for parking in 3 simple steps. Get fast and free access to the easy-to-use parking app. Pa...",
+  "tags": [
+    "parking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591167554/icons/flowbirdapp.png",
+  "website": "https://flowbirdapp.com/"
+}

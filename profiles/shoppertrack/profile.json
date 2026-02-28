@@ -1,0 +1,13 @@
+{
+  "id": "shoppertrack",
+  "title": "ShopperTrack",
+  "subtitle": "ShopperTrack API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437304/catalog/shoppertrack/icon128x128.png",
+  "website": "https://shoppertrak.com"
+}

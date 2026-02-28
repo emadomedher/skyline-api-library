@@ -1,0 +1,13 @@
+{
+  "id": "deltaq-io",
+  "title": "DeltaQ",
+  "subtitle": "DeltaQ continuously optimizes your building controls, combining forecast data and Artificial Intelligence to match an...",
+  "tags": [
+    "energy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509874/catalog/deltaq-io/icon128x128.jpg",
+  "website": "https://deltaq.io/"
+}

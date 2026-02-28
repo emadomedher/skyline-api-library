@@ -1,0 +1,13 @@
+{
+  "id": "tabbank",
+  "title": "TAB Bank",
+  "subtitle": "Based in Ogden, Utah, TAB Bank is a full-service digital bank that services customers in all 50 states.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192457/icons/tabbank.jpg",
+  "website": "https://www.tabbank.com/"
+}

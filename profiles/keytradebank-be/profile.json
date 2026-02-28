@@ -1,0 +1,14 @@
+{
+  "id": "keytradebank-be",
+  "title": "Keytrade Bank",
+  "subtitle": "Keytrade Bank is a financial services company based in Belgium with a subsidiary in Luxembourg.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563417045/catalog/keytradebank-be/icon128x128.jpg",
+  "website": "https://keytradebank.be",
+  "docsUrl": "https://developer.keytradebank.be"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bmc",
+  "title": "BMC Software",
+  "subtitle": "BMC helps customers run and reinvent their businesses with open, scalable, and modular solutions to complex IT problems.",
+  "tags": [
+    "cloud-computing"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576735222/catalog/bmc/icon128x128.png",
+  "website": "https://www.bmc.com/",
+  "docsUrl": "https://developers.bmc.com"
+}

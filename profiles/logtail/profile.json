@@ -1,0 +1,13 @@
+{
+  "id": "logtail",
+  "title": "Logtail",
+  "subtitle": "Collect logs across your stack with SQL-compatible structured logging at an unbeatable price. Start collecting logs i...",
+  "tags": [
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628770198/icons/logtail.jpg",
+  "website": "https://logtail.com/"
+}

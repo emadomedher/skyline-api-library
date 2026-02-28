@@ -1,0 +1,14 @@
+{
+  "id": "microsoft-store",
+  "title": "Microsoft Store",
+  "subtitle": "Download Windows apps for your Windows tablet or computer. Browse thousands of free and paid apps by category, read u...",
+  "tags": [
+    "app-stores"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600449439/icons/microsoft-store.svg",
+  "website": "https://www.microsoft.com/en-us/store/apps/windows",
+  "docsUrl": "https://www.microsoft.com/en-us/store/most-popular/apps/pc?category=developer%20tools"
+}

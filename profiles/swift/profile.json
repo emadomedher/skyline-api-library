@@ -1,0 +1,14 @@
+{
+  "id": "swift",
+  "title": "SWIFT",
+  "subtitle": "SWIFT API integration",
+  "tags": [
+    "banking",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593705297/icons/swift.png",
+  "website": "https://www.swift.com/"
+}

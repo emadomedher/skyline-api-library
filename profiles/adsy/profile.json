@@ -1,0 +1,13 @@
+{
+  "id": "adsy",
+  "title": "Adsy",
+  "subtitle": "Create micro websites in a snap. Adsy microsites are easy to share, mobile-ready, embeddable anywhere. The site maker...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964405/catalog/adsy/icon128x128.png",
+  "website": "https://adsy.me"
+}

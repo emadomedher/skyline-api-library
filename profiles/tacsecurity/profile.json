@@ -1,0 +1,14 @@
+{
+  "id": "tacsecurity",
+  "title": "TAC Security",
+  "subtitle": "ESOF, A Next-Generation of Vulnerability Management, Detection and Response Platform. Get in touch with our team toda...",
+  "tags": [
+    "security",
+    "vulnerability-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652394846/icons/tacsecurity.jpg",
+  "website": "https://tacsecurity.com/"
+}

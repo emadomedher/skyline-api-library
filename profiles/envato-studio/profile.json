@@ -1,0 +1,13 @@
+{
+  "id": "envato-studio",
+  "title": "Envato Studio",
+  "subtitle": "A community of handpicked developers and designers, available just for you.",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/655904741617086464/nwevoHSQ_400x400.png",
+  "website": "https://studio.envato.com"
+}

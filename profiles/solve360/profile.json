@@ -1,0 +1,13 @@
+{
+  "id": "solve360",
+  "title": "Solve CRM",
+  "subtitle": "Solve is a powerful and modern CRM that has integrated features for managing client projects. For small teams it is a...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056174/catalog/solve360/icon128x128.png",
+  "website": "https://solve360.com/"
+}

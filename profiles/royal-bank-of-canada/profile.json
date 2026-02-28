@@ -1,0 +1,13 @@
+{
+  "id": "royal-bank-of-canada",
+  "title": "Royal Bank of Canada (RBC)",
+  "subtitle": "The Royal Bank of Canada is a Canadian multinational financial services company and the largest bank in Canada by mar...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604372325/icons/royal-bank-of-canada.jpg",
+  "website": "https://www.rbcroyalbank.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "qualified-io",
+  "title": "Qualified",
+  "subtitle": "Online Coding Tests & Assessment Platform for Software Engineers",
+  "tags": [
+    "technical-skills-screening"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887394/icons/qualified-io.png",
+  "website": "https://www.qualified.io/",
+  "docsUrl": "https://www.forbes.com/sites/julianmitchell/2017/09/26/codewars-founder-nathan-doctors-new-startup-makes-it-easy-to-recruit-top-developers"
+}

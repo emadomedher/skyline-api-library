@@ -1,0 +1,14 @@
+{
+  "id": "uplead",
+  "title": "UpLead.com",
+  "subtitle": "Access our accurate and real time verified B2B database to drive growth. With built-in email verification, UpLead is ...",
+  "tags": [
+    "lead-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573090459/catalog/uplead/icon128x128.png",
+  "website": "https://www.uplead.com/",
+  "docsUrl": "https://www.uplead.com/api"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "channeldock",
+  "title": "ChannelDock",
+  "subtitle": "ChannelDock is a comprehensive inventory and order management solution designed for e-commerce sellers and fulfillmen...",
+  "tags": [
+    "order-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679141796/icons/channeldock.png",
+  "website": "https://channeldock.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "opengpt-x",
+  "title": "OpenGPT-X",
+  "subtitle": "OpenGPT-X builds and trains large-scale AI language models to drive innovative language application services for the ...",
+  "tags": [
+    "large-language-models"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672664165/icons/opengpt-x.png",
+  "website": "https://opengpt-x.de/en/"
+}

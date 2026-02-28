@@ -1,0 +1,17 @@
+{
+  "id": "finicity",
+  "title": "Finicity",
+  "subtitle": "Finicity helps consumers and organizations make better financial decisions with better data. Finicity is transforming...",
+  "tags": [
+    "banking",
+    "fintech",
+    "data-aggregators",
+    "banking-api-aggregators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573360773/catalog/finicity/icon128x128.jpg",
+  "website": "https://www.finicity.com/",
+  "docsUrl": "https://docs.finicity.com/"
+}

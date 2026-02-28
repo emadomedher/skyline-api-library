@@ -1,0 +1,14 @@
+{
+  "id": "airport-community",
+  "title": "Airport",
+  "subtitle": "The TestFlight App Store",
+  "tags": [
+    "mobile-apps",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602094845/icons/airport-community.jpg",
+  "website": "https://airport.community/"
+}

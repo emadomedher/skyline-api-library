@@ -1,0 +1,15 @@
+{
+  "id": "weglot",
+  "title": "Weglot",
+  "subtitle": "Make your website multilingual using Weglot. Translate your website within minutes in multiple languages. Reach a wid...",
+  "tags": [
+    "localization",
+    "translation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572483589/catalog/weglot/icon128x128.jpg",
+  "website": "https://weglot.com/",
+  "docsUrl": "https://developers.weglot.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "indiehackers",
+  "title": "Indie Hackers",
+  "subtitle": "Connect with developers who are sharing the strategies and revenue numbers behind their companies and side projects.",
+  "tags": [
+    "maker-communities",
+    "non-saas",
+    "resources"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612341783/icons/indiehackers.png",
+  "website": "https://www.indiehackers.com/",
+  "docsUrl": "https://www.indiehackers.com/group/developers"
+}

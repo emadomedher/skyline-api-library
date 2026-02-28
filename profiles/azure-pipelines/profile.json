@@ -1,0 +1,13 @@
+{
+  "id": "azure-pipelines",
+  "title": "Azure Pipelines",
+  "subtitle": "Azure Pipelines API integration",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575503359/catalog/azure-pipelines/icon128x128.png",
+  "website": "https://azure.microsoft.com/en-us/services/devops/pipelines/"
+}

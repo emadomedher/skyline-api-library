@@ -1,0 +1,15 @@
+{
+  "id": "circle",
+  "title": "Circle",
+  "subtitle": "Circle helps businesses and developers harness the power of digital dollar stablecoins for payments and internet comm...",
+  "tags": [
+    "defi",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624984249/icons/circle.png",
+  "website": "https://www.circle.com/",
+  "docsUrl": "https://www.circle.com/en/developers"
+}

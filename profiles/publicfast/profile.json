@@ -1,0 +1,13 @@
+{
+  "id": "publicfast",
+  "title": "Publicfast",
+  "subtitle": "Publicfast API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962577/catalog/publicfast/icon128x128.png",
+  "website": "https://publicfast.com"
+}

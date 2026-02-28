@@ -1,0 +1,13 @@
+{
+  "id": "pwc-insightsofficer",
+  "title": "InsightsOfficer",
+  "subtitle": "Meet InsightsOfficer, the law firm automation software that simplifies bookkeeping and delivers business insights to ...",
+  "tags": [
+    "bookkeeping"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573231962/catalog/pwc-insightsofficer/icon128x128.png",
+  "website": "https://insightsofficer.pwc.com/"
+}

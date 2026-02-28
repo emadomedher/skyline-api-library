@@ -1,0 +1,13 @@
+{
+  "id": "inquisium",
+  "title": "Inquisium",
+  "subtitle": "The official site of Inquisium - offering enterprise online survey software and feedback management to businesses and...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946912/catalog/inquisium/icon128x128.jpg",
+  "website": "https://inquisium.com"
+}

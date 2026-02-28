@@ -1,0 +1,13 @@
+{
+  "id": "todoist",
+  "title": "Todoist",
+  "subtitle": "Managing millions of tasks, Todoist is one of the best online task management app and todo list. It has Web, iPhone, ...",
+  "tags": [
+    "to-do-lists"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456031/catalog/todoist/icon128x128.png",
+  "website": "https://todoist.com/"
+}

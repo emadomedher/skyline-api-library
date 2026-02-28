@@ -1,0 +1,13 @@
+{
+  "id": "week-plan",
+  "title": "Week Plan",
+  "subtitle": "Online weekly planner that helps you focus on what matters rather than just on getting things done.",
+  "tags": [
+    "to-do-lists"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306488/catalog/week-plan/icon128x128.png",
+  "website": "https://weekplan.net/"
+}

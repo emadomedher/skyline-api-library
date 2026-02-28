@@ -1,0 +1,13 @@
+{
+  "id": "hypr",
+  "title": "Hypr",
+  "subtitle": "HYPR influencer marketing platform makes influencer marketing easy. We help you find social influencers with actionab...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946926/catalog/hypr/icon128x128.jpg",
+  "website": "https://hyprbrands.com"
+}

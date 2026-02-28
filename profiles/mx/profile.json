@@ -1,0 +1,17 @@
+{
+  "id": "mx",
+  "title": "MX",
+  "subtitle": "Powering the Money Experience and Digital Transformation for more than 2000 banks, credit unions, and fintechs.",
+  "tags": [
+    "financial-data",
+    "fintech",
+    "transaction-data",
+    "bank-api-aggregators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437743/icons/mx.jpg",
+  "website": "https://www.mx.com/",
+  "docsUrl": "https://docs.mx.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nocrm-io",
+  "title": "noCRM.io",
+  "subtitle": "noCRM.io helps you to track and close deals without wasting time filling out forms. Boost productivity and manage you...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305535/catalog/nocrm-io/icon128x128.png"
+}

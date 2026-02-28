@@ -1,0 +1,14 @@
+{
+  "id": "exabel",
+  "title": "Exabel",
+  "subtitle": "Simple-to-use analytical platform for investment professionals who want to benefit from alternative data and modern d...",
+  "tags": [
+    "investment-teams"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915315/icons/exabel.jpg",
+  "website": "https://www.exabel.com/",
+  "docsUrl": "https://www.exabel.com/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "openlegacy",
+  "title": "OpenLegacy",
+  "subtitle": "API Integration and API Management software to create APIs to leverage core (legacy) systems & quickly deliver innova...",
+  "tags": [
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564768958/catalog/openlegacy/icon128x128.jpg",
+  "website": "https://openlegacy.com"
+}

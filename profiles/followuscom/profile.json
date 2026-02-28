@@ -1,0 +1,13 @@
+{
+  "id": "followuscom",
+  "title": "FollowUs.com",
+  "subtitle": "Get your social media organized.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555982864/catalog/followuscom/icon128x128.png",
+  "website": "https://followus.com"
+}

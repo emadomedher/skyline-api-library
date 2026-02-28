@@ -1,0 +1,13 @@
+{
+  "id": "uvdesk-helpdesk",
+  "title": "UVdesk Helpdesk",
+  "subtitle": "SaaS E-commerce Helpdesk Application",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861270/catalog/uvdesk-helpdesk/icon128x128.png",
+  "website": "https://www.uvdesk.com/en/"
+}

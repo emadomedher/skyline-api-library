@@ -1,0 +1,13 @@
+{
+  "id": "mumara",
+  "title": "Mumara",
+  "subtitle": "Mumara is collection of SaaS applications and customer engagement tools to fuel your multi-channel marketing strategy.",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721188/catalog/mumara/icon128x128.png",
+  "website": "https://mumara.com"
+}

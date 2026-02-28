@@ -1,0 +1,16 @@
+{
+  "id": "blender",
+  "title": "Blender",
+  "subtitle": "The Freedom to Create",
+  "tags": [
+    "architectural-rendering",
+    "3d",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671285886/icons/blender.jpg",
+  "website": "https://www.blender.org/",
+  "docsUrl": "https://www.blender.org/get-involved/developers"
+}

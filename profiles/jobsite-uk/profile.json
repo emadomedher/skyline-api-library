@@ -1,0 +1,14 @@
+{
+  "id": "jobsite-uk",
+  "title": "Jobsite",
+  "subtitle": "Search 1000's of UK Jobs and Apply Online Today! Search 40,000+ UK Jobs · Award Winning Job Board · UK #1 Leading Job...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805146/icons/jobsite-uk.jpg",
+  "website": "https://www.jobsite.co.uk/",
+  "docsUrl": "https://www.jobsite.co.uk/tp-out"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "omniboost-io",
+  "title": "Omniboost",
+  "subtitle": "Leverage any Data Source Connect your data sources and gain the holistic view needed to empower your business strateg...",
+  "tags": [
+    "ipaas",
+    "hospitality"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671583874/icons/omniboost-io.png",
+  "website": "https://omniboost.io/"
+}

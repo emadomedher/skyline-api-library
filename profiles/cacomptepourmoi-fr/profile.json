@@ -1,0 +1,13 @@
+{
+  "id": "cacomptepourmoi-fr",
+  "title": "Ça Compte Pour Moi",
+  "subtitle": "Avec Ça Compte Pour Moi, bénéficiez de l'accompagnement de votre expert-comptable couplé à un outil de gestion en lig...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796503/catalog/cacomptepourmoi-fr/icon128x128.jpg",
+  "website": "https://www.cacomptepourmoi.fr/"
+}

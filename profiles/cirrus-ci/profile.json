@@ -1,0 +1,15 @@
+{
+  "id": "cirrus-ci",
+  "title": "Cirrus Labs",
+  "subtitle": "Cirrus CI is a modern Continuous Integration system built for the era of cloud computing. Cirrus CI supports Linux, W...",
+  "tags": [
+    "continuous-integration",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615490868/icons/cirrus-ci.jpg",
+  "website": "https://cirrus-ci.org/",
+  "docsUrl": "https://github.com/cirruslabs/cirrus-ci-docs"
+}

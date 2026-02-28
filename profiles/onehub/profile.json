@@ -1,0 +1,13 @@
+{
+  "id": "onehub",
+  "title": "OneHub",
+  "subtitle": "Onehub helps businesses securely share and control files in the cloud. Share files, data, and information with confid...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946758/catalog/onehub/icon128x128.png",
+  "website": "https://onehub.com"
+}

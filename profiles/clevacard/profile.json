@@ -1,0 +1,14 @@
+{
+  "id": "clevacard",
+  "title": "Cleva",
+  "subtitle": "The Cleva platform gives your care agency a quick, safe and easy way for your staff to pay for things your clients need.",
+  "tags": [
+    "payments",
+    "eldery-care"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231810/icons/clevacard.png",
+  "website": "https://clevacard.com/"
+}

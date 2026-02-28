@@ -1,0 +1,12 @@
+{
+  "id": "digistore24",
+  "title": "digistore24",
+  "subtitle": "Digistore24 is a highly automated Internet Marketing platform for selling Digital information products and seminars.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304779/catalog/digistore24/icon128x128.png"
+}

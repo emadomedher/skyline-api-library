@@ -1,0 +1,13 @@
+{
+  "id": "mazen-app",
+  "title": "MAZEN",
+  "subtitle": "Mazen content is a SEO software for writing great optimized content. The main features are recommendations in real ti...",
+  "tags": [
+    "seo-content-optimization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599064706/icons/mazen-app.png",
+  "website": "https://mazen-app.com/"
+}

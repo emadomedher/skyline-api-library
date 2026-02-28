@@ -1,0 +1,14 @@
+{
+  "id": "oracle-financials-cloud",
+  "title": "Oracle Financials Cloud",
+  "subtitle": "See how Oracle Financials Cloud offers the most comprehensive, integrated, and scalable financial management solution...",
+  "tags": [
+    "finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565612927/catalog/oracle-financials-cloud/icon128x128.png",
+  "website": "https://cloud.oracle.com/financials-cloud",
+  "docsUrl": "https://developer.oracle.com"
+}

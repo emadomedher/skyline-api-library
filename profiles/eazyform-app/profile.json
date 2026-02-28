@@ -1,0 +1,13 @@
+{
+  "id": "eazyform-app",
+  "title": "Eazyform",
+  "subtitle": "The easiest and quickest way to create monday forms that look exactly the way you want them.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603944994/icons/eazyform-app.png",
+  "website": "https://eazyform.app/"
+}

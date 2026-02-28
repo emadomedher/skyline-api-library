@@ -1,0 +1,14 @@
+{
+  "id": "sweepbright",
+  "title": "Sweepbright",
+  "subtitle": "SweepBright empowers real estate agencies to deliver exceptional customer experiences and become significantly more e...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306251/catalog/sweepbright/icon128x128.png",
+  "website": "https://sweepbright.com/",
+  "docsUrl": "https://website.sweepbright.com/docs/"
+}

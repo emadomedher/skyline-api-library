@@ -1,0 +1,14 @@
+{
+  "id": "dateio-cz",
+  "title": "Dateio",
+  "subtitle": "Oslovte nové klienty a upevněte vztahy s těmi stávajícími! Jednoduše, díky cílenému a přesně měřitelnému marketingu o...",
+  "tags": [
+    "card-payment-data",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571955931/catalog/dateio-cz/icon128x128.png",
+  "website": "https://dateio.cz/"
+}

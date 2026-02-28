@@ -1,0 +1,13 @@
+{
+  "id": "silo-ai",
+  "title": "Silo AI",
+  "subtitle": "A private AI lab on a mission to build a European flagship AI company building smart devices, autonomous vehicles, in...",
+  "tags": [
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681298685/icons/silo-ai.jpg",
+  "website": "https://www.silo.ai/"
+}

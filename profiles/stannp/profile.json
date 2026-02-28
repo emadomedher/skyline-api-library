@@ -1,0 +1,12 @@
+{
+  "id": "stannp",
+  "title": "Stannp",
+  "subtitle": "Stannp is a service for posting real, physical direct mail such as postcards or letters to recipients' mail boxes, an...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284620/catalog/stannp/icon128x128.png"
+}

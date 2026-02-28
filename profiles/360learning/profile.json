@@ -1,0 +1,16 @@
+{
+  "id": "360learning",
+  "title": "360Learning",
+  "subtitle": "We make it easier than ever for teams to create, ship & improve courses together. Experience learning together.",
+  "tags": [
+    "channel-learning-and-readiness",
+    "e-learning",
+    "learning",
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075920/icons/360learning.png",
+  "website": "https://360learning.com/"
+}

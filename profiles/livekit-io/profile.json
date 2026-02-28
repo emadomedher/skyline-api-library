@@ -1,0 +1,15 @@
+{
+  "id": "livekit-io",
+  "title": "LiveKit",
+  "subtitle": "LiveKit is an open source project that provides scalable, multi-user conferencing over WebRTC. It's designed to give ...",
+  "tags": [
+    "video-conferencing-api",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625863312/icons/livekit-io.jpg",
+  "website": "https://livekit.io/",
+  "docsUrl": "https://docs.livekit.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "linkedin-matched-audiences",
+  "title": "LinkedIn Matched Audiences",
+  "subtitle": "LinkedIn Matched Audiences lets you deliver marketing messages based on website retargeting, account targeting, and e...",
+  "tags": [
+    "microsoft",
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056012/catalog/linkedin-matched-audiences/icon128x128.png"
+}

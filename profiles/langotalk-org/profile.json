@@ -1,0 +1,13 @@
+{
+  "id": "langotalk-org",
+  "title": "Langotalk",
+  "subtitle": "Have confident conversations in weeks instead of years.",
+  "tags": [
+    "language-learning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1673710600/icons/langotalk-org.png",
+  "website": "https://www.langotalk.org/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "intergiro",
+  "title": "Intergiro",
+  "subtitle": "An all-in-one platform offering multi-currency bank accounts, card issuing and card acquiring across Europe",
+  "tags": [
+    "baas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406239/icons/intergiro.png",
+  "website": "https://intergiro.com/",
+  "docsUrl": "https://developer.intergiro.com"
+}

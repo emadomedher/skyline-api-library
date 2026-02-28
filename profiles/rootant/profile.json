@@ -1,0 +1,14 @@
+{
+  "id": "rootant",
+  "title": "RootAnt",
+  "subtitle": "RootAnt is a technology enabler of Banking as a Service, specializing in Embedded Financing for enterprises, connecti...",
+  "tags": [
+    "banking-as-a-service",
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602198685/icons/rootant.jpg",
+  "website": "https://www.rootant.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zesty-ai",
+  "title": "Zesty.ai",
+  "subtitle": "Zesty.ai has developed a Risk Analytics Platform powered by Artificial Intelligence and focused on the Property and C...",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614642916/icons/zesty-ai.jpg",
+  "website": "https://www.zesty.ai/"
+}

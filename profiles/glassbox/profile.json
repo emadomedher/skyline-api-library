@@ -1,0 +1,13 @@
+{
+  "id": "glassbox",
+  "title": "Glassbox",
+  "subtitle": "Glassbox provides digital customer experience analytics for web and mobile apps. Drive revenue, profitability & loyal...",
+  "tags": [
+    "mobile-and-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946963/catalog/glassbox/icon128x128.png",
+  "website": "https://glassboxdigital.com"
+}

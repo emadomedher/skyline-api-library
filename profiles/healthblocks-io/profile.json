@@ -1,0 +1,13 @@
+{
+  "id": "healthblocks-io",
+  "title": "Healthblocks",
+  "subtitle": "Build engaging digital health products, faster.",
+  "tags": [
+    "health"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600383042/icons/healthblocks-io.png",
+  "website": "https://www.healthblocks.io/"
+}

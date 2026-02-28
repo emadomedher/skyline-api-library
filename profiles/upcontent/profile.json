@@ -1,0 +1,14 @@
+{
+  "id": "upcontent",
+  "title": "Upcontent",
+  "subtitle": "UpContent helps users builds trust with their audiences through discovering, collaborating on, and distributing curat...",
+  "tags": [
+    "content-marketing",
+    "content-curation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827914/catalog/upcontent/icon128x128.jpg",
+  "website": "https://upcontent.com"
+}

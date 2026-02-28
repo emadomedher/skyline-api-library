@@ -1,0 +1,13 @@
+{
+  "id": "cloudfind",
+  "title": "Cloudfind",
+  "subtitle": "Affiliate Marketing made simple. We use AI to match advertisers to the best affiliate publishers",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433792/catalog/cloudfind/icon128x128.png",
+  "website": "https://cloudfindhq.com"
+}

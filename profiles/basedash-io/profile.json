@@ -1,0 +1,15 @@
+{
+  "id": "basedash-io",
+  "title": "BaseDash",
+  "subtitle": "BaseDash lets you build internal tools to edit your database with the ease of a spreadsheet. Organize your data, then...",
+  "tags": [
+    "databases",
+    "spreadsheets",
+    "no-code"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598443585/icons/basedash-io.png",
+  "website": "https://www.basedash.io/"
+}

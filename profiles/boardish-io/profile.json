@@ -1,0 +1,14 @@
+{
+  "id": "boardish-io",
+  "title": "Boardish - IT That Speaks The Board's Language",
+  "subtitle": "IT and Cyber That Speaks The Board’s Language Finally achieve clarity between you and the board on cybersecurity risk...",
+  "tags": [
+    "security",
+    "board"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583189305/catalog/boardish-io/icon128x128.jpg",
+  "website": "https://www.boardish.io/"
+}

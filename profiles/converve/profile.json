@@ -1,0 +1,13 @@
+{
+  "id": "converve",
+  "title": "Converve",
+  "subtitle": "Converve Networking Software is your first choice for professional B2B matchmaking and great networking events. Find ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433950/catalog/converve/icon128x128.png",
+  "website": "https://converve.com"
+}

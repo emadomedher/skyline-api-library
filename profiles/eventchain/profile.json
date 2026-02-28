@@ -1,0 +1,13 @@
+{
+  "id": "eventchain",
+  "title": "EventChain",
+  "subtitle": "EventChain | Sell Event Tickets Online | Ideal for Concerts, Festivals, Conferences, Sporting Events, Film Screenings...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947062/catalog/eventchain/icon128x128.jpg",
+  "website": "https://eventchain.io"
+}

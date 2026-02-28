@@ -1,0 +1,13 @@
+{
+  "id": "designcrowd",
+  "title": "Designcrowd",
+  "subtitle": "Crowdsourced logo, freelance graphic and web design at DesignCrowd. 688,419 freelance designers compete to create ama...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826268/catalog/designcrowd/icon128x128.jpg",
+  "website": "https://designcrowd.com"
+}

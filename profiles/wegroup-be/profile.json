@@ -1,0 +1,13 @@
+{
+  "id": "wegroup-be",
+  "title": "WeGroup",
+  "subtitle": "Page not found.",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912803/icons/wegroup-be.png",
+  "website": "https://www.wegroup.be/en"
+}

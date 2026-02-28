@@ -1,0 +1,13 @@
+{
+  "id": "yaguara",
+  "title": "Yaguara",
+  "subtitle": "Yaguara is the control center for modern businesses. Yaguara aggregates and aligns data with business objectives and ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559755118/catalog/yaguara/icon128x128.jpg",
+  "website": "https://yaguara.co"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rake-red",
+  "title": "Rake.red",
+  "subtitle": "Collect user data without a server or back-end code. Fast, easy, secure.",
+  "tags": [
+    "forms",
+    "jamstack"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615639785/icons/rake-red.png",
+  "website": "https://rake.red/",
+  "docsUrl": "https://rake.red/docs"
+}

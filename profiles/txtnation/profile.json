@@ -1,0 +1,12 @@
+{
+  "id": "txtnation",
+  "title": "txtNation",
+  "subtitle": "TxtNation is a bulk SMS messaging service which lets you send messages anywhere in the world.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306393/catalog/txtnation/icon128x128.png"
+}

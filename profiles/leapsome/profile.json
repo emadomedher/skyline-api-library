@@ -1,0 +1,15 @@
+{
+  "id": "leapsome",
+  "title": "Leapsome",
+  "subtitle": "Leapsome is an all-in-one platform for Performance Management. OKRs & Goals, Performance Reviews, Feedback, 1-on-1 Me...",
+  "tags": [
+    "performance-management",
+    "employee-engagement",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576672948/catalog/leapsome/icon128x128.jpg",
+  "website": "https://www.leapsome.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vouchfor",
+  "title": "Vouch",
+  "subtitle": "Vouch allows you to collect, edit & share authentic videos with a single link. Capture customer video testimonials, e...",
+  "tags": [
+    "video-testimonial"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662669791/icons/vouchfor.png",
+  "website": "https://vouchfor.com/"
+}

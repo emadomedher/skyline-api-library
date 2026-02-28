@@ -1,0 +1,15 @@
+{
+  "id": "yarnpkg",
+  "title": "Yarn",
+  "subtitle": "Fast, reliable, and secure dependency management.",
+  "tags": [
+    "package-managers",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599954815/icons/yarnpkg.jpg",
+  "website": "https://yarnpkg.com/",
+  "docsUrl": "https://github.com/yarnpkg/berry/tree/master/packages/plugin-exec#documentation"
+}

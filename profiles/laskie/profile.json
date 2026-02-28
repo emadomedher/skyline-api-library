@@ -1,0 +1,13 @@
+{
+  "id": "laskie",
+  "title": "Laskie",
+  "subtitle": "Laskie: Replacing job posts and resumes with precision matchmaking.",
+  "tags": [
+    "job-search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082073/icons/laskie.jpg",
+  "website": "https://laskie.com/"
+}

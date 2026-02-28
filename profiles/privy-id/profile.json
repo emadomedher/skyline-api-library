@@ -1,0 +1,14 @@
+{
+  "id": "privy-id",
+  "title": "PrivyID",
+  "subtitle": "Get secured, reliable and certified digital signature and identity to digitaly transform your business.",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623450060/icons/privy-id.jpg",
+  "website": "https://privy.id/",
+  "docsUrl": "https://console.privy.id"
+}

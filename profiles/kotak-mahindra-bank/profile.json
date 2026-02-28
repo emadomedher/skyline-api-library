@@ -1,0 +1,13 @@
+{
+  "id": "kotak-mahindra-bank",
+  "title": "Kotak Mahindra Bank",
+  "subtitle": "Kotak Mahindra Bank Limited is an Indian banking & financial services company headquartered in the city of Mumbai, In...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630869004/icons/kotak-mahindra-bank.png",
+  "website": "https://www.kotak.com/en/home.html"
+}

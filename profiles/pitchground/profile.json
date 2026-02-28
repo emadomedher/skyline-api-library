@@ -1,0 +1,13 @@
+{
+  "id": "pitchground",
+  "title": "PitchGround",
+  "subtitle": "We are not just a SaaS marketplace. We help online businesses grow with the help of software and our education-first ...",
+  "tags": [
+    "startup-deals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581655803/catalog/pitchground/icon128x128.jpg",
+  "website": "https://pitchground.com/"
+}

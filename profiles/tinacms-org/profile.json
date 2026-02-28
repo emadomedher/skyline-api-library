@@ -1,0 +1,14 @@
+{
+  "id": "tinacms-org",
+  "title": "TinaCMS",
+  "subtitle": "A site editor for the modern web",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572911822/catalog/tinacms-org/icon128x128.png",
+  "website": "https://tinacms.org/",
+  "docsUrl": "https://tinacms.org/docs/getting-started/introduction"
+}

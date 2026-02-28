@@ -1,0 +1,13 @@
+{
+  "id": "aument-io",
+  "title": "Aument",
+  "subtitle": "Aument is a marketing automation platform for ecommerce stores. Transform visitors into customers, get more second ti...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647178359/icons/aument-io.png",
+  "website": "https://aument.io/"
+}

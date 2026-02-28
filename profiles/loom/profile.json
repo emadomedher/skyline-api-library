@@ -1,0 +1,13 @@
+{
+  "id": "loom",
+  "title": "Loom",
+  "subtitle": "Loom is the fastest, easiest way to record content and stay connected with your team. Whether you’re screen recording...",
+  "tags": [
+    "video-cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628098609/icons/loom.jpg",
+  "website": "https://www.loom.com/"
+}

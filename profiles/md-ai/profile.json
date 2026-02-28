@@ -1,0 +1,14 @@
+{
+  "id": "md-ai",
+  "title": "MD.ai",
+  "subtitle": "MD.ai - the platform for medical AI",
+  "tags": [
+    "medical-imaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671591070/icons/md-ai.jpg",
+  "website": "https://md.ai/",
+  "docsUrl": "https://docs.md.ai"
+}

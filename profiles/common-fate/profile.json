@@ -1,0 +1,13 @@
+{
+  "id": "common-fate",
+  "title": "Common Fate",
+  "subtitle": "Automate and secure permissions to your infrastructure and internal applications. Enable fast workflows for access wh...",
+  "tags": [
+    "iam-permissions"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671044904/icons/common-fate.png",
+  "website": "https://commonfate.io/"
+}

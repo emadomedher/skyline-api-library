@@ -1,0 +1,15 @@
+{
+  "id": "components-ai",
+  "title": "Components AI",
+  "subtitle": "Parametric and generative design tools",
+  "tags": [
+    "generative-design",
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611781399/icons/components-ai.jpg",
+  "website": "https://components.ai/",
+  "docsUrl": "https://www.apollographql.com/docs/apollo-server/federation/introduction"
+}

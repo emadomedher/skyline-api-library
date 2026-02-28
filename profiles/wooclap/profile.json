@@ -1,0 +1,13 @@
+{
+  "id": "wooclap",
+  "title": "Wooclap",
+  "subtitle": "\n  A collaborative platform for your classes, conferences and training sessions. Intuitive and simple, Wooclap makes ...",
+  "tags": [
+    "audience-response-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074585/icons/wooclap.jpg",
+  "website": "https://www.wooclap.com/"
+}

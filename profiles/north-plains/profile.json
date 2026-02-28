@@ -1,0 +1,13 @@
+{
+  "id": "north-plains",
+  "title": "North plains",
+  "subtitle": "North plains API integration",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721277/catalog/north-plains/icon128x128.jpg",
+  "website": "https://northplains.com"
+}

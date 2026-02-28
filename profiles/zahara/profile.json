@@ -1,0 +1,12 @@
+{
+  "id": "zahara",
+  "title": "Zahara",
+  "subtitle": "Zahara is a complete purchase management platform enabling paperless approvals for supplier invoices and purchase req...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264856/catalog/zahara/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "siberian",
+  "title": "Siberian",
+  "subtitle": "Siberian is an Open-Source and Free App Maker. Unlimited Push Notifications. Unlimited features. Fully Customizable. ...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722064/catalog/siberian/icon128x128.png",
+  "website": "https://siberiancms.com"
+}

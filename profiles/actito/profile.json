@@ -1,0 +1,14 @@
+{
+  "id": "actito",
+  "title": "Actito",
+  "subtitle": "Actito permet à tout marketeur d'exécuter des campagnes marketing hautement personnalisées et multicanal. Découvrez n...",
+  "tags": [
+    "marketing-automation-and-campaignlead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717108/catalog/actito/icon128x128.jpg",
+  "website": "https://www.actito.com",
+  "docsUrl": "https://www.actito.com/redirect/https%3A%2F%2Fdevelopers.actito.com%2Fmenu%2Fwelcome"
+}

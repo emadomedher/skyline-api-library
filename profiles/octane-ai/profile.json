@@ -1,0 +1,13 @@
+{
+  "id": "octane-ai",
+  "title": "Octane AI",
+  "subtitle": "Octane AI is the Facebook Messenger chatbot platform designed to help Shopify merchants send abandoned cart messages,...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963474/catalog/octane-ai/icon128x128.png",
+  "website": "https://octaneai.com"
+}

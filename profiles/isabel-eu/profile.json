@@ -1,0 +1,15 @@
+{
+  "id": "isabel-eu",
+  "title": "Isabel 6",
+  "subtitle": "B2B Payments made easy. All transactions. One multibanking platform. With Isabel 6’s hypersecure online software, you...",
+  "tags": [
+    "fintech",
+    "banking",
+    "accounting"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563113139/catalog/isabel-eu/icon128x128.png",
+  "website": "https://isabel.eu"
+}

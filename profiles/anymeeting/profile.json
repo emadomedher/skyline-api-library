@@ -1,0 +1,13 @@
+{
+  "id": "anymeeting",
+  "title": "Intermedia AnyMeeting",
+  "subtitle": "Hold online meetings and webinars to connect with sales prospects, clients and new potential leads.",
+  "tags": [
+    "video-calls"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304408/catalog/anymeeting/icon128x128.png",
+  "website": "https://anymeeting.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "blazemeter",
+  "title": "BlazeMeter",
+  "subtitle": "BlazeMeter's Continuous Testing platform is 100% Open Source Compatible & Enterprise Ready. With BlazeMeter, Dev and ...",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614365/catalog/blazemeter/icon128x128.png",
+  "website": "https://www.blazemeter.com/"
+}

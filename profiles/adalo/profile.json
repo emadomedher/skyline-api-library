@@ -1,0 +1,15 @@
+{
+  "id": "adalo",
+  "title": "Adalo",
+  "subtitle": "Adalo makes creating apps as easy as putting together a slide deck. Turn your idea into a real native app — no code n...",
+  "tags": [
+    "mobile-apps",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741025/icons/adalo.png",
+  "website": "https://www.adalo.com/",
+  "docsUrl": "https://help.adalo.com"
+}

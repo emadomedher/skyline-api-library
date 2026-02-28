@@ -1,0 +1,13 @@
+{
+  "id": "adadyn",
+  "title": "Adadyn",
+  "subtitle": "Adadyn API integration",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825628/catalog/adadyn/icon128x128.jpg",
+  "website": "https://adaDyn.com"
+}

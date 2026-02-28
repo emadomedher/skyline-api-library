@@ -1,0 +1,13 @@
+{
+  "id": "moz",
+  "title": "Moz",
+  "subtitle": "Moz API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435991/catalog/moz/icon128x128.png",
+  "website": "https://moz.com"
+}

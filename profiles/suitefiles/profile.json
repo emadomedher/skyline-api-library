@@ -1,0 +1,14 @@
+{
+  "id": "suitefiles",
+  "title": "SuiteFiles",
+  "subtitle": "SuiteFiles API integration",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627767068/icons/suitefiles.jpg",
+  "website": "https://www.suitefiles.com/",
+  "docsUrl": "https://developer.suitefiles.com"
+}

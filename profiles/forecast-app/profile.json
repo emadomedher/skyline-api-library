@@ -1,0 +1,13 @@
+{
+  "id": "forecast-app",
+  "title": "Forecast",
+  "subtitle": "Forecast is a project and resource management software that helps project-driven companies automate operations, empow...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572695729/catalog/forecast-app/icon128x128.jpg",
+  "website": "https://www.forecast.app/"
+}

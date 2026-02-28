@@ -1,0 +1,12 @@
+{
+  "id": "android",
+  "title": "Android",
+  "subtitle": "Android is a mobile phone operating system used extensively by dozens of carriers. Zapier can make it easier than eve...",
+  "tags": [
+    "operating-system"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055773/catalog/android/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tradable-bits",
+  "title": "Tradable Bits",
+  "subtitle": "Tradable Bits API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722560/catalog/tradable-bits/icon128x128.jpg",
+  "website": "https://tradablebits.com"
+}

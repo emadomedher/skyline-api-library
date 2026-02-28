@@ -1,0 +1,13 @@
+{
+  "id": "reckon-one",
+  "title": "Reckon One",
+  "subtitle": "Reckon One is an easy to use cloud accounting system built for every day small business owners who want a no fuss, si...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056137/catalog/reckon-one/icon128x128.png",
+  "website": "https://www.reckon.com/"
+}

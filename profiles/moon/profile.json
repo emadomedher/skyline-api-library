@@ -1,0 +1,13 @@
+{
+  "id": "moon",
+  "title": "Moon",
+  "subtitle": "Moon is an influencer marketplace for brands and creators reaching 400 million people, on a mission to make the indus...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946808/catalog/moon/icon128x128.jpg",
+  "website": "https://moon.xyz"
+}

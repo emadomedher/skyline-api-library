@@ -1,0 +1,13 @@
+{
+  "id": "taxi",
+  "title": "Taxi",
+  "subtitle": "Transform how your team creates, edits and publishes marketing emails. Take a free 7 day trial today – no credit card...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722462/catalog/taxi/icon128x128.jpg",
+  "website": "https://taxiforemail.com"
+}

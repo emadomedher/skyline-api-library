@@ -1,0 +1,14 @@
+{
+  "id": "sainsburys-bank",
+  "title": "Sainsbury's Bank",
+  "subtitle": "Sainsbury's Bank API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570098616/catalog/sainsburys-bank/icon128x128.png",
+  "website": "https://www.sainsburysbank.co.uk",
+  "docsUrl": "https://developer.sainsburysbank.co.uk/overview/"
+}

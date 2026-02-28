@@ -1,0 +1,13 @@
+{
+  "id": "rr-wfm",
+  "title": "R&R WFM",
+  "subtitle": "R&R stands for Retail & Result: software and services for food retailers. R&R helps retail chains and franchisees str...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586262009/catalog/rr-wfm/icon128x128.png",
+  "website": "https://www.rr-wfm.com/en/"
+}

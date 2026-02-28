@@ -1,0 +1,14 @@
+{
+  "id": "here",
+  "title": "HERE Technologies",
+  "subtitle": "Welcome to HERE, where rich location data, intelligent products and powerful tools come together to drive your busine...",
+  "tags": [
+    "location-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603430512/icons/here.jpg",
+  "website": "https://www.here.com/",
+  "docsUrl": "https://developer.here.com"
+}

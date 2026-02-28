@@ -1,0 +1,14 @@
+{
+  "id": "judopay",
+  "title": "Judopay",
+  "subtitle": "Judopay is a payments company, can help your business take card payments and digital payments online, in-app and on m...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576692774/catalog/judopay/icon128x128.jpg",
+  "website": "https://www.judopay.com/",
+  "docsUrl": "https://www.judopay.com/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fino-ai",
+  "title": "fino",
+  "subtitle": "fino entwickelt Produkte & Services, die Geschäftsprozesse im Bereich Finanzen optimieren. Über 100 Mitarbeiter besch...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605576377/icons/fino-ai.jpg",
+  "website": "https://www.fino.ai/"
+}

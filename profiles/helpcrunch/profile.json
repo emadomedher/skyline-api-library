@@ -1,0 +1,13 @@
+{
+  "id": "helpcrunch",
+  "title": "Helpcrunch",
+  "subtitle": "A customer communication platform to connect with your customers via in-product messenger, modern live chat or email ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720341/catalog/helpcrunch/icon128x128.jpg",
+  "website": "https://helpcrunch.com"
+}

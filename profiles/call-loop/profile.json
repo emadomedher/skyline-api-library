@@ -1,0 +1,13 @@
+{
+  "id": "call-loop",
+  "title": "Call Loop",
+  "subtitle": "Call Loop lets you automatically send customized & personalized voice and sms text messages to your contacts.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304554/catalog/call-loop/icon128x128.png",
+  "website": "https://callloop.com"
+}

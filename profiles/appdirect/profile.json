@@ -1,0 +1,14 @@
+{
+  "id": "appdirect",
+  "title": "AppDirect",
+  "subtitle": "AppDirect is the only end-to-end commerce platform that helps deliver any digital service, on any device, and acceler...",
+  "tags": [
+    "partner-relationship-management",
+    "ipaas-clouddata-integration-and-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433029/catalog/appdirect/icon128x128.png",
+  "website": "https://appdirect.com"
+}

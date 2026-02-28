@@ -1,0 +1,13 @@
+{
+  "id": "credithero-xyz",
+  "title": "Credit Hero",
+  "subtitle": "Credit Hero API integration",
+  "tags": [
+    "lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586382078/catalog/credithero-xyz/icon128x128.png",
+  "website": "https://credithero.xyz/"
+}

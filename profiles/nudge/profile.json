@@ -1,0 +1,13 @@
+{
+  "id": "nudge",
+  "title": "Nudge",
+  "subtitle": "Nudge API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827062/catalog/nudge/icon128x128.png",
+  "website": "https://nudge.ai"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ok-app",
+  "title": "OK",
+  "subtitle": "OK is de innovatieve, alles-in-1 betaaloplossing voor op je mobiele telefoon. OK maakt van je smartphone een slimme p...",
+  "tags": [
+    "p2p-payments",
+    "wallet"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566904137/catalog/ok-app/icon128x128.jpg",
+  "website": "https://ok.app"
+}

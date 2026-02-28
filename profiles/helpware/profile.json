@@ -1,0 +1,13 @@
+{
+  "id": "helpware",
+  "title": "Helpware",
+  "subtitle": "Helpware provides exceptional customer experience and back office support designed with maximum efficiency and effect...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434944/catalog/helpware/icon128x128.png",
+  "website": "https://helpware.io"
+}

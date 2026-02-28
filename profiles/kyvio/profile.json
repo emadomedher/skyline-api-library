@@ -1,0 +1,12 @@
+{
+  "id": "kyvio",
+  "title": "Kyvio",
+  "subtitle": "Kyvio uses Smart Funnels, Smart Memberships, Smart Mailer and more to helps creators build, manage and sell their pro...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284545/catalog/kyvio/icon128x128.png"
+}

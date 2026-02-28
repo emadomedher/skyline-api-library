@@ -1,0 +1,13 @@
+{
+  "id": "softlead-net",
+  "title": "Softlead",
+  "subtitle": "Softlead is an integrated software marketplace platform which promotes and sells both desktop and cloud software solu...",
+  "tags": [
+    "software-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801244/catalog/softlead-net/icon128x128.png",
+  "website": "https://www.softlead.net/"
+}

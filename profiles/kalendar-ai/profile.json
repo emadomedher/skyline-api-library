@@ -1,0 +1,15 @@
+{
+  "id": "kalendar-ai",
+  "title": "Kalendar AI",
+  "subtitle": "Meet new customers on autopilot with AI",
+  "tags": [
+    "scheduling",
+    "sales",
+    "lead-generation-services"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869884/icons/kalendar-ai.jpg",
+  "website": "https://www.kalendar.ai/"
+}

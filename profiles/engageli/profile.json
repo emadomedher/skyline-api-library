@@ -1,0 +1,14 @@
+{
+  "id": "engageli",
+  "title": "engageli.",
+  "subtitle": "Online learning — Reimagined. Our digital learning platform delivers an inclusive, superior teaching and learning exp...",
+  "tags": [
+    "video-conferencing",
+    "education"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602711872/icons/engageli.jpg",
+  "website": "https://www.engageli.com/"
+}

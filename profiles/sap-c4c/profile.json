@@ -1,0 +1,14 @@
+{
+  "id": "sap-c4c",
+  "title": "SAP C4C",
+  "subtitle": "Redefine customer engagement with our next-generation cloud CRM software – SAP Cloud for Customer.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574341752/catalog/sap-c4c/icon128x128.png",
+  "website": "https://www.sap.com/products/cloud-customer-engagement.html",
+  "docsUrl": "https://developers.sap.com"
+}

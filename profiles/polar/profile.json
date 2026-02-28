@@ -1,0 +1,13 @@
+{
+  "id": "polar",
+  "title": "Polar",
+  "subtitle": "Polar API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436531/catalog/polar/icon128x128.png",
+  "website": "https://polar.me"
+}

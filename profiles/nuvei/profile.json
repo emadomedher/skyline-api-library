@@ -1,0 +1,14 @@
+{
+  "id": "nuvei",
+  "title": "Nuvei",
+  "subtitle": "We are the payment technology partner of thriving brands. We provide the payment intelligence and technology business...",
+  "tags": [
+    "local-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556208/icons/nuvei.png",
+  "website": "https://nuvei.com/",
+  "docsUrl": "https://nuvei.com/#"
+}

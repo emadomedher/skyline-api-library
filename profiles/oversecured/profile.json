@@ -1,0 +1,13 @@
+{
+  "id": "oversecured",
+  "title": "Oversecured",
+  "subtitle": "A mobile app vulnerability scanner, designed for DevOps process integration, that is built to protect your customers'...",
+  "tags": [
+    "mobile-app-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605201330/icons/oversecured.png",
+  "website": "https://oversecured.com/"
+}

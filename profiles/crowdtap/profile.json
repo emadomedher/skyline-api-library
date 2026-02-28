@@ -1,0 +1,13 @@
+{
+  "id": "crowdtap",
+  "title": "Crowdtap",
+  "subtitle": "Crowdtap offers up thousands of questions for you to answer every day. Simply share your opinion and earn rewards, gi...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719663/catalog/crowdtap/icon128x128.jpg",
+  "website": "https://crowdtap.com"
+}

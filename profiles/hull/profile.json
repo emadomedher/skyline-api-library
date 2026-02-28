@@ -1,0 +1,14 @@
+{
+  "id": "hull",
+  "title": "Hull",
+  "subtitle": "The source of truth for all your customer data, synchronizing all your tools in real-time.",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439227/catalog/hull/icon128x128.svg",
+  "website": "https://hull.io",
+  "docsUrl": "https://www.hull.io/docs"
+}

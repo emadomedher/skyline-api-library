@@ -1,0 +1,14 @@
+{
+  "id": "trueconf",
+  "title": "TrueConf",
+  "subtitle": "Video conferencing software with UltraHD 4K support and great H.323/SIP interoperability. Super fast on-premises depl...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632592936/icons/trueconf.jpg",
+  "website": "https://trueconf.com/",
+  "docsUrl": "https://developers.trueconf.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "legalstart-fr",
+  "title": "legalstart.fr",
+  "subtitle": "Legalstart.fr vous permet de gérer vos besoins juridiques en ligne : créer une entreprise ou association loi 1901, dé...",
+  "tags": [
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/822408341225930752/jkXX19cw_200x200.jpg",
+  "website": "https://www.legalstart.fr/"
+}

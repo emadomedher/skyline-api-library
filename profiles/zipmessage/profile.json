@@ -1,0 +1,13 @@
+{
+  "id": "zipmessage",
+  "title": "ZipMessage",
+  "subtitle": "ZipMessage is video messaging software for remote teams who want to communicate asynchronously with their team, clien...",
+  "tags": [
+    "video-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641977754/icons/zipmessage.jpg",
+  "website": "https://zipmessage.com/"
+}

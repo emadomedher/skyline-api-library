@@ -1,0 +1,13 @@
+{
+  "id": "thrivehive",
+  "title": "ThriveHive",
+  "subtitle": "ThriveHive API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962123/catalog/thrivehive/icon128x128.png",
+  "website": "https://thrivehive.com"
+}

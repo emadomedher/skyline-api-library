@@ -1,0 +1,14 @@
+{
+  "id": "unstack",
+  "title": "Unstack",
+  "subtitle": "Build high performance websites, blogs, and landing pages that integrate with your existing marketing stack to drive ...",
+  "tags": [
+    "landing-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580985268/catalog/unstack/icon128x128.jpg",
+  "website": "https://www.unstack.com/",
+  "docsUrl": "https://www.unstack.com/developers/themes"
+}

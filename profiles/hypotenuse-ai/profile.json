@@ -1,0 +1,14 @@
+{
+  "id": "hypotenuse-ai",
+  "title": "Hypotenuse AI",
+  "subtitle": "AI generated e-commerce product descriptions, advertising captions, and other forms of copywriting.",
+  "tags": [
+    "product-description-generators",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623252680/icons/hypotenuse-ai.png",
+  "website": "https://www.hypotenuse.ai/"
+}

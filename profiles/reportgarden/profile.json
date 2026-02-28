@@ -1,0 +1,14 @@
+{
+  "id": "reportgarden",
+  "title": "ReportGarden",
+  "subtitle": "ReportGarden helps online ad agencies create performance reports, invoices, manage campaign budgets and site audits.",
+  "tags": [
+    "reports",
+    "proposals-&-invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305863/catalog/reportgarden/icon128x128.png",
+  "website": "https://reportgarden.com"
+}

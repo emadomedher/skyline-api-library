@@ -1,0 +1,15 @@
+{
+  "id": "bankopen-co",
+  "title": "Open",
+  "subtitle": "Open is a neobanking platform that allows businesses to create GST invoices, send & receive payments, manage cash-flo...",
+  "tags": [
+    "challenger-banks",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574179180/catalog/bankopen-co/icon128x128.jpg",
+  "website": "https://www.bankopen.co/",
+  "docsUrl": "https://developers.bankopen.co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gigya",
+  "title": "Gigya",
+  "subtitle": "Build transparent and customized customer relationships with SAP Customer Data Cloud, customer management and databas...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946968/catalog/gigya/icon128x128.jpg",
+  "website": "https://gigya.com"
+}

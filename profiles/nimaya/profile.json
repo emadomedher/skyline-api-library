@@ -1,0 +1,13 @@
+{
+  "id": "nimaya",
+  "title": "Nimaya",
+  "subtitle": "Nimaya's ActionBridge enables users of SaaS-based applications to proactively alert and prompt sales and support staf...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963506/catalog/nimaya/icon128x128.png",
+  "website": "https://nimaya.com"
+}

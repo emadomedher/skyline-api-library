@@ -1,0 +1,14 @@
+{
+  "id": "legal-io",
+  "title": "Legal.io",
+  "subtitle": "A better way to hire legal talent. Legal.io helps you hire attorneys and other legal professionals on a temporary and...",
+  "tags": [
+    "legaltech",
+    "job-boards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618704561/icons/legal-io.png",
+  "website": "https://www.legal.io/"
+}

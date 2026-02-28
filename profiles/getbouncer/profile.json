@@ -1,0 +1,15 @@
+{
+  "id": "getbouncer",
+  "title": "Bouncer",
+  "subtitle": "Bouncer is an SDK for scanning and verifying credit cards and photo IDs in mobile apps.",
+  "tags": [
+    "payments",
+    "card-authentication"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621109278/icons/getbouncer.png",
+  "website": "https://www.getbouncer.com/",
+  "docsUrl": "https://docs.getbouncer.com"
+}

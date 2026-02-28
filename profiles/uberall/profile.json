@@ -1,0 +1,14 @@
+{
+  "id": "uberall",
+  "title": "Uberall",
+  "subtitle": "Grow your brand in the age of ‘Near Me’. Own the journey, from online interactions to offline sales. Contact us now!",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554482111/catalog/uberall/icon128x128.png",
+  "website": "https://uberall.com",
+  "docsUrl": "https://uberall.com/en/developers"
+}

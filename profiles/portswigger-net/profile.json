@@ -1,0 +1,14 @@
+{
+  "id": "portswigger-net",
+  "title": "Burp Suite",
+  "subtitle": "PortSwigger offers tools for web application security, testing & scanning. Choose from a wide range of security tools...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581261875/catalog/portswigger-net/icon128x128.jpg",
+  "website": "https://portswigger.net/",
+  "docsUrl": "https://portswigger.net/developers"
+}

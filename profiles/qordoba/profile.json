@@ -1,0 +1,13 @@
+{
+  "id": "qordoba",
+  "title": "Qordoba",
+  "subtitle": "Take control of your user-facing content to produce more impactful and consistent copy, at scale.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827319/catalog/qordoba/icon128x128.jpg",
+  "website": "https://qordoba.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "benify",
+  "title": "Benify",
+  "subtitle": "Benify offers the market’s leading global benefits and total rewards platform. Engage your employees anywhere, anytim...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663261432/icons/benify.jpg",
+  "website": "https://www.benify.com/",
+  "docsUrl": "https://www.benify.com/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shipstation",
+  "title": "ShipStation",
+  "subtitle": "ShipStation helps eCommerce retailers organize, process, and fulfill their orders from all the most popular marketpla...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306065/catalog/shipstation/icon128x128.png",
+  "website": "https://www.shipstation.com/"
+}

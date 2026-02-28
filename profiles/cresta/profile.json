@@ -1,0 +1,13 @@
+{
+  "id": "cresta",
+  "title": "Cresta",
+  "subtitle": "Self-service, live coaching, and post call insights. AI that uncovers expertise so teams can make every customer conv...",
+  "tags": [
+    "conversational-ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644889738/icons/cresta.jpg",
+  "website": "https://cresta.com/"
+}

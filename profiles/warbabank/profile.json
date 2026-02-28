@@ -1,0 +1,13 @@
+{
+  "id": "warbabank",
+  "title": "Warba Bank",
+  "subtitle": "Warba Bank strives towards becoming an Islamic Corporate and Investment Banking Champion with a lean digitally enable...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624221126/icons/warbabank.jpg",
+  "website": "https://www.warbabank.com/"
+}

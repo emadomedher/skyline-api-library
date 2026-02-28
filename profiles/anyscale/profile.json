@@ -1,0 +1,13 @@
+{
+  "id": "anyscale",
+  "title": "Anyscale",
+  "subtitle": "From the creators of Ray, a framework for building machine learning applications at any scale originating from the UC...",
+  "tags": [
+    "edge-computing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603589781/icons/anyscale.jpg",
+  "website": "https://www.anyscale.com/"
+}

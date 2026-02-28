@@ -1,0 +1,13 @@
+{
+  "id": "form3-tech",
+  "title": "Form3",
+  "subtitle": "Form3 is on a mission to redefine what a truly instant payment experience means, offering a cloud-native, single API ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608287818/icons/form3-tech.jpg",
+  "website": "https://www.form3.tech/"
+}

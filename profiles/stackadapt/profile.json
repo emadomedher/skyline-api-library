@@ -1,0 +1,13 @@
+{
+  "id": "stackadapt",
+  "title": "StackAdapt",
+  "subtitle": "StackAdapt is the self-serve programmatic advertising platform used by North America's most exceptional digital marke...",
+  "tags": [
+    "nativecontent-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437672/catalog/stackadapt/icon128x128.png",
+  "website": "https://stackadapt.com"
+}

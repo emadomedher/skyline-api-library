@@ -1,0 +1,14 @@
+{
+  "id": "applauz-me",
+  "title": "Applauz Recognition",
+  "subtitle": "Grow company culture, support the corporate mission, reduce churn, and boost productivity with Applauz.",
+  "tags": [
+    "employee-recognition",
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658957509/icons/applauz-me.jpg",
+  "website": "https://www.applauz.me/"
+}

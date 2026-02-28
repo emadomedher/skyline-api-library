@@ -1,0 +1,16 @@
+{
+  "id": "verygoodsecurity",
+  "title": "Very Good Security",
+  "subtitle": "Very Good Security (VGS) lets you operate on sensitive data without the cost or liability of securing the data. VGS a...",
+  "tags": [
+    "data-security",
+    "compliance",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571958122/catalog/verygoodsecurity/icon128x128.jpg",
+  "website": "https://www.verygoodsecurity.com/",
+  "docsUrl": "https://www.verygoodsecurity.com/#"
+}

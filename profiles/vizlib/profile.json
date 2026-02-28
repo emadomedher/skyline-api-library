@@ -1,0 +1,14 @@
+{
+  "id": "vizlib",
+  "title": "Vizlib",
+  "subtitle": "This is an example page. It’s different from a blog post because it will stay in one place and will show up in your s...",
+  "tags": [
+    "dashboards",
+    "bi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600883377/icons/vizlib.jpg",
+  "website": "https://home.vizlib.com/"
+}

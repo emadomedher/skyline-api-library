@@ -1,0 +1,13 @@
+{
+  "id": "easyorderapp",
+  "title": "EasyOrder",
+  "subtitle": "Save time and money with your branded online ordering app. Reward loyal customers with ease and build a sustainable F...",
+  "tags": [
+    "online-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975845/icons/easyorderapp.jpg",
+  "website": "https://www.easyorderapp.com/en"
+}

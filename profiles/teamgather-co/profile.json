@@ -1,0 +1,15 @@
+{
+  "id": "teamgather-co",
+  "title": "Gather",
+  "subtitle": "People Operations and HR teams use Gather to eliminate manual coordination with smart, automated communication powere...",
+  "tags": [
+    "people-ops",
+    "hr",
+    "remote"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598255887/icons/teamgather-co.jpg",
+  "website": "https://www.teamgather.co/"
+}

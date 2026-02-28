@@ -1,0 +1,13 @@
+{
+  "id": "workforcenext-in",
+  "title": "Workforce Next",
+  "subtitle": "WorkforceNext is employee time tracking, Automated timesheet & monitoring platform for Workforce & fieldforce",
+  "tags": [
+    "workforce-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659539014/icons/workforcenext-in.jpg",
+  "website": "https://workforcenext.in/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "querylayer",
+  "title": "QueryLayer",
+  "subtitle": "QueryLayer is a fully managed data security and data privacy service that uses machine learning and pattern matching ...",
+  "tags": [
+    "data-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604671331/icons/querylayer.jpg",
+  "website": "https://www.querylayer.com/",
+  "docsUrl": "https://www.querylayer.com/developers"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "listing-booster",
+  "title": "Listing Booster",
+  "subtitle": "Listing Booster is a fully automated property marketing system specialized in lead generation. The system is designed...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284550/catalog/listing-booster/icon128x128.png"
+}

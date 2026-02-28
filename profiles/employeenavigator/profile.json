@@ -1,0 +1,16 @@
+{
+  "id": "employeenavigator",
+  "title": "Employee Navigator",
+  "subtitle": "Employee Navigator builds benefit administration and HR software for health insurance brokers to manage benefits, onb...",
+  "tags": [
+    "hris",
+    "payroll",
+    "benefits-administration"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568753/icons/employeenavigator.jpg",
+  "website": "https://www.employeenavigator.com/",
+  "docsUrl": "https://docs.microsoft.com/en-us/azure/virtual-machines/windows/faq-for-disks#managed-disks-and-storage-service-encryption."
+}

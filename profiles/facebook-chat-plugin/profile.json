@@ -1,0 +1,13 @@
+{
+  "id": "facebook-chat-plugin",
+  "title": "Facebook Chat Plugin",
+  "subtitle": "Facebook Chat Plugin API integration",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577527283/catalog/facebook-chat-plugin/icon128x128.png",
+  "website": "https://developers.facebook.com/docs/messenger-platform/discovery/customer-chat-plugin/"
+}

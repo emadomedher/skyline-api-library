@@ -1,0 +1,14 @@
+{
+  "id": "zegal",
+  "title": "Zegal",
+  "subtitle": "From Zero to Legal Our platform takes your legal back-office online Save up to 90% on legal fees Send smarter contrac...",
+  "tags": [
+    "legal-document"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582062001/catalog/zegal/icon128x128.jpg",
+  "website": "https://zegal.com/",
+  "docsUrl": "https://zegal.com/en-gb/all-docs"
+}

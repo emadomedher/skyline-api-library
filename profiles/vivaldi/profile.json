@@ -1,0 +1,13 @@
+{
+  "id": "vivaldi",
+  "title": "Vivaldi",
+  "subtitle": "Vivaldi browser is a fast, private and secure browser that blocks ads and trackers. It puts you in control with uniqu...",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587645891/catalog/vivaldi/icon128x128.jpg",
+  "website": "https://vivaldi.com/"
+}

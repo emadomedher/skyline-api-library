@@ -1,0 +1,13 @@
+{
+  "id": "zilmoney",
+  "title": "Zil Money",
+  "subtitle": "Zil Money API integration",
+  "tags": [
+    "ach-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655763521/icons/zilmoney.jpg",
+  "website": "https://zilmoney.com/"
+}

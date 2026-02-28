@@ -1,0 +1,13 @@
+{
+  "id": "facedominator",
+  "title": "FaceDominator",
+  "subtitle": "FaceDominator API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963893/catalog/facedominator/icon128x128.png",
+  "website": "https://facedominator.com"
+}

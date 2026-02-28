@@ -1,0 +1,13 @@
+{
+  "id": "apptopia",
+  "title": "Apptopia",
+  "subtitle": "Apptopia provides app publishers & developers access to app intelligence worldwide. Identify store trends, SDKs & opp...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947264/catalog/apptopia/icon128x128.jpg",
+  "website": "https://apptopia.com"
+}

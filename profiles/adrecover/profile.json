@@ -1,0 +1,13 @@
+{
+  "id": "adrecover",
+  "title": "Adrecover",
+  "subtitle": "Adrecover API integration",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554481459/catalog/adrecover/icon128x128.png",
+  "website": "https://adrecover.com"
+}

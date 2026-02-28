@@ -1,0 +1,13 @@
+{
+  "id": "bgl-lu",
+  "title": "BGL BNP Paribas",
+  "subtitle": "BGL BNP Paribas is a Luxembourg bank founded on 29 September 1919. Since May 2009, the bank has been a member of the ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621864563/icons/bgl-lu.jpg",
+  "website": "https://www.bgl.lu/en/individuals.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "paymentcorner",
+  "title": "Payment Corner",
+  "subtitle": "Nous sommes votre partenaire pour optimiser et économiser sur vos paiements en monnaies étrangères. En toute sécurité...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612303703/icons/paymentcorner.png",
+  "website": "https://www.paymentcorner.com/"
+}

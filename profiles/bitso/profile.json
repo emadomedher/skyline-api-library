@@ -1,0 +1,14 @@
+{
+  "id": "bitso",
+  "title": "Bitso",
+  "subtitle": "Buy and sell bitcoin and other cryptocurrencies anytime and from anywhere.",
+  "tags": [
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630633519/icons/bitso.png",
+  "website": "https://bitso.com/",
+  "docsUrl": "https://bitso.com/api_info"
+}

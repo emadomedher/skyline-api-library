@@ -1,0 +1,14 @@
+{
+  "id": "zapier-push",
+  "title": "Push by Zapier",
+  "subtitle": "Push by Zapier is a Google Chrome extension that lets you kick off workflows from anywhere on the web. To get started...",
+  "tags": [
+    "zapier-tools",
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809843/catalog/zapier-push/icon128x128.png",
+  "website": "https://zapier.com/"
+}

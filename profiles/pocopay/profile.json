@@ -1,0 +1,13 @@
+{
+  "id": "pocopay",
+  "title": "Pocopay",
+  "subtitle": "Pocopay is a beautiful banking account for people that are always on-the-go. It is easy to open, fun and secure to us...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074593/icons/pocopay.jpg",
+  "website": "https://pocopay.com/"
+}

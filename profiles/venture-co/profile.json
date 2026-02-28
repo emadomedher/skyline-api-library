@@ -1,0 +1,14 @@
+{
+  "id": "venture-co",
+  "title": "VENTURE.co",
+  "subtitle": "Introduce qualified investors to your private capital raise As a FINRA-member broker-dealer we offer private capital ...",
+  "tags": [
+    "investment-banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582966220/catalog/venture-co/icon128x128.png",
+  "website": "https://www.venture.co/"
+}

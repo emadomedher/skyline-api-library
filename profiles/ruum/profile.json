@@ -1,0 +1,13 @@
+{
+  "id": "ruum",
+  "title": "Ruum by SAP",
+  "subtitle": "Ruum by SAP is a project management platform to help with task management, timelines, file storage and team collabora...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305943/catalog/ruum/icon128x128.png",
+  "website": "https://ruumapp.com"
+}

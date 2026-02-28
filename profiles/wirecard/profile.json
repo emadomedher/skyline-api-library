@@ -1,0 +1,13 @@
+{
+  "id": "wirecard",
+  "title": "Wirecard",
+  "subtitle": "Wirecard – fully integrated, digital financial commerce platform. We offer worldwide services for innovative digital ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573699472/catalog/wirecard/icon128x128.jpg",
+  "website": "https://www.wirecard.com/"
+}

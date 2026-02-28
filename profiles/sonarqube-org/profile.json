@@ -1,0 +1,16 @@
+{
+  "id": "sonarqube-org",
+  "title": "SonarQube",
+  "subtitle": "Catch bugs and vulnerabilities in your app, with thousands of automated Static Code Analysis rules.",
+  "tags": [
+    "code-quality",
+    "code-security",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587750124/catalog/sonarqube-org/icon128x128.jpg",
+  "website": "https://www.sonarqube.org/",
+  "docsUrl": "https://www.sonarqube.org/developer-edition"
+}

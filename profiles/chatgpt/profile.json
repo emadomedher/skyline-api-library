@@ -1,0 +1,14 @@
+{
+  "id": "chatgpt",
+  "title": "ChatGPT",
+  "subtitle": "ChatGPT is a chatbot launched by OpenAI in November 2022. It is built on top of OpenAI's GPT-3 family of large langua...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675282596/icons/chatgpt.jpg",
+  "website": "https://openai.com/blog/chatgpt/",
+  "docsUrl": "https://platform.openai.com/docs/api-reference"
+}

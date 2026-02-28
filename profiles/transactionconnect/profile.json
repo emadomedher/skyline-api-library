@@ -1,0 +1,13 @@
+{
+  "id": "transactionconnect",
+  "title": "transactioncon",
+  "subtitle": "Transaction Connect turns any payment card into a loyalty card to offer malls the first spending based loyalty program.",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590748090/catalog/transactionconnect/icon128x128.png",
+  "website": "https://www.transactionconnect.com/"
+}

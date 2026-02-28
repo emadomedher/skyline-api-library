@@ -1,0 +1,13 @@
+{
+  "id": "splitter",
+  "title": "Splitter",
+  "subtitle": "Splitter API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437628/catalog/splitter/icon128x128.png",
+  "website": "https://splitterhq.com"
+}

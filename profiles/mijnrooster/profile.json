@@ -1,0 +1,12 @@
+{
+  "id": "mijnrooster",
+  "title": "Mijnrooster",
+  "subtitle": "Mijnrooster® is het eerste Nederlandse online personeelsplanningsysteem voor het eenvoudig plannen van uw medewerkers.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256946/catalog/mijnrooster/icon128x128.jpg"
+}

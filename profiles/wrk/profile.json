@@ -1,0 +1,13 @@
+{
+  "id": "wrk",
+  "title": "Wrk",
+  "subtitle": "Give your business access to powerful automation with bots, APIs, RPA, and real human Wrkers in one simple platform. ...",
+  "tags": [
+    "rpa"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649710799/icons/wrk.jpg",
+  "website": "https://wrk.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "saleshacker",
+  "title": "Sales Hacker",
+  "subtitle": "The World's Largest Community for B2B Sales",
+  "tags": [
+    "communities",
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583142255/catalog/saleshacker/icon128x128.png",
+  "website": "https://www.saleshacker.com/"
+}

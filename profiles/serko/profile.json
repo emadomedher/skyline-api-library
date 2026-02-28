@@ -1,0 +1,13 @@
+{
+  "id": "serko",
+  "title": "Serko",
+  "subtitle": "Corporate travel management made simpler with Serko's software. Significant savings on your travel budget and time-ef...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625461449/icons/serko.png",
+  "website": "https://www.serko.com/"
+}

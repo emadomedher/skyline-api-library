@@ -1,0 +1,15 @@
+{
+  "id": "cachethq-io",
+  "title": "Cachet",
+  "subtitle": "Cachet is the free and open source status page for your API, service or company. Built with all of the features that ...",
+  "tags": [
+    "hosted-status-pages",
+    "opensource"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565277368/catalog/cachethq-io/icon128x128.png",
+  "website": "https://cachethq.io",
+  "docsUrl": "https://docs.cachethq.io"
+}

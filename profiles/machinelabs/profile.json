@@ -1,0 +1,14 @@
+{
+  "id": "machinelabs",
+  "title": "Machine Labs",
+  "subtitle": "Integrate Machine Labs with your Shopify store and start creating meaningful relationships with your customers. Analy...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614184215/icons/machinelabs.jpg",
+  "website": "https://www.machinelabs.com/",
+  "docsUrl": "https://www.machinelabs.com/learn/api"
+}

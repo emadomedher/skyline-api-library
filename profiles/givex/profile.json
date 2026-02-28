@@ -1,0 +1,13 @@
+{
+  "id": "givex",
+  "title": "Givex",
+  "subtitle": "Givex provides the restaurant, retail, and QSR industries with cutting-edge pos (epos) solutions, management systems,...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946965/catalog/givex/icon128x128.png",
+  "website": "https://givex.com"
+}

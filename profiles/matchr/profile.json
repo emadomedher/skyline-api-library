@@ -1,0 +1,13 @@
+{
+  "id": "matchr",
+  "title": "Matchr",
+  "subtitle": "Matchr™ offers free and personalized HR software matches based on your company’s unique needs. Find the top HR softwa...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658250608/icons/matchr.png",
+  "website": "https://matchr.com/"
+}

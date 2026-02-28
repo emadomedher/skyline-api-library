@@ -1,0 +1,13 @@
+{
+  "id": "showhows",
+  "title": "ShowHows",
+  "subtitle": "ShowHows API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437323/catalog/showhows/icon128x128.png",
+  "website": "https://showho.ws"
+}

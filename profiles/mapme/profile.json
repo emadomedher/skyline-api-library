@@ -1,0 +1,13 @@
+{
+  "id": "mapme",
+  "title": "MapMe",
+  "subtitle": "Build beautiful interactive maps. Add locations with photos, video, 360 tours. Create categories and filters. Import ...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946843/catalog/mapme/icon128x128.png",
+  "website": "https://mapme.com"
+}

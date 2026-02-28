@@ -1,0 +1,15 @@
+{
+  "id": "unisender",
+  "title": "Unisender",
+  "subtitle": "UniSender is one of the leading email marketing service providers in the Eastern Europe, provides Email and SMS deliv...",
+  "tags": [
+    "transactional-email",
+    "marketing-automation",
+    "email-newsletters"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306480/catalog/unisender/icon128x128.png",
+  "website": "https://plus.unisender.com"
+}

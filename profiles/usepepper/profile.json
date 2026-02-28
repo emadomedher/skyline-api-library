@@ -1,0 +1,13 @@
+{
+  "id": "usepepper",
+  "title": "Pepper",
+  "subtitle": "Restock your shelves online with essential food & kitchen staples from New York City's most trusted local suppliers.",
+  "tags": [
+    "food-supply-chain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821121/catalog/usepepper/icon128x128.jpg",
+  "website": "https://www.usepepper.com/"
+}

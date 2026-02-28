@@ -1,0 +1,13 @@
+{
+  "id": "ravenpack",
+  "title": "RavenPack",
+  "subtitle": "RavenPack is the leading Data Analytics Platform for Financial Professionals. Our Analytics Platform saves you time, ...",
+  "tags": [
+    "data-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746574/icons/ravenpack.jpg",
+  "website": "https://www.ravenpack.com/"
+}

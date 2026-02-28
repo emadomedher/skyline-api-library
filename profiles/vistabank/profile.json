@@ -1,0 +1,13 @@
+{
+  "id": "vistabank",
+  "title": "Vista Bank",
+  "subtitle": "Vista Bank is one of only a handful of 100-year old Texas banks, that survived the Dust Bowl and is still operated by...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601691157/icons/vistabank.png",
+  "website": "https://www.vistabank.com/"
+}

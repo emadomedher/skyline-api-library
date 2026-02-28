@@ -1,0 +1,12 @@
+{
+  "id": "cypher-learning",
+  "title": "Cypher Learning",
+  "subtitle": "CYPHER LEARNING is a company that specializes in providing learning platforms for organizations around the world.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304729/catalog/cypher-learning/icon128x128.png"
+}

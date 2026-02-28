@@ -1,0 +1,13 @@
+{
+  "id": "inmotionhosting",
+  "title": "InMotion Hosting",
+  "subtitle": "Secure, reliable, fast performance for all your web hosting needs with 24/7 support and a 100%\nsatisfaction guarantee.",
+  "tags": [
+    "hosting"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577682181/catalog/inmotionhosting/icon128x128.png",
+  "website": "https://www.inmotionhosting.com/"
+}

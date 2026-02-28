@@ -1,0 +1,13 @@
+{
+  "id": "zoominfo-talentos",
+  "title": "ZoomInfo TalentOS",
+  "subtitle": "Promote your candidate pipeline with ZoomInfo's leading B2B data for recruiters. Seamlessly integrate with your exist...",
+  "tags": [
+    "recruitment-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657626525/icons/zoominfo-talentos.png",
+  "website": "https://www.zoominfo.com/solutions/recruiting"
+}

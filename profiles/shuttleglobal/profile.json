@@ -1,0 +1,16 @@
+{
+  "id": "shuttleglobal",
+  "title": "Shuttle",
+  "subtitle": "Pay with Bolt enables SaaS to connect to multiple payment providers with one API; win more merchants by allowing them...",
+  "tags": [
+    "payments",
+    "api",
+    "payment-gateway-api"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572444992/catalog/shuttleglobal/icon128x128.png",
+  "website": "https://shuttleglobal.com",
+  "docsUrl": "https://shuttleglobal.com/software-providers/platform"
+}

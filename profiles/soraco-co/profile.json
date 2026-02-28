@@ -1,0 +1,13 @@
+{
+  "id": "soraco-co",
+  "title": "Soraco",
+  "subtitle": "Protect your application with SORACO's secure asymmetric license keys, on multiple platforms. Contact us for more inf...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567217499/catalog/soraco-co/icon128x128.png",
+  "website": "https://soraco.co/"
+}

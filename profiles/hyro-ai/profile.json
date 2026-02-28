@@ -1,0 +1,14 @@
+{
+  "id": "hyro-ai",
+  "title": "Hyro",
+  "subtitle": "A stellar customer journey starts with conversational AI. Take complex data and turn it into simple dialogue across a...",
+  "tags": [
+    "conversational-ai",
+    "chat-bots"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614225522/icons/hyro-ai.png",
+  "website": "https://www.hyro.ai/"
+}

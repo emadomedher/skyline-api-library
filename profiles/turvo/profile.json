@@ -1,0 +1,13 @@
+{
+  "id": "turvo",
+  "title": "Turvo",
+  "subtitle": "Turvo is the world’s leading transportation management system with a collaborative layer that unifies people, process...",
+  "tags": [
+    "transportation-management-system"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660569867/icons/turvo.jpg",
+  "website": "https://turvo.com/"
+}

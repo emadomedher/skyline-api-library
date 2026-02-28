@@ -1,0 +1,15 @@
+{
+  "id": "structurizr",
+  "title": "Structurizr",
+  "subtitle": "Visualise, document and explore your software architecture with Structurizr",
+  "tags": [
+    "software-modelling",
+    "diagramming"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599954245/icons/structurizr.png",
+  "website": "https://structurizr.com/",
+  "docsUrl": "https://structurizr.com/help/documentation"
+}

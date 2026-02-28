@@ -1,0 +1,12 @@
+{
+  "id": "omg-sales-assessments",
+  "title": "OMG Sales Assessments",
+  "subtitle": "Objective Management Group's (OMG) Sales Candidate Assessment is a sales-specific screening tool that provides an ana...",
+  "tags": [
+    "reports"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305559/catalog/omg-sales-assessments/icon128x128.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "prisync",
+  "title": "Prisync",
+  "subtitle": "Prisync's competitor price tracking and competitor price monitoring software increases your sales growth & profit mar...",
+  "tags": [
+    "competitor-price-tracking"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606704899/icons/prisync.jpg",
+  "specUrl": "https://prisync.com/apidoc/doc/api-v2-swagger-docs.yaml",
+  "website": "https://prisync.com/",
+  "docsUrl": "https://prisync.com/apidoc/doc/api-v2-swagger-docs.yaml"
+}

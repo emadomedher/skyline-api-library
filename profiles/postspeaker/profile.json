@@ -1,0 +1,13 @@
+{
+  "id": "postspeaker",
+  "title": "PostSpeaker",
+  "subtitle": "PostSpeaker is the only social sharing tool that posts your content automatically to your ambassadors' social media a...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721563/catalog/postspeaker/icon128x128.jpg",
+  "website": "https://postspeaker.com"
+}

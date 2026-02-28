@@ -1,0 +1,15 @@
+{
+  "id": "transcend-io",
+  "title": "Transcend",
+  "subtitle": "Transcend gives you a customer-facing Privacy Center and powers incoming data rights requests across your distributed...",
+  "tags": [
+    "privacy",
+    "compliance",
+    "consent-management-platform"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982414/catalog/transcend-io/icon128x128.jpg",
+  "website": "https://transcend.io/"
+}

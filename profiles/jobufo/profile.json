@@ -1,0 +1,13 @@
+{
+  "id": "jobufo",
+  "title": "JobUFO",
+  "subtitle": "Discover jobs that suit you. Register today and apply with a video clip!",
+  "tags": [
+    "job-marketplace"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586953425/catalog/jobufo/icon128x128.png",
+  "website": "https://www.jobufo.com/en/"
+}

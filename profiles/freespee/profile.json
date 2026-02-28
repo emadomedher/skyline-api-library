@@ -1,0 +1,13 @@
+{
+  "id": "freespee",
+  "title": "Freespee",
+  "subtitle": "Freespee is a cloud communication platform that helps marketing, sales & service teams track customers with call trac...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720161/catalog/freespee/icon128x128.jpg",
+  "website": "https://freespee.com"
+}

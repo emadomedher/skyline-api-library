@@ -1,0 +1,12 @@
+{
+  "id": "cloud-attract",
+  "title": "Cloud Attract",
+  "subtitle": "Cloud Attract is a lead capture tool to attract buyers and sellers with beautiful landing pages that automatically re...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304638/catalog/cloud-attract/icon128x128.png"
+}

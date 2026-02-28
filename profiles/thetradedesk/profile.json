@@ -1,0 +1,14 @@
+{
+  "id": "thetradedesk",
+  "title": "The Trade Desk",
+  "subtitle": "Our mission is to transform media for the benefit of humankind. How? By helping brands deliver a more insightful & re...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600770471/icons/thetradedesk.jpg",
+  "website": "https://thetradedesk.com",
+  "docsUrl": "https://api.thetradedesk.com/v3/portal/api/doc/apioverview"
+}

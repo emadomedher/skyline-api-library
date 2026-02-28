@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-flow",
+  "title": "Microsoft Flow",
+  "subtitle": "Automate tasks by integrating your favorite apps with Microsoft Flow. Make repetitive tasks easy with workflow automa...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546980863/catalog/microsoft-flow/icon128x128.png",
+  "website": "https://flow.microsoft.com/en-us/"
+}

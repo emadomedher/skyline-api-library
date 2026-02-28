@@ -1,0 +1,14 @@
+{
+  "id": "devolksbank",
+  "title": "de Volksbank",
+  "subtitle": "de Volksbank API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591640864/icons/devolksbank.jpg",
+  "website": "https://www.devolksbank.nl/home.html",
+  "docsUrl": "https://innovatie.devolksbank.nl/cases/api-koppelingen/"
+}

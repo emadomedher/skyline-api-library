@@ -1,0 +1,14 @@
+{
+  "id": "neo4j",
+  "title": "Neo4j",
+  "subtitle": "Meet Neo4j: The graph database platform powering today's mission-critical enterprise applications, including artifici...",
+  "tags": [
+    "graph-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579907501/catalog/neo4j/icon128x128.jpg",
+  "website": "https://neo4j.com/",
+  "docsUrl": "https://neo4j.com/developer/graph-db-rdbms"
+}

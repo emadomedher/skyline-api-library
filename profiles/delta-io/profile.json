@@ -1,0 +1,15 @@
+{
+  "id": "delta-io",
+  "title": "DeltaLakeOSS",
+  "subtitle": "DeltaLakeOSS API integration",
+  "tags": [
+    "data-lakes",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571955928/catalog/delta-io/icon128x128.png",
+  "website": "https://delta.io/",
+  "docsUrl": "https://docs.delta.io/latest/index.html"
+}

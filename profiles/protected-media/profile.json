@@ -1,0 +1,13 @@
+{
+  "id": "protected-media",
+  "title": "Protected Media",
+  "subtitle": "Leading provider of mobile advertising verification. Detect & classify Ad-Fraud, Non-Viewable Impressions & Brand Saf...",
+  "tags": [
+    "brand-protection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415409/catalog/protected-media/icon128x128.png",
+  "website": "https://www.protected.media/"
+}

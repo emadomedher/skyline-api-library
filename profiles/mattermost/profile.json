@@ -1,0 +1,15 @@
+{
+  "id": "mattermost",
+  "title": "Mattermost",
+  "subtitle": "Enterprise team collaboration and messaging that deploys on-premise or to cloud infrastructure under IT control.",
+  "tags": [
+    "team-collaboration",
+    "team-chat"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305408/catalog/mattermost/icon128x128.png",
+  "website": "https://mattermost.com/",
+  "docsUrl": "https://mattermost.com/devops"
+}

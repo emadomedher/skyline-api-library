@@ -1,0 +1,14 @@
+{
+  "id": "uptime",
+  "title": "Uptime.com",
+  "subtitle": "Get uptime monitoring from Uptime.com. Automate website availability monitoring and server uptime/downtime checks. St...",
+  "tags": [
+    "uptime-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583563229/catalog/uptime/icon128x128.png",
+  "website": "https://uptime.com/",
+  "docsUrl": "https://uptime.com/api/v1/docs"
+}

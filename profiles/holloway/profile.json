@@ -1,0 +1,13 @@
+{
+  "id": "holloway",
+  "title": "Holloway",
+  "subtitle": "Comprehensive, practical Guides, each researched, written, and refined by experts.",
+  "tags": [
+    "knowledge"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564690224/catalog/holloway/icon128x128.jpg",
+  "website": "https://holloway.com"
+}

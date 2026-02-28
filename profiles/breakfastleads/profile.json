@@ -1,0 +1,15 @@
+{
+  "id": "breakfastleads",
+  "title": "BreakfastLeads",
+  "subtitle": "Imagine waking up every morning with a fresh batch of leads in your mailbox. Breakfastleads offers exactly that.",
+  "tags": [
+    "lead-generation",
+    "anonymous-traffic-identification"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590554/icons/breakfastleads.jpg",
+  "website": "https://www.breakfastleads.com/",
+  "docsUrl": "https://www.breakfastleads.com/documentation"
+}

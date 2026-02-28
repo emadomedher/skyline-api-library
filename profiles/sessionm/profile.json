@@ -1,0 +1,13 @@
+{
+  "id": "sessionm",
+  "title": "SessionM",
+  "subtitle": "SessionM API integration",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437263/catalog/sessionm/icon128x128.png",
+  "website": "https://sessionm.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "martech-zone",
+  "title": "MarTech Zone",
+  "subtitle": "MarTech Zone API integration",
+  "tags": [
+    "vendor-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435783/catalog/martech-zone/icon128x128.png",
+  "website": "https://martech.zone"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "amazon-ec2",
+  "title": "Amazon EC2",
+  "subtitle": "Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides resizable compute capacity in the cloud. It ...",
+  "tags": [
+    "cms",
+    "aws"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054194/catalog/amazon-ec2/icon128x128.png"
+}

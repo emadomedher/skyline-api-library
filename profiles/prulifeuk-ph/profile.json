@@ -1,0 +1,15 @@
+{
+  "id": "prulifeuk-ph",
+  "title": "Pru Life UK",
+  "subtitle": "Protect yourself and your loved ones with Pru Life UK. We offer life insurance plans that suit your changing needs so...",
+  "tags": [
+    "life-insurance",
+    "health-insurance",
+    "financial-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640007318/icons/prulifeuk-ph.jpg",
+  "website": "https://www.prulifeuk.com.ph/"
+}

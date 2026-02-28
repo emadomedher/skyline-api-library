@@ -1,0 +1,14 @@
+{
+  "id": "infura-io",
+  "title": "Infura",
+  "subtitle": "Infura's development suite provides instant, scalable API access to the Ethereum and IPFS networks. Connect your app ...",
+  "tags": [
+    "blockchain-development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637700345/icons/infura-io.jpg",
+  "website": "https://infura.io/",
+  "docsUrl": "https://blog.infura.io/350000-developers-on-infura?utm_source=homepage&utm_medium=banner&utm_campaign=350k"
+}

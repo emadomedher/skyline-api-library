@@ -1,0 +1,13 @@
+{
+  "id": "monaca",
+  "title": "Monaca",
+  "subtitle": "Monaca makes hybrid app development with PhoneGap/Cordova a lot easier with its comprehensive cloud-powered mobile ap...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721155/catalog/monaca/icon128x128.png",
+  "website": "https://monaca.io"
+}

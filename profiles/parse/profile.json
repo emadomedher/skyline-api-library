@@ -1,0 +1,12 @@
+{
+  "id": "parse",
+  "title": "Parse",
+  "subtitle": "Parse makes it easy to add a backend to mobile apps and much, much more. It talks simple JSON but is extremely powerf...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056099/catalog/parse/icon128x128.png"
+}

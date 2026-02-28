@@ -1,0 +1,15 @@
+{
+  "id": "pabbly",
+  "title": "Pabbly",
+  "subtitle": "Automate your sales and marketing with Pabbly. Unite email marketing, lead capture, WordPress themes, subscription al...",
+  "tags": [
+    "marketing-automation",
+    "forms"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599586068/icons/pabbly.png",
+  "website": "https://www.pabbly.com/",
+  "docsUrl": "https://www.pabbly.com/subscriptions/docs/"
+}

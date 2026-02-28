@@ -1,0 +1,13 @@
+{
+  "id": "iris-uk",
+  "title": "IRIS Software Group",
+  "subtitle": "Join us for the launch of the biggest advance in accountancy software innovation since the spreadsheet 19th September...",
+  "tags": [
+    "software-group"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577145767/catalog/iris-uk/icon128x128.jpg",
+  "website": "https://www.iris.co.uk/"
+}

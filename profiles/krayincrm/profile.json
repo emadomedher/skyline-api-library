@@ -1,0 +1,15 @@
+{
+  "id": "krayincrm",
+  "title": "Krayin",
+  "subtitle": "Free & Opensource Laravel CRM solution for SMEs and Enterprises for complete customer lifecycle management.",
+  "tags": [
+    "crm",
+    "open-source"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632258392/icons/krayincrm.jpg",
+  "website": "https://krayincrm.com/",
+  "docsUrl": "https://github.com/krayin/laravel-crm"
+}

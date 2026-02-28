@@ -1,0 +1,15 @@
+{
+  "id": "kwara",
+  "title": "Kwara",
+  "subtitle": "Kwara API integration",
+  "tags": [
+    "fintech",
+    "saccos",
+    "lending"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779848/catalog/kwara/icon128x128.jpg",
+  "website": "https://kwara.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "box",
+  "title": "Box",
+  "subtitle": "Box empowers your teams by making it easy to work with people inside and outside your organization, protect your valu...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632097547/icons/box.jpg",
+  "specUrl": "https://raw.githubusercontent.com/box/box-openapi/en/openapi.json",
+  "website": "https://www.box.com/",
+  "docsUrl": "https://developer.box.com/"
+}

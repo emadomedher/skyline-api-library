@@ -1,0 +1,13 @@
+{
+  "id": "pingometer",
+  "title": "Pingometer",
+  "subtitle": "Pingometer is a service that monitors the uptime, downtime, and performance of websites. Get 24/7 monitoring - sign u...",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583563233/catalog/pingometer/icon128x128.png",
+  "website": "https://pingometer.com/"
+}

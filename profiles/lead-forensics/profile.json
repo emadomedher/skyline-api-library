@@ -1,0 +1,13 @@
+{
+  "id": "lead-forensics",
+  "title": "Lead Forensics",
+  "subtitle": "Lead Forensics is B2B software for turbo-charged lead generation. Identify B2B sales leads you never knew you had.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826802/catalog/lead-forensics/icon128x128.jpg",
+  "website": "https://leadforensics.com"
+}

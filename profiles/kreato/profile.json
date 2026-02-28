@@ -1,0 +1,13 @@
+{
+  "id": "kreato",
+  "title": "Kreato",
+  "subtitle": "Kreato CRM is an AI and Automation powered Sales CRM software. Lead Conversion, Pipeline Management, Sales Automation...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946876/catalog/kreato/icon128x128.jpg",
+  "website": "https://kreatocrm.com"
+}

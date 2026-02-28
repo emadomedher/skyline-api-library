@@ -1,0 +1,13 @@
+{
+  "id": "pagefreezer",
+  "title": "PageFreezer",
+  "subtitle": "Archive your website & social media content on a single platform. PageFreezer archiving software helps you store & ca...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946727/catalog/pagefreezer/icon128x128.png",
+  "website": "https://pagefreezer.com"
+}

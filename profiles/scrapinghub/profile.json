@@ -1,0 +1,14 @@
+{
+  "id": "scrapinghub",
+  "title": "Scrapinghub",
+  "subtitle": "Turn websites into data with the world's leading web scraping services & tools from the creators of Scrapy. Superior ...",
+  "tags": [
+    "scraping"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563044080/catalog/scrapinghub/icon128x128.png",
+  "website": "https://scrapinghub.com",
+  "docsUrl": "https://scrapinghub.com/#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mothership",
+  "title": "Mothership",
+  "subtitle": "Get your pallets delivered same-day, with real-time tracking and endless capacity all accessible from a single dashbo...",
+  "tags": [
+    "freight"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629487065/icons/mothership.jpg",
+  "website": "https://www.mothership.com/",
+  "docsUrl": "https://developers.mothership.com"
+}

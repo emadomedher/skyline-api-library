@@ -1,0 +1,15 @@
+{
+  "id": "courier",
+  "title": "Courier",
+  "subtitle": "Courier is the smartest way to design and deliver notifications. Design once, and deliver to any channel – email, Sla...",
+  "tags": [
+    "notifications",
+    "messaging-api"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599828177/icons/courier.jpg",
+  "website": "https://www.courier.com/",
+  "docsUrl": "https://docs.courier.com/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "appfolio",
+  "title": "AppFolio",
+  "subtitle": "AppFolio property management software is trusted by thousands to get organized, efficient, and profitable. Automate a...",
+  "tags": [
+    "property-managment",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597741961/icons/appfolio.jpg",
+  "website": "https://www.appfolio.com/"
+}

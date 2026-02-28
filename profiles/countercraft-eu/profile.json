@@ -1,0 +1,13 @@
+{
+  "id": "countercraft-eu",
+  "title": "CounterCraft",
+  "subtitle": "CounterCraft Deception Solution detects advanced adversaries. Automate counterintelligence campaigns to discover targ...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592429381/icons/countercraft-eu.jpg",
+  "website": "https://www.countercraft.eu/"
+}

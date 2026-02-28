@@ -1,0 +1,14 @@
+{
+  "id": "ringover",
+  "title": "Ringover",
+  "subtitle": "Set up a powerful calling platform that is integrated with your CRM, accessible on PCs and smartphones and obtain num...",
+  "tags": [
+    "cloud-phone-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619096/icons/ringover.jpg",
+  "website": "https://www.ringover.com/",
+  "docsUrl": "https://developer.ringover.com"
+}

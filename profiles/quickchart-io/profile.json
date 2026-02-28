@@ -1,0 +1,13 @@
+{
+  "id": "quickchart-io",
+  "title": "QuickChart",
+  "subtitle": "Create a chart image with one URL and embed anywhere. Open source, no watermarks.",
+  "tags": [
+    "charting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577969112/catalog/quickchart-io/icon128x128.png",
+  "website": "https://quickchart.io/"
+}

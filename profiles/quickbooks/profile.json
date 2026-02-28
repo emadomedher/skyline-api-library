@@ -1,0 +1,14 @@
+{
+  "id": "quickbooks",
+  "title": "QuickBooks",
+  "subtitle": "QuickBooks is an accounting software package developed and marketed by Intuit. QuickBooks products are geared mainly ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456366/catalog/quickbooks/icon128x128.png",
+  "website": "https://quickbooks.intuit.com/",
+  "docsUrl": "https://developer.intuit.com/app/developer/qbo/docs/develop"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "grassfish",
+  "title": "GrassFish",
+  "subtitle": "Analytics, data, IoT, interactive devices and new technologies can enhance a brick-and-mortar store and turn it into ...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826534/catalog/grassfish/icon128x128.jpg",
+  "website": "https://grassfish.com"
+}

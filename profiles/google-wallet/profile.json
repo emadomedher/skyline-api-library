@@ -1,0 +1,13 @@
+{
+  "id": "google-wallet",
+  "title": "Google Wallet",
+  "subtitle": "Google Wallet, was a separate peer-to-peer payments service developed by Google before its merger into Google Pay. It...",
+  "tags": [
+    "wallets",
+    "p2p-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566765008/catalog/google-wallet/icon128x128.jpg"
+}

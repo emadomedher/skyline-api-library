@@ -1,0 +1,12 @@
+{
+  "id": "qblinks-qmote",
+  "title": "Qblinks Qmote",
+  "subtitle": "Qblinks Qmote is a smart remote button which works with your phone, providing an intuitive way to perform actions whe...",
+  "tags": [
+    "devices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305799/catalog/qblinks-qmote/icon128x128.png"
+}

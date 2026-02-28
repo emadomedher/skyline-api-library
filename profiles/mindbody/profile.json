@@ -1,0 +1,14 @@
+{
+  "id": "mindbody",
+  "title": "Mindbody",
+  "subtitle": "MINDBODY is a powerful business management software that combines your scheduling, task automation, reporting tools a...",
+  "tags": [
+    "scheduling",
+    "management-tools"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056063/catalog/mindbody/icon128x128.png",
+  "website": "https://www.mindbodyonline.com/business"
+}

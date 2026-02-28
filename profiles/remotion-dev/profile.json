@@ -1,0 +1,14 @@
+{
+  "id": "remotion-dev",
+  "title": "Write videos in React ",
+  "subtitle": "Create MP4 motion graphics in React. Leverage CSS, SVG, WebGL and more technologies to render videos programmatically!",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620494214/icons/remotion-dev.png",
+  "website": "https://www.remotion.dev/",
+  "docsUrl": "https://www.remotion.dev/docs"
+}

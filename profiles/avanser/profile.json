@@ -1,0 +1,13 @@
+{
+  "id": "avanser",
+  "title": "Avanser",
+  "subtitle": "Avanser API integration",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719223/catalog/avanser/icon128x128.jpg",
+  "website": "https://avanser.com"
+}

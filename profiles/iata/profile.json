@@ -1,0 +1,14 @@
+{
+  "id": "iata",
+  "title": "International Air Transport Association",
+  "subtitle": "The International Air Transport Association (IATA) supports aviation with global standards for airline safety, securi...",
+  "tags": [
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576974672/catalog/iata/icon128x128.jpg",
+  "website": "https://www.iata.org/",
+  "docsUrl": "https://www.iata.org/en/publications/dgr"
+}

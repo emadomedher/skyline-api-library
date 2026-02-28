@@ -1,0 +1,14 @@
+{
+  "id": "twentytwo-agency",
+  "title": "TwentyTwo",
+  "subtitle": "A High Performance Training and Coaching Programme Led By Amanda C. Watts Helping Accounting Firms Get Advisory and C...",
+  "tags": [
+    "accounting",
+    "services"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566774042/catalog/twentytwo-agency/icon128x128.jpg",
+  "website": "https://twentytwo.agency/"
+}

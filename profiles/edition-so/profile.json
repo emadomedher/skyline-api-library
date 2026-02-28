@@ -1,0 +1,13 @@
+{
+  "id": "edition-so",
+  "title": "Edition",
+  "subtitle": "Edition API integration",
+  "tags": [
+    "community-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628013061/icons/edition-so.png",
+  "website": "https://edition.so/"
+}

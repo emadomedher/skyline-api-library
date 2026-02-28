@@ -1,0 +1,14 @@
+{
+  "id": "codescreen",
+  "title": "CodeScreen",
+  "subtitle": "Discover CodeScreen: Hire better developers faster with real-world coding challenges.",
+  "tags": [
+    "technical-skills-screening"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641943832/icons/codescreen.png",
+  "website": "https://www.codescreen.com/",
+  "docsUrl": "https://code-screen.github.io/docs/#/greenhouse"
+}

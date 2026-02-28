@@ -1,0 +1,14 @@
+{
+  "id": "wso2",
+  "title": "WSO2",
+  "subtitle": "Deliver faster, lower-risk integration projects with WSO2 open source API Management, Enterprise Integration, ESB and...",
+  "tags": [
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578495802/catalog/wso2/icon128x128.jpg",
+  "website": "https://wso2.com/",
+  "docsUrl": "https://wso2.com/architecture"
+}

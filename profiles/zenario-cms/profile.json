@@ -1,0 +1,13 @@
+{
+  "id": "zenario-cms",
+  "title": "Zenario CMS",
+  "subtitle": "One of the world's best multilingual CMS for websites and customer portals, Zenario has an intuitive interface for yo...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828108/catalog/zenario-cms/icon128x128.png",
+  "website": "https://zenar.io"
+}

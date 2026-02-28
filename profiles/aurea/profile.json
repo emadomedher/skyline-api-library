@@ -1,0 +1,13 @@
+{
+  "id": "aurea",
+  "title": "Aurea",
+  "subtitle": "Aurea API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719058/catalog/aurea/icon128x128.jpg",
+  "website": "https://aurea.com"
+}

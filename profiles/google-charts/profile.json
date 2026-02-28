@@ -1,0 +1,13 @@
+{
+  "id": "google-charts",
+  "title": "Google Charts",
+  "subtitle": "Interactive charts for browsers and mobile devices.",
+  "tags": [
+    "charting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577969115/catalog/google-charts/icon128x128.jpg",
+  "website": "https://developers.google.com/chart"
+}

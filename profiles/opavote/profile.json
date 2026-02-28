@@ -1,0 +1,13 @@
+{
+  "id": "opavote",
+  "title": "OpaVote",
+  "subtitle": "OpaVote is a secure, low cost, and easy-to-use service for all your election needs. Try for free to see why election ...",
+  "tags": [
+    "voting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622937952/icons/opavote.png",
+  "website": "https://www.opavote.com/"
+}

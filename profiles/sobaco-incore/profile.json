@@ -1,0 +1,13 @@
+{
+  "id": "sobaco-incore",
+  "title": "SOBACO Solutions",
+  "subtitle": "SOBACO und InCore bieten Banken und Vermögensverwaltern modulare IT- und Outsourcing Lösungen aus einer Hand.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941445/icons/sobaco-incore.png",
+  "website": "https://www.sobaco-incore.com/"
+}

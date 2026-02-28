@@ -1,0 +1,13 @@
+{
+  "id": "sumo",
+  "title": "Sumo",
+  "subtitle": "Tools to grow Your website’s traffic, including email list builders, sharing buttons, and heat maps. Sumo works with ...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056508/catalog/sumo/icon128x128.png",
+  "website": "https://sumo.com/"
+}

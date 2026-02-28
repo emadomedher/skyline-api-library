@@ -1,0 +1,13 @@
+{
+  "id": "contentools",
+  "title": "Contentools",
+  "subtitle": "Contentools is a content marketing platform to streamline and manage content creation. Create. Collaborate. Publish. ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304681/catalog/contentools/icon128x128.png",
+  "website": "https://contenttools.co"
+}

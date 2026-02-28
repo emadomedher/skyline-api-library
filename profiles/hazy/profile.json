@@ -1,0 +1,16 @@
+{
+  "id": "hazy",
+  "title": "Hazy",
+  "subtitle": "Hazy generates smart synthetic data that's safe to use and actually works as a drop in replacement for real data scie...",
+  "tags": [
+    "synthetic-data",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570907114/catalog/hazy/icon128x128.png",
+  "website": "https://hazy.com/",
+  "docsUrl": "https://docs.hazy.com"
+}

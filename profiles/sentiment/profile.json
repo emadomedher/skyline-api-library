@@ -1,0 +1,13 @@
+{
+  "id": "sentiment",
+  "title": "Sentiment ",
+  "subtitle": "Sentiment  API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561400253/catalog/sentiment/icon128x128.png",
+  "website": "https://sentimentmetrics.com"
+}

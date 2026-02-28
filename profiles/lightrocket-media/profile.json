@@ -1,0 +1,13 @@
+{
+  "id": "lightrocket-media",
+  "title": "LightRocket Media",
+  "subtitle": "LightRocket Media API integration",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050347/icons/lightrocket-media.png",
+  "website": "https://lightrocketmedia.com"
+}

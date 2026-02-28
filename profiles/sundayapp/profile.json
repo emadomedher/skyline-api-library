@@ -1,0 +1,15 @@
+{
+  "id": "sundayapp",
+  "title": "sunday",
+  "subtitle": "Pay faster in restaurants",
+  "tags": [
+    "payments",
+    "resttech",
+    "restech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618435365/icons/sundayapp.jpg",
+  "website": "https://sundayapp.com/"
+}

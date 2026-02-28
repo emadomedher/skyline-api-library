@@ -1,0 +1,14 @@
+{
+  "id": "transfergo",
+  "title": "TransferGo",
+  "subtitle": "Send money from Belgium with TransferGo. Low costs & no hidden fees means you can transfer money home, simply & secur...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633417496/icons/transfergo.jpg",
+  "website": "https://www.transfergo.com/",
+  "docsUrl": "https://www.transfergo.com/en-be#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "usermind",
+  "title": "Usermind",
+  "subtitle": "Usermind's Customer Engagement Hub platform creates a single view of the customer and orchestrates customer experienc...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946420/catalog/usermind/icon128x128.jpg",
+  "website": "https://usermind.com"
+}

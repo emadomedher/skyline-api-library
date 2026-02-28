@@ -1,0 +1,14 @@
+{
+  "id": "sprout-ph",
+  "title": "Sprout Solutions",
+  "subtitle": "Simplify HR & payroll tasks with Sprout! We provide an all-in-one solution for timekeeping, employee data management,...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688949915/icons/sprout-ph.jpg",
+  "website": "https://sprout.ph/",
+  "docsUrl": "https://developers.sprout.ph/"
+}

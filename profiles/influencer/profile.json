@@ -1,0 +1,13 @@
+{
+  "id": "influencer",
+  "title": "Influencer",
+  "subtitle": "Influencer is where creative influence happens. With our unique data from our ai-driven influencer marketing platform...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720462/catalog/influencer/icon128x128.jpg",
+  "website": "https://influencer.uk"
+}

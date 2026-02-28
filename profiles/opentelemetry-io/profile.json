@@ -1,0 +1,17 @@
+{
+  "id": "opentelemetry-io",
+  "title": "OpenTelemetry",
+  "subtitle": "The OpenTelemetry Project Site",
+  "tags": [
+    "devops",
+    "observability",
+    "infrastructure-monitoring",
+    "open-standards"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615751386/icons/opentelemetry-io.jpg",
+  "website": "https://opentelemetry.io/",
+  "docsUrl": "https://opentelemetry.io/docs"
+}

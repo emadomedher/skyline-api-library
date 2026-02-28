@@ -1,0 +1,15 @@
+{
+  "id": "doppler",
+  "title": "Doppler",
+  "subtitle": "Doppler is the easiest way to securely manage all your environment variables in one encrypted place. No more sharing ...",
+  "tags": [
+    "secrets-manager",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625066646/icons/doppler.jpg",
+  "website": "https://www.doppler.com/",
+  "docsUrl": "https://docs.doppler.com"
+}

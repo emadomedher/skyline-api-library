@@ -1,0 +1,14 @@
+{
+  "id": "cloudkarafka",
+  "title": "CloudKarafka",
+  "subtitle": "Real-time message streaming as a service. Powered by Apache Kafka. Fully managed, epic performance & superior support.",
+  "tags": [
+    "managed-apache-kafka"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625838973/icons/cloudkarafka.jpg",
+  "website": "https://www.cloudkarafka.com/",
+  "docsUrl": "https://www.cloudkarafka.com/docs/index.html"
+}

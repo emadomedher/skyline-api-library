@@ -1,0 +1,13 @@
+{
+  "id": "partnertap",
+  "title": "PartnerTap",
+  "subtitle": "PartnerTap's partner channel ecosystem success software helps you sell with partners and build a strong partner ecosy...",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594240659/icons/partnertap.jpg",
+  "website": "https://partnertap.com"
+}

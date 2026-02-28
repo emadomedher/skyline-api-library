@@ -1,0 +1,12 @@
+{
+  "id": "facebookleads",
+  "title": "Facebook Lead Ads",
+  "subtitle": "Facebook Lead Ads API integration",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378792/catalog/facebookleads/icon128x128.png"
+}

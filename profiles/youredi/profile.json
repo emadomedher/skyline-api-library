@@ -1,0 +1,13 @@
+{
+  "id": "youredi",
+  "title": "Youredi",
+  "subtitle": "Youredi's integration platform as a service (iPaaS) is suitable for developing a wide range of integration solutions,...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946320/catalog/youredi/icon128x128.png",
+  "website": "https://youredi.com"
+}

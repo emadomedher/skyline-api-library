@@ -1,0 +1,14 @@
+{
+  "id": "laravel-framework",
+  "title": "Laravel Framework",
+  "subtitle": "Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web ap...",
+  "tags": [
+    "programming-framework",
+    "php"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566949516/catalog/laravel-framework/icon128x128.jpg",
+  "website": "https://laravel.com/"
+}

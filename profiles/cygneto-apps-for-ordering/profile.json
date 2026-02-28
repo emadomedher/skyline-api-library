@@ -1,0 +1,13 @@
+{
+  "id": "cygneto-apps-for-ordering",
+  "title": "Cygneto Apps For Ordering",
+  "subtitle": "Cygneto Apps For Ordering API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964116/catalog/cygneto-apps-for-ordering/icon128x128.png",
+  "website": "https://cygneto-apps.com"
+}

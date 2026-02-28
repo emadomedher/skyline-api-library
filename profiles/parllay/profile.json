@@ -1,0 +1,13 @@
+{
+  "id": "parllay",
+  "title": "Parllay",
+  "subtitle": "Parllay API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946719/catalog/parllay/icon128x128.jpg",
+  "website": "https://studio.parllay.com"
+}

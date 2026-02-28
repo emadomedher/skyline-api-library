@@ -1,0 +1,14 @@
+{
+  "id": "topfunnel-co",
+  "title": "TopFunnel",
+  "subtitle": "We're TopFunnel, real people helping some of the fastest growing companies scale their recruiting strategies with our...",
+  "tags": [
+    "candidate-sourcing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610437791/icons/topfunnel-co.jpg",
+  "website": "https://www.topfunnel.co/",
+  "docsUrl": "https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes"
+}

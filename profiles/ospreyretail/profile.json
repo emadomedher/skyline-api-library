@@ -1,0 +1,14 @@
+{
+  "id": "ospreyretail",
+  "title": "Osprey",
+  "subtitle": "Osprey API integration",
+  "tags": [
+    "retail",
+    "pos"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577682178/catalog/ospreyretail/icon128x128.jpg",
+  "website": "https://www.ospreyretail.com/"
+}

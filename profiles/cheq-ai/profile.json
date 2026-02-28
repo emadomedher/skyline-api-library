@@ -1,0 +1,13 @@
+{
+  "id": "cheq-ai",
+  "title": "CHEQ",
+  "subtitle": "Secure your data and analytics, on-site conversion, and paid marketing from bots and invalid users with CHEQ, the lea...",
+  "tags": [
+    "click-fraud"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671044903/icons/cheq-ai.jpg",
+  "website": "https://cheq.ai/"
+}

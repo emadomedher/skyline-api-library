@@ -1,0 +1,14 @@
+{
+  "id": "10duke",
+  "title": "10Duke",
+  "subtitle": "Identity management and software licensing solutions that help you connect to your online customers and drive engagem...",
+  "tags": [
+    "customer-intelligence-and-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432670/catalog/10duke/icon128x128.png",
+  "website": "https://10duke.com",
+  "docsUrl": "https://developer.10duke.com"
+}

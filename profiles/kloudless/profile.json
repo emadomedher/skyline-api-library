@@ -1,0 +1,14 @@
+{
+  "id": "kloudless",
+  "title": "Kloudless",
+  "subtitle": "Kloudless' unified API connects to your file storage, CRM, calendar, ITSM, and messaging solutions so you can build a...",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559306072/catalog/kloudless/icon128x128.jpg",
+  "website": "https://kloudless.com",
+  "docsUrl": "https://developers.kloudless.com/docs"
+}

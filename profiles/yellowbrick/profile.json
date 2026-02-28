@@ -1,0 +1,14 @@
+{
+  "id": "yellowbrick",
+  "title": "Yellowbrick Data",
+  "subtitle": "The ultimate solution for your data warehouse. Quick to deploy, easy to expand, and simple to manage. Yellowbrick Dat...",
+  "tags": [
+    "data-warehouses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614342778/icons/yellowbrick.jpg",
+  "website": "https://www.yellowbrick.com/",
+  "docsUrl": "https://www.yellowbrick.com/resources/product-documentation"
+}

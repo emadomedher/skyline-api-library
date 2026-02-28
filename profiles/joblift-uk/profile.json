@@ -1,0 +1,14 @@
+{
+  "id": "joblift-uk",
+  "title": "Joblift",
+  "subtitle": "Find your dream job with Joblift! With millions of jobs sourced from thousands of job boards, employers and staffing ...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630015790/icons/joblift-uk.jpg",
+  "website": "https://joblift.co.uk/",
+  "docsUrl": "https://joblift.co.uk/business-developer"
+}

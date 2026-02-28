@@ -1,0 +1,13 @@
+{
+  "id": "reviews",
+  "title": "Reviews",
+  "subtitle": "Making the world a better place one review at a time.",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721850/catalog/reviews/icon128x128.jpg",
+  "website": "https://reviews.co.uk"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "facebook-business",
+  "title": "Facebook Business",
+  "subtitle": "Meld je aan bij Facebook om te delen en contact te maken met je vrienden, familie en mensen die je kent.",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963903/catalog/facebook-business/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/facebookincubator/Facebook-Server-Side-API-Swagger/master/server-side-api.yaml",
+  "website": "https://facebook.com",
+  "docsUrl": "https://developers.facebook.com/docs/"
+}

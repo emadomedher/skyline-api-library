@@ -1,0 +1,13 @@
+{
+  "id": "sidepage-co",
+  "title": "SidePage",
+  "subtitle": "The simplest tool to quickly create professional documentation for your projects. It's fast, and it's free",
+  "tags": [
+    "documentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617295253/icons/sidepage-co.png",
+  "website": "https://sidepage.co/"
+}

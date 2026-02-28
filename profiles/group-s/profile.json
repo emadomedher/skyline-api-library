@@ -1,0 +1,14 @@
+{
+  "id": "group-s",
+  "title": "Group S",
+  "subtitle": "Group S API integration",
+  "tags": [
+    "payroll-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621339539/icons/group-s.jpg",
+  "website": "https://groups.be/",
+  "docsUrl": "https://groups.be/fr/legislation-sociale/documentation-sectorielle"
+}

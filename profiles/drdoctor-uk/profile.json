@@ -1,0 +1,14 @@
+{
+  "id": "drdoctor-uk",
+  "title": "DrDoctor",
+  "subtitle": "Hi, we're DrDoctor. We help hospitals transform the way they communicate with patients, so they can work better.",
+  "tags": [
+    "patient-communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615388553/icons/drdoctor-uk.jpg",
+  "website": "https://www.drdoctor.co.uk/",
+  "docsUrl": "https://docs.dr.doctor/en"
+}

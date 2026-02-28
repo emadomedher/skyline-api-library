@@ -1,0 +1,13 @@
+{
+  "id": "toplyne-io",
+  "title": "Toplyne",
+  "subtitle": "The tool Canva and Grafana use to experiment, A/B test, and deploy growth strategies at scale.",
+  "tags": [
+    "product-led-sales"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658417641/icons/toplyne-io.png",
+  "website": "https://www.toplyne.io/"
+}

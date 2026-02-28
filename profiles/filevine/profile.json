@@ -1,0 +1,14 @@
+{
+  "id": "filevine",
+  "title": "Filevine",
+  "subtitle": "Case, matter, investigation, and project management software trusted by over 17,000 legal professionals. Get a Demo t...",
+  "tags": [
+    "legal-case-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792179/icons/filevine.jpg",
+  "website": "https://www.filevine.com/",
+  "docsUrl": "https://www.filevine.com/features/docsplus"
+}

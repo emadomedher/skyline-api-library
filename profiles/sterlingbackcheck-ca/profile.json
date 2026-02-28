@@ -1,0 +1,14 @@
+{
+  "id": "sterlingbackcheck-ca",
+  "title": "SterlingBackcheck",
+  "subtitle": "Sterling Backcheck, with over 40 years’ experience, offers criminal record checks, individual checks, employment veri...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610648318/icons/sterlingbackcheck-ca.png",
+  "website": "https://www.sterlingbackcheck.ca/",
+  "docsUrl": "https://apidocs.ca.sterlingcheck.app"
+}

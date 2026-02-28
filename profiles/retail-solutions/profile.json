@@ -1,0 +1,12 @@
+{
+  "id": "retail-solutions",
+  "title": "Retail Solutions",
+  "subtitle": "Retail Solutions is ruim vijf jaar actief met praktische oplossingen op het gebied van personeelsplanning voor retail...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256969/catalog/retail-solutions/icon128x128.png"
+}

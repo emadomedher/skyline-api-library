@@ -1,0 +1,14 @@
+{
+  "id": "multitudes-co",
+  "title": "Multitudes",
+  "subtitle": "Multitudes API integration",
+  "tags": [
+    "team-analytics",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588161879/catalog/multitudes-co/icon128x128.png",
+  "website": "https://www.multitudes.co/"
+}

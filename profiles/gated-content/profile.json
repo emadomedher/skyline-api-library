@@ -1,0 +1,13 @@
+{
+  "id": "gated-content",
+  "title": "Gated Content",
+  "subtitle": "Integrate your marketing automation platform and website CMS to turbo charge customer acquisition, form deployment, a...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565682/catalog/gated-content/icon128x128.png",
+  "website": "https://gatedcontent.com"
+}

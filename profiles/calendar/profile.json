@@ -1,0 +1,13 @@
+{
+  "id": "calendar",
+  "title": "Calendar",
+  "subtitle": "Calendar harnesses the power of machine learning to give smart suggestions for when, where and how your meetings can ...",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792192/icons/calendar.jpg",
+  "website": "https://www.calendar.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "once-app",
+  "title": "Once",
+  "subtitle": "The simplicity of stories, the power of a productivity tool. Meet Once, the new way to tell your story and engage you...",
+  "tags": [
+    "storytelling",
+    "customer-engagement"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573214559/catalog/once-app/icon128x128.jpg",
+  "website": "https://once.app/"
+}

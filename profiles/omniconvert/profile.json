@@ -1,0 +1,13 @@
+{
+  "id": "omniconvert",
+  "title": "Omniconvert",
+  "subtitle": "Omniconvert is a conversion rate optimization platform. This app will enable the full power of Omniconvert on your st...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305564/catalog/omniconvert/icon128x128.png",
+  "website": "https://www.omniconvert.com/"
+}

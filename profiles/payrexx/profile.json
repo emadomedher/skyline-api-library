@@ -1,0 +1,15 @@
+{
+  "id": "payrexx",
+  "title": "Payrexx",
+  "subtitle": "Receive payments online with Payrexx, all-in-one tool for online payments. Immediately accept Visa, Mastercard, PayPa...",
+  "tags": [
+    "e-commerce",
+    "payments"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562337870/catalog/payrexx/icon128x128.jpg",
+  "website": "https://payrexx.com",
+  "docsUrl": "https://www.payrexx.com/en/developers"
+}

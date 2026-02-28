@@ -1,0 +1,12 @@
+{
+  "id": "silverpop",
+  "title": "Silverpop",
+  "subtitle": "Silverpop is a web based, on-demand digital marketing technology provider that brings marketing automation, mobile, e...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056163/catalog/silverpop/icon128x128.png"
+}

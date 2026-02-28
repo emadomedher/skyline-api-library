@@ -1,0 +1,13 @@
+{
+  "id": "minds",
+  "title": "Minds",
+  "subtitle": "An open source and decentralized social network for Internet freedom. Earn crypto for your contributions to the network",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963586/catalog/minds/icon128x128.png",
+  "website": "https://minds.com"
+}

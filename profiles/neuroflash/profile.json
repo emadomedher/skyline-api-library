@@ -1,0 +1,13 @@
+{
+  "id": "neuroflash",
+  "title": "neuroflash",
+  "subtitle": "Use our AI copywriting tool to generate unique marketing texts with one click. Predict its performance and increase c...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628181520/icons/neuroflash.jpg",
+  "website": "https://neuroflash.com/"
+}

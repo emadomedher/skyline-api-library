@@ -1,0 +1,14 @@
+{
+  "id": "uphold",
+  "title": "Uphold",
+  "subtitle": "null",
+  "tags": [
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573360758/catalog/uphold/icon128x128.jpg",
+  "website": "https://uphold.com/",
+  "docsUrl": "https://uphold.com/en/what-we-do/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "repsly",
+  "title": "Repsly",
+  "subtitle": "Repsly is a field activity management software which simplifies field work. See what your field reps see in real-time...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305864/catalog/repsly/icon128x128.png",
+  "website": "https://repsly.com"
+}

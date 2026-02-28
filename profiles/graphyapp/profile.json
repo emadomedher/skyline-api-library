@@ -1,0 +1,13 @@
+{
+  "id": "graphyapp",
+  "title": "Graphy",
+  "subtitle": "A place for your team to create beautiful and interactive dashboards. Loaded with data from the apps you already use ...",
+  "tags": [
+    "data-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583142258/catalog/graphyapp/icon128x128.jpg",
+  "website": "https://graphyapp.com/"
+}

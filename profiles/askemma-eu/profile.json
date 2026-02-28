@@ -1,0 +1,13 @@
+{
+  "id": "askemma-eu",
+  "title": "Ask Emma",
+  "subtitle": "Online ordering made easy. Open Facebook Messenger, search Ask Emma, do your order. You run a business ? See your ord...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567068054/catalog/askemma-eu/icon128x128.jpg",
+  "website": "https://askemma.eu"
+}

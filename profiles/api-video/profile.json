@@ -1,0 +1,14 @@
+{
+  "id": "api-video",
+  "title": "api.video",
+  "subtitle": "api.video encodes, hosts and delivers videos worldwide. \nBuild, scale and operate on-demand and live streaming videos...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593276898/icons/api-video.png",
+  "website": "https://api.video/",
+  "docsUrl": "https://docs.api.video"
+}

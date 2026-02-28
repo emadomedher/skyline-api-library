@@ -1,0 +1,13 @@
+{
+  "id": "chartspan",
+  "title": "ChartSpan",
+  "subtitle": "ChartSpan is the largest chronic care management company and MIPS service provider in the United States. Provide an e...",
+  "tags": [
+    "chronic-care-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599928333/icons/chartspan.png",
+  "website": "https://www.chartspan.com/"
+}

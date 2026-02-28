@@ -1,0 +1,13 @@
+{
+  "id": "dekodi-de",
+  "title": "Dekodi Deutscher Konverterdienst",
+  "subtitle": "dekodi Konverter und Schnittstellen für viele Datenquellen ✓ präzise Wandlung und Verbuchung ✓ individuelle Lösungen ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152912/icons/dekodi-de.png",
+  "website": "https://www.dekodi.de/"
+}

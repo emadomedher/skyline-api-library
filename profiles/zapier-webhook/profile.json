@@ -1,0 +1,14 @@
+{
+  "id": "zapier-webhook",
+  "title": "Webhooks by Zapier",
+  "subtitle": "Webhooks simply POST data (or JSON) to a specific URL every time we see something new. Webhooks can also accept data ...",
+  "tags": [
+    "zapier-tools",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809850/catalog/zapier-webhook/icon128x128.png",
+  "website": "https://zapier.com/"
+}

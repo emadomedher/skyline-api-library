@@ -1,0 +1,14 @@
+{
+  "id": "laybuy",
+  "title": "Laybuy",
+  "subtitle": "Laybuy API integration",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611409056/icons/laybuy.png",
+  "website": "https://www.laybuy.com/nz/",
+  "docsUrl": "https://docs.laybuy.com"
+}

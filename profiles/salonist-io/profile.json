@@ -1,0 +1,14 @@
+{
+  "id": "salonist-io",
+  "title": "Salonist",
+  "subtitle": "Salonist API integration",
+  "tags": [
+    "salon"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915250/icons/salonist-io.jpg",
+  "website": "https://salonist.io/",
+  "docsUrl": "https://salonist.io/#"
+}

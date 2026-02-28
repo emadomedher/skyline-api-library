@@ -1,0 +1,13 @@
+{
+  "id": "huviair",
+  "title": "HUVIAiR",
+  "subtitle": "A full-stack construction management tool designed for executive leadership. Deliver projects faster, improve build q...",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642674067/icons/huviair.jpg",
+  "website": "https://huviair.com/"
+}

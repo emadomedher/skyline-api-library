@@ -1,0 +1,14 @@
+{
+  "id": "shipup-co",
+  "title": "Shipup",
+  "subtitle": "Shipup API integration",
+  "tags": [
+    "shipping",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792154/icons/shipup-co.jpg",
+  "website": "https://www.shipup.co/"
+}

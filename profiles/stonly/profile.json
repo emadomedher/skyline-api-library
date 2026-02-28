@@ -1,0 +1,13 @@
+{
+  "id": "stonly",
+  "title": "Stonly",
+  "subtitle": "Create easy to follow explanations and guides. Improve Customer success and reduce support cost",
+  "tags": [
+    "onboarding"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563393647/catalog/stonly/icon128x128.jpg",
+  "website": "https://stonly.com"
+}

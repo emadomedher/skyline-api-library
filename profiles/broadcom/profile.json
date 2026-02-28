@@ -1,0 +1,15 @@
+{
+  "id": "broadcom",
+  "title": "Broadcom",
+  "subtitle": "Broadcom Inc. is a global technology leader that designs, develops and supplies semiconductor and infrastructure soft...",
+  "tags": [
+    "semiconductors",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632097548/icons/broadcom.jpg",
+  "website": "https://www.broadcom.com/",
+  "docsUrl": "https://techdocs.broadcom.com"
+}

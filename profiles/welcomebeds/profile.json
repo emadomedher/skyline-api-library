@@ -1,0 +1,14 @@
+{
+  "id": "welcomebeds",
+  "title": "WelcomeBeds",
+  "subtitle": "Content",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612642008/icons/welcomebeds.png",
+  "website": "https://www.welcomebeds.com/"
+}

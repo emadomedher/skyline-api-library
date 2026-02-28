@@ -1,0 +1,13 @@
+{
+  "id": "supy-io",
+  "title": "Supy",
+  "subtitle": "Power your restaurant operations with real-time data, accurate insights & time-saving automation to trim costs, cut w...",
+  "tags": [
+    "restaurant-inventory-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688933810/icons/supy-io.jpg",
+  "website": "https://supy.io/"
+}

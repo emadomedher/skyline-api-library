@@ -1,0 +1,13 @@
+{
+  "id": "hydra-ai",
+  "title": "Hydra",
+  "subtitle": "Hydra helps companies unlock the power of their data and drive revenue. Build A.I. models to find upsell opportunitie...",
+  "tags": [
+    "customer-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564700908/catalog/hydra-ai/icon128x128.png",
+  "website": "https://hydra.ai"
+}

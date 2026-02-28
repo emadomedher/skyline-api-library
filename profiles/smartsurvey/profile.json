@@ -1,0 +1,13 @@
+{
+  "id": "smartsurvey",
+  "title": "SmartSurvey",
+  "subtitle": "SmartSurvey provides powerful, advanced online survey software. Built to let individuals and teams create any type of...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306130/catalog/smartsurvey/icon128x128.png",
+  "website": "https://www.smartsurvey.co.uk/"
+}

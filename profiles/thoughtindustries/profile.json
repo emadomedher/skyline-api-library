@@ -1,0 +1,14 @@
+{
+  "id": "thoughtindustries",
+  "title": "Thought Industries",
+  "subtitle": "Thought Industries is the world’s premier software platform for customer learning management (CLM). Industry leaders ...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635814177/icons/thoughtindustries.jpg",
+  "website": "https://www.thoughtindustries.com/",
+  "docsUrl": "https://www.thoughtindustries.com/api-integrations-documentation"
+}

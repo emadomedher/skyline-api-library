@@ -1,0 +1,13 @@
+{
+  "id": "leadsbridge",
+  "title": "LeadsBridge",
+  "subtitle": "LeadsBridge helps you centralizing and bridging gaps of your Marketing & Advertising tools, connecting over 350 CRMs/...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720796/catalog/leadsbridge/icon128x128.png",
+  "website": "https://leadsbridge.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "socialscript",
+  "title": "SocialScript",
+  "subtitle": "The most trusted, powerful and fully automated social network software. Packed with advanced features, extremely flex...",
+  "tags": [
+    "social-network"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509854/catalog/socialscript/icon128x128.png",
+  "website": "https://www.socialscript.com/",
+  "docsUrl": "https://www.socialscript.com/documentation"
+}

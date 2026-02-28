@@ -1,0 +1,13 @@
+{
+  "id": "wolfram-alpha",
+  "title": "Wolfram Alpha",
+  "subtitle": "Compute answers using Wolfram's breakthrough technology & knowledgebase, relied on by millions of students & professi...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946353/catalog/wolfram-alpha/icon128x128.jpg",
+  "website": "https://wolframalpha.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "prowly",
+  "title": "Prowly",
+  "subtitle": "Prowly API integration",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436653/catalog/prowly/icon128x128.png",
+  "website": "https://prowly.com"
+}

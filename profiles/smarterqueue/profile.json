@@ -1,0 +1,13 @@
+{
+  "id": "smarterqueue",
+  "title": "SmarterQueue",
+  "subtitle": "SmarterQueue saves you hours when scheduling your social updates, and makes sure your posts get noticed, helping you ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722140/catalog/smarterqueue/icon128x128.jpg",
+  "website": "https://smarterqueue.com"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "apideck-ecosystem",
+  "title": "Apideck Ecosystem",
+  "subtitle": "Apideck Ecosystem helps you build your app store and whitelabel marketplace in minutes instead of months.",
+  "tags": [
+    "channel-ecosystem-management",
+    "marketplace-software",
+    "integrations-cms",
+    "partner-cms",
+    "integrations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569098831/catalog/apideck-ecosystem/icon128x128.png",
+  "website": "https://www.apideck.com/products/ecosystem"
+}

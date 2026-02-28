@@ -1,0 +1,15 @@
+{
+  "id": "planday",
+  "title": "Planday",
+  "subtitle": "Planday is a powerful but easy-to-use online employee scheduling software. Build an employee schedule faster with Pla...",
+  "tags": [
+    "employee-scheduling",
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590626648/catalog/planday/icon128x128.jpg",
+  "website": "https://www.planday.com/",
+  "docsUrl": "https://openapi.planday.com/"
+}

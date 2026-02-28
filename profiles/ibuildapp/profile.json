@@ -1,0 +1,13 @@
+{
+  "id": "ibuildapp",
+  "title": "iBuildApp",
+  "subtitle": "How to Create an App for Android, iPhone. Free, No Coding! Make Your Own App with Mobile Maker, Development Software,...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720408/catalog/ibuildapp/icon128x128.jpg",
+  "website": "https://ibuildapp.com"
+}

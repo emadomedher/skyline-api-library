@@ -1,0 +1,13 @@
+{
+  "id": "socialseeder",
+  "title": "Social Seeder",
+  "subtitle": "Employer branding platform to help you increase your social media engagement by joining efforts with your advocates a...",
+  "tags": [
+    "employer-branding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576461910/catalog/socialseeder/icon128x128.jpg",
+  "website": "https://www.socialseeder.com/"
+}

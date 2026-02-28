@@ -1,0 +1,13 @@
+{
+  "id": "sambanova-ai",
+  "title": "SambaNova Systems",
+  "subtitle": "Future-proof your datacenter for next-generation AI workloads with SambaNova Systems DataScale - Break through the li...",
+  "tags": [
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634856963/icons/sambanova-ai.jpg",
+  "website": "https://sambanova.ai/"
+}

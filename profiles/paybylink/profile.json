@@ -1,0 +1,14 @@
+{
+  "id": "paybylink",
+  "title": "PayByLink",
+  "subtitle": "Send a payment link in an email, text message or QR-code your customer. PayByLink allows you to do so in a secure way...",
+  "tags": [
+    "payments",
+    "payment-links"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641127/icons/paybylink.png",
+  "website": "https://www.paybylink.com/"
+}

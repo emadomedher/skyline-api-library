@@ -1,0 +1,13 @@
+{
+  "id": "colonya",
+  "title": "Colonya Caixa Pollença",
+  "subtitle": "Colonya, Caixa Pollença, és la caixa d'estalvis de les Illes Balears. On sempre han prioritzat els valors de l'estalv...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623545739/icons/colonya.jpg",
+  "website": "https://colonya.com/"
+}

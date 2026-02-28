@@ -1,0 +1,17 @@
+{
+  "id": "servicenow",
+  "title": "ServiceNow",
+  "subtitle": "ServiceNow allows employees to work the way they want to, not how software dictates they have to. And customers can g...",
+  "tags": [
+    "business-tools",
+    "developer-tools",
+    "itsm",
+    "issue-tracking"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264841/catalog/servicenow/icon128x128.png",
+  "website": "https://servicenow.com",
+  "docsUrl": "https://developer.servicenow.com/app.do"
+}

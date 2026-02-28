@@ -1,0 +1,13 @@
+{
+  "id": "zenfactuur-be",
+  "title": "Zenfactuur",
+  "subtitle": "Facturatieprogramma om vlot en snel online facturen en offertes op te stellen. Verstuur ze met één muisklik en volg d...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584050121/catalog/zenfactuur-be/icon128x128.png",
+  "website": "https://www.zenfactuur.be/"
+}

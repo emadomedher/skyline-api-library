@@ -1,0 +1,14 @@
+{
+  "id": "paywithextend",
+  "title": "Extend",
+  "subtitle": "Extend API integration",
+  "tags": [
+    "virtual-credit-cards",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588537652/catalog/paywithextend/icon128x128.jpg",
+  "website": "https://paywithextend.com/"
+}

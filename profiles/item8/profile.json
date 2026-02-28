@@ -1,0 +1,13 @@
+{
+  "id": "item8",
+  "title": "Item8",
+  "subtitle": "Enhance your processes of CRM, Document Storage, Billing, Invoicing and Financial Reporting.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435261/catalog/item8/icon128x128.png",
+  "website": "https://item8.io"
+}

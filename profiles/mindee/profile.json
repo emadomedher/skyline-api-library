@@ -1,0 +1,14 @@
+{
+  "id": "mindee",
+  "title": "Mindee",
+  "subtitle": "Mindee develops API-based products for instantly extracting information from any kind of image and transforming it in...",
+  "tags": [
+    "data-extraction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649374963/icons/mindee.png",
+  "website": "https://mindee.com/",
+  "docsUrl": "https://developers.mindee.com/docs"
+}

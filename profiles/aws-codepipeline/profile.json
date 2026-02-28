@@ -1,0 +1,13 @@
+{
+  "id": "aws-codepipeline",
+  "title": "AWS CodePipeline",
+  "subtitle": "Looking for a continuous integration & delivery (CI/CD) service? AWS CodePipeline builds, tests, and deploys your cod...",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623450073/icons/aws-codepipeline.png",
+  "website": "https://aws.amazon.com/codepipeline"
+}

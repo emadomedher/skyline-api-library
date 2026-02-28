@@ -1,0 +1,13 @@
+{
+  "id": "alphahq",
+  "title": "Alphahq",
+  "subtitle": "Companies use Alpha’s on-demand insights platform to rapidly validate growth opportunities.. Alpha is the fastest way...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947293/catalog/alphahq/icon128x128.jpg",
+  "website": "https://alphahq.com"
+}

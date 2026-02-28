@@ -1,0 +1,14 @@
+{
+  "id": "visual-studio-code",
+  "title": "Visual Studio Code",
+  "subtitle": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applicati...",
+  "tags": [
+    "ide",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608287807/icons/visual-studio-code.png",
+  "website": "https://code.visualstudio.com/"
+}

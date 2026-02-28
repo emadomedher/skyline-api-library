@@ -1,0 +1,13 @@
+{
+  "id": "unqork",
+  "title": "Unqork",
+  "subtitle": "Unqork helps large companies build, deploy, and manage complex applications without writing a single line of code.",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863253/icons/unqork.png",
+  "website": "https://www.unqork.com/"
+}

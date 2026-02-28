@@ -1,0 +1,14 @@
+{
+  "id": "zapier-code",
+  "title": "Code by Zapier",
+  "subtitle": "Write custom Javascript code in response to any data from any service! Transform, mutate, customize or even do custom...",
+  "tags": [
+    "zapier-tools",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809829/catalog/zapier-code/icon128x128.png",
+  "website": "https://zapier.com/"
+}

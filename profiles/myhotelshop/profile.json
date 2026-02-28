@@ -1,0 +1,14 @@
+{
+  "id": "myhotelshop",
+  "title": "Myhotelshop",
+  "subtitle": "Increase your direct bookings on your hotel website with meta searches like Google Hotels Ads, Trivago, Tripadvisor a...",
+  "tags": [
+    "travel-meta-search",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724220/icons/myhotelshop.png",
+  "website": "https://www.myhotelshop.com/"
+}

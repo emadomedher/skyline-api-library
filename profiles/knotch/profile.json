@@ -1,0 +1,13 @@
+{
+  "id": "knotch",
+  "title": "Knotch",
+  "subtitle": "Knotch is the independent content intelligence platform that helps CMOs and their teams measure and impact the outcom...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963698/catalog/knotch/icon128x128.png",
+  "website": "https://knotch.it"
+}

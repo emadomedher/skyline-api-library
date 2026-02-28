@@ -1,0 +1,13 @@
+{
+  "id": "atriumhq",
+  "title": "Atrium ",
+  "subtitle": "Atrium helps AE, SDR, and CS managers use data to improve team performance. Atrium continuously monitors dozens of ke...",
+  "tags": [
+    "sales-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613706210/icons/atriumhq.png",
+  "website": "https://www.atriumhq.com/"
+}

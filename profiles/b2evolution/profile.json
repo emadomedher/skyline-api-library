@@ -1,0 +1,13 @@
+{
+  "id": "b2evolution",
+  "title": "b2evolution",
+  "subtitle": "b2evolution is an industrial-strength, low-maintenance, Social CMS platform featuring: Multiple Blogs, Photo Albums, ...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825854/catalog/b2evolution/icon128x128.png",
+  "website": "https://b2evolution.net"
+}

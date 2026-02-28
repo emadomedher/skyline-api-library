@@ -1,0 +1,15 @@
+{
+  "id": "castr-io",
+  "title": "Castr",
+  "subtitle": "Start streaming to multiple sites simultaneously using Castr. Stream to Facebook, Youtube, Twitch, Mixer & other popu...",
+  "tags": [
+    "video-livestreaming",
+    "video-streaming",
+    "video-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599635088/icons/castr-io.jpg",
+  "website": "https://castr.io/"
+}

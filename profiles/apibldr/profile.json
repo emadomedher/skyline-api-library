@@ -1,0 +1,13 @@
+{
+  "id": "apibldr",
+  "title": "ApiBldr",
+  "subtitle": "Free Online Visual API Designer for OpenAPI (swagger) and AsyncAPI specifications. Design beautiful, functional APIs ...",
+  "tags": [
+    "api-design"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606835020/icons/apibldr.png",
+  "website": "https://www.apibldr.com/"
+}

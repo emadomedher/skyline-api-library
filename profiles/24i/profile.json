@@ -1,0 +1,13 @@
+{
+  "id": "24i",
+  "title": "24i",
+  "subtitle": "24i’s video streaming solutions help pay TV operators and content providers deliver great OTT video user experiences ...",
+  "tags": [
+    "video-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620675172/icons/24i.png",
+  "website": "https://www.24i.com/"
+}

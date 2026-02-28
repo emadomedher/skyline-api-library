@@ -1,0 +1,14 @@
+{
+  "id": "propertyradar",
+  "title": "PropertyRadar",
+  "subtitle": "Research real estate using property and owner data app. Make targeted lists. Connect with owners by phone, email, mai...",
+  "tags": [
+    "property-data",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606704898/icons/propertyradar.jpg",
+  "website": "https://www.propertyradar.com/"
+}

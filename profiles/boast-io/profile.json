@@ -1,0 +1,13 @@
+{
+  "id": "boast-io",
+  "title": "Boast",
+  "subtitle": "Boast is solving video testimonial collection once and for all. Start engaging more customers and closing more sales ...",
+  "tags": [
+    "testimonials"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583231622/catalog/boast-io/icon128x128.jpg",
+  "website": "https://boast.io/"
+}

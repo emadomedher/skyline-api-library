@@ -1,0 +1,13 @@
+{
+  "id": "tpx",
+  "title": "TPx Communications",
+  "subtitle": "Learn more about the Managed IT, Unified Communications and Network services TPX provides our clients to help them ex...",
+  "tags": [
+    "unified-communications-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591640858/icons/tpx.jpg",
+  "website": "https://www.tpx.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "placesscout",
+  "title": "Places Scout",
+  "subtitle": "Places Scout is an all in one Local SEO Software for online business marketing and visibility reporting.",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607794056/icons/placesscout.jpg",
+  "website": "http://www.placesscout.com/"
+}

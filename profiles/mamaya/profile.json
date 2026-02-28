@@ -1,0 +1,13 @@
+{
+  "id": "mamaya",
+  "title": "Mamaya",
+  "subtitle": "Mamaya API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435735/catalog/mamaya/icon128x128.png",
+  "website": "https://gomamaya.com"
+}

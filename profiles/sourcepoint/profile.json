@@ -1,0 +1,13 @@
+{
+  "id": "sourcepoint",
+  "title": "SourcePoint",
+  "subtitle": "Technology and consulting solutions for the worlds largest media organizations; to cope with challenges surrounding a...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827686/catalog/sourcepoint/icon128x128.png",
+  "website": "https://sourcepoint.com"
+}

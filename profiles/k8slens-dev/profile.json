@@ -1,0 +1,14 @@
+{
+  "id": "k8slens-dev",
+  "title": "Lens | The Kubernetes IDE",
+  "subtitle": "Lens IDE for Kubernetes. The only system you’ll ever need to take control of your Kubernetes clusters. It's open sour...",
+  "tags": [
+    "kubernetes",
+    "ide"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597482075/icons/k8slens-dev.jpg",
+  "website": "https://k8slens.dev/"
+}

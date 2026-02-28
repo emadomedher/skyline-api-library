@@ -1,0 +1,13 @@
+{
+  "id": "charitygiving",
+  "title": "CharityGiving",
+  "subtitle": "CharityGiving is a platform that helps organizations accept secure donations anytime, anywhere, on any device. It inc...",
+  "tags": [
+    "payment-processing",
+    "fundraising"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538959/catalog/charitygiving/icon128x128.png"
+}

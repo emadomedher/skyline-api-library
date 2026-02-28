@@ -1,0 +1,15 @@
+{
+  "id": "reverb-chat",
+  "title": "Reverb",
+  "subtitle": "Get personal, send reverbs.",
+  "tags": [
+    "voice-collaboration",
+    "voice-chat",
+    "meetings"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584144644/catalog/reverb-chat/icon128x128.jpg",
+  "website": "https://reverb.chat/"
+}

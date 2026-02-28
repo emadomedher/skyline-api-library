@@ -1,0 +1,13 @@
+{
+  "id": "backerkit",
+  "title": "BackerKit",
+  "subtitle": "BackerKit is a backer survey and data management platform that helps crowdfunding creators send surveys, sell add-ons...",
+  "tags": [
+    "crowdfunding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581598066/catalog/backerkit/icon128x128.png",
+  "website": "https://www.backerkit.com/"
+}

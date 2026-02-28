@@ -1,0 +1,13 @@
+{
+  "id": "winwinner-be",
+  "title": "WinWinner",
+  "subtitle": "Heb je financiering nodig om te starten of groeien met je onderneming? Of wil je zelf gunstig investeren in groeiende...",
+  "tags": [
+    "crowdfunding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583407384/catalog/winwinner-be/icon128x128.png",
+  "website": "https://www.winwinner.be/"
+}

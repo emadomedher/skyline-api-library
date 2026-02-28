@@ -1,0 +1,14 @@
+{
+  "id": "appypie",
+  "title": "Appy Pie",
+  "subtitle": "Appy Pie No-code Web & Mobile Application Development Platform Software provides drag-and-drop tools that enable busi...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608914751/icons/appypie.jpg",
+  "website": "https://www.appypie.com/",
+  "docsUrl": "https://www.appypie.com/learn-how-to-become-an-app-developer"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "moderntax-io",
+  "title": "ModernTax",
+  "subtitle": "Modern Tax is the comprehensive API platform democratizing tax data and tax services. ModernTax solutions include an ...",
+  "tags": [
+    "employer-tax-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618792274/icons/moderntax-io.jpg",
+  "website": "https://www.moderntax.io/"
+}

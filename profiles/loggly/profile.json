@@ -1,0 +1,14 @@
+{
+  "id": "loggly",
+  "title": "Loggly",
+  "subtitle": "Log Analysis / Log Management by Loggly: the world's most popular log analysis & monitoring in the cloud. Free trial....",
+  "tags": [
+    "log-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569813028/catalog/loggly/icon128x128.png",
+  "website": "https://www.loggly.com/",
+  "docsUrl": "https://www.loggly.com/docs-index"
+}

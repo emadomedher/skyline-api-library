@@ -1,0 +1,13 @@
+{
+  "id": "minecraft",
+  "title": "Minecraft",
+  "subtitle": "Explore new gaming adventures, accessories, & merchandise on the Minecraft Official Site. Buy & download the game her...",
+  "tags": [
+    "games"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671518206/icons/minecraft.jpg",
+  "website": "https://www.minecraft.net/"
+}

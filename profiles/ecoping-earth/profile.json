@@ -1,0 +1,14 @@
+{
+  "id": "ecoping-earth",
+  "title": "EcoPing.earth",
+  "subtitle": "EcoPing provides tools and reports with key insights &amp; actions\n      to reduce your company's website carbon emis...",
+  "tags": [
+    "climate",
+    "carbon-accounting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652666953/icons/ecoping-earth.jpg",
+  "website": "https://ecoping.earth/"
+}

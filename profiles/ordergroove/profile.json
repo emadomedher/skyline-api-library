@@ -1,0 +1,13 @@
+{
+  "id": "ordergroove",
+  "title": "OrderGroove",
+  "subtitle": "OrderGroove API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963423/catalog/ordergroove/icon128x128.png",
+  "website": "https://ordergroove.com"
+}

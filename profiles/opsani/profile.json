@@ -1,0 +1,13 @@
+{
+  "id": "opsani",
+  "title": "Opsani",
+  "subtitle": "Opsani AI integrates with your CI/CD pipeline to optimize resources and parameters any time you release new code or c...",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565281105/catalog/opsani/icon128x128.jpg",
+  "website": "https://opsani.com"
+}

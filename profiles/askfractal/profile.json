@@ -1,0 +1,14 @@
+{
+  "id": "askfractal",
+  "title": "Fractal",
+  "subtitle": "Fractal's powering smart SME banking. Financial lenders can access SME data, receive cash flow insights to track perf...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746590/icons/askfractal.jpg",
+  "website": "https://www.askfractal.com/",
+  "docsUrl": "https://docs.askfractal.com"
+}

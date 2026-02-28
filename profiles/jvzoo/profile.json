@@ -1,0 +1,12 @@
+{
+  "id": "jvzoo",
+  "title": "JVZoo",
+  "subtitle": "JVZoo is a software service that serves both vendors and affiliate marketers for processing online payments.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305221/catalog/jvzoo/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "api-design-systems",
+  "title": "API Design Systems",
+  "subtitle": "API Design Systems API integration",
+  "tags": [
+    "api-tooling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622762263/icons/api-design-systems.png",
+  "website": "https://apidesign.systems/",
+  "docsUrl": "https://github.com/smizell/api-design-systems/edit/main/docs/index.md"
+}

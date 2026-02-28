@@ -1,0 +1,13 @@
+{
+  "id": "bridgeconnector-co",
+  "title": "Bridge Connector",
+  "subtitle": "Bridge Connector is changing the way healthcare communicates by connecting disparate systems in healthcare IT more qu...",
+  "tags": [
+    "healthcare-integration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590575893/catalog/bridgeconnector-co/icon128x128.png",
+  "website": "https://bridgeconnector.co/"
+}

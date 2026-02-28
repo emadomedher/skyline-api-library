@@ -1,0 +1,13 @@
+{
+  "id": "enjoy",
+  "title": "Enjoy",
+  "subtitle": "Reimagine buying tech products with free same-day delivery and setup by a friendly Expert.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567037728/catalog/enjoy/icon128x128.png",
+  "website": "https://www.enjoy.com"
+}

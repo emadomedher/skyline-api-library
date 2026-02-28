@@ -1,0 +1,13 @@
+{
+  "id": "seg",
+  "title": "Seg",
+  "subtitle": "Segment your database with Seg and supercharge your email marketing.  Seg integrates with and enhances your eCommerce...",
+  "tags": [
+    "drip-emails",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305994/catalog/seg/icon128x128.png"
+}

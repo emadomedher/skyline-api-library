@@ -1,0 +1,14 @@
+{
+  "id": "freedomfinance-uk",
+  "title": "Freedom Finance",
+  "subtitle": "Looking for a secured or personal loan? At Freedom Finance we search & compare deals from over 20 leading UK lenders ...",
+  "tags": [
+    "lending",
+    "personal-loans"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606506297/icons/freedomfinance-uk.jpg",
+  "website": "https://www.freedomfinance.co.uk/"
+}

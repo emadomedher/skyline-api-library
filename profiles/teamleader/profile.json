@@ -1,0 +1,15 @@
+{
+  "id": "teamleader",
+  "title": "Teamleader",
+  "subtitle": "Customer management, project management and invoicing in one handy tool. Teamleader makes work easier for 11000 SMEs.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1536884849/catalog/teamleader/icon128x128.jpg",
+  "specUrl": "https://raw.githubusercontent.com/teamleadercrm/api/master/apiary.apib",
+  "website": "https://www.teamleader.eu/",
+  "docsUrl": "https://developer.teamleader.eu"
+}

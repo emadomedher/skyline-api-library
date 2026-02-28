@@ -1,0 +1,15 @@
+{
+  "id": "hasty-ai",
+  "title": "Hasty.ai",
+  "subtitle": "Everything you need to go from raw images or videos to production-ready model in one tool. No MLops skills or tricky ...",
+  "tags": [
+    "computer-vision",
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652051869/icons/hasty-ai.png",
+  "website": "https://hasty.ai/",
+  "docsUrl": "https://hasty.ai/content-hub/userdocs"
+}

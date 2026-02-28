@@ -1,0 +1,14 @@
+{
+  "id": "chromatic",
+  "title": "Chromatic",
+  "subtitle": "We make tools for frontend developers that automate the Storybook workflow. Chromatic helps you gather UI feedback, t...",
+  "tags": [
+    "design-system"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614773968/icons/chromatic.png",
+  "website": "https://www.chromatic.com/",
+  "docsUrl": "https://www.chromatic.com/docs"
+}

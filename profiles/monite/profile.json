@@ -1,0 +1,14 @@
+{
+  "id": "monite",
+  "title": "Monite",
+  "subtitle": "Automate accounting, do banking, invoicing, incoming bills, and expenses in one interface. Monite auto-maps your docu...",
+  "tags": [
+    "invoicing",
+    "accounting"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625435475/icons/monite.jpg",
+  "website": "https://monite.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hypothekarbank-lenzburg",
+  "title": "Hypothekarbank Lenzburg (HBL)",
+  "subtitle": "Hypothekarbank Lenzburg is a Swiss mortgage bank. The Bank provides lending and other general banking services.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593641950/icons/hypothekarbank-lenzburg.jpg",
+  "website": "https://www.hbl.ch/"
+}

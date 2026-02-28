@@ -1,0 +1,13 @@
+{
+  "id": "neos",
+  "title": "Neos",
+  "subtitle": "Neos - open source Content Application Platform",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827025/catalog/neos/icon128x128.jpg",
+  "website": "https://neos.io"
+}

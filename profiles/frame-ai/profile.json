@@ -1,0 +1,13 @@
+{
+  "id": "frame-ai",
+  "title": "Frame AI",
+  "subtitle": "Frame AI is built for CX leaders focused on measurable impact — not survey results.",
+  "tags": [
+    "customer-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602106909/icons/frame-ai.jpg",
+  "website": "https://frame.ai/"
+}

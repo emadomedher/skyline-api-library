@@ -1,0 +1,13 @@
+{
+  "id": "vouch-us",
+  "title": "Vouch Insurance",
+  "subtitle": "Vouch offers business insurance for startups. Get General Liability, Business Property, Cyber, D&O, E&O (Professional...",
+  "tags": [
+    "business-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595809056/icons/vouch-us.png",
+  "website": "https://www.vouch.us/"
+}

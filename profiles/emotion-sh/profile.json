@@ -1,0 +1,14 @@
+{
+  "id": "emotion-sh",
+  "title": "Emotion",
+  "subtitle": "Emotion API integration",
+  "tags": [
+    "css-frameworks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572260692/catalog/emotion-sh/icon128x128.png",
+  "website": "https://emotion.sh/",
+  "docsUrl": "https://emotion.sh/docs"
+}

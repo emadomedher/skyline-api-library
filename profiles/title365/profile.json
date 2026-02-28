@@ -1,0 +1,13 @@
+{
+  "id": "title365",
+  "title": "Title365",
+  "subtitle": "Title365 serves residential real estate brokers, mortgage and financial institutions, asset managers, commercial and ...",
+  "tags": [
+    "title-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615827846/icons/title365.png",
+  "website": "https://www.title365.com/"
+}

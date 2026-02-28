@@ -1,0 +1,13 @@
+{
+  "id": "shindig",
+  "title": "Shindig",
+  "subtitle": "Shindig - We power large scale video chat events, classes, communities and more",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946601/catalog/shindig/icon128x128.jpg",
+  "website": "https://shindig.com"
+}

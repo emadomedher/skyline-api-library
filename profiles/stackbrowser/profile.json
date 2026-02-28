@@ -1,0 +1,13 @@
+{
+  "id": "stackbrowser",
+  "title": "Stack",
+  "subtitle": "Stack is not a browser, neither it’s just a computer program, but it’s an idea, the idea to make our new virtual home...",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608194300/icons/stackbrowser.jpg",
+  "website": "https://stackbrowser.com/"
+}

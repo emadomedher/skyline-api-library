@@ -1,0 +1,14 @@
+{
+  "id": "acquire",
+  "title": "Acquire",
+  "subtitle": "Acquire is the first to bring a multi-channel customer communication platform for businesses - empowering companies t...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304364/catalog/acquire/icon128x128.png",
+  "website": "https://acquire.io",
+  "docsUrl": "https://docs.acquire.io"
+}

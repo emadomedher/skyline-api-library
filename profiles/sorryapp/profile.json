@@ -1,0 +1,14 @@
+{
+  "id": "sorryapp",
+  "title": "Sorry",
+  "subtitle": "Sorry™ is a status page service trusted in over 400 cities across the globe to communicate about downtime.",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565368279/catalog/sorryapp/icon128x128.png",
+  "website": "https://www.sorryapp.com/",
+  "docsUrl": "https://www.sorryapp.com/audiences/developers.html"
+}

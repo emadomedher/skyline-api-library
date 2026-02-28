@@ -1,0 +1,14 @@
+{
+  "id": "aws-glue",
+  "title": "AWS Glue",
+  "subtitle": "AWS Glue is a serverless ETL service that crawls your data, builds a data catalog, performs data preparation, data tr...",
+  "tags": [
+    "etl"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600070669/icons/aws-glue.png",
+  "website": "https://aws.amazon.com/glue",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=default"
+}

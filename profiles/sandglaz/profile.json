@@ -1,0 +1,13 @@
+{
+  "id": "sandglaz",
+  "title": "Sandglaz",
+  "subtitle": "Sandglaz is the simplest way to manage projects with your agile team. Accomplish more with less stress.",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305978/catalog/sandglaz/icon128x128.png",
+  "website": "https://sandglaz.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "clydesdale-bank",
+  "title": "Clydesdale Bank",
+  "subtitle": "Clydesdale Bank is a trading name used by Clydesdale Bank plc for its retail banking operations in Scotland.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623519089/icons/clydesdale-bank.jpg",
+  "website": "https://secure.cbonline.co.uk/",
+  "docsUrl": "https://developer.virginmoney.com/"
+}

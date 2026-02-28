@@ -1,0 +1,13 @@
+{
+  "id": "streama",
+  "title": "Strea.ma",
+  "subtitle": "Show your audience's social media updates and photos in a beautiful real-time display for your event or campaign from...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946522/catalog/streama/icon128x128.png",
+  "website": "https://strea.ma"
+}

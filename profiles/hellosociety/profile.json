@@ -1,0 +1,13 @@
+{
+  "id": "hellosociety",
+  "title": "HelloSociety",
+  "subtitle": "Influencer-powered marketing",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963821/catalog/hellosociety/icon128x128.png",
+  "website": "https://HelloSociety.com"
+}

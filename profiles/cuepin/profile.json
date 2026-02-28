@@ -1,0 +1,13 @@
+{
+  "id": "cuepin",
+  "title": "Cuepin",
+  "subtitle": "An easy to use, fast and secure online tool for design collaboration and feedback.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947186/catalog/cuepin/icon128x128.png",
+  "website": "https://cuepin.com"
+}

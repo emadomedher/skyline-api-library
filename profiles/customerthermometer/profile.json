@@ -1,0 +1,14 @@
+{
+  "id": "customerthermometer",
+  "title": "Customer Thermometer",
+  "subtitle": "The only customer satisfaction survey answered easily from email inboxes, providing industry leading response rate fe...",
+  "tags": [
+    "customer-satisfaction-score"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581561923/catalog/customerthermometer/icon128x128.png",
+  "website": "https://www.customerthermometer.com/",
+  "docsUrl": "https://www.customerthermometer.com/integration/api-documentation"
+}

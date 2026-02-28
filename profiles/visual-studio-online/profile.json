@@ -1,0 +1,14 @@
+{
+  "id": "visual-studio-online",
+  "title": "Visual Studio Team Services",
+  "subtitle": "Visual Studio Team Services is where  teams manage, develop, and deliver software in the cloud. Visual Studio Team Se...",
+  "tags": [
+    "microsoft",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306449/catalog/visual-studio-online/icon128x128.png",
+  "website": "https://visualstudio.microsoft.com/vso/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "benchmark-email",
+  "title": "Benchmark Email",
+  "subtitle": "Benchmark is an international, easy-to-use email marketing and event management tool. Affordable, friendly and stylish.",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304479/catalog/benchmark-email/icon128x128.png",
+  "website": "https://www.benchmarkemail.com/"
+}

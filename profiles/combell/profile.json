@@ -1,0 +1,14 @@
+{
+  "id": "combell",
+  "title": "Combell",
+  "subtitle": "Infrastructure for websites & applications",
+  "tags": [
+    "infrastructure",
+    "hosting"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861297/catalog/combell/icon128x128.png",
+  "website": "https://www.combell.com"
+}

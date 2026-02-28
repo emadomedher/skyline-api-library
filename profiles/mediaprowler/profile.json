@@ -1,0 +1,13 @@
+{
+  "id": "mediaprowler",
+  "title": "MediaProwler",
+  "subtitle": "Media Prowler is a marketing and advertising firm focused on e-mail data and delivery. We also offer additional digit...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721072/catalog/mediaprowler/icon128x128.jpg",
+  "website": "https://mediaprowler.com"
+}

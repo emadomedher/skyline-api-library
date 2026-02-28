@@ -1,0 +1,13 @@
+{
+  "id": "etlworks",
+  "title": "Etlworks",
+  "subtitle": "Etlworks Integrator is a powerful and easy-to-use cloud data integration service that works with structured and unstr...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719969/catalog/etlworks/icon128x128.jpg",
+  "website": "https://etlworks.com"
+}

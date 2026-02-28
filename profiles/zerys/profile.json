@@ -1,0 +1,13 @@
+{
+  "id": "zerys",
+  "title": "Zerys",
+  "subtitle": "Zerys is a content marketing platform for hiring freelance content writers. Learn why you should choose from our 85,0...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946314/catalog/zerys/icon128x128.png",
+  "website": "https://zerys.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sellsy",
+  "title": "Sellsy",
+  "subtitle": "Sellsy is a cloud-based sales management solution for small to midsize businesses. Features include time tracking, sa...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548932885/catalog/sellsy/icon128x128.png",
+  "website": "https://go.sellsy.com/",
+  "docsUrl": "https://api.sellsy.com/"
+}

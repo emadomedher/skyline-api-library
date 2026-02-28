@@ -1,0 +1,14 @@
+{
+  "id": "magentrix",
+  "title": "Magentrix",
+  "subtitle": "Customer and Partner Relationship Management (PRM) Portals for Salesforce",
+  "tags": [
+    "partner-relationship-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610512366/icons/magentrix.jpg",
+  "website": "https://magentrix.com",
+  "docsUrl": "https://help.magentrix.com/devguide"
+}

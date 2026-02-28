@@ -1,0 +1,13 @@
+{
+  "id": "digimind",
+  "title": "Digimind",
+  "subtitle": "Digimind provides comprehensive enterprise tools and resources for social listening, social analytics, and competitiv...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719788/catalog/digimind/icon128x128.jpg",
+  "website": "https://www.digimind.com"
+}

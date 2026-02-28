@@ -1,0 +1,13 @@
+{
+  "id": "icbc-cn",
+  "title": "ICBC China",
+  "subtitle": "Industrial and Commercial Bank of China Limited is a multinational Chinese banking company. Founded as a limited comp...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602198687/icons/icbc-cn.jpg",
+  "website": "https://www.icbc.com.cn/"
+}

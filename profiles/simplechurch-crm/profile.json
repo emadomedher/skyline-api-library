@@ -1,0 +1,13 @@
+{
+  "id": "simplechurch-crm",
+  "title": "SimpleChurch CRM",
+  "subtitle": "Discover the next generation of church management software tools and ministry communications. Online giving, child ch...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722092/catalog/simplechurch-crm/icon128x128.png",
+  "website": "https://simplechurchcrm.com"
+}

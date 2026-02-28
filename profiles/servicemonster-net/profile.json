@@ -1,0 +1,13 @@
+{
+  "id": "servicemonster-net",
+  "title": "ServiceMonster",
+  "subtitle": "Schedule jobs. Get paid. Grow business. The all-in-one software to help you run your cleaning business. Get started f...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581544665/catalog/servicemonster-net/icon128x128.png",
+  "website": "https://www.servicemonster.net/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c2-atom",
+  "title": "C2 ATOM",
+  "subtitle": "C2 Enterprise is a software provider specialized in offering complete IT Service Management solutions, service desk a...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719307/catalog/c2-atom/icon128x128.jpg",
+  "website": "https://c2enterprise.com"
+}

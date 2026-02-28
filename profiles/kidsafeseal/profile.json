@@ -1,0 +1,15 @@
+{
+  "id": "kidsafeseal",
+  "title": "kidSAFE Seal Program",
+  "subtitle": "The kidSAFE Seal Program is a new \"seal of approval\" program that independently reviews and certifies the safety prac...",
+  "tags": [
+    "certifications",
+    "compliance",
+    "coppa"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941465/icons/kidsafeseal.png",
+  "website": "https://www.kidsafeseal.com/"
+}

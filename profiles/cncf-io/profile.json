@@ -1,0 +1,13 @@
+{
+  "id": "cncf-io",
+  "title": "CNCF",
+  "subtitle": "CNCF API integration",
+  "tags": [
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588108022/catalog/cncf-io/icon128x128.jpg",
+  "website": "https://www.cncf.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "collaboro",
+  "title": "Collaboro",
+  "subtitle": "Collaboro API integration",
+  "tags": [
+    "digital-asset-management"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620989219/icons/collaboro.png",
+  "website": "https://collaboro.com/"
+}

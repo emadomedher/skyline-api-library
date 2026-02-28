@@ -1,0 +1,13 @@
+{
+  "id": "uber",
+  "title": "Uber",
+  "subtitle": "Get a ride in minutes. Or become a driver and earn money on your schedule. Uber is finding you better ways to move, w...",
+  "tags": [
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564688862/catalog/uber/icon128x128.jpg",
+  "website": "https://uber.com"
+}

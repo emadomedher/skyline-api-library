@@ -1,0 +1,13 @@
+{
+  "id": "carerix",
+  "title": "Carerix",
+  "subtitle": "Gebaseerd op jarenlange ervaring biedt Carerix een modern platform dat het gehele proces van Werving & Selectie, Uitz...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615517356/icons/carerix.jpg",
+  "website": "https://carerix.com/"
+}

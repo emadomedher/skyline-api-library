@@ -1,0 +1,14 @@
+{
+  "id": "brightspace",
+  "title": "Brightspace",
+  "subtitle": "Created by D2L (formerly Desire2Learn), Brightspace is the best LMS software for online learning and teaching.",
+  "tags": [
+    "learning-management-system-(lms)"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671580/icons/brightspace.png",
+  "website": "https://www.classlink.com/",
+  "docsUrl": "https://www.classlink.com/company/privacy#"
+}

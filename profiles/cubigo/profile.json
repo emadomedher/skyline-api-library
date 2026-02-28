@@ -1,0 +1,15 @@
+{
+  "id": "cubigo",
+  "title": "Cubigo",
+  "subtitle": "Cubigo - The first integrated platform for senior living",
+  "tags": [
+    "elder-care",
+    "health",
+    "health-care"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572314450/catalog/cubigo/icon128x128.jpg",
+  "website": "https://www.cubigo.com"
+}

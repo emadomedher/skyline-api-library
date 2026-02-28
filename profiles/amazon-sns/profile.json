@@ -1,0 +1,13 @@
+{
+  "id": "amazon-sns",
+  "title": "Amazon SNS",
+  "subtitle": "Amazon Simple Notification Service is a flexible, and fast messaging service which is fully managed. SNS is a simple ...",
+  "tags": [
+    "notifications",
+    "aws"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054211/catalog/amazon-sns/icon128x128.png"
+}

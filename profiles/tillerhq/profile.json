@@ -1,0 +1,14 @@
+{
+  "id": "tillerhq",
+  "title": "Tiller Money",
+  "subtitle": "Always know what's happening with your financial life and easily stay on top of your net worth with fast, flexible sp...",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615737943/icons/tillerhq.jpg",
+  "website": "https://www.tillerhq.com/",
+  "docsUrl": "https://help.tillerhq.com/en"
+}

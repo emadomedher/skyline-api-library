@@ -1,0 +1,13 @@
+{
+  "id": "easywebinar",
+  "title": "EasyWebinar",
+  "subtitle": "EasyWebinar is a webinar software program that allows you to go live or use our automated feature to show a pre-recor...",
+  "tags": [
+    "webinars",
+    "marketing-automation"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284504/catalog/easywebinar/icon128x128.png"
+}

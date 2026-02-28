@@ -1,0 +1,14 @@
+{
+  "id": "shipa-io",
+  "title": "Shipa",
+  "subtitle": "Shipa is designed to make it simple for developers to run their code on Kubernetes without having to know Kubernetes.",
+  "tags": [
+    "application-as-code"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801595/icons/shipa-io.jpg",
+  "website": "https://shipa.io/",
+  "docsUrl": "https://learn.shipa.io/docs"
+}

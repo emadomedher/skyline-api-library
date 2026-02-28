@@ -1,0 +1,16 @@
+{
+  "id": "usercentrics",
+  "title": "Usercentrics",
+  "subtitle": "Usercentrics, on of the leading Consent Management Platform (CMP), empowers companies to obtain, manage and document ...",
+  "tags": [
+    "consent-management",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801231/catalog/usercentrics/icon128x128.jpg",
+  "website": "https://usercentrics.com/",
+  "docsUrl": "https://docs.usercentrics.com/#"
+}

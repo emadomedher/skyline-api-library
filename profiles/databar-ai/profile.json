@@ -1,0 +1,13 @@
+{
+  "id": "databar-ai",
+  "title": "Databar.ai",
+  "subtitle": "No-code API marketplace that lets anyone connect with APIs without code.",
+  "tags": [
+    "data-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794374/icons/databar-ai.jpg",
+  "website": "https://databar.ai/"
+}

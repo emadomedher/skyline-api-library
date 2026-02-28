@@ -1,0 +1,14 @@
+{
+  "id": "mentionlytics",
+  "title": "Mentionlytics",
+  "subtitle": "The Intelligent and easy to use Social Media Monitoring Tool. Ideal for Startups and Small-Medium Businesses. Get a f...",
+  "tags": [
+    "social-media-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581457167/catalog/mentionlytics/icon128x128.png",
+  "website": "https://www.mentionlytics.com/",
+  "docsUrl": "https://www.mentionlytics.com/documentation"
+}

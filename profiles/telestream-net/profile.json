@@ -1,0 +1,14 @@
+{
+  "id": "telestream-net",
+  "title": "Screenflow",
+  "subtitle": "Video editing and screen recording software that lets you create high-quality software or iPhone demos, professional ...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305955/catalog/telestream-net/icon128x128.jpg",
+  "website": "https://telestream.net",
+  "docsUrl": "https://www.telestream.net/screenflow/resources.htm#docs"
+}

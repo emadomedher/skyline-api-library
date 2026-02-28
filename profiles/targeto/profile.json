@@ -1,0 +1,13 @@
+{
+  "id": "targeto",
+  "title": "Targeto",
+  "subtitle": "Targeto is a powerful new tool designed to make people based marketing simplify across Google AdWords, Facebook Ads, ...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056516/catalog/targeto/icon128x128.png",
+  "website": "https://targeto.io"
+}

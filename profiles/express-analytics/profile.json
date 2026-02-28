@@ -1,0 +1,13 @@
+{
+  "id": "express-analytics",
+  "title": "Express Analytics",
+  "subtitle": "We offer cloud-based marketing analytics solutions on a SaaS basis. Since past 20 years, it has served clients across...",
+  "tags": [
+    "customer-intelligence-and-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830181/catalog/express-analytics/icon128x128.png",
+  "website": "https://expressanalytics.com"
+}

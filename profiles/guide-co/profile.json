@@ -1,0 +1,13 @@
+{
+  "id": "guide-co",
+  "title": "Guide",
+  "subtitle": "Discover all of Guide's product features that make it easy to deliver a winning candidate experience and convert more...",
+  "tags": [
+    "candidate-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685784920/icons/guide-co.png",
+  "website": "https://www.guide.co/"
+}

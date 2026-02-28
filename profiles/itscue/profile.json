@@ -1,0 +1,13 @@
+{
+  "id": "itscue",
+  "title": "Cue",
+  "subtitle": "Cue API integration",
+  "tags": [
+    "call-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649182475/icons/itscue.jpg",
+  "website": "https://itscue.com/"
+}

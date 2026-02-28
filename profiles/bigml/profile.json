@@ -1,0 +1,12 @@
+{
+  "id": "bigml",
+  "title": "BigML",
+  "subtitle": "BigML is a Machine Learning platform to solve and automate Classification, Regression, Time Series Forecasting, Clust...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284453/catalog/bigml/icon128x128.png"
+}

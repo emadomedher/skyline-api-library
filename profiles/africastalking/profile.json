@@ -1,0 +1,16 @@
+{
+  "id": "africastalking",
+  "title": "Africa's Talking",
+  "subtitle": "A unified API platform for software developers in Africa building SMS, USSD, Voice, Payments and Airtime applications ",
+  "tags": [
+    "commmunication-apis",
+    "sms",
+    "payment-apis"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616783770/icons/africastalking.jpg",
+  "website": "https://africastalking.com/",
+  "docsUrl": "https://developers.africastalking.com"
+}

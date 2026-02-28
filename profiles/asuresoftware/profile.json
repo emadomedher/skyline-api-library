@@ -1,0 +1,16 @@
+{
+  "id": "asuresoftware",
+  "title": "Asure Software",
+  "subtitle": "Asure provides HR consulting & HCM software to growing companies. We \nprovide software and services that work as hard...",
+  "tags": [
+    "hcm",
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622762265/icons/asuresoftware.jpg",
+  "website": "https://www.asuresoftware.com/",
+  "docsUrl": "https://www.asuresoftware.com/#"
+}

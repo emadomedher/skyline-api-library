@@ -1,0 +1,13 @@
+{
+  "id": "dobility",
+  "title": "Dobility",
+  "subtitle": "Dobility, Inc. designs, produces, and supports human-usable technology for research and analysis.",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947130/catalog/dobility/icon128x128.jpg",
+  "website": "https://dobility.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "skeeled",
+  "title": "skeeled",
+  "subtitle": "Explore our artificial intelligence recruitment software and improve your branding & candidate experience through ATS...",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581341279/catalog/skeeled/icon128x128.png",
+  "website": "https://www.skeeled.com/"
+}

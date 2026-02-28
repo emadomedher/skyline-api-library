@@ -1,0 +1,13 @@
+{
+  "id": "populus-ai",
+  "title": "Populus",
+  "subtitle": "Populus is a platform that helps private mobility operators of shared \nbikes, scooters, and cars partner with cities ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268410/icons/populus-ai.jpg",
+  "website": "https://populus.ai"
+}

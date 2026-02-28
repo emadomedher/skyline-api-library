@@ -1,0 +1,14 @@
+{
+  "id": "eluna-ai",
+  "title": "Eluna AI",
+  "subtitle": "Covering the rapidly moving world of AI.",
+  "tags": [
+    "generative-ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681771874/icons/eluna-ai.jpg",
+  "website": "https://www.eluna.ai/",
+  "docsUrl": "https://www.buildt.ai/?ref=eluna"
+}

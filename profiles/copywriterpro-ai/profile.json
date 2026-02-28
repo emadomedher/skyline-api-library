@@ -1,0 +1,13 @@
+{
+  "id": "copywriterpro-ai",
+  "title": "CopywriterPro.ai",
+  "subtitle": "Need help writing marketing content? Our AI copywriting tool will help you write compelling copy that ranks and conve...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471985/icons/copywriterpro-ai.jpg",
+  "website": "https://copywriterpro.ai/"
+}

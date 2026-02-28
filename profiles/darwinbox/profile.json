@@ -1,0 +1,14 @@
+{
+  "id": "darwinbox",
+  "title": "Darwinbox",
+  "subtitle": "Make your enterprise change-ready for now and the next chapter with Darwinbox's end-to-end, agile HCM platform for th...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947169/catalog/darwinbox/icon128x128.jpg",
+  "website": "https://darwinbox.com",
+  "docsUrl": "https://api-docs.darwinbox.com/"
+}

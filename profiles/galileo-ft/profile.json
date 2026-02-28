@@ -1,0 +1,14 @@
+{
+  "id": "galileo-ft",
+  "title": "Galileo Financial Technologies",
+  "subtitle": "Galileo connects you to limitless possibilities in fintech and payments. We don't maintain the status quo; we push fi...",
+  "tags": [
+    "card-issuing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581341281/catalog/galileo-ft/icon128x128.png",
+  "website": "https://www.galileo-ft.com/"
+}

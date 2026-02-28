@@ -1,0 +1,14 @@
+{
+  "id": "openlayer",
+  "title": "Openlayer",
+  "subtitle": "The most advanced platform for building high-quality, trustworthy models from the ground up.",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683375413/icons/openlayer.jpg",
+  "website": "https://www.openlayer.com/",
+  "docsUrl": "https://docs.openlayer.com"
+}

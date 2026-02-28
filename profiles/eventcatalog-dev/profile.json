@@ -1,0 +1,14 @@
+{
+  "id": "eventcatalog-dev",
+  "title": "EventCatalog",
+  "subtitle": "An open source tool powered by markdown to document your Event Driven Architecture.",
+  "tags": [
+    "developer-docs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642281629/icons/eventcatalog-dev.png",
+  "website": "https://eventcatalog.dev/",
+  "docsUrl": "https://eventcatalog.dev/docs/introduction"
+}

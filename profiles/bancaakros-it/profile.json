@@ -1,0 +1,13 @@
+{
+  "id": "bancaakros-it",
+  "title": "Banca Akros",
+  "subtitle": "Banca Akros is an Italian bank based in Milan, Italy and it is a subsidiary of Italian Banco BPM bank. Banca Akros wa...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622166456/icons/bancaakros-it.svg",
+  "website": "https://www.bancaakros.it/"
+}

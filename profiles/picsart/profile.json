@@ -1,0 +1,14 @@
+{
+  "id": "picsart",
+  "title": "Picsart",
+  "subtitle": "Picsart website",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667520209/icons/picsart.png",
+  "website": "https://picsart.com/",
+  "docsUrl": "https://picsart.io"
+}

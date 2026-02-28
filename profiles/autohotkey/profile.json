@@ -1,0 +1,14 @@
+{
+  "id": "autohotkey",
+  "title": "AutoHotkey",
+  "subtitle": "Free keyboard macro program. Supports hotkeys for keyboard, mouse, and joystick. Can expand abbreviations as you type...",
+  "tags": [
+    "automation-scripting-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589447855/catalog/autohotkey/icon128x128.png",
+  "website": "https://www.autohotkey.com/",
+  "docsUrl": "https://www.autohotkey.com/docs/AutoHotkey.htm"
+}

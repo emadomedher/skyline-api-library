@@ -1,0 +1,15 @@
+{
+  "id": "podio",
+  "title": "Podio",
+  "subtitle": "Podio is a collaborative work platform that's perfect for managing projects, teams, and anything else in your busines...",
+  "tags": [
+    "team-collaboration",
+    "project-management",
+    "app-builder"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456344/catalog/podio/icon128x128.png",
+  "website": "https://podio.com/"
+}

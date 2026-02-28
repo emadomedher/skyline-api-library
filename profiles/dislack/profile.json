@@ -1,0 +1,13 @@
+{
+  "id": "dislack",
+  "title": "Dislack",
+  "subtitle": "Half form builder, half database and fully customizable. Join the makers using Dislack to create, collect and connect...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561982596/catalog/dislack/icon128x128.jpg",
+  "website": "https://dislack.com/"
+}

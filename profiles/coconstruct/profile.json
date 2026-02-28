@@ -1,0 +1,13 @@
+{
+  "id": "coconstruct",
+  "title": "CoConstruct",
+  "subtitle": "40,000+ Residential contractors use CoConstruct to manage operations, from estimating + proposals to project manageme...",
+  "tags": [
+    "construction-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575432896/catalog/coconstruct/icon128x128.png",
+  "website": "https://www.coconstruct.com/"
+}

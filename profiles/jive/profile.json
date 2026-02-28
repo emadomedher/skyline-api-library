@@ -1,0 +1,13 @@
+{
+  "id": "jive",
+  "title": "Jive",
+  "subtitle": "Jive is social business. It makes it easy to socialize your business processes and bring employees together.",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055998/catalog/jive/icon128x128.png",
+  "website": "https://jivesoftware.com"
+}

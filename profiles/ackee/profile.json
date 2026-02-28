@@ -1,0 +1,15 @@
+{
+  "id": "ackee",
+  "title": "Ackee",
+  "subtitle": "Self-hosted, Node.js based analytics tool for those who care about privacy.",
+  "tags": [
+    "privacy",
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603816030/icons/ackee.jpg",
+  "website": "https://ackee.electerious.com/",
+  "docsUrl": "https://docs.ackee.electerious.com/#/docs/get%20started"
+}

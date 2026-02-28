@@ -1,0 +1,13 @@
+{
+  "id": "bluemotorfinance-uk",
+  "title": "Blue Motor Finance",
+  "subtitle": "Blue Motor Finance API integration",
+  "tags": [
+    "auto-motor-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616958867/icons/bluemotorfinance-uk.jpg",
+  "website": "https://bluemotorfinance.co.uk/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "accountsflow",
+  "title": "AccountsFlow",
+  "subtitle": "A fully automated E-Invoicing system designed for restaurants and retails that integrates with your POS and inventory...",
+  "tags": [
+    "restaurant-inventory-management",
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588108029/catalog/accountsflow/icon128x128.jpg",
+  "website": "https://www.accountsflow.com/"
+}

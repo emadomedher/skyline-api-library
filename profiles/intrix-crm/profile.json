@@ -1,0 +1,13 @@
+{
+  "id": "intrix-crm",
+  "title": "Intrix CRM",
+  "subtitle": "Cjelovit pogled nad klijentima i svim prodajnim aktivnostima na jednom mjestu. Isprobajte sustav Intrix CRM besplatno...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720537/catalog/intrix-crm/icon128x128.png",
+  "website": "https://intrixcrm.com"
+}

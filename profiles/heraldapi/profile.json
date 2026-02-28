@@ -1,0 +1,15 @@
+{
+  "id": "heraldapi",
+  "title": "Herald",
+  "subtitle": "Developers use Herald to quote and bind insurance from multiple carriers through a single API.",
+  "tags": [
+    "commercial-insurance-api",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655506261/icons/heraldapi.png",
+  "website": "https://www.heraldapi.com/",
+  "docsUrl": "https://docs.heraldapi.com"
+}

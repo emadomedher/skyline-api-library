@@ -1,0 +1,14 @@
+{
+  "id": "oaky",
+  "title": "Oaky",
+  "subtitle": "Oaky drives incremental revenue and enhances the guest experience through targeted pre-arrival upselling - trusted pa...",
+  "tags": [
+    "email-marketing",
+    "hospitality"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724218/icons/oaky.jpg",
+  "website": "https://www.oaky.com/"
+}

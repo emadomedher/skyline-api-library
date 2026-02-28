@@ -1,0 +1,13 @@
+{
+  "id": "slack-workflow-builder",
+  "title": "Slack Workflow Builder",
+  "subtitle": "Easily create custom workflows to automate the things you do every day. Workflow Builder even connects to Slack apps ...",
+  "tags": [
+    "workflow-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642182926/icons/slack-workflow-builder.jpg",
+  "website": "https://slack.com/features/workflow-automation"
+}

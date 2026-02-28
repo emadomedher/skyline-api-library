@@ -1,0 +1,15 @@
+{
+  "id": "aptapapp-uk",
+  "title": "ApTap",
+  "subtitle": "ApTap automatically organises and compares bills to deals on the market. Simply cancel, switch or sign up with just a...",
+  "tags": [
+    "subscription-management",
+    "bill-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594660807/icons/aptapapp-uk.png",
+  "website": "https://www.aptapapp.co.uk/"
+}

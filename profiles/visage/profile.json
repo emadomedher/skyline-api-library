@@ -1,0 +1,13 @@
+{
+  "id": "visage",
+  "title": "Visage",
+  "subtitle": "For content marketers who need to create a lot of visual content,  Visage is a design tool that makes on-brand conten...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306440/catalog/visage/icon128x128.png",
+  "website": "https://visage.co"
+}

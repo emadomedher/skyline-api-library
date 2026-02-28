@@ -1,0 +1,14 @@
+{
+  "id": "timeseer-ai",
+  "title": "Timeseer.AI",
+  "subtitle": "Time-series Data reliability & Observability platform. Tame unreliable data \nand reduce overall data downtime with Ti...",
+  "tags": [
+    "dataops",
+    "data-observability"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887367/icons/timeseer-ai.jpg",
+  "website": "https://www.timeseer.ai/"
+}

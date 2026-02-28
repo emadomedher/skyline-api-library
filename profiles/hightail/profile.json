@@ -1,0 +1,13 @@
+{
+  "id": "hightail",
+  "title": "Hightail",
+  "subtitle": "Send large files, preview visual assets, collect precise feedback and keep creative projects moving in one easy and s...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946945/catalog/hightail/icon128x128.jpg",
+  "website": "https://hightail.com"
+}

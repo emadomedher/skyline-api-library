@@ -1,0 +1,13 @@
+{
+  "id": "pyrus",
+  "title": "Pyrus",
+  "subtitle": "Pyrus is the team communication tool that helps get things done. It's real-time messaging, task delegation, and appro...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946691/catalog/pyrus/icon128x128.png",
+  "website": "https://pyrus.com"
+}

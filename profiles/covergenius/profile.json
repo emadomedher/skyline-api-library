@@ -1,0 +1,14 @@
+{
+  "id": "covergenius",
+  "title": "Cover Genius",
+  "subtitle": "We protect millions of customers from the world’s largest online companies including Booking Holdings, eBay, ShipStat...",
+  "tags": [
+    "embedded-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528063/icons/covergenius.png",
+  "website": "https://www.covergenius.com/",
+  "docsUrl": "https://www.covergenius.com/api/docs/xcover"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mura",
+  "title": "Mura",
+  "subtitle": "Mura CMS is built with one focused purpose in mind - to make it easier and faster for people to build and update webs...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826995/catalog/mura/icon128x128.jpg",
+  "website": "https://getmura.com"
+}

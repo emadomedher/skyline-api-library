@@ -1,0 +1,14 @@
+{
+  "id": "operand-ai",
+  "title": "Operand",
+  "subtitle": "Operand API integration",
+  "tags": [
+    "knowledge-graphs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678635448/icons/operand-ai.png",
+  "website": "https://operand.ai/",
+  "docsUrl": "https://operand.ai/developers"
+}

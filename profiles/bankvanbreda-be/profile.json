@@ -1,0 +1,14 @@
+{
+  "id": "bankvanbreda-be",
+  "title": "Bank van Breda",
+  "subtitle": "Bank J.Van Breda & C° helpt u bij de systematische opbouw, het beheer en bescherming van uw vermogen.\n\nBij ons kan u ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563415566/catalog/bankvanbreda-be/icon128x128.png",
+  "website": "https://bankvanbreda.be",
+  "docsUrl": "https://xs2a-devportal.bankvanbreda.be/"
+}

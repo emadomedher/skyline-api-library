@@ -1,0 +1,14 @@
+{
+  "id": "hostelworld",
+  "title": "Hostelworld",
+  "subtitle": "Stay in a hostel and meet the real world, not the tourist brochure. Read millions of hostel reviews from fellow trave...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448035/icons/hostelworld.jpg",
+  "website": "https://www.hostelworld.com/"
+}

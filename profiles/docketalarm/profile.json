@@ -1,0 +1,14 @@
+{
+  "id": "docketalarm",
+  "title": "Docket Alarm",
+  "subtitle": "Delivers Federal state, and IP agency filings to attorneys, paralegals. Search and run analytics.",
+  "tags": [
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675282584/icons/docketalarm.jpg",
+  "website": "https://www.docketalarm.com/",
+  "docsUrl": "https://www.docketalarm.com/posts/2014/6/23/terms-and-connectors-searching-with-docket-alarm"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "smileio",
+  "title": "Smile.io",
+  "subtitle": "Build customer loyalty, increase retention, and enable sustainable growth through a brand community. It is all possib...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722158/catalog/smileio/icon128x128.jpg",
+  "website": "https://smile.io"
+}

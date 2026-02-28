@@ -1,0 +1,14 @@
+{
+  "id": "vendure-io",
+  "title": "Vendure",
+  "subtitle": "Vendure is an open-source headless e-commerce framework built on Node.js, TypeScript and GraphQL",
+  "tags": [
+    "headless-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093460/icons/vendure-io.jpg",
+  "website": "https://www.vendure.io/",
+  "docsUrl": "https://www.vendure.io/docs"
+}

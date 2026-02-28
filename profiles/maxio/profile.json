@@ -1,0 +1,13 @@
+{
+  "id": "maxio",
+  "title": "Maxio",
+  "subtitle": "Maxio brings core financial operations into one platform to help SaaS companies uncover critical financial insights a...",
+  "tags": [
+    "financial-operations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671518208/icons/maxio.jpg",
+  "website": "https://www.maxio.com/"
+}

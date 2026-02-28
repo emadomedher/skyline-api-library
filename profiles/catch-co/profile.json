@@ -1,0 +1,14 @@
+{
+  "id": "catch-co",
+  "title": "Catch",
+  "subtitle": "Set aside for taxes. Take care of retirement. Save thousands on health insurance. The only personal payroll and benef...",
+  "tags": [
+    "employee-benefits",
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661844578/icons/catch-co.jpg",
+  "website": "https://catch.co/"
+}

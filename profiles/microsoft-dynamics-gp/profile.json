@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-dynamics-gp",
+  "title": "Microsoft Dynamics GP",
+  "subtitle": "Microsoft Dynamics GP is a mid-market business accounting software or ERP software package marketed in North and Sout...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062132/catalog/microsoft-dynamics-gp/icon128x128.png",
+  "website": "https://dynamics.microsoft.com/en-us/gp-overview/"
+}

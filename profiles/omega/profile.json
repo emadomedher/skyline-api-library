@@ -1,0 +1,13 @@
+{
+  "id": "omega",
+  "title": "Omega",
+  "subtitle": "Omega is the first performance management application for Marketo. Omega gives Marketo users insights, corrects probl...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436218/catalog/omega/icon128x128.png",
+  "website": "https://omegaproject.io"
+}

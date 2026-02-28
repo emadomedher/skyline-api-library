@@ -1,0 +1,15 @@
+{
+  "id": "truv",
+  "title": "Truv",
+  "subtitle": "Connect to over 100M payroll and HRIS accounts via a single API and make it easy for your customers to verify employm...",
+  "tags": [
+    "unified-apis",
+    "payroll-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650533436/icons/truv.png",
+  "website": "https://www.truv.com/",
+  "docsUrl": "https://docs.truv.com/docs/quickstart#setup-quickstart"
+}

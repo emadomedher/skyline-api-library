@@ -1,0 +1,13 @@
+{
+  "id": "quantumworkplace",
+  "title": "Quantum Workplace",
+  "subtitle": "Quantum Workplace provides the most reliable solutions for employee success. Our platform helps business leaders see,...",
+  "tags": [
+    "employee-performance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556196/icons/quantumworkplace.jpg",
+  "website": "https://www.quantumworkplace.com/"
+}

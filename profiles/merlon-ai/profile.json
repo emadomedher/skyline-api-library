@@ -1,0 +1,14 @@
+{
+  "id": "merlon-ai",
+  "title": "Merlon",
+  "subtitle": "The world’s most advanced, AI-powered adverse media research platform for enhanced AML and KYC Investigations.   Redu...",
+  "tags": [
+    "kyc",
+    "aml"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597876581/icons/merlon-ai.png",
+  "website": "https://merlon.ai/"
+}

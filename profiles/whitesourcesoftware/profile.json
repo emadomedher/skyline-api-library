@@ -1,0 +1,15 @@
+{
+  "id": "whitesourcesoftware",
+  "title": "WhiteSource",
+  "subtitle": "WhiteSource offers an open source license management and security solution. WhiteSource automates the entire process ...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193203/catalog/whitesourcesoftware/icon128x128.png",
+  "website": "https://www.whitesourcesoftware.com",
+  "docsUrl": "https://www.whitesourcesoftware.com/developers-security-report"
+}

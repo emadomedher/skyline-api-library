@@ -1,0 +1,14 @@
+{
+  "id": "insided",
+  "title": "inSided",
+  "subtitle": "The only customer success community platform built to help B2B SaaS improve customer success and retention. Measurabl...",
+  "tags": [
+    "community-and-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720506/catalog/insided/icon128x128.png",
+  "website": "https://insided.com",
+  "docsUrl": "https://api2-eu-west-1.insided.com/docs/"
+}

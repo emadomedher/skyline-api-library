@@ -1,0 +1,13 @@
+{
+  "id": "sprinxcrm",
+  "title": "SprinxCRM",
+  "subtitle": "Sprinx CRM Real Time CRM",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946543/catalog/sprinxcrm/icon128x128.jpg",
+  "website": "https://sprinxcrm.com"
+}

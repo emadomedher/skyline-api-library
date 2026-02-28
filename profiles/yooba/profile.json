@@ -1,0 +1,13 @@
+{
+  "id": "yooba",
+  "title": "Yooba",
+  "subtitle": "Yooba connect the dots between reps, sales activities, content, prospects. Qualified buyers, shorter sales cycles, be...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828079/catalog/yooba/icon128x128.jpg",
+  "website": "https://yooba.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "freeagent-crm",
+  "title": "FreeAgent CRM",
+  "subtitle": "FreeAgent CRM is a sales, marketing and customer service platform for businesses big-and-small who care about their c...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775135/catalog/freeagent-crm/icon128x128.jpg",
+  "website": "https://freeagentcrm.com"
+}

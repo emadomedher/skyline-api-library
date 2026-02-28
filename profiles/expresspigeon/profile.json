@@ -1,0 +1,13 @@
+{
+  "id": "expresspigeon",
+  "title": "ExpressPigeon",
+  "subtitle": "ExpressPigeon is a comprehensive Marketing and Transactional email service provider offering flexible deliverability ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304888/catalog/expresspigeon/icon128x128.png",
+  "website": "https://expresspigeon.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "reward-sciences",
+  "title": "Reward Sciences",
+  "subtitle": "Reward Sciences is a loyalty system that lets you incentivize and reward your end users as they engage on one or more...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305890/catalog/reward-sciences/icon128x128.png"
+}

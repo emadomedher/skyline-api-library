@@ -1,0 +1,13 @@
+{
+  "id": "trendalytics-co",
+  "title": "Trendalytics",
+  "subtitle": "A state-of-the-art analytics platform that empowers retailers to make more profitable decisions by aggregating and de...",
+  "tags": [
+    "retail-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606355126/icons/trendalytics-co.jpg",
+  "website": "https://www.trendalytics.co/"
+}

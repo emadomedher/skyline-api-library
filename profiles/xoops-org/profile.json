@@ -1,0 +1,14 @@
+{
+  "id": "xoops-org",
+  "title": "xoops.org",
+  "subtitle": "xoops.org API integration",
+  "tags": [
+    "cms",
+    "open-source"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509849/catalog/xoops-org/icon128x128.jpg",
+  "website": "https://xoops.org/"
+}

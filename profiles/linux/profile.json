@@ -1,0 +1,13 @@
+{
+  "id": "linux",
+  "title": "Linux",
+  "subtitle": "Linux is a family of open source Unix-like operating systems based on the Linux kernel, an operating system kernel fi...",
+  "tags": [
+    "operating-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598958140/icons/linux.svg",
+  "website": "https://www.linux.org/"
+}

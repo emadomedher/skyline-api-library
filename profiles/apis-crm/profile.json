@@ -1,0 +1,13 @@
+{
+  "id": "apis-crm",
+  "title": "Apis CRM",
+  "subtitle": "Simple to Use Web Based CRM Software / Hosted Customer Relationship Management Software for Firms of all Sizes.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718953/catalog/apis-crm/icon128x128.jpg",
+  "website": "https://apiscrm.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "apptivo",
+  "title": "Apptivo",
+  "subtitle": "Apptivo Business Management Software includes Online CRM software, Invoice software, Expense report, Field service, p...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178308/catalog/apptivo/icon128x128.png",
+  "website": "https://apptivo.com"
+}

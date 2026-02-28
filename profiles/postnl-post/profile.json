@@ -1,0 +1,14 @@
+{
+  "id": "postnl-post",
+  "title": "PostNL",
+  "subtitle": "You can track your international registered mail item or packet to its destination by using our online international ...",
+  "tags": [
+    "shipping-carriers",
+    "postal-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599461949/icons/postnl-post.jpg",
+  "website": "https://postnl.post/"
+}

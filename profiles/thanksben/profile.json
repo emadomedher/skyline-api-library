@@ -1,0 +1,13 @@
+{
+  "id": "thanksben",
+  "title": "Ben",
+  "subtitle": "Add flexibility to your existing benefits and offer anything through the Ben Card, for less than what you spend today...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612187945/icons/thanksben.jpg",
+  "website": "https://www.thanksben.com/"
+}

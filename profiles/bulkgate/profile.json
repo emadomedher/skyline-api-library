@@ -1,0 +1,12 @@
+{
+  "id": "bulkgate",
+  "title": "BulkGate",
+  "subtitle": "BulkGate is a messaging platform that enables companies and individuals to spread their message to anyone, anywhere i...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284467/catalog/bulkgate/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wufoo",
+  "title": "Wufoo",
+  "subtitle": "Wufoo is an easy way to create and manage HTML forms.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456087/catalog/wufoo/icon128x128.png",
+  "website": "https://www.wufoo.com/"
+}

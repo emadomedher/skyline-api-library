@@ -1,0 +1,15 @@
+{
+  "id": "dock-io",
+  "title": "Dock",
+  "subtitle": "Dock provides a range of tools incorporating blockchain technology that enables businesses and developers to create t...",
+  "tags": [
+    "blockchain",
+    "verifiable-credentials"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603215553/icons/dock-io.png",
+  "website": "https://www.dock.io/",
+  "docsUrl": "https://docs.dock.io"
+}

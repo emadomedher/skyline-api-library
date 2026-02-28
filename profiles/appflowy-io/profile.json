@@ -1,0 +1,15 @@
+{
+  "id": "appflowy-io",
+  "title": "AppFlowy",
+  "subtitle": "AppFlowy is an open source alternative to Notion. You are in charge of your \ndata and customizations.",
+  "tags": [
+    "notes",
+    "documents",
+    "open-source"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638474666/icons/appflowy-io.jpg",
+  "website": "https://www.appflowy.io/"
+}

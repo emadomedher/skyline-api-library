@@ -1,0 +1,13 @@
+{
+  "id": "rascasse",
+  "title": "Rascasse",
+  "subtitle": "Rascasse helps clientes to make better decisions with more accurate, timely customer insights. 100% GDRP compliant.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721741/catalog/rascasse/icon128x128.jpg",
+  "website": "https://rascasse.com"
+}

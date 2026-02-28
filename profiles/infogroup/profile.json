@@ -1,0 +1,13 @@
+{
+  "id": "infogroup",
+  "title": "Infogroup",
+  "subtitle": "Infogroup API integration",
+  "tags": [
+    "data-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435115/catalog/infogroup/icon128x128.png",
+  "website": "https://infogroup.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "scratchpad",
+  "title": "Scratchpad",
+  "subtitle": "Scratchpad is the fastest way to update Salesforce, take sales notes, and stay on top of to-dos. Designed for account...",
+  "tags": [
+    "sales",
+    "account-executive"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602003078/icons/scratchpad.png",
+  "website": "https://scratchpad.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "compass",
+  "title": "Compass",
+  "subtitle": "Buy, sell, and rent smarter with Compass. Partner with a local real estate agent to find the home or apartment that’s...",
+  "tags": [
+    "ecommerce-marketing",
+    "real-estate-portals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433861/catalog/compass/icon128x128.png",
+  "website": "https://compass.co",
+  "docsUrl": "https://docs.google.com/forms/d/1cqlglpuckacm5eg9eukpzmbvuteqmbg3dsfqrzv-168/edit?urp=gmail_link"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "formhero",
+  "title": "FormHero",
+  "subtitle": "Pragmatic digitization for enterprise with Smart Forms.  Create engaging experiences for your customers while maintai...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610985344/icons/formhero.jpg",
+  "website": "https://www.formhero.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bookmate-be",
+  "title": "BookMate",
+  "subtitle": "Met BookMate introduceert CodaBox een dienst speciaal voor boekhoudkantoren, accountants en hun klanten.",
+  "tags": [
+    "accounting",
+    "collaboration"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563113142/catalog/bookmate-be/icon128x128.png",
+  "website": "https://bookmate.be"
+}

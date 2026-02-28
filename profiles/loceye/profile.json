@@ -1,0 +1,13 @@
+{
+  "id": "loceye",
+  "title": "Loceye",
+  "subtitle": "Eyetracking platform for Advertisers, Marketeers or Designers.",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946852/catalog/loceye/icon128x128.jpg",
+  "website": "https://loceye.io"
+}

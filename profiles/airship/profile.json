@@ -1,0 +1,14 @@
+{
+  "id": "airship",
+  "title": "Airship",
+  "subtitle": "Deliver meaningful messages at every stage of the customer lifecycle with the Customer Engagement Platform built for ...",
+  "tags": [
+    "customer-engagement-platform",
+    "push-notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581592727/catalog/airship/icon128x128.png",
+  "website": "https://www.airship.com/"
+}

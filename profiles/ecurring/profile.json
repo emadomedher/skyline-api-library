@@ -1,0 +1,14 @@
+{
+  "id": "ecurring",
+  "title": "eCurring",
+  "subtitle": "Verify customers by first payment, email or text. More paid invoices by automatic follow up after chargebacks. Let yo...",
+  "tags": [
+    "subscription-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562335001/catalog/ecurring/icon128x128.jpg",
+  "website": "https://ecurring.com",
+  "docsUrl": "https://www.ecurring.com/developers"
+}

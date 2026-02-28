@@ -1,0 +1,13 @@
+{
+  "id": "gro-crm",
+  "title": "Gro CRM",
+  "subtitle": "Gro CRM is the Mac CRM small business platform that will accelerate growth. Built exclusively for the Apple small bus...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305067/catalog/gro-crm/icon128x128.png",
+  "website": "https://grocrm.com"
+}

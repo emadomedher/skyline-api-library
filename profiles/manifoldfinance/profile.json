@@ -1,0 +1,14 @@
+{
+  "id": "manifoldfinance",
+  "title": "Manifold Finance",
+  "subtitle": "Manifold Finance API integration",
+  "tags": [
+    "defi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644983610/icons/manifoldfinance.png",
+  "website": "https://manifoldfinance.com/",
+  "docsUrl": "https://docs.openmev.org"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tidio-chat",
+  "title": "Tidio Chat",
+  "subtitle": "A beautiful Live Chat solution. Talk with your customers in real time and increase your sales. Available in free and ...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437978/catalog/tidio-chat/icon128x128.png",
+  "website": "https://tidiochat.com"
+}

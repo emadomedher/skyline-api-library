@@ -1,0 +1,14 @@
+{
+  "id": "openscreen",
+  "title": "Openscreen",
+  "subtitle": "Generate Unique, Dynamic and trackable QR Codes at Scale with our QR Code Studio and SDK. Try it for free today!",
+  "tags": [
+    "qr-codes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659049725/icons/openscreen.jpg",
+  "website": "https://www.openscreen.com/",
+  "docsUrl": "https://api-docs.openscreen.com/reference/getaccesstoken"
+}

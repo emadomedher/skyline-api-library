@@ -1,0 +1,13 @@
+{
+  "id": "zeda-io",
+  "title": "Zeda.io",
+  "subtitle": "Zeda.io is a product management suite that brings all the things needed to define, manage, and collaborate on your pr...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643370395/icons/zeda-io.jpg",
+  "website": "https://zeda.io/"
+}

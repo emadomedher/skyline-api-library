@@ -1,0 +1,16 @@
+{
+  "id": "skyscanner-net",
+  "title": "Skyscanner",
+  "subtitle": "Vergelijk gratis miljoenen vliegtickets, vluchten, autoverhuur en hotels wereldwijd! Skyscanner is de reiszoekmachine...",
+  "tags": [
+    "travel-aggregators",
+    "flights",
+    "metasearch-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572174992/catalog/skyscanner-net/icon128x128.jpg",
+  "website": "https://www.skyscanner.net/",
+  "docsUrl": "https://www.partners.skyscanner.net/developer-documentation"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cleanshot",
+  "title": "CleanShot X for Mac",
+  "subtitle": "CleanShot X is the best screenshot and screen recording app for Mac with a built-in annotation tool, Cloud uploading,...",
+  "tags": [
+    "design",
+    "screenshot"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612465818/icons/cleanshot.png",
+  "website": "https://cleanshot.com/",
+  "docsUrl": "https://twitter.com/mattrambles"
+}

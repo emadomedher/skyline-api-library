@@ -1,0 +1,13 @@
+{
+  "id": "centrium-crm",
+  "title": "Centrium CRM",
+  "subtitle": "Easy to use and affordable cloud-based CRM software. Organize and grow your business today. Get started for free!",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719545/catalog/centrium-crm/icon128x128.png",
+  "website": "https://centriumcrm.com"
+}

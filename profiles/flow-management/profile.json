@@ -1,0 +1,12 @@
+{
+  "id": "flow-management",
+  "title": "Flow management",
+  "subtitle": "Enables interaction with flow management service.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264793/catalog/flow-management/icon128x128.png"
+}

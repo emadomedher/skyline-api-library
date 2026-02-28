@@ -1,0 +1,14 @@
+{
+  "id": "activeprospect",
+  "title": "ActiveProspect",
+  "subtitle": "We give you the insight and control to take action on your leads. Filter unwanted leads, document consent for TCPA co...",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432715/catalog/activeprospect/icon128x128.png",
+  "website": "https://activeprospect.com",
+  "docsUrl": "https://docs.activeprospect.com"
+}

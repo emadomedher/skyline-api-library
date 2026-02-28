@@ -1,0 +1,13 @@
+{
+  "id": "drupal",
+  "title": "Drupal",
+  "subtitle": "Drupal is an extremely popular open source CMS that has tons of features like Webform and Form Builder, as well as ev...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055864/catalog/drupal/icon128x128.png",
+  "website": "https://drupal.org"
+}

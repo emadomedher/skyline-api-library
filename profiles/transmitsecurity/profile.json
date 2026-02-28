@@ -1,0 +1,14 @@
+{
+  "id": "transmitsecurity",
+  "title": "Transmit Security",
+  "subtitle": "Delivering powerful identity experiences that delight users across any device and channel. Effortless authentication ...",
+  "tags": [
+    "passwordless-auth"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644983578/icons/transmitsecurity.png",
+  "website": "https://www.transmitsecurity.com/",
+  "docsUrl": "https://www.transmitsecurity.com/developer"
+}

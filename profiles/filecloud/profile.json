@@ -1,0 +1,12 @@
+{
+  "id": "filecloud",
+  "title": "FileCloud",
+  "subtitle": "FileCloud is an Enterprise File Access and Share solution that runs on-premise, integrated with your own IT infrastru...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304907/catalog/filecloud/icon128x128.png"
+}

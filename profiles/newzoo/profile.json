@@ -1,0 +1,15 @@
+{
+  "id": "newzoo",
+  "title": "Newzoo",
+  "subtitle": "Newzoo is the world's most trusted source for games and esports analytics and market research. No matter your goals, ...",
+  "tags": [
+    "gaming",
+    "esports",
+    "market-intelligence-platforms"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588389110/catalog/newzoo/icon128x128.jpg",
+  "website": "https://newzoo.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "surferseo",
+  "title": "Surfer",
+  "subtitle": "Make your SEO easier, faster, and more effective than ever. Use our data-driven, real-time guidelines to rank in sear...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611928728/icons/surferseo.jpg",
+  "website": "https://surferseo.com/"
+}

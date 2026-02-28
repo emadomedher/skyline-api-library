@@ -1,0 +1,13 @@
+{
+  "id": "design-pickle",
+  "title": "Design Pickle",
+  "subtitle": "Design Pickle is an unlimited design service that lets you outsource your design needs for a flat monthly fee.",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284494/catalog/design-pickle/icon128x128.png",
+  "website": "https://zapier.com/apps/design-pickle"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "watershed",
+  "title": "Watershed LRS",
+  "subtitle": "Watershed LRS is a learning analytics platform that provides actionable insights from your training and performance d...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306461/catalog/watershed/icon128x128.png"
+}

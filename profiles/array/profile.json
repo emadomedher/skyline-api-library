@@ -1,0 +1,15 @@
+{
+  "id": "array",
+  "title": "Array",
+  "subtitle": "Seamlessly integrate consumer credit, identity and background data into your user experience and marketing funnels.",
+  "tags": [
+    "credit-data-api",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1654110640/icons/array.png",
+  "website": "https://array.com/",
+  "docsUrl": "https://array.com/developers"
+}

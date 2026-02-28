@@ -1,0 +1,14 @@
+{
+  "id": "fusionauth-io",
+  "title": "FusionAuth",
+  "subtitle": "FusionAuth is a scalable, identity and user management platform built for devs. Run it on any computer anywhere in th...",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364585/icons/fusionauth-io.jpg",
+  "website": "https://fusionauth.io/",
+  "docsUrl": "https://fusionauth.io/features/built-for-developers"
+}

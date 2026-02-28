@@ -1,0 +1,13 @@
+{
+  "id": "shareworks",
+  "title": "Shareworks by Morgan Stanley",
+  "subtitle": "Learn about Shareworks by Morgan Stanley's equity solutions software and services. Featuring global equity plan suppo...",
+  "tags": [
+    "equity-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599266083/icons/shareworks.jpg",
+  "website": "https://www.shareworks.com/"
+}

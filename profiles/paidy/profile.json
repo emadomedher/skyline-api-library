@@ -1,0 +1,14 @@
+{
+  "id": "paidy",
+  "title": "Paidy",
+  "subtitle": "Paidy(ペイディー)はオンラインショップで最もカンタンにご利用いただける決済サービスです。事前登録やクレジットカードは必要なく、携帯電話番号とメールアドレスのみで決済いただけます。お近くのコンビニまたは銀行で、まとめて月1回お支払...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779846/catalog/paidy/icon128x128.jpg",
+  "website": "https://paidy.com/",
+  "docsUrl": "https://paidy.com/docs/jp"
+}

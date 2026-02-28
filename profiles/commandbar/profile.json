@@ -1,0 +1,14 @@
+{
+  "id": "commandbar",
+  "title": "CommandBar",
+  "subtitle": "CommandBar gives your users onboarding nudges, quick actions, relevant support content, and powerful search, in one `...",
+  "tags": [
+    "search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628565217/icons/commandbar.png",
+  "website": "https://www.commandbar.com/",
+  "docsUrl": "https://app.commandbar.com/login"
+}

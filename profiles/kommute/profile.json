@@ -1,0 +1,13 @@
+{
+  "id": "kommute",
+  "title": "Kommute",
+  "subtitle": "Kommute is a new, more effective way of communicating with co-workers and customers through interactive, two-way vide...",
+  "tags": [
+    "video-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602966197/icons/kommute.png",
+  "website": "https://www.kommute.com/"
+}

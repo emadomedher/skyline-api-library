@@ -1,0 +1,13 @@
+{
+  "id": "gain",
+  "title": "Gain",
+  "subtitle": "Gain speeds up collaboration, automates the approval process, and organizes all of your content in one, sane place. K...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720183/catalog/gain/icon128x128.jpg",
+  "website": "https://gainapp.com"
+}

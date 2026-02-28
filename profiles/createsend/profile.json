@@ -1,0 +1,12 @@
+{
+  "id": "createsend",
+  "title": "Createsend",
+  "subtitle": "Createsend is an email marketing tool built for designers. Createsend makes it easy to send beautiful emails, manage ...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304701/catalog/createsend/icon128x128.png"
+}

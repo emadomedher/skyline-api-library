@@ -1,0 +1,14 @@
+{
+  "id": "phonepe",
+  "title": "PhonePe",
+  "subtitle": "PhonePe.com revolutionizing payments by building India's Payments App to provide a cashless and a seamless payment ex...",
+  "tags": [
+    "mobile-wallets",
+    "instant-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575220011/catalog/phonepe/icon128x128.jpg",
+  "website": "https://phonepe.com/"
+}

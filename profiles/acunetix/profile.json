@@ -1,0 +1,15 @@
+{
+  "id": "acunetix",
+  "title": "Acunetix",
+  "subtitle": "Acunetix is an end-to-end web security scanner that offers a 360 view of an organization’s security. Allowing you to ...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193081/catalog/acunetix/icon128x128.jpg",
+  "website": "https://www.acunetix.com/?home=vt1",
+  "docsUrl": "https://www.acunetix.com/blog/category/docs"
+}

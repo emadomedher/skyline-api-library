@@ -1,0 +1,13 @@
+{
+  "id": "arcade-co",
+  "title": "Arcade",
+  "subtitle": "Arcade uses gamification to help teams connect, motivate, and perform better.",
+  "tags": [
+    "sales-performance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625450258/icons/arcade-co.jpg",
+  "website": "https://arcade.co/"
+}

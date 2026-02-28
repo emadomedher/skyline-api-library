@@ -1,0 +1,14 @@
+{
+  "id": "demyst",
+  "title": "Demyst",
+  "subtitle": "Demyst unblocks the most important use cases through the unrealized potential of external data.",
+  "tags": [
+    "data-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599025781/icons/demyst.jpg",
+  "website": "https://demyst.com/",
+  "docsUrl": "https://demyst.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "genesys",
+  "title": "Genesys",
+  "subtitle": "Genesys is a leader for omnichannel customer experience & contact centre solutions, trusted by 10,000+ companies in o...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720201/catalog/genesys/icon128x128.jpg",
+  "website": "https://genesys.com"
+}

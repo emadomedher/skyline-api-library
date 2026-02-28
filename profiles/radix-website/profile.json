@@ -1,0 +1,13 @@
+{
+  "id": "radix-website",
+  "title": "Radix",
+  "subtitle": "Radix is the world's 3rd largest domain portfolio registry.",
+  "tags": [
+    "domain-registrars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579208772/catalog/radix-website/icon128x128.jpg",
+  "website": "https://radix.website/"
+}

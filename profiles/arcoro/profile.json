@@ -1,0 +1,14 @@
+{
+  "id": "arcoro",
+  "title": "Arcoro",
+  "subtitle": "With Arcoro's modular HRIS, hire the right people faster, manage compliance and employee relations, and empower your ...",
+  "tags": [
+    "hris",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668171290/icons/arcoro.png",
+  "website": "https://arcoro.com/"
+}

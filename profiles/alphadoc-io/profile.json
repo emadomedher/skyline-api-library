@@ -1,0 +1,13 @@
+{
+  "id": "alphadoc-io",
+  "title": "Alphadoc",
+  "subtitle": "Easily ship great docs and tutorials, level up your developer experience",
+  "tags": [
+    "developer-docs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414448/icons/alphadoc-io.jpg",
+  "website": "https://alphadoc.io/"
+}

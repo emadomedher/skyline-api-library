@@ -1,0 +1,13 @@
+{
+  "id": "salesforce-apex",
+  "title": "Apex Salesforce",
+  "subtitle": "Apex is a strongly typed, object-oriented programming language that allows developers to execute flow and transaction...",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616020384/icons/salesforce-apex.png",
+  "website": "https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm"
+}

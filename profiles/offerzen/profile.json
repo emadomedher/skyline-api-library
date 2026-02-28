@@ -1,0 +1,14 @@
+{
+  "id": "offerzen",
+  "title": "OfferZen",
+  "subtitle": "On OfferZen, tech companies reach out to you with upfront role, tech stack, and salary info so you can choose your ne...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646907551/icons/offerzen.png",
+  "website": "https://www.offerzen.com/",
+  "docsUrl": "https://www.offerzen.com/employers"
+}

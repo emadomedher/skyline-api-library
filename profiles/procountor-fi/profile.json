@@ -1,0 +1,14 @@
+{
+  "id": "procountor-fi",
+  "title": "Procountor",
+  "subtitle": "Procountor is a leading Finnish provider of web accounting software. It offers user-friendly and reliable financial m...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669665510/icons/procountor-fi.jpg",
+  "website": "https://procountor.fi/",
+  "docsUrl": "https://dev.procountor.com/"
+}

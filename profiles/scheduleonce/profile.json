@@ -1,0 +1,13 @@
+{
+  "id": "scheduleonce",
+  "title": "ScheduleOnce",
+  "subtitle": "ScheduleOnce is an end-to-end solution for scheduling with prospects and customers through all phases of the customer...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477913/catalog/scheduleonce/icon128x128.png",
+  "website": "https://www.scheduleonce.com/"
+}

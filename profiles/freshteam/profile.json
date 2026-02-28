@@ -1,0 +1,15 @@
+{
+  "id": "freshteam",
+  "title": "Freshteam",
+  "subtitle": "Freshteam is a smart HR software that helps you handle recruiting, onboarding, time off and employee information in o...",
+  "tags": [
+    "hris",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753750/icons/freshteam.png",
+  "website": "https://www.freshworks.com/hrms/",
+  "docsUrl": "https://developers.freshteam.com"
+}

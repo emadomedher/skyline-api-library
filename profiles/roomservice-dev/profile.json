@@ -1,0 +1,16 @@
+{
+  "id": "roomservice-dev",
+  "title": "Room Service",
+  "subtitle": "A multiplayer engine",
+  "tags": [
+    "multiplayer",
+    "developer-tools",
+    "crdt"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608117969/icons/roomservice-dev.jpg",
+  "website": "https://www.roomservice.dev/",
+  "docsUrl": "https://www.roomservice.dev/docs"
+}

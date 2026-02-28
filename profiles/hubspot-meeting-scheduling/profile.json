@@ -1,0 +1,13 @@
+{
+  "id": "hubspot-meeting-scheduling",
+  "title": "HubSpot Scheduling Software",
+  "subtitle": "HubSpot Scheduling Software API integration",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741009/icons/hubspot-meeting-scheduling.png",
+  "website": "https://www.hubspot.com/products/sales/schedule-meeting"
+}

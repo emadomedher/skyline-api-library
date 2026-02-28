@@ -1,0 +1,15 @@
+{
+  "id": "assembled",
+  "title": "Assembled",
+  "subtitle": "A modern workforce management platform built to scale great customer support. We help teams forecast support demand, ...",
+  "tags": [
+    "workforce-management",
+    "customer-support"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603781513/icons/assembled.png",
+  "website": "https://www.assembled.com/",
+  "docsUrl": "https://docs.assembled.com"
+}

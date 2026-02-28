@@ -1,0 +1,13 @@
+{
+  "id": "klausapp",
+  "title": "Klaus",
+  "subtitle": "Find extreme interactions, analyze, give feedback to agents, take control of quality",
+  "tags": [
+    "customer-support-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571121292/catalog/klausapp/icon128x128.jpg",
+  "website": "https://klausapp.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jumpstartfilings",
+  "title": "Jumpstart",
+  "subtitle": "Simple, fast and affordable business formation services for global founders. Easily start a U.S. company from anywhere.",
+  "tags": [
+    "company-incorporation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598531256/icons/jumpstartfilings.png",
+  "website": "https://www.jumpstartfilings.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bliinx",
+  "title": "Bliinx",
+  "subtitle": "Best PLG CRM for accelerating self-serve revenue by knowing which signs ups to engage to drive faster-paid conversion...",
+  "tags": [
+    "product-led-sales"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656283326/icons/bliinx.jpg",
+  "website": "https://bliinx.com/",
+  "docsUrl": "https://security.bliinx.com/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "idealpos-uk",
+  "title": "Idealpos",
+  "subtitle": "Idealpos is powering better business through tailor-made point of sale solutions used by 10k+ businesses worldwide. ",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582672745/catalog/idealpos-uk/icon128x128.jpg",
+  "website": "https://www.idealpos.co.uk/"
+}

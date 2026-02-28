@@ -1,0 +1,14 @@
+{
+  "id": "deutsche-boerse",
+  "title": "Deutsche Börse",
+  "subtitle": "Gruppe Deutsche Börse",
+  "tags": [
+    "trading",
+    "finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792184/icons/deutsche-boerse.jpg",
+  "website": "https://deutsche-boerse.com/"
+}

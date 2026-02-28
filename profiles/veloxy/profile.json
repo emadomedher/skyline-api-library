@@ -1,0 +1,13 @@
+{
+  "id": "veloxy",
+  "title": "Veloxy",
+  "subtitle": "Veloxy sales enablement and predictive forecasting for Salesforce CRM, makes it easy for sales teams to keep their pi...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946401/catalog/veloxy/icon128x128.png",
+  "website": "https://veloxy.io"
+}

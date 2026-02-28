@@ -1,0 +1,15 @@
+{
+  "id": "payloadcms",
+  "title": "Payload CMS",
+  "subtitle": "Headless CMS and application framework built with TypeScript, Node.js, React and MongoDB",
+  "tags": [
+    "headless-cms",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653910378/icons/payloadcms.jpg",
+  "website": "https://payloadcms.com/",
+  "docsUrl": "https://payloadcms.com/docs/getting-started/what-is-payload"
+}

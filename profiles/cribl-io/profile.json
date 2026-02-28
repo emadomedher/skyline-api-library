@@ -1,0 +1,14 @@
+{
+  "id": "cribl-io",
+  "title": "Cribl",
+  "subtitle": "Wherever your data comes from, wherever it needs to go, Cribl gives you the freedom and flexibility to make choices i...",
+  "tags": [
+    "data-observability"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655078888/icons/cribl-io.jpg",
+  "website": "https://cribl.io/",
+  "docsUrl": "https://docs.cribl.io"
+}

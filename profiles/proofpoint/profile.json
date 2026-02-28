@@ -1,0 +1,14 @@
+{
+  "id": "proofpoint",
+  "title": "Proofpoint",
+  "subtitle": "Find out how Proofpoint helps protect people, data and brands against the latest cyber attacks. Offering cyber securi...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573864652/catalog/proofpoint/icon128x128.jpg",
+  "website": "https://www.proofpoint.com/",
+  "docsUrl": "https://www.proofpoint.com/us/threat-insight/threat-reference"
+}

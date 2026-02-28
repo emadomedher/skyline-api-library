@@ -1,0 +1,15 @@
+{
+  "id": "synthesia-io",
+  "title": "Synthesia",
+  "subtitle": "Create AI videos by simply typing in text. Make engaging videos for e-learning, customer onboarding, etc. No need for...",
+  "tags": [
+    "video-generation",
+    "synthetic-video"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624482680/icons/synthesia-io.jpg",
+  "website": "https://www.synthesia.io/",
+  "docsUrl": "https://docs.synthesia.io/docs"
+}

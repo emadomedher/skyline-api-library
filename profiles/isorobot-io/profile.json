@@ -1,0 +1,14 @@
+{
+  "id": "isorobot-io",
+  "title": "ISOROBOT",
+  "subtitle": "ISOROBOT is the best ISO 9001:2015 software making ISO 9001 QMS ISO 14001 OHSAS compliance simple easy quick employee...",
+  "tags": [
+    "compliance",
+    "iso-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572354160/catalog/isorobot-io/icon128x128.jpg",
+  "website": "https://www.isorobot.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "avokaado-io",
+  "title": "Avokaado",
+  "subtitle": "Entire contract lifecycle management (CLM) in one unified workspace. Create templates, draft, share, negotiate, appro...",
+  "tags": [
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667912239/icons/avokaado-io.png",
+  "website": "https://avokaado.io/"
+}

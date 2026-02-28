@@ -1,0 +1,13 @@
+{
+  "id": "nylas-scheduler",
+  "title": "Nylas Scheduler",
+  "subtitle": "Nylas Scheduler API integration",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620383392/icons/nylas-scheduler.jpg",
+  "website": "https://docs.nylas.com/docs/nylas-scheduler"
+}

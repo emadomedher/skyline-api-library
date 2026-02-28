@@ -1,0 +1,13 @@
+{
+  "id": "receptiv",
+  "title": "Receptiv",
+  "subtitle": "Receptiv is the leading mobile, video in-app advertising platform that is measurable and scalable.",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962509/catalog/receptiv/icon128x128.png",
+  "website": "https://receptiv.com"
+}

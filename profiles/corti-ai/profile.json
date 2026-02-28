@@ -1,0 +1,13 @@
+{
+  "id": "corti-ai",
+  "title": "Corti",
+  "subtitle": "Corti offers a digital assistant, augmenting medics in improving patient outcomes and internal performance.",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630869011/icons/corti-ai.jpg",
+  "website": "https://www.corti.ai/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "stackgo-io",
+  "title": "StackGo",
+  "subtitle": "StackGo is the easiest way to scale your software business​. Distribute your software seamlessly through multiple Saa...",
+  "tags": [
+    "integration-platforms",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625959172/icons/stackgo-io.png",
+  "website": "https://stackgo.io/",
+  "docsUrl": "https://docs.stackgo.io"
+}

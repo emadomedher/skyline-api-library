@@ -1,0 +1,13 @@
+{
+  "id": "metabank",
+  "title": "MetaBank",
+  "subtitle": "MetaBank, N.A. is a United States bank with retail branches in Iowa and South Dakota. It offers traditional banking s...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616014217/icons/metabank.png",
+  "website": "https://www.metabank.com/"
+}

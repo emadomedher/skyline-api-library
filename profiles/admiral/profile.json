@@ -1,0 +1,13 @@
+{
+  "id": "admiral",
+  "title": "ADMIRAL",
+  "subtitle": "Admiral offers a wealth of insurance products including Car Insurance, Home Insurance, Travel Insurance, Pet Insuranc...",
+  "tags": [
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432800/catalog/admiral/icon128x128.png",
+  "website": "https://admiral.com"
+}

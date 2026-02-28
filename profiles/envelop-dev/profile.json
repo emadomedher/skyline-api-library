@@ -1,0 +1,14 @@
+{
+  "id": "envelop-dev",
+  "title": "Envelop",
+  "subtitle": "A GraphQL plugin system for improved developer experience.",
+  "tags": [
+    "graphql-server"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627283679/icons/envelop-dev.png",
+  "website": "https://www.envelop.dev/",
+  "docsUrl": "https://www.envelop.dev/docs"
+}

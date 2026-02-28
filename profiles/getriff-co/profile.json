@@ -1,0 +1,13 @@
+{
+  "id": "getriff-co",
+  "title": "Riff",
+  "subtitle": "No Slack overload. No Zoom fatigue. Fewer meetings. We're on a mission to revolutionise how we work together. Book a ...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667860527/icons/getriff-co.jpg",
+  "website": "https://getriff.co/"
+}

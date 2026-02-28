@@ -1,0 +1,15 @@
+{
+  "id": "drivekyte",
+  "title": "Kyte",
+  "subtitle": "Kyte makes getting rental cars by the day a magical experience. Straight to your door in San Francisco, Los Angeles, ...",
+  "tags": [
+    "fleet-rental",
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610365784/icons/drivekyte.png",
+  "website": "https://drivekyte.com/",
+  "docsUrl": "https://drivekyte.com/docs/privacy-policy"
+}

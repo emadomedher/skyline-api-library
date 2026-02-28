@@ -1,0 +1,13 @@
+{
+  "id": "qube-media",
+  "title": "Qube Media",
+  "subtitle": "Qubist: the UK's number 1 employee advocacy solution. Clients includes John Lewis, Waitrose and Air Mauritius.",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721690/catalog/qube-media/icon128x128.jpg",
+  "website": "https://qubi.st"
+}

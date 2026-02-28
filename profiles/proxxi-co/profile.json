@@ -1,0 +1,14 @@
+{
+  "id": "proxxi-co",
+  "title": "Proxxi",
+  "subtitle": "Wearable, connected electrical voltage protection for industrial workers. \nComplete solution for real time risk asses...",
+  "tags": [
+    "safety",
+    "industrial-workers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892866/catalog/proxxi-co/icon128x128.jpg",
+  "website": "https://www.proxxi.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "approval-donkey",
+  "title": "Approval Donkey",
+  "subtitle": "Approval Donkey is an approval workflow tool that surfaces, automates and tracks all your approval, sign-off and deci...",
+  "tags": [
+    "business-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304411/catalog/approval-donkey/icon128x128.png",
+  "website": "https://www.approvaldonkey.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "practitest",
+  "title": "PractiTest",
+  "subtitle": "PractiTest QA and test management solution helps users to manage the development and testing process, with an end-to-...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539016/catalog/practitest/icon128x128.png"
+}

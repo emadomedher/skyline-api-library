@@ -1,0 +1,14 @@
+{
+  "id": "automational",
+  "title": "Automational",
+  "subtitle": "The Sales and Marketing platform - featuring fully integrated CRM, Email Marketing, and Marketing Automation - 100% t...",
+  "tags": [
+    "marketing-automation",
+    "crm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304430/catalog/automational/icon128x128.png",
+  "website": "https://automational.com"
+}

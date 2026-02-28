@@ -1,0 +1,14 @@
+{
+  "id": "clerk-dev",
+  "title": "Clerk",
+  "subtitle": "Developer tools for simple and beautiful user management. More than authentication.",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617633732/icons/clerk-dev.jpg",
+  "website": "https://www.clerk.dev/",
+  "docsUrl": "https://frontend-docs.clerk.dev"
+}

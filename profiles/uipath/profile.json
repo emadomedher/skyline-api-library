@@ -1,0 +1,14 @@
+{
+  "id": "uipath",
+  "title": "UIPath",
+  "subtitle": "Reinvent your workplace with the leading robotic process automation platform and learn how UiPath can help your compa...",
+  "tags": [
+    "ipaas-clouddata-integration-and-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722614/catalog/uipath/icon128x128.png",
+  "website": "https://uipath.com",
+  "docsUrl": "https://docs.uipath.com/orchestrator/reference/api-references"
+}

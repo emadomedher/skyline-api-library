@@ -1,0 +1,14 @@
+{
+  "id": "kotive",
+  "title": "Kotive",
+  "subtitle": "Kotive helps people make→work→flow. Build, share & run workflows for your business processes and online teaching, wit...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591351441/icons/kotive.png",
+  "website": "https://www.kotive.com/",
+  "docsUrl": "https://www.kotive.com/docs"
+}

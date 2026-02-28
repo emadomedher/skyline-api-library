@@ -1,0 +1,14 @@
+{
+  "id": "contentkingapp",
+  "title": "ContentKing",
+  "subtitle": "ContentKing keeps track of your website 24/7 so that you can catch unexpected changes and issues before search engine...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023424/icons/contentkingapp.png",
+  "website": "https://www.contentkingapp.com/",
+  "docsUrl": "https://www.contentkingapp.com/solutions/for-developers"
+}

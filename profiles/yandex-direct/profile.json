@@ -1,0 +1,13 @@
+{
+  "id": "yandex-direct",
+  "title": "Yandex.Direct",
+  "subtitle": "Yandex.Direct is a russian advertising service for placing contextual ads on Yandex. Contextual advertising can help ...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582124204/catalog/yandex-direct/icon128x128.jpg",
+  "website": "https://direct.yandex.com/"
+}

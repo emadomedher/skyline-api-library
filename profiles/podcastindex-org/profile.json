@@ -1,0 +1,14 @@
+{
+  "id": "podcastindex-org",
+  "title": "Podcastindex.org",
+  "subtitle": "Podcastindex.org API integration",
+  "tags": [
+    "podcast-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618847282/icons/podcastindex-org.jpg",
+  "website": "https://podcastindex.org/",
+  "docsUrl": "https://podcastindex-org.github.io/docs-api"
+}

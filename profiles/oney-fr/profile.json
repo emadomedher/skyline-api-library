@@ -1,0 +1,13 @@
+{
+  "id": "oney-fr",
+  "title": "Oney Bank",
+  "subtitle": "Oney Bank was established in 1988 and was previously known as Banque Accord. Oney Bank is jointly owned by Groupe BCP...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605187017/icons/oney-fr.jpg",
+  "website": "https://www.oney.fr/"
+}

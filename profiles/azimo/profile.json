@@ -1,0 +1,14 @@
+{
+  "id": "azimo",
+  "title": "Azimo",
+  "subtitle": "Send money to 195+ countries | Under 1 hour delivery to 80+ countries | Secure & FCA authorised | Send to banks or 30...",
+  "tags": [
+    "money-transfers",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567008693/catalog/azimo/icon128x128.jpg",
+  "website": "https://azimo.com/"
+}

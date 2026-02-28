@@ -1,0 +1,13 @@
+{
+  "id": "xpedize",
+  "title": "Xpedize",
+  "subtitle": "Xpedize API integration",
+  "tags": [
+    "invoice-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698379/icons/xpedize.jpg",
+  "website": "https://www.xpedize.com/"
+}

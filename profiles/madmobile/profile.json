@@ -1,0 +1,13 @@
+{
+  "id": "madmobile",
+  "title": "Mad Mobile",
+  "subtitle": "Mad Mobile API integration",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602094843/icons/madmobile.jpg",
+  "website": "https://www.madmobile.com/"
+}

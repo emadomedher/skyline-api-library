@@ -1,0 +1,14 @@
+{
+  "id": "kickserv",
+  "title": "Kickserv",
+  "subtitle": "Kickserv field service management software provides management of jobs, customers, communication, and payments for ho...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659688107/icons/kickserv.jpg",
+  "website": "https://www.kickserv.com/",
+  "docsUrl": "https://app.kickserv.com/api-docs"
+}

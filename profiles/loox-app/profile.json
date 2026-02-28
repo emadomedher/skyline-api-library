@@ -1,0 +1,13 @@
+{
+  "id": "loox-app",
+  "title": "Loox",
+  "subtitle": "Loox is a photo-driven reviews & referrals app that empowers over 100,000 Shopify brands to boost conversions and loy...",
+  "tags": [
+    "review-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630257131/icons/loox-app.jpg",
+  "website": "https://loox.app/"
+}

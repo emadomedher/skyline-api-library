@@ -1,0 +1,13 @@
+{
+  "id": "stackbit",
+  "title": "Stackbit",
+  "subtitle": "Manage modern Jamstack websites with no code changes. On-page editing, preview sharing, collaboration and build monit...",
+  "tags": [
+    "jamstack"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592483250/icons/stackbit.jpg",
+  "website": "https://www.stackbit.com/"
+}

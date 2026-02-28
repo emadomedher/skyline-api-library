@@ -1,0 +1,14 @@
+{
+  "id": "moneydashboard",
+  "title": "Money Dashboard",
+  "subtitle": "Our free multi-award winning money app & budget planner helps 200,000+ people save money, plan and achieve their fina...",
+  "tags": [
+    "personal-finance-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567666950/catalog/moneydashboard/icon128x128.jpg",
+  "website": "https://www.moneydashboard.com/"
+}

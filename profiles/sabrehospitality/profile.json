@@ -1,0 +1,13 @@
+{
+  "id": "sabrehospitality",
+  "title": "Sabre Hospitality",
+  "subtitle": "From independent properties to large global chains, Sabre Hospitality Solutions is the technology partner hoteliers r...",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751542/icons/sabrehospitality.jpg",
+  "website": "https://www.sabrehospitality.com/"
+}

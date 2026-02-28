@@ -1,0 +1,13 @@
+{
+  "id": "clastic",
+  "title": "Clastic",
+  "subtitle": "Clastic API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719454/catalog/clastic/icon128x128.png",
+  "website": "https://clastic.com"
+}

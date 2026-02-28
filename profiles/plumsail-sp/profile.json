@@ -1,0 +1,12 @@
+{
+  "id": "plumsail-sp",
+  "title": "Plumsail SP",
+  "subtitle": "To know more please visit https://plumsail.com/actions/",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264831/catalog/plumsail-sp/icon128x128.png"
+}

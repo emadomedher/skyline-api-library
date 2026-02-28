@@ -1,0 +1,14 @@
+{
+  "id": "netstorming-net-towers",
+  "title": "TOWeRS",
+  "subtitle": "It's called TOWeRS and it's one of the best online booking systems for companies in the tourism industry to fully man...",
+  "tags": [
+    "wholesalertour-operator",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751869/icons/netstorming-net-towers.jpg",
+  "website": "https://www.netstorming.net/en/products/booking-engine-towers"
+}

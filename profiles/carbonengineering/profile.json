@@ -1,0 +1,13 @@
+{
+  "id": "carbonengineering",
+  "title": "Carbon Engineering",
+  "subtitle": "Learn about our groundbreaking carbon removal technology that can be used to create large-scale carbon removal from t...",
+  "tags": [
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615417866/icons/carbonengineering.jpg",
+  "website": "https://carbonengineering.com/"
+}

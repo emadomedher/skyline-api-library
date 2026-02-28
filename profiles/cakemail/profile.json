@@ -1,0 +1,13 @@
+{
+  "id": "cakemail",
+  "title": "Cakemail",
+  "subtitle": "Connect with your customers, wherever they are. Create, send and track email campaigns that reflect your brand and he...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433541/catalog/cakemail/icon128x128.png",
+  "website": "https://Cakemail.com"
+}

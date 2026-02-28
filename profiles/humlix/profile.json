@@ -1,0 +1,14 @@
+{
+  "id": "humlix",
+  "title": "Humlix",
+  "subtitle": "Are you still manually testing your web APIs? \n        Generate tests for your web APIs in minutes.\n        No coding...",
+  "tags": [
+    "api-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614933172/icons/humlix.png",
+  "website": "https://www.humlix.com/",
+  "docsUrl": "https://docs.humlix.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "marketinvoice",
+  "title": "MarketInvoice",
+  "subtitle": "Take control of your cash flow quickly and easily with our invoice finance and business loan solutions.",
+  "tags": [
+    "business-lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572910297/catalog/marketinvoice/icon128x128.jpg",
+  "website": "https://www.marketinvoice.com/",
+  "docsUrl": "https://developer.marketinvoice.com"
+}

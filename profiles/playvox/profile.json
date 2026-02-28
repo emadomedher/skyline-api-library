@@ -1,0 +1,15 @@
+{
+  "id": "playvox",
+  "title": "Playvox",
+  "subtitle": "Playvox equips modern businesses & BPOs with a CS agent optimization suite for QA, performance management, coaching, ...",
+  "tags": [
+    "contact-center-quality-assurance",
+    "customer-service-qa",
+    "customer-service-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615417850/icons/playvox.jpg",
+  "website": "https://www.playvox.com/"
+}

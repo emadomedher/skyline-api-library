@@ -1,0 +1,13 @@
+{
+  "id": "channelpro-co",
+  "title": "ChannelPro",
+  "subtitle": "ChannelPro API integration",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610512371/icons/channelpro-co.png",
+  "website": "https://www.channelpro.co/"
+}

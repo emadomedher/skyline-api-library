@@ -1,0 +1,15 @@
+{
+  "id": "splitpayments-au",
+  "title": "Split Payments",
+  "subtitle": "Split delivers real-time direct debit and direct credit solutions offering fast clearance and no dishonour fees. It's...",
+  "tags": [
+    "payments",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587218301/catalog/splitpayments-au/icon128x128.png",
+  "website": "https://www.splitpayments.com.au/",
+  "docsUrl": "https://www.splitpayments.com.au/documentation"
+}

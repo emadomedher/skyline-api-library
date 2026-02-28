@@ -1,0 +1,16 @@
+{
+  "id": "quandora",
+  "title": "Quandora",
+  "subtitle": "Our AI-powered software enables companies to capture, centralize, structure, nurture, search, share and export their ...",
+  "tags": [
+    "collaboration",
+    "knowledge-management",
+    "rfp"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577633812/catalog/quandora/icon128x128.png",
+  "website": "https://www.quandora.com/",
+  "docsUrl": "https://www.quandora.com/quandora-rest-api-documentation"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ellevest",
+  "title": "Ellevest",
+  "subtitle": "We’re a financial company built to get more money in the hands of women. Financial planning, career coaching, investi...",
+  "tags": [
+    "challenger-banks",
+    "investing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593103265/icons/ellevest.png",
+  "website": "https://www.ellevest.com/"
+}

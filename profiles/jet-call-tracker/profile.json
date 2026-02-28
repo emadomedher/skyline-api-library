@@ -1,0 +1,13 @@
+{
+  "id": "jet-call-tracker",
+  "title": "Jet Call Tracker",
+  "subtitle": "Jet Call Tracker API integration",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720599/catalog/jet-call-tracker/icon128x128.jpg",
+  "website": "https://jetinteractive.com.au"
+}

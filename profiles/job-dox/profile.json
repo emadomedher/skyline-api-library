@@ -1,0 +1,13 @@
+{
+  "id": "job-dox",
+  "title": "Job-Dox",
+  "subtitle": "Trust Job-Dox for home services industry solutions! From project management tools to construction software and more, ...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562265526/catalog/job-dox/icon128x128.jpg",
+  "website": "https://job-dox.com"
+}

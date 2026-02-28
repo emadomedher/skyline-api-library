@@ -1,0 +1,14 @@
+{
+  "id": "siit-io",
+  "title": "Siit",
+  "subtitle": "Employee help desk platform for HR, IT & operation teams: internal support with all smart automations to get things d...",
+  "tags": [
+    "hr-service-delivery",
+    "employee-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685784916/icons/siit-io.png",
+  "website": "https://www.siit.io/"
+}

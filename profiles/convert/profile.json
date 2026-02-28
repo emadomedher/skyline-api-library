@@ -1,0 +1,13 @@
+{
+  "id": "convert",
+  "title": "Convert.com",
+  "subtitle": "An A/B testing tool, a split testing tool, a multivariate testing tool - Convert Experiences provides everything you ...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719596/catalog/convert/icon128x128.jpg",
+  "website": "https://convert.com"
+}

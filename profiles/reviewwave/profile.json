@@ -1,0 +1,13 @@
+{
+  "id": "reviewwave",
+  "title": "ReviewWave",
+  "subtitle": "Just Massive Numbers Of Real 5 Star Reviews For Your Business On Autopilot!",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962486/catalog/reviewwave/icon128x128.png",
+  "website": "https://reviewwave.com"
+}

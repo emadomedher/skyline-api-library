@@ -1,0 +1,13 @@
+{
+  "id": "numarics",
+  "title": "numarics",
+  "subtitle": "We are the first fully digitalized accounting solution for SMEs. Everything you need for your business.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753713/icons/numarics.jpg",
+  "website": "https://numarics.com/en/"
+}

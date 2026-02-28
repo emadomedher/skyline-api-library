@@ -1,0 +1,14 @@
+{
+  "id": "locatee",
+  "title": "Locatee",
+  "subtitle": "Locatee is the leading Workplace Analytics solution that empowers you to make fact-based decisions about your real es...",
+  "tags": [
+    "workplace-occupancy",
+    "workplace-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589110332/catalog/locatee/icon128x128.png",
+  "website": "https://locatee.com/"
+}

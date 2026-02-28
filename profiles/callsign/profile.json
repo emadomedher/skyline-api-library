@@ -1,0 +1,15 @@
+{
+  "id": "callsign",
+  "title": "Callsign",
+  "subtitle": "Real time AI driven Identity and Authentication Solutions, that confirm the user really is who they say they are, at ...",
+  "tags": [
+    "identity",
+    "fraud-prevention"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579028098/catalog/callsign/icon128x128.jpg",
+  "website": "https://www.callsign.com/",
+  "docsUrl": "https://www.callsign.com/developers"
+}

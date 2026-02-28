@@ -1,0 +1,13 @@
+{
+  "id": "clientpoint",
+  "title": "ClientPoint",
+  "subtitle": "Easily win new clients by creating impressive business proposals, price quotes, and contracts with ClientPoint's awar...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826085/catalog/clientpoint/icon128x128.jpg",
+  "website": "https://clientpoint.net"
+}

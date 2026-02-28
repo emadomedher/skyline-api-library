@@ -1,0 +1,14 @@
+{
+  "id": "elavon",
+  "title": "Elavon",
+  "subtitle": "Payment processing solutions. Big and small. Discover Elavon's award-winning payment processing platform, customer fo...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571960540/catalog/elavon/icon128x128.jpg",
+  "website": "https://www.elavon.com",
+  "docsUrl": "https://www.elavon.com/developers.html"
+}

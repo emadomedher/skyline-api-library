@@ -1,0 +1,13 @@
+{
+  "id": "skrap-uk",
+  "title": "Skrap",
+  "subtitle": "Select and book any size skip or grab, any time, with pricing presented upfront, with a few quick taps with the Skrap...",
+  "tags": [
+    "construction-hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655243451/icons/skrap-uk.jpg",
+  "website": "https://skrap.co.uk/"
+}

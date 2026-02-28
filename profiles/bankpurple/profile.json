@@ -1,0 +1,13 @@
+{
+  "id": "bankpurple",
+  "title": "Purple",
+  "subtitle": "Open a Purple bank account and get paid early. No fees. No minimums. That's banking built for everyone.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597962513/icons/bankpurple.jpg",
+  "website": "https://www.bankpurple.com/"
+}

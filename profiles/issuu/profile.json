@@ -1,0 +1,13 @@
+{
+  "id": "issuu",
+  "title": "Issuu",
+  "subtitle": "Millions of readers find and share the magazines, catalogs and publications they love on issuu.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826673/catalog/issuu/icon128x128.jpg",
+  "website": "https://issuu.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "whitetruffle",
+  "title": "Whitetruffle",
+  "subtitle": "Whitetuffle has been helping candidates find their dream jobs since 2011. Create a profile in minutes and get offers ...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793902/icons/whitetruffle.jpg",
+  "website": "https://whitetruffle.com/"
+}

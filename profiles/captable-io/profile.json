@@ -1,0 +1,13 @@
+{
+  "id": "captable-io",
+  "title": "Captable.io",
+  "subtitle": "\n\nCaptable.io enables easy cap table creation, sharing & collaboration, fast 409A valuations, stock plan management a...",
+  "tags": [
+    "cap-table-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587415376/catalog/captable-io/icon128x128.png",
+  "website": "https://captable.io/"
+}

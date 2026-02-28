@@ -1,0 +1,13 @@
+{
+  "id": "coastalbank",
+  "title": "Coastal Community Bank",
+  "subtitle": "Our community bankers are seasoned, local professionals who know the landscape, the players, and what it takes to do ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584648266/catalog/coastalbank/icon128x128.png",
+  "website": "https://www.coastalbank.com/"
+}

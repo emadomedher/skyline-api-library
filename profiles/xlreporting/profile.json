@@ -1,0 +1,13 @@
+{
+  "id": "xlreporting",
+  "title": "XLReporting",
+  "subtitle": "XLReporting is web-based solution for financial reporting consolidation and budget",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561390242/catalog/xlreporting/icon128x128.png",
+  "website": "https://xlreporting.com"
+}

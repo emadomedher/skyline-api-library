@@ -1,0 +1,14 @@
+{
+  "id": "moneymade-io",
+  "title": "Moneymade",
+  "subtitle": "Moneymade",
+  "tags": [
+    "investment",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584050851/catalog/moneymade-io/icon128x128.png",
+  "website": "https://moneymade.io/"
+}

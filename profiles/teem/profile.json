@@ -1,0 +1,13 @@
+{
+  "id": "teem",
+  "title": "Teem",
+  "subtitle": "Teem is a cloud-based platform that makes it easy for your employees to meet and book conference rooms, to efficientl...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306363/catalog/teem/icon128x128.png",
+  "website": "https://www.teem.com/"
+}

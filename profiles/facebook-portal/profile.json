@@ -1,0 +1,15 @@
+{
+  "id": "facebook-portal",
+  "title": "Facebook Portal",
+  "subtitle": "If you can't be there, feel there with Portal from Facebook. Move and talk freely with Smart Camera.  And all Portals...",
+  "tags": [
+    "virtual-assistants",
+    "hardware",
+    "tv-devices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602036428/icons/facebook-portal.png",
+  "website": "https://portal.facebook.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "samcart",
+  "title": "SamCart",
+  "subtitle": "SamCart is an online shopping cart that helps you sell things online.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305982/catalog/samcart/icon128x128.png"
+}

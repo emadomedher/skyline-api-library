@@ -1,0 +1,13 @@
+{
+  "id": "getxeno",
+  "title": "Xeno",
+  "subtitle": "Xeno is a one-stop solution for any brand to build a deep customer understanding and create relevant marketing campai...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652051873/icons/getxeno.png",
+  "website": "https://www.getxeno.com/"
+}

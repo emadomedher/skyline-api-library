@@ -1,0 +1,14 @@
+{
+  "id": "teamcity",
+  "title": "TeamCity",
+  "subtitle": "Get powerful Continuous Integration out of the box.",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561813362/catalog/teamcity/icon128x128.png",
+  "website": "https://www.jetbrains.com/teamcity/",
+  "docsUrl": "https://www.jetbrains.com/support/"
+}

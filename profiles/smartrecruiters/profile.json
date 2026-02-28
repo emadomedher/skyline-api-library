@@ -1,0 +1,14 @@
+{
+  "id": "smartrecruiters",
+  "title": "SmartRecruiters",
+  "subtitle": "Move beyond applicant tracking systems (ATS) with an enterprise-grade recruiting platform designed for the modern wor...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437446/catalog/smartrecruiters/icon128x128.png",
+  "website": "https://smartrecruiters.com",
+  "docsUrl": "https://dev.smartrecruiters.com/"
+}

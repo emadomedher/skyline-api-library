@@ -1,0 +1,14 @@
+{
+  "id": "pagseguro-uol-br",
+  "title": "PagSeguro",
+  "subtitle": "Receba dinheiro das Vendas Online ou com Máquina de Cartão na Conta Digital Grátis do PagBank. Sem Filas ou Tarifas A...",
+  "tags": [
+    "payments",
+    "card-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594081811/icons/pagseguro-uol-br.jpg",
+  "website": "https://pagseguro.uol.com.br/"
+}

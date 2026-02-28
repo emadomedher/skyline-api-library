@@ -1,0 +1,14 @@
+{
+  "id": "runaware",
+  "title": "Runaware",
+  "subtitle": "Runaware API integration",
+  "tags": [
+    "product-demo"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669665508/icons/runaware.jpg",
+  "website": "https://main.runaware.com/",
+  "docsUrl": "https://main.runaware.com/tech-docs"
+}

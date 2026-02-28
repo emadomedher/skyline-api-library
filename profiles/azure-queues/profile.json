@@ -1,0 +1,12 @@
+{
+  "id": "azure-queues",
+  "title": "Azure Queues",
+  "subtitle": "Azure Queue storage provides cloud messaging between application components. Queue storage also supports managing asy...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264758/catalog/azure-queues/icon128x128.png"
+}

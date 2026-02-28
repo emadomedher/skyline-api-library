@@ -1,0 +1,12 @@
+{
+  "id": "ctrl",
+  "title": "CTRL",
+  "subtitle": "Ctrl is een efficiënt, gebruiksvriendelijk en innovatief samenwerkingsplatform voor mkb accountants-, belastingadvies...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256914/catalog/ctrl/icon128x128.png"
+}

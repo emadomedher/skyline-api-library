@@ -1,0 +1,14 @@
+{
+  "id": "graphql-jobs",
+  "title": "GraphQL jobs",
+  "subtitle": "Work with GraphQL in a modern startup.",
+  "tags": [
+    "job-boards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618544040/icons/graphql-jobs.png",
+  "website": "https://graphql.jobs/",
+  "docsUrl": "https://graphql.jobs/c/unrealists/full-stack-javascript-developer"
+}

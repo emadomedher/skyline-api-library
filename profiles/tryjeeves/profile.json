@@ -1,0 +1,14 @@
+{
+  "id": "tryjeeves",
+  "title": "Jeeves",
+  "subtitle": "Pay for anything, anywhere, in your local currency. No fees. No interest. No personal guarantees. Mobile-first, built...",
+  "tags": [
+    "challenger-banks",
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630633502/icons/tryjeeves.jpg",
+  "website": "https://tryjeeves.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "redash",
+  "title": "Redash",
+  "subtitle": "Use Redash to connect to any data source (Redshift, BigQuery, MySQL, PostgreSQL, MongoDB and many others), query, vis...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721778/catalog/redash/icon128x128.png",
+  "website": "https://redash.io"
+}

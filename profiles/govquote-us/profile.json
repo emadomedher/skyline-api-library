@@ -1,0 +1,13 @@
+{
+  "id": "govquote-us",
+  "title": "GovQuote",
+  "subtitle": "Government quoting made simple. \nA free public procurement marketplace where agencies and vendors connect.",
+  "tags": [
+    "procurement-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591803957/icons/govquote-us.png",
+  "website": "https://govquote.us/"
+}

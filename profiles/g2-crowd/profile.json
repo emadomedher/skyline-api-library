@@ -1,0 +1,15 @@
+{
+  "id": "g2-crowd",
+  "title": "G2",
+  "subtitle": "Compare the best business software and services based on user ratings and social data. Reviews for CRM, ERP, HR, CAD,...",
+  "tags": [
+    "analytics",
+    "software-buying"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055989/catalog/g2-crowd/icon128x128.png",
+  "website": "https://g2crowd.com",
+  "docsUrl": "https://data.g2.com/api/docs#g2-api"
+}

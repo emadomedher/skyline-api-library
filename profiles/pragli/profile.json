@@ -1,0 +1,14 @@
+{
+  "id": "pragli",
+  "title": "Pragli",
+  "subtitle": "Pragli API integration",
+  "tags": [
+    "virtual-office",
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587511291/catalog/pragli/icon128x128.jpg",
+  "website": "https://pragli.com/"
+}

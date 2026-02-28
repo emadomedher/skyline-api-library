@@ -1,0 +1,14 @@
+{
+  "id": "webpushr",
+  "title": "Web Push Notifications | Webpushr",
+  "subtitle": "Webpushr is the world standard for Web Push Notifications. Our platform supports Browser Push Notifications to both M...",
+  "tags": [
+    "push-notifications",
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592728060/icons/webpushr.svg",
+  "website": "https://www.webpushr.com/"
+}

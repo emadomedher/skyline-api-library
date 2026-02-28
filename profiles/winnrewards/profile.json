@@ -1,0 +1,14 @@
+{
+  "id": "winnrewards",
+  "title": "WinnRewards",
+  "subtitle": "Book hotels online - with extra discount, save valuable points and make your next stay a free stay. Find special offe...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641102/icons/winnrewards.png",
+  "website": "https://winnrewards.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "notify-my-android",
+  "title": "Notify My Android",
+  "subtitle": "Send notifications to your Android device with Notify My Android",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305540/catalog/notify-my-android/icon128x128.png"
+}

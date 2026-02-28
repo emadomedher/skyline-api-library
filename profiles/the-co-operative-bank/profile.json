@@ -1,0 +1,14 @@
+{
+  "id": "the-co-operative-bank",
+  "title": "The Co-Operative Bank",
+  "subtitle": "The Co-Operative Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569892345/catalog/the-co-operative-bank/icon128x128.jpg",
+  "website": "https://www.co-operativebank.co.uk/",
+  "docsUrl": "https://www.co-operativebank.co.uk/onlinebanking/open-banking/third-party-providers"
+}

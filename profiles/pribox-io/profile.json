@@ -1,0 +1,14 @@
+{
+  "id": "pribox-io",
+  "title": "Pribox",
+  "subtitle": "Boost your Email Marketing efforts with Pribox. Our all-in-one tool offers email drip campaigns, warmup, AI content w...",
+  "tags": [
+    "email-deliverability"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683273144/icons/pribox-io.jpg",
+  "website": "https://www.pribox.io/",
+  "docsUrl": "https://www.pribox.io/docs/welcome-to-pribox"
+}

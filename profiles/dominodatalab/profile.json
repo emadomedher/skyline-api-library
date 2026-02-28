@@ -1,0 +1,14 @@
+{
+  "id": "dominodatalab",
+  "title": "Domino Data Lab",
+  "subtitle": "See Why Domino is the data science platform powering model-driven companies like Allstate, Bristol-Myers Squibb, Dell...",
+  "tags": [
+    "data-science",
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588108021/catalog/dominodatalab/icon128x128.jpg",
+  "website": "https://www.dominodatalab.com/"
+}

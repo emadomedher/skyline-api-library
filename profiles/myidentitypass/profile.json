@@ -1,0 +1,14 @@
+{
+  "id": "myidentitypass",
+  "title": "Identitypass",
+  "subtitle": "Verify Identities using IdentityPass Authentication Engine.",
+  "tags": [
+    "identity-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915277/icons/myidentitypass.jpg",
+  "website": "https://myidentitypass.com/",
+  "docsUrl": "https://developer.myidentitypass.com"
+}

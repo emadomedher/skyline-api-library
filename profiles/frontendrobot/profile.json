@@ -1,0 +1,14 @@
+{
+  "id": "frontendrobot",
+  "title": "Frontend Robot",
+  "subtitle": "Test and monitor your website,\n                web application or SaaS product directly from the cloud.\n             ...",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522287/icons/frontendrobot.png",
+  "website": "https://frontendrobot.com/",
+  "docsUrl": "https://frontendrobot.com/docs"
+}

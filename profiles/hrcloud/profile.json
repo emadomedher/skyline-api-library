@@ -1,0 +1,16 @@
+{
+  "id": "hrcloud",
+  "title": "HR Cloud",
+  "subtitle": "Leading HR software, including recruiting, onboarding, employee experience, employee engagement, performance manageme...",
+  "tags": [
+    "hris",
+    "hrms",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624984061/icons/hrcloud.jpg",
+  "website": "https://www.hrcloud.com/",
+  "docsUrl": "https://help.hrcloud.com/api/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "datorama",
+  "title": "Datorama",
+  "subtitle": "Datorama is AI-powered marketing intelligence. Make smarter decisions by connecting and acting on all of your marketi...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947156/catalog/datorama/icon128x128.jpg",
+  "website": "https://datorama.com"
+}

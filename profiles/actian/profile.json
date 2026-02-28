@@ -1,0 +1,15 @@
+{
+  "id": "actian",
+  "title": "Actian",
+  "subtitle": "Actian offers on-premises and cloud data management solutions for seamless performance, insights and outcomes. Learn ...",
+  "tags": [
+    "data-warehouses",
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049886/icons/actian.jpg",
+  "website": "https://www.actian.com/",
+  "docsUrl": "https://www.actian.com/developers"
+}

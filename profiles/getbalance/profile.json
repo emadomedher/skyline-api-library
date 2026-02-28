@@ -1,0 +1,14 @@
+{
+  "id": "getbalance",
+  "title": "Balance",
+  "subtitle": "Hosted checkout, API integration, or e-commerce extension - we got you covered.",
+  "tags": [
+    "checkout"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619033450/icons/getbalance.png",
+  "website": "https://www.getbalance.com/",
+  "docsUrl": "https://www.getbalance.com/get-api"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "solarisbank-splitpay",
+  "title": "Splitpay",
+  "subtitle": "Banking platform for finance pioneers ➜ solarisBank empowers your business to build world-beating products - Fast, sc...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623604/icons/solarisbank-splitpay.jpg",
+  "website": "https://www.solarisbank.com/en/services/splitpay/"
+}

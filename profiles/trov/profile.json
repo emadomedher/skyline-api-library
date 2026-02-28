@@ -1,0 +1,14 @@
+{
+  "id": "trov",
+  "title": "Trōv",
+  "subtitle": "Trōv is the world's leading insurance technology platform, enabling the new ways people live, work, and move.",
+  "tags": [
+    "insurtech",
+    "fintech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565273383/catalog/trov/icon128x128.jpg",
+  "website": "https://trov.com"
+}

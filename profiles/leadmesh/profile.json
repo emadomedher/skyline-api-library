@@ -1,0 +1,13 @@
+{
+  "id": "leadmesh",
+  "title": "Leadmesh",
+  "subtitle": "Leadmesh API integration",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720793/catalog/leadmesh/icon128x128.jpg",
+  "website": "https://leadmesh.com"
+}

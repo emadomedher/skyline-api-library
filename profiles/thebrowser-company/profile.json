@@ -1,0 +1,13 @@
+{
+  "id": "thebrowser-company",
+  "title": "the Browser Company",
+  "subtitle": "the Browser Company of New York",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863258/icons/thebrowser-company.jpg",
+  "website": "https://thebrowser.company/"
+}

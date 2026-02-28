@@ -1,0 +1,13 @@
+{
+  "id": "clubhouse",
+  "title": "ClubHouse",
+  "subtitle": "The intuitive and powerful project management platform loved by software teams of all sizes. Try it free and start bu...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719511/catalog/clubhouse/icon128x128.jpg",
+  "website": "https://clubhouse.io"
+}

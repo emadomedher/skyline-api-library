@@ -1,0 +1,14 @@
+{
+  "id": "acloudguru",
+  "title": "A Cloud Guru",
+  "subtitle": "Leader in Azure, GCP, AWS cloud certification & training courses. Hands-on experience. Business & Individual plans, w...",
+  "tags": [
+    "cloud-certification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617730164/icons/acloudguru.png",
+  "website": "https://acloudguru.com/",
+  "docsUrl": "https://acloudguru.com/learning-paths/aws-developer"
+}

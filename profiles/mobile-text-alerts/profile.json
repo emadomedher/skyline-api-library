@@ -1,0 +1,13 @@
+{
+  "id": "mobile-text-alerts",
+  "title": "Mobile Text Alerts",
+  "subtitle": "Mobile Text Alerts allows you send mass SMS text messages to your group.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829996/catalog/mobile-text-alerts/icon128x128.jpg",
+  "website": "https://mobile-text-alerts.com"
+}

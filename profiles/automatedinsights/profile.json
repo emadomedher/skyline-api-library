@@ -1,0 +1,13 @@
+{
+  "id": "automatedinsights",
+  "title": "AutomatedInsights",
+  "subtitle": "Natural Language Generation (NLG): Automated Insights is making the world's data understandable through natural langu...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825835/catalog/automatedinsights/icon128x128.jpg",
+  "website": "https://automatedinsights.com"
+}

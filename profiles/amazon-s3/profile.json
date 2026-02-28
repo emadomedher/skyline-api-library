@@ -1,0 +1,15 @@
+{
+  "id": "amazon-s3",
+  "title": "Amazon S3",
+  "subtitle": "Amazon Simple Storage Service is a fully redundant data storage system. It makes it easy to store and retrieve any am...",
+  "tags": [
+    "files",
+    "aws"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054199/catalog/amazon-s3/icon128x128.png",
+  "website": "https://aws.amazon.com/s3/",
+  "docsUrl": "https://docs.aws.amazon.com/s3/index.html"
+}

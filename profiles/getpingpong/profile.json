@@ -1,0 +1,13 @@
+{
+  "id": "getpingpong",
+  "title": "PingPong",
+  "subtitle": "Send video, voice, and screen recordings to your team whenever you like at the click of a button.",
+  "tags": [
+    "video-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615490864/icons/getpingpong.png",
+  "website": "https://getpingpong.com/"
+}

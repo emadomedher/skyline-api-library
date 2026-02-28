@@ -1,0 +1,13 @@
+{
+  "id": "source-ag",
+  "title": "Source",
+  "subtitle": "A.I. powered high-tech indoor farms\n",
+  "tags": [
+    "farming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681320634/icons/source-ag.png",
+  "website": "https://source.ag/"
+}

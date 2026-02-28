@@ -1,0 +1,15 @@
+{
+  "id": "authlete",
+  "title": "Authlete",
+  "subtitle": "Authlete API integration",
+  "tags": [
+    "api-authentication",
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574084002/catalog/authlete/icon128x128.jpg",
+  "website": "https://www.authlete.com/",
+  "docsUrl": "https://cd.authlete.com"
+}

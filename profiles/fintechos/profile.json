@@ -1,0 +1,14 @@
+{
+  "id": "fintechos",
+  "title": "FintechOS",
+  "subtitle": "FintechOS API integration",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576089548/catalog/fintechos/icon128x128.png",
+  "website": "https://fintechos.com/",
+  "docsUrl": "https://fintechos.com/documentation-portal"
+}

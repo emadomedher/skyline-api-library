@@ -1,0 +1,17 @@
+{
+  "id": "meniga",
+  "title": "Meniga",
+  "subtitle": "Meniga – Making Digital Banking Personal",
+  "tags": [
+    "advertising",
+    "performance-marketing",
+    "fintech",
+    "pfm",
+    "infrastructure"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565587679/catalog/meniga/icon128x128.jpg",
+  "website": "https://www.meniga.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nextbank-tw",
+  "title": "Next Bank",
+  "subtitle": "Taiwan's first virtual bank",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591351440/icons/nextbank-tw.png",
+  "website": "https://www.nextbank.com.tw/"
+}

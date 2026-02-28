@@ -1,0 +1,13 @@
+{
+  "id": "complions",
+  "title": "Complions",
+  "subtitle": "Complions API integration",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572302850/catalog/complions/icon128x128.png",
+  "website": "https://complions.com"
+}

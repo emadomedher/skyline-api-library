@@ -1,0 +1,13 @@
+{
+  "id": "hirehive",
+  "title": "HireHive",
+  "subtitle": "HireHive is recruiting software that helps you find and hire the best candidates. HireHive makes it easy for you to m...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720371/catalog/hirehive/icon128x128.png",
+  "website": "https://hirehive.com"
+}

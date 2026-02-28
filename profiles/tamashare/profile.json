@@ -1,0 +1,13 @@
+{
+  "id": "tamashare",
+  "title": "Tamashare",
+  "subtitle": "Tamashare simplifie la collaboration en plaçant l’interactivité au coeur de vos équipes en présentiel et à dista...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722441/catalog/tamashare/icon128x128.jpg",
+  "website": "https://tamashare.com"
+}

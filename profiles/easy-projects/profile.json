@@ -1,0 +1,13 @@
+{
+  "id": "easy-projects",
+  "title": "Easy Projects",
+  "subtitle": "Easy Projects is a collaboration and project management software that helps teams get rid of spreadsheets and work to...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304830/catalog/easy-projects/icon128x128.png",
+  "website": "https://www.easyprojects.net/"
+}

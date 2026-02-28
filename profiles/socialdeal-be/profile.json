@@ -1,0 +1,13 @@
+{
+  "id": "socialdeal-be",
+  "title": "Social Deal",
+  "subtitle": "Ontdek Mechelen met korting tot wel 90%! De leukste Restaurant, Wellness en Theater deals koop je op Social Deal. ✓ 9...",
+  "tags": [
+    "booking-websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583864135/catalog/socialdeal-be/icon128x128.png",
+  "website": "https://www.socialdeal.be/"
+}

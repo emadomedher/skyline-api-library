@@ -1,0 +1,13 @@
+{
+  "id": "quire",
+  "title": "Quire",
+  "subtitle": "The best collaborative project management software for breaking down goals in hierarchical lists.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721692/catalog/quire/icon128x128.jpg",
+  "website": "https://quire.io"
+}

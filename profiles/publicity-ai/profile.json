@@ -1,0 +1,13 @@
+{
+  "id": "publicity-ai",
+  "title": "Publicity.ai",
+  "subtitle": "Publicity.ai API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578586464/catalog/publicity-ai/icon128x128.png",
+  "website": "https://publicity.ai/"
+}

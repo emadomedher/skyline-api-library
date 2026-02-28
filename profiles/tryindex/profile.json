@@ -1,0 +1,14 @@
+{
+  "id": "tryindex",
+  "title": "Index",
+  "subtitle": "Index is a tool that helps you build dashboards fast. Use building blocks that connect to all your favorite apps and ...",
+  "tags": [
+    "dashboard",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598443535/icons/tryindex.png",
+  "website": "https://tryindex.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "advapay-eu",
+  "title": "Advapay",
+  "subtitle": "We provide a full lifecycle of services for Fintechs – business consulting, e-money and payment licencing, a core ban...",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605549773/icons/advapay-eu.png",
+  "website": "https://advapay.eu/en/"
+}

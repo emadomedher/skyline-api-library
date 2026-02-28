@@ -1,0 +1,14 @@
+{
+  "id": "withjuno",
+  "title": "Juno",
+  "subtitle": "All-in-one employee wellbeing benefits from £2.50/month pp. Join hundreds of progressive businesses that use Juno to ...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678808110/icons/withjuno.png",
+  "website": "https://www.withjuno.com/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlsde0adqftu8ytzkmu_inysftv_2iirshmn4gecgwhm0xub9og/viewform"
+}

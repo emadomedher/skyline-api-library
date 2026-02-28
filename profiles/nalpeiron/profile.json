@@ -1,0 +1,13 @@
+{
+  "id": "nalpeiron",
+  "title": "Nalpeiron",
+  "subtitle": "Nalpeiron is a tool that allows companies to manage their customers software subscriptions and licensing.",
+  "tags": [
+    "management-tools",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305494/catalog/nalpeiron/icon128x128.png"
+}

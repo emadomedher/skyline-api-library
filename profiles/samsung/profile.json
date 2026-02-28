@@ -1,0 +1,15 @@
+{
+  "id": "samsung",
+  "title": "Samsung Electronics",
+  "subtitle": "Ontdek de nieuwste innovaties van Samsung electronica. Bekijk nu de Galaxy S10e, S10 en S10+ smartphones.",
+  "tags": [
+    "electronics",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573172132/catalog/samsung/icon128x128.jpg",
+  "website": "https://www.samsung.com/",
+  "docsUrl": "https://developer.samsung.com/"
+}

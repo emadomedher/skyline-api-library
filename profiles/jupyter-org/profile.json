@@ -1,0 +1,16 @@
+{
+  "id": "jupyter-org",
+  "title": "Jupyter Notebook",
+  "subtitle": "The Jupyter Notebook is a web-based interactive computing platform. The notebook combines live code, equations, narra...",
+  "tags": [
+    "python",
+    "open-source",
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569288135/catalog/jupyter-org/icon128x128.png",
+  "website": "https://jupyter.org/",
+  "docsUrl": "https://jupyter.org/documentation"
+}

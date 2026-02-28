@@ -1,0 +1,13 @@
+{
+  "id": "writeholo",
+  "title": "HoloAI",
+  "subtitle": "AI Generated Stories and Games",
+  "tags": [
+    "story-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629056298/icons/writeholo.png",
+  "website": "https://writeholo.com/"
+}

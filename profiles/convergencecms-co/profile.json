@@ -1,0 +1,13 @@
+{
+  "id": "convergencecms-co",
+  "title": "Convergence CMS",
+  "subtitle": "Convergence is the flexible CMS for you and your clients.  Use your own HTML / CSS templates and with a few quick, ea...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592818035/icons/convergencecms-co.png",
+  "website": "http://www.convergencecms.co/"
+}

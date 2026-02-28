@@ -1,0 +1,13 @@
+{
+  "id": "maplarge",
+  "title": "Maplarge",
+  "subtitle": "Maplarge API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435740/catalog/maplarge/icon128x128.png",
+  "website": "https://maplarge.com"
+}

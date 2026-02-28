@@ -1,0 +1,14 @@
+{
+  "id": "flatfile-io",
+  "title": "Flatfile",
+  "subtitle": "Create a delightful data import experience for your customers without weeks of development. Automatic column-matching...",
+  "tags": [
+    "csv-import"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591878930/icons/flatfile-io.jpg",
+  "website": "https://flatfile.io/",
+  "docsUrl": "https://developers.flatfile.io/docs/install"
+}

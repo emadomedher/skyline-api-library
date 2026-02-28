@@ -1,0 +1,14 @@
+{
+  "id": "platformer",
+  "title": "Platformer",
+  "subtitle": "A comprehensive application platform backed by managed services and expert consulting to get you into production with...",
+  "tags": [
+    "kubernetes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625134776/icons/platformer.png",
+  "website": "https://www.platformer.com/",
+  "docsUrl": "https://docs.platformer.com"
+}

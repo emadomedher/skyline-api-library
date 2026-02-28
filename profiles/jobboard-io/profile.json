@@ -1,0 +1,14 @@
+{
+  "id": "jobboard-io",
+  "title": "JobBoard.io",
+  "subtitle": "Powerful job board software to help you create professional yet elegant Job Boards. Let us worry about the technology...",
+  "tags": [
+    "job-boards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578932175/catalog/jobboard-io/icon128x128.png",
+  "website": "https://www.jobboard.io/",
+  "docsUrl": "https://support.jobboard.io"
+}

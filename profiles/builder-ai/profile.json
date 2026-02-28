@@ -1,0 +1,13 @@
+{
+  "id": "builder-ai",
+  "title": "Builder",
+  "subtitle": "Now it’s easy to build, run & scale software that’s not expensive or complicated. No tech knowledge required. Builder...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565427/catalog/builder-ai/icon128x128.png",
+  "website": "https://www.builder.ai/"
+}

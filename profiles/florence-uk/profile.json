@@ -1,0 +1,13 @@
+{
+  "id": "florence-uk",
+  "title": "Florence",
+  "subtitle": "Make your working life in social care better and take control of your shifts, training or workforce management with F...",
+  "tags": [
+    "social-care-staffing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631220847/icons/florence-uk.jpg",
+  "website": "https://www.florence.co.uk/"
+}

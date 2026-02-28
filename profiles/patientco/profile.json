@@ -1,0 +1,14 @@
+{
+  "id": "patientco",
+  "title": "Patientco",
+  "subtitle": "Patientco's patient payment technology enables Health Systems to provide a superior patient billing experience with m...",
+  "tags": [
+    "patient-payments",
+    "health"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599025767/icons/patientco.jpg",
+  "website": "https://www.patientco.com/"
+}

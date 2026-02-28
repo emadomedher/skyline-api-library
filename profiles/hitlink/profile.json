@@ -1,0 +1,13 @@
+{
+  "id": "hitlink",
+  "title": "HitLink",
+  "subtitle": "HitLink.com is a powerful open social and traffic exchange platform. Brand and promote your products, services, sites...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555982927/catalog/hitlink/icon128x128.png",
+  "website": "https://HitLink.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "coder",
+  "title": "Coder",
+  "subtitle": "Coder moves software development to the cloud, centralizes development initiatives, and unlocks substantial gains in ...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647901604/icons/coder.jpg",
+  "website": "https://www.coder.com",
+  "docsUrl": "https://coder.com/docs/code-server/latest"
+}

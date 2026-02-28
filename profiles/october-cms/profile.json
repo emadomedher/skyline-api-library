@@ -1,0 +1,13 @@
+{
+  "id": "october-cms",
+  "title": "October CMS",
+  "subtitle": "A free, open-source, self-hosted CMS platform based on the Laravel PHP Framework - experience the beauty and power.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946765/catalog/october-cms/icon128x128.png",
+  "website": "https://octobercms.com"
+}

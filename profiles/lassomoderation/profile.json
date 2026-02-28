@@ -1,0 +1,13 @@
+{
+  "id": "lassomoderation",
+  "title": "Lasso",
+  "subtitle": "Spam problems? Efficiently moderate your content with Lasso - a content moderation platform that's not just an API.",
+  "tags": [
+    "content-moderation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676731971/icons/lassomoderation.jpg",
+  "website": "https://www.lassomoderation.com/"
+}

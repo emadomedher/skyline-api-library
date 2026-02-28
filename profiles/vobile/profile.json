@@ -1,0 +1,13 @@
+{
+  "id": "vobile",
+  "title": "Vobile",
+  "subtitle": "Vobile offers solutions to help content owners protect, measure and \nmonetize movies and TV content across the Intern...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946380/catalog/vobile/icon128x128.png",
+  "website": "https://vobileinc.com"
+}

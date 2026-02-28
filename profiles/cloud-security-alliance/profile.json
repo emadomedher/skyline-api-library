@@ -1,0 +1,16 @@
+{
+  "id": "cloud-security-alliance",
+  "title": "Cloud Security Alliance",
+  "subtitle": "The Cloud Security Alliance (CSA) leads the industry in offering cloud security-specific research, education, certifi...",
+  "tags": [
+    "security",
+    "compliance",
+    "certifications"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618255237/icons/cloud-security-alliance.jpg",
+  "website": "https://cloudsecurityalliance.org/",
+  "docsUrl": "https://cloudsecurityalliance.org/artifacts/sdp-architecture-guide-v2"
+}

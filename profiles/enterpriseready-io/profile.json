@@ -1,0 +1,14 @@
+{
+  "id": "enterpriseready-io",
+  "title": "EnterpriseReady - Build SaaS Features Enterprises Love",
+  "subtitle": "A guide for SaaS companies to build the features that enteprises love.",
+  "tags": [
+    "resources",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602716510/icons/enterpriseready-io.png",
+  "website": "https://www.enterpriseready.io/"
+}

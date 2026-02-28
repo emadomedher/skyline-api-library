@@ -1,0 +1,13 @@
+{
+  "id": "salpo-crm",
+  "title": "Salpo CRM",
+  "subtitle": "This is an easy to use tool, used to manage CRM",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305969/catalog/salpo-crm/icon128x128.png",
+  "website": "https://salpo.com"
+}

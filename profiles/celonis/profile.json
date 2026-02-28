@@ -1,0 +1,13 @@
+{
+  "id": "celonis",
+  "title": "Celonis",
+  "subtitle": "Meet the Celonis Intelligent Business Cloud. Process Mining is a powerful new way to transform your business and achi...",
+  "tags": [
+    "process-mining"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602837389/icons/celonis.jpg",
+  "website": "https://www.celonis.com/"
+}

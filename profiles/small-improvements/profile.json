@@ -1,0 +1,12 @@
+{
+  "id": "small-improvements",
+  "title": "Small Improvements",
+  "subtitle": "Small Improvements is a software tool that enables employees to provide and receive feedback that helps them improve.",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306119/catalog/small-improvements/icon128x128.png"
+}

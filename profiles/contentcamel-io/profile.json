@@ -1,0 +1,14 @@
+{
+  "id": "contentcamel-io",
+  "title": "Content Camel",
+  "subtitle": "Cost effective sales enablement software that gives sales reps the right content at the right time to have better int...",
+  "tags": [
+    "sales-enablement",
+    "sales-content"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396572/icons/contentcamel-io.png",
+  "website": "https://contentcamel.io/"
+}

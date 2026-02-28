@@ -1,0 +1,13 @@
+{
+  "id": "gamma-app",
+  "title": "Gamma",
+  "subtitle": "The fast alternative to slides. Write like a doc, present like a deck.",
+  "tags": [
+    "presentations"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679311966/icons/gamma-app.png",
+  "website": "https://gamma.app/"
+}

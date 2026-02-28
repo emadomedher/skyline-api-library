@@ -1,0 +1,13 @@
+{
+  "id": "bizly",
+  "title": "Bizly",
+  "subtitle": "Meet the new kind of event planning tool that’s here to help you design, manage and measure events from start-to-finish.",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947241/catalog/bizly/icon128x128.jpg",
+  "website": "https://bizly.com"
+}

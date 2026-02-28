@@ -1,0 +1,13 @@
+{
+  "id": "mailkitchen",
+  "title": "MailKitchen",
+  "subtitle": "Sign up for a Free account and start sending your Email Campaigns with MailKitchen, an easy-to-use and scalable Email...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946846/catalog/mailkitchen/icon128x128.png",
+  "website": "https://mailkitchen.com"
+}

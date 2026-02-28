@@ -1,0 +1,15 @@
+{
+  "id": "zelf-co",
+  "title": "Zelf",
+  "subtitle": "No apps. No banks. No fees.⚡️Send and receive money easily by text or voice. ⏱️First cards will be distributed soon \ud83d...",
+  "tags": [
+    "challenger-banks",
+    "payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588039435/catalog/zelf-co/icon128x128.jpg",
+  "website": "https://zelf.co/"
+}

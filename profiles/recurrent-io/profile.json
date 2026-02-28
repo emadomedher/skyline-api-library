@@ -1,0 +1,13 @@
+{
+  "id": "recurrent-io",
+  "title": "Recurrent Ventures",
+  "subtitle": "Recurrent Ventures API integration",
+  "tags": [
+    "media-brands"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661205826/icons/recurrent-io.jpg",
+  "website": "https://recurrent.io/"
+}

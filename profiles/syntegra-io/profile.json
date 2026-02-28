@@ -1,0 +1,16 @@
+{
+  "id": "syntegra-io",
+  "title": "Syntegra",
+  "subtitle": "Syntegra API integration",
+  "tags": [
+    "synthetic-data",
+    "healthcare-data",
+    "healthcare",
+    "compliance"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598733959/icons/syntegra-io.png",
+  "website": "https://www.syntegra.io/"
+}

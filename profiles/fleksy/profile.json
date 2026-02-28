@@ -1,0 +1,15 @@
+{
+  "id": "fleksy",
+  "title": "Fleksy",
+  "subtitle": "Beautifully designed & highly customizable, Fleksy lets you type at unparalleled speed in total privacy. Download Fle...",
+  "tags": [
+    "nlp",
+    "keyboard",
+    "privacy"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591898032/icons/fleksy.png",
+  "website": "https://www.fleksy.com/"
+}

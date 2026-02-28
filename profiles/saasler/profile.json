@@ -1,0 +1,13 @@
+{
+  "id": "saasler",
+  "title": "Saasler",
+  "subtitle": "The integrations we build for your app will live inside the app. They can be either manually triggered by users or au...",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573853556/catalog/saasler/icon128x128.jpg",
+  "website": "https://www.saasler.com/"
+}

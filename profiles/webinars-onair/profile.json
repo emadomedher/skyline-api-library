@@ -1,0 +1,13 @@
+{
+  "id": "webinars-onair",
+  "title": "Webinars OnAir",
+  "subtitle": "Monetize your webinars and more. All the webinar features you need built on the Google foundation you trust. Webinars...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722852/catalog/webinars-onair/icon128x128.jpg",
+  "website": "https://webinarsonair.com"
+}

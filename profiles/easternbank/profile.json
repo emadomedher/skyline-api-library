@@ -1,0 +1,13 @@
+{
+  "id": "easternbank",
+  "title": "Eastern Bank",
+  "subtitle": "Eastern Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645495175/icons/easternbank.jpg",
+  "website": "https://www.easternbank.com/"
+}

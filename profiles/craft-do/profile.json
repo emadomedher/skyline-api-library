@@ -1,0 +1,14 @@
+{
+  "id": "craft-do",
+  "title": "Craft.do",
+  "subtitle": "A fresh take on documents",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990411/icons/craft-do.jpg",
+  "website": "https://www.craft.do/",
+  "docsUrl": "https://developer.craft.do"
+}

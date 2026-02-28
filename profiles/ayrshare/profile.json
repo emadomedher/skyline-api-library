@@ -1,0 +1,14 @@
+{
+  "id": "ayrshare",
+  "title": "Ayrshare",
+  "subtitle": "Powerful APIs that enable you to send social media posts effortlessly. For developers and businesses of all sizes.",
+  "tags": [
+    "social-media-posting-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606257120/icons/ayrshare.jpg",
+  "website": "https://www.ayrshare.com/",
+  "docsUrl": "https://docs.ayrshare.com"
+}

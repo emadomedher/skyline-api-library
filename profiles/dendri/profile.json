@@ -1,0 +1,14 @@
+{
+  "id": "dendri",
+  "title": "Dendri",
+  "subtitle": "Dendri is a legal case management software for building collaborative workflows. Customize your workflow, collaborate...",
+  "tags": [
+    "legal-case-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017811/icons/dendri.png",
+  "website": "https://dendri.com/",
+  "docsUrl": "https://dendri.helpscoutdocs.com"
+}

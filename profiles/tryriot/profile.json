@@ -1,0 +1,13 @@
+{
+  "id": "tryriot",
+  "title": "Riot",
+  "subtitle": "Meet Riot, the all-in-one platform that drives better protection for your team.",
+  "tags": [
+    "security-training"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639600087/icons/tryriot.jpg",
+  "website": "https://tryriot.com/?no_redirect"
+}

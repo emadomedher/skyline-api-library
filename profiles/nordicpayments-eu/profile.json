@@ -1,0 +1,13 @@
+{
+  "id": "nordicpayments-eu",
+  "title": "P27 NordicPayments",
+  "subtitle": "P27 aims to make payments in the Nordic currencies and the euro more efficient with a payment infrastructure for dome...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635821102/icons/nordicpayments-eu.jpg",
+  "website": "https://nordicpayments.eu/"
+}

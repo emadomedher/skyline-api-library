@@ -1,0 +1,12 @@
+{
+  "id": "routee",
+  "title": "Routee",
+  "subtitle": "Routee is a platform that provides users with SMS sending functionality, enhancing communication between businesses a...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305919/catalog/routee/icon128x128.png"
+}

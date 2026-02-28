@@ -1,0 +1,13 @@
+{
+  "id": "alfresco",
+  "title": "Alfresco",
+  "subtitle": "Alfresco Platform is an open, modern and secure system that intelligently activates process and content to accelerate...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947296/catalog/alfresco/icon128x128.jpg",
+  "website": "https://alfresco.com"
+}

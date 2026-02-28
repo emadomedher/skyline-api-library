@@ -1,0 +1,13 @@
+{
+  "id": "orangebank-fr",
+  "title": "Orange Bank",
+  "subtitle": "Orange Bank is a bank launched by French telecom company Orange.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609987203/icons/orangebank-fr.png",
+  "website": "https://www.orangebank.fr/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "happyfox",
+  "title": "HappyFox",
+  "subtitle": "HappyFox is a customer support, ticket support software that ensures lowest response time for all your customers quer...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305089/catalog/happyfox/icon128x128.png",
+  "website": "https://www.happyfox.com/"
+}

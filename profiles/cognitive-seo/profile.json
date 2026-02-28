@@ -1,0 +1,13 @@
+{
+  "id": "cognitive-seo",
+  "title": "Cognitive SEO",
+  "subtitle": "Cognitive SEO API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433819/catalog/cognitive-seo/icon128x128.png",
+  "website": "https://cognitiveseo.com"
+}

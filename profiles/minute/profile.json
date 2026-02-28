@@ -1,0 +1,13 @@
+{
+  "id": "minute",
+  "title": "Minute",
+  "subtitle": "Minute is a cloud-based mobile and desktop meeting software tool with a focus on productive & collaborative meetings.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305449/catalog/minute/icon128x128.png",
+  "website": "https://www.getminute.com/"
+}

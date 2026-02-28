@@ -1,0 +1,14 @@
+{
+  "id": "miragejs",
+  "title": "Mirage JS",
+  "subtitle": "Build, test and demo your JavaScript application without an API",
+  "tags": [
+    "api-mocking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645495138/icons/miragejs.jpg",
+  "website": "https://miragejs.com/",
+  "docsUrl": "https://miragejs.com/docs/getting-started/introduction"
+}

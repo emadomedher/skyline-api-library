@@ -1,0 +1,15 @@
+{
+  "id": "capitalontap",
+  "title": "Capital On Tap",
+  "subtitle": "Capital on Tap is a lender that provides working capital such as loans and credit cards to small businesses.",
+  "tags": [
+    "business-credit-cards",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738471/catalog/capitalontap/icon128x128.png",
+  "website": "https://www.capitalontap.com/",
+  "docsUrl": "https://www.capitalontap.com/en/apps/open-banking/"
+}

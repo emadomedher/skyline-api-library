@@ -1,0 +1,14 @@
+{
+  "id": "diffbot",
+  "title": "Diffbot",
+  "subtitle": "Transform the web into data. Diffbot automates web data extraction from any website using AI, computer vision, and ma...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304767/catalog/diffbot/icon128x128.png",
+  "website": "https://diffbot.com",
+  "docsUrl": "https://docs.diffbot.com"
+}

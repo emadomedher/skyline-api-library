@@ -1,0 +1,14 @@
+{
+  "id": "convergence-io",
+  "title": "Convergence Labs",
+  "subtitle": "Convergence is a next generation API that allows developers to build rich, real-time collaboration into their applica...",
+  "tags": [
+    "real-time-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627576011/icons/convergence-io.jpg",
+  "website": "https://convergence.io/",
+  "docsUrl": "https://convergence.io/documentation"
+}

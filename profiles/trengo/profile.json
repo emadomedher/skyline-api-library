@@ -1,0 +1,15 @@
+{
+  "id": "trengo",
+  "title": "Trengo",
+  "subtitle": "Trengo API integration",
+  "tags": [
+    "team-inbox",
+    "email",
+    "team-chat"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570350223/catalog/trengo/icon128x128.png",
+  "website": "https://trengo.com/"
+}

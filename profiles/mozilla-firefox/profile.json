@@ -1,0 +1,13 @@
+{
+  "id": "mozilla-firefox",
+  "title": "Mozilla Firefox",
+  "subtitle": "Mozilla Firefox API integration",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571584571/catalog/mozilla-firefox/icon128x128.png",
+  "website": "https://www.mozilla.org/en-US/firefox/new/"
+}

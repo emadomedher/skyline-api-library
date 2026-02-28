@@ -1,0 +1,13 @@
+{
+  "id": "capitalise",
+  "title": "Capitalise",
+  "subtitle": "We've partnered with 100+ UK lenders to offer business loans and cash flow solutions to SMEs. Find the funding that b...",
+  "tags": [
+    "lending-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671579/icons/capitalise.png",
+  "website": "https://capitalise.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "loyalize-ai",
+  "title": "Loyalize",
+  "subtitle": "Loyalize is a white label engagement platform for retailers and financial institutions that combines payment and loya...",
+  "tags": [
+    "customer-engagement",
+    "loyalty"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595339387/icons/loyalize-ai.png",
+  "website": "https://www.loyalize.ai/"
+}

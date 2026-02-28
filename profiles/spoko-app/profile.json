@@ -1,0 +1,13 @@
+{
+  "id": "spoko-app",
+  "title": "Spoko Smart Money Transfers",
+  "subtitle": "Global money transfers with low fees, fast delivery and attractive exchange rates. Send to bank account, e-wallet or ...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636499791/icons/spoko-app.jpg",
+  "website": "https://spoko.app/"
+}

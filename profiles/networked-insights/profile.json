@@ -1,0 +1,13 @@
+{
+  "id": "networked-insights",
+  "title": "Networked Insights",
+  "subtitle": "Networked Insights API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721241/catalog/networked-insights/icon128x128.jpg",
+  "website": "https://networkedinsights.com"
+}

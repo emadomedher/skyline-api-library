@@ -1,0 +1,15 @@
+{
+  "id": "geotargetingwp",
+  "title": " Geotargeting WP",
+  "subtitle": "Geotarget your users content or create geo redirects using one of our WordPress plugins. The most complete WordPress ...",
+  "tags": [
+    "geotargetting",
+    "wordpress-plugins"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623549148/icons/geotargetingwp.png",
+  "website": "https://geotargetingwp.com/",
+  "docsUrl": "https://geotargetingwp.com/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hookbin",
+  "title": "Hookbin",
+  "subtitle": "Hookbin API integration",
+  "tags": [
+    "api-testing",
+    "request-bins",
+    "webhooks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602949987/icons/hookbin.png",
+  "website": "https://hookbin.com/"
+}

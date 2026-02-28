@@ -1,0 +1,15 @@
+{
+  "id": "otonomo-io",
+  "title": "otonomo",
+  "subtitle": "Otonomo is an automotive data services platform that fuels a network of 15 OEMs, 100+ service providers and connected...",
+  "tags": [
+    "automotive",
+    "data-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588444270/catalog/otonomo-io/icon128x128.jpg",
+  "website": "https://otonomo.io/",
+  "docsUrl": "https://docs.otonomo.io/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "briohr",
+  "title": "BrioHR",
+  "subtitle": "User friendly HR software that automate your HR processes and simplify it enabling you to be more efficient and engag...",
+  "tags": [
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648506863/icons/briohr.jpg",
+  "website": "https://briohr.com/"
+}

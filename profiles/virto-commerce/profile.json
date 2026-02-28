@@ -1,0 +1,13 @@
+{
+  "id": "virto-commerce",
+  "title": "Virto Commerce",
+  "subtitle": "Virto Commerce API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438303/catalog/virto-commerce/icon128x128.png",
+  "website": "https://virtocommerce.com"
+}

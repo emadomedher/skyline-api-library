@@ -1,0 +1,14 @@
+{
+  "id": "okra-ng",
+  "title": "Okra",
+  "subtitle": "Accelerating financial innovation through data #5thGenFintech",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588466570/catalog/okra-ng/icon128x128.jpg",
+  "website": "https://okra.ng/",
+  "docsUrl": "https://okra.ng/#developers-fixed"
+}

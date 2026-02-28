@@ -1,0 +1,13 @@
+{
+  "id": "trylavender",
+  "title": "Lavender",
+  "subtitle": "Lavender is an Email Assistant that helps you get more replies in less time using AI.",
+  "tags": [
+    "sales-email-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627773524/icons/trylavender.jpg",
+  "website": "https://www.trylavender.com/"
+}

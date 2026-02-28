@@ -1,0 +1,13 @@
+{
+  "id": "applicantstack",
+  "title": "ApplicantStack",
+  "subtitle": "ApplicantStack applicant tracking system is the affordable, easy-to-use online applicant tracking and employee onboar...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215734/icons/applicantstack.jpg",
+  "website": "https://www.applicantstack.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fabrick",
+  "title": "Fabrick",
+  "subtitle": "Fabrick offers Open Banking solutions: a new way of thinking about the bank, open, modular and data driven, closer to...",
+  "tags": [
+    "psd-2-gateways",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613458931/icons/fabrick.jpg",
+  "website": "https://www.fabrick.com/",
+  "docsUrl": "https://developers.fabrick.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "terminusapp",
+  "title": "Terminus",
+  "subtitle": "Terminus is a feature-rich UTM Builder that replaces your spreadsheets. It helps you and your team standardize and co...",
+  "tags": [
+    "utm-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572910285/catalog/terminusapp/icon128x128.png",
+  "website": "https://www.terminusapp.com/",
+  "docsUrl": "https://www.terminusapp.com/docs"
+}

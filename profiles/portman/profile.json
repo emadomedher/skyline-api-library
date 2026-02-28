@@ -1,0 +1,14 @@
+{
+  "id": "portman",
+  "title": "Portman",
+  "subtitle": "Port OpenAPI Specs to Postman Collections, inject test suite and run via Newman ‍ - apideck-libraries/portman",
+  "tags": [
+    "api-testing",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626428643/icons/portman.jpg",
+  "website": "https://github.com/apideck-libraries/portman"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ohpen",
+  "title": "Ohpen",
+  "subtitle": "Our people define our business. Each of them are passionate leaders in their field. Experienced bankers. Expert softw...",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591559012/icons/ohpen.jpg",
+  "website": "https://www.ohpen.com/"
+}

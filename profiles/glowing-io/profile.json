@@ -1,0 +1,13 @@
+{
+  "id": "glowing-io",
+  "title": "Glowing.io",
+  "subtitle": "Glowing.io's AI-enhanced customer engagement solution provides powerful chat & messaging for brands seeking to enhanc...",
+  "tags": [
+    "customer-engagement"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655243518/icons/glowing-io.jpg",
+  "website": "https://glowing.io/"
+}

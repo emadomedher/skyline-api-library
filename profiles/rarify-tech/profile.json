@@ -1,0 +1,15 @@
+{
+  "id": "rarify-tech",
+  "title": "Rarify",
+  "subtitle": "Use one platform to search, retrieve metadata and get insights for NFTs and collections across multiple blockchains.",
+  "tags": [
+    "data-apis",
+    "nft-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915256/icons/rarify-tech.png",
+  "website": "https://rarify.tech/",
+  "docsUrl": "https://docs.rarify.tech"
+}

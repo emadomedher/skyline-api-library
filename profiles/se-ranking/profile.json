@@ -1,0 +1,13 @@
+{
+  "id": "se-ranking",
+  "title": "SE Ranking",
+  "subtitle": "SE Ranking is a marketing platform comprised of a set of tools designed to assist marketers and SEO experts in their ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305996/catalog/se-ranking/icon128x128.png",
+  "website": "https://seranking.com"
+}

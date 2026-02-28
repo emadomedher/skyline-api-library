@@ -1,0 +1,14 @@
+{
+  "id": "gotogroup-uk",
+  "title": "GOTO Group",
+  "subtitle": "An Award Winning Service. Price promise. Surveys, Mortgages, Conveyancing, Auctions & more. Call Us Now: 01844 873300",
+  "tags": [
+    "proptech",
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302476/icons/gotogroup-uk.jpg",
+  "website": "https://www.gotogroup.co.uk/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "new10",
+  "title": "New10",
+  "subtitle": "New10 sets the new norm in SME lending by offering a fully digital lending process. Fast, simple, and clear.",
+  "tags": [
+    "challenger-banks",
+    "sme-lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591545167/icons/new10.jpg",
+  "website": "https://new10.com/"
+}

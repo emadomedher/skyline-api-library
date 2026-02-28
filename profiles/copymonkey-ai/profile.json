@@ -1,0 +1,14 @@
+{
+  "id": "copymonkey-ai",
+  "title": "CopyMonkey.ai",
+  "subtitle": "Use our Product Description Generator to generate hundreds and thousands of product descriptions at once. All platfor...",
+  "tags": [
+    "product-description-generators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642674084/icons/copymonkey-ai.jpg",
+  "website": "https://copymonkey.ai/",
+  "docsUrl": "https://www.producthunt.com/@konstantin_schyogolev"
+}

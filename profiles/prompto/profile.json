@@ -1,0 +1,14 @@
+{
+  "id": "prompto",
+  "title": "Prompto",
+  "subtitle": "The most comprehensive solution on the market, Prompto delivers industry-leading tools to orchestrate engaging buying...",
+  "tags": [
+    "sales-enablement",
+    "proptech"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657638813/icons/prompto.jpg",
+  "website": "https://prompto.com/"
+}

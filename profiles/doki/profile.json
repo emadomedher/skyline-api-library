@@ -1,0 +1,12 @@
+{
+  "id": "doki",
+  "title": "Doki",
+  "subtitle": "Doki helps entrepreneurs easily deliver a variety of online learning experiences including courses and mentorship pro...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284500/catalog/doki/icon128x128.png"
+}

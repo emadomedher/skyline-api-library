@@ -1,0 +1,15 @@
+{
+  "id": "dealersocket",
+  "title": "DealerSocket",
+  "subtitle": "DealerSocket offers best in class solutions for automotive CRM, websites, inventory management, and DMS for independe...",
+  "tags": [
+    "dealership-management",
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601567141/icons/dealersocket.jpg",
+  "website": "https://www.dealersocket.com/",
+  "docsUrl": "https://www.dealersocket.com/products/revenueradar"
+}

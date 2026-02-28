@@ -1,0 +1,13 @@
+{
+  "id": "fleep",
+  "title": "Fleep",
+  "subtitle": "Fleep is your own business messenger. Leave email behind and manage all conversations with your team, partners and cl...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304918/catalog/fleep/icon128x128.png",
+  "website": "https://fleep.io/"
+}

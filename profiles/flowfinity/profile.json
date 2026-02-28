@@ -1,0 +1,13 @@
+{
+  "id": "flowfinity",
+  "title": "Flowfinity",
+  "subtitle": "Rapidly build mobile forms, dashboards, and workflows that streamline any business process. No coding required.",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720244/catalog/flowfinity/icon128x128.jpg",
+  "website": "https://flowfinity.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "amazon-api-gateway",
+  "title": "Amazon API Gateway",
+  "subtitle": "Amazon API Gateway helps you build HTTP, REST, and WebSocket APIs with a fully managed service that makes it easy to ...",
+  "tags": [
+    "api-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604487231/icons/amazon-api-gateway.png",
+  "website": "https://aws.amazon.com/api-gateway/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=default"
+}

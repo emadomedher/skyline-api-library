@@ -1,0 +1,13 @@
+{
+  "id": "communigator",
+  "title": "Communigator",
+  "subtitle": "Communigator is a complete marketing automation software solution for your business that also provides email marketin...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947201/catalog/communigator/icon128x128.jpg",
+  "website": "https://communigator.co.uk"
+}

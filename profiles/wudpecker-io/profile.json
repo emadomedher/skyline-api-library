@@ -1,0 +1,13 @@
+{
+  "id": "wudpecker-io",
+  "title": "Wudpecker",
+  "subtitle": "Start the meeting prepared. End the meeting with perfect notes. Share it to every stakeholder. All in a seamless expe...",
+  "tags": [
+    "meeting-notes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1684211507/icons/wudpecker-io.jpg",
+  "website": "https://www.wudpecker.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "speakerrate",
+  "title": "SpeakerRate",
+  "subtitle": "SpeakerRate is a site built to find speakers, provide constructive feedback for talks, and research upcoming events.",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722274/catalog/speakerrate/icon128x128.png",
+  "website": "https://speakerrate.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "statbot",
+  "title": "Statbot",
+  "subtitle": "One-click business & growth analytics for Intercom. We import your Intercom data and build professional reports. We h...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553786644/catalog/statbot/icon128x128.png",
+  "website": "https://statbot.io/"
+}

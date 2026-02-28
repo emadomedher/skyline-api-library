@@ -1,0 +1,13 @@
+{
+  "id": "sendx",
+  "title": "SendX",
+  "subtitle": "SendX is a lead generation and email marketing automation platform to grow your web business. It is marketing for non...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306030/catalog/sendx/icon128x128.png",
+  "website": "https://sendx.io"
+}

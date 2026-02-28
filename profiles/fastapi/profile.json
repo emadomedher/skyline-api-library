@@ -1,0 +1,14 @@
+{
+  "id": "fastapi",
+  "title": "FastAPI",
+  "subtitle": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+  "tags": [
+    "api-frameworks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074600/icons/fastapi.png",
+  "website": "https://fastapi.tiangolo.com/",
+  "docsUrl": "https://fastapi.tiangolo.com/#interactive-api-docs"
+}

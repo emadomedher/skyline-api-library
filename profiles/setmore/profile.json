@@ -1,0 +1,13 @@
+{
+  "id": "setmore",
+  "title": "SetMore",
+  "subtitle": "Turn time into money with Setmore free online scheduling software. Book and manage appointments via web, Android and ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722037/catalog/setmore/icon128x128.jpg",
+  "website": "https://setmore.com"
+}

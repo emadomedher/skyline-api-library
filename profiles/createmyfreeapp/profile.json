@@ -1,0 +1,13 @@
+{
+  "id": "createmyfreeapp",
+  "title": "CreateMyFreeApp",
+  "subtitle": "CreateMyFreeApp API integration",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433990/catalog/createmyfreeapp/icon128x128.png",
+  "website": "https://createmyfreeapp.com"
+}

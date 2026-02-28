@@ -1,0 +1,13 @@
+{
+  "id": "zalster",
+  "title": "Zalster",
+  "subtitle": "Zalster API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961877/catalog/zalster/icon128x128.png",
+  "website": "https://zalster.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dropbox",
+  "title": "Dropbox",
+  "subtitle": "Dropbox is a modern workspace designed to reduce busywork-so you can focus on the things that matter. Sign in and put...",
+  "tags": [
+    "cloud-storage",
+    "collaboration"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455993/catalog/dropbox/icon128x128.png",
+  "website": "https://www.dropbox.com/",
+  "docsUrl": "https://www.dropbox.com/developers"
+}

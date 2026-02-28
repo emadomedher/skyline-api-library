@@ -1,0 +1,14 @@
+{
+  "id": "adobe-incopy",
+  "title": "Adobe InCopy",
+  "subtitle": "Students and teachers are eligible for over 60% discount on Adobe Creative Cloud. Get access to Photoshop, Illustrato...",
+  "tags": [
+    "copywriting",
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579797335/catalog/adobe-incopy/icon128x128.jpg",
+  "website": "https://www.adobe.com/uk/products/incopy.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "residentboost",
+  "title": "Resident Boost",
+  "subtitle": "Resident Boost API integration",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623808061/icons/residentboost.png",
+  "website": "https://www.residentboost.com/"
+}

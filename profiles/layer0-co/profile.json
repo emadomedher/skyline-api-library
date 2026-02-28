@@ -1,0 +1,15 @@
+{
+  "id": "layer0-co",
+  "title": "Layer0",
+  "subtitle": "Infrastructure for sub-second dynamic websites. Develop, deploy, preview, experiment on, monitor and run your fronten...",
+  "tags": [
+    "static-site-hosting",
+    "jamstack"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632537558/icons/layer0-co.jpg",
+  "website": "https://www.layer0.co/",
+  "docsUrl": "https://docs.layer0.co/?sgid=445a33bd-1842-4258-b73d-786754519878"
+}

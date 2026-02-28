@@ -1,0 +1,12 @@
+{
+  "id": "commcare",
+  "title": "CommCare",
+  "subtitle": "CommCare is an an open source platform that lets you make free, customized mobile applications for your mobile workfo...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304671/catalog/commcare/icon128x128.png"
+}

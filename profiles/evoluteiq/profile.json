@@ -1,0 +1,14 @@
+{
+  "id": "evoluteiq",
+  "title": "evoluteIQ",
+  "subtitle": "EvoluteIQ accelerates hyperautomation for organizations through the low-code/no-code e.IQ platform that enables hyper...",
+  "tags": [
+    "ipaas",
+    "no-code"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611409061/icons/evoluteiq.png",
+  "website": "https://www.evoluteiq.com/"
+}

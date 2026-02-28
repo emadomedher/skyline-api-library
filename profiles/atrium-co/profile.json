@@ -1,0 +1,13 @@
+{
+  "id": "atrium-co",
+  "title": "Atrium",
+  "subtitle": "Atrium is a full-service corporate law firm that uses modern technology to give startups a legal experience that is f...",
+  "tags": [
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566765009/catalog/atrium-co/icon128x128.png",
+  "website": "https://www.atrium.co/"
+}

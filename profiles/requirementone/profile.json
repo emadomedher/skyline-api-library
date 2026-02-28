@@ -1,0 +1,12 @@
+{
+  "id": "requirementone",
+  "title": "RequirementOne",
+  "subtitle": "RequirementOne is everything you need in one place to deliver a successful project.",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305861/catalog/requirementone/icon128x128.png"
+}

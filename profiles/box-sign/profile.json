@@ -1,0 +1,14 @@
+{
+  "id": "box-sign",
+  "title": "Box Sign",
+  "subtitle": "Electronic document signing doesn't mean sacrificing security or compliance. Box Sign brings native e-signature capab...",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636499806/icons/box-sign.jpg",
+  "website": "https://www.box.com/esignature",
+  "docsUrl": "https://developer.box.com/reference/resources/sign-requests/"
+}

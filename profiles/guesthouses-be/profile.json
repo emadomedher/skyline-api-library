@@ -1,0 +1,14 @@
+{
+  "id": "guesthouses-be",
+  "title": "guesthouses.be",
+  "subtitle": "Bed and Breakfast (B&B) België ✔Charme hotels ✔Last minutes ✔Direct boeken bij de Bed and Breakfast ✔Geen reservering...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612636602/icons/guesthouses-be.jpg",
+  "website": "https://guesthouses.be/"
+}

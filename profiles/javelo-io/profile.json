@@ -1,0 +1,14 @@
+{
+  "id": "javelo-io",
+  "title": "Javelo",
+  "subtitle": "Your innovative performance management tool.",
+  "tags": [
+    "employee-feedback",
+    "okr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629140687/icons/javelo-io.jpg",
+  "website": "https://javelo.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blackberry-access",
+  "title": "Blackberry Access",
+  "subtitle": "BlackBerry Access is a secure mobile browser, providing business users secure access to applications and your corpora...",
+  "tags": [
+    "browser"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569101201/catalog/blackberry-access/icon128x128.jpg",
+  "website": "https://www.blackberry.com/us/en/products/blackberry-dynamics/blackberry-access",
+  "docsUrl": "https://docs.blackberry.com/en"
+}

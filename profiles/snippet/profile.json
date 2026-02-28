@@ -1,0 +1,12 @@
+{
+  "id": "snippet",
+  "title": "Snippet",
+  "subtitle": "Snippet is a platform for all your highlights: books, Kindle ebooks and web articles. You got everything in one place...",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284611/catalog/snippet/icon128x128.png"
+}

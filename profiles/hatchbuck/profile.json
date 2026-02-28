@@ -1,0 +1,13 @@
+{
+  "id": "hatchbuck",
+  "title": "Hatchbuck",
+  "subtitle": "Keep tabs on your contacts, automatically follow up on them, and track your marketing with smart insights in Hatchbuc...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305094/catalog/hatchbuck/icon128x128.png",
+  "website": "https://www.hatchbuck.com/"
+}

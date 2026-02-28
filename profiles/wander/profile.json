@@ -1,0 +1,13 @@
+{
+  "id": "wander",
+  "title": "Wander",
+  "subtitle": "Book the perfect Wander-owned smart home for your next workcation, vacation or anything in-between. Join the waitlist...",
+  "tags": [
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644512963/icons/wander.jpg",
+  "website": "https://www.wander.com/"
+}

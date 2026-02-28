@@ -1,0 +1,14 @@
+{
+  "id": "geniebelt",
+  "title": "GenieBelt",
+  "subtitle": "GenieBelt is online construction project management software that helps you to run projects with ease and save budget.",
+  "tags": [
+    "project-management",
+    "construction"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538995/catalog/geniebelt/icon128x128.png",
+  "website": "https://geniebelt.com/"
+}

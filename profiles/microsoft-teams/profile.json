@@ -1,0 +1,14 @@
+{
+  "id": "microsoft-teams",
+  "title": "Microsoft Teams",
+  "subtitle": "Microsoft Teams is the hub for team collaboration in Microsoft 365 that integrates the people, content, and tools you...",
+  "tags": [
+    "team-chat",
+    "team-messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587458222/catalog/microsoft-teams/icon128x128.png",
+  "website": "https://products.office.com/en-us/microsoft-teams/group-chat-software"
+}

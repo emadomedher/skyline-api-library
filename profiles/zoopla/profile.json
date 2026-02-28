@@ -1,0 +1,13 @@
+{
+  "id": "zoopla",
+  "title": "Zoopla",
+  "subtitle": "UK's most comprehensive property website attracting over 40 million visits per month.",
+  "tags": [
+    "real-estate-portals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551227415/catalog/zoopla/icon128x128.jpg",
+  "website": "https://www.zoopla.co.uk/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "siemplify-co",
+  "title": "Siemplify",
+  "subtitle": "Siemplify's security orchestration, automation and response platform offers security operations teams everything they...",
+  "tags": [
+    "soar",
+    "security-operations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611247038/icons/siemplify-co.png",
+  "website": "https://www.siemplify.co/",
+  "docsUrl": "https://www.manula.com/manuals/siemplify"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lawcus",
+  "title": "Lawcus",
+  "subtitle": "Lawcus is a practice management tool that enables lawyers to organize matters and automate consistent processes to he...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305271/catalog/lawcus/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "klar-mx",
+  "title": "Klar",
+  "subtitle": "Klar, a Mexico-based challenger bank working to democratize bank services in Mexico.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593465462/icons/klar-mx.png",
+  "website": "https://www.klar.mx/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lennd",
+  "title": "Lennd",
+  "subtitle": "Lennd helps event teams streamline their operations and communications and dramatically increase efficiency. The worl...",
+  "tags": [
+    "event-management",
+    "festival-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080680/catalog/lennd/icon128x128.jpg",
+  "website": "https://www.lennd.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "databricks",
+  "title": "Databricks",
+  "subtitle": "Databricks provides a Unified Analytics Platform that accelerates innovation by unifying data science, engineering an...",
+  "tags": [
+    "data-analytics",
+    "data-science",
+    "open-source"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571955935/catalog/databricks/icon128x128.png",
+  "website": "https://databricks.com/",
+  "docsUrl": "https://docs.databricks.com"
+}

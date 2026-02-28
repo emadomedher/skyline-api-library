@@ -1,0 +1,13 @@
+{
+  "id": "emailchef",
+  "title": "eMailChef",
+  "subtitle": "eMailChef is the easiest-to-use email marketing service in the world. It allows you to send newsletters, create templ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719898/catalog/emailchef/icon128x128.jpg",
+  "website": "https://emailchef.com"
+}

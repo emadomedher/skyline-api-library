@@ -1,0 +1,13 @@
+{
+  "id": "protopie-io",
+  "title": "ProtoPie",
+  "subtitle": "ProtoPie is the easiest tool used to turn your UI/UX design ideas into highly interactive prototypes for mobile, desk...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565230340/catalog/protopie-io/icon128x128.jpg",
+  "website": "https://protopie.io"
+}

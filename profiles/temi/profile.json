@@ -1,0 +1,12 @@
+{
+  "id": "temi",
+  "title": "Temi",
+  "subtitle": "Temi is an audio transcription service that uses computers to transcribe English audio or video into text. We also of...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539029/catalog/temi/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "elcom",
+  "title": "elcom",
+  "subtitle": "Interested in building effective websites, intranets and portals for your organisation?  Find out why you should choo...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775075/catalog/elcom/icon128x128.jpg",
+  "website": "https://elcomcms.com"
+}

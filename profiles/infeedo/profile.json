@@ -1,0 +1,14 @@
+{
+  "id": "infeedo",
+  "title": "inFeedo",
+  "subtitle": "Amber is an AI chatbot that talks to your employees to help you identify those who are unhappy, disengaged or about t...",
+  "tags": [
+    "employee-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556226/icons/infeedo.jpg",
+  "website": "https://infeedo.com/",
+  "docsUrl": "https://help.infeedo.com/docs/security"
+}

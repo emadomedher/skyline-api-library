@@ -1,0 +1,12 @@
+{
+  "id": "companyhub",
+  "title": "CompanyHub",
+  "subtitle": "CompanyHub is a highly customizable CRM that you can customize, write custom logic, and create automated alerts for a...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304677/catalog/companyhub/icon128x128.png"
+}

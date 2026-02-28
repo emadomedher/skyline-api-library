@@ -1,0 +1,13 @@
+{
+  "id": "tinyletter",
+  "title": "TinyLetter",
+  "subtitle": "We all have an impact on the Mailchimp platform and add-ons. We require all of our individual members to comply with ...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522267/icons/tinyletter.png",
+  "website": "https://tinyletter.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hyperwrite-ai",
+  "title": "Hyperwrite",
+  "subtitle": "HyperWrite is the world's most advanced AI writing companion, helping you be more creative and write anything faster.",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618690056/icons/hyperwrite-ai.png",
+  "website": "https://hyperwrite.ai/"
+}

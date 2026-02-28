@@ -1,0 +1,13 @@
+{
+  "id": "livehelpnow",
+  "title": "LiveHelpNow",
+  "subtitle": "Customer service software with Bot driven automations featuring Live Chat, SMS, Support Ticket, Knowledge base integr...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720861/catalog/livehelpnow/icon128x128.jpg",
+  "website": "https://livehelpnow.net"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dhakabank",
+  "title": "Dhaka Bank",
+  "subtitle": "Dhaka Bank Limited is a private limited commercial bank in Bangladesh. Its headquarters are situated in Dhaka. Curren...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222464/icons/dhakabank.png",
+  "website": "https://dhakabankltd.com/"
+}

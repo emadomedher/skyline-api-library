@@ -1,0 +1,14 @@
+{
+  "id": "devcycle",
+  "title": "DevCycle",
+  "subtitle": "The success of a feature should be defined by more than operational stability.  DevCycle lets you deploy faster, redu...",
+  "tags": [
+    "feature-flags"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649154631/icons/devcycle.jpg",
+  "website": "https://devcycle.com/",
+  "docsUrl": "https://docs.devcycle.com"
+}

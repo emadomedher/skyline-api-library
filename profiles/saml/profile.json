@@ -1,0 +1,13 @@
+{
+  "id": "saml",
+  "title": "SAML",
+  "subtitle": "Security Assertion Markup Language (SAML, pronounced SAM-el) is an open standard for exchanging authentication and au...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821124/catalog/saml/icon128x128.png",
+  "website": "https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language"
+}

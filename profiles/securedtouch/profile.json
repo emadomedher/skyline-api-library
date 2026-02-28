@@ -1,0 +1,13 @@
+{
+  "id": "securedtouch",
+  "title": "SecuredTouch",
+  "subtitle": "SecuredTouch fraud protection is using behavioral biometrics for online transactions, delivering continuous authentic...",
+  "tags": [
+    "fraud-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573149894/catalog/securedtouch/icon128x128.jpg",
+  "website": "https://www.securedtouch.com/"
+}

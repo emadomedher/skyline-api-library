@@ -1,0 +1,13 @@
+{
+  "id": "fergus",
+  "title": "Fergus",
+  "subtitle": "Fergus is smart Field Service Management Software for service businesses. Make job management easy and carry out work...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619174/icons/fergus.jpg",
+  "website": "https://fergus.com/"
+}

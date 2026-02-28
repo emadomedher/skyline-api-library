@@ -1,0 +1,14 @@
+{
+  "id": "verida-io",
+  "title": "Verida",
+  "subtitle": "Verida API integration",
+  "tags": [
+    "personal-data",
+    "privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623343864/icons/verida-io.png",
+  "website": "https://www.verida.io/"
+}

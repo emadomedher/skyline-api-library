@@ -1,0 +1,12 @@
+{
+  "id": "onescreen-interactive",
+  "title": "OneScreen Interactive",
+  "subtitle": "OneScreen Interactive (OSI) is a mobile web platform that generates customizable web apps. Use OSI to aggregate your ...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539013/catalog/onescreen-interactive/icon128x128.png"
+}

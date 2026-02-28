@@ -1,0 +1,13 @@
+{
+  "id": "osko-au",
+  "title": "Osko by BPAY",
+  "subtitle": "Send money and make payments via your Internet banking or mobile banking app with Osko by BPAY for transfers that are...",
+  "tags": [
+    "payment-methods"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601862527/icons/osko-au.png",
+  "website": "https://osko.com.au/"
+}

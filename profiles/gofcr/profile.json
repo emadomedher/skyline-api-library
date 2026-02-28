@@ -1,0 +1,14 @@
+{
+  "id": "gofcr",
+  "title": "FCR",
+  "subtitle": "FCR API integration",
+  "tags": [
+    "oursourced-support-services",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602198689/icons/gofcr.jpg",
+  "website": "https://www.gofcr.com/"
+}

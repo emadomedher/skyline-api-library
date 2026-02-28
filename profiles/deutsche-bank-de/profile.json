@@ -1,0 +1,13 @@
+{
+  "id": "deutsche-bank-de",
+  "title": "Deutsche Bank",
+  "subtitle": "Das Deutsche Bank Portal bietet Ihnen umfassende Informationen zu modernem Banking, Produkten, Services sowie persönl...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563414798/catalog/deutsche-bank-de/icon128x128.jpg",
+  "website": "https://deutsche-bank.de"
+}

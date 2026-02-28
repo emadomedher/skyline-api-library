@@ -1,0 +1,14 @@
+{
+  "id": "tazworks",
+  "title": "TazWorks",
+  "subtitle": "TazWorks provides a complete technology solution for Consumer Reporting Agencies (CRAs) and professional background s...",
+  "tags": [
+    "background-screening",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591439760/icons/tazworks.jpg",
+  "website": "https://tazworks.com/"
+}

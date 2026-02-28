@@ -1,0 +1,14 @@
+{
+  "id": "absolute-payroll-isolved",
+  "title": "Absolute Payroll isolved",
+  "subtitle": "A Complete Workforce Management Solution. Everything you need to manage and grow your human capital, accessible from ...",
+  "tags": [
+    "hris",
+    "payroll-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622668474/icons/absolute-payroll-isolved.png",
+  "website": "https://absolutepayroll.myisolved.com/"
+}

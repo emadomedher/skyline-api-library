@@ -1,0 +1,13 @@
+{
+  "id": "visathing",
+  "title": "VISAThing",
+  "subtitle": "VISAThing is a travel technology company striving to build a convenient travel ecosystem for global travelers. Contac...",
+  "tags": [
+    "visa-applications"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595255527/icons/visathing.png",
+  "website": "https://visathing.com/"
+}

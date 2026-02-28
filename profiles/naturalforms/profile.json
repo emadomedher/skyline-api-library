@@ -1,0 +1,12 @@
+{
+  "id": "naturalforms",
+  "title": "naturalForms",
+  "subtitle": "NaturalForms is a mobile app that replaces paper forms and collects information electronically that exactly match you...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305495/catalog/naturalforms/icon128x128.png"
+}

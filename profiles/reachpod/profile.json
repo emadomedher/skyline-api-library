@@ -1,0 +1,13 @@
+{
+  "id": "reachpod",
+  "title": "Reachpod",
+  "subtitle": "Reachpod API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389814/catalog/reachpod/icon128x128.png",
+  "website": "https://reachpod.com"
+}

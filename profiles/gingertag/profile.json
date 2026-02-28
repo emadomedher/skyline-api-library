@@ -1,0 +1,15 @@
+{
+  "id": "gingertag",
+  "title": "GingerTag Analytics",
+  "subtitle": "Learn what users do on your website without digging through numerous reports. GingerTag is a Clean, Simple, No-Code A...",
+  "tags": [
+    "analytics",
+    "no-code",
+    "privacy"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612212738/icons/gingertag.jpg",
+  "website": "https://gingertag.com/"
+}

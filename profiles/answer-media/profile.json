@@ -1,0 +1,13 @@
+{
+  "id": "answer-media",
+  "title": "Answer Media",
+  "subtitle": "Answer Media API integration",
+  "tags": [
+    "video-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964315/catalog/answer-media/icon128x128.png",
+  "website": "https://answermedia.com"
+}

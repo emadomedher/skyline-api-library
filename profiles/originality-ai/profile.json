@@ -1,0 +1,13 @@
+{
+  "id": "originality-ai",
+  "title": "Originality.AI",
+  "subtitle": "Originality.AI will put you in control of checking your contents originality by identifying any Plagiarism and detect...",
+  "tags": [
+    "plagiarism-checker"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670437560/icons/originality-ai.png",
+  "website": "https://originality.ai/"
+}

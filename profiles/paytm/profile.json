@@ -1,0 +1,13 @@
+{
+  "id": "paytm",
+  "title": "Paytm",
+  "subtitle": "Use Paytm for safe & secure money transfer via UPI using any bank account or Paytm Wallet. Download App and link to U...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637639866/icons/paytm.jpg",
+  "website": "https://paytm.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "boingnet",
+  "title": "Boingnet",
+  "subtitle": "Boingnet is lightweight marketing automation that captures and nurtures leads with personalized URL (PURL) direct mai...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304511/catalog/boingnet/icon128x128.png",
+  "website": "https://boingnet.com"
+}

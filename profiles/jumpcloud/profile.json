@@ -1,0 +1,15 @@
+{
+  "id": "jumpcloud",
+  "title": "JumpCloud",
+  "subtitle": "Azure AD alternative with user management, web app SSO, cloud LDAP, SaaS RADIUS, GPO-like policies for Mac, Linux, an...",
+  "tags": [
+    "active-directory",
+    "identity",
+    "sso"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587833013/catalog/jumpcloud/icon128x128.png",
+  "website": "https://jumpcloud.com/"
+}

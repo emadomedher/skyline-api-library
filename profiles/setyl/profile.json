@@ -1,0 +1,13 @@
+{
+  "id": "setyl",
+  "title": "Setyl",
+  "subtitle": "IT, Finance and Ops: Manage IT devices, software, licences and spend from one easy to use platform. Regain control of...",
+  "tags": [
+    "it-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082024/icons/setyl.jpg",
+  "website": "https://setyl.com/"
+}

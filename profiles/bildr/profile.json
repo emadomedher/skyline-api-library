@@ -1,0 +1,13 @@
+{
+  "id": "bildr",
+  "title": "bildrHQ",
+  "subtitle": "No-code websites and web app builder with realtime collaboration.",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863283/icons/bildr.png",
+  "website": "https://www.bildr.com/"
+}

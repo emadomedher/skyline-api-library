@@ -1,0 +1,13 @@
+{
+  "id": "meltingspot-io",
+  "title": "MeltingSpot",
+  "subtitle": "One platform to broadcast your lives, initiate discussions, gather your content, manage your audiences and much more....",
+  "tags": [
+    "community-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909581/icons/meltingspot-io.png",
+  "website": "https://www.meltingspot.io/"
+}

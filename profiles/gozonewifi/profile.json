@@ -1,0 +1,13 @@
+{
+  "id": "gozonewifi",
+  "title": "GoZone WiFi",
+  "subtitle": "Smart WiFi solutions that transform your WiFi network into a marketing and revenue generating machine. Discover what ...",
+  "tags": [
+    "wifi-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573470290/catalog/gozonewifi/icon128x128.jpg",
+  "website": "https://www.gozonewifi.com/"
+}

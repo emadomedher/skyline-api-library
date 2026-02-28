@@ -1,0 +1,14 @@
+{
+  "id": "upcounsel",
+  "title": "UpCounsel",
+  "subtitle": "Easily hire attorneys for legal services that match your business needs and budget. Choose from 1000s of vetted, rate...",
+  "tags": [
+    "legal",
+    "marketplace"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572439916/catalog/upcounsel/icon128x128.png",
+  "website": "https://www.upcounsel.com/"
+}

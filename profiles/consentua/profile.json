@@ -1,0 +1,13 @@
+{
+  "id": "consentua",
+  "title": "Consentua",
+  "subtitle": "Consentua is a consent management platform that gives individuals choice and control over how their personal data is ...",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719575/catalog/consentua/icon128x128.jpg",
+  "website": "https://Consentua.com"
+}

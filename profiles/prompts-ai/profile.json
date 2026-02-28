@@ -1,0 +1,14 @@
+{
+  "id": "prompts-ai",
+  "title": "Prompts.ai",
+  "subtitle": "Advanced playground tools for GPT-3",
+  "tags": [
+    "gpt-3-playgrounds",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612119285/icons/prompts-ai.png",
+  "website": "https://prompts.ai/"
+}

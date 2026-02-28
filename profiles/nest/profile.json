@@ -1,0 +1,14 @@
+{
+  "id": "nest",
+  "title": "Nest",
+  "subtitle": "Discover connected home devices from Nest – thermostats, indoor and outdoor security cameras, smoke and carbon monoxi...",
+  "tags": [
+    "smarthome",
+    "hardware"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566954894/catalog/nest/icon128x128.png",
+  "website": "https://nest.com/"
+}

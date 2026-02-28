@@ -1,0 +1,13 @@
+{
+  "id": "dealer4dealer",
+  "title": "dealer4dealer",
+  "subtitle": "Koppel je webshop aan je boekhouding met de apps van Dealer4Dealer. Wij koppelen Exact Online en Exact Globe met Mage...",
+  "tags": [
+    "accounting-reconciliation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562337867/catalog/dealer4dealer/icon128x128.jpg",
+  "website": "https://dealer4dealer.nl"
+}

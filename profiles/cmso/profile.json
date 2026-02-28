@@ -1,0 +1,14 @@
+{
+  "id": "cmso",
+  "title": "Crédit Mutuel du Sud-Ouest (CMSO)",
+  "subtitle": "Crédit Mutuel du Sud-Ouest (CMSO) is present in Gironde, Dordogne and Charente via a network of 84 points of sale. It...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006414/icons/cmso.png",
+  "website": "https://www.cmso.com/",
+  "docsUrl": "https://developer.arkea.com/"
+}

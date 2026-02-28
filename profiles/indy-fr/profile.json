@@ -1,0 +1,14 @@
+{
+  "id": "indy-fr",
+  "title": "Indy",
+  "subtitle": "Découvrez Indy (ex Georges), la solution comptable des indépendants. Sans aucune saisie, Indy gère la comptabilité BN...",
+  "tags": [
+    "accounting-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611530596/icons/indy-fr.jpg",
+  "website": "https://www.indy.fr/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlsea1g-0he2efnawjiy-jgurukbvpe5twfureyqqtcdbrtm8ia/viewform"
+}

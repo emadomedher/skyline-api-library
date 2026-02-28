@@ -1,0 +1,13 @@
+{
+  "id": "pirateship",
+  "title": "Pirate Ship",
+  "subtitle": "Use our free shipping software to get the cheapest USPS shipping rates, which can save you up to 90% with services li...",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562982162/catalog/pirateship/icon128x128.jpg",
+  "website": "https://pirateship.com"
+}

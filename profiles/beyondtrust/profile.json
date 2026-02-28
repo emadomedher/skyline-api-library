@@ -1,0 +1,14 @@
+{
+  "id": "beyondtrust",
+  "title": "BeyondTrust",
+  "subtitle": "Unwanted remote access, stolen credentials, and misused privileges threaten every organization. BeyondTrust offers th...",
+  "tags": [
+    "privileged-access-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630510658/icons/beyondtrust.jpg",
+  "website": "https://www.beyondtrust.com/",
+  "docsUrl": "https://www.beyondtrust.com/docs/index.htm"
+}

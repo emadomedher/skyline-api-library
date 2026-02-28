@@ -1,0 +1,13 @@
+{
+  "id": "w3bstorecom",
+  "title": "W3bstore.com",
+  "subtitle": "W3bstore.com API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438408/catalog/w3bstorecom/icon128x128.png",
+  "website": "https://w3bstore.com"
+}

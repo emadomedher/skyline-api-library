@@ -1,0 +1,13 @@
+{
+  "id": "goodbits",
+  "title": "Goodbits",
+  "subtitle": "Goodbits is a service that allows you to save articles from the web and build stunning emails in minutes. Perfect for...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305037/catalog/goodbits/icon128x128.png",
+  "website": "https://goodbits.io"
+}

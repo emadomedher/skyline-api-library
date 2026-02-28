@@ -1,0 +1,13 @@
+{
+  "id": "kony",
+  "title": "Kony",
+  "subtitle": "Excel at digital transformation and stay ahead of the curve by delivering the best digital apps for your customers, p...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946875/catalog/kony/icon128x128.jpg",
+  "website": "https://kony.com"
+}

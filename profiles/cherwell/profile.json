@@ -1,0 +1,14 @@
+{
+  "id": "cherwell",
+  "title": "Cherwell Software",
+  "subtitle": "The leading ITSM software tool with proven business results, shorter implementations, and simpler licensing models. L...",
+  "tags": [
+    "it-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616567466/icons/cherwell.jpg",
+  "website": "https://www.cherwell.com/",
+  "docsUrl": "https://help.cherwell.com"
+}

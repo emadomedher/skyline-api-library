@@ -1,0 +1,16 @@
+{
+  "id": "envoyproxy-io",
+  "title": "Envoy",
+  "subtitle": "Envoy is an open source edge and service proxy, designed for cloud-native applications\n",
+  "tags": [
+    "microservices",
+    "open-source",
+    "proxy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565227621/catalog/envoyproxy-io/icon128x128.png",
+  "website": "https://envoyproxy.io",
+  "docsUrl": "https://www.envoyproxy.io/docs"
+}

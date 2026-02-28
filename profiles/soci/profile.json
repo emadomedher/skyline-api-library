@@ -1,0 +1,14 @@
+{
+  "id": "soci",
+  "title": "Soci",
+  "subtitle": "SOCi is the leading all-in-one platform built for \"next-level\" multi-location marketers to reach & engage local custo...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722171/catalog/soci/icon128x128.jpg",
+  "website": "https://meetsoci.com",
+  "docsUrl": "https://ww2.meetsoci.com/soci-preference-center"
+}

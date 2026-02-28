@@ -1,0 +1,13 @@
+{
+  "id": "zinfi",
+  "title": "Zinfi",
+  "subtitle": "ZINFI’s Unified Channel Management is a cloud-based SaaS platform with Partner Relationship, Partner / Channel Market...",
+  "tags": [
+    "partner-relationship-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555978540/catalog/zinfi/icon128x128.png",
+  "website": "https://zinfi.com"
+}

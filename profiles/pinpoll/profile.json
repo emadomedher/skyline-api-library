@@ -1,0 +1,13 @@
+{
+  "id": "pinpoll",
+  "title": "Pinpoll",
+  "subtitle": "People love polls. Pinpoll is a free tool to create exciting polls on your website. Pinpoll increases time on site by...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436472/catalog/pinpoll/icon128x128.png",
+  "website": "https://pinpoll.com"
+}

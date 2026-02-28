@@ -1,0 +1,14 @@
+{
+  "id": "whoson",
+  "title": "WhosOn",
+  "subtitle": "Looking for leading live chat software? Meet WhosOn. Start increasing conversion and tracking visitor activity with o...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1549979456/catalog/whoson/icon128x128.png",
+  "website": "https://www.whoson.com/",
+  "docsUrl": "https://developers.whoson.com"
+}

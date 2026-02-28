@@ -1,0 +1,13 @@
+{
+  "id": "10xbanking",
+  "title": "10xBanking",
+  "subtitle": "We aim to transform banking. We are leading a revolution with our next-generation cloud-native technology platform.",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588537662/catalog/10xbanking/icon128x128.jpg",
+  "website": "https://www.10xbanking.com/"
+}

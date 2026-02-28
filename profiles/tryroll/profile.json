@@ -1,0 +1,13 @@
+{
+  "id": "tryroll",
+  "title": "Roll",
+  "subtitle": "The Roll network mints branded social money unique to your online presence, allowing you to own, control and coordina...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017740/icons/tryroll.jpg",
+  "website": "https://tryroll.com/"
+}

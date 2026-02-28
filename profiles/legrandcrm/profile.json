@@ -1,0 +1,13 @@
+{
+  "id": "legrandcrm",
+  "title": "LegrandCRM",
+  "subtitle": "LegrandCRM API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435508/catalog/legrandcrm/icon128x128.png",
+  "website": "https://legrandcrm.com"
+}

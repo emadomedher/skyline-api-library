@@ -1,0 +1,15 @@
+{
+  "id": "keeptruckin",
+  "title": "KeepTruckin",
+  "subtitle": "Best-in-class, end-to-end fleet management solutions and Electronic Logging Devices for drivers, fleet managers and f...",
+  "tags": [
+    "truck-fleet-management",
+    "transportation-management-system"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598910105/icons/keeptruckin.jpg",
+  "website": "https://keeptruckin.com/",
+  "docsUrl": "https://developer.keeptruckin.com"
+}

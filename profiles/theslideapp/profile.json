@@ -1,0 +1,15 @@
+{
+  "id": "theslideapp",
+  "title": "Slide",
+  "subtitle": "Slide is a banking app for iPad and iPhone with built-in cash flow forecasting. Manage what has happened and what wil...",
+  "tags": [
+    "cash-flow-management",
+    "fintech",
+    "mobile"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567068041/catalog/theslideapp/icon128x128.jpg",
+  "website": "https://theslideapp.com/"
+}

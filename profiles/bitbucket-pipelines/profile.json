@@ -1,0 +1,14 @@
+{
+  "id": "bitbucket-pipelines",
+  "title": "Bitbucket Pipelines",
+  "subtitle": "Bitbucket Pipelines brings continuous integration and delivery to Bitbucket Cloud, empowering teams to build, test, a...",
+  "tags": [
+    "continuous-integration",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615498567/icons/bitbucket-pipelines.jpg",
+  "website": "https://bitbucket.org/product/features/pipelines"
+}

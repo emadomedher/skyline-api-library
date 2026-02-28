@@ -1,0 +1,13 @@
+{
+  "id": "conceptboard",
+  "title": "Conceptboard",
+  "subtitle": "Virtual Collaboration Workplace with whiteboard functions enabling efficient teamwork, regardless of time and place. ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719556/catalog/conceptboard/icon128x128.jpg",
+  "website": "https://conceptboard.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "indeed",
+  "title": "Indeed",
+  "subtitle": "Indeed API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554393150/catalog/indeed/icon128x128.jpg",
+  "website": "https://www.indeed.com/"
+}

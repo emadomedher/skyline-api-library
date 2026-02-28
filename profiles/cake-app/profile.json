@@ -1,0 +1,13 @@
+{
+  "id": "cake-app",
+  "title": "Cake",
+  "subtitle": " Meet Cake! Cake is not a bank. But the banking app. Cake brings together all your existing bank accounts and trans...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575573382/catalog/cake-app/icon128x128.png",
+  "website": "https://cake.app/"
+}

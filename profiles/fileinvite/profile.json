@@ -1,0 +1,12 @@
+{
+  "id": "fileinvite",
+  "title": "FileInvite",
+  "subtitle": "FileInvite helps you collect documentation. Request files from clients, and the work to chase and collect them is ful...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304912/catalog/fileinvite/icon128x128.png"
+}

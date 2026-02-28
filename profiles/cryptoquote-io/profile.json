@@ -1,0 +1,14 @@
+{
+  "id": "cryptoquote-io",
+  "title": "cryptoquote_io",
+  "subtitle": "Crypto currency price feed data API.",
+  "tags": [
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649375000/icons/cryptoquote-io.jpg",
+  "website": "https://cryptoquote.io/",
+  "docsUrl": "https://cryptoquote.io/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "paddle-be",
+  "title": "Paddle",
+  "subtitle": "Paddle biedt naast een gebruiksvriendelijk, schaalbaar en toekomstgericht CMS, hosting en 24/7 support, ook tal van d...",
+  "tags": [
+    "cms",
+    "drupal"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522274/icons/paddle-be.jpg",
+  "website": "https://www.paddle.be/"
+}

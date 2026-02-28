@@ -1,0 +1,14 @@
+{
+  "id": "vlocity",
+  "title": "Vlocity",
+  "subtitle": "Vlocity Industry Cloud CRM Apps deliver the superior, industry-specific, digital and omnichannel customer experiences...",
+  "tags": [
+    "crm",
+    "industry-clouds"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572122705/catalog/vlocity/icon128x128.jpg",
+  "website": "https://vlocity.com/"
+}

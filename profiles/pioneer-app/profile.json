@@ -1,0 +1,13 @@
+{
+  "id": "pioneer-app",
+  "title": "Pioneer",
+  "subtitle": "Pioneer helps founders track progress, get advice, and get funded. Join the network, advance yourself:",
+  "tags": [
+    "startup-accelerators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613353338/icons/pioneer-app.jpg",
+  "website": "https://pioneer.app/"
+}

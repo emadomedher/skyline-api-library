@@ -1,0 +1,14 @@
+{
+  "id": "leavemealone-app",
+  "title": "Leave Me Alone",
+  "subtitle": "See all of your subscription emails, newsletters, and spam in one place and unsubscribe from them with a single click...",
+  "tags": [
+    "privacy",
+    "anti-spam"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583758043/catalog/leavemealone-app/icon128x128.png",
+  "website": "https://leavemealone.app/"
+}

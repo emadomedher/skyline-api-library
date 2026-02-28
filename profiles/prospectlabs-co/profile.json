@@ -1,0 +1,15 @@
+{
+  "id": "prospectlabs-co",
+  "title": "Prospect Labs",
+  "subtitle": "Lead generation service for Startups & SMBs. We generate qualified leads, you just need to close them.",
+  "tags": [
+    "lead-generation-services",
+    "services",
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572302839/catalog/prospectlabs-co/icon128x128.png",
+  "website": "https://www.prospectlabs.co/"
+}

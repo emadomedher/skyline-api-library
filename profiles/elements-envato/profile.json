@@ -1,0 +1,13 @@
+{
+  "id": "elements-envato",
+  "title": "Envato Elements",
+  "subtitle": "Browse through thousands of stock photos, fonts and web templates. With unlimited downloads of all of our items, your...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564833574/catalog/elements-envato/icon128x128.png",
+  "website": "https://elements.envato.com"
+}

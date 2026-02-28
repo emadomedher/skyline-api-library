@@ -1,0 +1,13 @@
+{
+  "id": "destiny-be",
+  "title": "Destiny",
+  "subtitle": "Destiny biedt een cloud interactie platform aan dat bedrijven helpt om overal efficiënter, zorgeloos en goedkoper te ...",
+  "tags": [
+    "cloud-communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615487657/icons/destiny-be.png",
+  "website": "https://www.destiny.be/"
+}

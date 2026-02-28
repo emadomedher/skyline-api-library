@@ -1,0 +1,13 @@
+{
+  "id": "loanswarehouse-uk",
+  "title": "Loans Warehouse",
+  "subtitle": "At Loans Warehouse you’ll find everything from low rate second mortgages to personal loans - all under one roof.",
+  "tags": [
+    "lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584916000/catalog/loanswarehouse-uk/icon128x128.jpg",
+  "website": "https://www.loanswarehouse.co.uk/"
+}

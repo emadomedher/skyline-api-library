@@ -1,0 +1,12 @@
+{
+  "id": "formcarry",
+  "title": "Formcarry",
+  "subtitle": "Formcarry is a form processing API, you point your form to us, we notify you every time a form filled.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304950/catalog/formcarry/icon128x128.png"
+}

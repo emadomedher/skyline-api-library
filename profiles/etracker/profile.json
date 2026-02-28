@@ -1,0 +1,13 @@
+{
+  "id": "etracker",
+  "title": "etracker",
+  "subtitle": "Mit etracker lernen Sie das Besucherverhalten auf Ihrer Website verstehen, mit flexiblen Segmenten zu analysieren und...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947072/catalog/etracker/icon128x128.jpg",
+  "website": "https://etracker.com"
+}

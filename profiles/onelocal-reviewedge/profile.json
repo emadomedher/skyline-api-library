@@ -1,0 +1,12 @@
+{
+  "id": "onelocal-reviewedge",
+  "title": "OneLocal ReviewEdge",
+  "subtitle": "ReviewEdge by OneLocal provides a a fully customizable survey & review generation tool for businesses so they can req...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305579/catalog/onelocal-reviewedge/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pacejet",
+  "title": "Pacejet",
+  "subtitle": "Choose Pacejet multi-carrier shipping software and get the right shipments to the right places more quickly, easily, ...",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573090457/catalog/pacejet/icon128x128.jpg",
+  "website": "https://www.pacejet.com/"
+}

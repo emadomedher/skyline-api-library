@@ -1,0 +1,14 @@
+{
+  "id": "cfraresearch",
+  "title": "CFRA Research",
+  "subtitle": "CFRA is one of the world’s largest independent investment research firms, helping our subscribers improve their inves...",
+  "tags": [
+    "investment-research",
+    "wealthtech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588389116/catalog/cfraresearch/icon128x128.jpg",
+  "website": "https://www.cfraresearch.com/"
+}

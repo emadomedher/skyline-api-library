@@ -1,0 +1,13 @@
+{
+  "id": "audius-co",
+  "title": "Audius",
+  "subtitle": "Audius is a music streaming and sharing platform that puts power back into the hands of content creators.",
+  "tags": [
+    "music-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630772198/icons/audius-co.jpg",
+  "website": "https://audius.co/"
+}

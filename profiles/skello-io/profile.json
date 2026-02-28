@@ -1,0 +1,13 @@
+{
+  "id": "skello-io",
+  "title": "Skello",
+  "subtitle": "Skello est la solution de référence pour le pilotage des équipes de terrain. Demandez une démo de notre logiciel de g...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568736/icons/skello-io.jpg",
+  "website": "https://www.skello.io/"
+}

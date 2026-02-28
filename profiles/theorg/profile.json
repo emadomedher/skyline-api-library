@@ -1,0 +1,13 @@
+{
+  "id": "theorg",
+  "title": "The Org",
+  "subtitle": "The Org is a network of public org charts for employees at fast-growing startups. Get to know your colleagues, stay u...",
+  "tags": [
+    "org-chart-mapping"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636595506/icons/theorg.jpg",
+  "website": "https://theorg.com/"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "typingdna",
+  "title": "TypingDNA",
+  "subtitle": "Recognize people by the way they type. AI-based solution for risk-based authentication and fraud prevention. Use case...",
+  "tags": [
+    "authentication",
+    "biometrics",
+    "identity",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572016224/catalog/typingdna/icon128x128.jpg",
+  "website": "https://www.typingdna.com/",
+  "docsUrl": "https://api.typingdna.com/index.html"
+}

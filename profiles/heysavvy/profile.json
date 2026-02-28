@@ -1,0 +1,14 @@
+{
+  "id": "heysavvy",
+  "title": "Savvy",
+  "subtitle": "Pull in data from across your SaaS apps, APIs, databases and public websites. Then build custom apps on top that do t...",
+  "tags": [
+    "lead-databases",
+    "data"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571856231/catalog/heysavvy/icon128x128.png",
+  "website": "https://heysavvy.com/"
+}

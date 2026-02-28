@@ -1,0 +1,14 @@
+{
+  "id": "robinai-uk",
+  "title": "Robin AI",
+  "subtitle": "Robin AI - We Make Your Contracts Simple ✔️ AI-powered Contract Software ✔️ Draft With Intelligent Templates ✔️ Revie...",
+  "tags": [
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679141781/icons/robinai-uk.jpg",
+  "website": "https://www.robinai.co.uk/",
+  "docsUrl": "https://www.robinai.co.uk/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hailtrace",
+  "title": "Hailtrace",
+  "subtitle": "Hailtrace API integration",
+  "tags": [
+    "maps"
+  ],
+  "category": "Maps & Geolocation",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562628238/catalog/hailtrace/icon128x128.jpg",
+  "website": "https://hailtrace.com"
+}

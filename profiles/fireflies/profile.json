@@ -1,0 +1,14 @@
+{
+  "id": "fireflies",
+  "title": "Fireflies.ai",
+  "subtitle": "Fireflies is an AI voice assistant that helps transcribe, take notes, and complete actions during meetings. Our AI as...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720095/catalog/fireflies/icon128x128.jpg",
+  "website": "https://fireflies.ai",
+  "docsUrl": "https://docs.fireflies.ai"
+}

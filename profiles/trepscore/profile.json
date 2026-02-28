@@ -1,0 +1,13 @@
+{
+  "id": "trepscore",
+  "title": "TrepScore",
+  "subtitle": "TrepScore API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827861/catalog/trepscore/icon128x128.png",
+  "website": "https://trepscore.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "qortex",
+  "title": "Qortex",
+  "subtitle": "Qortex is an online communications platform to help teams get more work done.",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305800/catalog/qortex/icon128x128.png"
+}

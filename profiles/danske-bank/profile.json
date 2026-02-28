@@ -1,0 +1,14 @@
+{
+  "id": "danske-bank",
+  "title": "Danske Bank",
+  "subtitle": "Danske Bank A/S is a Danish bank. It was founded 5 October 1871 as Den Danske Landmandsbank, Hypothek- og Vexelbank i...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569631993/catalog/danske-bank/icon128x128.jpg",
+  "website": "https://danskebank.com/",
+  "docsUrl": "https://danskebank.com/openbanking"
+}

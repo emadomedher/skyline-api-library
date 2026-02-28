@@ -1,0 +1,13 @@
+{
+  "id": "samdock",
+  "title": "Samdock",
+  "subtitle": "Samdock ist the best CRM for small businesses out there! Make sure to register for our 14 day free trial (no credit c...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471942/icons/samdock.jpg",
+  "website": "https://samdock.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "otys-nl",
+  "title": "OTYS",
+  "subtitle": "Als recruiter of intercedent wil je werken met de beste recruitment software, toch? OTYS biedt dé totaaloplossing voo...",
+  "tags": [
+    "ats",
+    "recruitment",
+    "hiring",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567601081/catalog/otys-nl/icon128x128.jpg",
+  "website": "https://www.otys.nl/"
+}

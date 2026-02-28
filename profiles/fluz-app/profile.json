@@ -1,0 +1,13 @@
+{
+  "id": "fluz-app",
+  "title": "Fluz",
+  "subtitle": "100% FREE. FOREVER. Cash back that keeps coming back. 1) Get up to 35% cash back when you shop. 2) Invite your friend...",
+  "tags": [
+    "cashback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975840/icons/fluz-app.jpg",
+  "website": "https://fluz.app/"
+}

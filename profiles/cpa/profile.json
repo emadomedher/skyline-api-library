@@ -1,0 +1,13 @@
+{
+  "id": "cpa",
+  "title": "CPA.com",
+  "subtitle": "CPA.com API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577179647/catalog/cpa/icon128x128.jpg",
+  "website": "https://www.cpa.com/"
+}

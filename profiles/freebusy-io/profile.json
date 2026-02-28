@@ -1,0 +1,14 @@
+{
+  "id": "freebusy-io",
+  "title": "FreeBusy",
+  "subtitle": "FreeBusy is the perfect AI scheduling assistant for individuals, teams and enterprises. Coordinate meetings 10x faster.",
+  "tags": [
+    "meeting-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588819002/catalog/freebusy-io/icon128x128.jpg",
+  "website": "https://freebusy.io/",
+  "docsUrl": "https://freebusy.io/en/developers"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "duo",
+  "title": "Duo Security",
+  "subtitle": "Duo’s trusted access solution is a user-centric zero-trust security platform to protect access to sensitive data at s...",
+  "tags": [
+    "security",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568926081/catalog/duo/icon128x128.jpg",
+  "website": "https://duo.com/",
+  "docsUrl": "https://duo.com/docs"
+}

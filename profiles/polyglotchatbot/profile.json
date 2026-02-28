@@ -1,0 +1,13 @@
+{
+  "id": "polyglotchatbot",
+  "title": "Polyglot AI",
+  "subtitle": "Sharpen your language skills by chatting with a language bot! Build on OpenAI's GPT-3, Polyglot AI enables you to cha...",
+  "tags": [
+    "language-learning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638404747/icons/polyglotchatbot.png",
+  "website": "https://polyglotchatbot.com/"
+}

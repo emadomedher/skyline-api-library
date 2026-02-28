@@ -1,0 +1,13 @@
+{
+  "id": "famebit",
+  "title": "Famebit",
+  "subtitle": "Largest marketplace that makes YouTube, Twitter, and Instagram influencer marketing easy for advertisers, brands and ...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963888/catalog/famebit/icon128x128.png",
+  "website": "https://famebit.com"
+}

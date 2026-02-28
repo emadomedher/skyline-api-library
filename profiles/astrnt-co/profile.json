@@ -1,0 +1,14 @@
+{
+  "id": "astrnt-co",
+  "title": "Astronaut",
+  "subtitle": "Uncover Talent, Engage & Make Confident Offers Fast For Campuses, Technical Hiring, Global Hiring, Partners Via API, ...",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990964/icons/astrnt-co.png",
+  "website": "https://astrnt.co/",
+  "docsUrl": "https://developers.astrnt.co/api-documentation"
+}

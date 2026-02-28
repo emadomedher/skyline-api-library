@@ -1,0 +1,14 @@
+{
+  "id": "guilded-gg",
+  "title": "Guilded",
+  "subtitle": "Guilded upgrades your group chat and equips your server with integrated event calendars, forums, and more.",
+  "tags": [
+    "gaming",
+    "chat"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588359697/catalog/guilded-gg/icon128x128.png",
+  "website": "https://www.guilded.gg/"
+}

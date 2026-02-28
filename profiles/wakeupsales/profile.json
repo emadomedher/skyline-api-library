@@ -1,0 +1,13 @@
+{
+  "id": "wakeupsales",
+  "title": "WakeUpSales",
+  "subtitle": "Wakeupsales the best CRM tool  with lightweight project management and support ticket module to streamline sales, man...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722813/catalog/wakeupsales/icon128x128.jpg",
+  "website": "https://wakeupsales.com"
+}

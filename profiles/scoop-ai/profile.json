@@ -1,0 +1,13 @@
+{
+  "id": "scoop-ai",
+  "title": "Scoop",
+  "subtitle": "Increase your conversions and coach your reps faster with data driven decisions using Scoop - The dedicated conversat...",
+  "tags": [
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570350226/catalog/scoop-ai/icon128x128.png",
+  "website": "https://www.scoop.ai/"
+}

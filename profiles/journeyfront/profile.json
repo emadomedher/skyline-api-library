@@ -1,0 +1,14 @@
+{
+  "id": "journeyfront",
+  "title": "Journeyfront",
+  "subtitle": "Journeyfront helps you get hiring right. Hiring accuracy solves costly problems including low job performance and tur...",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629140686/icons/journeyfront.png",
+  "website": "https://www.journeyfront.com/",
+  "docsUrl": "https://hiremeasures.journeyfront.com/reference-call-question-library"
+}

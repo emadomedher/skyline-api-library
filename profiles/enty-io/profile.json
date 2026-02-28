@@ -1,0 +1,14 @@
+{
+  "id": "enty-io",
+  "title": "enty",
+  "subtitle": "a single subscription to take care of Invoicing, Accounting, Contract Management, HR, Banking and Corporate Secretari...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753756/icons/enty-io.jpg",
+  "website": "https://enty.io/",
+  "docsUrl": "https://docs.google.com/spreadsheets/d/1uoh3tllxfianovvh0bp_lim6sig-cuadh4swma1101q/edit?usp=sharing"
+}

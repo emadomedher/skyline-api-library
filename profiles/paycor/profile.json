@@ -1,0 +1,16 @@
+{
+  "id": "paycor",
+  "title": "Paycor",
+  "subtitle": "Streamline processes by using an HR software integrating recruiting, payroll, time and attendance, benefits admin and...",
+  "tags": [
+    "hr",
+    "payroll",
+    "human-capital-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612239228/icons/paycor.jpg",
+  "website": "https://www.paycor.com/",
+  "docsUrl": "https://developer.paycor.com"
+}

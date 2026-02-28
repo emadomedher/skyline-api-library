@@ -1,0 +1,14 @@
+{
+  "id": "netmotionsoftware",
+  "title": "NetMotion Software",
+  "subtitle": "NetMotion Software provides traffic optimization and mobile VPN solutions to accelerate business-critical application...",
+  "tags": [
+    "network-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630613910/icons/netmotionsoftware.jpg",
+  "website": "https://www.netmotionsoftware.com/",
+  "docsUrl": "https://www.netmotionsoftware.com/privacy/#reference-documentation"
+}

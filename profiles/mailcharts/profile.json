@@ -1,0 +1,15 @@
+{
+  "id": "mailcharts",
+  "title": "MailCharts",
+  "subtitle": "Keep track of your competitors and understand how often they discount, when they email, and how they segment their em...",
+  "tags": [
+    "email-marketing",
+    "competitor-tracking"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574012335/catalog/mailcharts/icon128x128.jpg",
+  "website": "https://www.mailcharts.com/",
+  "docsUrl": "https://www.mailcharts.com/documentation"
+}

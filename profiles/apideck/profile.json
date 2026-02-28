@@ -1,0 +1,17 @@
+{
+  "id": "apideck",
+  "title": "Apideck",
+  "subtitle": "Integrate APIs  times faster. Simplify integration development by using our standardized APIs aggregating the most ...",
+  "tags": [
+    "ipaas",
+    "api",
+    "integrations"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605791800/icons/apideck.jpg",
+  "baseUrl": "https://unify.apideck.com/graphql",
+  "website": "https://www.apideck.com/",
+  "docsUrl": "https://developers.apideck.com"
+}

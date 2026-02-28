@@ -1,0 +1,13 @@
+{
+  "id": "connectio",
+  "title": "Connectio",
+  "subtitle": "Connectio API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561426373/catalog/connectio/icon128x128.png",
+  "website": "https://connectio.io"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bitrix24crm",
+  "title": "Bitrix24 CRM",
+  "subtitle": "Bitrix24 CRM API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178345/catalog/bitrix24crm/icon128x128.png"
+}

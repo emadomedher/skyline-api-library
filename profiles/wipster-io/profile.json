@@ -1,0 +1,13 @@
+{
+  "id": "wipster-io",
+  "title": "Wipster",
+  "subtitle": "Media and post-production professionals rely on Wipster for faster creative \ncollaboration and review across clients ...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305945/catalog/wipster-io/icon128x128.png",
+  "website": "https://wipster.io"
+}

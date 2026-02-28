@@ -1,0 +1,13 @@
+{
+  "id": "tanium",
+  "title": "Tanium",
+  "subtitle": "Learn how top organizations reduce complexity, improve efficiency and align teams with unified endpoint management an...",
+  "tags": [
+    "endpoint-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593442115/icons/tanium.jpg",
+  "website": "https://www.tanium.com/"
+}

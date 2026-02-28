@@ -1,0 +1,13 @@
+{
+  "id": "cheddrsuite",
+  "title": "CheddrSuite",
+  "subtitle": "Online restaurant management software designed by real restaurant owners",
+  "tags": [
+    "restaurant-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645810173/icons/cheddrsuite.jpg",
+  "website": "https://cheddrsuite.com/"
+}

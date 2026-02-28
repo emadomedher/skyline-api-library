@@ -1,0 +1,13 @@
+{
+  "id": "devicemagic",
+  "title": "Device Magic",
+  "subtitle": "Build custom forms to capture important data through your mobile device with Device Magic. Save time, get better data...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304769/catalog/devicemagic/icon128x128.png",
+  "website": "https://www.devicemagic.com/"
+}

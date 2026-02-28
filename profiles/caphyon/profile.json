@@ -1,0 +1,13 @@
+{
+  "id": "caphyon",
+  "title": "Caphyon",
+  "subtitle": "Caphyon API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561388900/catalog/caphyon/icon128x128.png",
+  "website": "https://caphyon.com"
+}

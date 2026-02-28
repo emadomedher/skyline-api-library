@@ -1,0 +1,14 @@
+{
+  "id": "hrm-nordic",
+  "title": "HRM-Nordic.com",
+  "subtitle": "HRM-Nordic is a new HR system design to fokus on processes and save time",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688983247/icons/hrm-nordic.png",
+  "website": "https://hrm-nordic.com/en/",
+  "docsUrl": "https://hrm-nordic.com/cookie-policy-eu/#cmplz-manage-consent-container"
+}

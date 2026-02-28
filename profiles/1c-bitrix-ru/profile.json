@@ -1,0 +1,15 @@
+{
+  "id": "1c-bitrix-ru",
+  "title": "1C",
+  "subtitle": "Всё необходимое для запуска и ведения бизнеса: CMS для создания сайтов и интернет-магазинов, конструктор сайтов и лен...",
+  "tags": [
+    "project-management",
+    "websites"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614642945/icons/1c-bitrix-ru.jpg",
+  "website": "https://www.1c-bitrix.ru/",
+  "docsUrl": "http://dev.1c-bitrix.ru/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "widgetic",
+  "title": "Widgetic",
+  "subtitle": "Launch your own app marketplace in minutes. We handle the creation and distribution of web apps that empower your cus...",
+  "tags": [
+    "widgets",
+    "software-marketplaces",
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438483/catalog/widgetic/icon128x128.png",
+  "website": "https://widgetic.com"
+}

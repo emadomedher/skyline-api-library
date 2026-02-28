@@ -1,0 +1,14 @@
+{
+  "id": "emasphere",
+  "title": "EMAsphere",
+  "subtitle": "Plateforme de gestion de la performance pour les entreprises de taille moyenne et plus grandes organisations. Démonst...",
+  "tags": [
+    "performance-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637980027/icons/emasphere.png",
+  "website": "https://www.emasphere.com/",
+  "docsUrl": "https://www.emasphere.com/fr-fr/ressources/ebooks/kpis-de-reference-pour-les-equipes-financieres"
+}

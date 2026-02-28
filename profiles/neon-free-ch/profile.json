@@ -1,0 +1,13 @@
+{
+  "id": "neon-free-ch",
+  "title": "neon",
+  "subtitle": "Your account for your everyday life. No base fees for account and Mastercard. Super simple. All on your smartphone.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593641947/icons/neon-free-ch.jpg",
+  "website": "https://www.neon-free.ch/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sap-hybris",
+  "title": "SAP Hybris",
+  "subtitle": "SAP Hybris API integration",
+  "tags": [
+    "ecommerce-platforms-and-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437125/catalog/sap-hybris/icon128x128.png",
+  "website": "https://hybris.com"
+}

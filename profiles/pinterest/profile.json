@@ -1,0 +1,13 @@
+{
+  "id": "pinterest",
+  "title": "Pinterest",
+  "subtitle": "Pinterest is the world’s catalog of ideas that more than 100 million people around the world use every month to get m...",
+  "tags": [
+    "bookmarks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456185/catalog/pinterest/icon128x128.png",
+  "website": "https://www.pinterest.com/"
+}

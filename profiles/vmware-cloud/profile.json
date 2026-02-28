@@ -1,0 +1,13 @@
+{
+  "id": "vmware-cloud",
+  "title": "VMware",
+  "subtitle": "VMware Cloud solutions enable you to Build, Run, Manage, Connect, and Protect any app on any cloud. Explore the possi...",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630868993/icons/vmware-cloud.jpg",
+  "website": "https://www.vmware.com/be/cloud-solutions.html"
+}

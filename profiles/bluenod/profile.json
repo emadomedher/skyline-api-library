@@ -1,0 +1,13 @@
+{
+  "id": "bluenod",
+  "title": "Bluenod",
+  "subtitle": "Bluenod is a simple way to find influencers with Twitter visualization.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719182/catalog/bluenod/icon128x128.png",
+  "website": "https://bluenod.com"
+}

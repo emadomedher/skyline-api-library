@@ -1,0 +1,13 @@
+{
+  "id": "interlinkone",
+  "title": "InterlinkOne",
+  "subtitle": "interlinkONE provides SaaS cloud based solutions for Fulfillment, Marketing, Social Media Management and more.",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720533/catalog/interlinkone/icon128x128.png",
+  "website": "https://interlinkone.com"
+}

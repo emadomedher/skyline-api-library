@@ -1,0 +1,14 @@
+{
+  "id": "shieldfy-io",
+  "title": "Shieldfy",
+  "subtitle": "Automated security assistant for developers",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590575866/catalog/shieldfy-io/icon128x128.jpg",
+  "website": "https://shieldfy.io/",
+  "docsUrl": "https://shieldfy.io/docs"
+}

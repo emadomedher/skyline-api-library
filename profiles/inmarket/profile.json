@@ -1,0 +1,13 @@
+{
+  "id": "inmarket",
+  "title": "InMarket",
+  "subtitle": "At InMarket, being best-in-class means providing our customers with access to the most accurate and precise, permissi...",
+  "tags": [
+    "retail-proximity-and-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435145/catalog/inmarket/icon128x128.png",
+  "website": "https://inmarket.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "emarketeer",
+  "title": "emarketeer",
+  "subtitle": "eMarketeer's All-in-One Online Marketing Software helps small businesses and marketing agencies to deliver relevant m...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719903/catalog/emarketeer/icon128x128.png",
+  "website": "https://emarketeer.com"
+}

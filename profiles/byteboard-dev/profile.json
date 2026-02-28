@@ -1,0 +1,13 @@
+{
+  "id": "byteboard-dev",
+  "title": "Byteboard",
+  "subtitle": "A technical interview redesigned to be more effective, efficient, and equitable for all. Request a demo today!",
+  "tags": [
+    "technical-skills-screening"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556269/icons/byteboard-dev.png",
+  "website": "https://byteboard.dev/"
+}

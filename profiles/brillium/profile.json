@@ -1,0 +1,14 @@
+{
+  "id": "brillium",
+  "title": "Brillium",
+  "subtitle": "Boost organizational productivity with Brillium Assessment Software. Personalize talent development and learning oppo...",
+  "tags": [
+    "exam",
+    "assessment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565426/catalog/brillium/icon128x128.png",
+  "website": "https://www.brillium.com/"
+}

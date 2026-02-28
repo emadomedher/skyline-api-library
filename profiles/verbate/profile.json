@@ -1,0 +1,13 @@
+{
+  "id": "verbate",
+  "title": "Verbate",
+  "subtitle": "See what your customers see. Use video surveys for emotive insights and give your qualitative research a boost.",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722716/catalog/verbate/icon128x128.jpg",
+  "website": "https://verbate.co"
+}

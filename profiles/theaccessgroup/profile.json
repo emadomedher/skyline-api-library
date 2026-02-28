@@ -1,0 +1,13 @@
+{
+  "id": "theaccessgroup",
+  "title": "The Access Group",
+  "subtitle": "Access helps more than 60,000 customers transform the way their business software is used, giving every employee the ...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909522/icons/theaccessgroup.jpg",
+  "website": "https://www.theaccessgroup.com/"
+}

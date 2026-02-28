@@ -1,0 +1,14 @@
+{
+  "id": "sently-io",
+  "title": "Sently",
+  "subtitle": "Sently is a SAAS solution to engage your community on conversational interfaces: Messenger, WhatsApp, Voice Assistant...",
+  "tags": [
+    "community-management",
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583849751/catalog/sently-io/icon128x128.png",
+  "website": "https://sently.io/en/"
+}

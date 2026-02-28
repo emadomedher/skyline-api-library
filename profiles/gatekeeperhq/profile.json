@@ -1,0 +1,15 @@
+{
+  "id": "gatekeeperhq",
+  "title": "Gatekeeper",
+  "subtitle": "Gatekeeper is a next-generation supplier and contract management solution for companies of all sizes. Benefit from ea...",
+  "tags": [
+    "supplier-management",
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152907/icons/gatekeeperhq.png",
+  "website": "https://www.gatekeeperhq.com/",
+  "docsUrl": "https://knowledge.gatekeeperhq.com/docs/covid-19-resource-centre"
+}

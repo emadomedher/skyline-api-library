@@ -1,0 +1,14 @@
+{
+  "id": "gentrace-ai",
+  "title": "Gentrace",
+  "subtitle": "Gentrace evaluates generative AI with humans, AI, and heuristics. Then, it observes for quality, speed, and cost in p...",
+  "tags": [
+    "llm-ops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1689145702/icons/gentrace-ai.jpg",
+  "website": "https://gentrace.ai/",
+  "docsUrl": "https://docs.gentrace.ai"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shopware",
+  "title": "Shopware",
+  "subtitle": "Shopware is a trendsetting ecommerce platform to power your online business. Our ecommerce solution offers the perfec...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553323465/catalog/shopware/icon128x128.jpg",
+  "website": "https://en.shopware.com/",
+  "docsUrl": "https://docs.shopware.com/en"
+}

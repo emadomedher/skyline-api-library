@@ -1,0 +1,13 @@
+{
+  "id": "lemon-mobile",
+  "title": "Lemon Mobile",
+  "subtitle": "Lemon Mobile API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554481798/catalog/lemon-mobile/icon128x128.png",
+  "website": "https://lemonllc.com"
+}

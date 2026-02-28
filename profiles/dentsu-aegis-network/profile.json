@@ -1,0 +1,13 @@
+{
+  "id": "dentsu-aegis-network",
+  "title": "Dentsu Aegis Network",
+  "subtitle": "Dentsu Aegis Network API integration",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434162/catalog/dentsu-aegis-network/icon128x128.png",
+  "website": "https://dentsuaegisnetwork.com"
+}

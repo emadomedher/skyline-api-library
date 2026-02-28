@@ -1,0 +1,14 @@
+{
+  "id": "coop-pank-ee",
+  "title": "Coop Pank",
+  "subtitle": "Coop Pank API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074604/icons/coop-pank-ee.png",
+  "website": "https://www.cooppank.ee/",
+  "docsUrl": "https://openbanking.cooppank.ee/"
+}

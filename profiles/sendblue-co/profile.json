@@ -1,0 +1,14 @@
+{
+  "id": "sendblue-co",
+  "title": "SendBlue",
+  "subtitle": "Programmatically send iMessage SMS, and MMS using our API. Get started with sending blue bubbles in less than five mi...",
+  "tags": [
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647089047/icons/sendblue-co.jpg",
+  "website": "https://sendblue.co/",
+  "docsUrl": "https://sendblue.co/docs"
+}

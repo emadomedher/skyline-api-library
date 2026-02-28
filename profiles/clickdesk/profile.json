@@ -1,0 +1,13 @@
+{
+  "id": "clickdesk",
+  "title": "ClickDesk",
+  "subtitle": "ClickDesk is a combo of Live Chat, Voice and Video Chat and Helpdesk Software For Online Businesses. It is currently ...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304631/catalog/clickdesk/icon128x128.png",
+  "website": "https://clickdesk.com"
+}

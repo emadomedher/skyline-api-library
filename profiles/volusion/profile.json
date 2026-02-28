@@ -1,0 +1,13 @@
+{
+  "id": "volusion",
+  "title": "Volusion",
+  "subtitle": "Volusion is an all-in-one leading ecommerce solution that lets you easily create, manage, and expand your online store.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306455/catalog/volusion/icon128x128.png",
+  "website": "https://volusion.com"
+}

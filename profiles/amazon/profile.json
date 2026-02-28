@@ -1,0 +1,14 @@
+{
+  "id": "amazon",
+  "title": "Amazon",
+  "subtitle": "Free delivery on millions of items with Prime. Low prices across earth's biggest selection of books, music, DVDs, ele...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547936484/catalog/amazon/icon128x128.png",
+  "website": "https://amazon.com",
+  "docsUrl": "https://www.amazon.com/gp/redirect.html/ref=hp_gt3_oths_aws"
+}

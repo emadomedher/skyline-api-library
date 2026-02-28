@@ -1,0 +1,15 @@
+{
+  "id": "audiencerepublic",
+  "title": "Audience Republic",
+  "subtitle": "Marketing software for event organizers, works with all major ticketing platforms. Sell more tickets by increasing wo...",
+  "tags": [
+    "event-marketing",
+    "audience-management",
+    "festival"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608005306/icons/audiencerepublic.jpg",
+  "website": "https://audiencerepublic.com/"
+}

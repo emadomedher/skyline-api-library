@@ -1,0 +1,13 @@
+{
+  "id": "zestyio",
+  "title": "Zesty.io",
+  "subtitle": "Built for teams to manage and distribute content to multiple sites, devices, and anywhere else it needs to go.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946312/catalog/zestyio/icon128x128.jpg",
+  "website": "https://zesty.io"
+}

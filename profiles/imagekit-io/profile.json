@@ -1,0 +1,15 @@
+{
+  "id": "imagekit-io",
+  "title": "imagekit",
+  "subtitle": "A global network of servers for real-time image optimization,  resizing, image upload, and a fast Image CDN. A faster...",
+  "tags": [
+    "image-cdn",
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616274173/icons/imagekit-io.png",
+  "website": "https://imagekit.io/",
+  "docsUrl": "hhttps://docs.imagekit.io/api-reference/metadata-api"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "biteable",
+  "title": "Biteable",
+  "subtitle": "Make stunning videos in a snap with the Biteable video maker. Sparkle with studio-quality animation, footage, and eff...",
+  "tags": [
+    "video-editing",
+    "video-animations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609719582/icons/biteable.jpg",
+  "website": "https://biteable.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mailfloss",
+  "title": "mailfloss",
+  "subtitle": "Get the best email validation tool for busy businesses. Fully automated, completely hands-off, this email verificatio...",
+  "tags": [
+    "email-validation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590539/icons/mailfloss.jpg",
+  "website": "https://mailfloss.com/"
+}

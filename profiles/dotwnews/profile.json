@@ -1,0 +1,14 @@
+{
+  "id": "dotwnews",
+  "title": "Destinations of the World News",
+  "subtitle": "The latest travel intelligence on the world's most luxurious hotels, destinations and restaurants to the best in styl...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448045/icons/dotwnews.jpg",
+  "website": "http://www.dotwnews.com/"
+}

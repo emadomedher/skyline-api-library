@@ -1,0 +1,12 @@
+{
+  "id": "click2mail",
+  "title": "Click2Mail",
+  "subtitle": "Click2Mail provides a printing and mailing service tool for you to add physical mail to your processes. Send everythi...",
+  "tags": [
+    "printing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304623/catalog/click2mail/icon128x128.png"
+}

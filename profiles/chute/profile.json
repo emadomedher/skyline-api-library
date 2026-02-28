@@ -1,0 +1,13 @@
+{
+  "id": "chute",
+  "title": "Chute",
+  "subtitle": "Discover, get rights to, and manage user-generated content to engage during every stage of the traveler journey with ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947212/catalog/chute/icon128x128.png",
+  "website": "https://getchute.com"
+}

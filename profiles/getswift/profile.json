@@ -1,0 +1,12 @@
+{
+  "id": "getswift",
+  "title": "GetSwift",
+  "subtitle": "GetSwift is Simple software that streamlines your whole delivery business. Dispatch like Uber, track like Domino's an...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305013/catalog/getswift/icon128x128.png"
+}

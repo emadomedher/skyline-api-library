@@ -1,0 +1,13 @@
+{
+  "id": "cratejoy",
+  "title": "Cratejoy",
+  "subtitle": "Cratejoy is home to hundreds of monthly subscription boxes for all hobbies, interests, and passions. Discover a curat...",
+  "tags": [
+    "subscription-boxes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589570011/catalog/cratejoy/icon128x128.jpg",
+  "website": "https://www.cratejoy.com/"
+}

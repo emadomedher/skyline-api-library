@@ -1,0 +1,13 @@
+{
+  "id": "eulerian-technologies",
+  "title": "Eulerian Technologies",
+  "subtitle": "Attribution Marketing & Data Management. Une plateforme unique et performante pour optimiser vos opérations marketing.",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719965/catalog/eulerian-technologies/icon128x128.png",
+  "website": "https://eulerian.com"
+}

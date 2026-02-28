@@ -1,0 +1,12 @@
+{
+  "id": "sherlock",
+  "title": "Sherlock",
+  "subtitle": "Sherlock API integration",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439346/catalog/sherlock/icon128x128.svg"
+}

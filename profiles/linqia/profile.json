@@ -1,0 +1,13 @@
+{
+  "id": "linqia",
+  "title": "Linqia",
+  "subtitle": "Linqia matches you with the best micro-influencers using our AI to deliver amazing content and guaranteed results to ...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946856/catalog/linqia/icon128x128.jpg",
+  "website": "https://linqia.com"
+}

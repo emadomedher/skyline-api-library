@@ -1,0 +1,13 @@
+{
+  "id": "turnitin",
+  "title": "Turnitin",
+  "subtitle": "Academic plagiarism checker technology for teachers and students.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861274/catalog/turnitin/icon128x128.png",
+  "website": "https://turnitin.com"
+}

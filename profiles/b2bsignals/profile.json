@@ -1,0 +1,13 @@
+{
+  "id": "b2bsignals",
+  "title": "B2BSignals",
+  "subtitle": "B2BSignals API integration",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433206/catalog/b2bsignals/icon128x128.png",
+  "website": "https://b2bsignals.com"
+}

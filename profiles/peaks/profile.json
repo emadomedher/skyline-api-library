@@ -1,0 +1,13 @@
+{
+  "id": "peaks",
+  "title": "Peaks",
+  "subtitle": "Discover the easiest way to invest your money. Put your money to work by automatically investing your spare change in...",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617202629/icons/peaks.png",
+  "website": "https://www.peaks.com/"
+}

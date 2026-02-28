@@ -1,0 +1,13 @@
+{
+  "id": "classplusapp",
+  "title": "Classplus",
+  "subtitle": "Launch your online coaching app and establish your digital identity. Reach out to millions of students through a mobi...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623933407/icons/classplusapp.png",
+  "website": "https://classplusapp.com/"
+}

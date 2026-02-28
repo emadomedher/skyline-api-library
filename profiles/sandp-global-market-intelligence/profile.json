@@ -1,0 +1,13 @@
+{
+  "id": "sandp-global-market-intelligence",
+  "title": "S&P Global Market Intelligence",
+  "subtitle": "We provide intelligence that is embedded into the workflow and decision-making of customers around the globe.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775587/catalog/sandp-global-market-intelligence/icon128x128.jpg",
+  "website": "https://spglobal.com/"
+}

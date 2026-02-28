@@ -1,0 +1,16 @@
+{
+  "id": "apideck-vault",
+  "title": "Apideck Vault",
+  "subtitle": "Every product nowadays require integrations. Apideck Vault provides a simple no-code solution so you don't need to bu...",
+  "tags": [
+    "managed-oauth",
+    "credentials-store",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605201451/icons/apideck-vault.jpg",
+  "website": "https://apideck.com/products/unify",
+  "docsUrl": "https://developers.apideck.com/apis/vault/reference#section/Base-URL"
+}

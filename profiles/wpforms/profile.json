@@ -1,0 +1,14 @@
+{
+  "id": "wpforms",
+  "title": "WPForms",
+  "subtitle": "WPForms is a drag and drop online form builder for WordPress that allows you to easily create contact forms, email su...",
+  "tags": [
+    "wordpress",
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306536/catalog/wpforms/icon128x128.png",
+  "website": "https://wpforms.com/"
+}

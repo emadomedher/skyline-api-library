@@ -1,0 +1,14 @@
+{
+  "id": "bugzilla-org",
+  "title": "Bugzilla",
+  "subtitle": "Bugzilla API integration",
+  "tags": [
+    "server-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565399399/catalog/bugzilla-org/icon128x128.png",
+  "website": "https://bugzilla.org",
+  "docsUrl": "https://www.bugzilla.org/docs"
+}

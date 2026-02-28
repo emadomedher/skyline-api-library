@@ -1,0 +1,13 @@
+{
+  "id": "hivewire-co",
+  "title": "Hivewire",
+  "subtitle": "Workflow automation for teams.",
+  "tags": [
+    "worklow-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595194342/icons/hivewire-co.jpg",
+  "website": "https://www.hivewire.co/"
+}

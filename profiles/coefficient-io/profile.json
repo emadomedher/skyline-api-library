@@ -1,0 +1,13 @@
+{
+  "id": "coefficient-io",
+  "title": "Coefficient",
+  "subtitle": "Coefficient’s Google Sheets data connector integrates with your systems in one click. Unlock live data & pre-built da...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668171293/icons/coefficient-io.jpg",
+  "website": "https://coefficient.io/"
+}

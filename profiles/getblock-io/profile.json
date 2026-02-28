@@ -1,0 +1,14 @@
+{
+  "id": "getblock-io",
+  "title": "GetBlock",
+  "subtitle": "GetBlock is a blockchain nodes provider. Connect to Bitcoin, Ethereum, Binance Smart Chain and other nodes with JSON-...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676335613/icons/getblock-io.jpg",
+  "website": "https://getblock.io/",
+  "docsUrl": "https://getblock.io/docs"
+}

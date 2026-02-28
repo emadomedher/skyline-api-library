@@ -1,0 +1,14 @@
+{
+  "id": "downstreamimpact",
+  "title": "Downstream",
+  "subtitle": "Unlock your Amazon marketing ROI. Reach out today to discuss your marketing goals and see how Downstream can help you...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268436/icons/downstreamimpact.jpg",
+  "website": "https://downstreamimpact.com",
+  "docsUrl": "https://docs.downstreamimpact.com"
+}

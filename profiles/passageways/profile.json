@@ -1,0 +1,13 @@
+{
+  "id": "passageways",
+  "title": "Passageways",
+  "subtitle": "Passageways provides collaborative software solutions to achieve a paperless boardroom, accountable corporate governa...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721427/catalog/passageways/icon128x128.jpg",
+  "website": "https://passageways.com"
+}

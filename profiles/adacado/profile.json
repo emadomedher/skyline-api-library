@@ -1,0 +1,13 @@
+{
+  "id": "adacado",
+  "title": "Adacado",
+  "subtitle": "Located downtown Vancouver, Adacado is a platform that simplifies the creative aspects of ad creation. Spend your tim...",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825633/catalog/adacado/icon128x128.png",
+  "website": "https://adacado.com"
+}

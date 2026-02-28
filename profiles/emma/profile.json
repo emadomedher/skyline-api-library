@@ -1,0 +1,13 @@
+{
+  "id": "emma",
+  "title": "Emma",
+  "subtitle": "Grow your business with smart, stylish email marketing campaigns from Emma.",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304846/catalog/emma/icon128x128.png",
+  "website": "https://myemma.com/"
+}

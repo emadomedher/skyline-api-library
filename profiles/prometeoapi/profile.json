@@ -1,0 +1,14 @@
+{
+  "id": "prometeoapi",
+  "title": "Prometeo OpenBanking",
+  "subtitle": "The financial future is open and connected. We are building it.",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634599521/icons/prometeoapi.jpg",
+  "website": "https://prometeoapi.com/en/",
+  "docsUrl": "https://prometeoapi.com/docs/en_docs"
+}

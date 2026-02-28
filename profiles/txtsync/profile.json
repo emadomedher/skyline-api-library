@@ -1,0 +1,13 @@
+{
+  "id": "txtsync",
+  "title": "TxtSync",
+  "subtitle": "TxtSync is an SMS platform that allows applications to easily, and reliably send and receive low cost SMS globally.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264850/catalog/txtsync/icon128x128.png",
+  "website": "https://txtsync.com"
+}

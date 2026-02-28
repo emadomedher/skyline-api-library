@@ -1,0 +1,13 @@
+{
+  "id": "proagentwebsites",
+  "title": "ProAgentWebsites.com",
+  "subtitle": "ProAgentWebsites.com is an integrated Real Estate Website, CRM and Marketing Tools.",
+  "tags": [
+    "real-estate",
+    "crm"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539017/catalog/proagentwebsites/icon128x128.png"
+}

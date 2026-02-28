@@ -1,0 +1,14 @@
+{
+  "id": "satoricyber",
+  "title": "Satori Cyber",
+  "subtitle": "The Satori Cyber Secure Data Access Cloud provides complete data-flow visibility with transparent, secure and complia...",
+  "tags": [
+    "data-protection",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576975001/catalog/satoricyber/icon128x128.jpg",
+  "website": "https://satoricyber.com/"
+}

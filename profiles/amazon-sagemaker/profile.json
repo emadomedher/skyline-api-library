@@ -1,0 +1,14 @@
+{
+  "id": "amazon-sagemaker",
+  "title": "Amazon Sagemaker",
+  "subtitle": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to buil...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600070679/icons/amazon-sagemaker.png",
+  "website": "https://aws.amazon.com/sagemaker/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=default"
+}

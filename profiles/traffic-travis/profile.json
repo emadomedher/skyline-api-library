@@ -1,0 +1,13 @@
+{
+  "id": "traffic-travis",
+  "title": "Traffic Travis",
+  "subtitle": "Traffic Travis API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438031/catalog/traffic-travis/icon128x128.png",
+  "website": "https://traffictravis.com"
+}

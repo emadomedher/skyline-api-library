@@ -1,0 +1,15 @@
+{
+  "id": "microsoft-dynamics-nav",
+  "title": "Microsoft Dynamics NAV",
+  "subtitle": "Microsoft Dynamics NAV API integration",
+  "tags": [
+    "enterprise-resource-magagement-(erp)",
+    "erp",
+    "accounting"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547842528/catalog/microsoft-dynamics-nav/icon128x128.png",
+  "website": "https://dynamics.microsoft.com/en-us/nav-overview/"
+}

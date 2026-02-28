@@ -1,0 +1,13 @@
+{
+  "id": "otrs",
+  "title": "OTRS",
+  "subtitle": "OTRS is a customizable support desk software that manages workflows and structures communication so there are no limi...",
+  "tags": [
+    "helpdesk-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565399390/catalog/otrs/icon128x128.png",
+  "website": "https://otrs.com"
+}

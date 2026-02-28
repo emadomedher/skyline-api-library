@@ -1,0 +1,15 @@
+{
+  "id": "fivetran",
+  "title": "Fivetran",
+  "subtitle": "Stream data into your warehouse for advanced analytics. Fivetran was built for analysts to access to all their busine...",
+  "tags": [
+    "ipaas",
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591247898/icons/fivetran.jpg",
+  "website": "https://fivetran.com",
+  "docsUrl": "https://fivetran.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "freecrm",
+  "title": "FreeCRM",
+  "subtitle": "#1 Free CRM software in the cloud customer relationship management software powers sales and customer service and aut...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/200413434/iconic_400x400.jpg",
+  "website": "https://freecrm.com"
+}

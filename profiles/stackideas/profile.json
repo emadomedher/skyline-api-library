@@ -1,0 +1,15 @@
+{
+  "id": "stackideas",
+  "title": "StackIdeas",
+  "subtitle": "StackIdeas, we develop Joomla extensions that combines blogging, social networking, forums and comments. We are the c...",
+  "tags": [
+    "joomla-extensions",
+    "joomla-templates"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579250932/catalog/stackideas/icon128x128.png",
+  "website": "https://stackideas.com/",
+  "docsUrl": "https://stackideas.com/docs"
+}

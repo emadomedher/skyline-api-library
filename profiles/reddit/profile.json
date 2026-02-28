@@ -1,0 +1,14 @@
+{
+  "id": "reddit",
+  "title": "Reddit",
+  "subtitle": "Reddit, stylized as reddit, is a social news and entertainment website where registered users submit content in the f...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305839/catalog/reddit/icon128x128.png",
+  "website": "https://www.reddit.com/",
+  "docsUrl": "https://www.reddit.com/dev/api/"
+}

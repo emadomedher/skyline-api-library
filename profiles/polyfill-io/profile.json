@@ -1,0 +1,14 @@
+{
+  "id": "polyfill-io",
+  "title": "Polyfill.io",
+  "subtitle": "Polyfill.io",
+  "tags": [
+    "development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572473888/catalog/polyfill-io/icon128x128.jpg",
+  "website": "https://polyfill.io/",
+  "docsUrl": "https://polyfill.io/v3/api"
+}

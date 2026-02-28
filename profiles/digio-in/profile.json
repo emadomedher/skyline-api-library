@@ -1,0 +1,14 @@
+{
+  "id": "digio-in",
+  "title": "Digio",
+  "subtitle": "Aadhaar eSign and eKYC, Digital Signatures(DSC), eNACH(NPCI Electronic Mandates), digital documentation platform. Lea...",
+  "tags": [
+    "kyc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656842/icons/digio-in.png",
+  "website": "https://www.digio.in/",
+  "docsUrl": "https://www.digio.in/#/digi-docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "trust-co",
+  "title": "Trust",
+  "subtitle": "The corporate card, made social. Trust is the only corporate card that helps startups grow smarter, together.",
+  "tags": [
+    "challenger-banks",
+    "corporate-credit-cards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634079286/icons/trust-co.jpg",
+  "website": "https://www.trust.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "verbit-ai",
+  "title": "Verbit.ai",
+  "subtitle": "Verbit’s smart transcription and real-time captioning solution uses AI to provide the highest accuracy and fastest tu...",
+  "tags": [
+    "audio-transcription"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441083/catalog/verbit-ai/icon128x128.jpg",
+  "website": "https://verbit.ai/"
+}

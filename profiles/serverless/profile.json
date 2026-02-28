@@ -1,0 +1,14 @@
+{
+  "id": "serverless",
+  "title": "Serverless",
+  "subtitle": "Build web, mobile and IoT applications using AWS Lambda and API Gateway, Azure Functions, Google Cloud Functions, and...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1558091056/catalog/serverless/icon128x128.jpg",
+  "website": "https://serverless.com",
+  "docsUrl": "https://serverless.com/framework/docs"
+}

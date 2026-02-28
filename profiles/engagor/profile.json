@@ -1,0 +1,13 @@
+{
+  "id": "engagor",
+  "title": "Engagor",
+  "subtitle": "Powerful social customer service software with social listening and analytics capabilities used by global brands to e...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947077/catalog/engagor/icon128x128.png",
+  "website": "https://engagor.com"
+}

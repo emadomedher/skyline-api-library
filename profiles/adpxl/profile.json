@@ -1,0 +1,13 @@
+{
+  "id": "adpxl",
+  "title": "Adpxl",
+  "subtitle": "We are Adpxl. Mission is to help consumers optimize their online purchases. Provide monetization and performance mark...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578919359/catalog/adpxl/icon128x128.png",
+  "website": "https://www.adpxl.com/"
+}

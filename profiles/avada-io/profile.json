@@ -1,0 +1,14 @@
+{
+  "id": "avada-io",
+  "title": "AVADA Commerce",
+  "subtitle": "AVADA is The Top Rated Marketing Automation Platform specialized for Shopify, Magento, WooCommerce, BigCommerce, Drop...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635900790/icons/avada-io.jpg",
+  "website": "https://avada.io/",
+  "docsUrl": "https://avada.io/shopify/docs"
+}

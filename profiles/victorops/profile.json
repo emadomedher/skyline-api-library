@@ -1,0 +1,16 @@
+{
+  "id": "victorops",
+  "title": "VictorOps",
+  "subtitle": "VictorOps incident management software gives DevOps observability, collaboration, & real-time alerting, to build, dep...",
+  "tags": [
+    "incident-management",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565024551/catalog/victorops/icon128x128.jpg",
+  "specUrl": "https://portal.victorops.com/api-docs/victorops-api-v1.yaml",
+  "website": "https://victorops.com",
+  "docsUrl": "https://portal.victorops.com/public/api-docs.html"
+}

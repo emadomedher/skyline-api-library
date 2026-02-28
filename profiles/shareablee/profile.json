@@ -1,0 +1,13 @@
+{
+  "id": "shareablee",
+  "title": "Shareablee",
+  "subtitle": "Shareablee API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722042/catalog/shareablee/icon128x128.jpg",
+  "website": "https://shareablee.com"
+}

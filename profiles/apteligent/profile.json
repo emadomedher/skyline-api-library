@@ -1,0 +1,13 @@
+{
+  "id": "apteligent",
+  "title": "Apteligent",
+  "subtitle": "Unlock insights about your apps through proven data science. Apteligent delivers answers to ongoing mobile business p...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718992/catalog/apteligent/icon128x128.jpg",
+  "website": "https://apteligent.com"
+}

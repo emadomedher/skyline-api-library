@@ -1,0 +1,13 @@
+{
+  "id": "neverbounce",
+  "title": "NeverBounce",
+  "subtitle": "NeverBounce is an email verification service that improves deliverability and helps businesses adhere to strict deliv...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305498/catalog/neverbounce/icon128x128.png",
+  "website": "https://neverbounce.com"
+}

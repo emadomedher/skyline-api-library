@@ -1,0 +1,13 @@
+{
+  "id": "amazon-honeycode",
+  "title": "Amazon Honeycode",
+  "subtitle": "Use Amazon Honeycode to build custom apps that help your team manage work and achieve its goals. No programming requi...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593450170/icons/amazon-honeycode.png",
+  "website": "https://www.honeycode.aws/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hash-ai",
+  "title": "HASH",
+  "subtitle": "Build simulations in minutes not days. HASH is an open-source platform backed and built by the founders of Kaggle, St...",
+  "tags": [
+    "multi-agent-simulations",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612467757/icons/hash-ai.jpg",
+  "website": "https://hash.ai/",
+  "docsUrl": "https://docs.hash.ai/core/tutorials/hello-hash"
+}

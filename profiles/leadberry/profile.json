@@ -1,0 +1,13 @@
+{
+  "id": "leadberry",
+  "title": "Leadberry",
+  "subtitle": "Leadberry is a lead generation platform that converts website visitors to sales leads.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305273/catalog/leadberry/icon128x128.png",
+  "website": "https://leadberry.com"
+}

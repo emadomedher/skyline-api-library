@@ -1,0 +1,13 @@
+{
+  "id": "feedbacknow",
+  "title": "FeedbackNow by Forrester",
+  "subtitle": "FeedbackNow by Forrester API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594167240/icons/feedbacknow.png",
+  "website": "https://www.feedbacknow.com/"
+}

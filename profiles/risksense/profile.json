@@ -1,0 +1,13 @@
+{
+  "id": "risksense",
+  "title": "RiskSense",
+  "subtitle": "Know What to Do in a Vulnerability-Filled Universe. Actions and priorities to counter weaponized and active exploits ...",
+  "tags": [
+    "vulnerability-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630375682/icons/risksense.jpg",
+  "website": "https://risksense.com/"
+}

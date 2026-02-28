@@ -1,0 +1,13 @@
+{
+  "id": "aggreg8-io",
+  "title": "Aggreg8.io",
+  "subtitle": "Aggreg8.io API integration",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631978321/icons/aggreg8-io.jpg",
+  "website": "http://aggreg8.io/"
+}

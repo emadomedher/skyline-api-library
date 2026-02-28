@@ -1,0 +1,13 @@
+{
+  "id": "remotesocial-io",
+  "title": "remotesocial",
+  "subtitle": "Remote Social is the easiest way to find, schedule and host fun team activities. Find everything you need to bring yo...",
+  "tags": [
+    "remote-culture"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630057996/icons/remotesocial-io.jpg",
+  "website": "https://www.remotesocial.io/"
+}

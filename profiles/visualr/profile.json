@@ -1,0 +1,13 @@
+{
+  "id": "visualr",
+  "title": "Visualr",
+  "subtitle": "Visualr is one of the rare data visualization tools that provide the enterprises with an extensively flexible connect...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722771/catalog/visualr/icon128x128.png",
+  "website": "https://visualrsoftware.com"
+}

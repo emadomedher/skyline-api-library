@@ -1,0 +1,13 @@
+{
+  "id": "mitel",
+  "title": "Mitel",
+  "subtitle": "Help information flow through your organization seamlessly to get more done faster and smarter&mdash;with the right c...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721140/catalog/mitel/icon128x128.png",
+  "website": "https://mitel.com"
+}

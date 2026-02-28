@@ -1,0 +1,13 @@
+{
+  "id": "kissmetrics",
+  "title": "Kissmetrics",
+  "subtitle": "Kissmetrics is a person-based analytics package that makes it insanely easy to track events and funnels online helpin...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056010/catalog/kissmetrics/icon128x128.png",
+  "website": "https://kissmetricshq.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "livevox",
+  "title": "LiveVox",
+  "subtitle": "Livevox cloud-based contact center solutions leverage multiple channels to combine voice, text and email and meet the...",
+  "tags": [
+    "contact-center",
+    "contact-center-platforms"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604753491/icons/livevox.jpg",
+  "website": "https://livevox.com/",
+  "docsUrl": "https://livevox.com/resources/developer-resources"
+}

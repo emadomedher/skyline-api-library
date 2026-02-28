@@ -1,0 +1,15 @@
+{
+  "id": "bill-com",
+  "title": "Bill.com",
+  "subtitle": "Bill.com is a business payments company helping over 3 million members manage more than $60 billion in payments annua...",
+  "tags": [
+    "invoicing",
+    "business-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569720248/catalog/bill-com/icon128x128.png",
+  "website": "https://www.bill.com/",
+  "docsUrl": "https://developer.bill.com"
+}

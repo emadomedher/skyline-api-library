@@ -1,0 +1,13 @@
+{
+  "id": "dribbble",
+  "title": "Dribbble",
+  "subtitle": "Dribbble is a place to show and tell, promote, discover, and explore design.",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304805/catalog/dribbble/icon128x128.png",
+  "website": "https://dribbble.com/"
+}

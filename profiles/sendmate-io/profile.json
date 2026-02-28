@@ -1,0 +1,13 @@
+{
+  "id": "sendmate-io",
+  "title": "Sendmate",
+  "subtitle": "Sendmate is a hyper-effective marketing tool for the age of messaging.  It allows you to reach your fans directly on ...",
+  "tags": [
+    "messenger-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578492721/catalog/sendmate-io/icon128x128.jpg",
+  "website": "https://www.sendmate.io/"
+}

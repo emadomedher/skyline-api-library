@@ -1,0 +1,14 @@
+{
+  "id": "bitnami",
+  "title": "Bitnami",
+  "subtitle": "With over 1 million apps deployed per month, Bitnami makes it incredibly easy to deploy apps with native installers, ...",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612019593/icons/bitnami.jpg",
+  "website": "https://bitnami.com/",
+  "docsUrl": "https://bitnami.com/#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "citrix-workspace",
+  "title": "Citrix Workspace",
+  "subtitle": "Citrix offers a unified, secure and intelligent digital workspace that enables users to access their apps, desktops a...",
+  "tags": [
+    "employee-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603712563/icons/citrix-workspace.jpg",
+  "website": "https://www.citrix.com/products/citrix-workspace/",
+  "docsUrl": "https://developer.cloud.com/citrix-workspace"
+}

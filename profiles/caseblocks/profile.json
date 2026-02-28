@@ -1,0 +1,15 @@
+{
+  "id": "caseblocks",
+  "title": "Caseblocks",
+  "subtitle": "Manage all your claims on the Caseblocks Cloud. Caseblocks claims processing software provides a range of ready made ...",
+  "tags": [
+    "insurance",
+    "insurance-claims"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601496829/icons/caseblocks.jpg",
+  "website": "https://caseblocks.com/",
+  "docsUrl": "https://documentation.caseblocks.com"
+}

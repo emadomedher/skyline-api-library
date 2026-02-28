@@ -1,0 +1,13 @@
+{
+  "id": "goodbarber",
+  "title": "GoodBarber",
+  "subtitle": "The best app builder to make an app for iOS and Android. Integrate quickly & easily the Play Store & the App Store",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720259/catalog/goodbarber/icon128x128.jpg",
+  "website": "https://goodbarber.com"
+}

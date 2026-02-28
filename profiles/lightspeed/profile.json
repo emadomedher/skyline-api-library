@@ -1,0 +1,15 @@
+{
+  "id": "lightspeed",
+  "title": "Lightspeed",
+  "subtitle": "See how our point of sale software will help you work more efficiently and increase your bottom line.",
+  "tags": [
+    "pos",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435540/catalog/lightspeed/icon128x128.png",
+  "website": "https://lightspeedhq.com",
+  "docsUrl": "https://developers.lightspeedhq.com/"
+}

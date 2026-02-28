@@ -1,0 +1,14 @@
+{
+  "id": "elmahio",
+  "title": "elmah.io",
+  "subtitle": "elmah.io is a cloud based error monitoring platform for .NET web applications.",
+  "tags": [
+    "error-monitoring",
+    "bug-reporting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861295/catalog/elmahio/icon128x128.png",
+  "website": "https://elmah.io"
+}

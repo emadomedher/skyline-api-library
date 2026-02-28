@@ -1,0 +1,13 @@
+{
+  "id": "communit",
+  "title": "commun.it",
+  "subtitle": "Your personal Community Manager - A smarter, simpler, solution to all your community management needs - Analyze, Moni...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719541/catalog/communit/icon128x128.jpg",
+  "website": "https://commun.it"
+}

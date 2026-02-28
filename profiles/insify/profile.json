@@ -1,0 +1,14 @@
+{
+  "id": "insify",
+  "title": "Insify",
+  "subtitle": "✓ Simple questions. Crystal clear insurance. ✓ Fast. Covered in 5 minutes. ✓ Fair. Razor sharp prices, no hidden costs.",
+  "tags": [
+    "business-insurance",
+    "embedded-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651043793/icons/insify.png",
+  "website": "https://insify.com/"
+}

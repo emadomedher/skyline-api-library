@@ -1,0 +1,14 @@
+{
+  "id": "apify",
+  "title": "Apify",
+  "subtitle": "Apify is a web crawler that extracts structured data from websites.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304408/catalog/apify/icon128x128.png",
+  "website": "https://apify.com/",
+  "docsUrl": "https://apify.com/marketplace"
+}

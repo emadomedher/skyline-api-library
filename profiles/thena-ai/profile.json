@@ -1,0 +1,14 @@
+{
+  "id": "thena-ai",
+  "title": "Thena",
+  "subtitle": "Thena is a customer engagement platform for Slack. Our platform keeps track of shared Slack channels with customers; ...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686602989/icons/thena-ai.png",
+  "website": "https://www.thena.ai/",
+  "docsUrl": "https://www.thena.ai/knowledge-base-ai"
+}

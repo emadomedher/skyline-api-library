@@ -1,0 +1,13 @@
+{
+  "id": "run",
+  "title": "Run",
+  "subtitle": "Run API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962449/catalog/run/icon128x128.png",
+  "website": "https://runads.com"
+}

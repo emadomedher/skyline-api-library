@@ -1,0 +1,13 @@
+{
+  "id": "shopify-flow",
+  "title": "Shopify Flow",
+  "subtitle": "Enable the power of ecommerce automation for your app by building triggers and actions for Shopify Flow. With just on...",
+  "tags": [
+    "ecommerce-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610286619/icons/shopify-flow.png",
+  "website": "https://www.shopify.com/plus/build-for-flow"
+}

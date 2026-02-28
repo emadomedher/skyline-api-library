@@ -1,0 +1,13 @@
+{
+  "id": "buildfire",
+  "title": "Buildfire",
+  "subtitle": "Build powerful custom mobile apps for iOS & Android using our intuitive and easy to use mobile app builder. Discover ...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719358/catalog/buildfire/icon128x128.png",
+  "website": "https://buildfire.com"
+}

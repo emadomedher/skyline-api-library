@@ -1,0 +1,15 @@
+{
+  "id": "globalapptesting",
+  "title": "Global App Testing",
+  "subtitle": "Our professional crowdsourced testers provide test case execution and exploratory QA testing to put your app through ...",
+  "tags": [
+    "mobile-app-testing",
+    "qa",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606355131/icons/globalapptesting.jpg",
+  "website": "https://www.globalapptesting.com/"
+}

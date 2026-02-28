@@ -1,0 +1,14 @@
+{
+  "id": "usebouncer",
+  "title": "Bouncer",
+  "subtitle": "Email List Verification and Validation. Protects you from bounced emails. Simple App and easy-to-integrate API. ...",
+  "tags": [
+    "email-verification"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576014965/catalog/usebouncer/icon128x128.jpg",
+  "website": "https://usebouncer.com/",
+  "docsUrl": "https://docs.usebouncer.com"
+}

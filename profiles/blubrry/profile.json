@@ -1,0 +1,13 @@
+{
+  "id": "blubrry",
+  "title": "Blubrry Podcasting",
+  "subtitle": "Own your podcast. Host your podcast on the first & only IAB certified podcast stats platform from a trusted podcast h...",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193093/catalog/blubrry/icon128x128.jpg",
+  "website": "https://www.blubrry.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "abhi-pk",
+  "title": "Abhi",
+  "subtitle": "We plan to change the way you receive and spend your salary Your salary is your right, and we let you access it … ABHI",
+  "tags": [
+    "payday",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638417646/icons/abhi-pk.jpg",
+  "website": "https://www.abhi.com.pk/"
+}

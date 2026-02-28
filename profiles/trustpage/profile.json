@@ -1,0 +1,14 @@
+{
+  "id": "trustpage",
+  "title": "Trustpage",
+  "subtitle": "Trustpage provides software teams a single, connected hub for building trust with prospects and customers, assisted b...",
+  "tags": [
+    "compliance",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471925/icons/trustpage.png",
+  "website": "https://trustpage.com/"
+}

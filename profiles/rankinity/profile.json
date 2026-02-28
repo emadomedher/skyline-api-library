@@ -1,0 +1,13 @@
+{
+  "id": "rankinity",
+  "title": "Rankinity",
+  "subtitle": "Rankinity API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436812/catalog/rankinity/icon128x128.png",
+  "website": "https://rankinity.com"
+}

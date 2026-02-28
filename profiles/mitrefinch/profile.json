@@ -1,0 +1,13 @@
+{
+  "id": "mitrefinch",
+  "title": "Mitrefinch",
+  "subtitle": "Find the solution to your time and attendance and employee time tracking needs with software solutions from Mitrefinc...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637957/icons/mitrefinch.jpg",
+  "website": "https://mitrefinch.com/"
+}

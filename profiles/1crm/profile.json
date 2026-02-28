@@ -1,0 +1,14 @@
+{
+  "id": "1crm",
+  "title": "1CRM",
+  "subtitle": "1CRM is an all in one CRM software solution for small to medium sized businesss. Marketing automation, order manageme...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178359/catalog/1crm/icon128x128.png",
+  "website": "https://1crm.com/",
+  "docsUrl": "https://1crm.com/developers"
+}

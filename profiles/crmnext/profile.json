@@ -1,0 +1,13 @@
+{
+  "id": "crmnext",
+  "title": "CRMNext",
+  "subtitle": "CRMNEXT’s proprietary CRM software enables organizations to fastrack sales, enhance marketing activities and deliver ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719645/catalog/crmnext/icon128x128.jpg",
+  "website": "https://crmnext.com"
+}

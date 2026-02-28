@@ -1,0 +1,14 @@
+{
+  "id": "luzmo",
+  "title": "Luzmo",
+  "subtitle": "Embed beautiful, easy-to-use dashboards in your SaaS product in days, not months. Take your product users from data t...",
+  "tags": [
+    "embedded-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1701980411/icons/luzmo.png",
+  "website": "https://www.luzmo.com/",
+  "docsUrl": "https://developer.luzmo.com"
+}

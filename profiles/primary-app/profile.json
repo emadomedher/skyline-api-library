@@ -1,0 +1,14 @@
+{
+  "id": "primary-app",
+  "title": "Primary",
+  "subtitle": "Primary provides a structured approach so users and developers can work together to establish what jobs your app will...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613042902/icons/primary-app.jpg",
+  "website": "https://www.primary.app/",
+  "docsUrl": "https://www.primary.app/solutions/product-modelling"
+}

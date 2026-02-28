@@ -1,0 +1,13 @@
+{
+  "id": "moca",
+  "title": "MOCA",
+  "subtitle": "MOCA API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963560/catalog/moca/icon128x128.png",
+  "website": "https://mocaplatform.com"
+}

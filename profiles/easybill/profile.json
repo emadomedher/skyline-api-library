@@ -1,0 +1,12 @@
+{
+  "id": "easybill",
+  "title": "EasyBill",
+  "subtitle": "EasyBill API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178336/catalog/easybill/icon128x128.png"
+}

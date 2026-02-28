@@ -1,0 +1,14 @@
+{
+  "id": "giphy",
+  "title": "GIPHY",
+  "subtitle": "GIPHY is your top source for the best & newest GIFs & Animated Stickers online. Find everything from funny GIFs, reac...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305013/catalog/giphy/icon128x128.png",
+  "website": "https://giphy.com/",
+  "docsUrl": "https://developers.giphy.com/"
+}

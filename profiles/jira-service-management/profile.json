@@ -1,0 +1,14 @@
+{
+  "id": "jira-service-management",
+  "title": "Jira Service Management",
+  "subtitle": "Jira Service Desk is now Jira Service Management. Jira Service Management is ITSM software that unlocks teams. ",
+  "tags": [
+    "itsm",
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565430380/catalog/jira-service-desk/icon128x128.jpg",
+  "website": "https://www.atlassian.com/software/jira/service-management"
+}

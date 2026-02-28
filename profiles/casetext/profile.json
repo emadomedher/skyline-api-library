@@ -1,0 +1,14 @@
+{
+  "id": "casetext",
+  "title": "Casetext",
+  "subtitle": "Casetext API integration",
+  "tags": [
+    "legal-research-software",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566779168/catalog/casetext/icon128x128.jpg",
+  "website": "https://casetext.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "addresstwo",
+  "title": "AddressTwo",
+  "subtitle": "Small business is about relationships. Generate new customer relationships, manage customer relationships, and track ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717136/catalog/addresstwo/icon128x128.jpg",
+  "website": "https://addresstwo.com"
+}

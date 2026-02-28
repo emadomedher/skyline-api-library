@@ -1,0 +1,14 @@
+{
+  "id": "azuqua",
+  "title": "Azuqua",
+  "subtitle": "Azuqua helps people integrate their applications and automate their business critical processes without code or speci...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546980857/catalog/azuqua/icon128x128.png",
+  "website": "https://azuqua.com/",
+  "docsUrl": "https://docs.azuqua.com/v2.0/docs/"
+}

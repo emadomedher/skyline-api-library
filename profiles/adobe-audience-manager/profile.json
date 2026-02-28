@@ -1,0 +1,13 @@
+{
+  "id": "adobe-audience-manager",
+  "title": "Adobe Audience Manager",
+  "subtitle": "Data management platform, audience segmentation, audience insights, real-time action.",
+  "tags": [
+    "data-management-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547600361/catalog/adobe-audience-manager/icon128x128.jpg",
+  "website": "https://www.adobe.com/analytics/audience-manager.html"
+}

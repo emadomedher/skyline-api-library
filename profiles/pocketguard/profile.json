@@ -1,0 +1,13 @@
+{
+  "id": "pocketguard",
+  "title": "PocketGuard",
+  "subtitle": "PocketGuard categorizes and organizes your expenses, monthly bills and subscriptions into clear, beautiful tabs and g...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617202628/icons/pocketguard.jpg",
+  "website": "https://pocketguard.com/"
+}

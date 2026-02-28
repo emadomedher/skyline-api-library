@@ -1,0 +1,13 @@
+{
+  "id": "getmitto",
+  "title": "Mitto",
+  "subtitle": "Mitto, a Spanish banking challenger focused on sustainability",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610677973/icons/getmitto.png",
+  "website": "https://getmitto.com/en"
+}

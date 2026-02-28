@@ -1,0 +1,14 @@
+{
+  "id": "spaceinvoices",
+  "title": "Space Invoices",
+  "subtitle": "...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618172195/icons/spaceinvoices.jpg",
+  "website": "https://spaceinvoices.com/",
+  "docsUrl": "https://docs.spaceinvoices.com"
+}

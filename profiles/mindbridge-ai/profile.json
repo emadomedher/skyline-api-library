@@ -1,0 +1,14 @@
+{
+  "id": "mindbridge-ai",
+  "title": "MindBridge Ai",
+  "subtitle": "Introducing Ai Auditor. The world's first and only AI powered auditing platform.",
+  "tags": [
+    "accounting-audit",
+    "risk-assurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582732983/catalog/mindbridge-ai/icon128x128.jpg",
+  "website": "https://www.mindbridge.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "startafire",
+  "title": "StartAFire",
+  "subtitle": "Grow and expand your audience by recommending your content within any link you share",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962219/catalog/startafire/icon128x128.png",
+  "website": "https://startafire.com"
+}

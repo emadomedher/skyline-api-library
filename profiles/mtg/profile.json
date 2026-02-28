@@ -1,0 +1,13 @@
+{
+  "id": "mtg",
+  "title": "Modern Times Group MTG AB",
+  "subtitle": "MTG is a leading international digital entertainment group. We are connecting consumers with the content that they lo...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268414/icons/mtg.jpg",
+  "website": "https://mtg.com"
+}

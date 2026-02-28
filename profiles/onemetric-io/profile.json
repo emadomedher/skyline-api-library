@@ -1,0 +1,13 @@
+{
+  "id": "onemetric-io",
+  "title": "One Metric",
+  "subtitle": "See all of your metrics in one place. Understand, share and improve the numbers that matter to your business.",
+  "tags": [
+    "dashboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601755952/icons/onemetric-io.jpg",
+  "website": "https://www.onemetric.io/"
+}

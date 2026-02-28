@@ -1,0 +1,13 @@
+{
+  "id": "buildt-ai",
+  "title": "Buildt",
+  "subtitle": "Buildt API integration",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680329030/icons/buildt-ai.jpg",
+  "website": "https://www.buildt.ai/"
+}

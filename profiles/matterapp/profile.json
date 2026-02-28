@@ -1,0 +1,14 @@
+{
+  "id": "matterapp",
+  "title": "Matter",
+  "subtitle": "Thousands of professionals trust Matter's peer feedback platform to gather amazing feedback on the skills that matter...",
+  "tags": [
+    "hr",
+    "personal-growth"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572359558/catalog/matterapp/icon128x128.png",
+  "website": "https://matterapp.com/"
+}

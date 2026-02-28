@@ -1,0 +1,13 @@
+{
+  "id": "kumo-ai",
+  "title": "Kumo",
+  "subtitle": "Kumo API integration",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652666924/icons/kumo-ai.jpg",
+  "website": "https://kumo.ai/"
+}

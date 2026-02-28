@@ -1,0 +1,13 @@
+{
+  "id": "woven",
+  "title": "Woven",
+  "subtitle": "Woven is the best calendar app - period. Super-fast calendaring and easy scheduling in one app. Available for iPhone,...",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585395357/catalog/woven/icon128x128.jpg",
+  "website": "https://woven.com/"
+}

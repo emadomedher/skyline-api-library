@@ -1,0 +1,13 @@
+{
+  "id": "dmway-analytics-engine",
+  "title": "DMWay Analytics Engine",
+  "subtitle": "DMWay Analytics Engine API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964036/catalog/dmway-analytics-engine/icon128x128.png",
+  "website": "https://dmway.com"
+}

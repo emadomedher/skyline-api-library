@@ -1,0 +1,15 @@
+{
+  "id": "datawow-io",
+  "title": "Data Wow Co.",
+  "subtitle": "Data Wow provides simple API for your business to tap in full suite moderation services including image, text, and VD...",
+  "tags": [
+    "machine-learning",
+    "image-recognition",
+    "api"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699483/catalog/datawow-io/icon128x128.png",
+  "website": "https://datawow.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "smoove",
+  "title": "Smoove",
+  "subtitle": "Smoove is an all-in-one tool for marketing processes, including email and SMS marketing, landing page creation, marke...",
+  "tags": [
+    "marketing-automation",
+    "drip-emails"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306124/catalog/smoove/icon128x128.png",
+  "website": "https://smoove.io"
+}

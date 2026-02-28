@@ -1,0 +1,13 @@
+{
+  "id": "elasbank-br",
+  "title": "Elas",
+  "subtitle": "Elas, a Sao Paulo-based challenger bank specifically made for women.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311403/catalog/elasbank-br/icon128x128.png",
+  "website": "https://www.elasbank.com.br/"
+}

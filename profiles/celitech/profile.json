@@ -1,0 +1,13 @@
+{
+  "id": "celitech",
+  "title": "Celitech",
+  "subtitle": "Celitech is the world's 1st cellular data platform enabling travel-related companies to offer int'l mobile data using...",
+  "tags": [
+    "esim-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017243/icons/celitech.jpg",
+  "website": "https://celitech.com/"
+}

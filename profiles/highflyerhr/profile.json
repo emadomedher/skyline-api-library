@@ -1,0 +1,13 @@
+{
+  "id": "highflyerhr",
+  "title": "Highflyer HR",
+  "subtitle": "A consultative, high touch approach to HCM solutions with a single source platform to empower clients to thrive.",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626428654/icons/highflyerhr.jpg",
+  "website": "https://www.highflyerhr.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "deepl",
+  "title": "DeepL",
+  "subtitle": "Use the free DeepL Translator to translate your texts with the best machine translation available, powered by DeepL’s...",
+  "tags": [
+    "translation",
+    "localization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441103/catalog/deepl/icon128x128.jpg",
+  "website": "https://www.deepl.com/",
+  "docsUrl": "https://www.deepl.com/docs-api/"
+}

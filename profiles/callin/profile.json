@@ -1,0 +1,13 @@
+{
+  "id": "callin",
+  "title": "Callin",
+  "subtitle": "Callin",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638213331/icons/callin.jpg",
+  "website": "https://www.callin.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "digitalmanager-guru",
+  "title": "Digital Manager Guru",
+  "subtitle": "Digital Manager Guru is the most flexible online selling platform to create checkout for payment, integrate tools, an...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642620029/icons/digitalmanager-guru.png",
+  "website": "https://digitalmanager.guru/",
+  "docsUrl": "https://digitalmanagerguru.docs.apiary.io"
+}

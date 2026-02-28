@@ -1,0 +1,14 @@
+{
+  "id": "manatal",
+  "title": "Manatal",
+  "subtitle": "Experience AI-powered recruitment! Manatal's applicant tracking system streamlines the recruitment process and helps ...",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644513012/icons/manatal.jpg",
+  "website": "https://www.manatal.com/",
+  "docsUrl": "https://support.manatal.com"
+}

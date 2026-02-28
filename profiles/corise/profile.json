@@ -1,0 +1,13 @@
+{
+  "id": "corise",
+  "title": "CoRise",
+  "subtitle": "CoRise accelerates your professional growth through live, small group courses created and taught by top experts.",
+  "tags": [
+    "upskilling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975844/icons/corise.jpg",
+  "website": "https://corise.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "luminartech",
+  "title": "Luminar",
+  "subtitle": "Making autonomous transportation safe with long-range, high resolution lidar and perception.",
+  "tags": [
+    "lidar",
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598387976/icons/luminartech.png",
+  "website": "https://www.luminartech.com/"
+}

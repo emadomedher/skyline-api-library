@@ -1,0 +1,14 @@
+{
+  "id": "ruttl",
+  "title": "ruttl",
+  "subtitle": "ruttl is the easiest way to edit and comment on live websites. Invite stakeholders to give precise, contextual feedba...",
+  "tags": [
+    "visual-feedback",
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611781389/icons/ruttl.jpg",
+  "website": "https://ruttl.com/"
+}

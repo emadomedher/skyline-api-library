@@ -1,0 +1,14 @@
+{
+  "id": "juggle-jobs",
+  "title": "Juggle",
+  "subtitle": "Juggle is a new way to employ experienced, high quality staff, fast. Signup, find and interview the best person for y...",
+  "tags": [
+    "executive-markeplaces",
+    "jobs-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604758907/icons/juggle-jobs.png",
+  "website": "https://juggle.jobs/"
+}

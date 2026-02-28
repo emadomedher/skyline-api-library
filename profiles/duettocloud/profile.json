@@ -1,0 +1,13 @@
+{
+  "id": "duettocloud",
+  "title": "Duetto",
+  "subtitle": "Cloud-based hotel revenue management software and revenue strategy solutions that deliver powerful insights on pricin...",
+  "tags": [
+    "hotel-revenue-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448049/icons/duettocloud.jpg",
+  "website": "https://www.duettocloud.com/"
+}

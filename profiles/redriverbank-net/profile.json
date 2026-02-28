@@ -1,0 +1,13 @@
+{
+  "id": "redriverbank-net",
+  "title": "Red River Bank",
+  "subtitle": "We're a community bank that's grown to be $1.6 billion strong because we remember our hometowns—and that everyone's n...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598733960/icons/redriverbank-net.jpg",
+  "website": "https://www.redriverbank.net/"
+}

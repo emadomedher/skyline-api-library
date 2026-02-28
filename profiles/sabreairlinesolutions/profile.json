@@ -1,0 +1,14 @@
+{
+  "id": "sabreairlinesolutions",
+  "title": "Sabre",
+  "subtitle": "As a complete business partner, we provide comprehensive technology solutions that help the airline industry better m...",
+  "tags": [
+    "travel",
+    "airline-reservation-management"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565612920/catalog/sabreairlinesolutions/icon128x128.jpg",
+  "website": "https://www.sabreairlinesolutions.com/"
+}

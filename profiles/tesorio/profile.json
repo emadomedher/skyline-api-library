@@ -1,0 +1,13 @@
+{
+  "id": "tesorio",
+  "title": "Tesorio",
+  "subtitle": "Tesorio is the cash flow performance platform, which Accounts Receivable, Treasury, and FP&A teams use to manage, pre...",
+  "tags": [
+    "cash-flow-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566954891/catalog/tesorio/icon128x128.jpg",
+  "website": "https://www.tesorio.com/"
+}

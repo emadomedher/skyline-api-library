@@ -1,0 +1,15 @@
+{
+  "id": "luvit-io",
+  "title": "Luvit.io",
+  "subtitle": "Luvit.io API integration",
+  "tags": [
+    "programming",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604145191/icons/luvit-io.png",
+  "website": "http://luvit.io/",
+  "docsUrl": "http://luvit.io/docs.html"
+}

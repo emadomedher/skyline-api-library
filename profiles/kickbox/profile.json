@@ -1,0 +1,13 @@
+{
+  "id": "kickbox",
+  "title": "Kickbox",
+  "subtitle": "Kickbox is an email verification platform that can help identify deliverable, invalid, or otherwise risky email addre...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284542/catalog/kickbox/icon128x128.png",
+  "website": "https://kickbox.io"
+}

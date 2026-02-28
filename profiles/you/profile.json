@@ -1,0 +1,14 @@
+{
+  "id": "you",
+  "title": "you.com",
+  "subtitle": "You.com is an ad-free, private search engine that you control. Customize search results with 150 apps alongside web r...",
+  "tags": [
+    "search-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674686709/icons/you.png",
+  "website": "https://you.com/",
+  "docsUrl": "https://docs.you.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fyipe",
+  "title": "Fyipe",
+  "subtitle": "Fyipe gives you a beautiful status page for your business, monitors your web apps, and alerts your team when downtime...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284523/catalog/fyipe/icon128x128.png"
+}

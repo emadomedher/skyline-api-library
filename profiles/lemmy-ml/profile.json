@@ -1,0 +1,14 @@
+{
+  "id": "lemmy-ml",
+  "title": "Lemmy",
+  "subtitle": "Lemmy API integration",
+  "tags": [
+    "link-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616579859/icons/lemmy-ml.svg",
+  "website": "https://lemmy.ml/",
+  "docsUrl": "https://join.lemmy.ml/docs/en/about/guide.html#sorting"
+}

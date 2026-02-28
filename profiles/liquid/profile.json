@@ -1,0 +1,15 @@
+{
+  "id": "liquid",
+  "title": "Liquid",
+  "subtitle": "Join the world’s most comprehensive and secure trading platform for beginners and pros. Buy and sell Bitcoin, Ethereu...",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435565/catalog/liquid/icon128x128.png",
+  "website": "https://onliquid.com",
+  "docsUrl": "https://developers.liquid.com"
+}

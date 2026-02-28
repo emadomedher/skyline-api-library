@@ -1,0 +1,15 @@
+{
+  "id": "coldcrm",
+  "title": "Coldcrm",
+  "subtitle": "ColdCRM gives you access to the largest B2B database in the world, with over 320 million contacts from 43 million com...",
+  "tags": [
+    "contacts",
+    "sales-prospection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614268998/icons/coldcrm.png",
+  "website": "https://coldcrm.com/",
+  "docsUrl": "https://apidoc.coldcrm.com"
+}

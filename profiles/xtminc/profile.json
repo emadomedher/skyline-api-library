@@ -1,0 +1,13 @@
+{
+  "id": "xtminc",
+  "title": "XTM",
+  "subtitle": "XTM Inc is a fintech company in the neo-banking space.  XTM's Today™ platform, comprised of a free mobile app and a V...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650579862/icons/xtminc.jpg",
+  "website": "https://www.xtminc.com/"
+}

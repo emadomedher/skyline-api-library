@@ -1,0 +1,16 @@
+{
+  "id": "apis-guru-openapi-directory",
+  "title": "APIs.guru OpenAPI Directory",
+  "subtitle": "Our goal is to create a machine-readable Wikipedia for WEB APIs. If you have an API spec in any format (OpenAPI, Swag...",
+  "tags": [
+    "directories",
+    "api",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610045464/icons/apis-guru-openapi-directory.jpg",
+  "website": "https://apis.guru/openapi-directory/",
+  "docsUrl": "https://apis.guru/api-doc/"
+}

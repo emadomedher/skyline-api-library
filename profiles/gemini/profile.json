@@ -1,0 +1,15 @@
+{
+  "id": "gemini",
+  "title": "Gemini",
+  "subtitle": "Gemini is a regulated cryptocurrency exchange, wallet, and custodian that makes it simple and secure to buy bitcoin, ...",
+  "tags": [
+    "crypto-exchanges"
+  ],
+  "category": "Other",
+  "specType": "asyncapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621550556/icons/gemini.jpg",
+  "specUrl": "https://raw.githubusercontent.com/asyncapi/spec/master/examples/2.0.0/websocket-gemini.yml",
+  "website": "https://www.gemini.com/",
+  "docsUrl": "https://docs.gemini.com/rest-api"
+}

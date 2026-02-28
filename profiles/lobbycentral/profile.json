@@ -1,0 +1,13 @@
+{
+  "id": "lobbycentral",
+  "title": "LobbyCentral",
+  "subtitle": "LobbyCentral providing check-in software, online appointments, and kiosk for banks, credit unions, healthcare, vets, ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435595/catalog/lobbycentral/icon128x128.png",
+  "website": "https://lobbycentral.com"
+}

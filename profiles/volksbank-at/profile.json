@@ -1,0 +1,14 @@
+{
+  "id": "volksbank-at",
+  "title": "Volksbank",
+  "subtitle": "As a regional universal bank, Volksbank focuses on customer partnerships. Customer loyalty and quality of advice.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604419100/icons/volksbank-at.jpg",
+  "website": "https://www.volksbank.at/",
+  "docsUrl": "https://www.volksbank.at/volksbanken-verbund/psd2-fuer-zahlungsdienstleister"
+}

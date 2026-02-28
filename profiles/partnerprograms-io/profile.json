@@ -1,0 +1,13 @@
+{
+  "id": "partnerprograms-io",
+  "title": "Partner Programs",
+  "subtitle": "We help saas and software companies build and scale their agency-focused partner programs. We do this through trainin...",
+  "tags": [
+    "referral-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578416306/catalog/partnerprograms-io/icon128x128.png",
+  "website": "https://partnerprograms.io/"
+}

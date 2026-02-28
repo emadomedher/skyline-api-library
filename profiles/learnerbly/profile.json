@@ -1,0 +1,13 @@
+{
+  "id": "learnerbly",
+  "title": "Learnerbly",
+  "subtitle": "Transform the way your People learn - give them access to a marketplace of learning resources specific to their needs...",
+  "tags": [
+    "learning-management-system-(lms)"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904861/icons/learnerbly.jpg",
+  "website": "https://www.learnerbly.com/"
+}

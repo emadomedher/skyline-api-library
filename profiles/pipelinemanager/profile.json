@@ -1,0 +1,13 @@
+{
+  "id": "pipelinemanager",
+  "title": "PipelineManager",
+  "subtitle": "Pipeline Manager is the qualitative CRM app. Our great UI makes forecasting, sales process, sales training & effectiv...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436462/catalog/pipelinemanager/icon128x128.png",
+  "website": "https://pipelinemanager.com"
+}

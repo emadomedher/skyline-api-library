@@ -1,0 +1,13 @@
+{
+  "id": "oracle-bluekai",
+  "title": "Oracle BlueKai",
+  "subtitle": "Oracle BlueKai API integration",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567510941/catalog/oracle-bluekai/icon128x128.jpg",
+  "website": "https://www.oracle.com/marketingcloud/products/data-management-platform/"
+}

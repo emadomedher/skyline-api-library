@@ -1,0 +1,13 @@
+{
+  "id": "trueplan-io",
+  "title": "TruePlan.io",
+  "subtitle": "TruePlan provides tools to manage 70% of your operational costs, headcount. Next-gen platform for finance, recruiting...",
+  "tags": [
+    "headcount-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629577665/icons/trueplan-io.png",
+  "website": "https://www.trueplan.io/"
+}

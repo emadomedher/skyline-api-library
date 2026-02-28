@@ -1,0 +1,13 @@
+{
+  "id": "kuveyt-turk-participation-bank",
+  "title": "Kuveyt Türk Bank",
+  "subtitle": "Kuveyt Türk Bank API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600401913/icons/kuveyt-turk-participation-bank.png",
+  "website": "https://www.kuveytturk.com.tr/"
+}

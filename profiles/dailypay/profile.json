@@ -1,0 +1,13 @@
+{
+  "id": "dailypay",
+  "title": "DailyPay",
+  "subtitle": "An on-demand pay platform that delivers early access to earned wages and works with all HR/HCM/payroll systems.",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082109/icons/dailypay.jpg",
+  "website": "https://www.dailypay.com/"
+}

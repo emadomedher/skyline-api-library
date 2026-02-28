@@ -1,0 +1,13 @@
+{
+  "id": "vya",
+  "title": "Vya",
+  "subtitle": "Vya is simplifying marketing resource management. Our dedicated team makes the complex simple, and helps you reach lo...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722810/catalog/vya/icon128x128.png",
+  "website": "https://vyasystems.com"
+}

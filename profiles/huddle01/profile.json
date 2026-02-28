@@ -1,0 +1,14 @@
+{
+  "id": "huddle01",
+  "title": "Huddle01",
+  "subtitle": "One-click Video Meetings for DAOs, NFT communities and Builders.",
+  "tags": [
+    "video-conferencing",
+    "web3"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753734/icons/huddle01.png",
+  "website": "https://huddle01.com/"
+}

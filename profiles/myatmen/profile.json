@@ -1,0 +1,13 @@
+{
+  "id": "myatmen",
+  "title": "Atmen",
+  "subtitle": "A challenger banking service looking to “bring colour to banking”",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614051644/icons/myatmen.jpg",
+  "website": "https://myatmen.com/"
+}

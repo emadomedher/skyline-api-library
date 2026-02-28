@@ -1,0 +1,13 @@
+{
+  "id": "azure-devops",
+  "title": "Azure DevOps",
+  "subtitle": "Azure DevOps is where teams manage, develop, and deliver software in the cloud. Azure DevOps provides free, private G...",
+  "tags": [
+    "microsoft",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264754/catalog/azure-devops/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ringring",
+  "title": "RingRing",
+  "subtitle": "Improve your ROI with automated customer communication by SMS, voice or email. Test our SMS-platform for free.",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559908883/catalog/ringring/icon128x128.jpg",
+  "website": "https://ringring.be"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mobilecoin",
+  "title": "MobileCoin",
+  "subtitle": "MobileCoin API integration",
+  "tags": [
+    "crypto-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222457/icons/mobilecoin.jpg",
+  "website": "https://www.mobilecoin.com/"
+}

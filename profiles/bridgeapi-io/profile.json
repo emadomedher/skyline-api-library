@@ -1,0 +1,14 @@
+{
+  "id": "bridgeapi-io",
+  "title": "Bridge",
+  "subtitle": "Get a reliable and automated access to financial data to create new business opportunities with Bridge",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596693061/icons/bridgeapi-io.jpg",
+  "website": "https://bridgeapi.io/",
+  "docsUrl": "https://docs.bridgeapi.io/docs"
+}

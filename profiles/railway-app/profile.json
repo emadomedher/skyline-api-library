@@ -1,0 +1,14 @@
+{
+  "id": "railway-app",
+  "title": "Railway",
+  "subtitle": "Infrastructure, Instantly",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625134768/icons/railway-app.jpg",
+  "website": "https://railway.app/",
+  "docsUrl": "https://docs.railway.app"
+}

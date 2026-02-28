@@ -1,0 +1,16 @@
+{
+  "id": "gitolite",
+  "title": "Gitolite",
+  "subtitle": "Gitolite API integration",
+  "tags": [
+    "git",
+    "code-hosting",
+    "source-control"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597100472/icons/gitolite.png",
+  "website": "https://gitolite.com/",
+  "docsUrl": "https://gitolite.com/gitolite/index.html#documentation"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "perl",
+  "title": "Perl",
+  "subtitle": "Perl is a family of two high-level, general-purpose, interpreted, dynamic programming languages. \"Perl\" refers to Per...",
+  "tags": [
+    "programming-language"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599916259/icons/perl.svg",
+  "website": "https://www.perl.org/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "neon-tech",
+  "title": "Neon — Serverless, Fault-Tolerant, Branchable Postgres",
+  "subtitle": "Postgres made for developers. Easy to Use, Scalable, Cost efficient solution for your next project.",
+  "tags": [
+    "serverless-databases",
+    "databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655763587/icons/neon-tech.png",
+  "website": "https://neon.tech/",
+  "docsUrl": "https://neon.tech/docs/cloud/about"
+}

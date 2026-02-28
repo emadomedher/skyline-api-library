@@ -1,0 +1,13 @@
+{
+  "id": "shopify-pos",
+  "title": "Shopify POS",
+  "subtitle": "Shopify POS (Point of Sale) is an application that allows you to sell products offline. You can sell products at a ph...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588039271/catalog/shopify-pos/icon128x128.jpg",
+  "website": "https://www.shopify.com/pos"
+}

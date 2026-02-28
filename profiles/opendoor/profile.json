@@ -1,0 +1,14 @@
+{
+  "id": "opendoor",
+  "title": "Opendoor",
+  "subtitle": "Opendoor is the new way to sell your home. Skip the hassle of listing, showings and months of stress, and close on yo...",
+  "tags": [
+    "real-estate-listings",
+    "marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592483260/icons/opendoor.jpg",
+  "website": "https://www.opendoor.com/"
+}

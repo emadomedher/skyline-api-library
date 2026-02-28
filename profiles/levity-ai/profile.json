@@ -1,0 +1,15 @@
+{
+  "id": "levity-ai",
+  "title": "Levity",
+  "subtitle": "Train your own AI on documents, images, or text data to perform daily, repetitive tasks so your team can reach the ne...",
+  "tags": [
+    "document-processing",
+    "machine-learning",
+    "no-code"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636511348/icons/levity-ai.jpg",
+  "website": "https://levity.ai/"
+}

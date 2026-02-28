@@ -1,0 +1,14 @@
+{
+  "id": "apple-news",
+  "title": "Apple News",
+  "subtitle": "Apple News API integration",
+  "tags": [
+    "news-aggregator"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629251574/icons/apple-news.png",
+  "website": "https://www.apple.com/apple-news/",
+  "docsUrl": "https://developer.apple.com/documentation/apple_news/apple_news_api"
+}

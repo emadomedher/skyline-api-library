@@ -1,0 +1,13 @@
+{
+  "id": "climateview-global",
+  "title": "ClimateView",
+  "subtitle": "ClimateView is a tool for climate professionals and cities focused on planning, connecting and collaborating towards ...",
+  "tags": [
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779855/catalog/climateview-global/icon128x128.jpg",
+  "website": "https://www.climateview.global/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "artofproblemsolving",
+  "title": "Art of Problem Solving",
+  "subtitle": "Online math classes, advanced math textbooks, math games, and more for high school and middle school students. Find o...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612234910/icons/artofproblemsolving.jpg",
+  "website": "https://artofproblemsolving.com/"
+}

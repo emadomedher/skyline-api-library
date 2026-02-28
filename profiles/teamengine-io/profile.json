@@ -1,0 +1,13 @@
+{
+  "id": "teamengine-io",
+  "title": "Team Engine",
+  "subtitle": "Recruit, hire, and retain top blue-collar talent with smart job postings, applicant ranking, automated text messaging...",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606506292/icons/teamengine-io.png",
+  "website": "https://www.teamengine.io/"
+}

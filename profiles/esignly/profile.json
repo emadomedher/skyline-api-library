@@ -1,0 +1,13 @@
+{
+  "id": "esignly",
+  "title": "Esignly",
+  "subtitle": " Get 100 % digital accuracy with esignly. A popular “free online electronic signature” that lets your e signature go ...",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644889731/icons/esignly.jpg",
+  "website": "https://www.esignly.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "brainsfirst",
+  "title": "BrainsFirst",
+  "subtitle": "Matching van talent o.b.v. breinfuncties. Upgrade jouw preselectie met onze brain-based assessment games. Sneller, vo...",
+  "tags": [
+    "skills-assessment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990958/icons/brainsfirst.jpg",
+  "website": "https://www.brainsfirst.com/"
+}

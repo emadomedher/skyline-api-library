@@ -1,0 +1,13 @@
+{
+  "id": "saml-2",
+  "title": "SAML 2.0",
+  "subtitle": "SAML 2.0 is an XML-based protocol that uses security tokens containing assertions to pass information about a princip...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599421350/icons/saml-2.gif",
+  "website": "https://wiki.oasis-open.org/security/FrontPage"
+}

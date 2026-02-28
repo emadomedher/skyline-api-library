@@ -1,0 +1,13 @@
+{
+  "id": "meetrecord",
+  "title": "MeetRecord",
+  "subtitle": "Conversational intelligence and Sales Coaching tool. Get insights from Sales and CS calls to accelerate sales coachin...",
+  "tags": [
+    "conversation-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676570036/icons/meetrecord.jpg",
+  "website": "https://www.meetrecord.com/"
+}

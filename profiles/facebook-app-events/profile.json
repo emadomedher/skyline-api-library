@@ -1,0 +1,12 @@
+{
+  "id": "facebook-app-events",
+  "title": "Facebook App Events",
+  "subtitle": "Facebook App Events API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439180/catalog/facebook-app-events/icon128x128.svg"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "leadquizzes",
+  "title": "LeadQuizzes",
+  "subtitle": "LeadQuizzes is a lead generation software. Use quizzes to capture qualified leads, gain customer insights and optimiz...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305287/catalog/leadquizzes/icon128x128.png",
+  "website": "https://leadquizzes.com"
+}

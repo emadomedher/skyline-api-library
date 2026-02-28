@@ -1,0 +1,13 @@
+{
+  "id": "rebanknow",
+  "title": "Rebank",
+  "subtitle": "Automate banking tasks, across all of your accounts so you can focus on the work that matters most.",
+  "tags": [
+    "business-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576974666/catalog/rebanknow/icon128x128.png",
+  "website": "https://rebanknow.com/"
+}

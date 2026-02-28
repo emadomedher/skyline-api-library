@@ -1,0 +1,16 @@
+{
+  "id": "ibotta",
+  "title": "Ibotta",
+  "subtitle": "Get cash back. Ibotta pays you real money on your everyday purchases. Download the free app to receive offers and ear...",
+  "tags": [
+    "cash-back",
+    "retail",
+    "mobile"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581089651/catalog/ibotta/icon128x128.jpg",
+  "website": "https://www.ibotta.com/",
+  "docsUrl": "https://ibotta.com/docs/terms"
+}

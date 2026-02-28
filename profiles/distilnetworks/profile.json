@@ -1,0 +1,13 @@
+{
+  "id": "distilnetworks",
+  "title": "Distilnetworks",
+  "subtitle": "Protect your website against web scraping, bot traffic, competitive data mining, form spam & click fraud with Distil ...",
+  "tags": [
+    "bot-mitigation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570907116/catalog/distilnetworks/icon128x128.jpg",
+  "website": "https://www.distilnetworks.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "remarkety",
+  "title": "Remarkety",
+  "subtitle": "Remarkety is an email marketing automation tool built only for eCommerce!\nIncrease loyalty and LTV with data-driven, ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305860/catalog/remarkety/icon128x128.png",
+  "website": "https://remarkety.com"
+}

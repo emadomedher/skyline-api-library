@@ -1,0 +1,13 @@
+{
+  "id": "veeva",
+  "title": "Veeva",
+  "subtitle": "Veeva Systems - Cloud-Based Business Solutions for the Global Life Sciences Industry",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946405/catalog/veeva/icon128x128.jpg",
+  "website": "https://veeva.com"
+}

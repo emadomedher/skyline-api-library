@@ -1,0 +1,15 @@
+{
+  "id": "fedloan-servicing",
+  "title": "FedLoan Servicing",
+  "subtitle": "FedLoan Servicing API integration",
+  "tags": [
+    "student-loan-providers",
+    "financial-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619903003/icons/fedloan-servicing.jpg",
+  "website": "https://myfedloan.org/",
+  "docsUrl": "https://accountaccess.myfedloan.org/static/global/1.0/docs/verifypdf.pdf"
+}

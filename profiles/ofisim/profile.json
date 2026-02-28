@@ -1,0 +1,13 @@
+{
+  "id": "ofisim",
+  "title": "Ofisim",
+  "subtitle": "Uygulamanızı seçin, 15 gün ücretsiz deneme hesabınızı hemen kullanmaya başlayın! Ofisim CRM (Müşteri İlişkileri) ve İ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721318/catalog/ofisim/icon128x128.jpg",
+  "website": "https://ofisim.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "objection-co",
+  "title": "Objection Co",
+  "subtitle": "Objection Co uses machine learning to automatically detect and dispute fake reviews. Remove Reviews from google, trip...",
+  "tags": [
+    "reputation-management",
+    "community-and-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738452/catalog/objection-co/icon128x128.png",
+  "website": "https://objection.co/"
+}

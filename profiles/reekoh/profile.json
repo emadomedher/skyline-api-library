@@ -1,0 +1,14 @@
+{
+  "id": "reekoh",
+  "title": "Reekoh",
+  "subtitle": "Reekoh API integration",
+  "tags": [
+    "iot",
+    "integration-platforms"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581196300/catalog/reekoh/icon128x128.jpg",
+  "website": "https://reekoh.com/"
+}

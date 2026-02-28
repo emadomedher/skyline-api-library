@@ -1,0 +1,12 @@
+{
+  "id": "itm-platform",
+  "title": "ITM Platform",
+  "subtitle": "ITM Platform is a project, program, and portfolio management solution with no onboarding hassle.",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305203/catalog/itm-platform/icon128x128.png"
+}

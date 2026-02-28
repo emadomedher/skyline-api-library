@@ -1,0 +1,15 @@
+{
+  "id": "figside",
+  "title": "Figside",
+  "subtitle": " Ship Websites with Figma",
+  "tags": [
+    "websites",
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614070632/icons/figside.jpg",
+  "website": "https://figside.com/",
+  "docsUrl": "https://figside.com/docs"
+}

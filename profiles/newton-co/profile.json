@@ -1,0 +1,14 @@
+{
+  "id": "newton-co",
+  "title": "Newton",
+  "subtitle": "Buy and sell Bitcoin, Ethereum and more. No deposit or withdrawal fees, Canada's best prices.",
+  "tags": [
+    "crypto-trading"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615675218/icons/newton-co.jpg",
+  "website": "https://www.newton.co/",
+  "docsUrl": "https://web.newton.co/api"
+}

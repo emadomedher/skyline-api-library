@@ -1,0 +1,13 @@
+{
+  "id": "refurl-io",
+  "title": "Refurl",
+  "subtitle": "Refurl is an Invisible Customer Referral platform that allows you to automate an entire customized customer referral ...",
+  "tags": [
+    "customer-referral"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680207385/icons/refurl-io.png",
+  "website": "https://www.refurl.io/"
+}

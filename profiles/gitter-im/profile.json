@@ -1,0 +1,16 @@
+{
+  "id": "gitter-im",
+  "title": "Gitter",
+  "subtitle": "Where developers come to talk.",
+  "tags": [
+    "team-messaging",
+    "developer-tools"
+  ],
+  "category": "Communication",
+  "specType": "asyncapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594375623/icons/gitter-im.png",
+  "specUrl": "https://raw.githubusercontent.com/asyncapi/spec/master/examples/1.2.0/gitter-streaming.yml",
+  "website": "https://gitter.im/",
+  "docsUrl": "https://developer.gitter.im/docs/welcome"
+}

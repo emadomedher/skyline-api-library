@@ -1,0 +1,13 @@
+{
+  "id": "cool-tabs",
+  "title": "Cool Tabs",
+  "subtitle": "Cool Tabs",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719603/catalog/cool-tabs/icon128x128.jpg",
+  "website": "https://cool-tabs.com"
+}

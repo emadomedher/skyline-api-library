@@ -1,0 +1,13 @@
+{
+  "id": "kitesrm",
+  "title": "KITE",
+  "subtitle": "A Smarter Way to Manage and Navigate the Startup Ecosystem",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595194337/icons/kitesrm.jpg",
+  "website": "https://kitesrm.com"
+}

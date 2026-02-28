@@ -1,0 +1,13 @@
+{
+  "id": "unobank-asia",
+  "title": "UnoBank",
+  "subtitle": "UNO and UNObank are brand names of DigiBankASIA, Southeast Asia’s first full-spectrum digital bank DigiBankASIA’s mis...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606355125/icons/unobank-asia.jpg",
+  "website": "https://unobank.asia/"
+}

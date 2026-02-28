@@ -1,0 +1,13 @@
+{
+  "id": "cult-fit",
+  "title": "cure.fit",
+  "subtitle": "Visit Cult.fit and Learn Fitness Workouts & Meditation Online, Join our Gym Centers near you, Get medical advice and ...",
+  "tags": [
+    "fitness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663459297/icons/cult-fit.jpg",
+  "website": "https://www.cult.fit/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "stocktwits",
+  "title": "StockTwits",
+  "subtitle": "StockTwits is a financial communications platform for the investing community. You can easily learn from other stock ...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306190/catalog/stocktwits/icon128x128.png"
+}

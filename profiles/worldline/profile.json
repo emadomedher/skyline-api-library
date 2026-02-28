@@ -1,0 +1,14 @@
+{
+  "id": "worldline",
+  "title": "Worldline",
+  "subtitle": "We offer payment solutions for physical and online businesses, secured payment transaction processing for banks, and ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585395193/catalog/worldline/icon128x128.png",
+  "website": "https://worldline.com/",
+  "docsUrl": "https://developer.worldline.com/en/home.html"
+}

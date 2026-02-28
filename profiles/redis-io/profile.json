@@ -1,0 +1,14 @@
+{
+  "id": "redis-io",
+  "title": "Redis",
+  "subtitle": "Redis API integration",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581595351/catalog/redis-io/icon128x128.png",
+  "website": "https://redis.io/",
+  "docsUrl": "https://redis.io/documentation"
+}

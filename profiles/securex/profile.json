@@ -1,0 +1,14 @@
+{
+  "id": "securex",
+  "title": "Securex",
+  "subtitle": "Securex API integration",
+  "tags": [
+    "hr-service-providers",
+    "payroll-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600430623/icons/securex.jpg",
+  "website": "https://www.securex.be/"
+}

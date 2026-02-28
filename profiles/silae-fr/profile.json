@@ -1,0 +1,14 @@
+{
+  "id": "silae-fr",
+  "title": "Silae",
+  "subtitle": "Simplifiez votre gestion RH, Silae répond à l'ensemble des attentes RH : gestion de la paie, gestion des RH et coffre...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676570030/icons/silae-fr.jpg",
+  "website": "https://www.silae.fr/",
+  "docsUrl": "https://silae-api.document360.io"
+}

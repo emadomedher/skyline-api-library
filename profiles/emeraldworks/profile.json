@@ -1,0 +1,13 @@
+{
+  "id": "emeraldworks",
+  "title": "Emerald Works",
+  "subtitle": "Evidence based learning that works. See our end-to-end performance solutions that are driven by insight, engage, insp...",
+  "tags": [
+    "e-learning"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618435377/icons/emeraldworks.jpg",
+  "website": "https://emeraldworks.com/"
+}

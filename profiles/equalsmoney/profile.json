@@ -1,0 +1,13 @@
+{
+  "id": "equalsmoney",
+  "title": "Equals",
+  "subtitle": "Equals is the future of FairFX. We’re here to help you get more for your money, from travel money to business expense...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741014/icons/equalsmoney.png",
+  "website": "https://equalsmoney.com/"
+}

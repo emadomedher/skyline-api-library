@@ -1,0 +1,16 @@
+{
+  "id": "splunk",
+  "title": "Splunk",
+  "subtitle": "Drive outcomes across Security, IT and DevOps with the data platform built for the cloud.",
+  "tags": [
+    "customer-intelligence-and-data-science",
+    "logging",
+    "observability"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722279/catalog/splunk/icon128x128.png",
+  "website": "https://splunk.com",
+  "docsUrl": "https://dev.splunk.com/."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "monstock-net",
+  "title": "Monstock",
+  "subtitle": "Révolutionnez votre gestion des stocks et des flux pour gagner en productivité.",
+  "tags": [
+    "inventory-management",
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589208740/catalog/monstock-net/icon128x128.jpg",
+  "website": "https://monstock.net/"
+}

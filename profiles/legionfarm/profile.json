@@ -1,0 +1,13 @@
+{
+  "id": "legionfarm",
+  "title": "Legionfarm",
+  "subtitle": "We provide cheap and reliable coaching service from PRO players! Improve your experience in D2, Apex Legends, CoD MW,...",
+  "tags": [
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585397057/catalog/legionfarm/icon128x128.jpg",
+  "website": "https://legionfarm.com/"
+}

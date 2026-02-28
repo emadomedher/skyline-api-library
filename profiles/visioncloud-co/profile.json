@@ -1,0 +1,13 @@
+{
+  "id": "visioncloud-co",
+  "title": "visioncloud",
+  "subtitle": "visioncloud API integration",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643056599/icons/visioncloud-co.png",
+  "website": "https://www.visioncloud.co/"
+}

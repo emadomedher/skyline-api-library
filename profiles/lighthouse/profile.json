@@ -1,0 +1,12 @@
+{
+  "id": "lighthouse",
+  "title": "Lighthouse",
+  "subtitle": "Lighthouse is a beautifully simple issue tracker changing the way thousands manage their issues.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305305/catalog/lighthouse/icon128x128.png"
+}

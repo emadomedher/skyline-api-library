@@ -1,0 +1,13 @@
+{
+  "id": "contract-express",
+  "title": "Contract Express",
+  "subtitle": "Contract Express is an intelligent document automation system that creates templates and produces documents using you...",
+  "tags": [
+    "document-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623092125/icons/contract-express.jpg",
+  "website": "https://mena.thomsonreuters.com/en/products-services/legal/contract-express.html"
+}

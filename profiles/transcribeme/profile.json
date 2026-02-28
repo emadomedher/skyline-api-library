@@ -1,0 +1,14 @@
+{
+  "id": "transcribeme",
+  "title": "TranscribeMe",
+  "subtitle": "Fast, affordable, and high accuracy audio and video transcription services. Get your transcript delivered with our ea...",
+  "tags": [
+    "transcription"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602972330/icons/transcribeme.png",
+  "website": "https://www.transcribeme.com/",
+  "docsUrl": "https://rest-api.transcribeme.com/help"
+}

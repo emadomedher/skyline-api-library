@@ -1,0 +1,13 @@
+{
+  "id": "churnkit",
+  "title": "Churnkit",
+  "subtitle": "ChurnKit finds out who removed your service and is no longer engaged so you can find out why, and win them back.",
+  "tags": [
+    "churn-protection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562575755/catalog/churnkit/icon128x128.png",
+  "website": "https://churnkit.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "visual-antidote",
+  "title": "Visual Antidote",
+  "subtitle": "Visual Antidote API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438330/catalog/visual-antidote/icon128x128.png",
+  "website": "https://visualantidote.com"
+}

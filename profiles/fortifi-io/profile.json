@@ -1,0 +1,13 @@
+{
+  "id": "fortifi-io",
+  "title": "Fortifi",
+  "subtitle": "Fortifi is a complete end-to-end cloud based business platform. Making billing, marketing and support seamless, scala...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573826638/catalog/fortifi-io/icon128x128.jpg",
+  "website": "https://fortifi.io"
+}

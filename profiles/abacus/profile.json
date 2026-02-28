@@ -1,0 +1,13 @@
+{
+  "id": "abacus",
+  "title": "Abacus",
+  "subtitle": "Abacus real time expense reporting software is the easiest way to reimburse your team, reconcile corporate cards, and...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054026/catalog/abacus/icon128x128.png",
+  "website": "https://www.abacus.com"
+}

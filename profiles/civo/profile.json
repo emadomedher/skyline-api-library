@@ -1,0 +1,14 @@
+{
+  "id": "civo",
+  "title": "Civo Cloud",
+  "subtitle": "Feature-packed, managed Kubernetes built for speed and simplicity, with K3s under the hood. We make Kubernetes work f...",
+  "tags": [
+    "kubernetes-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616567465/icons/civo.jpg",
+  "website": "https://www.civo.com/",
+  "docsUrl": "https://www.civo.com/developers"
+}

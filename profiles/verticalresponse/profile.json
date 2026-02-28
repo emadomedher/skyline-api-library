@@ -1,0 +1,13 @@
+{
+  "id": "verticalresponse",
+  "title": "VerticalResponse",
+  "subtitle": "VerticalResponse helps you connect with your customers and grow your business through email and social media marketin...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306428/catalog/verticalresponse/icon128x128.png",
+  "website": "https://www.verticalresponse.com/"
+}

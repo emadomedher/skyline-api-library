@@ -1,0 +1,14 @@
+{
+  "id": "dnsimple",
+  "title": "DNSimple",
+  "subtitle": "DNSimple provides simple and secure domain name services that make your life easier with a carefully crafted web inte...",
+  "tags": [
+    "dns"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604206060/icons/dnsimple.jpg",
+  "website": "https://dnsimple.com/",
+  "docsUrl": "https://dnsimple.com/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tymebank-za",
+  "title": "TymeBank",
+  "subtitle": "TymeBank is the first bank in South Africa to receive a full banking license in almost 20 years and has been signing ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635629267/icons/tymebank-za.jpg",
+  "website": "https://www.tymebank.co.za/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "appmakr",
+  "title": "AppMakr",
+  "subtitle": "Build your own apps for iPhone and Android with our drag and drop mobile app creator. Our video guides help you publi...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947273/catalog/appmakr/icon128x128.png",
+  "website": "https://appmakr.com"
+}

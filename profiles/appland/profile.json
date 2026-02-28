@@ -1,0 +1,14 @@
+{
+  "id": "appland",
+  "title": "AppLand",
+  "subtitle": "AppLand API integration",
+  "tags": [
+    "observability"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614898490/icons/appland.png",
+  "website": "https://www.appland.com/",
+  "docsUrl": "https://github.com/applandorg/community/blob/master/docs/code%20of%20conduct%20for%20contributors.pdf"
+}

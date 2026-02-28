@@ -1,0 +1,14 @@
+{
+  "id": "privacyradius",
+  "title": "Privacy Radius",
+  "subtitle": "Compliance Platform for Privacy-First Companies. Privacy Radius helps to comply with Privacy Regulations and EU GDPR....",
+  "tags": [
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576036919/catalog/privacyradius/icon128x128.jpg",
+  "website": "https://www.privacyradius.com/"
+}

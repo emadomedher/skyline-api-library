@@ -1,0 +1,14 @@
+{
+  "id": "wealthfront",
+  "title": "Wealthfront",
+  "subtitle": "Wealthfront is an all-in-one solution that helps you earn more interest on your cash, get advice on how to manage you...",
+  "tags": [
+    "wealth-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566940659/catalog/wealthfront/icon128x128.jpg",
+  "website": "https://www.wealthfront.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "getsorted-de",
+  "title": "Sorted",
+  "subtitle": "Join the thousands of freelancers who take care of their taxes online, guided and stress free",
+  "tags": [
+    "invoicing",
+    "accounting"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619664589/icons/getsorted-de.jpg",
+  "website": "https://getsorted.de/"
+}

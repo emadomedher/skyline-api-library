@@ -1,0 +1,14 @@
+{
+  "id": "invoxy",
+  "title": "Invoxy",
+  "subtitle": "Billing and timesheet software for staffing agencies. Invoxy is everything you need for managing temporary workers, a...",
+  "tags": [
+    "placement-management-software",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564752150/catalog/invoxy/icon128x128.jpg",
+  "website": "https://invoxy.com"
+}

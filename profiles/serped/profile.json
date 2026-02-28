@@ -1,0 +1,13 @@
+{
+  "id": "serped",
+  "title": "SERPed",
+  "subtitle": "SEPRED is an advanced SEO tools suite with 42 powerful tools for keyword research, rank tracking, backlinks, site man...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546481212/catalog/serped/icon128x128.png",
+  "website": "https://www.serped.net/"
+}

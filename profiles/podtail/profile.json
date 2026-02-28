@@ -1,0 +1,13 @@
+{
+  "id": "podtail",
+  "title": "Podtail",
+  "subtitle": "Podtail lets you listen to the latest episodes from your favorite podcasts without an app, directly in your browser o...",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600735674/icons/podtail.jpg",
+  "website": "https://podtail.com/"
+}

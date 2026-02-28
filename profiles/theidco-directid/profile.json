@@ -1,0 +1,14 @@
+{
+  "id": "theidco-directid",
+  "title": "DirectID",
+  "subtitle": "DirectID is a truly Global FinTech. Connecting you to your customers through Bank Data we are revolutionising and red...",
+  "tags": [
+    "credit-scores",
+    "credit-risk"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625190936/icons/theidco-directid.jpg",
+  "website": "https://directid.theidco.com/"
+}

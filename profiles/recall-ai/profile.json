@@ -1,0 +1,14 @@
+{
+  "id": "recall-ai",
+  "title": "Recall.ai",
+  "subtitle": "Recall.ai provides a single API for meeting bots on every platform like Zoom, Google Meet, Microsoft Teams and more.",
+  "tags": [
+    "virtual-meeting-data",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672364502/icons/recall-ai.png",
+  "website": "https://www.recall.ai/"
+}

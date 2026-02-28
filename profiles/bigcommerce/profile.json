@@ -1,0 +1,14 @@
+{
+  "id": "bigcommerce",
+  "title": "BigCommerce",
+  "subtitle": "Create differentiated commerce experiences on the industry’s most versatile enterprise ecommerce solution. Learn more...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055822/catalog/bigcommerce/icon128x128.png",
+  "website": "https://www.bigcommerce.com/",
+  "docsUrl": "https://developer.bigcommerce.com"
+}

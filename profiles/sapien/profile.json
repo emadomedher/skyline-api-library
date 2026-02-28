@@ -1,0 +1,13 @@
+{
+  "id": "sapien",
+  "title": "Sapien",
+  "subtitle": "Sapien API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437133/catalog/sapien/icon128x128.png",
+  "website": "https://sapien.network"
+}

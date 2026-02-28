@@ -1,0 +1,15 @@
+{
+  "id": "wisetime",
+  "title": "WiseTime",
+  "subtitle": "Private autonomous time capture that increases your productivity",
+  "tags": [
+    "time-tracking",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573233185/catalog/wisetime/icon128x128.jpg",
+  "website": "https://wisetime.com/",
+  "docsUrl": "https://wisetime.com/docs/connect"
+}

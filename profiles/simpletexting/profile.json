@@ -1,0 +1,13 @@
+{
+  "id": "simpletexting",
+  "title": "SimpleTexting",
+  "subtitle": "SimpleTexting is a text messaging platform that helps you reach your customers using one of the most effective channe...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284608/catalog/simpletexting/icon128x128.png",
+  "website": "https://simpletexting.com"
+}

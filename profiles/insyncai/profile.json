@@ -1,0 +1,13 @@
+{
+  "id": "insyncai",
+  "title": "Insyncai",
+  "subtitle": "Insyncai provides sales & support automation software for eCommerce retail and online lending companies. Insync AI ch...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644889717/icons/insyncai.jpg",
+  "website": "https://www.insyncai.com/"
+}

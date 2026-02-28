@@ -1,0 +1,13 @@
+{
+  "id": "kingsoftware-nl",
+  "title": "KING Software",
+  "subtitle": "KING Software is de nieuwe handelsnaam voor online boekhoudpakket MUIS Software, accountancy platform ctrl en ERP-opl...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599819548/icons/kingsoftware-nl.png",
+  "website": "https://kingsoftware.nl/"
+}

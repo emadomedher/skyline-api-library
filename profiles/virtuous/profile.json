@@ -1,0 +1,13 @@
+{
+  "id": "virtuous",
+  "title": "Virtuous",
+  "subtitle": "Virtuous is the Nonproift CRM, Automation and Giving software helping nonprofits raise more money and create more good",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946387/catalog/virtuous/icon128x128.jpg",
+  "website": "https://virtuouscrm.com"
+}

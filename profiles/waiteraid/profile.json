@@ -1,0 +1,13 @@
+{
+  "id": "waiteraid",
+  "title": "WaiterAid",
+  "subtitle": "WaiterAid API integration",
+  "tags": [
+    "restaurant-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637867739/icons/waiteraid.png",
+  "website": "https://beta.waiteraid.com/?lang=en"
+}

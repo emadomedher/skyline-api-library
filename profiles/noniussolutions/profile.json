@@ -1,0 +1,13 @@
+{
+  "id": "noniussolutions",
+  "title": "Nonius",
+  "subtitle": "Nonius provides hospitality technology fully integrated with hotel's management systems. From Chromecast, TV, Wi-Fi, ...",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638474657/icons/noniussolutions.jpg",
+  "website": "https://noniussolutions.com/"
+}

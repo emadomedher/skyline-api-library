@@ -1,0 +1,13 @@
+{
+  "id": "wachete",
+  "title": "Wachete",
+  "subtitle": "Select web page or part of web page and we will collect text from it for you.\nBased on rules you define we will send ...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306462/catalog/wachete/icon128x128.png",
+  "website": "https://www.wachete.com/"
+}

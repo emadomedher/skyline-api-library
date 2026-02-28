@@ -1,0 +1,13 @@
+{
+  "id": "silktide-insites",
+  "title": "Silktide Insites",
+  "subtitle": "Silktide gives you everything you need to make your website better, with automated testing for accessibility, quality...",
+  "tags": [
+    "mobile-and-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722082/catalog/silktide-insites/icon128x128.jpg",
+  "website": "https://silktide.com"
+}

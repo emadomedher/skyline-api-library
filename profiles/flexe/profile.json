@@ -1,0 +1,15 @@
+{
+  "id": "flexe",
+  "title": "FLEXE",
+  "subtitle": "From startup to scale, FLEXE provides on-demand warehousing, fulfillment, and logistics services to the world’s most ...",
+  "tags": [
+    "shipping",
+    "warehousing",
+    "fulfillment"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586354034/catalog/flexe/icon128x128.png",
+  "website": "https://www.flexe.com/"
+}

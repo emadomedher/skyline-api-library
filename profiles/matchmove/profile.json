@@ -1,0 +1,14 @@
+{
+  "id": "matchmove",
+  "title": "MatchMove",
+  "subtitle": "MatchMove is one of the world's fastest growing and most disruptive fintech companies in digital payments and next-ge...",
+  "tags": [
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653552542/icons/matchmove.jpg",
+  "website": "https://matchmove.com/",
+  "docsUrl": "https://matchmove.com/developers"
+}

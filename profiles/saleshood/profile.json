@@ -1,0 +1,14 @@
+{
+  "id": "saleshood",
+  "title": "Saleshood",
+  "subtitle": "Improve Sales Enablement Outcomes by Getting All Reps Selling Like Your Top Reps. Onboarding, Sales Training, Coachin...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827477/catalog/saleshood/icon128x128.jpg",
+  "website": "https://saleshood.com",
+  "docsUrl": "https://support.saleshood.com/knowledge-base/what-are-saleshood-reporting-apis-web-rest-api-101/"
+}

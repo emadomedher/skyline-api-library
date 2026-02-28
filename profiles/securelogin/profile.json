@@ -1,0 +1,13 @@
+{
+  "id": "securelogin",
+  "title": "SecureLogin",
+  "subtitle": "Veilig inloggen voor administratiekantoor & accountants voor Single Sign-on tot ExactOnline, Twinfield, Basecone, NMB...",
+  "tags": [
+    "portal"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256973/catalog/securelogin/icon128x128.jpg",
+  "website": "https://securelogin.nu/"
+}

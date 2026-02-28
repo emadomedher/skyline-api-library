@@ -1,0 +1,13 @@
+{
+  "id": "paid",
+  "title": "#Paid",
+  "subtitle": "Trusted content & media produced by Creators—designed to drive critical business objectives.",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946723/catalog/paid/icon128x128.png",
+  "website": "https://hashtagpaid.com"
+}

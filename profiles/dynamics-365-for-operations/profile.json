@@ -1,0 +1,12 @@
+{
+  "id": "dynamics-365-for-operations",
+  "title": "Dynamics 365 for Operations",
+  "subtitle": "Microsoft Dynamics 365 for Operations connector provides access to data entities.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264782/catalog/dynamics-365-for-operations/icon128x128.png"
+}

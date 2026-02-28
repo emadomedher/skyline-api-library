@@ -1,0 +1,13 @@
+{
+  "id": "heavenhr",
+  "title": "HeavenHR",
+  "subtitle": "Recruiting, Personalverwaltung und Lohnabrechnung einfach managen mit HeavenHR. Lehnen Sie sich zurück, indem Sie adm...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664246974/icons/heavenhr.jpg",
+  "website": "https://www.heavenhr.com/"
+}

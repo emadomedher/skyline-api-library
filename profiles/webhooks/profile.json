@@ -1,0 +1,13 @@
+{
+  "id": "webhooks",
+  "title": "Webhooks",
+  "subtitle": "Webhooks are automated messages sent from apps when something happens. A webhook in web development is a method of au...",
+  "tags": [
+    "developer-tools",
+    "api"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439398/catalog/webhooks/icon128x128.svg"
+}

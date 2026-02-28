@@ -1,0 +1,14 @@
+{
+  "id": "wp-fusion",
+  "title": "WP Fusion",
+  "subtitle": "WP Fusion, a product that would automatically add people's signup information from WordPress websites into your CRM. ...",
+  "tags": [
+    "wordpress",
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1534523118/catalog/wp-fusion/icon128x128.png",
+  "website": "https://wpfusionplugin.com/"
+}

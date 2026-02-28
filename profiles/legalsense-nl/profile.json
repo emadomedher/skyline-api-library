@@ -1,0 +1,14 @@
+{
+  "id": "legalsense-nl",
+  "title": "Legalsense",
+  "subtitle": "Legalsense API integration",
+  "tags": [
+    "time-tracking",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583231612/catalog/legalsense-nl/icon128x128.jpg",
+  "website": "https://legalsense.nl/"
+}

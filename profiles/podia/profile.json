@@ -1,0 +1,13 @@
+{
+  "id": "podia",
+  "title": "Podia",
+  "subtitle": "Podia lets anyone sell memberships, online courses and digital downloads online.",
+  "tags": [
+    "education",
+    "e-commerce"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305713/catalog/podia/icon128x128.png"
+}

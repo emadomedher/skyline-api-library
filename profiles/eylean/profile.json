@@ -1,0 +1,13 @@
+{
+  "id": "eylean",
+  "title": "Eylean",
+  "subtitle": "Simple task management tool",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947024/catalog/eylean/icon128x128.png",
+  "website": "https://eylean.com"
+}

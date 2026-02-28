@@ -1,0 +1,13 @@
+{
+  "id": "revo-works",
+  "title": "Revo Systems S.L.",
+  "subtitle": "Es una solución global que cuenta\ncon un conjunto de herramientas especializadas\npara el gestión del negocio",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595259066/icons/revo-works.jpg",
+  "website": "https://revo.works/en"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sonect-net",
+  "title": "SONECT",
+  "subtitle": "SONECT is a location-based matchmaking platform that connects those who want to withdraw cash with those who want to ...",
+  "tags": [
+    "cash-withdrawal"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604372323/icons/sonect-net.jpg",
+  "website": "https://sonect.net/"
+}

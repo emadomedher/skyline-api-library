@@ -1,0 +1,14 @@
+{
+  "id": "ultimatesoftware",
+  "title": "Ultimate Software",
+  "subtitle": "Ultimate Software specializes in HR software solutions and HR payroll to help you improve your company's human capit...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582898719/catalog/ultimatesoftware/icon128x128.png",
+  "website": "https://www.ultimatesoftware.com/",
+  "docsUrl": "https://go.ultimatesoftware.com/preference-center-entry"
+}

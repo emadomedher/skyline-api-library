@@ -1,0 +1,13 @@
+{
+  "id": "salesoptimize",
+  "title": "SalesOptimize",
+  "subtitle": "eCommerce data science that can reveal your entire market. Find highly qualified sales leads on our SaaS platform wit...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827483/catalog/salesoptimize/icon128x128.jpg",
+  "website": "https://salesoptimize.com"
+}

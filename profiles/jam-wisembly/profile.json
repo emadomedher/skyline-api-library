@@ -1,0 +1,13 @@
+{
+  "id": "jam-wisembly",
+  "title": "Wisembly Jam",
+  "subtitle": "Wisembly Jam is a meeting management platform : all your meetings in one place, note taking, automatic summaries, tas...",
+  "tags": [
+    "team-collaboration",
+    "scheduling"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305206/catalog/jam-wisembly/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "workbuster",
+  "title": "Workbuster",
+  "subtitle": "Strengthen your employer brand, attract and engage the best candidates, and improve the quality of your selection pro...",
+  "tags": [
+    "talent-acquisition"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794243/icons/workbuster.jpg",
+  "website": "https://workbuster.com/en"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "passbook-app",
+  "title": "Passbook",
+  "subtitle": "Passbook is banking for immigrants. No long lines. No unfair fees. No SSN required if you don’t have one. Launching 2...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580818419/catalog/passbook-app/icon128x128.png",
+  "website": "https://www.passbook.app/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "brightsign-biz",
+  "title": "BrightSign",
+  "subtitle": "BrightSign API integration",
+  "tags": [
+    "digital-signage"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634051182/icons/brightsign-biz.png",
+  "website": "https://www.brightsign.biz/"
+}

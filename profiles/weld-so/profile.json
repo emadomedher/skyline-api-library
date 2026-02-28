@@ -1,0 +1,13 @@
+{
+  "id": "weld-so",
+  "title": "WeldHQ",
+  "subtitle": "Weld is a data activation platform that allows you to easily sync your data warehouse insights to your sales, marketi...",
+  "tags": [
+    "customer-data-platforms"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623961896/icons/weld-so.jpg",
+  "website": "https://weld.so/"
+}

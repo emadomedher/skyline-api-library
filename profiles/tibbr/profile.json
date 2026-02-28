@@ -1,0 +1,13 @@
+{
+  "id": "tibbr",
+  "title": "Tibbr",
+  "subtitle": "tibbr is the social network for work. We are a leading platform for enterprise-wide social networking to help connect...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946469/catalog/tibbr/icon128x128.png",
+  "website": "https://tibbr.com"
+}

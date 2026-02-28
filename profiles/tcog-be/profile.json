@@ -1,0 +1,13 @@
+{
+  "id": "tcog-be",
+  "title": "TCOG",
+  "subtitle": "TCOG biedt uw bedrijf de meest geschikte fashion, retail, hospitality en industry oplossingen. Bekijk onze website & ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567089245/catalog/tcog-be/icon128x128.jpg",
+  "website": "https://tcog.be"
+}

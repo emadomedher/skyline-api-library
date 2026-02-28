@@ -1,0 +1,14 @@
+{
+  "id": "peakon",
+  "title": "Peakon",
+  "subtitle": "Take the guesswork out of managing a great team. Peakon is the simple, scientific, and strategic way to maximise your...",
+  "tags": [
+    "employee-engagement-software",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576672947/catalog/peakon/icon128x128.jpg",
+  "website": "https://peakon.com/"
+}

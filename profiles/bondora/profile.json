@@ -1,0 +1,15 @@
+{
+  "id": "bondora",
+  "title": "Bondora",
+  "subtitle": "Find out why over 127,000 people have invested more than €374M with Bondora and begin in just a few clicks. Invest an...",
+  "tags": [
+    "business-lending",
+    "p-2-p-lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604960403/icons/bondora.jpg",
+  "website": "https://www.bondora.com/",
+  "docsUrl": "https://api.bondora.com/doc?v=1"
+}

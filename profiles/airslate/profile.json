@@ -1,0 +1,15 @@
+{
+  "id": "airslate",
+  "title": "airSlate",
+  "subtitle": "Automate any part of your business using a single, no code, easy to configure solution. Streamline your processes and...",
+  "tags": [
+    "document-process-automation",
+    "workflow-automation"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588376001/catalog/airslate/icon128x128.jpg",
+  "website": "https://www.airslate.com/",
+  "docsUrl": "https://blog.airslate.com/citizen-developers-automate-business-processes"
+}

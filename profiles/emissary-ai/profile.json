@@ -1,0 +1,13 @@
+{
+  "id": "emissary-ai",
+  "title": "EmissaryAI",
+  "subtitle": "Text recruiting software for recruiters, HR and staffing firms. Integrate texting into Workday, Success Factors, Tale...",
+  "tags": [
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584144660/catalog/emissary-ai/icon128x128.jpg",
+  "website": "https://www.emissary.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dolby",
+  "title": "Dolby Laboratories",
+  "subtitle": "Dolby creates audio, visual, and voice technologies for movies, TV, music, and gaming.  Experience it all in the imme...",
+  "tags": [
+    "audio-compression"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632592964/icons/dolby.jpg",
+  "website": "https://www.dolby.com/"
+}

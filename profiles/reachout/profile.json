@@ -1,0 +1,13 @@
+{
+  "id": "reachout",
+  "title": "ReachOut",
+  "subtitle": "ReachOut is the most affordable service management software for conducting inspections, managing work orders and easi...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721757/catalog/reachout/icon128x128.jpg",
+  "website": "https://reachoutsuite.com"
+}

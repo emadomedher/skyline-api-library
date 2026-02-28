@@ -1,0 +1,13 @@
+{
+  "id": "greenorbit",
+  "title": "GreenOrbit",
+  "subtitle": "Intranet Software That Equips Your People With Everything They Need, Built In.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720288/catalog/greenorbit/icon128x128.jpg",
+  "website": "https://greenorbit.com"
+}

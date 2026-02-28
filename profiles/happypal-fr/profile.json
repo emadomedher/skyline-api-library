@@ -1,0 +1,13 @@
+{
+  "id": "happypal-fr",
+  "title": "HappyPal",
+  "subtitle": "Offrez les meilleurs avantages à vos salariés ✔️+400 offres ✔️ Digitalisez vos subventions ✔️ Simplifiez votre gestio...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701486/icons/happypal-fr.png",
+  "website": "https://www.happypal.fr/"
+}

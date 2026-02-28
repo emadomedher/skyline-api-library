@@ -1,0 +1,13 @@
+{
+  "id": "weblium",
+  "title": "Weblium",
+  "subtitle": "Build your own website easy and fast for free! Weblium is the most advanced do-it-yourself AI website builder. Satisf...",
+  "tags": [
+    "website-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574669306/catalog/weblium/icon128x128.jpg",
+  "website": "https://weblium.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "expertfile",
+  "title": "ExpertFile",
+  "subtitle": "Get started with Expertise Marketing. From potential clients to media outlets, diverse audiences are actively looking...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947029/catalog/expertfile/icon128x128.jpg",
+  "website": "https://expertfile.com"
+}

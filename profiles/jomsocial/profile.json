@@ -1,0 +1,13 @@
+{
+  "id": "jomsocial",
+  "title": "JomSocial",
+  "subtitle": "Open Source Community Software | Social Networking with Joomla",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720612/catalog/jomsocial/icon128x128.png",
+  "website": "https://jomsocial.com"
+}

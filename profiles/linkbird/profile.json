@@ -1,0 +1,13 @@
+{
+  "id": "linkbird",
+  "title": "Linkbird",
+  "subtitle": "Unsere Content Marketing Software vereint alle Arbeitsschritte von Strategie bis Analyse und hilft Unternehmen dabei,...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826820/catalog/linkbird/icon128x128.png",
+  "website": "https://linkbird.com"
+}

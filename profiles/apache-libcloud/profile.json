@@ -1,0 +1,14 @@
+{
+  "id": "apache-libcloud",
+  "title": "Apache Libcloud",
+  "subtitle": "Python library for interacting with many of the popular cloud service providers using a unified API.",
+  "tags": [
+    "cloud-service-providers-api",
+    "unified-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572827484/catalog/apache-libcloud/icon128x128.png",
+  "website": "https://libcloud.apache.org/"
+}

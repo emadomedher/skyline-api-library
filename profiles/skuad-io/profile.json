@@ -1,0 +1,13 @@
+{
+  "id": "skuad-io",
+  "title": "Skuad",
+  "subtitle": "Skuad is a Global HR platform that enables organizations to hire and onboard employees and contractors, manage payrol...",
+  "tags": [
+    "remote-payroll"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610219524/icons/skuad-io.png",
+  "website": "https://www.skuad.io/"
+}

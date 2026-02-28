@@ -1,0 +1,12 @@
+{
+  "id": "omnify",
+  "title": "Omnify",
+  "subtitle": "Omnify is a scheduling & business management platform which enables you to sell various services from a single platform.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305568/catalog/omnify/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dbs-digibank",
+  "title": "digibank by DBS",
+  "subtitle": "Live more, bank less with digibank by DBS India awarded as the Safest Bank in Asia. With digibank, you can check acco...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598784365/icons/dbs-digibank.png",
+  "website": "https://www.dbs.com/digibank"
+}

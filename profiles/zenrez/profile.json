@@ -1,0 +1,13 @@
+{
+  "id": "zenrez",
+  "title": "Zenrez",
+  "subtitle": "Do you want to drive new customers to your studio, and increase retention of your existing customers? Meet Zenrez: Sa...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946316/catalog/zenrez/icon128x128.jpg",
+  "website": "https://zenrez.com"
+}

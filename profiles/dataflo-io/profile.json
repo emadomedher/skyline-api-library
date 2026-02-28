@@ -1,0 +1,14 @@
+{
+  "id": "dataflo-io",
+  "title": "Dataflo",
+  "subtitle": "Export and visualize data from across your tech stack in a single dashboard. Unlock new insights across the functions...",
+  "tags": [
+    "okr",
+    "kpi-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471983/icons/dataflo-io.png",
+  "website": "https://www.dataflo.io/"
+}

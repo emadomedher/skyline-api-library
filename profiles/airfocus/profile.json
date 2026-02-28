@@ -1,0 +1,13 @@
+{
+  "id": "airfocus",
+  "title": "airfocus",
+  "subtitle": "Prioritization and roadmapping software for product managers, project managers, and marketing strategists. Integrates...",
+  "tags": [
+    "product-roadmap"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588773477/catalog/airfocus/icon128x128.jpg",
+  "website": "https://airfocus.com/"
+}

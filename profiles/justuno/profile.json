@@ -1,0 +1,13 @@
+{
+  "id": "justuno",
+  "title": "Justuno",
+  "subtitle": "Built for the professional marketer, our comprehensive suite of integrated marketing tools will upgrade the way you l...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720631/catalog/justuno/icon128x128.png",
+  "website": "https://justuno.com"
+}

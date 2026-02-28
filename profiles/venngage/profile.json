@@ -1,0 +1,13 @@
+{
+  "id": "venngage",
+  "title": "Venngage",
+  "subtitle": "Join over 1 million people creating their own professional graphics with our easy to use infographic maker. Sign up f...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946397/catalog/venngage/icon128x128.png",
+  "website": "https://venngage.com"
+}

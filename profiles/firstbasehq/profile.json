@@ -1,0 +1,13 @@
+{
+  "id": "firstbasehq",
+  "title": "Firstbase",
+  "subtitle": "Firstbase is the all-in-one provisioning platform that lets companies supply and manage all the physical equipment re...",
+  "tags": [
+    "remote-work"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601498255/icons/firstbasehq.jpg",
+  "website": "https://www.firstbasehq.com/"
+}

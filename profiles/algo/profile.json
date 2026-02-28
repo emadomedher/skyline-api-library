@@ -1,0 +1,13 @@
+{
+  "id": "algo",
+  "title": "Algo",
+  "subtitle": "Algo API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774776/catalog/algo/icon128x128.png",
+  "website": "https://algo.com"
+}

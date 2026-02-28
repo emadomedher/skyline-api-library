@@ -1,0 +1,14 @@
+{
+  "id": "beamery",
+  "title": "Beamery",
+  "subtitle": "The Talent Operating System built for enterprise recruiting teams to attract, engage, and retain the best talent",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624478046/icons/beamery.jpg",
+  "website": "https://beamery.com/",
+  "docsUrl": "https://beamery.docsend.com/view/3cs4vka"
+}

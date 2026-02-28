@@ -1,0 +1,13 @@
+{
+  "id": "tekmetric",
+  "title": "Tekmetric",
+  "subtitle": "Tekmectric auto repair shop management software provides digital vehicle inspections, estimates, repair orders, inven...",
+  "tags": [
+    "auto-repair-shop-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601567114/icons/tekmetric.jpg",
+  "website": "https://tekmetric.com/"
+}

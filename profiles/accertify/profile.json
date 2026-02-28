@@ -1,0 +1,13 @@
+{
+  "id": "accertify",
+  "title": "Accertify",
+  "subtitle": "We help companies prevent digital identity fraud and reduce financial fraud risk. Learn how our fraud and chargeback ...",
+  "tags": [
+    "fraud-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644983667/icons/accertify.png",
+  "website": "https://www.accertify.com/"
+}

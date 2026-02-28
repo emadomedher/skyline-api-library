@@ -1,0 +1,17 @@
+{
+  "id": "rfpio",
+  "title": "RFPIO",
+  "subtitle": "RFPIO provides RFP software that helps you improve the sales proposal process. Schedule a Demo to immediately reduce ...",
+  "tags": [
+    "rfp",
+    "response-management",
+    "security-questionnaire",
+    "compliance",
+    "sales-automation-enablement-and-intelligence"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827436/catalog/rfpio/icon128x128.jpg",
+  "website": "https://rfpio.com"
+}

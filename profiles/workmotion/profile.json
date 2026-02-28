@@ -1,0 +1,13 @@
+{
+  "id": "workmotion",
+  "title": "WorkMotion",
+  "subtitle": "WorkMotion offers Global HR Solutions to help companies navigate the New Ways of Working. Solutions fully compliant.",
+  "tags": [
+    "employee-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678357828/icons/workmotion.jpg",
+  "website": "https://workmotion.com/"
+}

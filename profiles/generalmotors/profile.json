@@ -1,0 +1,14 @@
+{
+  "id": "generalmotors",
+  "title": "General Motors",
+  "subtitle": "General Motors is home to Chevrolet, Buick, GMC & Cadillac. Learn about GM’s rich history and dedication to innovatio...",
+  "tags": [
+    "automotive",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611123675/icons/generalmotors.png",
+  "website": "https://www.gm.com/"
+}

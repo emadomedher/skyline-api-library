@@ -1,0 +1,14 @@
+{
+  "id": "omise-co",
+  "title": "Omise",
+  "subtitle": "Omise is a payment gateway for Thailand, Japan and Singapore; providing both online and offline payment solutions to ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574083999/catalog/omise-co/icon128x128.png",
+  "website": "https://www.omise.co/",
+  "docsUrl": "https://www.omise.co/en/docs/international"
+}

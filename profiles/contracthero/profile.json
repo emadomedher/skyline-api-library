@@ -1,0 +1,13 @@
+{
+  "id": "contracthero",
+  "title": "Contract Hero",
+  "subtitle": "Keep an eye on all your company's contracts with ContractHero ✅ Automatic reminder of deadlines ✅ Cost optimisation ►...",
+  "tags": [
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672855789/icons/contracthero.png",
+  "website": "https://en.contracthero.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "quotient",
+  "title": "Quotient",
+  "subtitle": "Quotient is online quoting that enables your customer to pick-and-choose, ask a question, and ultimately accept your ...",
+  "tags": [
+    "invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305816/catalog/quotient/icon128x128.png",
+  "website": "https://www.quotientapp.com/"
+}

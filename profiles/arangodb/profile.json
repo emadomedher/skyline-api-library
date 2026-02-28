@@ -1,0 +1,14 @@
+{
+  "id": "arangodb",
+  "title": "ArangoDB",
+  "subtitle": "Highly available and scalable multi-model database to natively work with graphs, documents and fulltext search with o...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627893131/icons/arangodb.jpg",
+  "website": "https://www.arangodb.com/",
+  "docsUrl": "https://www.arangodb.com/documentation"
+}

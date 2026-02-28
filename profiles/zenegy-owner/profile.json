@@ -1,0 +1,12 @@
+{
+  "id": "zenegy-owner",
+  "title": "Zenegy Owner",
+  "subtitle": "Zenegy is a complete salary system with advanced features such as time, vacation, material and mileage registration.",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306573/catalog/zenegy-owner/icon128x128.png"
+}

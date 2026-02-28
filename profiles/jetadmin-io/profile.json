@@ -1,0 +1,14 @@
+{
+  "id": "jetadmin-io",
+  "title": "Jet Admin",
+  "subtitle": "Speed up daily business operations and operational efficiency with Jet Admin. Manage and visualize your application d...",
+  "tags": [
+    "admin-panels"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015094/icons/jetadmin-io.png",
+  "website": "https://www.jetadmin.io/",
+  "docsUrl": "https://docs.jetadmin.io"
+}

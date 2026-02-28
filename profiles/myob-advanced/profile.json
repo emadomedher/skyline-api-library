@@ -1,0 +1,14 @@
+{
+  "id": "myob-advanced",
+  "title": "MYOB Advanced",
+  "subtitle": "MYOB Advanced is intelligent, cloud based ERP and payroll software that growing businesses need today, to grow tomorr...",
+  "tags": [
+    "erp",
+    "payroll"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630350449/icons/myob-advanced.jpg",
+  "website": "https://www.myob.com/au/enterprise/software-systems/advanced"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "techtarget",
+  "title": "TechTarget",
+  "subtitle": "TechTarget API integration",
+  "tags": [
+    "technology-buyers-marketplace",
+    "it-service-management",
+    "knowledge"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962164/catalog/techtarget/icon128x128.png",
+  "website": "https://techtarget.com"
+}

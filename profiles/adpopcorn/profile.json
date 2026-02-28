@@ -1,0 +1,13 @@
+{
+  "id": "adpopcorn",
+  "title": "adPoPcorn",
+  "subtitle": "마케팅 솔루션을 제공하고, 더많은 수익을 창출할 수 있는 국내 최대 모바일 AD네트워크 플랫폼",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774734/catalog/adpopcorn/icon128x128.png",
+  "website": "https://adpopcorn.com"
+}

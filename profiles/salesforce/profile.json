@@ -1,0 +1,16 @@
+{
+  "id": "salesforce",
+  "title": "Salesforce",
+  "subtitle": "CRM software solutions and enterprise cloud computing from Salesforce, the leader in customer relationship management...",
+  "tags": [
+    "sales",
+    "marketing",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456047/catalog/salesforce/icon128x128.png",
+  "website": "https://www.salesforce.com",
+  "docsUrl": "https://developer.salesforce.com"
+}

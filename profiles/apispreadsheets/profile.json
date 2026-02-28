@@ -1,0 +1,14 @@
+{
+  "id": "apispreadsheets",
+  "title": "API Spreadsheets",
+  "subtitle": "Instantly use Your Spreadsheets as an API and Database. Instantly use Your Google Sheets as an API and Database",
+  "tags": [
+    "csv-import"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421434/icons/apispreadsheets.jpg",
+  "website": "https://www.apispreadsheets.com/",
+  "docsUrl": "https://www.apispreadsheets.com/docs"
+}

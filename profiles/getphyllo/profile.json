@@ -1,0 +1,16 @@
+{
+  "id": "getphyllo",
+  "title": "Phyllo",
+  "subtitle": "Easily access verified, creator-consented data such as identity, income, and engagement across hundreds of platforms ...",
+  "tags": [
+    "unified-apis",
+    "social-media-api",
+    "creator-data"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660780144/icons/getphyllo.jpg",
+  "website": "https://www.getphyllo.com/",
+  "docsUrl": "https://docs.getphyllo.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "belco-nl",
+  "title": "Belco B.V.",
+  "subtitle": "Webshop klantenservice software zorgt ervoor dat je altijd in contact staat met je klant. Om de juiste klantenservice...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633371636/icons/belco-nl.png",
+  "website": "https://www.belco.nl/",
+  "docsUrl": "https://help.belco.io/l/nl"
+}

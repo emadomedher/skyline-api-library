@@ -1,0 +1,14 @@
+{
+  "id": "actonomy",
+  "title": "Actonomy",
+  "subtitle": "Clever solutions to win the war for talent help you recruit more and better candidates in a faster way. Discover how ...",
+  "tags": [
+    "cv-parsing",
+    "candidate-matching"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406258/icons/actonomy.jpg",
+  "website": "https://www.actonomy.com/"
+}

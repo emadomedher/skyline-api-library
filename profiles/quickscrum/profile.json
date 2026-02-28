@@ -1,0 +1,13 @@
+{
+  "id": "quickscrum",
+  "title": "Quickscrum",
+  "subtitle": "Quick Scrum offers best online free scrum tool to help your organization work efficiently by agile project management...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721687/catalog/quickscrum/icon128x128.jpg",
+  "website": "https://quickscrum.com"
+}

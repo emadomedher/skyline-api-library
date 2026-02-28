@@ -1,0 +1,13 @@
+{
+  "id": "climatepolicyradar",
+  "title": "Climate Policy Radar",
+  "subtitle": "Use Climate Policy Radar’s data science and AI-powered platform to search and explore thousands of climate change law...",
+  "tags": [
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678817260/icons/climatepolicyradar.jpg",
+  "website": "https://climatepolicyradar.org/"
+}

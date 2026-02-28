@@ -1,0 +1,13 @@
+{
+  "id": "cashforce",
+  "title": "Cashforce",
+  "subtitle": "Cashforce is a 'next-generation' Cash Flow Forecasting & Working Capital Analytics solution, focused on automation an...",
+  "tags": [
+    "cash-flow-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566954896/catalog/cashforce/icon128x128.png",
+  "website": "https://cashforce.com/"
+}

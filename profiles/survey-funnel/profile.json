@@ -1,0 +1,12 @@
+{
+  "id": "survey-funnel",
+  "title": "Survey Funnel",
+  "subtitle": "Survey Funnel creates automated survey funnels for your marketing so that\nyou can segment leads as they opt in and se...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306229/catalog/survey-funnel/icon128x128.png"
+}

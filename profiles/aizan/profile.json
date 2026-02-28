@@ -1,0 +1,13 @@
+{
+  "id": "aizan",
+  "title": "Aizan Technologies",
+  "subtitle": "Learn how Aizan 's offerings create intelligent, cloud-based, voice and \nmessaging communication tools to help with a...",
+  "tags": [
+    "contact-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643056694/icons/aizan.jpg",
+  "website": "https://www.aizan.com/"
+}

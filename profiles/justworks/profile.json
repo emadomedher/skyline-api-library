@@ -1,0 +1,14 @@
+{
+  "id": "justworks",
+  "title": "Justworks",
+  "subtitle": "Run your business with confidence with Justworks. Get simple software + expert support for payroll, benefits, HR, and...",
+  "tags": [
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608914750/icons/justworks.jpg",
+  "website": "https://justworks.com/"
+}

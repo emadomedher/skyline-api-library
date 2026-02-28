@@ -1,0 +1,14 @@
+{
+  "id": "getchip-uk",
+  "title": "Chip",
+  "subtitle": "Chip plugs in to your bank and automatically puts money aside for you. We're building some clever things to make sure...",
+  "tags": [
+    "savings",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589737997/catalog/getchip-uk/icon128x128.png",
+  "website": "https://www.getchip.uk/"
+}

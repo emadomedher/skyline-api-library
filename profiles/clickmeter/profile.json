@@ -1,0 +1,14 @@
+{
+  "id": "clickmeter",
+  "title": "ClickMeter",
+  "subtitle": "Monitor, compare and optimize all your marketing links in one place to increase the conversion rate",
+  "tags": [
+    "link-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570970776/catalog/clickmeter/icon128x128.png",
+  "website": "https://www.clickmeter.com/",
+  "docsUrl": "https://support.clickmeter.com/categories/20135008-API"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "brightflag",
+  "title": "Brightflag",
+  "subtitle": "Get where your legal ops needs to go faster with Brightflag's breakthrough, AI-powered legal operations software that...",
+  "tags": [
+    "legal-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655856410/icons/brightflag.jpg",
+  "website": "https://brightflag.com/"
+}

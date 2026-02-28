@@ -1,0 +1,13 @@
+{
+  "id": "point",
+  "title": "Point",
+  "subtitle": "Point offers homeowners Home Equity Investments (HEIs) and HELOCs. You can access up to $500k as a lump sum with a qu...",
+  "tags": [
+    "home-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642182944/icons/point.jpg",
+  "website": "https://point.com/"
+}

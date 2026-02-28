@@ -1,0 +1,14 @@
+{
+  "id": "testquality",
+  "title": "TestQuality",
+  "subtitle": "Test Management magically integrated with GitHub, JIRA, Jenkins, and Selenium that helps you build better quality tes...",
+  "tags": [
+    "test-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627503887/icons/testquality.jpg",
+  "website": "https://www.testquality.com/",
+  "docsUrl": "https://www.testquality.com/#developer"
+}

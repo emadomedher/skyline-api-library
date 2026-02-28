@@ -1,0 +1,13 @@
+{
+  "id": "float",
+  "title": "Float",
+  "subtitle": "Team scheduling done right. Manage your team’s workload, without it feeling like work.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304923/catalog/float/icon128x128.png",
+  "website": "https://float.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ultracart",
+  "title": "UltraCart",
+  "subtitle": "UltraCart API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775803/catalog/ultracart/icon128x128.png",
+  "website": "https://ultracart.com"
+}

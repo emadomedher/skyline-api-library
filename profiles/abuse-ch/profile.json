@@ -1,0 +1,13 @@
+{
+  "id": "abuse-ch",
+  "title": "abuse.ch",
+  "subtitle": "abuse.ch | Fighting malware and botnets",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249027/icons/abuse-ch.jpg",
+  "website": "https://abuse.ch"
+}

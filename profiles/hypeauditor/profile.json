@@ -1,0 +1,13 @@
+{
+  "id": "hypeauditor",
+  "title": "HypeAuditor",
+  "subtitle": "Find fake influencers, followers, likes, comments, and engagement. Check influencer’s Instagram, YouTube, and TikTok ...",
+  "tags": [
+    "influencer-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595706310/icons/hypeauditor.jpg",
+  "website": "https://hypeauditor.com/"
+}

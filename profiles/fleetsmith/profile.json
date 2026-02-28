@@ -1,0 +1,13 @@
+{
+  "id": "fleetsmith",
+  "title": "Fleetsmith",
+  "subtitle": "Fleetsmith automates Apple device management, making IT teams more efficient and putting zero-touch device setup, fle...",
+  "tags": [
+    "mobile-device-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616460149/icons/fleetsmith.jpg",
+  "website": "https://www.fleetsmith.com/"
+}

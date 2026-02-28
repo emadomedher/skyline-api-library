@@ -1,0 +1,13 @@
+{
+  "id": "sesamehr",
+  "title": "Sesame HR",
+  "subtitle": "The Human Resouces platform that will help you to manage your company: time tracking, absences requests, shift manage...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688560624/icons/sesamehr.png",
+  "website": "https://www.sesamehr.com/"
+}

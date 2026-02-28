@@ -1,0 +1,14 @@
+{
+  "id": "typedream-co",
+  "title": "Typedream",
+  "subtitle": "Typedream helps you create & publish a beautiful website with a simple Notion-like interface.",
+  "tags": [
+    "no-code",
+    "landing-pages"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869858/icons/typedream-co.jpg",
+  "website": "https://typedream.co/"
+}

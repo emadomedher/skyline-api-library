@@ -1,0 +1,15 @@
+{
+  "id": "next-js",
+  "title": "Next.js",
+  "subtitle": "Production grade React applications that scale. The world’s leading companies use Next.js to build server-rendered ap...",
+  "tags": [
+    "javascript",
+    "framework"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562160225/catalog/next-js/icon128x128.png",
+  "website": "https://nextjs.org",
+  "docsUrl": "https://nextjs.org/docs"
+}

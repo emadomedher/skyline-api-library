@@ -1,0 +1,13 @@
+{
+  "id": "myrepublic-net",
+  "title": "MyRepublic",
+  "subtitle": "MyRepublic is one of the fastest-growing telecommunications providers in Asia-Pacific with operations across Singapor...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801602/icons/myrepublic-net.jpg",
+  "website": "https://myrepublic.net/"
+}

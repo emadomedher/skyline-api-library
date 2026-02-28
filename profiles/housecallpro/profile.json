@@ -1,0 +1,13 @@
+{
+  "id": "housecallpro",
+  "title": "Housecall Pro",
+  "subtitle": "Housecall Pro is the #1 rated, all-in-one software to run your Home Services Business. Grow your business by 30% and ...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581544669/catalog/housecallpro/icon128x128.jpg",
+  "website": "https://www.housecallpro.com/"
+}

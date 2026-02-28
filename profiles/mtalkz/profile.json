@@ -1,0 +1,14 @@
+{
+  "id": "mtalkz",
+  "title": "mTalkz",
+  "subtitle": "mTalkz is the fast and scalable SAAS platform providing Instant delivery of bulk SMS and OTP's, IVR, Voice OBD, Chatb...",
+  "tags": [
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650143696/icons/mtalkz.jpg",
+  "website": "https://mtalkz.com/",
+  "docsUrl": "https://mtalkz.com/whatsapp-api-for-developers"
+}

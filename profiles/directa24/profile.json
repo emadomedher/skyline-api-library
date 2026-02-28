@@ -1,0 +1,14 @@
+{
+  "id": "directa24",
+  "title": "Directa24",
+  "subtitle": "Directa24 API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661844612/icons/directa24.jpg",
+  "website": "https://directa24.com/",
+  "docsUrl": "https://directa24.com/#integrate-with-directa24"
+}

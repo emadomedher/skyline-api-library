@@ -1,0 +1,12 @@
+{
+  "id": "fastbase",
+  "title": "Fastbase",
+  "subtitle": "Fastbase is software that allows you to generate leads directly via Google Analytics.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284517/catalog/fastbase/icon128x128.png"
+}

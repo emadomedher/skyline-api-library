@@ -1,0 +1,13 @@
+{
+  "id": "kmo-manager-be",
+  "title": "kmo-manager",
+  "subtitle": "kmo-manager is het ERP-pakket dat u als ondernemer administratief zal ondersteunen. Het biedt mogelijkheden voor kmo'...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567089257/catalog/kmo-manager-be/icon128x128.png",
+  "website": "https://kmo-manager.be"
+}

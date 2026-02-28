@@ -1,0 +1,14 @@
+{
+  "id": "citrix-systems",
+  "title": "Citrix",
+  "subtitle": "Citrix delivers people-centric solutions that power a better way to work by offering secure apps and data on any devi...",
+  "tags": [
+    "events-meetings-and-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719439/catalog/citrix-systems/icon128x128.jpg",
+  "website": "https://citrix.com",
+  "docsUrl": "https://developer.cloud.com/"
+}

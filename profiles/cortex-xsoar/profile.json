@@ -1,0 +1,14 @@
+{
+  "id": "cortex-xsoar",
+  "title": "Cortex XSOAR",
+  "subtitle": "Cortex XSOAR is a security orchestration, automation and response (SOAR) platform that enhances SOC efficiencies by d...",
+  "tags": [
+    "soar"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592483269/icons/cortex-xsoar.jpg",
+  "website": "https://www.paloaltonetworks.com/cortex/xsoar",
+  "docsUrl": "https://start.paloaltonetworks.com/preference-center"
+}

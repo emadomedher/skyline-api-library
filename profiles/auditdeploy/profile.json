@@ -1,0 +1,14 @@
+{
+  "id": "auditdeploy",
+  "title": "AuditDeploy",
+  "subtitle": "We empower the world’s most important institutions with the platform to deliver innovation at the speed of digital.",
+  "tags": [
+    "devops",
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610031009/icons/auditdeploy.jpg",
+  "website": "https://www.auditdeploy.com/"
+}

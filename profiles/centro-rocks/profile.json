@@ -1,0 +1,14 @@
+{
+  "id": "centro-rocks",
+  "title": "Centro",
+  "subtitle": "Centro is a Slack app that combines Email, SMS, and Salesforce data to easily collaborate with your team and communic...",
+  "tags": [
+    "communication",
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614225533/icons/centro-rocks.jpg",
+  "website": "https://www.centro.rocks"
+}

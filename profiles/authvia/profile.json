@@ -1,0 +1,14 @@
+{
+  "id": "authvia",
+  "title": "Authvia",
+  "subtitle": "Innovation at the crossroads of payments and messaging where we improve customer experience and increase merchant pro...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625611814/icons/authvia.png",
+  "website": "https://www.authvia.com/",
+  "docsUrl": "https://developer.authvia.com/reference"
+}

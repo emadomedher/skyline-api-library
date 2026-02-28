@@ -1,0 +1,12 @@
+{
+  "id": "keep-in-touch",
+  "title": "Keep In Touch",
+  "subtitle": "Keep In Touch is a cloud based CRM system for Builders looking to improve their sales process and follow up enquiries...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305245/catalog/keep-in-touch/icon128x128.png"
+}

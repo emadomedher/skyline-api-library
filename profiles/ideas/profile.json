@@ -1,0 +1,15 @@
+{
+  "id": "ideas",
+  "title": "IDeaS",
+  "subtitle": "IDeaS is the world’s leading provider of revenue management solutions for optimal profitability and productivity in t...",
+  "tags": [
+    "hotels",
+    "revenue-management",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565612943/catalog/ideas/icon128x128.jpg",
+  "website": "https://ideas.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "easiware",
+  "title": "easiware",
+  "subtitle": "Découvrez easiware, la plateforme de gestion et de personnalisation de la relation client, leader chez les retailers ...",
+  "tags": [
+    "customer-interaction-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597145931/icons/easiware.png",
+  "website": "https://www.easiware.com/"
+}

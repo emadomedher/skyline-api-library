@@ -1,0 +1,12 @@
+{
+  "id": "visual-lease",
+  "title": "Visual Lease",
+  "subtitle": "Visual Lease is a comprehensive, powerful and easy-to-use real estate and lease management software solution that mak...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306447/catalog/visual-lease/icon128x128.png"
+}

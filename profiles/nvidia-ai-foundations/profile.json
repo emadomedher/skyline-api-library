@@ -1,0 +1,13 @@
+{
+  "id": "nvidia-ai-foundations",
+  "title": "NVIDIA AI Foundations",
+  "subtitle": "Generative AI for enterprises that enables customization across use areas such as text, art, video, drug discovery, a...",
+  "tags": [
+    "generative-ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679429624/icons/nvidia-ai-foundations.png",
+  "website": "https://www.nvidia.com/en-us/ai-data-science/generative-ai/"
+}

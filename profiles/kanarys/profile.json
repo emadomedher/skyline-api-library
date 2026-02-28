@@ -1,0 +1,17 @@
+{
+  "id": "kanarys",
+  "title": "Kanarys™",
+  "subtitle": "Kanarys fuels progress towards more diverse, equitable and inclusive workplace cultures",
+  "tags": [
+    "diversity",
+    "inclusion",
+    "workplace-diversity",
+    "workplace-inclusion",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610219529/icons/kanarys.png",
+  "website": "https://www.kanarys.com/"
+}

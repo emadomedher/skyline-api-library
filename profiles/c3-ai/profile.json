@@ -1,0 +1,14 @@
+{
+  "id": "c3-ai",
+  "title": "C3 AI",
+  "subtitle": "C3 AI is a leading enterprise AI software provider for building enterprise-scale AI applications and accelerating dig...",
+  "tags": [
+    "ai",
+    "iot"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623343883/icons/c3-ai.jpg",
+  "website": "https://c3.ai/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "attomdata",
+  "title": "ATTOM",
+  "subtitle": "ATTOM Data is a leading provider of nationwide property data. APIs, bulk data, and cloud real estate data licensing f...",
+  "tags": [
+    "property-data",
+    "proptech",
+    "real-estate-data"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627010790/icons/attomdata.jpg",
+  "website": "https://attomdata.com",
+  "docsUrl": "https://api.developer.attomdata.com/home"
+}

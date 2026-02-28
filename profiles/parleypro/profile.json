@@ -1,0 +1,13 @@
+{
+  "id": "parleypro",
+  "title": "Parley Pro",
+  "subtitle": "Manage contracts and capture insights with Parley Pro — cloud-based contract management and negotiation software. We ...",
+  "tags": [
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633371621/icons/parleypro.jpg",
+  "website": "https://parleypro.com/"
+}

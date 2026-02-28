@@ -1,0 +1,12 @@
+{
+  "id": "landbot",
+  "title": "Landbot",
+  "subtitle": "Landbot is a tool to create Conversational Experiences that live on a website. Build your own in minutes without codi...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305261/catalog/landbot/icon128x128.png"
+}

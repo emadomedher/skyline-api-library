@@ -1,0 +1,13 @@
+{
+  "id": "mailbrew",
+  "title": "Mailbrew",
+  "subtitle": "Create beautiful, automated newsletters with content from the sites and apps you love.",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583407389/catalog/mailbrew/icon128x128.jpg",
+  "website": "https://mailbrew.com/"
+}

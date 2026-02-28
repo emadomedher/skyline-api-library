@@ -1,0 +1,17 @@
+{
+  "id": "latitude-io",
+  "title": "Latitude",
+  "subtitle": "The future of AI-generated games. We’re making AI a tool of creativity and freedom for everyone.",
+  "tags": [
+    "gaming",
+    "ai-creativity",
+    "non-saas",
+    "game-development"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612212737/icons/latitude-io.png",
+  "website": "https://latitude.io/",
+  "docsUrl": "https://beta.openai.com/docs/usage-guidelines/content-guidelines"
+}

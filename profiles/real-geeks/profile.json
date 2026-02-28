@@ -1,0 +1,12 @@
+{
+  "id": "real-geeks",
+  "title": "Real Geeks",
+  "subtitle": "Real Geeks is a real estate sales and marketing solution including all the tools you need  - Lead Generation, Cultiva...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305826/catalog/real-geeks/icon128x128.png"
+}

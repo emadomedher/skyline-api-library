@@ -1,0 +1,13 @@
+{
+  "id": "seed-co",
+  "title": "Seed",
+  "subtitle": "Seed - Mobile small business banking",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599337879/icons/seed-co.jpg",
+  "website": "https://seed.co/"
+}

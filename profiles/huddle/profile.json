@@ -1,0 +1,13 @@
+{
+  "id": "huddle",
+  "title": "Huddle",
+  "subtitle": "Team collaboration software for enterprise and government. Manage tasks, projects and documents simply in secure clie...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946931/catalog/huddle/icon128x128.jpg",
+  "website": "https://huddle.com"
+}

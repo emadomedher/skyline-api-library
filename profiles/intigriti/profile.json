@@ -1,0 +1,14 @@
+{
+  "id": "intigriti",
+  "title": "Intigriti",
+  "subtitle": "intigriti provides an ethical hacking and bug bounty platform to identify and tackle vulnerabilities. Our bug bounty ...",
+  "tags": [
+    "bug-bounty-programs",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565400162/catalog/intigriti/icon128x128.png",
+  "website": "https://intigriti.com"
+}

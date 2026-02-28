@@ -1,0 +1,14 @@
+{
+  "id": "webhookie",
+  "title": "Webhookie",
+  "subtitle": "Design and deploy webhooks faster! Webhook infrastructure out of the box.",
+  "tags": [
+    "webhook-infrastructure"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653043599/icons/webhookie.png",
+  "website": "https://webhookie.com/",
+  "docsUrl": "https://webhookie.com/docs"
+}

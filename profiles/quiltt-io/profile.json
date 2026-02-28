@@ -1,0 +1,13 @@
+{
+  "id": "quiltt-io",
+  "title": "Quiltt",
+  "subtitle": "The Quiltt platform empowers anyone to launch modern consumer fintech experiences, no backend required.",
+  "tags": [
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658250585/icons/quiltt-io.png",
+  "website": "https://www.quiltt.io/"
+}

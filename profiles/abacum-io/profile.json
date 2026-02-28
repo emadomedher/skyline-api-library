@@ -1,0 +1,13 @@
+{
+  "id": "abacum-io",
+  "title": "Abacum",
+  "subtitle": "Empower your finance team to drive faster strategic decisions. Say goodbye to manual planning and analysis processes....",
+  "tags": [
+    "finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681469091/icons/abacum-io.jpg",
+  "website": "https://www.abacum.io/"
+}

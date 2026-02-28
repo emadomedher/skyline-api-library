@@ -1,0 +1,14 @@
+{
+  "id": "nexcess-net",
+  "title": "Nexcess",
+  "subtitle": "Managed hosting services optimized for WordPress, Magento, and ecommerce. Elevate your business, scale without upsell...",
+  "tags": [
+    "web-hosting",
+    "managed-magento"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680600593/icons/nexcess-net.jpg",
+  "website": "https://www.nexcess.net/"
+}

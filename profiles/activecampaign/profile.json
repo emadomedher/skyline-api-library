@@ -1,0 +1,15 @@
+{
+  "id": "activecampaign",
+  "title": "ActiveCampaign",
+  "subtitle": "Integrated email marketing, marketing automation, and small business CRM. Save time while growing your business with ...",
+  "tags": [
+    "email-marketing",
+    "marketing-automation"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455970/catalog/activecampaign/icon128x128.png",
+  "website": "https://www.activecampaign.com/",
+  "docsUrl": "https://www.activecampaign.com/api"
+}

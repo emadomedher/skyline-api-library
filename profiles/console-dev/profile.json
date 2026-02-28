@@ -1,0 +1,13 @@
+{
+  "id": "console-dev",
+  "title": "Console",
+  "subtitle": "A free weekly email digest of the best tools and beta releases for developers.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623343880/icons/console-dev.jpg",
+  "website": "https://console.dev/"
+}

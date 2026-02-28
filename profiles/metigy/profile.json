@@ -1,0 +1,13 @@
+{
+  "id": "metigy",
+  "title": "Metigy",
+  "subtitle": "Metigy’s marketing tools deliver recommendations to help you create high quality content and a strategy for engagemen...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721120/catalog/metigy/icon128x128.jpg",
+  "website": "https://metigy.com"
+}

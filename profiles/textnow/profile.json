@@ -1,0 +1,13 @@
+{
+  "id": "textnow",
+  "title": "TextNow",
+  "subtitle": "Get free phone service without a phone bill by downloading the TextNow app. Sign-up today to get a free phone number ...",
+  "tags": [
+    "phone-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863257/icons/textnow.jpg",
+  "website": "https://www.textnow.com/"
+}

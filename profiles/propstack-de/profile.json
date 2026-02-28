@@ -1,0 +1,14 @@
+{
+  "id": "propstack-de",
+  "title": "Propstack",
+  "subtitle": "Die Maklersoftware mit integrierten Automatisierungen, die sich individuell an Ihre unternehmensinternen Prozesse anp...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607030342/icons/propstack-de.png",
+  "website": "https://www.propstack.de/",
+  "docsUrl": "https://propstack.gitbook.io/docs"
+}

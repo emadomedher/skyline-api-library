@@ -1,0 +1,14 @@
+{
+  "id": "pci-dss-level-1",
+  "title": "PCI Level 1",
+  "subtitle": "The Payment Card Industry Data Security Standard (PCI DSS) defines defines a “Level 1” merchant as one that processes...",
+  "tags": [
+    "security",
+    "payments"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630252646/icons/pci-dss-level-1.png",
+  "website": "https://www.pcisecuritystandards.org/"
+}

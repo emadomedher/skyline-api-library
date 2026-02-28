@@ -1,0 +1,15 @@
+{
+  "id": "mongodb-atlas",
+  "title": "MongoDB Atlas",
+  "subtitle": "Host MongoDB in the cloud with MongoDB Atlas, the official database-as-a-service, on AWS, Azure and GCP. Try free!",
+  "tags": [
+    "databases",
+    "nosql"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604973119/icons/mongodb-atlas.jpg",
+  "website": "https://www.mongodb.com/cloud/atlas",
+  "docsUrl": "https://www.mongodb.com/developer-tools"
+}

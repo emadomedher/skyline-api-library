@@ -1,0 +1,14 @@
+{
+  "id": "redshield-co",
+  "title": "RedShield",
+  "subtitle": "RedShield proactively discovers and remediates application and API vulnerabilities, protecting your customers - and b...",
+  "tags": [
+    "web-application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618977948/icons/redshield-co.jpg",
+  "website": "https://www.redshield.co/",
+  "docsUrl": "https://www.redshield.co/why-redshield/developers?hslang=en"
+}

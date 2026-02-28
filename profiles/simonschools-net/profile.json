@@ -1,0 +1,13 @@
+{
+  "id": "simonschools-net",
+  "title": "SIMON Web Based Solutions For Schools",
+  "subtitle": "SIMON is a Learning School Management Software solution for primary and secondary schools that saves time, is easy to...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594263300/icons/simonschools-net.jpg",
+  "website": "https://www.simonschools.net/"
+}

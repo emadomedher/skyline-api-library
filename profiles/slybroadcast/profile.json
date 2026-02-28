@@ -1,0 +1,12 @@
+{
+  "id": "slybroadcast",
+  "title": "Slybroadcast",
+  "subtitle": "Slybroadcast is an application that allows you to send a voice message directly to the voice-mailboxes of thousands o...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306123/catalog/slybroadcast/icon128x128.png"
+}

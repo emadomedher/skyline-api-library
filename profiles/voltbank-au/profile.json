@@ -1,0 +1,13 @@
+{
+  "id": "voltbank-au",
+  "title": "Volt Bank",
+  "subtitle": "We’re building a better way to bank and that means having a safe, reliable place to put your money, providing motivat...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571567199/catalog/voltbank-au/icon128x128.jpg",
+  "website": "https://www.voltbank.com.au/"
+}

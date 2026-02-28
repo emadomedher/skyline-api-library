@@ -1,0 +1,12 @@
+{
+  "id": "brand-gaming",
+  "title": "Brand Gaming",
+  "subtitle": "Brand Gaming is an Instant Win application for lead generation and engagement. Offering odds and inventory controls. ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304533/catalog/brand-gaming/icon128x128.png"
+}

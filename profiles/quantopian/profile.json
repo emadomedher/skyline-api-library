@@ -1,0 +1,15 @@
+{
+  "id": "quantopian",
+  "title": "Quantopian",
+  "subtitle": "Quantopian API integration",
+  "tags": [
+    "quant-finance",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594081809/icons/quantopian.png",
+  "website": "https://www.quantopian.com/",
+  "docsUrl": "https://www.quantopian.com/docs"
+}

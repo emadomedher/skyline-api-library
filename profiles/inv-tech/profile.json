@@ -1,0 +1,14 @@
+{
+  "id": "inv-tech",
+  "title": "Invisible Technologies",
+  "subtitle": "Invisible is a business process automation platform which automates repetitive digital work by managing and outsourci...",
+  "tags": [
+    "task-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622794460/icons/inv-tech.jpg",
+  "website": "https://www.inv.tech/",
+  "docsUrl": "https://invtech.docsend.com/view/a8tthk8bwi9dbhk6"
+}

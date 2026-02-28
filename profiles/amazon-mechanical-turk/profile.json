@@ -1,0 +1,14 @@
+{
+  "id": "amazon-mechanical-turk",
+  "title": "Amazon Mechanical Turk",
+  "subtitle": "Amazon Mechanical Turk API integration",
+  "tags": [
+    "crowdsourcing-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614184237/icons/amazon-mechanical-turk.jpg",
+  "website": "https://www.mturk.com/",
+  "docsUrl": "https://www.mturk.com/resources"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "headtalker",
+  "title": "HeadTalker",
+  "subtitle": "Crowdspeaking - HeadTalker is a free crowdspeaking platform to take messages viral on social media.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720326/catalog/headtalker/icon128x128.jpg",
+  "website": "https://headtalker.com"
+}

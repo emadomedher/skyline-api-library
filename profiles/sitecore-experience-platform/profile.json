@@ -1,0 +1,12 @@
+{
+  "id": "sitecore-experience-platform",
+  "title": "Sitecore Experience Platform",
+  "subtitle": "The Sitecore Experience Cloud (XP) empowers you to market in context of current and past customer interaction with yo...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1543312345/catalog/sitecore-experience-platform/icon128x128.png"
+}

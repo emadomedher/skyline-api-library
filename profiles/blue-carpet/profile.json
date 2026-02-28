@@ -1,0 +1,12 @@
+{
+  "id": "blue-carpet",
+  "title": "Blue Carpet",
+  "subtitle": "Blue Carpet is een innovatief HR software bedrijf met de ambitie om al het aanwezige talent binnen organisaties en in...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256899/catalog/blue-carpet/icon128x128.png"
+}

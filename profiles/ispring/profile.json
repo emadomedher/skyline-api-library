@@ -1,0 +1,13 @@
+{
+  "id": "ispring",
+  "title": "iSpring",
+  "subtitle": "End-to-end eLearning solutions to create, deliver and manage corporate training. Grow your business: Implant best pra...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720571/catalog/ispring/icon128x128.jpg",
+  "website": "https://ispringsolutions.com"
+}

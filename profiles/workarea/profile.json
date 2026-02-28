@@ -1,0 +1,13 @@
+{
+  "id": "workarea",
+  "title": "Workarea",
+  "subtitle": "Workarea API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438512/catalog/workarea/icon128x128.png",
+  "website": "https://workarea.com"
+}

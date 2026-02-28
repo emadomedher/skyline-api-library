@@ -1,0 +1,14 @@
+{
+  "id": "fincog-nl",
+  "title": "Fincog",
+  "subtitle": "Fincog is driven to better people's live by improving the quality, cost, and access to financial services. We believe...",
+  "tags": [
+    "consultancy",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588083026/catalog/fincog-nl/icon128x128.jpg",
+  "website": "https://fincog.nl/"
+}

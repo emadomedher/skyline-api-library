@@ -1,0 +1,13 @@
+{
+  "id": "harvestr-io",
+  "title": "Harvestr",
+  "subtitle": "Product Management Software that helps you manage customer feedback, prioritize features and share your product roadm...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570527751/catalog/harvestr-io/icon128x128.jpg",
+  "website": "https://www.harvestr.io/"
+}

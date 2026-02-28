@@ -1,0 +1,13 @@
+{
+  "id": "wizishop-fr",
+  "title": "WiziShop",
+  "subtitle": "WiziShop est une solution ecommerce innovante pour créer une boutique en ligne professionnelle. Offre toute incluse. ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599144521/icons/wizishop-fr.jpg",
+  "website": "https://www.wizishop.fr/"
+}

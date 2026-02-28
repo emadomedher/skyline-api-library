@@ -1,0 +1,13 @@
+{
+  "id": "campaign-workhub",
+  "title": "Campaign Workhub",
+  "subtitle": "Campaign Workhub API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433573/catalog/campaign-workhub/icon128x128.png",
+  "website": "https://campaignworkhub.com"
+}

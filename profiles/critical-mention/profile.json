@@ -1,0 +1,13 @@
+{
+  "id": "critical-mention",
+  "title": "Critical Mention",
+  "subtitle": "Critical Mention API integration",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434001/catalog/critical-mention/icon128x128.png",
+  "website": "https://criticalmention.com"
+}

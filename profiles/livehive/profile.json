@@ -1,0 +1,13 @@
+{
+  "id": "livehive",
+  "title": "LiveHive",
+  "subtitle": "LiveHive API integration",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561399922/catalog/livehive/icon128x128.png",
+  "website": "https://livehive.com"
+}

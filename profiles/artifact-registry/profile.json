@@ -1,0 +1,13 @@
+{
+  "id": "artifact-registry",
+  "title": "Artifact Registry",
+  "subtitle": "The next generation of Container Registry. Store, manage, and secure your build artifacts.",
+  "tags": [
+    "container-registries"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1689012872/icons/artifact-registry.jpg",
+  "website": "https://cloud.google.com/artifact-registry"
+}

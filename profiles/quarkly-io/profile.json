@@ -1,0 +1,14 @@
+{
+  "id": "quarkly-io",
+  "title": "Quarkly",
+  "subtitle": "A unique tool for webmasters, designers and developers. Here you can create websites as quickly as in website builder...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605139741/icons/quarkly-io.jpg",
+  "website": "https://quarkly.io/",
+  "docsUrl": "https://quarkly.io/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "processout",
+  "title": "ProcessOut",
+  "subtitle": "Smartly route your transactions to increase your international authorization rate and lower your processing fees.",
+  "tags": [
+    "payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559374431/catalog/processout/icon128x128.jpg",
+  "website": "https://processout.com",
+  "docsUrl": "https://docs.processout.com"
+}

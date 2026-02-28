@@ -1,0 +1,13 @@
+{
+  "id": "surveymonkey",
+  "title": "SurveyMonkey",
+  "subtitle": "Use SurveyMonkey to drive your business forward by using our free online survey tool to capture the voices and opinio...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456168/catalog/surveymonkey/icon128x128.png",
+  "website": "https://surveymonkey.com/"
+}

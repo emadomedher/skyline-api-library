@@ -1,0 +1,13 @@
+{
+  "id": "seasonhealth",
+  "title": "Season",
+  "subtitle": "Dietitian-approved, chef-designed recipes — delivered. Learn more about how food can help manage nutrition-sensitive ...",
+  "tags": [
+    "food-recommendation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649374937/icons/seasonhealth.png",
+  "website": "https://www.seasonhealth.com/"
+}

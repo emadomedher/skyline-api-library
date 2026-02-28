@@ -1,0 +1,13 @@
+{
+  "id": "bamboo-atlassian",
+  "title": "Bamboo",
+  "subtitle": "Bamboo API integration",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618977969/icons/bamboo-atlassian.jpg",
+  "website": "https://www.atlassian.com/software/bamboo"
+}

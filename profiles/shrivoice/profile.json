@@ -1,0 +1,13 @@
+{
+  "id": "shrivoice",
+  "title": "SHRIVOICE",
+  "subtitle": "SHRIVOICE API integration",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573477226/catalog/shrivoice/icon128x128.jpg",
+  "website": "https://www.shrivoice.com/"
+}

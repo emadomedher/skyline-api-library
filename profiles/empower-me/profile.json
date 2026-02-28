@@ -1,0 +1,14 @@
+{
+  "id": "empower-me",
+  "title": "Empower",
+  "subtitle": "Manage your money with a personalized financial coach in your pocket to help you earn, save and spend more wisely.",
+  "tags": [
+    "personal-finance-management",
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583563240/catalog/empower-me/icon128x128.jpg",
+  "website": "https://empower.me/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "azupay-au",
+  "title": "Azupay",
+  "subtitle": "Azupay is Australia's first and only PayID powered digital payment method, protecting you and your money",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595888850/icons/azupay-au.jpg",
+  "website": "https://www.azupay.com.au/"
+}

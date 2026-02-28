@@ -1,0 +1,14 @@
+{
+  "id": "mend-io",
+  "title": "Mend",
+  "subtitle": "Mend.io’s automated remediation for open source and custom code improves application security and saves crucial time ...",
+  "tags": [
+    "application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686603000/icons/mend-io.png",
+  "website": "https://www.mend.io/",
+  "docsUrl": "https://www.mend.io/native-integrations-for-developers-environments"
+}

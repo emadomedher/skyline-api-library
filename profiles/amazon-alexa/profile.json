@@ -1,0 +1,14 @@
+{
+  "id": "amazon-alexa",
+  "title": "Amazon Alexa",
+  "subtitle": "Alexa is Amazon's cloud-based voice service available on over 100 million of devices from Amazon and third-party devi...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554586073/catalog/amazon-alexa/icon128x128.png",
+  "website": "https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011",
+  "docsUrl": "https://developer.amazon.com/alexa"
+}

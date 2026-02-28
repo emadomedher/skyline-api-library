@@ -1,0 +1,13 @@
+{
+  "id": "pollfish",
+  "title": "Pollfish",
+  "subtitle": "Pollfish's online survey tools, like our poll website and DIY survey platform, provide consumer insights from real co...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721558/catalog/pollfish/icon128x128.png",
+  "website": "https://pollfish.com"
+}

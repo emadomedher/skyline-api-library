@@ -1,0 +1,14 @@
+{
+  "id": "option",
+  "title": "Option",
+  "subtitle": "Wireless Technology",
+  "tags": [
+    "wireless-technology",
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615223026/icons/option.jpg",
+  "website": "https://www.option.com/"
+}

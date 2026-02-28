@@ -1,0 +1,12 @@
+{
+  "id": "humanitix",
+  "title": "Humanitix",
+  "subtitle": "Humanitix is a not-for-profit ticketing platform, in which all booking fees are donated to a charity of the event org...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305143/catalog/humanitix/icon128x128.png"
+}

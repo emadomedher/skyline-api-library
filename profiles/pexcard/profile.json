@@ -1,0 +1,16 @@
+{
+  "id": "pexcard",
+  "title": "PEX",
+  "subtitle": "The PEX platform and prepaid debit cards help you automatically control spending, track expenses and reconcile books.",
+  "tags": [
+    "corporate-credit-cards",
+    "spend-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584144648/catalog/pexcard/icon128x128.jpg",
+  "website": "https://go.pexcard.com",
+  "docsUrl": "https://www.pexcard.com/resources/developer-guide"
+}

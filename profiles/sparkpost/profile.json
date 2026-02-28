@@ -1,0 +1,14 @@
+{
+  "id": "sparkpost",
+  "title": "SparkPost",
+  "subtitle": "The world’s first predictive email intelligence platform, helping brands predict and optimize email performance with ...",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306161/catalog/sparkpost/icon128x128.png",
+  "website": "https://www.sparkpost.com/",
+  "docsUrl": "https://developers.sparkpost.com"
+}

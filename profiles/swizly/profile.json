@@ -1,0 +1,13 @@
+{
+  "id": "swizly",
+  "title": "Swizly",
+  "subtitle": "Fusing your social media communication into one destination. Swizly allows you to display aggregated content from the...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722408/catalog/swizly/icon128x128.png",
+  "website": "https://swizly.com"
+}

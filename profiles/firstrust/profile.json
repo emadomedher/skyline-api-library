@@ -1,0 +1,13 @@
+{
+  "id": "firstrust",
+  "title": "Firstrust Bank",
+  "subtitle": "Firstrust Bank is the largest family-owned bank in the Philadelphia region and has been committed to serving the fina...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585655827/catalog/firstrust/icon128x128.jpg",
+  "website": "https://www.firstrust.com/"
+}

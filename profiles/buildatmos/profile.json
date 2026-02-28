@@ -1,0 +1,14 @@
+{
+  "id": "buildatmos",
+  "title": "Atmos",
+  "subtitle": "All your homebuilding decisions in one place — from design to move in.",
+  "tags": [
+    "homebuilding",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626207831/icons/buildatmos.png",
+  "website": "https://buildatmos.com/"
+}

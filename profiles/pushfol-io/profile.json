@@ -1,0 +1,16 @@
+{
+  "id": "pushfol-io",
+  "title": "Pushfolio",
+  "subtitle": "Start converting your visitors, without spending loads of money on tools like Intercom and\nOptinmonster. Add the Java...",
+  "tags": [
+    "live-chat",
+    "popup-messages",
+    "javascript"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578258070/catalog/pushfol-io/icon128x128.jpg",
+  "website": "https://www.pushfol.io/",
+  "docsUrl": "https://www.pushfol.io/#"
+}

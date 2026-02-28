@@ -1,0 +1,13 @@
+{
+  "id": "precog",
+  "title": "Precog",
+  "subtitle": "Precog’s universal data connectivity solution will transform how (and where) you work with data.",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643353017/icons/precog.jpg",
+  "website": "https://precog.com/"
+}

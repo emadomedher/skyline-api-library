@@ -1,0 +1,13 @@
+{
+  "id": "curated",
+  "title": "Curated",
+  "subtitle": "Curated is the quickest and easiest way to publish a digest newsletter by email and also on the web. Collect links, p...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304711/catalog/curated/icon128x128.png",
+  "website": "https://curated.co/"
+}

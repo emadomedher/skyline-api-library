@@ -1,0 +1,14 @@
+{
+  "id": "logisense",
+  "title": "LogiSense",
+  "subtitle": "Top agile billing software for usage-based and subscription billing. Trusted by leading enterprises in communications...",
+  "tags": [
+    "usage-based-billing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660775621/icons/logisense.jpg",
+  "website": "https://www.logisense.com/",
+  "docsUrl": "https://www.logisense.com/learn/docs/article/613023775"
+}

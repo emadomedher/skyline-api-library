@@ -1,0 +1,13 @@
+{
+  "id": "toucbase",
+  "title": "ToucBase",
+  "subtitle": "TouchBase is a simplified email marketing tool allowing our clients to \"touch base\" with their subscribers. Simplicit...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946454/catalog/toucbase/icon128x128.png",
+  "website": "https://touchbasemail.com"
+}

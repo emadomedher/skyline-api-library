@@ -1,0 +1,13 @@
+{
+  "id": "experts-exchange",
+  "title": "Experts Exchange",
+  "subtitle": "Experts Exchange API integration",
+  "tags": [
+    "vendor-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963917/catalog/experts-exchange/icon128x128.png",
+  "website": "https://experts-exchange.com"
+}

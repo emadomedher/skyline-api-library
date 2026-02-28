@@ -1,0 +1,13 @@
+{
+  "id": "supa-video",
+  "title": "SUPA",
+  "subtitle": "Easy to use video maker for ads and social media",
+  "tags": [
+    "video-maker"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666369/icons/supa-video.png",
+  "website": "https://supa.video/"
+}

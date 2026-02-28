@@ -1,0 +1,13 @@
+{
+  "id": "pawnmaster",
+  "title": "Data Age Business Systems",
+  "subtitle": "Pawn Software | More pawn shops use PawnMaster software than any other! We have the most innovative technology for yo...",
+  "tags": [
+    "pawn-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699474/catalog/pawnmaster/icon128x128.jpg",
+  "website": "https://pawnmaster.com/"
+}

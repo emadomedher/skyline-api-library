@@ -1,0 +1,14 @@
+{
+  "id": "myschoolapp",
+  "title": "mySchoolAPP",
+  "subtitle": "Smartphone app to aid school to home communication",
+  "tags": [
+    "mobile-app",
+    "communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578862547/catalog/myschoolapp/icon128x128.jpg",
+  "website": "https://myschoolapp.co.uk"
+}

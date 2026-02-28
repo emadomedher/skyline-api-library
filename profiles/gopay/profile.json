@@ -1,0 +1,14 @@
+{
+  "id": "gopay",
+  "title": "GoPay",
+  "subtitle": "GoPay payment gateway enables to finish a payment directly on your web site. So you will get more satisfied customers...",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629774623/icons/gopay.jpg",
+  "website": "https://www.gopay.com/",
+  "docsUrl": "http://doc.gopay.com"
+}

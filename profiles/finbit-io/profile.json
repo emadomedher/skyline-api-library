@@ -1,0 +1,14 @@
+{
+  "id": "finbit-io",
+  "title": "FinBit.io",
+  "subtitle": "We are a financial and bank data aggregation and analytics platform supporting our bank statements analyzer with cred...",
+  "tags": [
+    "fintech",
+    "data-aggregators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582702510/catalog/finbit-io/icon128x128.jpg",
+  "website": "https://finbit.io/"
+}

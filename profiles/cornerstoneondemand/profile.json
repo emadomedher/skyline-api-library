@@ -1,0 +1,16 @@
+{
+  "id": "cornerstoneondemand",
+  "title": "Cornerstone OnDemand",
+  "subtitle": "Cornerstone's leading talent management system provides recruiting, training, management, and collaboration solutions...",
+  "tags": [
+    "channel-learning-and-readiness",
+    "talent-management",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582966235/catalog/cornerstoneondemand/icon128x128.png",
+  "website": "https://www.cornerstoneondemand.com/",
+  "docsUrl": "https://csod.dev/"
+}

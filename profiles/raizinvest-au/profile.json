@@ -1,0 +1,14 @@
+{
+  "id": "raizinvest-au",
+  "title": "Raiz - The #1 Investment App",
+  "subtitle": "Raiz automatically invests your spare change. Our mobile-first investment platform enables commission free investing,...",
+  "tags": [
+    "stock-trading",
+    "investment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593442121/icons/raizinvest-au.jpg",
+  "website": "https://raizinvest.com.au/"
+}

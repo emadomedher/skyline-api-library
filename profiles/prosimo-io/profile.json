@@ -1,0 +1,13 @@
+{
+  "id": "prosimo-io",
+  "title": "Prosimo",
+  "subtitle": "Our autonomous multi-cloud networking helps build intelligent infrastructure that transforms your business",
+  "tags": [
+    "multi-cloud-networking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644889693/icons/prosimo-io.png",
+  "website": "https://prosimo.io/"
+}

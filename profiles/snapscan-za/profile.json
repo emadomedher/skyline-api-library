@@ -1,0 +1,15 @@
+{
+  "id": "snapscan-za",
+  "title": "SnapScan",
+  "subtitle": "South Africa's trusted mobile payment solutions app that's transforming mobile transactions between businesses and ap...",
+  "tags": [
+    "mobile-payments",
+    "contactless-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612736042/icons/snapscan-za.jpg",
+  "website": "https://www.snapscan.co.za/",
+  "docsUrl": "https://developer.getsnapscan.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "iterate-ai",
+  "title": "Iterate.ai",
+  "subtitle": "We partner with forward looking companies to turn ideas into innovation. Our approach mixes enterprise leadership, en...",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006429/icons/iterate-ai.jpg",
+  "website": "https://www.iterate.ai/",
+  "docsUrl": "https://interplay.helpjuice.com"
+}

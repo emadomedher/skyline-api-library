@@ -1,0 +1,14 @@
+{
+  "id": "zwift",
+  "title": "Zwift",
+  "subtitle": "Zwift is virtual training for running and cycling. Smash your goals and compete with others around the world. With st...",
+  "tags": [
+    "cycling",
+    "fitness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941438/icons/zwift.jpg",
+  "website": "https://zwift.com/"
+}

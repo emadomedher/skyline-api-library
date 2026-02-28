@@ -1,0 +1,15 @@
+{
+  "id": "levelset",
+  "title": "Levelset",
+  "subtitle": "Construction payment help is here. Find out how Levelset software helps thousands of contractors like you resolve pro...",
+  "tags": [
+    "money-management",
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576794137/catalog/levelset/icon128x128.png",
+  "website": "https://www.levelset.com/",
+  "docsUrl": "https://app.levelset.com/wizard/SelectDocument/7"
+}

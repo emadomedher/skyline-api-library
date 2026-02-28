@@ -1,0 +1,13 @@
+{
+  "id": "powerschool",
+  "title": "PowerSchool",
+  "subtitle": "PowerSchool provides innovative, K-12 education technology software fueling better school management, student growth,...",
+  "tags": [
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671564/icons/powerschool.jpg",
+  "website": "https://www.powerschool.com/"
+}

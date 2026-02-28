@@ -1,0 +1,16 @@
+{
+  "id": "cascade-hr",
+  "title": "IRIS Cascade HR",
+  "subtitle": "Formerly Cascade HR, IRIS Cascade HRi is HR and payroll Software for organisations with 250-10,000 employees, HR soft...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671583881/icons/cascade-hr.png",
+  "specUrl": "https://swagger.hrapi.co.uk/swagger.json",
+  "baseUrl": "https://api.iris.co.uk/hr/v2",
+  "website": "https://www.iris.co.uk/products/iris-cascade-b/",
+  "docsUrl": "https://help.iris.co.uk/hr/cascade/api/home.htm"
+}

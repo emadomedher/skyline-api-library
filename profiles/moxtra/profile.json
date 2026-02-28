@@ -1,0 +1,13 @@
+{
+  "id": "moxtra",
+  "title": "Moxtra",
+  "subtitle": "Moxtra delivers a mobile-first, embeddable, multi-layered cloud collaboration service that lets people work the way t...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305488/catalog/moxtra/icon128x128.png",
+  "website": "https://moxtra.com"
+}

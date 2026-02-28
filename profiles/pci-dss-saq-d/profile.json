@@ -1,0 +1,14 @@
+{
+  "id": "pci-dss-saq-d",
+  "title": "PCI DSS SAQ-D",
+  "subtitle": "Self-Assessment Questionnaire D (SAQ D) is for Merchants that accept and/or store cardholder data electronically, but...",
+  "tags": [
+    "compliance",
+    "certifications"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639854688/icons/pci-dss-saq-d.png",
+  "website": "https://www.pcisecuritystandards.org/documents/SAQ_D_v3_Merchant.pdf"
+}

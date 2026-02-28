@@ -1,0 +1,14 @@
+{
+  "id": "cdata",
+  "title": "CData Software",
+  "subtitle": "CData Software - Drivers for Applications, Databases, and Web APIs through standards-based driver technologies like O...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640132675/icons/cdata.jpg",
+  "website": "https://www.cdata.com/",
+  "docsUrl": "https://www.cdata.com/kb/help"
+}

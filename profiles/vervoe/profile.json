@@ -1,0 +1,12 @@
+{
+  "id": "vervoe",
+  "title": "Vervoe",
+  "subtitle": "Vervoe's AI-powered skill testing platform automatically recommends the strongest candidates to employers based purel...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306433/catalog/vervoe/icon128x128.png"
+}

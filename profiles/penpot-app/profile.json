@@ -1,0 +1,14 @@
+{
+  "id": "penpot-app",
+  "title": "UXBOXTool",
+  "subtitle": "The open-source solution for design and prototyping.",
+  "tags": [
+    "design",
+    "open-source"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612303702/icons/penpot-app.png",
+  "website": "https://penpot.app/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "boardable",
+  "title": "Boardable",
+  "subtitle": "Boardable is affordable, easy-to use board management software built to help nonprofit boards schedule, meet, and com...",
+  "tags": [
+    "board-management",
+    "board-meeting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585679801/catalog/boardable/icon128x128.jpg",
+  "website": "https://boardable.com/"
+}

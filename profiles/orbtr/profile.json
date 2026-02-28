@@ -1,0 +1,13 @@
+{
+  "id": "orbtr",
+  "title": "ORBTR",
+  "subtitle": "ORBTR is the first sales + marketing automation suite for WordPress featuring tools for lead tracking, email marketin...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305610/catalog/orbtr/icon128x128.png",
+  "website": "https://orbtr.net"
+}

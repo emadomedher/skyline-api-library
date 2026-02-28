@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-ads",
+  "title": "Microsoft Advertising",
+  "subtitle": "Sign up for Microsoft Advertising. Use our search engine marketing and audience solutions to help you build your busi...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582121325/catalog/microsoft-ads/icon128x128.png",
+  "website": "https://ads.microsoft.com/"
+}

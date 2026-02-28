@@ -1,0 +1,14 @@
+{
+  "id": "powr-io",
+  "title": "POWr",
+  "subtitle": "A full library of free and customizable forms, galleries, social streams, e-commerce, countdowns, and more.",
+  "tags": [
+    "marketing-automation",
+    "widgets"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599547703/icons/powr-io.jpg",
+  "website": "https://www.powr.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "integromat",
+  "title": "Integromat",
+  "subtitle": "Integromat is an easy to use, powerful tool with unique features for automating manual processes. Connect your favori...",
+  "tags": [
+    "integration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435185/catalog/integromat/icon128x128.png",
+  "website": "https://integromat.com",
+  "docsUrl": "https://www.integromat.com/en/developers"
+}

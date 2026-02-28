@@ -1,0 +1,15 @@
+{
+  "id": "radarfirst",
+  "title": "RADAR",
+  "subtitle": "Simplify privacy incident response and compliance with automation for risk assessment, documentation and management o...",
+  "tags": [
+    "privacy-incident-response",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572174994/catalog/radarfirst/icon128x128.jpg",
+  "website": "https://www.radarfirst.com/"
+}

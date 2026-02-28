@@ -1,0 +1,15 @@
+{
+  "id": "patreon",
+  "title": "Patreon",
+  "subtitle": "Patreon is a membership platform that helps artists & creators get paid.",
+  "tags": [
+    "fundraising",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305639/catalog/patreon/icon128x128.png",
+  "website": "https://www.patreon.com/",
+  "docsUrl": "http://patreoncommunity.com"
+}

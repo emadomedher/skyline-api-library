@@ -1,0 +1,15 @@
+{
+  "id": "mitto-ch",
+  "title": "Mitto",
+  "subtitle": "Mitto is a leading provider of global omnichannel communications solutions. Use SMS, RCS, Voice and Verification APIs...",
+  "tags": [
+    "messaging",
+    "sms-marketing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610843818/icons/mitto-ch.jpg",
+  "website": "https://www.mitto.ch/",
+  "docsUrl": "https://docs.mitto.ch"
+}

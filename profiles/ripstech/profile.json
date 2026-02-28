@@ -1,0 +1,13 @@
+{
+  "id": "ripstech",
+  "title": "RIPS Technologies",
+  "subtitle": "We help your business to secure PHP and Java applications with next-generation code analysis. ► Unmatched Bug Detecti...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567128392/catalog/ripstech/icon128x128.jpg",
+  "website": "https://www.ripstech.com"
+}

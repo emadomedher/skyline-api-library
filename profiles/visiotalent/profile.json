@@ -1,0 +1,14 @@
+{
+  "id": "visiotalent",
+  "title": "Visiotalent",
+  "subtitle": "Recrutement digital : l'entretien en vidéo différé ! Le meilleur moyen de découvrir la personnalité de vos candidats",
+  "tags": [
+    "recruitment",
+    "video-interviews"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582914356/catalog/visiotalent/icon128x128.jpg",
+  "website": "https://www.visiotalent.com/"
+}

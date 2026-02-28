@@ -1,0 +1,13 @@
+{
+  "id": "statushub",
+  "title": "StatusHub",
+  "subtitle": "Set up your very own service status page in minutes with StatusHub. Allow customers to subscribe to be updated automa...",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565024866/catalog/statushub/icon128x128.png",
+  "website": "https://statushub.com"
+}

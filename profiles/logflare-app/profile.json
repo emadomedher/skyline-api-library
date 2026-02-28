@@ -1,0 +1,14 @@
+{
+  "id": "logflare-app",
+  "title": "Chase Granberry",
+  "subtitle": "Easily access your Cloudflare, Vercel & Elixir logs in a centralized web-based log management solution.",
+  "tags": [
+    "logging",
+    "lag-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599685002/icons/logflare-app.png",
+  "website": "https://logflare.app/"
+}

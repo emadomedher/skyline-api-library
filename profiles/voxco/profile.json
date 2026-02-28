@@ -1,0 +1,13 @@
+{
+  "id": "voxco",
+  "title": "Voxco",
+  "subtitle": "Create survey programs that get results. Reach respondents anywhere with our competitively priced and easy to use mul...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946378/catalog/voxco/icon128x128.png",
+  "website": "https://voxco.com"
+}

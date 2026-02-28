@@ -1,0 +1,13 @@
+{
+  "id": "oslash",
+  "title": "OSlash",
+  "subtitle": "Transform long URLs into memorable shortcuts. Make information easy to access, find, & share with others in an instan...",
+  "tags": [
+    "url-shorteners"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904832/icons/oslash.png",
+  "website": "https://www.oslash.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "crosskey-fi",
+  "title": "Crosskey",
+  "subtitle": "Crosskey API integration",
+  "tags": [
+    "consultancy",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592429380/icons/crosskey-fi.jpg",
+  "website": "https://www.crosskey.fi/"
+}

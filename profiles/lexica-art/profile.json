@@ -1,0 +1,13 @@
+{
+  "id": "lexica-art",
+  "title": "Lexica",
+  "subtitle": "The Stable Diffusion search engine",
+  "tags": [
+    "text-to-image"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687293170/icons/lexica-art.png",
+  "website": "https://lexica.art/"
+}

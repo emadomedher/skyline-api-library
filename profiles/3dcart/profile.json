@@ -1,0 +1,14 @@
+{
+  "id": "3dcart",
+  "title": "3dcart",
+  "subtitle": "What's eCommerce Software? and how to choose the right e-commerce software to build your online business and launch a...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304337/catalog/3dcart/icon128x128.png",
+  "website": "https://3dcart.com",
+  "docsUrl": "https://developer.3dcart.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pipelinedeals",
+  "title": "PipelineDeals",
+  "subtitle": "Simple and useful CRM software in the cloud. Sell more today with sales tracking software. Our CRM software will help...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305685/catalog/pipelinedeals/icon128x128.png",
+  "website": "https://www.pipelinedeals.com/"
+}

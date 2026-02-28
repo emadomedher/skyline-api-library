@@ -1,0 +1,13 @@
+{
+  "id": "decorlibrary",
+  "title": "Decor Library",
+  "subtitle": "Decor Library API integration",
+  "tags": [
+    "decoration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619191/icons/decorlibrary.png",
+  "website": "https://www.decorlibrary.com/"
+}

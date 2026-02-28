@@ -1,0 +1,14 @@
+{
+  "id": "zbrain-ai",
+  "title": "Zbrain",
+  "subtitle": "Empower your users with a personalized ChatGPT app trained on your own data with ZBrain.AI. With our platform, you ca...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687293611/icons/zbrain-ai.jpg",
+  "website": "https://zbrain.ai/",
+  "docsUrl": "https://docs.zbrain.ai"
+}

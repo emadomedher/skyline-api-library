@@ -1,0 +1,13 @@
+{
+  "id": "avora",
+  "title": "Avora",
+  "subtitle": "Informed decision-making with real-time business intelligence, performance insights, predictive analytics & data visu...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719076/catalog/avora/icon128x128.jpg",
+  "website": "https://avora.com"
+}

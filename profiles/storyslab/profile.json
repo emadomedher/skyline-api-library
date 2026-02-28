@@ -1,0 +1,13 @@
+{
+  "id": "storyslab",
+  "title": "StorySlab",
+  "subtitle": "Get back to business—wherever that may be. In-person and remote, StorySlab equips your team while they meet with cust...",
+  "tags": [
+    "field-sales"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620646195/icons/storyslab.png",
+  "website": "https://www.storyslab.com/"
+}

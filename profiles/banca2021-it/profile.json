@@ -1,0 +1,13 @@
+{
+  "id": "banca2021-it",
+  "title": "Banca 2021",
+  "subtitle": "Sito internet della Banca 2021 - Credito Cooperativo del Cilento, Vallo di Diano e Lucania",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621779700/icons/banca2021-it.jpg",
+  "website": "https://banca2021.it/"
+}

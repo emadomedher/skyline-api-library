@@ -1,0 +1,14 @@
+{
+  "id": "4industry",
+  "title": "4Industry",
+  "subtitle": "Enable your operators and machines to achieve true world-class manufacturing with 4Industry, a mobile-enabled digital...",
+  "tags": [
+    "manufacturing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680207446/icons/4industry.jpg",
+  "website": "https://4industry.com/",
+  "docsUrl": "https://4industry.atlassian.net"
+}

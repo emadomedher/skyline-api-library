@@ -1,0 +1,13 @@
+{
+  "id": "mangoapps",
+  "title": "MangoApps",
+  "subtitle": "MangoApps is a comprehensive business collaboration tool for Web, Android, and iOS that offers advanced team and comp...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539008/catalog/mangoapps/icon128x128.png",
+  "website": "https://mangoapps.com"
+}

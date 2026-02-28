@@ -1,0 +1,14 @@
+{
+  "id": "mozilla",
+  "title": "Mozilla",
+  "subtitle": "\n  Mozilla is the not-for-profit behind the lightning fast Firefox browser. We put people over profit to give everyon...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571584550/catalog/mozilla/icon128x128.jpg",
+  "website": "https://www.mozilla.org",
+  "docsUrl": "https://www.mozilla.org/en-GB/developer"
+}

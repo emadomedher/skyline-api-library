@@ -1,0 +1,13 @@
+{
+  "id": "vestorly",
+  "title": "Vestorly",
+  "subtitle": "Vestorly curates better content for your audience to help you build more engaging email, social media, and websites. ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722725/catalog/vestorly/icon128x128.jpg",
+  "website": "https://vestorly.com"
+}

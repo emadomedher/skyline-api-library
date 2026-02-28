@@ -1,0 +1,13 @@
+{
+  "id": "zuum",
+  "title": "Zuum",
+  "subtitle": "Zuum turns social media data into intelligence. It shows marketers what type of content will maximize impact with the...",
+  "tags": [
+    "social-media-marketing-and-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438671/catalog/zuum/icon128x128.png",
+  "website": "https://zuumsocial.com"
+}

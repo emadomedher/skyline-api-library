@@ -1,0 +1,13 @@
+{
+  "id": "trilo-io",
+  "title": "Trilo",
+  "subtitle": "Welcome to the simplest way to pay. Whether your strolling on the high street, or scrolling on your phone, you'll get...",
+  "tags": [
+    "mobile-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556156/icons/trilo-io.png",
+  "website": "https://www.trilo.io/"
+}

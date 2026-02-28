@@ -1,0 +1,13 @@
+{
+  "id": "loris-ai",
+  "title": "Loris.ai",
+  "subtitle": "Conversational AI and insights to boost CX agent productivity and improve customer conversations - within weeks. Lori...",
+  "tags": [
+    "conversational-ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644889709/icons/loris-ai.jpg",
+  "website": "https://loris.ai/"
+}

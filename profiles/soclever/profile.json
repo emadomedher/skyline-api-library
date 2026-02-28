@@ -1,0 +1,13 @@
+{
+  "id": "soclever",
+  "title": "SoClever",
+  "subtitle": "SoClever provides customer identity data tools and Social Login systems so businesses know their customers and levera...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722222/catalog/soclever/icon128x128.jpg",
+  "website": "https://socleversocial.com"
+}

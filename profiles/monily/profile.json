@@ -1,0 +1,13 @@
+{
+  "id": "monily",
+  "title": "Monily",
+  "subtitle": "Boost your revenue and get your financial health on track with premium outsourced accounting services for small busin...",
+  "tags": [
+    "accounting-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630015787/icons/monily.jpg",
+  "website": "https://monily.com/"
+}

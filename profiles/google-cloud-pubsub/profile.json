@@ -1,0 +1,12 @@
+{
+  "id": "google-cloud-pubsub",
+  "title": "Google Cloud PubSub",
+  "subtitle": "Google Cloud PubSub API integration",
+  "tags": [
+    "raw-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439210/catalog/google-cloud-pubsub/icon128x128.svg"
+}

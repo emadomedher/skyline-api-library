@@ -1,0 +1,14 @@
+{
+  "id": "yesbank-in",
+  "title": "YES BANK",
+  "subtitle": "Yes Bank Limited is an Indian private sector bank,founded by Rana Kapoor and Ashok Kapur in 2004. It primarily operat...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575220001/catalog/yesbank-in/icon128x128.jpg",
+  "website": "https://www.yesbank.in/",
+  "docsUrl": "https://yesdeveloper.in/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "etlogic",
+  "title": "ETLogic",
+  "subtitle": "Providing expertise in e-trading systems for Fixed Income and Rates since 2011",
+  "tags": [
+    "electronic-trading-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588859515/catalog/etlogic/icon128x128.jpg",
+  "website": "https://www.etlogic.com/"
+}

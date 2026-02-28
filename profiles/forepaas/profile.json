@@ -1,0 +1,16 @@
+{
+  "id": "forepaas",
+  "title": "ForePaaS",
+  "subtitle": "Meet the end to end data platform to accelerate your data-driven, AI and analytics applications. Focus on your busine...",
+  "tags": [
+    "paas",
+    "ai",
+    "credit-scoring"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746583/icons/forepaas.jpg",
+  "website": "https://www.forepaas.com/",
+  "docsUrl": "https://docs.forepaas.io/#/en"
+}

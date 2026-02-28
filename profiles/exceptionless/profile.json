@@ -1,0 +1,12 @@
+{
+  "id": "exceptionless",
+  "title": "Exceptionless",
+  "subtitle": "Exceptionless provides real-time error reporting for your apps. It organizes the gathered information into simple act...",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304882/catalog/exceptionless/icon128x128.png"
+}

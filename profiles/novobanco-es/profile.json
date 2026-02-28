@@ -1,0 +1,14 @@
+{
+  "id": "novobanco-es",
+  "title": "Novo Banco",
+  "subtitle": "Novo Banco is a Portuguese bank introduced on 4 August 2014 by the Bank of Portugal to rescue assets and liabilities ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591439765/icons/novobanco-es.jpg",
+  "website": "https://www.novobanco.es/",
+  "docsUrl": "https://api.novobanco.es/"
+}

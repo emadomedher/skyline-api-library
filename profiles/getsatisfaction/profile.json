@@ -1,0 +1,13 @@
+{
+  "id": "getsatisfaction",
+  "title": "GetSatisfaction",
+  "subtitle": "Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with the...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720211/catalog/getsatisfaction/icon128x128.png",
+  "website": "https://getsatisfaction.com"
+}

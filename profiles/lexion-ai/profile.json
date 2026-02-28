@@ -1,0 +1,14 @@
+{
+  "id": "lexion-ai",
+  "title": "Lexion",
+  "subtitle": "Lexion contract management software is incredibly easy to use to accelerate sales and scale legal. Learn why in-house...",
+  "tags": [
+    "contract-management",
+    "legaltech"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671562873/icons/lexion-ai.png",
+  "website": "https://www.lexion.ai/"
+}

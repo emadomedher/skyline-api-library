@@ -1,0 +1,14 @@
+{
+  "id": "clover",
+  "title": "Clover",
+  "subtitle": "Clover is a cloud-based point of sale (POS) platform.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554400450/catalog/clover/icon128x128.jpg",
+  "website": "https://www.clover.com/",
+  "docsUrl": "https://www.clover.com/developers"
+}

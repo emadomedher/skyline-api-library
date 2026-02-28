@@ -1,0 +1,13 @@
+{
+  "id": "vexxhost",
+  "title": "VEXXHOST",
+  "subtitle": "Our OpenStack Cloud Computing services are used to support demanding requirements and workloads. We currently have cu...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567033146/catalog/vexxhost/icon128x128.png",
+  "website": "https://vexxhost.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pyoneer-io",
+  "title": "Pyoneer",
+  "subtitle": "Analyze customer feedback from all channels to reveal the most relevant topics with the power of AI. Analyze, Measure...",
+  "tags": [
+    "customer-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625685063/icons/pyoneer-io.jpg",
+  "website": "https://www.pyoneer.io/"
+}

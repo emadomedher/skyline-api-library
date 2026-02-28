@@ -1,0 +1,13 @@
+{
+  "id": "trustarc",
+  "title": "TrustArc",
+  "subtitle": "TrustArc powers privacy compliance and risk management with technology, consulting and certification solutions for GD...",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438088/catalog/trustarc/icon128x128.png",
+  "website": "https://trustarc.com"
+}

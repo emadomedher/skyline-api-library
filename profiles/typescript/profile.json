@@ -1,0 +1,14 @@
+{
+  "id": "typescript",
+  "title": "TypeScript",
+  "subtitle": "TypeScript brings you optional static type-checking along with the latest ECMAScript features.",
+  "tags": [
+    "javascript"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593473919/icons/typescript.jpg",
+  "website": "https://www.typescriptlang.org/",
+  "docsUrl": "https://www.typescriptlang.org/docs/index.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "explo-co",
+  "title": "Explo",
+  "subtitle": "Explo provides an integrated suite of embedded analytics and data reporting solutions. Explo reduces the time and cos...",
+  "tags": [
+    "embedded-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686603008/icons/explo-co.jpg",
+  "website": "https://www.explo.co/",
+  "docsUrl": "https://docs.explo.co/explo-help-desk"
+}

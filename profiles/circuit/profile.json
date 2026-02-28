@@ -1,0 +1,12 @@
+{
+  "id": "circuit",
+  "title": "Circuit",
+  "subtitle": "Circuit is everything your teams need to communicate in a single app. It’s voice, video, screen share, chat, and file...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284473/catalog/circuit/icon128x128.png"
+}

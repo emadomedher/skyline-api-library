@@ -1,0 +1,15 @@
+{
+  "id": "spurwing-io",
+  "title": "Spurwing",
+  "subtitle": "An enterprise grade API for Appointment Scheduling, Calendar and Time Management Solutions that fit any business and ...",
+  "tags": [
+    "scheduling-apis",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622584822/icons/spurwing-io.jpg",
+  "website": "https://www.spurwing.io/",
+  "docsUrl": "https://docs.spurwing.io/docs/spurwing"
+}

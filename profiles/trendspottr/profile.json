@@ -1,0 +1,13 @@
+{
+  "id": "trendspottr",
+  "title": "TrendSpottr",
+  "subtitle": "TrendSpottr: Predictive trend intelligence for brands, marketers & PR pros. Discover emerging trends, viral content &...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722563/catalog/trendspottr/icon128x128.png",
+  "website": "https://trendspottr.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tinder",
+  "title": "Tinder",
+  "subtitle": "With 55 billion matches to date, Tinder® is the world’s most popular dating app, making it the place to meet new people.",
+  "tags": [
+    "dating-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614175143/icons/tinder.jpg",
+  "website": "https://tinder.com/"
+}

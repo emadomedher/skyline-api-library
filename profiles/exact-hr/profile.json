@@ -1,0 +1,13 @@
+{
+  "id": "exact-hr",
+  "title": "Exact HR",
+  "subtitle": "Met de HR software van Exact heb je één compleet systeem voor al jouw HR administratie. Zo bespaar je meer dan 75% aa...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675071167/icons/exact-hr.png",
+  "website": "https://www.exact.com/nl/producten/hr"
+}

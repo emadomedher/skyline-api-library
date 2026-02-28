@@ -1,0 +1,14 @@
+{
+  "id": "leadinfo",
+  "title": "Leadinfo",
+  "subtitle": "Discover how Leadinfo can help you generate more and better sales than your competition by transforming anonymous web...",
+  "tags": [
+    "lead-generation",
+    "anonymous-traffic-identification"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627611109/icons/leadinfo.jpg",
+  "website": "https://www.leadinfo.com/"
+}

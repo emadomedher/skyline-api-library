@@ -1,0 +1,13 @@
+{
+  "id": "dahsing",
+  "title": "Dah Sing Bank",
+  "subtitle": "Dah Sing Banking Group Limited is a Hong Kong-based banking and financial company, headquartered in Wan Chai. It has ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618689457/icons/dahsing.png",
+  "website": "https://www.dahsing.com/html/en/index.html"
+}

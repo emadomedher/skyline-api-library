@@ -1,0 +1,13 @@
+{
+  "id": "marketpay-io",
+  "title": "SocialPay",
+  "subtitle": "Marketpay is the platform with the technology you need to make the leap to new digital realities. Welcome to the futu...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590770308/catalog/marketpay-io/icon128x128.jpg",
+  "website": "https://marketpay.io/"
+}

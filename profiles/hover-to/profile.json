@@ -1,0 +1,15 @@
+{
+  "id": "hover-to",
+  "title": "Hover",
+  "subtitle": "HOVER transforms smartphone photos of any home to a fully measured, customizable 3D model so you can estimate a proje...",
+  "tags": [
+    "construction",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562610295/catalog/hover-to/icon128x128.jpg",
+  "website": "https://hover.to",
+  "docsUrl": "https://developers.hover.to"
+}

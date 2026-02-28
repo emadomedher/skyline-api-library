@@ -1,0 +1,13 @@
+{
+  "id": "getswell-io",
+  "title": "Swell",
+  "subtitle": "Swell is an API development tool that specializes in streaming, websockets, sse, graphql, and restful APIs. Developer...",
+  "tags": [
+    "api-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634246154/icons/getswell-io.jpg",
+  "website": "https://www.getswell.io/"
+}

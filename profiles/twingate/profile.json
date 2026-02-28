@@ -1,0 +1,16 @@
+{
+  "id": "twingate",
+  "title": "Twingate",
+  "subtitle": "Replace corporate VPNs with a more secure, usable and performant zero trust access solution",
+  "tags": [
+    "security",
+    "remote-access",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598475470/icons/twingate.jpg",
+  "website": "https://www.twingate.com/",
+  "docsUrl": "https://docs.twingate.com/docs/how-twingate-works"
+}

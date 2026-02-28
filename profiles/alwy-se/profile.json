@@ -1,0 +1,13 @@
+{
+  "id": "alwy-se",
+  "title": "Alwy",
+  "subtitle": "Spendera, spara, investera och låna smartare.  Alwy hjälper dig få kontroll på din ekonomi.  Hos Alwy kan du enkelt s...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630613919/icons/alwy-se.png",
+  "website": "https://alwy.se/"
+}

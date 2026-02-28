@@ -1,0 +1,13 @@
+{
+  "id": "beecanvas",
+  "title": "BeeCanvas",
+  "subtitle": "Combine your notes, files, links and sketches into one place. It’s the next office software for individuals and teams.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719101/catalog/beecanvas/icon128x128.jpg",
+  "website": "https://beecanvas.com"
+}

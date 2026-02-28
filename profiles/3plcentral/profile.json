@@ -1,0 +1,14 @@
+{
+  "id": "3plcentral",
+  "title": "3PL Central",
+  "subtitle": "3PL Central is the leading provider of cloud-based 3PL Warehouse Management Software that improves warehouse tracking...",
+  "tags": [
+    "warehouse-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592355243/icons/3plcentral.png",
+  "website": "https://3plcentral.com/",
+  "docsUrl": "https://3plcentral.com/services#developer"
+}

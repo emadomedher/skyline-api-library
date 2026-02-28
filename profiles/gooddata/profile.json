@@ -1,0 +1,14 @@
+{
+  "id": "gooddata",
+  "title": "GoodData",
+  "subtitle": "GoodData is an embedded BI and analytics platform that provides fast, reliable, and easy to use analytics. Built for ...",
+  "tags": [
+    "customer-intelligence-and-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434833/catalog/gooddata/icon128x128.png",
+  "website": "https://gooddata.com",
+  "docsUrl": "https://developer.gooddata.com"
+}

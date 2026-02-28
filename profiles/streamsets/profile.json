@@ -1,0 +1,14 @@
+{
+  "id": "streamsets",
+  "title": "StreamSets",
+  "subtitle": "Deliver continuous data to every part of your business. Try the first DataOps Platform built for constant change and ...",
+  "tags": [
+    "data-operations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612004/catalog/streamsets/icon128x128.jpg",
+  "website": "https://streamsets.com/",
+  "docsUrl": "https://streamsets.com/support/documentation-overview"
+}

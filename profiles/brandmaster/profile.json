@@ -1,0 +1,13 @@
+{
+  "id": "brandmaster",
+  "title": "Brandmaster",
+  "subtitle": "Use marketing- and brand management solutions to control your brand and marketing processes. Solutions created for fu...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719232/catalog/brandmaster/icon128x128.png",
+  "website": "https://brandmaster.com"
+}

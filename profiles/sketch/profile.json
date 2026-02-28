@@ -1,0 +1,13 @@
+{
+  "id": "sketch",
+  "title": "Sketch",
+  "subtitle": "Sketch is a design toolkit built to help you create your best work — from your earliest ideas, through to final artwork.",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564821262/catalog/sketch/icon128x128.jpg",
+  "website": "https://sketch.com"
+}

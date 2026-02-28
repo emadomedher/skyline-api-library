@@ -1,0 +1,13 @@
+{
+  "id": "sizmek",
+  "title": "Sizmek",
+  "subtitle": "Sizmek API integration",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827621/catalog/sizmek/icon128x128.png",
+  "website": "https://sizmek.com"
+}

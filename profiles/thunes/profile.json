@@ -1,0 +1,14 @@
+{
+  "id": "thunes",
+  "title": "Thunes",
+  "subtitle": "We power payments and collections for the world’s fastest-growing businesses. With a single, simple connection, send ...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017146/icons/thunes.jpg",
+  "website": "https://www.thunes.com/",
+  "docsUrl": "https://docs.thunes.com"
+}

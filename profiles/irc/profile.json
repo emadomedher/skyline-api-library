@@ -1,0 +1,13 @@
+{
+  "id": "irc",
+  "title": "IRC",
+  "subtitle": "Internet Relay Chat is an application layer protocol that facilitates communication in the form of text. The chat pro...",
+  "tags": [
+    "communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055988/catalog/irc/icon128x128.png",
+  "website": "https://en.wikipedia.org/wiki/Internet_Relay_Chat"
+}

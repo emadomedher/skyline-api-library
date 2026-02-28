@@ -1,0 +1,14 @@
+{
+  "id": "yobota-xyz",
+  "title": "Yobota",
+  "subtitle": "Making financial services Intelligent. Flexible. About You. Who we are We have built a super fast and cloud-based ope...",
+  "tags": [
+    "core-banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582233359/catalog/yobota-xyz/icon128x128.jpg",
+  "website": "https://yobota.xyz/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "stackrox",
+  "title": "StackRox",
+  "subtitle": "The StackRox Kubernetes Security Platform protects your applications across the entire container life cycle. Prevent ...",
+  "tags": [
+    "container-security",
+    "kubernetes",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604326886/icons/stackrox.jpg",
+  "website": "https://www.stackrox.com/"
+}

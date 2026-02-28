@@ -1,0 +1,15 @@
+{
+  "id": "esenda",
+  "title": "Esenda",
+  "subtitle": "Esenda is an integrated solution that automates school fee collections and invoice reconciliations. Esenda makes scho...",
+  "tags": [
+    "school-fee-processing",
+    "edtech",
+    "school-payments"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606762986/icons/esenda.png",
+  "website": "https://esenda.com/"
+}

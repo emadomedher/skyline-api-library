@@ -1,0 +1,13 @@
+{
+  "id": "trakto-io",
+  "title": "Trakto",
+  "subtitle": "Acessar minha conta Tudo começacom uma ideia. Crie, publique, compartilhe e transforme suas ideias em incríveis visua...",
+  "tags": [
+    "visual-designer"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796468/catalog/trakto-io/icon128x128.jpg",
+  "website": "https://www.trakto.io/"
+}

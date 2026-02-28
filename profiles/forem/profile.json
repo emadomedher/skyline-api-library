@@ -1,0 +1,14 @@
+{
+  "id": "forem",
+  "title": "Forem",
+  "subtitle": "Empowering community by fostering thoughtful connection.",
+  "tags": [
+    "community"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631974044/icons/forem.jpg",
+  "website": "https://www.forem.com/",
+  "docsUrl": "https://developers.forem.com/"
+}

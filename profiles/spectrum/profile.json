@@ -1,0 +1,13 @@
+{
+  "id": "spectrum",
+  "title": "Spectrum",
+  "subtitle": "We provide AI data enrichment solutions that convert unstructured content \ninto feature rich data for social apps & B...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946550/catalog/spectrum/icon128x128.jpg",
+  "website": "https://getspectrum.io"
+}

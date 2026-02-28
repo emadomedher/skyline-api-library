@@ -1,0 +1,13 @@
+{
+  "id": "lookout",
+  "title": "Lookout",
+  "subtitle": "Lookout is deployed on over 180 million mobile devices. With 155 patents and analysis of over 100 million mobile appl...",
+  "tags": [
+    "mobile-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598984797/icons/lookout.jpg",
+  "website": "https://www.lookout.com/"
+}

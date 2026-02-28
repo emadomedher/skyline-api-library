@@ -1,0 +1,13 @@
+{
+  "id": "welab-bank",
+  "title": "WeLab Bank",
+  "subtitle": "WeLab Bank Limited is a wholly-owned subsidiary of WeLab and virtual bank with a license to operate in Hong Kong.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591439986/icons/welab-bank.png",
+  "website": "https://www.welab.bank"
+}

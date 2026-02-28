@@ -1,0 +1,12 @@
+{
+  "id": "visitortrack",
+  "title": "VisitorTrack",
+  "subtitle": "VisitorTrack is like Caller ID for your Website.  Track, capture and identify the anonymous business visitors to your...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306442/catalog/visitortrack/icon128x128.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "optanon",
+  "title": "Optanon",
+  "subtitle": "Optanon API integration",
+  "tags": [
+    "privacy",
+    "compliance",
+    "cookies"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567369107/catalog/optanon/icon128x128.png",
+  "website": "https://www.cookielaw.org/optanon-eprivacy/"
+}

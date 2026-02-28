@@ -1,0 +1,13 @@
+{
+  "id": "zoho-invoice",
+  "title": "Zoho Invoice",
+  "subtitle": "Zoho Invoice is an easy invoice software meant for small businesses and freelancers. Accept payments online, automate...",
+  "tags": [
+    "invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306606/catalog/zoho-invoice/icon128x128.png",
+  "website": "https://www.zoho.com/invoice/"
+}

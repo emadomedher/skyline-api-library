@@ -1,0 +1,13 @@
+{
+  "id": "pizza-online-fi",
+  "title": "pizza-online.fi",
+  "subtitle": "Kaikki suosikkiravintolasi ja ruokalistat, sekä verkkotilausmahdollisuus yhden osoitteen alla. Tilaa ruokaa noudettav...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576180760/catalog/pizza-online-fi/icon128x128.jpg",
+  "website": "https://pizza-online.fi/"
+}

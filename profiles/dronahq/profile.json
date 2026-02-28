@@ -1,0 +1,14 @@
+{
+  "id": "dronahq",
+  "title": "DronaHQ",
+  "subtitle": "Low code application development platform for rapidly building secure custom applications on cloud. Get started for F...",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607660005/icons/dronahq.png",
+  "website": "https://www.dronahq.com/",
+  "docsUrl": "https://www.dronahq.com/professional-developers"
+}

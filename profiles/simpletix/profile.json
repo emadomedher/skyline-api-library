@@ -1,0 +1,14 @@
+{
+  "id": "simpletix",
+  "title": "Simpletix",
+  "subtitle": "SimpleTix is an e-commerce company that offers turn-key solutions for event websites and online ticketing.",
+  "tags": [
+    "event-management",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830028/catalog/simpletix/icon128x128.png",
+  "website": "https://simpletix.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "viber-business",
+  "title": "Viber Business",
+  "subtitle": "Viber Business API integration",
+  "tags": [
+    "business-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611781384/icons/viber-business.jpg",
+  "website": "https://www.viber.com/en/business/"
+}

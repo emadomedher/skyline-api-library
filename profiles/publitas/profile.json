@@ -1,0 +1,13 @@
+{
+  "id": "publitas",
+  "title": "Publitas",
+  "subtitle": "Publitas helps you inspire shoppers by publishing your catalogs online. Shoppers can easily browse through your catal...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962571/catalog/publitas/icon128x128.png",
+  "website": "https://publitas.com"
+}

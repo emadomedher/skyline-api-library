@@ -1,0 +1,13 @@
+{
+  "id": "denario-io",
+  "title": "Denario",
+  "subtitle": "Manage your invoices and get paid faster with Denario! The accounts payable solution for SMBs and freelancers.",
+  "tags": [
+    "business-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648597382/icons/denario-io.jpg",
+  "website": "https://www.denario.io/en"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "surveynuts",
+  "title": "SurveyNuts",
+  "subtitle": "SurveyNuts is an online survey software. Create surveys, forms and quizzes quickly, share them and analyze the respon...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306239/catalog/surveynuts/icon128x128.png",
+  "website": "https://surveynuts.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "humanise-ai",
+  "title": "Humanise.AI",
+  "subtitle": "An AI-powered customer communication and lead generation system for your business",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623203456/icons/humanise-ai.jpg",
+  "website": "https://humanise.ai/"
+}

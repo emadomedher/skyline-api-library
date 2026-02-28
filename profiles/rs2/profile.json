@@ -1,0 +1,13 @@
+{
+  "id": "rs2",
+  "title": "RS2 Software",
+  "subtitle": "RS2 Software API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571962498/catalog/rs2/icon128x128.jpg",
+  "website": "https://www.rs2.com/"
+}

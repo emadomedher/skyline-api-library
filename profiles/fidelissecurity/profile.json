@@ -1,0 +1,13 @@
+{
+  "id": "fidelissecurity",
+  "title": "Fidelis Cybersecurity",
+  "subtitle": "Fidelis automates threat detection, hunting and response. Our unified platform integrates network traffic analysis, D...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249009/icons/fidelissecurity.jpg",
+  "website": "https://fidelissecurity.com"
+}

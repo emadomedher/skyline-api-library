@@ -1,0 +1,13 @@
+{
+  "id": "flippa",
+  "title": "Flippa",
+  "subtitle": "Buy & Sell Online Businesses on the Flippa marketplace.",
+  "tags": [
+    "digital-asset-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685841953/icons/flippa.jpg",
+  "website": "https://flippa.com/"
+}

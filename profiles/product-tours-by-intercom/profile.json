@@ -1,0 +1,14 @@
+{
+  "id": "product-tours-by-intercom",
+  "title": "Product tours by Intercom",
+  "subtitle": "Intercom’s Product Tours helps customers discover everything they need to know about your product through guided tour...",
+  "tags": [
+    "onboarding"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559148403/catalog/product-tours-by-intercom/icon128x128.png",
+  "website": "https://www.intercom.com/product-tours",
+  "docsUrl": "https://developers.intercom.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "coantumleap",
+  "title": "COANTUMLEAP TECH VENTURES PTE",
+  "subtitle": "COANTUMLEAP TECH VENTURES PTE API integration",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606326379/icons/coantumleap.png",
+  "website": "https://coantumleap.com/"
+}

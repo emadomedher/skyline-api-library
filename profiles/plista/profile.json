@@ -1,0 +1,13 @@
+{
+  "id": "plista",
+  "title": "plista",
+  "subtitle": "plista API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963357/catalog/plista/icon128x128.png",
+  "website": "https://plista.com"
+}

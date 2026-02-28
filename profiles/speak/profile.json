@@ -1,0 +1,13 @@
+{
+  "id": "speak",
+  "title": "Speak",
+  "subtitle": "Speak is the first & only app that lets you get real conversational practice without needing a live tutor on the othe...",
+  "tags": [
+    "text-to-speech"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675229336/icons/speak.png",
+  "website": "https://www.speak.com/"
+}

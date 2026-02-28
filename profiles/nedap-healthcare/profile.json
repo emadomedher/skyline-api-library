@@ -1,0 +1,13 @@
+{
+  "id": "nedap-healthcare",
+  "title": "Nedap healthcare",
+  "subtitle": "Nedap healthcare API integration",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588862858/catalog/nedap-healthcare/icon128x128.jpg",
+  "website": "https://nedap-healthcare.com/"
+}

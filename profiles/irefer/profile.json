@@ -1,0 +1,13 @@
+{
+  "id": "irefer",
+  "title": "iRefer",
+  "subtitle": "IRefer is a plug-and-play referral marketing tool that can integrate with your website to get you more customers leve...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305202/catalog/irefer/icon128x128.png",
+  "website": "https://irefer.io"
+}

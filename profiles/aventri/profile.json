@@ -1,0 +1,13 @@
+{
+  "id": "aventri",
+  "title": "Aventri",
+  "subtitle": "Aventri's event management technology has helped thousands of brands globally transform the way they plan and execute...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719066/catalog/aventri/icon128x128.png",
+  "website": "https://aventri.com"
+}

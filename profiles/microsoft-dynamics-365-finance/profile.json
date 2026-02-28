@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-dynamics-365-finance",
+  "title": "Microsoft Dynamics 365 Finance",
+  "subtitle": "Microsoft Dynamics 365 Finance (or Microsoft Dynamics F&O) is a Microsoft enterprise resource planning system for med...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1673385321/icons/microsoft-dynamics-365-finance.ico",
+  "website": "https://dynamics.microsoft.com/en-us/finance/overview/"
+}

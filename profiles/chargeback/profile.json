@@ -1,0 +1,13 @@
+{
+  "id": "chargeback",
+  "title": "Chargeback",
+  "subtitle": "Automate dispute management with real-time Visa resolution, issuer alerts, and compelling responses. Level up your te...",
+  "tags": [
+    "dispute-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562981913/catalog/chargeback/icon128x128.png",
+  "website": "https://chargeback.com"
+}

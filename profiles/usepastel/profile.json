@@ -1,0 +1,13 @@
+{
+  "id": "usepastel",
+  "title": "Pastel",
+  "subtitle": "Pastel is the easiest, and fastest way for web designers, developers, and agencies to collect feedback on the website...",
+  "tags": [
+    "customer-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581505694/catalog/usepastel/icon128x128.jpg",
+  "website": "https://usepastel.com/"
+}

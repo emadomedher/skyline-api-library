@@ -1,0 +1,15 @@
+{
+  "id": "smartling",
+  "title": "Smartling",
+  "subtitle": "Smartling connects your brand with customers around the globe. Translate, automate and manage your content across pla...",
+  "tags": [
+    "content-marketing",
+    "localization"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827650/catalog/smartling/icon128x128.jpg",
+  "website": "https://smartling.com",
+  "docsUrl": "https://www.smartling.com/products/automate"
+}

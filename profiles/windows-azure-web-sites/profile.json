@@ -1,0 +1,13 @@
+{
+  "id": "windows-azure-web-sites",
+  "title": "Azure Web Apps",
+  "subtitle": "Windows Azure App Service is a highly scalable website hosting solution with flexible development options including i...",
+  "tags": [
+    "websites",
+    "microsoft"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306501/catalog/windows-azure-web-sites/icon128x128.png"
+}

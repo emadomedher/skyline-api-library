@@ -1,0 +1,13 @@
+{
+  "id": "voiceflex",
+  "title": "Voiceflex",
+  "subtitle": "Voiceflex is a leading telecoms carrier of SIP, Hosted, Connectivity, UC&C and Cloud services.",
+  "tags": [
+    "cpaas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637943/icons/voiceflex.png",
+  "website": "https://www.voiceflex.com/"
+}

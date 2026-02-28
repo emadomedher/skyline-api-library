@@ -1,0 +1,14 @@
+{
+  "id": "gitprime",
+  "title": "GitPrime",
+  "subtitle": "GitPrime uses data from any Git based code repository to give management the software engineering metrics needed to m...",
+  "tags": [
+    "development-analytics",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565520342/catalog/gitprime/icon128x128.jpg",
+  "website": "https://www.gitprime.com/"
+}

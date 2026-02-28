@@ -1,0 +1,13 @@
+{
+  "id": "svgartista-net",
+  "title": "SVG Artista",
+  "subtitle": "SVG Artista is a tool that helps you animate stroke and fill properties in your SVG images with plain CSS code. It su...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573495903/catalog/svgartista-net/icon128x128.jpg",
+  "website": "https://svgartista.net/"
+}

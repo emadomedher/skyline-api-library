@@ -1,0 +1,14 @@
+{
+  "id": "bolt-eu",
+  "title": "Bolt",
+  "subtitle": "The smartest way to move around in cities. Forget expensive taxi rides or slow public transport. Get a ride in minute...",
+  "tags": [
+    "ridesharing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579309553/catalog/bolt-eu/icon128x128.png",
+  "website": "https://bolt.eu/",
+  "docsUrl": "https://delivery.bolt.eu/api-doc"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "clearmedia-be",
+  "title": "ClearMedia",
+  "subtitle": "Ontdek onze IT-oplossingen waarmee uw bedrijf optimaal kan presteren.",
+  "tags": [
+    "cloud-infrastructure",
+    "cloud-hosting"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576629067/catalog/clearmedia-be/icon128x128.png",
+  "website": "https://www.clearmedia.be/"
+}

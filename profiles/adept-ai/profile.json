@@ -1,0 +1,14 @@
+{
+  "id": "adept-ai",
+  "title": "Adept",
+  "subtitle": "Adept is an ML research and product lab building general intelligence by enabling humans and computers to work togeth...",
+  "tags": [
+    "ai",
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679070343/icons/adept-ai.jpg",
+  "website": "https://www.adept.ai/"
+}

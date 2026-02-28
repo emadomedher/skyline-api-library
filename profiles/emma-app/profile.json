@@ -1,0 +1,14 @@
+{
+  "id": "emma-app",
+  "title": "Emma",
+  "subtitle": "Emma helps people manage their money, pay off debt, avoid overdrafts and track subscriptions. An AI financial assista...",
+  "tags": [
+    "personal-finance-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567644246/catalog/emma-app/icon128x128.png",
+  "website": "https://emma-app.com/"
+}

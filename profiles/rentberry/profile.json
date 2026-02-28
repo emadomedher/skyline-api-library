@@ -1,0 +1,14 @@
+{
+  "id": "rentberry",
+  "title": "Rentberry",
+  "subtitle": "Rentberry facilitates the long-term home rental process for both tenants and landlords. We help tenants save time on ...",
+  "tags": [
+    "rental-marketplaces",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590119409/catalog/rentberry/icon128x128.jpg",
+  "website": "https://rentberry.com/"
+}

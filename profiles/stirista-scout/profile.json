@@ -1,0 +1,13 @@
+{
+  "id": "stirista-scout",
+  "title": "Stirista Scout",
+  "subtitle": "Stirista is a data-driven marketing agency that specializes in creating custom audience segments & executing campaign...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827715/catalog/stirista-scout/icon128x128.jpg",
+  "website": "https://stirista.com"
+}

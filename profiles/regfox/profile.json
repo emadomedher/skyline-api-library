@@ -1,0 +1,13 @@
+{
+  "id": "regfox",
+  "title": "RegFox",
+  "subtitle": "RegFox API integration",
+  "tags": [
+    "event-planning",
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378798/catalog/regfox/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shoutem",
+  "title": "Shoutem",
+  "subtitle": "Mobile app builder for native iOS and Android apps, based on React Native. Join thousands of businesses already using...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722066/catalog/shoutem/icon128x128.jpg",
+  "website": "https://shoutem.com"
+}

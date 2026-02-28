@@ -1,0 +1,14 @@
+{
+  "id": "myponto",
+  "title": "Ponto",
+  "subtitle": "Automate your finances.",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622407933/icons/myponto.png",
+  "website": "https://myponto.com",
+  "docsUrl": "https://documentation.myponto.com"
+}

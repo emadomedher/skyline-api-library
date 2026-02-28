@@ -1,0 +1,13 @@
+{
+  "id": "levelup-support",
+  "title": "LevelUp",
+  "subtitle": "WordPress plugin and theme developers outsource their technical support to us. Focus on developing awesome products a...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476482/icons/levelup-support.png",
+  "website": "https://levelup.support/"
+}

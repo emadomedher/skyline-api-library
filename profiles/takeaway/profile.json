@@ -1,0 +1,13 @@
+{
+  "id": "takeaway",
+  "title": "Takeaway.com",
+  "subtitle": "Takeaway.com is the largest food order site in Belgium. Order pizza, pita, Chinese food, sushi and more online in Ant...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576167498/catalog/takeaway/icon128x128.png",
+  "website": "https://www.takeaway.com/"
+}

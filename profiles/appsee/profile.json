@@ -1,0 +1,13 @@
+{
+  "id": "appsee",
+  "title": "Appsee",
+  "subtitle": "Appsee is a mobile app analytics platform that offers you powerful, qualitative analytics tools that enable you to tr...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947265/catalog/appsee/icon128x128.jpg",
+  "website": "https://appsee.com"
+}

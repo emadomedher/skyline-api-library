@@ -1,0 +1,14 @@
+{
+  "id": "videosdk-live",
+  "title": "video sdk",
+  "subtitle": "Embedded experience of real time audio and video API, live streaming API and video on demand API in your application ...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628770463/icons/videosdk-live.jpg",
+  "website": "https://videosdk.live/",
+  "docsUrl": "https://docs.videosdk.live"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "99-designs",
+  "title": "99 Designs",
+  "subtitle": "The global creative platform for custom graphic design: logos, websites and more. Hire a talented designer or start a...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717080/catalog/99-designs/icon128x128.jpg",
+  "website": "https://99designs.com"
+}

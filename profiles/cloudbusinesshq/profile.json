@@ -1,0 +1,14 @@
+{
+  "id": "cloudbusinesshq",
+  "title": "CloudBusiness",
+  "subtitle": "CloudBusiness provides cloud-based automation solutions for SMBs and Accountants. The apps are compliant with QuickBo...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779858/catalog/cloudbusinesshq/icon128x128.jpg",
+  "website": "https://cloudbusinesshq.com/",
+  "docsUrl": "https://cloudbusinesshq.com/2020/03/business-importer-desktop-reference-number-guide"
+}

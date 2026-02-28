@@ -1,0 +1,13 @@
+{
+  "id": "stuck-ai",
+  "title": "Stuck AI",
+  "subtitle": "Stuck AI API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437744/catalog/stuck-ai/icon128x128.png",
+  "website": "https://stuck.ai"
+}

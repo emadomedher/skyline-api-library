@@ -1,0 +1,15 @@
+{
+  "id": "apple-itunes",
+  "title": "Apple",
+  "subtitle": "macOS Catalina offers the world’s best way to play — and add to — your collection of music, movies, TV shows, podcast...",
+  "tags": [
+    "music",
+    "podcast-platform",
+    "b2c"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599954258/icons/apple-itunes.jpg",
+  "website": "https://www.apple.com/itunes/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "conduent",
+  "title": "Conduent",
+  "subtitle": "Discover how Conduent's technology-led approach to mission critical services and solutions helps organizations improv...",
+  "tags": [
+    "hcm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663261418/icons/conduent.jpg",
+  "website": "https://www.conduent.com/"
+}

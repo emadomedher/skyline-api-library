@@ -1,0 +1,14 @@
+{
+  "id": "min-io",
+  "title": "MinIO",
+  "subtitle": "MinIO's High Performance Object Storage is Open Source, Amazon S3 compatible, Kubernetes Native and is designed for c...",
+  "tags": [
+    "object-storage"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625063214/icons/min-io.png",
+  "website": "https://min.io/",
+  "docsUrl": "https://docs.min.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nice-ltd",
+  "title": "NICE Ltd",
+  "subtitle": "NICE is the worldwide leading provider of software solutions enabling organizations to improve customer experience, e...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721272/catalog/nice-ltd/icon128x128.jpg",
+  "website": "https://nice.com"
+}

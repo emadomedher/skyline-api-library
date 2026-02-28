@@ -1,0 +1,13 @@
+{
+  "id": "swedbank",
+  "title": "Swedbank",
+  "subtitle": "Swedbank AB is a Nordic-Baltic banking group based in Stockholm, Sweden, offering retail banking, asset management, f...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592559693/icons/swedbank.jpg",
+  "website": "https://www.swedbank.com/"
+}

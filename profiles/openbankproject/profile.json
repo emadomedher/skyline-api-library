@@ -1,0 +1,15 @@
+{
+  "id": "openbankproject",
+  "title": "Open Bank Project",
+  "subtitle": "The leading Open API middleware for banking.             \nLet us help you accelerate your Open Banking journey.\nPione...",
+  "tags": [
+    "psd-2",
+    "open-banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584381191/catalog/openbankproject/icon128x128.png",
+  "website": "https://www.openbankproject.com/"
+}

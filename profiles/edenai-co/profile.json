@@ -1,0 +1,15 @@
+{
+  "id": "edenai-co",
+  "title": "Eden AI",
+  "subtitle": "The best of AI in one API - Made for all Product Builders: Developers, No Coders and all AI enthusiasts.",
+  "tags": [
+    "unified-apis",
+    "ai"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1689872956/icons/edenai-co.jpg",
+  "website": "https://www.edenai.co/",
+  "docsUrl": "https://docs.edenai.co/docs"
+}

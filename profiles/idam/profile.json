@@ -1,0 +1,13 @@
+{
+  "id": "idam",
+  "title": "iDAM",
+  "subtitle": "iDAM Cloud Digital Asset Manager helps manage images, documents and video in the cloud.",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435016/catalog/idam/icon128x128.png",
+  "website": "https://webarchives.com"
+}

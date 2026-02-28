@@ -1,0 +1,15 @@
+{
+  "id": "excel",
+  "title": "Excel",
+  "subtitle": "Microsoft's Excel is a spreadsheet application used by millions of users across the world. It is part of the Office e...",
+  "tags": [
+    "spreadsheets",
+    "microsoft"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456646/catalog/excel/icon128x128.png",
+  "website": "https://office.live.com/start/Excel.aspx",
+  "docsUrl": "https://developer.microsoft.com/en-us/graph"
+}

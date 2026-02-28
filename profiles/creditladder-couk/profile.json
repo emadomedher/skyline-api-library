@@ -1,0 +1,14 @@
+{
+  "id": "creditladder-couk",
+  "title": "CreditLadder",
+  "subtitle": "Build your Experian credit history by reporting on-time rent payments via our free reporting service. Sign up in unde...",
+  "tags": [
+    "credit-scoring",
+    "rent"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565354928/catalog/creditladder-couk/icon128x128.jpg",
+  "website": "https://creditladder.co.uk"
+}

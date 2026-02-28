@@ -1,0 +1,13 @@
+{
+  "id": "escenic",
+  "title": "Escenic",
+  "subtitle": "Escenic API integration",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826386/catalog/escenic/icon128x128.jpg",
+  "website": "https://escenic.com"
+}

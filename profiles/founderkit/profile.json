@@ -1,0 +1,14 @@
+{
+  "id": "founderkit",
+  "title": "Founderkit",
+  "subtitle": "Build and scale your company with our community of leading entrepreneurs. Discover tools at the leading edge for buil...",
+  "tags": [
+    "startup-deals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581613389/catalog/founderkit/icon128x128.jpg",
+  "website": "https://founderkit.com/",
+  "docsUrl": "https://founderkit.com/collaboration/docs-spreadsheets/reviews"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kakaotalk",
+  "title": "KaKaoTalk",
+  "subtitle": "Connecting people, the world and more with KakaoTalk",
+  "tags": [
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561188144/catalog/kakaotalk/icon128x128.png",
+  "website": "https://kakaocorp.com",
+  "docsUrl": "https://developers.kakao.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "statice-ai",
+  "title": "Statice",
+  "subtitle": "Statice offers data anonymization technology for data-driven enterprises. Use compliant privacy-preserving synthetic ...",
+  "tags": [
+    "synthetic-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659963157/icons/statice-ai.jpg",
+  "website": "https://www.statice.ai/",
+  "docsUrl": "https://www.statice.ai/product/product-sdk#"
+}

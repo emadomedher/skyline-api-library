@@ -1,0 +1,13 @@
+{
+  "id": "ihs",
+  "title": "IHS",
+  "subtitle": "IHS API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963787/catalog/ihs/icon128x128.png",
+  "website": "https://ihsmarkit.com"
+}

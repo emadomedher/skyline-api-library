@@ -1,0 +1,15 @@
+{
+  "id": "monday",
+  "title": "monday.com",
+  "subtitle": "monday.com powers teams to run processes, workflows, and projects in one digital workspace, unleashing their potentia...",
+  "tags": [
+    "issue-tracking",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477977/catalog/monday/icon128x128.png",
+  "website": "https://monday.com/",
+  "docsUrl": "https://developers.monday.com"
+}

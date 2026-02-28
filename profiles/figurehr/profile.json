@@ -1,0 +1,13 @@
+{
+  "id": "figurehr",
+  "title": "Figure",
+  "subtitle": "Simplify your compensation practices and effectively communicate total rewards to your people.",
+  "tags": [
+    "compensation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637700348/icons/figurehr.jpg",
+  "website": "https://www.figurehr.com/"
+}

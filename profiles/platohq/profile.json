@@ -1,0 +1,14 @@
+{
+  "id": "platohq",
+  "title": "Plato",
+  "subtitle": "We help engineering leaders develop soft skills and build better teams through mentorship",
+  "tags": [
+    "mentorship-marketplaces",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589828763/catalog/platohq/icon128x128.jpg",
+  "website": "https://www.platohq.com/"
+}

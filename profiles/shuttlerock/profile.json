@@ -1,0 +1,13 @@
+{
+  "id": "shuttlerock",
+  "title": "Shuttlerock",
+  "subtitle": "Shuttlerock creates data-driven mobile-optimized ads for Facebook and Instagram, at scale.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437321/catalog/shuttlerock/icon128x128.png",
+  "website": "https://shuttlerock.com"
+}

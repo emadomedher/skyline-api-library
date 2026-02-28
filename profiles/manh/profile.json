@@ -1,0 +1,14 @@
+{
+  "id": "manh",
+  "title": "Manhattan Associates",
+  "subtitle": "Manhattan Associates designs, builds and delivers supply chain, omnichannel and inventory software so you’re ready to...",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618333980/icons/manh.jpg",
+  "website": "https://www.manh.com/",
+  "docsUrl": "https://www.manh.com/#"
+}

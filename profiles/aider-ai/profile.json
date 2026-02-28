@@ -1,0 +1,13 @@
+{
+  "id": "aider-ai",
+  "title": "Aider",
+  "subtitle": "Aider API integration",
+  "tags": [
+    "business-assistants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605490351/icons/aider-ai.jpg",
+  "website": "https://www.aider.ai/"
+}

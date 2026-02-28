@@ -1,0 +1,14 @@
+{
+  "id": "ddn",
+  "title": "DDN Storage",
+  "subtitle": "- DataDirect Networks (DDN®) Storage - DDN.com DDN® (DataDirect Networks) Storage helps you manage at scale data bett...",
+  "tags": [
+    "big-data",
+    "storage"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441104/catalog/ddn/icon128x128.png",
+  "website": "https://www.ddn.com/"
+}

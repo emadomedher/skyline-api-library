@@ -1,0 +1,14 @@
+{
+  "id": "flarehr",
+  "title": "Flare HR",
+  "subtitle": "Flare is Australia's only free HR software offering all the essentials: paperless onboarding, benefits and employee m...",
+  "tags": [
+    "hr",
+    "employee-benefits"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675415/catalog/flarehr/icon128x128.jpg",
+  "website": "https://www.flarehr.com/"
+}

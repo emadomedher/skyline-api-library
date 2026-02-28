@@ -1,0 +1,14 @@
+{
+  "id": "sweep-biz",
+  "title": "Sweep",
+  "subtitle": "Simplify how you manage your business expenses. Sweep Expenses tracks, categorises and pre-fills your expenses for yo...",
+  "tags": [
+    "expense-management",
+    "travel-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610677968/icons/sweep-biz.jpg",
+  "website": "https://sweep.biz/"
+}

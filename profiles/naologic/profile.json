@@ -1,0 +1,14 @@
+{
+  "id": "naologic",
+  "title": "Naologic",
+  "subtitle": "One platform for your team and your work. Try for FREE | B2B ecommerce | Wholesale | Inventory management | Sales app...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640726498/icons/naologic.jpg",
+  "website": "https://naologic.com/",
+  "docsUrl": "https://naologic.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "autoleap",
+  "title": "AutoLeap",
+  "subtitle": "AutoLeap is a Powerful All-in-One Auto Repair Software that Helps to Manage your Automotive Shop & Keep a Track of yo...",
+  "tags": [
+    "auto-repair-shop-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688560643/icons/autoleap.jpg",
+  "website": "https://autoleap.com/"
+}

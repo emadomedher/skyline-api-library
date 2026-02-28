@@ -1,0 +1,13 @@
+{
+  "id": "spyfu",
+  "title": "SpyFu",
+  "subtitle": "SpyFu API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962228/catalog/spyfu/icon128x128.png",
+  "website": "https://spyfu.com"
+}

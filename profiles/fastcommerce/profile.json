@@ -1,0 +1,14 @@
+{
+  "id": "fastcommerce",
+  "title": "Fast Commerce",
+  "subtitle": "Free easy to use secured shopping cart software. Build your online store with free ecommerce software from FastCommer...",
+  "tags": [
+    "shopping-cart",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614642938/icons/fastcommerce.jpg",
+  "website": "https://www.fastcommerce.com/"
+}

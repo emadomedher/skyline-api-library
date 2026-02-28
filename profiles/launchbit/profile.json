@@ -1,0 +1,13 @@
+{
+  "id": "launchbit",
+  "title": "LaunchBit",
+  "subtitle": "LaunchBit API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435448/catalog/launchbit/icon128x128.png",
+  "website": "https://buysellads.com"
+}

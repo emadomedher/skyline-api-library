@@ -1,0 +1,14 @@
+{
+  "id": "mollie",
+  "title": "Mollie",
+  "subtitle": "Mollie builds payment products, commerce solutions and APIs that let you accept online and mobile payments, for small...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562334996/catalog/mollie/icon128x128.jpg",
+  "website": "https://mollie.com",
+  "docsUrl": "https://www.mollie.com/en/developers"
+}

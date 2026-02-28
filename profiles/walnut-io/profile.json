@@ -1,0 +1,13 @@
+{
+  "id": "walnut-io",
+  "title": "Walnut ",
+  "subtitle": "Walnut offers a failure-free, code-less, and 100% customisable platform that empowers every sales leader to own their...",
+  "tags": [
+    "sales-demo"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621550553/icons/walnut-io.jpg",
+  "website": "https://walnut.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "uservoice",
+  "title": "UserVoice",
+  "subtitle": "UserVoice is any easy way to listen and get feedback from your customers. UserVoice lets you create a forum for users...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306414/catalog/uservoice/icon128x128.png",
+  "website": "https://www.uservoice.com/"
+}

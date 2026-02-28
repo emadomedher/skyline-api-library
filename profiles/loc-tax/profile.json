@@ -1,0 +1,13 @@
+{
+  "id": "loc-tax",
+  "title": " Loctax",
+  "subtitle": "Finally, first-ever tool that empowers collaboration on global tax work and helps achieve higher levels of compliance...",
+  "tags": [
+    "tax-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617905778/icons/loc-tax.png",
+  "website": "https://www.loc.tax/"
+}

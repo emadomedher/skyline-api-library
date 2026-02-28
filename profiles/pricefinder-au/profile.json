@@ -1,0 +1,14 @@
+{
+  "id": "pricefinder-au",
+  "title": "PriceFinder",
+  "subtitle": "PriceFinder API integration",
+  "tags": [
+    "real-estate-property-data",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620989211/icons/pricefinder-au.png",
+  "website": "https://www.pricefinder.com.au/"
+}

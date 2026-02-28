@@ -1,0 +1,14 @@
+{
+  "id": "zenkit",
+  "title": "Zenkit",
+  "subtitle": "Zenkit is a flexible workspace you can use to organize the things you care about, in the way that suits you best.",
+  "tags": [
+    "to-do-lists",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306575/catalog/zenkit/icon128x128.png",
+  "website": "https://zenkit.com/"
+}

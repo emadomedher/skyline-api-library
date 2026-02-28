@@ -1,0 +1,13 @@
+{
+  "id": "digilant",
+  "title": "Digilant",
+  "subtitle": "Digilant API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964058/catalog/digilant/icon128x128.png",
+  "website": "https://Digilant.com"
+}

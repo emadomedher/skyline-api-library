@@ -1,0 +1,13 @@
+{
+  "id": "accountingsuite",
+  "title": "AccountingSuite",
+  "subtitle": "Small and medium business accounting software with Inventory, Sales, Purchases, Invoicing & more. Affordable online a...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054130/catalog/accountingsuite/icon128x128.png",
+  "website": "https://www.accountingsuite.com/"
+}

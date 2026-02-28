@@ -1,0 +1,13 @@
+{
+  "id": "proprofs",
+  "title": "ProProfs",
+  "subtitle": "ProProfs - Knowledge Management Software for Quizzes, Tests, Training, Flashcards, Knowledge Base. Get started with o...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721609/catalog/proprofs/icon128x128.jpg",
+  "website": "https://proprofs.com"
+}

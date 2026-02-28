@@ -1,0 +1,16 @@
+{
+  "id": "cookieinformation",
+  "title": "Cookie Information",
+  "subtitle": "Cookie Information is a professional GDPR and ePrivacy Cookie Consent Solution. Get a 30-day free trial and make your...",
+  "tags": [
+    "consent-management-platform",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572342131/catalog/cookieinformation/icon128x128.png",
+  "website": "https://cookieinformation.com/",
+  "docsUrl": "https://cookieinformation.com/images/docs/Produktblad_ConsentSolution_EN.pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kubera",
+  "title": "Kubera",
+  "subtitle": "All your wealth in one place. Track net worth, portfolio and assets. Store important documents. Ensure safe transfer ...",
+  "tags": [
+    "wealth-management",
+    "portfolio-tracker"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591439767/icons/kubera.png",
+  "website": "https://www.kubera.com/",
+  "docsUrl": "https://docs.google.com/spreadsheets/d/1qe9rn0nnklaqev63yapkm-4_warccl49dyuovpux7y4/edit#gid=2133371046"
+}

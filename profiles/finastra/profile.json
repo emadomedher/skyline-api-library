@@ -1,0 +1,15 @@
+{
+  "id": "finastra",
+  "title": "Finastra",
+  "subtitle": "Finastra is the third largest Fintech company in the world after combining the forces of Misys and D+H, offering the ...",
+  "tags": [
+    "fintech",
+    "core-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589112314/catalog/finastra/icon128x128.png",
+  "website": "https://www.finastra.com/",
+  "docsUrl": "https://iframely.com/docs/privacy"
+}

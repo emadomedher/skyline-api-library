@@ -1,0 +1,12 @@
+{
+  "id": "deskpro",
+  "title": "Deskpro",
+  "subtitle": "Deskpro is a web-based helpdesk software with multiple channel support.",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304760/catalog/deskpro/icon128x128.png"
+}

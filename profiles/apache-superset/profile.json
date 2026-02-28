@@ -1,0 +1,14 @@
+{
+  "id": "apache-superset",
+  "title": "Apache Superset",
+  "subtitle": "Community website for Apache Superset, a data visualization and data exploration platform",
+  "tags": [
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093499/icons/apache-superset.png",
+  "website": "https://superset.apache.org/",
+  "docsUrl": "https://superset.apache.org/docs/intro"
+}

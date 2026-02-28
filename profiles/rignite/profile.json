@@ -1,0 +1,13 @@
+{
+  "id": "rignite",
+  "title": "Rignite",
+  "subtitle": "Our social media marketing solution makes it easy to post, schedule, collaborate, respond, and track social activity ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946659/catalog/rignite/icon128x128.png",
+  "website": "https://rignite.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "polywork",
+  "title": "Polywork",
+  "subtitle": "Polywork is a professional network for multiplayers.",
+  "tags": [
+    "social-networks",
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628557314/icons/polywork.png",
+  "website": "https://www.polywork.com/"
+}

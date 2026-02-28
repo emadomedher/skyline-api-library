@@ -1,0 +1,13 @@
+{
+  "id": "amazon-web-services",
+  "title": "Amazon Web Services (AWS)",
+  "subtitle": "Online shopping from the earth's biggest selection of books, magazines, music, DVDs, videos, electronics, computers, ...",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547697149/catalog/amazon-web-services/icon128x128.png",
+  "website": "https://amazon.com"
+}

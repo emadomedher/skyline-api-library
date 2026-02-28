@@ -1,0 +1,13 @@
+{
+  "id": "traceair-net",
+  "title": "TraceAir",
+  "subtitle": "TraceAir API integration",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611142292/icons/traceair-net.png",
+  "website": "https://traceair.net/"
+}

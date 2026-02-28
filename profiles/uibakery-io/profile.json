@@ -1,0 +1,15 @@
+{
+  "id": "uibakery-io",
+  "title": "UI Bakery",
+  "subtitle": "The easiest way to build internal tool with low-code. Integrate your tool to your business process, use different dat...",
+  "tags": [
+    "no-code",
+    "internal-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618357805/icons/uibakery-io.jpg",
+  "website": "https://uibakery.io/",
+  "docsUrl": "http://academy.uibakery.io"
+}

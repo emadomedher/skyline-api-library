@@ -1,0 +1,13 @@
+{
+  "id": "clevertim-crm",
+  "title": "Clevertim CRM",
+  "subtitle": "Clevertim is an online contact manager and simple, easy to use CRM for small businesses.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304624/catalog/clevertim-crm/icon128x128.png",
+  "website": "https://www.clevertim.com/en/"
+}

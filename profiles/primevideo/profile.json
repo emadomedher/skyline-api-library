@@ -1,0 +1,13 @@
+{
+  "id": "primevideo",
+  "title": "Prime Video",
+  "subtitle": "Enjoy exclusive Amazon Originals as well as popular movies and TV shows. Watch anytime, anywhere.",
+  "tags": [
+    "streaming-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604933967/icons/primevideo.png",
+  "website": "https://www.primevideo.com/"
+}

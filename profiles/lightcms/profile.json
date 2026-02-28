@@ -1,0 +1,13 @@
+{
+  "id": "lightcms",
+  "title": "LightCMS",
+  "subtitle": "Easily Create Fantastic Websites with Highly Customizable Templates &amp; Intuitive Tools for Adding &amp; Editing Ri...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826814/catalog/lightcms/icon128x128.png",
+  "website": "https://lightcms.com"
+}

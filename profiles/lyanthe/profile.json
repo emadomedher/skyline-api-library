@@ -1,0 +1,16 @@
+{
+  "id": "lyanthe",
+  "title": "lyanthe",
+  "subtitle": "Lyanthe offers unique solutions to quickly and easily make the transition to digital accounting within your existing ...",
+  "tags": [
+    "banking",
+    "fintech",
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565344999/catalog/lyanthe/icon128x128.png",
+  "website": "https://lyanthe.com",
+  "docsUrl": "https://lyanthe.com/developers"
+}

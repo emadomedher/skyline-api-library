@@ -1,0 +1,13 @@
+{
+  "id": "onea",
+  "title": "Onea",
+  "subtitle": "Onea API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548081103/catalog/onea/icon128x128.png",
+  "website": "https://www.onea.be/"
+}

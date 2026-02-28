@@ -1,0 +1,13 @@
+{
+  "id": "oxygenta",
+  "title": "Oxygenta",
+  "subtitle": "Features which include segementation, spam compliance and social reach, plus drag and drop editor plus built in image...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946730/catalog/oxygenta/icon128x128.jpg",
+  "website": "https://oxygenta.co.za"
+}

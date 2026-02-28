@@ -1,0 +1,14 @@
+{
+  "id": "nordicapigateway-aiia-pay",
+  "title": "Aiia Pay",
+  "subtitle": "Connect your applications to users bank accounts and enable seamless payments from European banks to create simple so...",
+  "tags": [
+    "open-banking-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607660001/icons/nordicapigateway-aiia-pay.jpg",
+  "website": "https://www.nordicapigateway.com/products/aiia-pay",
+  "docsUrl": "https://www.nordicapigateway.com/products/aiia-pay#"
+}

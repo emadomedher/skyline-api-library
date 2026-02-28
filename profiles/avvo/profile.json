@@ -1,0 +1,13 @@
+{
+  "id": "avvo",
+  "title": "Avvo",
+  "subtitle": "Avvo has ratings, reviews, and disciplinary records for lawyers in every state. Get free legal advice, find the right...",
+  "tags": [
+    "legal-directories"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017826/icons/avvo.jpg",
+  "website": "https://www.avvo.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "raisely",
+  "title": "Raisely",
+  "subtitle": "The free and simple charity fundraising platform - Choose from beautiful themes to create your own fundraising websit...",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633819150/icons/raisely.png",
+  "website": "https://www.raisely.com/",
+  "docsUrl": "https://www.raisely.com/developers"
+}

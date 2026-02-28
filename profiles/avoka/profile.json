@@ -1,0 +1,13 @@
+{
+  "id": "avoka",
+  "title": "Avoka",
+  "subtitle": "Temenos accelerates digital banking transformation and increases business agility for financial services, government,...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719073/catalog/avoka/icon128x128.jpg",
+  "website": "https://avoka.com"
+}

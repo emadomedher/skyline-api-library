@@ -1,0 +1,13 @@
+{
+  "id": "ericsson",
+  "title": "Ericsson",
+  "subtitle": "Ericsson shapes the future of mobile broadband Internet communications through its technology leadership, creating th...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637639871/icons/ericsson.jpg",
+  "website": "https://www.ericsson.com/"
+}

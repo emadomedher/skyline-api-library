@@ -1,0 +1,13 @@
+{
+  "id": "artickl",
+  "title": "artickl",
+  "subtitle": "artickl helps you get the job you want. Take back the power in managing your job search, optimise your process, and w...",
+  "tags": [
+    "resume-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625190955/icons/artickl.svg",
+  "website": "https://artickl.com/"
+}

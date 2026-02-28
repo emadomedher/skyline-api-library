@@ -1,0 +1,13 @@
+{
+  "id": "azafinance",
+  "title": "AZA",
+  "subtitle": "Cross-border payments platform that leverages technology to lower the cost and increase the speed of payments to and ...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611872611/icons/azafinance.jpg",
+  "website": "https://www.azafinance.com/"
+}

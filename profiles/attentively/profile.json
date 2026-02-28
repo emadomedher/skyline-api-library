@@ -1,0 +1,13 @@
+{
+  "id": "attentively",
+  "title": "Attentive.ly",
+  "subtitle": "Attentive.ly API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433143/catalog/attentively/icon128x128.png",
+  "website": "https://attentive.ly"
+}

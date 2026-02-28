@@ -1,0 +1,15 @@
+{
+  "id": "buyer-co",
+  "title": "Buyer",
+  "subtitle": "We look at all the software and services you use, then negotiate you the best rates without being jerks.",
+  "tags": [
+    "negotiation-as-a-service",
+    "services",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620809972/icons/buyer-co.png",
+  "website": "https://www.buyer.co/"
+}

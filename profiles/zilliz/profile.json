@@ -1,0 +1,14 @@
+{
+  "id": "zilliz",
+  "title": "Zilliz",
+  "subtitle": "Zilliz vector database management system - powered by Milvus - supports billion-scale vector search, and is trusted b...",
+  "tags": [
+    "vector-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681070494/icons/zilliz.jpg",
+  "website": "https://zilliz.com/",
+  "docsUrl": "https://zilliz.com/doc/about_zilliz_cloud"
+}

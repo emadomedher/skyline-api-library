@@ -1,0 +1,15 @@
+{
+  "id": "onedox",
+  "title": "Onedox",
+  "subtitle": "Onedox is the smart way to manage all your household bills, securely, conveniently and for free.",
+  "tags": [
+    "personal-finance-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567667788/catalog/onedox/icon128x128.jpg",
+  "website": "https://www.onedox.com/",
+  "docsUrl": "https://developer.onedox.com"
+}

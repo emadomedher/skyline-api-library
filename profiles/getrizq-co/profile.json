@@ -1,0 +1,13 @@
+{
+  "id": "getrizq-co",
+  "title": "Rizq",
+  "subtitle": "Rizq is the UK’s first alternative Islamic digital banking app.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863272/icons/getrizq-co.jpg",
+  "website": "https://getrizq.co/"
+}

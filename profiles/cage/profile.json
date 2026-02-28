@@ -1,0 +1,13 @@
+{
+  "id": "cage",
+  "title": "Cage",
+  "subtitle": "Creative collaboration just got easier. With Cage, you can design, revise, & share assets quickly & securely with cli...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719312/catalog/cage/icon128x128.png",
+  "website": "https://cageapp.com"
+}

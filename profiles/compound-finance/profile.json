@@ -1,0 +1,16 @@
+{
+  "id": "compound-finance",
+  "title": "Compound",
+  "subtitle": "Compound is an algorithmic, autonomous interest rate protocol built for developers, to unlock a universe of open fina...",
+  "tags": [
+    "crypto",
+    "lending",
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602009504/icons/compound-finance.png",
+  "website": "https://compound.finance/",
+  "docsUrl": "https://compound.finance/developers"
+}

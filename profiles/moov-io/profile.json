@@ -1,0 +1,17 @@
+{
+  "id": "moov-io",
+  "title": "Moov",
+  "subtitle": "At the core of fintech. Opensource Cloud Native Core processing for Fintechs, Startups, Banks & Credit Unions",
+  "tags": [
+    "ach-payments",
+    "infrastructure",
+    "banking",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597507924/icons/moov-io.jpg",
+  "website": "https://moov.io/",
+  "docsUrl": "https://docs.moov.io"
+}

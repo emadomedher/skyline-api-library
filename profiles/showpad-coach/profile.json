@@ -1,0 +1,13 @@
+{
+  "id": "showpad-coach",
+  "title": "Showpad Coach",
+  "subtitle": "Showpad's powerful sales coaching and training software enables you to onboard, ramp, and provide continuous coaching...",
+  "tags": [
+    "sales-coaching"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574341749/catalog/showpad-coach/icon128x128.png",
+  "website": "https://www.showpad.com/product/showpad-coach/"
+}

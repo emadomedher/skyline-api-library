@@ -1,0 +1,13 @@
+{
+  "id": "uservitalshq",
+  "title": "UserVitals",
+  "subtitle": "UserVitals allows you to capture customer feedback from any platform. Allow your team to gather customer insights fro...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634246128/icons/uservitalshq.svg",
+  "website": "https://www.uservitalshq.com/"
+}

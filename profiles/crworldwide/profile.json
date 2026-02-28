@@ -1,0 +1,13 @@
+{
+  "id": "crworldwide",
+  "title": "CR Worldwide",
+  "subtitle": "CR Worldwide API integration",
+  "tags": [
+    "channel-incentives-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594240690/icons/crworldwide.png",
+  "website": "https://crworldwide.com"
+}

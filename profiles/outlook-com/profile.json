@@ -1,0 +1,13 @@
+{
+  "id": "outlook-com",
+  "title": "Microsoft Outlook",
+  "subtitle": "Outlook.com is a widely used and free modern email service from Microsoft. It has a clean and clutter free interface ...",
+  "tags": [
+    "email",
+    "calendar"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056094/catalog/outlook-com/icon128x128.png"
+}

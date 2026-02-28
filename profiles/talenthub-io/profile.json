@@ -1,0 +1,13 @@
+{
+  "id": "talenthub-io",
+  "title": "talenthub.io",
+  "subtitle": "Create a candidate centric culture with best-in-class feedback and recommendations. Optimize your hiring quality, wit...",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642215028/icons/talenthub-io.jpg",
+  "website": "https://www.talenthub.io/"
+}

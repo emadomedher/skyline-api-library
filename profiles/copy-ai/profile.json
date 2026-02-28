@@ -1,0 +1,14 @@
+{
+  "id": "copy-ai",
+  "title": "CopyAI",
+  "subtitle": "We have created the world's most advanced artificial intelligence copywriter that enables you to create marketing cop...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612303707/icons/copy-ai.png",
+  "website": "https://www.copy.ai/",
+  "docsUrl": "https://www.copy.ai/#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "partech",
+  "title": "ParTech",
+  "subtitle": "PAR creates the optimal customer experience through our highly customizable restaurant point of sale systems, durable...",
+  "tags": [
+    "restech",
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573332077/catalog/partech/icon128x128.png",
+  "website": "https://www.partech.com/"
+}

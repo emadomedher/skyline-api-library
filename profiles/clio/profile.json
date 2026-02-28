@@ -1,0 +1,14 @@
+{
+  "id": "clio",
+  "title": "Clio",
+  "subtitle": "Manage and grow your law practice with the easy-to-use legal software solutions that Clio provides to manage cases, c...",
+  "tags": [
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304648/catalog/clio/icon128x128.png",
+  "website": "https://www.clio.com/",
+  "docsUrl": "https://app.clio.com/api/v4/documentation"
+}

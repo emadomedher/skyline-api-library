@@ -1,0 +1,12 @@
+{
+  "id": "lockbin",
+  "title": "Lockbin",
+  "subtitle": "Lockbin is a HIPAA compliant messaging service. Professionals use Lockbin to communicate easily with their their cust...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284551/catalog/lockbin/icon128x128.png"
+}

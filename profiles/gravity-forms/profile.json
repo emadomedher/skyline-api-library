@@ -1,0 +1,14 @@
+{
+  "id": "gravity-forms",
+  "title": "Gravity Forms",
+  "subtitle": "Gravity Forms is a premier WordPress plugin that makes it easy to create powerful forms on the fly.",
+  "tags": [
+    "wordpress",
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456003/catalog/gravity-forms/icon128x128.png",
+  "website": "https://www.gravityforms.com/"
+}

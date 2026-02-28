@@ -1,0 +1,14 @@
+{
+  "id": "etcd",
+  "title": "etcd",
+  "subtitle": "A distributed, reliable key-value store for the most critical data of a distributed system",
+  "tags": [
+    "key-value-stores"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614356/catalog/etcd/icon128x128.png",
+  "website": "https://etcd.io/",
+  "docsUrl": "https://etcd.io/docs/v3.4.0"
+}

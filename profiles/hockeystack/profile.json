@@ -1,0 +1,13 @@
+{
+  "id": "hockeystack",
+  "title": "HockeyStack",
+  "subtitle": "HockeyStack is a no-code analytics tool that tracks every action of your visitors, enables you to define custom goals...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192465/icons/hockeystack.jpg",
+  "website": "https://hockeystack.com/"
+}

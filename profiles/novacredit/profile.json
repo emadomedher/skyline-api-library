@@ -1,0 +1,13 @@
+{
+  "id": "novacredit",
+  "title": "Nova Credit",
+  "subtitle": "New to the U.S.? Use your international credit history to get a credit card, loan, apartment rental and more. We can ...",
+  "tags": [
+    "credit-scores"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581561919/catalog/novacredit/icon128x128.png",
+  "website": "https://www.novacredit.com/"
+}

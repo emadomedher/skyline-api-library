@@ -1,0 +1,15 @@
+{
+  "id": "mbrella-eu",
+  "title": "Mbrella",
+  "subtitle": "Above and beyond corporate mobility management - Implement and manage a mobility budget with no HR hassle. Bonus: it ...",
+  "tags": [
+    "corporate-mobility-management",
+    "hr",
+    "employee-benefits"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593103261/icons/mbrella-eu.jpg",
+  "website": "https://www.mbrella.eu/"
+}

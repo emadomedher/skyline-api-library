@@ -1,0 +1,12 @@
+{
+  "id": "aerisweather",
+  "title": "AerisWeather",
+  "subtitle": "AerisWeather provides developer-friendly data services and tools that allow you to monetize weather where it impacts ...",
+  "tags": [
+    "app-builder"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538950/catalog/aerisweather/icon128x128.png"
+}

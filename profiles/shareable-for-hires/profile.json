@@ -1,0 +1,13 @@
+{
+  "id": "shareable-for-hires",
+  "title": "ShareAble for Hires",
+  "subtitle": "TransUnion pre-employment screening enables small business owners to do background checks quickly, easily & effective...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1654090666/icons/shareable-for-hires.jpg",
+  "website": "https://hires.shareable.com/"
+}

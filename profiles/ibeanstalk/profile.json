@@ -1,0 +1,15 @@
+{
+  "id": "ibeanstalk",
+  "title": "Beanstalk Payment Technologies",
+  "subtitle": "Beanstalk Payment Technologies",
+  "tags": [
+    "payments",
+    "payment-routing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741010/icons/ibeanstalk.png",
+  "website": "https://ibeanstalk.com/",
+  "docsUrl": "https://ibeanstalk.com/#divdocumentation"
+}

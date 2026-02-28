@@ -1,0 +1,14 @@
+{
+  "id": "accountor",
+  "title": "Accountor Group",
+  "subtitle": "Accountor specialises in software and services for financial and HR management. We operate in Finland, Sweden, Norway...",
+  "tags": [
+    "hr-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668171292/icons/accountor.jpg",
+  "website": "https://www.accountor.com/",
+  "docsUrl": "https://www.accountor.com/en/denmark/reference/telenor-reference-video"
+}

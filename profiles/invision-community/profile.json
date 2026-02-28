@@ -1,0 +1,13 @@
+{
+  "id": "invision-community",
+  "title": "Invision Community",
+  "subtitle": "Invision Community is a leading platform for building vibrant communities with forums, eCommerce, content management,...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946902/catalog/invision-community/icon128x128.jpg",
+  "website": "https://invisioncommunity.com"
+}

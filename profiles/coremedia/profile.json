@@ -1,0 +1,13 @@
+{
+  "id": "coremedia",
+  "title": "Coremedia",
+  "subtitle": "CoreMedia is the strategic content management and experience orchestration engine behind today’s most iconic online b...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826183/catalog/coremedia/icon128x128.jpg",
+  "website": "https://coremedia.com"
+}

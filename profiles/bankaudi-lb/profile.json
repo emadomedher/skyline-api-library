@@ -1,0 +1,13 @@
+{
+  "id": "bankaudi-lb",
+  "title": "Bank Audi",
+  "subtitle": "Bank Audi S.A.L. is Lebanon's largest bank in terms of both customer deposits and total assets. Bank Audi currently o...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612341784/icons/bankaudi-lb.png",
+  "website": "https://www.bankaudi.com.lb/"
+}

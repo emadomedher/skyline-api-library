@@ -1,0 +1,14 @@
+{
+  "id": "thinknum",
+  "title": "Thinknum",
+  "subtitle": "Join the businesses who have begun to edge out competitors by scouring the web for alternative data.",
+  "tags": [
+    "alternative-data",
+    "lead-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586444627/catalog/thinknum/icon128x128.jpg",
+  "website": "https://www.thinknum.com/"
+}

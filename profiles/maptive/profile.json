@@ -1,0 +1,13 @@
+{
+  "id": "maptive",
+  "title": "Maptive",
+  "subtitle": "Maptive can transform your location data into a beautiful, customized Google map in just a few steps. Using our mappi...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435745/catalog/maptive/icon128x128.png",
+  "website": "https://maptive.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "metropolitan-commercial-bank",
+  "title": "Metropolitan Commercial Bank",
+  "subtitle": "Metropolitan Commercial Bank, headquartered in New York City, is a full-service commercial bank with banking centers ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616014215/icons/metropolitan-commercial-bank.png",
+  "website": "https://www.mcbankny.com/",
+  "docsUrl": "https://docs-api.mcbankny.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "apis-guru",
+  "title": "APIs.guru",
+  "subtitle": "API tooling for better developer experience. We create tools to help developers workwith GraphQL and OpenAPI/Swagger.",
+  "tags": [
+    "api-development-tooling",
+    "development-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724239/icons/apis-guru.jpg",
+  "website": "https://apis.guru/",
+  "docsUrl": "https://docs.github.com/articles/which-remote-url-should-i-use"
+}

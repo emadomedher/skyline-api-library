@@ -1,0 +1,13 @@
+{
+  "id": "cooltool",
+  "title": "CoolTool",
+  "subtitle": "CoolTool provides the comprehensive solution to automate consumer research. Choose methodology or create your own one...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719607/catalog/cooltool/icon128x128.jpg",
+  "website": "https://cooltool.com"
+}

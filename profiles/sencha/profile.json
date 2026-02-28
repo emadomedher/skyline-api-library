@@ -1,0 +1,13 @@
+{
+  "id": "sencha",
+  "title": "Sencha",
+  "subtitle": "Sencha API integration",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946625/catalog/sencha/icon128x128.jpg",
+  "website": "https://sencha.com"
+}

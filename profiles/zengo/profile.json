@@ -1,0 +1,15 @@
+{
+  "id": "zengo",
+  "title": "ZenGo",
+  "subtitle": "ZenGo is the first keyless bitcoin and cryptocurrency wallet — the most simple and secure way to manage your crypto a...",
+  "tags": [
+    "crypto-wallets",
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583752294/catalog/zengo/icon128x128.png",
+  "website": "https://zengo.com/",
+  "docsUrl": "https://zengo.com/developers"
+}

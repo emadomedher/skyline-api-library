@@ -1,0 +1,13 @@
+{
+  "id": "buzzinga",
+  "title": "Buzzinga",
+  "subtitle": "Buzzinga Provides Social Media Monitoring & Listening Tool for Social Media Analytics Reporting, influencer identific...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947225/catalog/buzzinga/icon128x128.png",
+  "website": "https://buzzinga.com"
+}

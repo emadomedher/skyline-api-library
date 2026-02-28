@@ -1,0 +1,15 @@
+{
+  "id": "zebrium",
+  "title": "Zebrium",
+  "subtitle": "AIOps for Logs and Metrics. Zebrium uses unsupervised machine learning to automatically find root cause. Zero config....",
+  "tags": [
+    "log-management",
+    "root-cause-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616817188/icons/zebrium.jpg",
+  "website": "https://www.zebrium.com/",
+  "docsUrl": "https://docs.zebrium.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "minnatechnologies",
+  "title": "Minna Technologies",
+  "subtitle": "A subscription management platform that helps banks increase digital customer engagement.",
+  "tags": [
+    "subscription-management",
+    "infrastructure",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565432662/catalog/minnatechnologies/icon128x128.jpg",
+  "website": "https://minnatechnologies.com"
+}

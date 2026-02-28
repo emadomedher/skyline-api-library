@@ -1,0 +1,13 @@
+{
+  "id": "sellfy",
+  "title": "Sellfy",
+  "subtitle": "Sellfy is an e-commerce platform for selling music, videos, e-books and anything else digital.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306013/catalog/sellfy/icon128x128.png",
+  "website": "https://sellfy.com"
+}

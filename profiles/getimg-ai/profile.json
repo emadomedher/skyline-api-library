@@ -1,0 +1,13 @@
+{
+  "id": "getimg-ai",
+  "title": "getimg.ai",
+  "subtitle": "Magical AI art tools. Generate original images, modify existing ones, expand pictures beyond its original borders, an...",
+  "tags": [
+    "image-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671288565/icons/getimg-ai.jpg",
+  "website": "https://getimg.ai/"
+}

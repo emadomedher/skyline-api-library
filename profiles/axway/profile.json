@@ -1,0 +1,13 @@
+{
+  "id": "axway",
+  "title": "Axway",
+  "subtitle": "Axway is a catalyst for transformation with AMPLIFY and a leader in Gartner 2019 Magic Quadrant for Full Life Cycle A...",
+  "tags": [
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623628/icons/axway.jpg",
+  "website": "https://www.axway.com/"
+}

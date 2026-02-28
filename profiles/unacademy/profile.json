@@ -1,0 +1,13 @@
+{
+  "id": "unacademy",
+  "title": "Unacademy",
+  "subtitle": "Prepare for examinations and take any number of courses from various topics on Unacademy - an education revolution",
+  "tags": [
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801590/icons/unacademy.jpg",
+  "website": "https://unacademy.com/"
+}

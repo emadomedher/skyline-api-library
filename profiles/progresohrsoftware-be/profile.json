@@ -1,0 +1,13 @@
+{
+  "id": "progresohrsoftware-be",
+  "title": "progreso_hrsoftware",
+  "subtitle": "Onze geïntegreerde HR software biedt uw organisatie alle tools om HR in te zetten als strategische hefboom voor sterk...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662389195/icons/progresohrsoftware-be.jpg",
+  "website": "https://www.progresohrsoftware.be/"
+}

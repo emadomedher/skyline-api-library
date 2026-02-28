@@ -1,0 +1,13 @@
+{
+  "id": "bubble",
+  "title": "Visual Programming ",
+  "subtitle": "Bubble introduces a new way to build a web application. It’s a no-code point-and-click programming tool. Bubble hosts...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719264/catalog/bubble/icon128x128.jpg",
+  "website": "https://bubble.is"
+}

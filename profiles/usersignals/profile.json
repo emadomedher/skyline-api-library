@@ -1,0 +1,13 @@
+{
+  "id": "usersignals",
+  "title": "UserSignals",
+  "subtitle": "Automatically track user activity to improve conversion, increase retention, reduce churn and enable data-driven prod...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438199/catalog/usersignals/icon128x128.png",
+  "website": "https://usersignals.io"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "omnipresent-group",
+  "title": "Omnipresent",
+  "subtitle": "Join the remote work revolution. Hire and manage your international or remote team with Omnipresent. Save time, costs...",
+  "tags": [
+    "payroll",
+    "hr",
+    "remote"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597484199/icons/omnipresent-group.jpg",
+  "website": "https://omnipresent.group/"
+}

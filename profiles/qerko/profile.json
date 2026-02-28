@@ -1,0 +1,13 @@
+{
+  "id": "qerko",
+  "title": "Qerko",
+  "subtitle": "Qerko is loaded with great features for your business like fast checkout, tableside ordering, loyalty programs, verif...",
+  "tags": [
+    "mobile-food-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656945074/icons/qerko.png",
+  "website": "https://www.qerko.com/"
+}

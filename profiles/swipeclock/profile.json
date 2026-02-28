@@ -1,0 +1,13 @@
+{
+  "id": "swipeclock",
+  "title": "SwipeClock",
+  "subtitle": "Easily manage your workforce for less. SwipeClock's workforce management solutions help you hire, onboard, track time...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023399/icons/swipeclock.jpg",
+  "website": "https://www.swipeclock.com/"
+}

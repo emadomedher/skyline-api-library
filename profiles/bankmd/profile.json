@@ -1,0 +1,13 @@
+{
+  "id": "bankmd",
+  "title": "BankMD",
+  "subtitle": "The First Digital-Only Bank For Doctors.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629674010/icons/bankmd.jpg",
+  "website": "https://bankmd.com/"
+}

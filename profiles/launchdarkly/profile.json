@@ -1,0 +1,17 @@
+{
+  "id": "launchdarkly",
+  "title": "LaunchDarkly",
+  "subtitle": "Development teams are using feature management as a best practice to separate code deployments from feature releases ...",
+  "tags": [
+    "feature-flags",
+    "feature-management",
+    "toggle-management"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567510943/catalog/launchdarkly/icon128x128.jpg",
+  "specUrl": "https://launchdarkly.github.io/ld-openapi/openapi.yaml",
+  "website": "https://launchdarkly.com/",
+  "docsUrl": "https://docs.launchdarkly.com/docs"
+}

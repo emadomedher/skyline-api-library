@@ -1,0 +1,13 @@
+{
+  "id": "antfin",
+  "title": "Ant Financial",
+  "subtitle": "Ant Financial Services Group, formerly known as Alipay, is an affiliate company of the Chinese Alibaba Group. Ant Fin...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327401/icons/antfin.jpg",
+  "website": "https://www.antfin.com/"
+}

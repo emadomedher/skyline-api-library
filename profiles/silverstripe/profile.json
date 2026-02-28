@@ -1,0 +1,13 @@
+{
+  "id": "silverstripe",
+  "title": "SilverStripe",
+  "subtitle": "SilverStripe CMS is the intuitive, open source content management system and flexible framework loved by editors and ...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827611/catalog/silverstripe/icon128x128.jpg",
+  "website": "https://silverstripe.org"
+}

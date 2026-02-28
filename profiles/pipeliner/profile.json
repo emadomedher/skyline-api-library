@@ -1,0 +1,13 @@
+{
+  "id": "pipeliner",
+  "title": "Pipeliner",
+  "subtitle": "Next generation sales CRM software designed to empower sales teams and grow profitable customer relationships.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305680/catalog/pipeliner/icon128x128.png",
+  "website": "https://www.pipelinersales.com/"
+}

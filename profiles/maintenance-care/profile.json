@@ -1,0 +1,12 @@
+{
+  "id": "maintenance-care",
+  "title": "Maintenance Care",
+  "subtitle": "Maintenance Care is a CMMS software for work orders, preventive maintenance and asset management.",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305386/catalog/maintenance-care/icon128x128.png"
+}

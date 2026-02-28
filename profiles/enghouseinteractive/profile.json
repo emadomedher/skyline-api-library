@@ -1,0 +1,13 @@
+{
+  "id": "enghouseinteractive",
+  "title": "Enghouse Interactive",
+  "subtitle": "Unlock the power of your contact center with Enghouse Interactive. Engage your customers across all channels, provide...",
+  "tags": [
+    "contact-centers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576225761/catalog/enghouseinteractive/icon128x128.jpg",
+  "website": "https://www.enghouseinteractive.com/"
+}

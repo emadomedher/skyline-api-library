@@ -1,0 +1,13 @@
+{
+  "id": "salesoutlook-crm",
+  "title": "SalesOutlook CRM",
+  "subtitle": "Outlook CRM by SalesOutlook Inc is a completely embedded Customer Relationship Management system with Microsoft Outlo...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613154082/icons/salesoutlook-crm.png",
+  "website": "https://salesoutlookcrm.com"
+}

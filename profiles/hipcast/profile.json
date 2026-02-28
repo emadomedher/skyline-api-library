@@ -1,0 +1,13 @@
+{
+  "id": "hipcast",
+  "title": "Hipcast",
+  "subtitle": "Upload, Manage, and Publish your podcasts in the cloud with Hipcast.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946943/catalog/hipcast/icon128x128.png",
+  "website": "https://hipcast.com"
+}

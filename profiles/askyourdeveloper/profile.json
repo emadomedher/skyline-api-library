@@ -1,0 +1,15 @@
+{
+  "id": "askyourdeveloper",
+  "title": "Ask Your Developer",
+  "subtitle": "Jeff Lawson, software developer turned CEO of Twilio, shares a new approach for winning in the digital era. Unleash t...",
+  "tags": [
+    "books",
+    "resources"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611698082/icons/askyourdeveloper.jpg",
+  "website": "https://www.askyourdeveloper.com/",
+  "docsUrl": "https://www.barnesandnoble.com/w/ask-your-developer-jeff-lawson/1136140709"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bs-payone",
+  "title": "BS PAYONE",
+  "subtitle": "BS Payone bietet  Omnichannel Payment Lösungen. Geschäft starten✔ Umsatz steigern✔ Anbieter wechseln✔ ► Jetzt zu alle...",
+  "tags": [
+    "payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559118933/catalog/bs-payone/icon128x128.jpg",
+  "website": "https://bspayone.com"
+}

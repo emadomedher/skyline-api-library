@@ -1,0 +1,13 @@
+{
+  "id": "connexions-loyalty",
+  "title": "Connexions Loyalty",
+  "subtitle": "We build loyalty every day by giving our clients the power to connect with their customers. At Connexions Loyalty, ou...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719567/catalog/connexions-loyalty/icon128x128.jpg",
+  "website": "https://cxloyalty.com"
+}

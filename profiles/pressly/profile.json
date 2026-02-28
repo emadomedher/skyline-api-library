@@ -1,0 +1,13 @@
+{
+  "id": "pressly",
+  "title": "Pressly",
+  "subtitle": "Pressly API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436593/catalog/pressly/icon128x128.png",
+  "website": "https://pressly.com"
+}

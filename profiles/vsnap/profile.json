@@ -1,0 +1,13 @@
+{
+  "id": "vsnap",
+  "title": "Vsnap",
+  "subtitle": "Vsnap API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561390214/catalog/vsnap/icon128x128.png",
+  "website": "https://vsnap.com"
+}

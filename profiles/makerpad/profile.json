@@ -1,0 +1,13 @@
+{
+  "id": "makerpad",
+  "title": "Makerpad",
+  "subtitle": "The easiest way to build tools without code. Explore the best no-code tools. Learn how to build powerful applications...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583514623/catalog/makerpad/icon128x128.png",
+  "website": "https://www.makerpad.co/"
+}

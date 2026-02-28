@@ -1,0 +1,15 @@
+{
+  "id": "jobsoid",
+  "title": "Jobsoid",
+  "subtitle": "Hire better & faster with Jobsoid, an all-in-one recruitment software for business owners, hiring managers & recruitm...",
+  "tags": [
+    "ats",
+    "recruiting"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215701/icons/jobsoid.jpg",
+  "website": "https://www.jobsoid.com/",
+  "docsUrl": "https://api.jobsoid.com"
+}

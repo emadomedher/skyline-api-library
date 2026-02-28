@@ -1,0 +1,12 @@
+{
+  "id": "replyify",
+  "title": "Replyify",
+  "subtitle": "Replyify is a B2B sales platform to automate personalized cold emails & follow-ups. Generate a consistent pipeline of...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284591/catalog/replyify/icon128x128.png"
+}

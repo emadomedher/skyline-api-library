@@ -1,0 +1,14 @@
+{
+  "id": "askzeta",
+  "title": "Zeta",
+  "subtitle": "Zeta helps the modern-day couple win at money. We are fully automating money management as couples take on $6.4 trill...",
+  "tags": [
+    "challenger-banks",
+    "personal-money-mangement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613081065/icons/askzeta.png",
+  "website": "https://www.askzeta.com/"
+}

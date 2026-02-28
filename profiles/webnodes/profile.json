@@ -1,0 +1,13 @@
+{
+  "id": "webnodes",
+  "title": "Webnodes",
+  "subtitle": "Webnodes is an enterprise quality ASP.Net CMS framework. It's suitable for a wide range of project types, ranging fro...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828017/catalog/webnodes/icon128x128.png",
+  "website": "https://webnodes.com"
+}

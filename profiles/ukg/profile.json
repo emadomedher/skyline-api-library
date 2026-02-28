@@ -1,0 +1,15 @@
+{
+  "id": "ukg",
+  "title": "UKG",
+  "subtitle": "At UKG™ our purpose is people — providing HR workforce management solutions that help you deliver global workforce ex...",
+  "tags": [
+    "hris",
+    "hr",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604419108/icons/ukg.jpg",
+  "website": "https://www.ukg.com/"
+}

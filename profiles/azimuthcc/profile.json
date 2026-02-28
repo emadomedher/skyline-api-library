@@ -1,0 +1,13 @@
+{
+  "id": "azimuthcc",
+  "title": "Azimuthcc",
+  "subtitle": "Compliance and quality consulting services and business process management software for life science and healthcare c...",
+  "tags": [
+    "consultancy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583910861/catalog/azimuthcc/icon128x128.jpg",
+  "website": "https://azimuthcc.com/"
+}

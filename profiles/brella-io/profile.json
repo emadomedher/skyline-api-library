@@ -1,0 +1,13 @@
+{
+  "id": "brella-io",
+  "title": "Brella",
+  "subtitle": "Award-winning networking software organizers trust and attendees love. Brella brings the best event matchmaking to yo...",
+  "tags": [
+    "event-networking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570350238/catalog/brella-io/icon128x128.jpg",
+  "website": "https://www.brella.io/"
+}

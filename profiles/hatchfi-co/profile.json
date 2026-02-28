@@ -1,0 +1,15 @@
+{
+  "id": "hatchfi-co",
+  "title": "Hatchfi",
+  "subtitle": "The most seamless way for people to connect crypto accounts to any app. Instant access to human-readable digital asse...",
+  "tags": [
+    "crypto-api",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672276712/icons/hatchfi-co.png",
+  "website": "https://hatchfi.co/",
+  "docsUrl": "https://docs.hatchfi.co/docs/hatchfi-api-objects"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "yuki",
+  "title": "Yuki",
+  "subtitle": "Yuki was one of the first companies that introduced scan-accounting enhanced with document recognition. This is a way...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1543568999/catalog/yuki/icon128x128.jpg",
+  "website": "https://www.yuki.nl",
+  "docsUrl": "https://www.yuki.be/webservice-api/"
+}

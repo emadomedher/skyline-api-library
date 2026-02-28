@@ -1,0 +1,12 @@
+{
+  "id": "followup",
+  "title": "FollowUp.cc",
+  "subtitle": "FollowUp.cc is a timed email reminder system that gives users the ability to create reminders via email through forma...",
+  "tags": [
+    "drip-emails"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304946/catalog/followup/icon128x128.png"
+}

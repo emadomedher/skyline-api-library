@@ -1,0 +1,13 @@
+{
+  "id": "cheqroom",
+  "title": "CHEQROOM",
+  "subtitle": "CHEQROOM is equipment management software that helps register and track your valuable assets in the cloud. Available ...",
+  "tags": [
+    "equipment-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573666282/catalog/cheqroom/icon128x128.png",
+  "website": "https://www.cheqroom.com/"
+}

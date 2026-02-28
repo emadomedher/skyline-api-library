@@ -1,0 +1,14 @@
+{
+  "id": "deskdrive",
+  "title": "DeskDrive",
+  "subtitle": "DeskDrive is de digitale assistent en de oplossing voor administratie en overzicht voor elk bedrijf. DeskDrive is ook...",
+  "tags": [
+    "erp",
+    "crm"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583982046/catalog/deskdrive/icon128x128.png",
+  "website": "https://deskdrive.com/"
+}

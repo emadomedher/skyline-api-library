@@ -1,0 +1,13 @@
+{
+  "id": "1pointmail",
+  "title": "1PointMail",
+  "subtitle": "Enterprise Email Solutions 1Point Interactive",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717055/catalog/1pointmail/icon128x128.jpg",
+  "website": "https://1pointinteractive.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "comsof",
+  "title": "Comsof",
+  "subtitle": "Comsof is software empowering you to efficiently design future-proof networks.",
+  "tags": [
+    "network-planning",
+    "network-design"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607660007/icons/comsof.jpg",
+  "website": "https://comsof.com/"
+}

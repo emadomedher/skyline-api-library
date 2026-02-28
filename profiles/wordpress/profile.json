@@ -1,0 +1,14 @@
+{
+  "id": "wordpress",
+  "title": "WordPress",
+  "subtitle": "WordPress is web software you can use to create a beautiful website or blog. Nearly 20% of the top 10 million website...",
+  "tags": [
+    "wordpress",
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456054/catalog/wordpress/icon128x128.png",
+  "website": "https://wordpress.com/"
+}

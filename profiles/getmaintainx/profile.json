@@ -1,0 +1,14 @@
+{
+  "id": "getmaintainx",
+  "title": "MaintainX",
+  "subtitle": "MaintainX helps you track your reactive maintenance, preventive maintenance, and control the daily operations of your...",
+  "tags": [
+    "preventive-maintenance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623961906/icons/getmaintainx.jpg",
+  "website": "https://www.getmaintainx.com/",
+  "docsUrl": "https://github.com/redocly/redoc"
+}

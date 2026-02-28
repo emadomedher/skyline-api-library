@@ -1,0 +1,13 @@
+{
+  "id": "jangomail",
+  "title": "Jangomail",
+  "subtitle": "JangoMail - Cutting Edge Email Technology - Best Email Service Provider. Send Email Campaigns and Transactional Messa...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720596/catalog/jangomail/icon128x128.jpg",
+  "website": "https://jangomail.com"
+}

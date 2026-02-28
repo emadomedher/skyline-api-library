@@ -1,0 +1,14 @@
+{
+  "id": "duckcreek",
+  "title": "Duck Creek Technologies",
+  "subtitle": "Duck Creek Technologies is a leading provider of comprehensive P&C insurance software and services for insurers of al...",
+  "tags": [
+    "reinsurance-management",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640257825/icons/duckcreek.jpg",
+  "website": "https://www.duckcreek.com/"
+}

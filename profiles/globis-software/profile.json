@@ -1,0 +1,14 @@
+{
+  "id": "globis-software",
+  "title": "Globis Software NV",
+  "subtitle": "Globis helps you streamline your processes with a state-of-the art platform as a leader in enterprise software in the...",
+  "tags": [
+    "supply-chain-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701492/icons/globis-software.png",
+  "website": "https://globis-software.com/",
+  "docsUrl": "https://globis-software.com/about-us/careers/junior-front-end-developer"
+}

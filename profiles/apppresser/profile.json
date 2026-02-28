@@ -1,0 +1,13 @@
+{
+  "id": "apppresser",
+  "title": "AppPresser",
+  "subtitle": "The #1 way to convert your WordPress website into an iOS and Android mobile app. Build in WordPress, deploy to the ap...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774808/catalog/apppresser/icon128x128.png",
+  "website": "https://apppresser.com"
+}

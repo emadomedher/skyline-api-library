@@ -1,0 +1,13 @@
+{
+  "id": "finstar-ch",
+  "title": "Finstar",
+  "subtitle": "Finstar API integration",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593641953/icons/finstar-ch.jpg",
+  "website": "https://www.finstar.ch/"
+}

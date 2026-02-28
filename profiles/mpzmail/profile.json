@@ -1,0 +1,13 @@
+{
+  "id": "mpzmail",
+  "title": "MPZMail",
+  "subtitle": "MPZMail API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721182/catalog/mpzmail/icon128x128.jpg",
+  "website": "https://mpzmail.com"
+}

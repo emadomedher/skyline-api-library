@@ -1,0 +1,13 @@
+{
+  "id": "facturatieoffice-nl",
+  "title": "Facturatie Office",
+  "subtitle": "Gratis online alles-in-een facturatie software | Voorraadbeheer ✓ Kosten administratie ✓ Projectbeheer en Tijdregistr...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982432/catalog/facturatieoffice-nl/icon128x128.jpg",
+  "website": "https://facturatieoffice.nl/"
+}

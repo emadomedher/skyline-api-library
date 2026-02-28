@@ -1,0 +1,13 @@
+{
+  "id": "byebyerent",
+  "title": "byebyerent",
+  "subtitle": "Byebyerent is the most simple and fastest way to buy a home with no savings. If you can't buy it alone buy it with us. ",
+  "tags": [
+    "home-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643105716/icons/byebyerent.jpg",
+  "website": "https://byebyerent.com/"
+}

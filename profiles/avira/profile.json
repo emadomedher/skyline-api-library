@@ -1,0 +1,13 @@
+{
+  "id": "avira",
+  "title": "Avira",
+  "subtitle": "Discover a range of award-winning security, privacy & performance tools for all devices. • Antivirus • VPN • System S...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779860/catalog/avira/icon128x128.jpg",
+  "website": "https://www.avira.com/"
+}

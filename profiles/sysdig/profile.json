@@ -1,0 +1,14 @@
+{
+  "id": "sysdig",
+  "title": "Sysdig",
+  "subtitle": "Open by design and built for the enterprise, Sysdig is converging security with DevOps for cloud native production de...",
+  "tags": [
+    "container-security",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588108000/catalog/sysdig/icon128x128.png",
+  "website": "https://sysdig.com/"
+}

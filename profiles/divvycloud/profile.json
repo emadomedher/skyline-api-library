@@ -1,0 +1,13 @@
+{
+  "id": "divvycloud",
+  "title": "DivvyCloud",
+  "subtitle": "DivvyCloud protects cloud and container environments from misconfigurations, policy violations, threats, and IAM chal...",
+  "tags": [
+    "cloud-cost-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620383396/icons/divvycloud.png",
+  "website": "https://divvycloud.com/"
+}

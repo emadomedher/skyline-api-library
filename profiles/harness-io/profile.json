@@ -1,0 +1,15 @@
+{
+  "id": "harness-io",
+  "title": "Harness",
+  "subtitle": "Harness is a self-service CI/CD tool that allows engineers and DevOps to build, test, deploy, and verify software, on...",
+  "tags": [
+    "continuous-integration",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610678343/icons/harness-io.png",
+  "website": "https://harness.io/",
+  "docsUrl": "https://harness.io/#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "snipcart",
+  "title": "Snipcart",
+  "subtitle": "Add a shopping cart to your site in minutes. Works with any site builder, CMS, and framework. 20 000+ merchants trust...",
+  "tags": [
+    "ecommerce-platforms-and-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437475/catalog/snipcart/icon128x128.png",
+  "website": "https://snipcart.com",
+  "docsUrl": "https://docs.snipcart.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gocd-org",
+  "title": "GoCD",
+  "subtitle": "GoCD is an open source build and release tool from ThoughtWorks. GoCD supports modern infrastructure and helps enterp...",
+  "tags": [
+    "continuous-deployment"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614353/catalog/gocd-org/icon128x128.jpg",
+  "website": "https://www.gocd.org/"
+}

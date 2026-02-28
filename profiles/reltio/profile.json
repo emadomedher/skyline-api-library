@@ -1,0 +1,13 @@
+{
+  "id": "reltio",
+  "title": "Reltio",
+  "subtitle": "Master Data Management Software by Reltio. It combines modern MDM software with data-driven applications for better p...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721801/catalog/reltio/icon128x128.png",
+  "website": "https://Reltio.com"
+}

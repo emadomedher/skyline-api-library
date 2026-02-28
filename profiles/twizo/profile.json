@@ -1,0 +1,12 @@
+{
+  "id": "twizo",
+  "title": "Twizo",
+  "subtitle": "Twizo lets you easily send SMS messages.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306386/catalog/twizo/icon128x128.png"
+}

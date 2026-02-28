@@ -1,0 +1,13 @@
+{
+  "id": "travelperk",
+  "title": "TravelPerk",
+  "subtitle": "Book & manage all your business travel online in one single place with the world’s best ranked corporate travel manag...",
+  "tags": [
+    "travel-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570527392/catalog/travelperk/icon128x128.png",
+  "website": "https://www.travelperk.com/"
+}

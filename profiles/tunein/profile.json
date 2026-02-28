@@ -1,0 +1,13 @@
+{
+  "id": "tunein",
+  "title": "TuneIn",
+  "subtitle": "Listen to free internet radio, sports, music, news, talk and podcasts. Stream live events, live play-by-play NFL, MLB...",
+  "tags": [
+    "podcasts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567369105/catalog/tunein/icon128x128.jpg",
+  "website": "https://tunein.com"
+}

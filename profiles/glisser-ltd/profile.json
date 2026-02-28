@@ -1,0 +1,13 @@
+{
+  "id": "glisser-ltd",
+  "title": "Glisser Ltd",
+  "subtitle": "Award winning slide sharing and audience response system that shares presentation slides to smartphones in real-time ...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946961/catalog/glisser-ltd/icon128x128.jpg",
+  "website": "https://glisser.com"
+}

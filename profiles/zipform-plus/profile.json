@@ -1,0 +1,12 @@
+{
+  "id": "zipform-plus",
+  "title": "zipForm Plus",
+  "subtitle": "For more than 20 years, zipForm® — zipLogix's real estate forms software and the exclusive and official forms softwar...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306582/catalog/zipform-plus/icon128x128.png"
+}

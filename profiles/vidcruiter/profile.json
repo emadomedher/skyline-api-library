@@ -1,0 +1,14 @@
+{
+  "id": "vidcruiter",
+  "title": "VidCruiter",
+  "subtitle": "VidCruiter offers the industry-leading video recruiting platform enabling you to identify, filter and acquire talent ...",
+  "tags": [
+    "video-interviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990330/icons/vidcruiter.png",
+  "website": "https://vidcruiter.com/",
+  "docsUrl": "https://vidcruiter.com/automated-reference-checking"
+}

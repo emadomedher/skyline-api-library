@@ -1,0 +1,13 @@
+{
+  "id": "accentsoftware-insyte",
+  "title": "Insyte",
+  "subtitle": "Accent Software's flagship software package Insyte CRM for the window Furnishing industry. Be at the Competitive Edge...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645588149/icons/accentsoftware-insyte.jpg",
+  "website": "https://www.accentsoftware.com.au/insyte"
+}

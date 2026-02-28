@@ -1,0 +1,13 @@
+{
+  "id": "jama-software",
+  "title": "Jama Software",
+  "subtitle": "Jama Software leads the field in product development software, offering requirements management, traceability, test m...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720591/catalog/jama-software/icon128x128.png",
+  "website": "https://jamasoftware.com"
+}

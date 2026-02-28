@@ -1,0 +1,13 @@
+{
+  "id": "thoughtworks",
+  "title": "ThoughtWorks",
+  "subtitle": "We're a global technology consultancy. We help you invent what's next, and bring it to life with technology. In weeks...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722513/catalog/thoughtworks/icon128x128.png",
+  "website": "https://thoughtworks.com"
+}

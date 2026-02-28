@@ -1,0 +1,15 @@
+{
+  "id": "accountable-eu",
+  "title": "Accountable",
+  "subtitle": "Accountable is the smart mobile app for freelancers: it calculates your taxes in real-time, gives you the recommendat...",
+  "tags": [
+    "invoicing",
+    "fintech",
+    "accounting"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605145651/icons/accountable-eu.jpg",
+  "website": "https://www.accountable.eu/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "blocktix",
+  "title": "Blocktix",
+  "subtitle": "A chain of custody ticketing system",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719165/catalog/blocktix/icon128x128.jpg",
+  "website": "https://blocktix.io"
+}

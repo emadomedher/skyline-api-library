@@ -1,0 +1,13 @@
+{
+  "id": "engagespot",
+  "title": "Engagespot",
+  "subtitle": "Engagespot helps web developers implement user push notifications in their web applications. Add web push, realtime n...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826368/catalog/engagespot/icon128x128.jpg",
+  "website": "https://engagespot.co"
+}

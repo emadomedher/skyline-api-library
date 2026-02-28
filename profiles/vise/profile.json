@@ -1,0 +1,15 @@
+{
+  "id": "vise",
+  "title": "Vise",
+  "subtitle": "Vise Portfolio Management",
+  "tags": [
+    "financial-advisor",
+    "investment-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611123663/icons/vise.jpg",
+  "website": "https://vise.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "datashieldprotect",
+  "title": "DATASHIELD",
+  "subtitle": "Managed Security Service Provider - MDR, SOC Level II Type 2: Scottsdale, AZ | Threat Detection, Hunting, SIEM Manage...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207271/icons/datashieldprotect.jpg",
+  "website": "https://www.datashieldprotect.com/"
+}

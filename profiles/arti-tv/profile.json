@@ -1,0 +1,13 @@
+{
+  "id": "arti-tv",
+  "title": "Arti",
+  "subtitle": "Broadcast-quality, cloud-based AR to-go. Arti brings content to the next level by seamlessly embedding the virtual in...",
+  "tags": [
+    "presentations"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082134/icons/arti-tv.jpg",
+  "website": "https://arti.tv/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "vopay",
+  "title": "VoPay",
+  "subtitle": "VoPay is an innovative payment technology layer that enables businesses to accept, collect and send online bank accou...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576901180/catalog/vopay/icon128x128.jpg",
+  "website": "https://vopay.com/",
+  "docsUrl": "https://docs.vopay.com"
+}

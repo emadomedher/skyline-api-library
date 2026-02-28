@@ -1,0 +1,13 @@
+{
+  "id": "boostinsider",
+  "title": "Boostinsider",
+  "subtitle": "Boostinsider is an influencer marketing platform where top social media influencers promote brands they love. Launch ...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719198/catalog/boostinsider/icon128x128.jpg",
+  "website": "https://boostinsider.com"
+}

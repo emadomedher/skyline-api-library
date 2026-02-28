@@ -1,0 +1,15 @@
+{
+  "id": "ebay",
+  "title": "eBay",
+  "subtitle": "Buy & sell electronics, cars, clothes, collectibles & more on eBay, the world's online marketplace. Top brands, low p...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "asyncapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055868/catalog/ebay/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/apideck-io/api-registry/master/specs/ebay/marketplace-account-deletion-asyncapi-1.0.0-2021-05-21.yaml",
+  "website": "https://www.ebay.com/",
+  "docsUrl": "https://developer.ebay.com/"
+}

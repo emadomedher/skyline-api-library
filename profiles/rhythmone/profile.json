@@ -1,0 +1,13 @@
+{
+  "id": "rhythmone",
+  "title": "RhythmOne",
+  "subtitle": "RhythmOne API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962479/catalog/rhythmone/icon128x128.png",
+  "website": "https://rhythminfluence.com"
+}

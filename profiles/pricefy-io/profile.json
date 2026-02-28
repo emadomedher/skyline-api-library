@@ -1,0 +1,15 @@
+{
+  "id": "pricefy-io",
+  "title": "PRICEFY.IO",
+  "subtitle": "Monitor your competitors' products and prices with ease. No single URLs to paste or proxies to rotate, just put your ...",
+  "tags": [
+    "price-monitoring",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615310757/icons/pricefy-io.png",
+  "website": "https://www.pricefy.io/",
+  "docsUrl": "https://developers.pricefy.io"
+}

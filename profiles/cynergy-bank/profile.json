@@ -1,0 +1,14 @@
+{
+  "id": "cynergy-bank",
+  "title": "Cynergy Bank",
+  "subtitle": "Cynergy Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568569724/catalog/cynergy-bank/icon128x128.jpg",
+  "website": "https://www.cynergybank.co.uk/international",
+  "docsUrl": "https://openbanking.cynergybank.co.uk/store/"
+}

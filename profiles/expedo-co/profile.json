@@ -1,0 +1,13 @@
+{
+  "id": "expedo-co",
+  "title": "Expedo",
+  "subtitle": "Expedo is a scalable HR software solution that centralises the end-to-end employment journey for local, national and ...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659480618/icons/expedo-co.jpg",
+  "website": "https://www.expedo.co/"
+}

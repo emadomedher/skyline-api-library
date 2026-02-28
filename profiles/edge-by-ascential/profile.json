@@ -1,0 +1,13 @@
+{
+  "id": "edge-by-ascential",
+  "title": "Edge by Ascential",
+  "subtitle": "Edge by Ascential API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963981/catalog/edge-by-ascential/icon128x128.png",
+  "website": "https://ascentialedge.com"
+}

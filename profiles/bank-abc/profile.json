@@ -1,0 +1,13 @@
+{
+  "id": "bank-abc",
+  "title": "Bank ABC (Arab Banking Corporation)",
+  "subtitle": "Bank ABC (incorporated as Arab Banking Corporation B.S.C) is an international bank headquartered in Manama, Kingdom o...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600016317/icons/bank-abc.jpg",
+  "website": "https://www.bank-abc.com/"
+}

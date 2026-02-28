@@ -1,0 +1,13 @@
+{
+  "id": "goldmine",
+  "title": "Goldmine",
+  "subtitle": "GoldMine CRM: Own your CRM software or Cloud based options. Mobile access, Windows 10 ready, integrated with Constant...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720258/catalog/goldmine/icon128x128.jpg",
+  "website": "https://goldmine.com"
+}

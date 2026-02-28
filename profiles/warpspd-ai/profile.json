@@ -1,0 +1,13 @@
+{
+  "id": "warpspd-ai",
+  "title": "WARPSPD",
+  "subtitle": "WARPSPD API integration",
+  "tags": [
+    "customer-engagement"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625134757/icons/warpspd-ai.jpg",
+  "website": "https://www.warpspd.ai/"
+}

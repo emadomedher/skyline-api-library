@@ -1,0 +1,13 @@
+{
+  "id": "kb-kookmin-bank",
+  "title": "KB Kookmin Bank",
+  "subtitle": "KB Kookmin Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612239231/icons/kb-kookmin-bank.jpg",
+  "website": "https://omoney.kbstar.com/"
+}

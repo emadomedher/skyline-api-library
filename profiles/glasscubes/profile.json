@@ -1,0 +1,13 @@
+{
+  "id": "glasscubes",
+  "title": "Glasscubes",
+  "subtitle": "Glasscubes makes it easy to work with anyone, from anywhere. It’s user-friendly, quick to implement and simplifies co...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946964/catalog/glasscubes/icon128x128.png",
+  "website": "https://glasscubes.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "burly-io",
+  "title": "Burly",
+  "subtitle": "A friendly WordPress framework written for designers to create, clients to edit, and the world to see. - elbongurk/burly",
+  "tags": [
+    "wordpress-frameworks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597405227/icons/burly-io.png",
+  "website": "https://burly.io/"
+}

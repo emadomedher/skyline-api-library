@@ -1,0 +1,13 @@
+{
+  "id": "payt-nl",
+  "title": "Payt",
+  "subtitle": "Payt automatiseert het debiteurenbeheer van uw organisatie, met behoud van persoonlijk contact. Dat doen we door de d...",
+  "tags": [
+    "debtor-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509303/catalog/payt-nl/icon128x128.png",
+  "website": "https://www.payt.nl/"
+}

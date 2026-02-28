@@ -1,0 +1,13 @@
+{
+  "id": "omnea-co",
+  "title": "Omnea ",
+  "subtitle": "The world's first Procurement Orchestration Layer, enabling your employees to buy the things they need with ease. Omn...",
+  "tags": [
+    "b-2-b-purchasing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1666698517/icons/omnea-co.jpg",
+  "website": "https://www.omnea.co/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mailmodo",
+  "title": "Mailmodo",
+  "subtitle": "Create and send interactive emails to maximize conversions and reinvent your user journey",
+  "tags": [
+    "email-marketing",
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628132439/icons/mailmodo.jpg",
+  "website": "https://www.mailmodo.com/",
+  "docsUrl": "https://www.mailmodo.com/developers"
+}

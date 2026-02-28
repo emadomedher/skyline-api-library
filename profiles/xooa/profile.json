@@ -1,0 +1,12 @@
+{
+  "id": "xooa",
+  "title": "Xooa",
+  "subtitle": "Xooa is a blockchain-as-a-service (BaaS) platform that helps users store, retrieve and share data in an immutable blo...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284660/catalog/xooa/icon128x128.jpg"
+}

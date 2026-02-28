@@ -1,0 +1,13 @@
+{
+  "id": "castlighthealth",
+  "title": "Castlight Health",
+  "subtitle": "Motivate healthy habits. Engage employees every day with a comprehensive wellbeing solution that promotes healthy min...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615053321/icons/castlighthealth.png",
+  "website": "https://www.castlighthealth.com/"
+}

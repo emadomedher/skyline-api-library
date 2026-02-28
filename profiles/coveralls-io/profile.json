@@ -1,0 +1,16 @@
+{
+  "id": "coveralls-io",
+  "title": "Coveralls",
+  "subtitle": "Ensure that all your new code is fully covered, and see coverage trends emerge. Works with any CI service. Always fre...",
+  "tags": [
+    "code-coverage",
+    "testing",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603867693/icons/coveralls-io.png",
+  "website": "https://coveralls.io/",
+  "docsUrl": "https://docs.coveralls.io"
+}

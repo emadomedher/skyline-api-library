@@ -1,0 +1,14 @@
+{
+  "id": "lessonly",
+  "title": "Lessonly",
+  "subtitle": "We help you foster employee confidence, one lesson at a time. We love customer service training, sales training, and ...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305298/catalog/lessonly/icon128x128.jpg",
+  "website": "https://lessonly.com",
+  "docsUrl": "https://www.lessonly.com/documentation"
+}

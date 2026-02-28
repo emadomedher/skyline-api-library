@@ -1,0 +1,13 @@
+{
+  "id": "orbitalwitness",
+  "title": "Orbital Witness",
+  "subtitle": "Orbital Witness helps real estate lawyers to get on with the job of providing useful, clear advice in property transa...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594981074/icons/orbitalwitness.jpg",
+  "website": "https://www.orbitalwitness.com/"
+}

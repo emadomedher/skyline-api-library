@@ -1,0 +1,15 @@
+{
+  "id": "permit-io",
+  "title": "permit.io ",
+  "subtitle": "Easily bake-in access control in minutes regardless of previous experience or expertise. Based on OPA and OPAL. Treat...",
+  "tags": [
+    "role-based-access-control",
+    "authorization-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642619990/icons/permit-io.png",
+  "website": "https://www.permit.io/",
+  "docsUrl": "https://docs.permit.io"
+}

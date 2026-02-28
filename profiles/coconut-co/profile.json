@@ -1,0 +1,15 @@
+{
+  "id": "coconut-co",
+  "title": "Coconut",
+  "subtitle": "We have enabled 430+ companies (Tumblr, HeroSpark, Adobe, SeeSaw, Sony, ClassDojo..) to outsource video transcoding t...",
+  "tags": [
+    "video-endoding",
+    "video-transcoding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614718763/icons/coconut-co.png",
+  "website": "https://coconut.co/",
+  "docsUrl": "https://coconut.co/docs"
+}

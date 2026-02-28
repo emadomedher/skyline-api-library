@@ -1,0 +1,13 @@
+{
+  "id": "editoreye",
+  "title": "EditorEye",
+  "subtitle": "Empower your employees with the best insights to identify new sales prospects, collaborate around market innovation a...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963979/catalog/editoreye/icon128x128.png",
+  "website": "https://editoreye.com"
+}

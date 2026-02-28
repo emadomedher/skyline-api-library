@@ -1,0 +1,13 @@
+{
+  "id": "quicksilk",
+  "title": "QuickSilk",
+  "subtitle": "QuickSilk's content management system (CMS) is easy to use, affordable and fully managed. Offered as a secure WordPre...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827333/catalog/quicksilk/icon128x128.jpg",
+  "website": "https://quicksilk.com"
+}

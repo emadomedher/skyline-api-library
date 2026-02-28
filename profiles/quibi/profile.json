@@ -1,0 +1,13 @@
+{
+  "id": "quibi",
+  "title": "Quibi",
+  "subtitle": "Quick bites of captivating entertainment, created for mobile by the best talent, designed to fit perfectly into any m...",
+  "tags": [
+    "streaming-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892865/catalog/quibi/icon128x128.jpg",
+  "website": "https://quibi.com/"
+}

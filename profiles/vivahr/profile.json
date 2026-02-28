@@ -1,0 +1,13 @@
+{
+  "id": "vivahr",
+  "title": "VIVAHR",
+  "subtitle": "VIVAHR is a recruitment marketing tool to help you advertise jobs, collaborate on candidates and accelerate your comp...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306453/catalog/vivahr/icon128x128.png",
+  "website": "https://vivahr.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mozartdata",
+  "title": "Mozart Data",
+  "subtitle": "Mozart collects data from many sources, making it accessible in your favorite visualization tool. We are a one-stop s...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650533478/icons/mozartdata.jpg",
+  "website": "https://www.mozartdata.com/",
+  "docsUrl": "https://help.mozartdata.com/docs"
+}

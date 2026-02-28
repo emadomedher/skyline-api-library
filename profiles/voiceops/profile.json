@@ -1,0 +1,14 @@
+{
+  "id": "voiceops",
+  "title": "VoiceOps",
+  "subtitle": "VoiceOps uncovers critical coaching opportunities in your calls. Optimized for high-volume sales teams.",
+  "tags": [
+    "conversation-intelligence-software",
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961972/catalog/voiceops/icon128x128.png",
+  "website": "https://voiceops.com"
+}

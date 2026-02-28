@@ -1,0 +1,14 @@
+{
+  "id": "pensionbee",
+  "title": "PensionBee",
+  "subtitle": "PensionBee combines all your old pensions into one new online plan. It takes 5 minutes to start.",
+  "tags": [
+    "pensions",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565432658/catalog/pensionbee/icon128x128.jpg",
+  "website": "https://pensionbee.com"
+}

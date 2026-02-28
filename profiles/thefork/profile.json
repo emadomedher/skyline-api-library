@@ -1,0 +1,14 @@
+{
+  "id": "thefork",
+  "title": "TheFork",
+  "subtitle": "TheFork : Find and book a table anywhere in Europe and receive an immediate confirmation of your booking !",
+  "tags": [
+    "travel",
+    "airline-reservation-management"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565612916/catalog/thefork/icon128x128.png",
+  "website": "https://www.thefork.com/"
+}

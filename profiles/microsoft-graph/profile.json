@@ -1,0 +1,15 @@
+{
+  "id": "microsoft-graph",
+  "title": "Microsoft Graph",
+  "subtitle": "Find out how you can use the Microsoft Graph API to connect to the data that drives productivity - mail, calendar, co...",
+  "tags": [
+    "api",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604326894/icons/microsoft-graph.png",
+  "website": "https://developer.microsoft.com/graph",
+  "docsUrl": "https://developer.microsoft.com/en-us/graph"
+}

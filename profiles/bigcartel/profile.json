@@ -1,0 +1,13 @@
+{
+  "id": "bigcartel",
+  "title": "Big Cartel",
+  "subtitle": "We make simple tools to help creative people build unique online stores.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477990/catalog/bigcartel/icon128x128.png",
+  "website": "https://www.bigcartel.com/"
+}

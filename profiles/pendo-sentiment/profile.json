@@ -1,0 +1,13 @@
+{
+  "id": "pendo-sentiment",
+  "title": "Pendo Sentiment",
+  "subtitle": "Measure customer sentiment anywhere in your product, at any time. Serve NPS and other polls directly in-app to yield ...",
+  "tags": [
+    "customer-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634079294/icons/pendo-sentiment.jpg",
+  "website": "https://www.pendo.io/product/sentiment/"
+}

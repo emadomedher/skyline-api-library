@@ -1,0 +1,13 @@
+{
+  "id": "cliclap",
+  "title": "CliClap",
+  "subtitle": "CliClap is an AI-powered autonomous inbound lead generation and qualification solution for your content marketing eff...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826084/catalog/cliclap/icon128x128.jpg",
+  "website": "https://cliclap.com"
+}

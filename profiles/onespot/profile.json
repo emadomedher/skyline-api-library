@@ -1,0 +1,13 @@
+{
+  "id": "onespot",
+  "title": "OneSpot",
+  "subtitle": "OneSpot API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436246/catalog/onespot/icon128x128.png",
+  "website": "https://onespot.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "knexus",
+  "title": "Knexus",
+  "subtitle": "Knexus is an AI content optimizing customer journeys platform helps brands to create relevant content experiences del...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946862/catalog/knexus/icon128x128.jpg",
+  "website": "https://knexusgroup.com"
+}

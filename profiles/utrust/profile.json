@@ -1,0 +1,14 @@
+{
+  "id": "utrust",
+  "title": "Utrust",
+  "subtitle": "Utrust is a seamless integration that gives e-commerce businesses the power to accept digital currencies like bitcoin...",
+  "tags": [
+    "crypto-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093462/icons/utrust.png",
+  "website": "https://utrust.com/",
+  "docsUrl": "https://docs.utrust.com/?utm_source=internal%20links&utm_medium=button&utm_campaign=main%20website"
+}

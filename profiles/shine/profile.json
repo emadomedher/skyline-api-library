@@ -1,0 +1,13 @@
+{
+  "id": "shine",
+  "title": "Shine",
+  "subtitle": "Shine.fr is a mobile bank that offers a management platform to freelancers for online banking with contract and invoi...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569632036/catalog/shine/icon128x128.jpg",
+  "website": "https://www.shine.fr/"
+}

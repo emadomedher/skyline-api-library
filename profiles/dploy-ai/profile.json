@@ -1,0 +1,15 @@
+{
+  "id": "dploy-ai",
+  "title": "dploy.ai",
+  "subtitle": "An end-to-end platform that brings fast, secure and regulatory compliant AI deployment to your doorstep.",
+  "tags": [
+    "machine-learning",
+    "mlops"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://dploy.ai/icons/icon-48x48.png?v=f6e8627ee267eb82a09547198222cd5f",
+  "website": "https://dploy.ai/",
+  "docsUrl": "https://docs.dploy.ai"
+}

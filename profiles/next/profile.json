@@ -1,0 +1,12 @@
+{
+  "id": "next",
+  "title": "Next",
+  "subtitle": "Next is a new Cloud-based Compliance platform for educational and vocational (and other) institutions.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305508/catalog/next/icon128x128.png"
+}

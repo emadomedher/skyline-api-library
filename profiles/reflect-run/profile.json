@@ -1,0 +1,14 @@
+{
+  "id": "reflect-run",
+  "title": "Reflect",
+  "subtitle": " Reflect is Automated web testing that anyone can use. No-code, No-installation user experience website testing. ",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050051/icons/reflect-run.jpg",
+  "website": "https://reflect.run/",
+  "docsUrl": "https://reflect.run/docs"
+}

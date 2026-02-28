@@ -1,0 +1,15 @@
+{
+  "id": "invoiced",
+  "title": "Invoiced",
+  "subtitle": "Invoiced is autopilot for accounts receivable.",
+  "tags": [
+    "accounting",
+    "accounts-receivable"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305199/catalog/invoiced/icon128x128.png",
+  "website": "https://www.invoiced.com/",
+  "docsUrl": "https://docs.invoiced.com/dev"
+}

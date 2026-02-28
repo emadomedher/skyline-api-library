@@ -1,0 +1,15 @@
+{
+  "id": "haproxy",
+  "title": "HAProxy",
+  "subtitle": "HAProxy Technologies is the world’s leading provider of software load balancers and application delivery controllers ...",
+  "tags": [
+    "load-balancers",
+    "web-servers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565203650/catalog/haproxy/icon128x128.jpg",
+  "website": "https://haproxy.com",
+  "docsUrl": "https://www.haproxy.com/documentation/hapee"
+}

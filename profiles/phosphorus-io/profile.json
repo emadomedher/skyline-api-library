@@ -1,0 +1,13 @@
+{
+  "id": "phosphorus-io",
+  "title": "Phosphorus",
+  "subtitle": "Phosphorus API integration",
+  "tags": [
+    "iot-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606682853/icons/phosphorus-io.jpg",
+  "website": "https://www.phosphorus.io/"
+}

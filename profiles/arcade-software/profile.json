@@ -1,0 +1,13 @@
+{
+  "id": "arcade-software",
+  "title": "Arcade",
+  "subtitle": "Arcades are super easy to create. Build interactive product tours to embed within websites, blogs, and social media.",
+  "tags": [
+    "onboarding"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659087053/icons/arcade-software.jpg",
+  "website": "https://www.arcade.software/"
+}

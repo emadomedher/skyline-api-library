@@ -1,0 +1,14 @@
+{
+  "id": "pushnami",
+  "title": "Pushnami",
+  "subtitle": "Capture & Monetize Your Audience. The leader for web push, mobile push notifications, and email. Trusted by more than...",
+  "tags": [
+    "push-notifications",
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592595079/icons/pushnami.jpg",
+  "website": "https://pushnami.com/"
+}

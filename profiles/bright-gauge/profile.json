@@ -1,0 +1,13 @@
+{
+  "id": "bright-gauge",
+  "title": "Bright Gauge",
+  "subtitle": "Eliminate data silos with BrightGauge's intuitive real-time dashboards. Get customized reports for client reporting a...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719242/catalog/bright-gauge/icon128x128.png",
+  "website": "https://brightgauge.com"
+}

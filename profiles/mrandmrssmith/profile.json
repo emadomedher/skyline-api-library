@@ -1,0 +1,14 @@
+{
+  "id": "mrandmrssmith",
+  "title": "Mr & Mrs Smith",
+  "subtitle": "Mr & Mrs Smith have tried and tested the best luxury hotels around the world to find the finest accommodation. Book h...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612636594/icons/mrandmrssmith.jpg",
+  "website": "https://www.mrandmrssmith.com/"
+}

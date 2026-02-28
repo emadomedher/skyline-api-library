@@ -1,0 +1,12 @@
+{
+  "id": "dagger-for-ethereum",
+  "title": "Dagger For Ethereum",
+  "subtitle": "Dagger lets you listen to real-time updates from Ethereum Blockchain. Ethereum is a decentralized platform for applic...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284491/catalog/dagger-for-ethereum/icon128x128.png"
+}

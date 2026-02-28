@@ -1,0 +1,14 @@
+{
+  "id": "bigblue-co",
+  "title": "Bigblue",
+  "subtitle": "Next-gen logistics provider and customer-experience toolkit for your e-commerce. Discover how Bigblue will make you s...",
+  "tags": [
+    "ecommerce-fulfillment",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606447631/icons/bigblue-co.png",
+  "website": "https://www.bigblue.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adthena",
+  "title": "Adthena ",
+  "subtitle": "Our search intelligence reveals your competitors’ strategies, giving you insights to win with yours. See what Adthena...",
+  "tags": [
+    "search-and-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432838/catalog/adthena/icon128x128.png",
+  "website": "https://adthena.com"
+}

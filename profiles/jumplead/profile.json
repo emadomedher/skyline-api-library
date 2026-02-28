@@ -1,0 +1,13 @@
+{
+  "id": "jumplead",
+  "title": "Jumplead",
+  "subtitle": "Jumplead is a marketing platform that uses automation events to deliver personalised marketing. Prospects are convert...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305216/catalog/jumplead/icon128x128.png",
+  "website": "https://jumplead.com/"
+}

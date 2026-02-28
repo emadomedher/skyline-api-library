@@ -1,0 +1,13 @@
+{
+  "id": "eshipper",
+  "title": "eShipper",
+  "subtitle": "eShipper Provides Courier, Air Freight, Trucking, and Mail solutions for shipping across Canada, US, and internationa...",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587745409/catalog/eshipper/icon128x128.jpg",
+  "website": "https://www.eshipper.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "archivesocial",
+  "title": "ArchiveSocial",
+  "subtitle": "The #1 provider of social media archiving for government, law enforcement, and K-12 agencies. ArchiveSocial is truste...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718999/catalog/archivesocial/icon128x128.jpg",
+  "website": "https://archivesocial.com"
+}

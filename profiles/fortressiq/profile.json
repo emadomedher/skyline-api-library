@@ -1,0 +1,13 @@
+{
+  "id": "fortressiq",
+  "title": "FortressIQ",
+  "subtitle": "FortressIQ API integration",
+  "tags": [
+    "business-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589496323/catalog/fortressiq/icon128x128.jpg",
+  "website": "https://www.fortressiq.com/"
+}

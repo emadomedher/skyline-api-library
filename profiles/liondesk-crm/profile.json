@@ -1,0 +1,13 @@
+{
+  "id": "liondesk-crm",
+  "title": "LionDesk CRM",
+  "subtitle": "LionDesk CRM is the hub for Sales Professionals to help manage clients, transactions, automate marketing and more.",
+  "tags": [
+    "real-estate",
+    "crm"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305307/catalog/liondesk-crm/icon128x128.png"
+}

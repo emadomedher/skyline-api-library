@@ -1,0 +1,14 @@
+{
+  "id": "zerofriction-co",
+  "title": "Zero Friction",
+  "subtitle": "Zero Friction offers an accessible, scalable and affordable cloud platform for heat suppliers and building managers. ...",
+  "tags": [
+    "energy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579257059/catalog/zerofriction-co/icon128x128.png",
+  "website": "https://zerofriction.co/",
+  "docsUrl": "https://zerofriction.co/vacatures"
+}

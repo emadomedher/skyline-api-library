@@ -1,0 +1,15 @@
+{
+  "id": "incident-io",
+  "title": "incident.io",
+  "subtitle": "Create, manage and resolve incidents directly in Slack. Leave the rest to us.",
+  "tags": [
+    "inncident-response-management",
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633051660/icons/incident-io.jpg",
+  "website": "https://incident.io/",
+  "docsUrl": "https://docs.incident.io"
+}

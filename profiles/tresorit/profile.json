@@ -1,0 +1,14 @@
+{
+  "id": "tresorit",
+  "title": "Tresorit",
+  "subtitle": "Encrypted cloud storage for your confidential files. Using Tresorit, files are encrypted before being uploaded to the...",
+  "tags": [
+    "file-storage",
+    "encryption"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578258065/catalog/tresorit/icon128x128.jpg",
+  "website": "https://tresorit.com/"
+}

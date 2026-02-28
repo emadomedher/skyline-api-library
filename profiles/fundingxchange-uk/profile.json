@@ -1,0 +1,14 @@
+{
+  "id": "fundingxchange-uk",
+  "title": "FUNDING XCHANGE",
+  "subtitle": "Find eligible business loans and funding options from our marketplace of 45+ lenders. Easy, transparent, and free to ...",
+  "tags": [
+    "lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049965/icons/fundingxchange-uk.jpg",
+  "website": "https://www.fundingxchange.co.uk/"
+}

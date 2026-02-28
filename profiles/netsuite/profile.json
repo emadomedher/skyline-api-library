@@ -1,0 +1,16 @@
+{
+  "id": "netsuite",
+  "title": "NetSuite",
+  "subtitle": "NetSuite is the leading integrated cloud business software suite, including business accounting, ERP, CRM and ecommer...",
+  "tags": [
+    "erp",
+    "accounting",
+    "hris"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056077/catalog/netsuite/icon128x128.png",
+  "website": "https://netsuite.com",
+  "docsUrl": "https://www.netsuite.com/portal/developers/overview.shtml"
+}

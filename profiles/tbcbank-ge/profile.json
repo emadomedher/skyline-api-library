@@ -1,0 +1,13 @@
+{
+  "id": "tbcbank-ge",
+  "title": "TBC Bank (თიბისი ბანკი)",
+  "subtitle": "TBC Bank is a Georgian bank headquartered in Tbilisi, Georgia. The name, TBC Bank, traces its root to its original na...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598733957/icons/tbcbank-ge.jpg",
+  "website": "https://www.tbcbank.ge/"
+}

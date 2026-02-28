@@ -1,0 +1,15 @@
+{
+  "id": "mealco-co",
+  "title": "Mealco",
+  "subtitle": "MealCo is a New-York based Food-Tech startup that is building 'Restaurants of the Future', creating high-quality, del...",
+  "tags": [
+    "foodtech",
+    "cloud-kitchens"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528026/icons/mealco-co.jpg",
+  "website": "https://www.mealco.co/",
+  "docsUrl": "https://docs.google.com/document/d/1pdu-s4aafedntnw75awlgrbnzr3u1oxn2m2-zrgz2ku/edit?usp=sharing"
+}

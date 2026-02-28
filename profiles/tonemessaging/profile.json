@@ -1,0 +1,13 @@
+{
+  "id": "tonemessaging",
+  "title": "Tone Messaging",
+  "subtitle": "Tone Messaging API integration",
+  "tags": [
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589833335/catalog/tonemessaging/icon128x128.png",
+  "website": "https://tonemessaging.com/"
+}

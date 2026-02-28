@@ -1,0 +1,15 @@
+{
+  "id": "launchnotes",
+  "title": "LaunchNotes",
+  "subtitle": "LaunchNotes gives you one place to communicate product changes to customers and people inside your company. Keep ever...",
+  "tags": [
+    "changelogs",
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582966230/catalog/launchnotes/icon128x128.png",
+  "website": "https://www.launchnotes.io/",
+  "docsUrl": "https://help.launchnotes.io/en/articles/5129003-getting-started-with-the-api"
+}

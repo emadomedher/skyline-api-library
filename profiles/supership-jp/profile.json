@@ -1,0 +1,13 @@
+{
+  "id": "supership-jp",
+  "title": "Supership",
+  "subtitle": "Supership continuously develops optimized ad platform products and provides them to advertisers and publishers becaus...",
+  "tags": [
+    "data-technology"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579182299/catalog/supership-jp/icon128x128.jpg",
+  "website": "https://supership.jp/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "nordicapigateway",
+  "title": "Nordic API Gateway",
+  "subtitle": "Connect your applications to users bank accounts from all Nordic banks to create simple solutions for the future. Exp...",
+  "tags": [
+    "banking-api-aggregators",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569691786/catalog/nordicapigateway/icon128x128.jpg",
+  "website": "https://www.nordicapigateway.com/",
+  "docsUrl": "https://docs.nordicapigateway.com"
+}

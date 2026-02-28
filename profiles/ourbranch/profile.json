@@ -1,0 +1,14 @@
+{
+  "id": "ourbranch",
+  "title": "Branch Insurance",
+  "subtitle": "Home and auto insurance made easy! See your price and purchase within seconds with just your name and address.",
+  "tags": [
+    "insurtech",
+    "insurance-apis"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623453625/icons/ourbranch.jpg",
+  "website": "https://ourbranch.com/"
+}

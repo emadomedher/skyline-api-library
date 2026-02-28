@@ -1,0 +1,15 @@
+{
+  "id": "myvolly",
+  "title": "Volly",
+  "subtitle": "Volly API integration",
+  "tags": [
+    "fintech",
+    "marketing-automation",
+    "lending"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574295579/catalog/myvolly/icon128x128.png",
+  "website": "https://www.myvolly.com/"
+}

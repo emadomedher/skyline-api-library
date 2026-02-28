@@ -1,0 +1,14 @@
+{
+  "id": "make",
+  "title": "Make",
+  "subtitle": "From tasks and workflows to apps and systems, Make is where you create and automate at the speed of your ideas.",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646112172/icons/make.jpg",
+  "website": "https://www.make.com/",
+  "docsUrl": "https://www.make.com/en/api-documentation/rate-limiting"
+}

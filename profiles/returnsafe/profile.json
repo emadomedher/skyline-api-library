@@ -1,0 +1,13 @@
+{
+  "id": "returnsafe",
+  "title": "ReturnSafe",
+  "subtitle": "Create a healthy workplace for a safe return with symptom screening, contact tracing, and vaccine management. HIPAA C...",
+  "tags": [
+    "employee-health-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610219525/icons/returnsafe.jpg",
+  "website": "https://returnsafe.com/"
+}

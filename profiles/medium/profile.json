@@ -1,0 +1,13 @@
+{
+  "id": "medium",
+  "title": "Medium",
+  "subtitle": "Welcome to Medium, a place where words matter. Medium taps into the brains of the world’s most insightful writers, th...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264805/catalog/medium/icon128x128.png",
+  "website": "https://medium.com"
+}

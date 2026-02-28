@@ -1,0 +1,13 @@
+{
+  "id": "walkme",
+  "title": "WalkMe",
+  "subtitle": "The Digital Adoption Platform (DAP) of WalkMe[tm] enables your business to simplify the online experience and elimina...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946374/catalog/walkme/icon128x128.jpg",
+  "website": "https://walkme.com"
+}

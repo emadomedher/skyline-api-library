@@ -1,0 +1,14 @@
+{
+  "id": "logicgate",
+  "title": "LogicGate",
+  "subtitle": "The LogicGate platform empowers businesses to build agile enterprise process applications that deliver workflow autom...",
+  "tags": [
+    "risk-managememnt",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582669845/catalog/logicgate/icon128x128.png",
+  "website": "https://www.logicgate.com/"
+}

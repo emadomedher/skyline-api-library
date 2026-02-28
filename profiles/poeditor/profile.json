@@ -1,0 +1,13 @@
+{
+  "id": "poeditor",
+  "title": "POEditor",
+  "subtitle": "POEditor is an online localization service, perfect to manage collaborative or crowdsourced translation projects. Tra...",
+  "tags": [
+    "localization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559843306/catalog/poeditor/icon128x128.png",
+  "website": "https://poeditor.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shipfix",
+  "title": "Shipfix",
+  "subtitle": "Shipfix is a community helping the dry cargo industry collaborate more efficiently with its messaging platform, email...",
+  "tags": [
+    "shipping",
+    "data-intelligence"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577905877/catalog/shipfix/icon128x128.jpg",
+  "website": "https://shipfix.com/"
+}

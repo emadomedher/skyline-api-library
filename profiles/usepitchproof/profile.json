@@ -1,0 +1,13 @@
+{
+  "id": "usepitchproof",
+  "title": "Pitchproof",
+  "subtitle": "Create interactive logo presentations.",
+  "tags": [
+    "presentations"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565289579/catalog/usepitchproof/icon128x128.png",
+  "website": "https://usepitchproof.com"
+}

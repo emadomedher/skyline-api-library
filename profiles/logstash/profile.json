@@ -1,0 +1,15 @@
+{
+  "id": "logstash",
+  "title": "Logstash",
+  "subtitle": "Easy integration of data from any source, any format with this flexible, open source collection, parsing, and enrichm...",
+  "tags": [
+    "logging",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568938114/catalog/logstash/icon128x128.svg",
+  "website": "https://www.elastic.co/products/logstash",
+  "docsUrl": "https://www.elastic.co/guide/index.html"
+}

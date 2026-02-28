@@ -1,0 +1,14 @@
+{
+  "id": "cartx-io",
+  "title": "CartX",
+  "subtitle": "Unleash the real potential of your brand. Sell physical products and digital products using our high-converting featu...",
+  "tags": [
+    "ecommerce-checkout"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630990214/icons/cartx-io.png",
+  "website": "https://cartx.io/",
+  "docsUrl": "https://developers.cartx.io"
+}

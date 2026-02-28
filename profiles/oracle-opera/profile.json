@@ -1,0 +1,15 @@
+{
+  "id": "oracle-opera",
+  "title": "Oracle Opera",
+  "subtitle": "Oracle Opera API integration",
+  "tags": [
+    "hotel-management-software",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565612925/catalog/oracle-opera/icon128x128.png",
+  "website": "https://www.oracle.com/industries/hospitality/products/opera-cloud-services.html",
+  "docsUrl": "https://docs.oracle.com/en"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "aramex",
+  "title": "Aramex",
+  "subtitle": "Aramex courier services is your choice for worldwide shipping solutions at a competitive price. You can also manage a...",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589238931/catalog/aramex/icon128x128.jpg",
+  "website": "https://www.aramex.com/",
+  "docsUrl": "https://www.aramex.com/be/en/solutions-services/developers-solutions-center"
+}

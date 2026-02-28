@@ -1,0 +1,13 @@
+{
+  "id": "onyx-beacon",
+  "title": "Onyx Beacon",
+  "subtitle": "Onyx Beacon API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963454/catalog/onyx-beacon/icon128x128.png",
+  "website": "https://onyxbeacon.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fireeye",
+  "title": "FireEye",
+  "subtitle": "FireEye offers a single platform that blends innovative security technologies, nation-state grade threat intelligence...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569210114/catalog/fireeye/icon128x128.png",
+  "website": "https://www.fireeye.com/",
+  "docsUrl": "https://www.fireeye.com/company/contact-us/manage-your-communication-preference.html"
+}

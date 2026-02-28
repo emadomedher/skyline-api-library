@@ -1,0 +1,12 @@
+{
+  "id": "lead-closer",
+  "title": "Lead Closer",
+  "subtitle": "Intellect Lead Closer is your AI powered CRM - your virtual sales assistant that helps you quickly convert leads to c...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305273/catalog/lead-closer/icon128x128.png"
+}

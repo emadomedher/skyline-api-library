@@ -1,0 +1,14 @@
+{
+  "id": "threadsculture",
+  "title": "Threads",
+  "subtitle": "We help to build and strengthen our client’s culture by identifying and \nembedding core values within the employee ex...",
+  "tags": [
+    "employee-performance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584648252/catalog/threadsculture/icon128x128.jpg",
+  "website": "https://www.threadsculture.com/",
+  "docsUrl": "https://www.threadsculture.com/checkins-documentation-video"
+}

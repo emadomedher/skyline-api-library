@@ -1,0 +1,13 @@
+{
+  "id": "dzone-software",
+  "title": "DZone Software",
+  "subtitle": "Devada empower developers to learn, share, grow, and succeed via the technology-specific web communities we enable.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719853/catalog/dzone-software/icon128x128.jpg",
+  "website": "https://dzonesoftware.com"
+}

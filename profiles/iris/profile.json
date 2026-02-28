@@ -1,0 +1,13 @@
+{
+  "id": "iris",
+  "title": "IRIS",
+  "subtitle": "IRIS is the UK's market leader provider of business critical accountancy software solutions for accountants in busine...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548122134/catalog/iris/icon128x128.jpg",
+  "website": "https://www.iris.co.uk/"
+}

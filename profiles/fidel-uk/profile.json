@@ -1,0 +1,17 @@
+{
+  "id": "fidel-uk",
+  "title": "Fidel",
+  "subtitle": "Power your applications with real-time payment data. Build innovative card-linking applications by connecting Visa, M...",
+  "tags": [
+    "transaction-data-apis",
+    "fintech",
+    "unified-apis",
+    "data-aggregators"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588537659/catalog/fidel-uk/icon128x128.jpg",
+  "website": "https://fidel.uk/",
+  "docsUrl": "https://fidel.uk/developers"
+}

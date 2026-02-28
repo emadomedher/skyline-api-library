@@ -1,0 +1,13 @@
+{
+  "id": "appointlet",
+  "title": "Appointlet",
+  "subtitle": "Appointlet is an appointment scheduler built on top of Google Calendar. Enable your clients to book appointments with...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304412/catalog/appointlet/icon128x128.png",
+  "website": "https://www.appointlet.com/"
+}

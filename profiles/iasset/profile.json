@@ -1,0 +1,13 @@
+{
+  "id": "iasset",
+  "title": "iasset.com",
+  "subtitle": "iasset.com provides solutions for IT providers, including vendors, distributors, aggregators, VARs, service providers...",
+  "tags": [
+    "channel-finance-pricing-and-inventory"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327363/icons/iasset.jpg",
+  "website": "https://iasset.com"
+}

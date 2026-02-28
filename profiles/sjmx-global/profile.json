@@ -1,0 +1,13 @@
+{
+  "id": "sjmx-global",
+  "title": "San Juan Mercantile Exchange",
+  "subtitle": "A membership-based exchange, providing customers with the ability to purchase and sell digital assets through integra...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592483252/icons/sjmx-global.jpg",
+  "website": "https://sjmx.global/"
+}

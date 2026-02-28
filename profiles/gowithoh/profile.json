@@ -1,0 +1,14 @@
+{
+  "id": "gowithoh",
+  "title": "GowithOh",
+  "subtitle": "Gowithoh offers centrally located vacation rentals in Europe and worldwide. Book your vacation rentals today!",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448036/icons/gowithoh.jpg",
+  "website": "https://www.gowithoh.com/"
+}

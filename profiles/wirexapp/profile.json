@@ -1,0 +1,15 @@
+{
+  "id": "wirexapp",
+  "title": "Wirex",
+  "subtitle": "A borderless payment platform giving you control over your money. Buy, store, exchange and spend your crypto and fiat...",
+  "tags": [
+    "challenger-banks",
+    "crypto",
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437724/icons/wirexapp.png",
+  "website": "https://wirexapp.com/"
+}

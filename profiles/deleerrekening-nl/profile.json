@@ -1,0 +1,13 @@
+{
+  "id": "deleerrekening-nl",
+  "title": "De Leerrekening",
+  "subtitle": "De Leerrekening API integration",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597831983/icons/deleerrekening-nl.svg",
+  "website": "https://www.deleerrekening.nl/"
+}

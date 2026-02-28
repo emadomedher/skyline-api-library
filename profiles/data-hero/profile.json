@@ -1,0 +1,13 @@
+{
+  "id": "data-hero",
+  "title": "Data Hero",
+  "subtitle": "DataHero is an online data visualization and data dashboard software platform that makes it easy to share insights wi...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719727/catalog/data-hero/icon128x128.png",
+  "website": "https://datahero.com"
+}

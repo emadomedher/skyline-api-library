@@ -1,0 +1,14 @@
+{
+  "id": "shop-pro-jp",
+  "title": "カラーミーショップ",
+  "subtitle": "月額制ネットショップ作成サービス国内店舗数No.1！有名ブランドやメーカーなど全国4万店以上が活躍しています。月額834円～で始められて、どれだけ売れても手数料0円！月商10万円以上を目指すならカラーミーショップが最適。まずは30日間...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614642922/icons/shop-pro-jp.jpg",
+  "website": "https://shop-pro.jp/",
+  "docsUrl": "https://app.shop-pro.jp/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "opencms",
+  "title": "OpenCMS",
+  "subtitle": "OpenCms from Alkacon Software, the open source content management system (CMS) based on Java and XML for public inter...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963445/catalog/opencms/icon128x128.png",
+  "website": "https://opencms.org"
+}

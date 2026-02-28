@@ -1,0 +1,14 @@
+{
+  "id": "fable-studio",
+  "title": "Fable Studio",
+  "subtitle": "Fable is building next-generation AI authoring tools to create interactive \ncharacters who can live, learn and make d...",
+  "tags": [
+    "ai-character-engines",
+    "game-development"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616763626/icons/fable-studio.png",
+  "website": "https://fable-studio.com/"
+}

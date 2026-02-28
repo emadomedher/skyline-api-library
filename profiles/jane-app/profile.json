@@ -1,0 +1,13 @@
+{
+  "id": "jane-app",
+  "title": "jane.app",
+  "subtitle": "Jane is an online platform for health and wellness practitioners that makes it simple to book, chart, schedule, bill ...",
+  "tags": [
+    "practice-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642620008/icons/jane-app.jpg",
+  "website": "https://jane.app/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sqwarkr",
+  "title": "Sqwarkr",
+  "subtitle": "The smart way to post content to your social media accounts.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946534/catalog/sqwarkr/icon128x128.png",
+  "website": "https://sqwarkr.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ea",
+  "title": "Electronic Arts",
+  "subtitle": "We exist to inspire the world through Play. Electronic Arts is a leading publisher of games on Console, PC and Mobile.",
+  "tags": [
+    "game-publishers",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636594270/icons/ea.jpg",
+  "website": "https://www.ea.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "signzy",
+  "title": "Signzy",
+  "subtitle": "Accelerate your digital transformation journey with artificial intelligence in the banking sector, digital onboarding...",
+  "tags": [
+    "kyc",
+    "no-code",
+    "customer-onboarding",
+    "banking"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603430505/icons/signzy.jpg",
+  "website": "https://signzy.com/"
+}

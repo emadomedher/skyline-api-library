@@ -1,0 +1,13 @@
+{
+  "id": "socialook",
+  "title": "SociaLook",
+  "subtitle": "Welcome to our Employee Advocacy Platform. Use SociaLook to turn your employees into social brand advocates.",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722212/catalog/socialook/icon128x128.png",
+  "website": "https://socialook.net"
+}

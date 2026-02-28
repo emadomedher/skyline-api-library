@@ -1,0 +1,13 @@
+{
+  "id": "speach-me",
+  "title": "Speach",
+  "subtitle": "Build your video knowledge network: Speach brings your video content to life with unique collaboration tools for effe...",
+  "tags": [
+    "video-knowledge"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607838420/icons/speach-me.jpg",
+  "website": "https://speach.me/"
+}

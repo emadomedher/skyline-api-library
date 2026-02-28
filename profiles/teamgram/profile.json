@@ -1,0 +1,13 @@
+{
+  "id": "teamgram",
+  "title": "TeamGram",
+  "subtitle": "TeamGram is a CRM and collaboration tool that helps businesses close more sales and get more done.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539026/catalog/teamgram/icon128x128.png",
+  "website": "https://teamgram.com"
+}

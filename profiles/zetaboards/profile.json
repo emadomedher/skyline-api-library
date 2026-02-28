@@ -1,0 +1,13 @@
+{
+  "id": "zetaboards",
+  "title": "ZetaBoards",
+  "subtitle": "Tapatalk the world's leading mobile platform for building great communities online",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961866/catalog/zetaboards/icon128x128.png",
+  "website": "https://tapatalk.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "karat",
+  "title": "Karat",
+  "subtitle": "Technical recruiting programs that meet developer hiring targets start with live technical assessments from Karat. Ad...",
+  "tags": [
+    "recruitment",
+    "interview-engineering"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610070919/icons/karat.jpg",
+  "website": "https://karat.com/"
+}

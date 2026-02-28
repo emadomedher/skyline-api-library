@@ -1,0 +1,14 @@
+{
+  "id": "bugsnag",
+  "title": "Bugsnag",
+  "subtitle": "Bugsnag is an error monitoring and reporting software with best-in-class functionality for mobile apps. Our tool aler...",
+  "tags": [
+    "performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439129/catalog/bugsnag/icon128x128.svg",
+  "website": "https://www.bugsnag.com",
+  "docsUrl": "https://docs.bugsnag.com"
+}

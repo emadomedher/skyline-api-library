@@ -1,0 +1,14 @@
+{
+  "id": "telesign",
+  "title": "TeleSign",
+  "subtitle": "APIs Delivering Global Verification and Programmable Communications as a service. SMS, Voice and phone number intelli...",
+  "tags": [
+    "phone"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284630/catalog/telesign/icon128x128.png",
+  "website": "https://telesign.com",
+  "docsUrl": "https://enterprise.telesign.com/api-reference"
+}

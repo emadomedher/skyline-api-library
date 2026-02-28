@@ -1,0 +1,13 @@
+{
+  "id": "q2e",
+  "title": "Quest 2 Excel",
+  "subtitle": "Q2E is a cloud-based platform for companies that are on a digital transformation journey, helping them turn strategie...",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594240655/icons/q2e.png",
+  "website": "https://q2e.com"
+}

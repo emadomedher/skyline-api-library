@@ -1,0 +1,14 @@
+{
+  "id": "checkhq",
+  "title": "Check",
+  "subtitle": "Check is a payroll-as-a-service API that lets you embed payroll directly in your vertical SaaS, HR, or time-tracking ...",
+  "tags": [
+    "payroll-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611781401/icons/checkhq.jpg",
+  "website": "https://www.checkhq.com/",
+  "docsUrl": "https://docs.checkhq.com/reference"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zoho-creator",
+  "title": "Zoho Creator",
+  "subtitle": "Zoho Creator is an online database builder. Its easy drag-n-drop interface lets you create custom applications for ev...",
+  "tags": [
+    "databases",
+    "app-builder",
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306596/catalog/zoho-creator/icon128x128.png",
+  "website": "https://www.zoho.eu/creator/"
+}

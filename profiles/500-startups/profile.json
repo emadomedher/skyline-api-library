@@ -1,0 +1,14 @@
+{
+  "id": "500-startups",
+  "title": "500 Startups",
+  "subtitle": "500 Global is a venture capital firm with more than $1.8 billion¹ in assets under management that invests early in fo...",
+  "tags": [
+    "accelerators",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639472008/icons/500-startups.png",
+  "website": "https://500.co/"
+}

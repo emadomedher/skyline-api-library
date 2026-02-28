@@ -1,0 +1,15 @@
+{
+  "id": "knock-app",
+  "title": "Knock",
+  "subtitle": "Knock is a hosted API for turning user activity into product notifications.",
+  "tags": [
+    "notifications",
+    "messaging-api"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628007227/icons/knock-app.jpg",
+  "website": "https://knock.app/",
+  "docsUrl": "https://docs.knock.app"
+}

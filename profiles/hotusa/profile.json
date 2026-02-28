@@ -1,0 +1,14 @@
+{
+  "id": "hotusa",
+  "title": "Hotusa",
+  "subtitle": "Official Hotusa Hotels website. Book now a hotel at the best price guaranteed and pay when checking in. You will find...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612636600/icons/hotusa.jpg",
+  "website": "https://www.hotusa.com/"
+}

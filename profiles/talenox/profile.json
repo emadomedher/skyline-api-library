@@ -1,0 +1,13 @@
+{
+  "id": "talenox",
+  "title": "Talenox",
+  "subtitle": "Experience the friendliest, automated HR software on the cloud. With a self-serve system, managing your payroll and l...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560896501/catalog/talenox/icon128x128.png",
+  "website": "https://talenox.com"
+}

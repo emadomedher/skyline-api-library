@@ -1,0 +1,14 @@
+{
+  "id": "chatti",
+  "title": "Chatti",
+  "subtitle": "Business communication SMS platform trusted by the world's leading brands. Earn Qantas Points with every SMS sent wit...",
+  "tags": [
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630375698/icons/chatti.png",
+  "website": "https://chatti.com/",
+  "docsUrl": "https://chatti.com/developers"
+}

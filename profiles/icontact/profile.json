@@ -1,0 +1,13 @@
+{
+  "id": "icontact",
+  "title": "iContact",
+  "subtitle": "IContact allows you to create, send, and track email newsletters. Grow your business by using professional looking te...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538997/catalog/icontact/icon128x128.png",
+  "website": "https://icontact.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "karte-io",
+  "title": "KARTE",
+  "subtitle": "CX（顧客体験）プラットフォーム KARTE（カルテ）は、ウェブサイトやスマートフォンアプリの顧客行動や経験、感情の変化をリアルタイムに解析・可視化し、顧客の目線から顧客中心の体験を創るサービスです。",
+  "tags": [
+    "customer-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599928328/icons/karte-io.jpg",
+  "website": "https://karte.io/",
+  "docsUrl": "https://tech.plaid.co.jp/karte-for-app-sdknoosshua-niyorudeveloper-experiencexiang-shang-henoqu-rizu-mi"
+}

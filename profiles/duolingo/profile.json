@@ -1,0 +1,13 @@
+{
+  "id": "duolingo",
+  "title": "Duolingo",
+  "subtitle": "With our free mobile app or web and a few minutes a day, everyone can Duolingo. Learn 30+ languages online with bite-...",
+  "tags": [
+    "language-learning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612402268/icons/duolingo.jpg",
+  "website": "https://www.duolingo.com/"
+}

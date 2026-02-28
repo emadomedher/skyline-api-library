@@ -1,0 +1,14 @@
+{
+  "id": "saltedge",
+  "title": "Salt Edge",
+  "subtitle": "Salt Edge offers fintech solutions for banks, lenders, and finapps by providing innovative and secure services like: ...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586382066/catalog/saltedge/icon128x128.jpg",
+  "website": "https://www.saltedge.com/",
+  "docsUrl": "https://docs.saltedge.com/general/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cheddar",
+  "title": "Cheddar",
+  "subtitle": "Recurring billing, SaaS subscription management, automated communication, and market intelligence.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538960/catalog/cheddar/icon128x128.png",
+  "website": "https://www.getcheddar.com/"
+}

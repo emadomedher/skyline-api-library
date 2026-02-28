@@ -1,0 +1,14 @@
+{
+  "id": "alvaria",
+  "title": "Alvaria",
+  "subtitle": "Alvaria is a global enterprise contact center solution provider, delivering leading edge customer experience and work...",
+  "tags": [
+    "contact-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643056689/icons/alvaria.png",
+  "website": "https://www.alvaria.com/",
+  "docsUrl": "https://www.dataprotection.ie/docs/complaints/1592.htm"
+}

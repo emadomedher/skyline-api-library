@@ -1,0 +1,15 @@
+{
+  "id": "freeradius-org",
+  "title": "freeradius",
+  "subtitle": "The world's leading RADIUS server. The project includes a GPL AAA server, BSD licensed client and PAM and Apache modu...",
+  "tags": [
+    "authentication",
+    "open-source"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591444971/icons/freeradius-org.png",
+  "website": "https://freeradius.org/",
+  "docsUrl": "https://freeradius.org/documentation"
+}

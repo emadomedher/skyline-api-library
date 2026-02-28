@@ -1,0 +1,13 @@
+{
+  "id": "picsio",
+  "title": "Pics.io",
+  "subtitle": "Pics.io is a complete solution for digital assets management. Quickly find your creative files, collaborate with coll...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721473/catalog/picsio/icon128x128.jpg",
+  "website": "https://pics.io"
+}

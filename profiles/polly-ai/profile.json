@@ -1,0 +1,15 @@
+{
+  "id": "polly-ai",
+  "title": "Polly",
+  "subtitle": "Polly meets your team right where they work and gets answers to your most important questions, instantly.",
+  "tags": [
+    "live-polling",
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656808/icons/polly-ai.png",
+  "website": "https://www.polly.ai/",
+  "docsUrl": "https://docs.polly.ai/api"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "emmares",
+  "title": "EMMARES",
+  "subtitle": "EMMARES is creating a global digital reputation of email content providers and their contents. Based on trusted evalu...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947086/catalog/emmares/icon128x128.jpg",
+  "website": "https://emmares.io"
+}

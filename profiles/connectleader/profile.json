@@ -1,0 +1,13 @@
+{
+  "id": "connectleader",
+  "title": "ConnectLeader",
+  "subtitle": "ConnectLeader's Sales Engagement Platform helps reach your best leads fast. Get more dials, increase revenue, and con...",
+  "tags": [
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574179176/catalog/connectleader/icon128x128.jpg",
+  "website": "https://www.connectleader.com/"
+}

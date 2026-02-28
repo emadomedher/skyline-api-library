@@ -1,0 +1,14 @@
+{
+  "id": "peoplegrove",
+  "title": "PeopleGrove",
+  "subtitle": "PeopleGrove helps students and alumni succeed before, during, and after college through connections and community.",
+  "tags": [
+    "alumni",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821125/catalog/peoplegrove/icon128x128.jpg",
+  "website": "https://www.peoplegrove.com/"
+}

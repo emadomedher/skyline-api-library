@@ -1,0 +1,14 @@
+{
+  "id": "attachesoftware",
+  "title": "Attaché Software",
+  "subtitle": "Attaché Software provides payroll and accounting software for medium businesses in Australia and New Zealand. Discove...",
+  "tags": [
+    "accounting",
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675419/catalog/attachesoftware/icon128x128.jpg",
+  "website": "https://www.attachesoftware.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tapfiliate",
+  "title": "Tapfiliate",
+  "subtitle": "Create, track and grow your affiliate program. Tapfiliate helps businesses and influencers grow together, through aff...",
+  "tags": [
+    "ecommerce",
+    "affiliate-tracking"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306265/catalog/tapfiliate/icon128x128.png",
+  "website": "https://tapfiliate.com/",
+  "docsUrl": "https://tapfiliate.com/docs"
+}

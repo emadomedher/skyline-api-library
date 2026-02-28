@@ -1,0 +1,15 @@
+{
+  "id": "intercom",
+  "title": "Intercom",
+  "subtitle": "We make customer messaging apps for sales, marketing, and support, connected on one platform. Our mission is to make ...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456145/catalog/intercom/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/intercom/Intercom-OpenAPI/main/descriptions/2.8/api.intercom.io.yaml",
+  "website": "https://www.intercom.com/",
+  "docsUrl": "https://developers.intercom.com/"
+}

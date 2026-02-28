@@ -1,0 +1,14 @@
+{
+  "id": "braintree",
+  "title": "Braintree",
+  "subtitle": "Reach more buyers and drive higher conversion with an online payment solution that processes PayPal, Venmo, credit an...",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304529/catalog/braintree/icon128x128.jpg",
+  "website": "https://www.braintreepayments.com/",
+  "docsUrl": "https://developers.braintreepayments.com"
+}

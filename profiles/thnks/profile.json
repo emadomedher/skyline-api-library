@@ -1,0 +1,15 @@
+{
+  "id": "thnks",
+  "title": "Thnks",
+  "subtitle": "Thnks is the leading relationship building platform where you can instantly send personalized gestures of appreciatio...",
+  "tags": [
+    "appreciation",
+    "gratitude"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645518378/icons/thnks.jpg",
+  "website": "https://www.thnks.com/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlsefstlb3n0s0t2xb32rg9fwro3ncg4pn-bukutmnhudxtmicq/viewform"
+}

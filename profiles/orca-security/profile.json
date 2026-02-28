@@ -1,0 +1,14 @@
+{
+  "id": "orca-security",
+  "title": "Orca Security",
+  "subtitle": "Get Agentless, Workload-Deep, Context-Aware Cloud Infrastructure Security and Compliance for IaaS platforms AWS, Azur...",
+  "tags": [
+    "cloud-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661205845/icons/orca-security.jpg",
+  "website": "https://orca.security/",
+  "docsUrl": "https://docs.orcasecurity.io/docs/compliance-frameworks-available-in-orca"
+}

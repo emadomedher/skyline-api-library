@@ -1,0 +1,13 @@
+{
+  "id": "amped",
+  "title": "Amped",
+  "subtitle": "Amped is an intelligent sales automation tool that enhances productivity, streamlines process, and empowers your sale...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829015/catalog/amped/icon128x128.png",
+  "website": "https://manageassociations.com"
+}

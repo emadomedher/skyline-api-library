@@ -1,0 +1,13 @@
+{
+  "id": "easelly",
+  "title": "Easelly",
+  "subtitle": "Easel.ly is a simple web tool that empowers anyone to create and share powerful visuals (infographics, posters)... no...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947106/catalog/easelly/icon128x128.jpg",
+  "website": "https://easel.ly"
+}

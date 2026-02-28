@@ -1,0 +1,13 @@
+{
+  "id": "beaconinside-proximity-dmp",
+  "title": "Beaconinside Proximity Dmp",
+  "subtitle": "Beaconinside Proximity Dmp API integration",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433252/catalog/beaconinside-proximity-dmp/icon128x128.png",
+  "website": "https://beaconinside.com"
+}

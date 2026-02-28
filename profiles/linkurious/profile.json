@@ -1,0 +1,13 @@
+{
+  "id": "linkurious",
+  "title": "Linkurious",
+  "subtitle": "Linkurious helps organizations fight fraud, money-laundering, cyber-security and crimes with a detection and investig...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720850/catalog/linkurious/icon128x128.png",
+  "website": "https://linkurio.us"
+}

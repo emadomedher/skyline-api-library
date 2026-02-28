@@ -1,0 +1,15 @@
+{
+  "id": "qualys",
+  "title": "Qualys",
+  "subtitle": "Qualys, Inc. helps your business automate the full spectrum of auditing, compliance and protection of your IT systems...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193161/catalog/qualys/icon128x128.jpg",
+  "website": "https://www.qualys.com",
+  "docsUrl": "https://www.qualys.com/documentation"
+}

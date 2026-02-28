@@ -1,0 +1,13 @@
+{
+  "id": "acbcoop",
+  "title": "Advertising Checking Bureau",
+  "subtitle": "ACB is a full service provider of channel marketing solutions including co-op advertising, compliance, rebate and sal...",
+  "tags": [
+    "channel-incentives-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594240702/icons/acbcoop.png",
+  "website": "https://acbcoop.com"
+}

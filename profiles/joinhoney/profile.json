@@ -1,0 +1,13 @@
+{
+  "id": "joinhoney",
+  "title": "Honey",
+  "subtitle": "Honey is a browser extension that automatically finds and applies coupon codes at checkout with a single click.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574445171/catalog/joinhoney/icon128x128.jpg",
+  "website": "https://www.joinhoney.com/"
+}

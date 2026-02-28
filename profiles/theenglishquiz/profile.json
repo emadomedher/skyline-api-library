@@ -1,0 +1,13 @@
+{
+  "id": "theenglishquiz",
+  "title": "The English Quiz",
+  "subtitle": "English assessments for companies: recruitment, pre-/post-training, enhances candidate experience, saves time & helps...",
+  "tags": [
+    "english-assessments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641943759/icons/theenglishquiz.jpg",
+  "website": "https://theenglishquiz.com/"
+}

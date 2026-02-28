@@ -1,0 +1,15 @@
+{
+  "id": "openai-dall-e",
+  "title": "DALL·E",
+  "subtitle": "We’ve trained a neural network called DALL·E that creates images from text captions for a wide range of concepts expr...",
+  "tags": [
+    "image-generation",
+    "computer-vision",
+    "gpt-3"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612402265/icons/openai-dall-e.png",
+  "website": "https://openai.com/blog/dall-e/"
+}

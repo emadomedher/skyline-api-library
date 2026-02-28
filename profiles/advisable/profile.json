@@ -1,0 +1,13 @@
+{
+  "id": "advisable",
+  "title": "Advisable",
+  "subtitle": "Advisable connects ambitious companies with talented people who can help them grow & succeed.",
+  "tags": [
+    "marketing-tactics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652215687/icons/advisable.png",
+  "website": "https://www.advisable.com/"
+}

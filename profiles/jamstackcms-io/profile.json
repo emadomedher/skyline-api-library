@@ -1,0 +1,15 @@
+{
+  "id": "jamstackcms-io",
+  "title": "JAMstack CMS",
+  "subtitle": "The full stack CMS built for the modern age.",
+  "tags": [
+    "jamstack",
+    "headless-cms",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593705315/icons/jamstackcms-io.jpg",
+  "website": "https://www.jamstackcms.io/"
+}

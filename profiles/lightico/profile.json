@@ -1,0 +1,15 @@
+{
+  "id": "lightico",
+  "title": "Lightico",
+  "subtitle": "Lightico is the ultimate customer experience platform. Enabling your customers e-Signatures, eForms, workflows, ID & ...",
+  "tags": [
+    "esignatures",
+    "identity-verification",
+    "kyc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589928301/catalog/lightico/icon128x128.jpg",
+  "website": "https://www.lightico.com/"
+}

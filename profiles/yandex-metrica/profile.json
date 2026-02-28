@@ -1,0 +1,12 @@
+{
+  "id": "yandex-metrica",
+  "title": "Yandex Metrica",
+  "subtitle": "Yandex Metrica API integration",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439400/catalog/yandex-metrica/icon128x128.svg"
+}

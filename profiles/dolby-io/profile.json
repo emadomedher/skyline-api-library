@@ -1,0 +1,16 @@
+{
+  "id": "dolby-io",
+  "title": "Dolby.io",
+  "subtitle": "Dolby.io, the leading communications, audio, and video API platform, makes it easy for developers and businesses to b...",
+  "tags": [
+    "interactivity-apis",
+    "media-processing-apis",
+    "audio-enhancement-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632753249/icons/dolby-io.jpg",
+  "website": "https://dolby.io/",
+  "docsUrl": "https://dolby.io/documentation"
+}

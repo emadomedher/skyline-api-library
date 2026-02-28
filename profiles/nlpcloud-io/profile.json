@@ -1,0 +1,15 @@
+{
+  "id": "nlpcloud-io",
+  "title": "NLP Cloud",
+  "subtitle": "Text understanding / text generation (NLP) API, for NER, sentiment analysis, text classification, summarization, ques...",
+  "tags": [
+    "machine-learning",
+    "nlp-apis"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471956/icons/nlpcloud-io.jpg",
+  "website": "https://nlpcloud.io/",
+  "docsUrl": "https://docs.nlpcloud.io"
+}

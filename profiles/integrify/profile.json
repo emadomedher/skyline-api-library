@@ -1,0 +1,13 @@
+{
+  "id": "integrify",
+  "title": "Integrify",
+  "subtitle": "Workflow software is what we do. We provide low-code, cloud-based software that helps automate processes and streamli...",
+  "tags": [
+    "projects-and-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720516/catalog/integrify/icon128x128.jpg",
+  "website": "https://integrify.com"
+}

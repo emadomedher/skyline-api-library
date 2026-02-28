@@ -1,0 +1,13 @@
+{
+  "id": "brand-ensemble",
+  "title": "Brand Ensemble",
+  "subtitle": "Transform brand and digital asset management with built-in tools designed to empower creatives and extend the value o...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719217/catalog/brand-ensemble/icon128x128.jpg",
+  "website": "https://brandensemble.com"
+}

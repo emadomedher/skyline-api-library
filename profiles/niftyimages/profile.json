@@ -1,0 +1,13 @@
+{
+  "id": "niftyimages",
+  "title": "NiftyImages",
+  "subtitle": "NiftyImages is an email marketing tool that lets you personalize and change images so each recipient sees the most re...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305515/catalog/niftyimages/icon128x128.png",
+  "website": "https://niftyimages.com/"
+}

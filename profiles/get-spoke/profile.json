@@ -1,0 +1,13 @@
+{
+  "id": "get-spoke",
+  "title": "Spoke",
+  "subtitle": "Enregistre tes visioconférences. Sauvegarde les meilleurs moments. Partage les !",
+  "tags": [
+    "video-transcription"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600367592/icons/get-spoke.gif",
+  "website": "https://get-spoke.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "contentful",
+  "title": "Contentful",
+  "subtitle": "More than a headless CMS, Contentful is the API-first content management platform to create, manage and publish conte...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304687/catalog/contentful/icon128x128.png",
+  "website": "https://www.contentful.com/",
+  "docsUrl": "https://www.contentful.com/developers/docs"
+}

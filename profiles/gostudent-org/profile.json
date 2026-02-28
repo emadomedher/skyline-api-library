@@ -1,0 +1,13 @@
+{
+  "id": "gostudent-org",
+  "title": "GoStudent",
+  "subtitle": "Private tutoring at your home with professional certified tutors. Private tutoring for Maths, English, Science and al...",
+  "tags": [
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642520269/icons/gostudent-org.jpg",
+  "website": "https://www.gostudent.org/en"
+}

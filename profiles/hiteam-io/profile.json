@@ -1,0 +1,13 @@
+{
+  "id": "hiteam-io",
+  "title": "HITEAM",
+  "subtitle": "Helping businesses to scale remote working and work from home while improving productivity",
+  "tags": [
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588279452/catalog/hiteam-io/icon128x128.png",
+  "website": "https://www.hiteam.io/"
+}

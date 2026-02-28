@@ -1,0 +1,14 @@
+{
+  "id": "cohere-ai",
+  "title": "Cohere",
+  "subtitle": "One API. Billions of parameters. Unlimited uses.\n\nThe Cohere API provides access to models that read hundreds of mill...",
+  "tags": [
+    "nlp"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620412841/icons/cohere-ai.jpg",
+  "website": "https://cohere.ai/",
+  "docsUrl": "https://docs.cohere.ai"
+}

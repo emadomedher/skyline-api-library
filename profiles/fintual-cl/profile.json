@@ -1,0 +1,16 @@
+{
+  "id": "fintual-cl",
+  "title": "Fintual",
+  "subtitle": "Invierte y ahorra de manera simple, online y transparente en fondos mutuos. Regulada por la CMF. Administramos US$ 41...",
+  "tags": [
+    "mutual-fund-investing",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615487653/icons/fintual-cl.jpg",
+  "specUrl": "https://fintual.cl/api-docs/v1/swagger.json",
+  "website": "https://fintual.cl/",
+  "docsUrl": "https://fintual.cl/api-docs"
+}

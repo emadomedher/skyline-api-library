@@ -1,0 +1,13 @@
+{
+  "id": "reportz",
+  "title": "Reportz",
+  "subtitle": "Automated reporting software, allowing you to create a customizable digital marketing KPI dashboard by populating it ...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721822/catalog/reportz/icon128x128.jpg",
+  "website": "https://reportz.io"
+}

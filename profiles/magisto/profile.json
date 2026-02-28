@@ -1,0 +1,13 @@
+{
+  "id": "magisto",
+  "title": "Magisto",
+  "subtitle": "Magisto online video editor is a fast & powerful video maker. Turn your photos and video clips into video stories wit...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826869/catalog/magisto/icon128x128.jpg",
+  "website": "https://magisto.com"
+}

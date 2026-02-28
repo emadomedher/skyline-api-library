@@ -1,0 +1,14 @@
+{
+  "id": "visa-fast-track",
+  "title": "Visa Fast Track",
+  "subtitle": "Visa Fast Track allows both new and established businesses to leverage the speed, security, reliability and scale of ...",
+  "tags": [
+    "partner-programs",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589827503/catalog/visa-fast-track/icon128x128.jpg",
+  "website": "https://usa.visa.com/partner-with-us/info-for-partners/info-for-fintechs.html"
+}

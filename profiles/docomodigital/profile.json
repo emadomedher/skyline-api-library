@@ -1,0 +1,14 @@
+{
+  "id": "docomodigital",
+  "title": "DOCOMO Digital",
+  "subtitle": "DOCOMO Digital’s enables direct carrier billing payment solutions for telcos and merchants worldwide. Scale your busi...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592321646/icons/docomodigital.jpg",
+  "website": "https://www.docomodigital.com/",
+  "docsUrl": "https://www.docomodigital.com/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "international-data-group",
+  "title": "International Data Group",
+  "subtitle": "From business technologists to enthusiasts, IDG’s mission is to help our global audience make the smartest tech purch...",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946905/catalog/international-data-group/icon128x128.jpg",
+  "website": "https://idg.com"
+}

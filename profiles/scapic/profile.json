@@ -1,0 +1,14 @@
+{
+  "id": "scapic",
+  "title": "Scapic",
+  "subtitle": "Stand out from your competition with high converting product visuals",
+  "tags": [
+    "ecommerce",
+    "augmented-reality"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599351268/icons/scapic.png",
+  "website": "https://www.scapic.com/"
+}

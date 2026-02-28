@@ -1,0 +1,16 @@
+{
+  "id": "pytorch",
+  "title": "PyTorch",
+  "subtitle": "An open source deep learning platform that provides a seamless path from research prototyping to production deployment.",
+  "tags": [
+    "machine-learning",
+    "open-source",
+    "python"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569191247/catalog/pytorch/icon128x128.png",
+  "website": "https://pytorch.org/",
+  "docsUrl": "https://pytorch.org/docs"
+}

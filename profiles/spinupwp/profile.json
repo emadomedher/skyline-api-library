@@ -1,0 +1,15 @@
+{
+  "id": "spinupwp",
+  "title": "SpinupWP",
+  "subtitle": "Your own flawless WordPress server, spun up in minutes. Try it risk-free for 30 days.",
+  "tags": [
+    "wordpress",
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566931681/catalog/spinupwp/icon128x128.png",
+  "website": "https://spinupwp.com/",
+  "docsUrl": "https://spinupwp.com/#"
+}

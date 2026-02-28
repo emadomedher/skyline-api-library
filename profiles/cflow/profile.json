@@ -1,0 +1,13 @@
+{
+  "id": "cflow",
+  "title": "Cflow",
+  "subtitle": "Cflow is a cloud-based workflow software that provides a way to create business applications that help increase produ...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304589/catalog/cflow/icon128x128.png",
+  "website": "https://cflowapps.com"
+}

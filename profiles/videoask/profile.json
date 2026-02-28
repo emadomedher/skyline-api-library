@@ -1,0 +1,14 @@
+{
+  "id": "videoask",
+  "title": "VideoAsk",
+  "subtitle": "The most effortless way to have asynchronous video conversations. Engage your community, recruit new talent, generate...",
+  "tags": [
+    "video-surveys"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625016063/icons/videoask.png",
+  "website": "https://www.videoask.com/",
+  "docsUrl": "https://www.videoask.com/help/integrations/360039126292-videoask-api"
+}

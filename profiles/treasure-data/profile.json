@@ -1,0 +1,13 @@
+{
+  "id": "treasure-data",
+  "title": "Treasure Data",
+  "subtitle": "Treasure Data API integration",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439371/catalog/treasure-data/icon128x128.svg",
+  "website": "https://treasuredata.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "chatlio",
+  "title": "Chatlio",
+  "subtitle": "Chat with your website visitors directly from Slack. You don’t need another chat client to talk to your customers.  S...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433677/catalog/chatlio/icon128x128.png",
+  "website": "https://chatlio.com"
+}

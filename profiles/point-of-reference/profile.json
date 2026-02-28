@@ -1,0 +1,14 @@
+{
+  "id": "point-of-reference",
+  "title": "Point of Reference",
+  "subtitle": "Providing state-of-the-art customer reference management technology and services. Contact us: info@point-of-reference...",
+  "tags": [
+    "customer-reference-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562878893/catalog/point-of-reference/icon128x128.png",
+  "website": "https://point-of-reference.com",
+  "docsUrl": "https://www.point-of-reference.com/solutions/referenceedge"
+}

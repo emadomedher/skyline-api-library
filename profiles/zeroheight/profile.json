@@ -1,0 +1,14 @@
+{
+  "id": "zeroheight",
+  "title": "zeroheight",
+  "subtitle": "zeroheight API integration",
+  "tags": [
+    "design",
+    "design-system"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564833564/catalog/zeroheight/icon128x128.jpg",
+  "website": "https://zeroheight.com"
+}

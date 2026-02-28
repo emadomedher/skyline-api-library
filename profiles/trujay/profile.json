@@ -1,0 +1,13 @@
+{
+  "id": "trujay",
+  "title": "Trujay",
+  "subtitle": "Take the stress out of CRM data migration & integration. We have a range of options for those with complex requiremen...",
+  "tags": [
+    "data-migration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633563100/icons/trujay.jpg",
+  "website": "https://trujay.com/"
+}

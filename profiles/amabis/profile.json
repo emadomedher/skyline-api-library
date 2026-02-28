@@ -1,0 +1,13 @@
+{
+  "id": "amabis",
+  "title": "Amabis France",
+  "subtitle": "Avec plus de 400 clients actifs de la PME au grand compte, Amabis travaille avec ses clients depuis plus de 20 ans su...",
+  "tags": [
+    "data-management"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597145934/icons/amabis.jpg",
+  "website": "https://www.amabis.com/"
+}

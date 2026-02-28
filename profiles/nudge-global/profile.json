@@ -1,0 +1,14 @@
+{
+  "id": "nudge-global",
+  "title": "nudge",
+  "subtitle": "nudge is the leading personal finance solution. We exist to help create brighter financial futures for all by making ...",
+  "tags": [
+    "money-management",
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261123/icons/nudge-global.jpg",
+  "website": "https://www.nudge-global.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bankify-io",
+  "title": "Bankify",
+  "subtitle": "Bankify offers user-centric services to unlock the value of financial mobile applications through seamless integration.",
+  "tags": [
+    "sustainable-finance",
+    "embedded-finance",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793923/icons/bankify-io.png",
+  "website": "https://bankify.io/"
+}

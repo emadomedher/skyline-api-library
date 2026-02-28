@@ -1,0 +1,13 @@
+{
+  "id": "grayscale-co",
+  "title": "Grayscale Investments",
+  "subtitle": "A trusted authority on digital currency investing and cryptocurrency asset management, Grayscale provides market insi...",
+  "tags": [
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610129716/icons/grayscale-co.png",
+  "website": "https://grayscale.co/"
+}

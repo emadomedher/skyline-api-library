@@ -1,0 +1,14 @@
+{
+  "id": "zencastr",
+  "title": "Zencastr",
+  "subtitle": "The easiest way to record your voip podcast interviews in studio quality",
+  "tags": [
+    "content-marketing",
+    "podcasting"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946318/catalog/zencastr/icon128x128.jpg",
+  "website": "https://zencastr.com"
+}

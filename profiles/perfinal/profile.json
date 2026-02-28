@@ -1,0 +1,13 @@
+{
+  "id": "perfinal",
+  "title": "Perfinal Technologies",
+  "subtitle": "Perfinal Technologies API integration",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613504900/icons/perfinal.png",
+  "website": "https://perfinal.com/"
+}

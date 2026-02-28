@@ -1,0 +1,15 @@
+{
+  "id": "intelliflo",
+  "title": "Intelliflo",
+  "subtitle": "Suppliers of specialist online software for IFAs, financial and mortgage advisers allowing focus on clients not admin...",
+  "tags": [
+    "business-management",
+    "financial-planning",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567122679/catalog/intelliflo/icon128x128.jpg",
+  "website": "https://www.intelliflo.com/"
+}

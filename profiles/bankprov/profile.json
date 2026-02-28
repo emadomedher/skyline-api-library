@@ -1,0 +1,14 @@
+{
+  "id": "bankprov",
+  "title": "BankProv",
+  "subtitle": "The Provident Bank has rebranded to BankProv. As the 10th oldest bank in the country, BankProv has been serving its l...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625450255/icons/bankprov.jpg",
+  "website": "https://bankprov.com/",
+  "docsUrl": "https://developer.bankprov.com/"
+}

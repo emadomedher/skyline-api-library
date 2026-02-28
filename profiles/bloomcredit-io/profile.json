@@ -1,0 +1,17 @@
+{
+  "id": "bloomcredit-io",
+  "title": "Bloom Credit",
+  "subtitle": "Use Bloom to engage and understand your customers through credit data. Help your customers qualify for your loans, cr...",
+  "tags": [
+    "credit",
+    "credit-data-api",
+    "data-apis",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602556891/icons/bloomcredit-io.png",
+  "website": "https://www.bloomcredit.io/",
+  "docsUrl": "https://www.bloomcredit.io/coming-soon"
+}

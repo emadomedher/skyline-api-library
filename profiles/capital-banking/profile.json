@@ -1,0 +1,14 @@
+{
+  "id": "capital-banking",
+  "title": "Capital Banking Solutions",
+  "subtitle": "From core banking and private wealth management to digital and omnichannel banking, leading banks globally, rely on C...",
+  "tags": [
+    "core-banking",
+    "whitelabel-wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598733966/icons/capital-banking.jpg",
+  "website": "http://www.capital-banking.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "giftbit",
+  "title": "Giftbit",
+  "subtitle": " Buy, send and track digital gift cards for your reward and incentive programs. ",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946971/catalog/giftbit/icon128x128.jpg",
+  "website": "https://giftbit.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "getalma-eu",
+  "title": "Alma",
+  "subtitle": "Alma, la solution de paiement en plusieurs fois garanti pour le e-commerce et les magasins. Simple, sans engagement, ...",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611847379/icons/getalma-eu.png",
+  "website": "https://getalma.eu/",
+  "docsUrl": "https://getalma.eu/documentation"
+}

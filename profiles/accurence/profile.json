@@ -1,0 +1,13 @@
+{
+  "id": "accurence",
+  "title": "Accurence",
+  "subtitle": "Accurence API integration",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562628555/catalog/accurence/icon128x128.jpg",
+  "website": "https://accurence.com"
+}

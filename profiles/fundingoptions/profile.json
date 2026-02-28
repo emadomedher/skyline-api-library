@@ -1,0 +1,15 @@
+{
+  "id": "fundingoptions",
+  "title": "Funding Options",
+  "subtitle": "Find the right business loan, compare business finance types, and see all your funding options across the whole marke...",
+  "tags": [
+    "fintech",
+    "business-financing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566774050/catalog/fundingoptions/icon128x128.png",
+  "website": "https://www.fundingoptions.com/",
+  "docsUrl": "https://www.fundingoptions.com/knowledge/property-development"
+}

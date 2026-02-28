@@ -1,0 +1,14 @@
+{
+  "id": "icicibank",
+  "title": "ICICI Bank",
+  "subtitle": "The bank has a network of 4882 branches and 15101 ATMs across India and has a presence in 17 countries including Indi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574179173/catalog/icicibank/icon128x128.png",
+  "website": "https://www.icicibank.com/",
+  "docsUrl": "https://developer.icicibank.com/"
+}

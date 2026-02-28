@@ -1,0 +1,16 @@
+{
+  "id": "contis",
+  "title": "Contis",
+  "subtitle": "Transforming payments, issuing & processing for the digital economy.​ Contis provides full back-end & front-end payme...",
+  "tags": [
+    "banking-as-a-service",
+    "payments",
+    "card-issuing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596819544/icons/contis.jpg",
+  "website": "https://contis.com/",
+  "docsUrl": "https://developer.contis.com/docs"
+}

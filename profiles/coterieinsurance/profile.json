@@ -1,0 +1,15 @@
+{
+  "id": "coterieinsurance",
+  "title": "Coterie Insurance",
+  "subtitle": "Small Business Insurance, Simplified.",
+  "tags": [
+    "embedded-insurance",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528049/icons/coterieinsurance.jpg",
+  "website": "https://coterieinsurance.com/",
+  "docsUrl": "https://coterieinsurance.com/press/agents-alliance-services-joins-with-coterie-to-deliver-digital-small-business-insurance-to-clients"
+}

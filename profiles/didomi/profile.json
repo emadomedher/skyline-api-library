@@ -1,0 +1,15 @@
+{
+  "id": "didomi",
+  "title": "Didomi",
+  "subtitle": "We help companies put their users in control of their data, thus generating trust and complying with privacy regulati...",
+  "tags": [
+    "governance-compliance-and-privacy",
+    "consent-management-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434181/catalog/didomi/icon128x128.png",
+  "website": "https://didomi.io",
+  "docsUrl": "https://developers.didomi.io/"
+}

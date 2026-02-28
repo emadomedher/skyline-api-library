@@ -1,0 +1,13 @@
+{
+  "id": "roqqett",
+  "title": "Roqqett",
+  "subtitle": "Roqqett is the ultimate cash replacement for you, your friends and your business.",
+  "tags": [
+    "p2p-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620553064/icons/roqqett.jpg",
+  "website": "https://www.roqqett.com/"
+}

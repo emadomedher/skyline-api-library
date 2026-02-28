@@ -1,0 +1,12 @@
+{
+  "id": "glue-excel",
+  "title": "Glue42 Excel",
+  "subtitle": "Glue Excel works in real-time, with files on the desktop, servers or in the cloud. Requires installation of the Glue4...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305033/catalog/glue-excel/icon128x128.png"
+}

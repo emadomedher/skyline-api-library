@@ -1,0 +1,13 @@
+{
+  "id": "deepmind",
+  "title": "DeepMind",
+  "subtitle": "Artificial intelligence could be one of humanity’s most useful inventions. We research and build safe artificial inte...",
+  "tags": [
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638775803/icons/deepmind.jpg",
+  "website": "https://deepmind.com/"
+}

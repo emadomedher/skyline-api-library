@@ -1,0 +1,13 @@
+{
+  "id": "clumio",
+  "title": "Clumio",
+  "subtitle": "Authentic SaaS for Enterprise Backup",
+  "tags": [
+    "backups"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566431973/catalog/clumio/icon128x128.png",
+  "website": "https://clumio.com/"
+}

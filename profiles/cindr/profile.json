@@ -1,0 +1,13 @@
+{
+  "id": "cindr",
+  "title": "Cindr",
+  "subtitle": "Create your free website with Cindr, the truly simple site builder. Cindr makes it super easy to build a simple, yet ...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826061/catalog/cindr/icon128x128.jpg",
+  "website": "https://cindr.com"
+}

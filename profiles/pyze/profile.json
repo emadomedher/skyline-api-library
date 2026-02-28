@@ -1,0 +1,13 @@
+{
+  "id": "pyze",
+  "title": "Pyze",
+  "subtitle": "Pyze API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962548/catalog/pyze/icon128x128.png",
+  "website": "https://pyze.com"
+}

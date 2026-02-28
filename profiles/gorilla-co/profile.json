@@ -1,0 +1,14 @@
+{
+  "id": "gorilla-co",
+  "title": "Gorilla",
+  "subtitle": "Empowering B2B utilities in pricing, forecasting and reporting with data-driven solutions in boosting speed and flexi...",
+  "tags": [
+    "pricing-and-quoting",
+    "utilities"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595706313/icons/gorilla-co.jpg",
+  "website": "https://gorilla.co/"
+}

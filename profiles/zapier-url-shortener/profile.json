@@ -1,0 +1,14 @@
+{
+  "id": "zapier-url-shortener",
+  "title": "URL Shortener by Zapier",
+  "subtitle": "Create ready-to-share links on the fly. Zapier's URL Shortener spits out a simplified version of any link you throw i...",
+  "tags": [
+    "zapier-tools",
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809818/catalog/zapier-url-shortener/icon128x128.png",
+  "website": "https://zapier.com/"
+}

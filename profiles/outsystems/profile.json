@@ -1,0 +1,14 @@
+{
+  "id": "outsystems",
+  "title": "OutSystems",
+  "subtitle": "OutSystems is a low-code platform to visually develop your application, integrate with existing systems and add your ...",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570527733/catalog/outsystems/icon128x128.jpg",
+  "website": "https://www.outsystems.com",
+  "docsUrl": "https://www.outsystems.com/learn"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "niftygateway",
+  "title": "Nifty Gateway",
+  "subtitle": "Nifty Gateway API integration",
+  "tags": [
+    "nft-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633371623/icons/niftygateway.jpg",
+  "website": "https://niftygateway.com/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlseq2yes3-rqid6qq5vc5ytinfse16imrxzqnbysefyfrx_epq/viewform"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bizneo",
+  "title": "Bizneo",
+  "subtitle": "Use the best human resources tool suite. Find out about all the talent management benefits provided by the best softw...",
+  "tags": [
+    "talent-management",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801304/catalog/bizneo/icon128x128.jpg",
+  "website": "https://www.bizneo.com/"
+}

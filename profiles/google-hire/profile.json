@@ -1,0 +1,14 @@
+{
+  "id": "google-hire",
+  "title": "Google Hire",
+  "subtitle": "Google Hire API integration",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554428036/catalog/google-hire/icon128x128.png",
+  "website": "https://hire.google.com/",
+  "docsUrl": "https://developers.google.com/hire/"
+}

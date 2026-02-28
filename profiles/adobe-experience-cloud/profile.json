@@ -1,0 +1,13 @@
+{
+  "id": "adobe-experience-cloud",
+  "title": "Adobe Experience Cloud",
+  "subtitle": "Adobe Experience Cloud API integration",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573856328/catalog/adobe-experience-cloud/icon128x128.png",
+  "website": "https://www.adobe.com/experience-cloud.html"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tryreason",
+  "title": "Reason",
+  "subtitle": "One-of-a-kind experiences purposefully built for collaborative problem solving and technology exploration. Considered...",
+  "tags": [
+    "remote",
+    "team-activities",
+    "escape-room"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590335074/catalog/tryreason/icon128x128.jpg",
+  "website": "https://www.tryreason.com/"
+}

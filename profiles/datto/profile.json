@@ -1,0 +1,16 @@
+{
+  "id": "datto",
+  "title": "Datto",
+  "subtitle": "Datto protects essential business data for tens of thousands of the world's fastest growing companies, delivering uni...",
+  "tags": [
+    "networking",
+    "wifi",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570354946/catalog/datto/icon128x128.jpg",
+  "website": "https://www.datto.com/",
+  "docsUrl": "https://www.datto.com/developers"
+}

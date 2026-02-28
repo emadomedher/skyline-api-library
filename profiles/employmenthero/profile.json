@@ -1,0 +1,15 @@
+{
+  "id": "employmenthero",
+  "title": "Employment Hero",
+  "subtitle": "Employment Hero is Australia's first all-in-one HR, Payroll and benefits platform for employers and employees.",
+  "tags": [
+    "employee-onboarding",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564740226/catalog/employmenthero/icon128x128.jpg",
+  "website": "https://employmenthero.com",
+  "docsUrl": "https://developer.employmenthero.com/"
+}

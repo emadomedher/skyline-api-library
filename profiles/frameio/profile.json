@@ -1,0 +1,14 @@
+{
+  "id": "frameio",
+  "title": "Frame.io",
+  "subtitle": "Join 700,000 pros on the world's most powerful video review and collaboration platform. Quickly share video projects ...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829960/catalog/frameio/icon128x128.png",
+  "website": "https://frame.io",
+  "docsUrl": "https://developer.frame.io"
+}

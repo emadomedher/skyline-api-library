@@ -1,0 +1,13 @@
+{
+  "id": "sidekick-video",
+  "title": "Sidekick",
+  "subtitle": "Connect your team with always-on, live-streaming Sidekick screens.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594884300/icons/sidekick-video.svg",
+  "website": "https://sidekick.video/"
+}

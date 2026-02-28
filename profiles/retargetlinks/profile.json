@@ -1,0 +1,13 @@
+{
+  "id": "retargetlinks",
+  "title": "RetargetLinks",
+  "subtitle": "RetargetLinks API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436950/catalog/retargetlinks/icon128x128.png",
+  "website": "https://retargetlinks.com"
+}

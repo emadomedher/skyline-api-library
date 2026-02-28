@@ -1,0 +1,15 @@
+{
+  "id": "honeybadger-io",
+  "title": "HoneyBadger",
+  "subtitle": "Honeybadger provides exception and uptime monitoring to keep your web apps error-free.",
+  "tags": [
+    "bug-tracking",
+    "monitoring"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569813037/catalog/honeybadger-io/icon128x128.jpg",
+  "website": "https://www.honeybadger.io/",
+  "docsUrl": "https://docs.honeybadger.io"
+}

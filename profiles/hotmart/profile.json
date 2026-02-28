@@ -1,0 +1,13 @@
+{
+  "id": "hotmart",
+  "title": "Hotmart",
+  "subtitle": "Hotmart is a free and complete platform to host and sell online courses. Access now and become a digital market entre...",
+  "tags": [
+    "affiliate-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561423666/catalog/hotmart/icon128x128.png",
+  "website": "https://hotmart.com"
+}

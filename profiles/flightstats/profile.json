@@ -1,0 +1,14 @@
+{
+  "id": "flightstats",
+  "title": "FlightStats",
+  "subtitle": "Track real-time flight status, departures and arrivals, airport delays, and airport information using FlightStats Glo...",
+  "tags": [
+    "flight-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576974673/catalog/flightstats/icon128x128.jpg",
+  "website": "https://www.flightstats.com/",
+  "docsUrl": "https://developer.flightstats.com/"
+}

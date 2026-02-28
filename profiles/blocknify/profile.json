@@ -1,0 +1,14 @@
+{
+  "id": "blocknify",
+  "title": "Blocknify",
+  "subtitle": "Legally sign sensitive documents and manage approval processes with privacy and trust built-in. The first fully distr...",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606833887/icons/blocknify.jpg",
+  "website": "https://blocknify.com/",
+  "docsUrl": "https://blocknify.zendesk.com/hc/en-us/articles/360010264060-blocknify-api-overview"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "easypromos",
+  "title": "Easypromos",
+  "subtitle": "Easypromos is an online platform to create and manage all sorts of digital promotions, sweepstakes and contests.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304834/catalog/easypromos/icon128x128.png",
+  "website": "https://easypromosapp.com"
+}

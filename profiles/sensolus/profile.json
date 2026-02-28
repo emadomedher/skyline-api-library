@@ -1,0 +1,14 @@
+{
+  "id": "sensolus",
+  "title": "Sensolus",
+  "subtitle": "Track your non-powered assets on the Sensolus platform. Simple. Reliable, Cost-effective. Over 100k assets connected....",
+  "tags": [
+    "asset-tracking",
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602556885/icons/sensolus.png",
+  "website": "https://www.sensolus.com/"
+}

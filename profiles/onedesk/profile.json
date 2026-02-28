@@ -1,0 +1,14 @@
+{
+  "id": "onedesk",
+  "title": "OneDesk",
+  "subtitle": "OneDesk combines helpdesk, product management, and project management software into one platform. OneDesk offers a we...",
+  "tags": [
+    "product-management",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305660/catalog/onedesk/icon128x128.png",
+  "website": "https://onedesk.com"
+}

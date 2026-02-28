@@ -1,0 +1,13 @@
+{
+  "id": "recotap",
+  "title": "Recotap",
+  "subtitle": "Recotap is an AI-driven Account-Based Marketing (ABM) platform that helps B2B Marketers run targeted ABM campaigns, a...",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721775/catalog/recotap/icon128x128.jpg",
+  "website": "https://recotap.com"
+}

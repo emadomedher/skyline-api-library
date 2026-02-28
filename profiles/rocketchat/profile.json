@@ -1,0 +1,14 @@
+{
+  "id": "rocketchat",
+  "title": "Rocket.Chat",
+  "subtitle": "Lead with a Communication Hub that allows total control of your data. All in one platform: team collaboration, omnich...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305909/catalog/rocketchat/icon128x128.png",
+  "website": "https://rocket.chat/",
+  "docsUrl": "https://rocket.chat/docs/administrator-guides/import/slack/slackbridge"
+}

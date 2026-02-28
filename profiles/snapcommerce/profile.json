@@ -1,0 +1,13 @@
+{
+  "id": "snapcommerce",
+  "title": "Snapcommerce",
+  "subtitle": "Snapcommerce is a global message-driven commerce platform that uses AI to \nconnect price-conscious consumers to the b...",
+  "tags": [
+    "mobile-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614908075/icons/snapcommerce.png",
+  "website": "https://www.snapcommerce.com/"
+}

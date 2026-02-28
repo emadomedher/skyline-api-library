@@ -1,0 +1,15 @@
+{
+  "id": "datanews-io",
+  "title": "Datanews",
+  "subtitle": "Datanews News API provides fast and relevant news coverage from thousands of news sources all over the web.",
+  "tags": [
+    "news-apis",
+    "data-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604973530/icons/datanews-io.jpg",
+  "website": "https://datanews.io/",
+  "docsUrl": "https://datanews.io/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "paperli",
+  "title": "Paper.li",
+  "subtitle": "Collect content that's aligned with your customers' interests, and deliver it wherever they are. Automatically share ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946721/catalog/paperli/icon128x128.png",
+  "website": "https://paper.li"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vivify-scrum",
+  "title": "Vivify Scrum",
+  "subtitle": "VivifyScrum is an agile project management software for small teams and large organizations alike. Intuitive Scrum an...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722774/catalog/vivify-scrum/icon128x128.png",
+  "website": "https://vivifyscrum.com"
+}

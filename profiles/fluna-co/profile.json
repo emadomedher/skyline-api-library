@@ -1,0 +1,13 @@
+{
+  "id": "fluna-co",
+  "title": "Fluna",
+  "subtitle": "Get live insights on your treasury operations and unlock credit up to $1M USD. All for free. Building the Future of T...",
+  "tags": [
+    "treasury-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648078603/icons/fluna-co.png",
+  "website": "https://www.fluna.co/"
+}

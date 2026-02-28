@@ -1,0 +1,12 @@
+{
+  "id": "displet-retsidx",
+  "title": "Displet",
+  "subtitle": "RETS/IDX plugin with built-in lead capture that inserts real estate listings, statistics, maps, and quick searches in...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304782/catalog/displet-retsidx/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pipe",
+  "title": "Pipe",
+  "subtitle": "Get up to the full annual value of your booked monthly and quarterly subscriptions. Scale your business without dilut...",
+  "tags": [
+    "saas-financing",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609114325/icons/pipe.png",
+  "website": "https://www.pipe.com/"
+}

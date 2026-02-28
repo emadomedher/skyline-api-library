@@ -1,0 +1,13 @@
+{
+  "id": "highnote-io",
+  "title": "HighNote",
+  "subtitle": "Collect and deliver all your resources in one beautiful, trackable link. Stand out against your competition with High...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633294982/icons/highnote-io.jpg",
+  "website": "https://highnote.io/"
+}

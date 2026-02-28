@@ -1,0 +1,14 @@
+{
+  "id": "globalnorthstar",
+  "title": "Northstar Technologies",
+  "subtitle": "northstar Northstar Club Management System - Northstar Technologies was founded in 2003 after identifying need for in...",
+  "tags": [
+    "golf-club-management",
+    "community-association-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588859513/catalog/globalnorthstar/icon128x128.png",
+  "website": "http://www.globalnorthstar.com/"
+}

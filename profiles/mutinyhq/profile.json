@@ -1,0 +1,14 @@
+{
+  "id": "mutinyhq",
+  "title": "Mutiny",
+  "subtitle": "Using Mutiny's personalization platform, engage your site visitors with a tailored experience made just for them -- s...",
+  "tags": [
+    "anonymous-traffic-identification",
+    "website-personalization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632258388/icons/mutinyhq.jpg",
+  "website": "https://www.mutinyhq.com/"
+}

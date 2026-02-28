@@ -1,0 +1,14 @@
+{
+  "id": "aci-pay-on",
+  "title": "ACI PAY.ON",
+  "subtitle": "ACI offers a white label global payment gateway to service providers, independent sales organizations and software ve...",
+  "tags": [
+    "payments-gateway"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565457345/catalog/aci-pay-on/icon128x128.png",
+  "website": "https://www.aciworldwide.com/products/global-payment-gateway",
+  "docsUrl": "https://docs.aciworldwide.com"
+}

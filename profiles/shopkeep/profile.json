@@ -1,0 +1,13 @@
+{
+  "id": "shopkeep",
+  "title": "ShopKeep",
+  "subtitle": "ShopKeep offers complete POS commerce solutions. Manage your business with inventory management, reporting, and 24/7 ...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604960391/icons/shopkeep.jpg",
+  "website": "https://www.shopkeep.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "trustshare-co",
+  "title": "trustshare",
+  "subtitle": "Our mission is to revolutionise how consumers pay online through our safe and trusted escrow service.",
+  "tags": [
+    "escrow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608194299/icons/trustshare-co.png",
+  "website": "https://trustshare.co/"
+}

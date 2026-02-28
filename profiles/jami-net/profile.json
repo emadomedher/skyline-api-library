@@ -1,0 +1,14 @@
+{
+  "id": "jami-net",
+  "title": "jami",
+  "subtitle": "Jami - the distributed and open source communication platform",
+  "tags": [
+    "video-conferencing",
+    "open-source"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588389112/catalog/jami-net/icon128x128.jpg",
+  "website": "https://jami.net/"
+}

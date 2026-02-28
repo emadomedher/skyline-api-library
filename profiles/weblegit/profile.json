@@ -1,0 +1,13 @@
+{
+  "id": "weblegit",
+  "title": "WebLegit",
+  "subtitle": "WebLegit API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438425/catalog/weblegit/icon128x128.png",
+  "website": "https://weblegit.com"
+}

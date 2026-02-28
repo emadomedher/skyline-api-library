@@ -1,0 +1,14 @@
+{
+  "id": "daybridge",
+  "title": "Daybridge",
+  "subtitle": "Daybridge is a new calendar built to keep up with you. Join our beta programme today to be the first to try it.",
+  "tags": [
+    "productivity",
+    "time-management"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599478771/icons/daybridge.jpg",
+  "website": "https://daybridge.com/"
+}

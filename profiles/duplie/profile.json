@@ -1,0 +1,13 @@
+{
+  "id": "duplie",
+  "title": "Duplie",
+  "subtitle": "Duplie helps non-profit and nonprofit organizations delivering volunteer management, fundraising, donations and regis...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964012/catalog/duplie/icon128x128.png",
+  "website": "https://duplie.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bannerwise",
+  "title": "Bannerwise",
+  "subtitle": "Bannerwise API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433223/catalog/bannerwise/icon128x128.png",
+  "website": "https://bannerwise.io"
+}

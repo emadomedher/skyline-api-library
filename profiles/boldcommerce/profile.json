@@ -1,0 +1,13 @@
+{
+  "id": "boldcommerce",
+  "title": "Bold Commerce",
+  "subtitle": "More than 90,000 merchants around the world turn to Bold Commerce for industry-leading eCommerce tools to help power ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586880683/catalog/boldcommerce/icon128x128.jpg",
+  "website": "https://boldcommerce.com/"
+}

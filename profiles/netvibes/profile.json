@@ -1,0 +1,13 @@
+{
+  "id": "netvibes",
+  "title": "Netvibes",
+  "subtitle": "Your Personal Dashboard: See everything that’s happening: News, social media, favorite websites all in one Dashboard",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946787/catalog/netvibes/icon128x128.jpg",
+  "website": "https://netvibes.com"
+}

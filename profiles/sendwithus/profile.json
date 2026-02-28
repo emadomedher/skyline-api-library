@@ -1,0 +1,13 @@
+{
+  "id": "sendwithus",
+  "title": "Sendwithus",
+  "subtitle": "Sendwithus is the easiest way to send email from your app. You can manage and edit all of your marketing and transact...",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306032/catalog/sendwithus/icon128x128.png",
+  "website": "https://www.sendwithus.com/"
+}

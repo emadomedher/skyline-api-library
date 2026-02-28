@@ -1,0 +1,13 @@
+{
+  "id": "leaptodigital",
+  "title": "Leap",
+  "subtitle": "This is not the thing.",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562628807/catalog/leaptodigital/icon128x128.jpg",
+  "website": "https://leaptodigital.com"
+}

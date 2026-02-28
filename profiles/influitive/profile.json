@@ -1,0 +1,14 @@
+{
+  "id": "influitive",
+  "title": "Influitive",
+  "subtitle": "Influitive helps companies increase customer lifetime value and accelerate sales with the power of their own customer...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720471/catalog/influitive/icon128x128.jpg",
+  "website": "https://influitive.com",
+  "docsUrl": "https://influitive.readme.io/reference"
+}

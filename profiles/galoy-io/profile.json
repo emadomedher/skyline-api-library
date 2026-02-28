@@ -1,0 +1,13 @@
+{
+  "id": "galoy-io",
+  "title": "Galoy",
+  "subtitle": "Bitcoin banking infrastructure for communities and institutions Offering financial services on Bitcoin and Lightning ...",
+  "tags": [
+    "bitcoin-banking-infrastructure"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641269646/icons/galoy-io.jpg",
+  "website": "https://galoy.io/"
+}

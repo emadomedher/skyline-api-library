@@ -1,0 +1,13 @@
+{
+  "id": "reputology",
+  "title": "Reputology",
+  "subtitle": "Reputology is the best-of-breed review monitoring &amp; feedback solution for multi-location businesses. Monitor Face...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436921/catalog/reputology/icon128x128.png",
+  "website": "https://reputology.com"
+}

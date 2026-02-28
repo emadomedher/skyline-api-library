@@ -1,0 +1,15 @@
+{
+  "id": "medius",
+  "title": "Medius",
+  "subtitle": "Medius is a leading supplier of eProcurement solutions for Enterprise and Midsize businesses. Click here for more inf...",
+  "tags": [
+    "procurement",
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627503899/icons/medius.jpg",
+  "website": "https://www.medius.com/",
+  "docsUrl": "https://www.medius.com/#"
+}

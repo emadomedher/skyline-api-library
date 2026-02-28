@@ -1,0 +1,13 @@
+{
+  "id": "repbox",
+  "title": "Repbox",
+  "subtitle": "Repbox is the leading CRM Sales Platform for manufacturer sales reps, distributors, and manufacturers. Repbox CRM is ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721805/catalog/repbox/icon128x128.jpg",
+  "website": "https://repbox.co"
+}

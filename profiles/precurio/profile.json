@@ -1,0 +1,13 @@
+{
+  "id": "precurio",
+  "title": "Precurio",
+  "subtitle": "Precurio Intranet Software works with your users, infrastructure, requirements AND within your budget. It is simple, ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721569/catalog/precurio/icon128x128.png",
+  "website": "https://precurio.com"
+}

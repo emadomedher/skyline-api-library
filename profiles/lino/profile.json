@@ -1,0 +1,13 @@
+{
+  "id": "lino",
+  "title": "Lino",
+  "subtitle": "Lino aims to create a decentralized autonomous content economy, where content value can be recognized efficiently and...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826822/catalog/lino/icon128x128.jpg",
+  "website": "https://lino.network"
+}

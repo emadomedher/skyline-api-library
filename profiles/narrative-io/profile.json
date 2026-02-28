@@ -1,0 +1,13 @@
+{
+  "id": "narrative-io",
+  "title": "Narrative",
+  "subtitle": "Narrative gives businesses control of their data strategy by making it easy to buy and sell data on their own terms.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268413/icons/narrative-io.jpg",
+  "website": "https://narrative.io"
+}

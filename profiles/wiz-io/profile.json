@@ -1,0 +1,14 @@
+{
+  "id": "wiz-io",
+  "title": "Wiz",
+  "subtitle": "Agentless cloud security and compliance for AWS, Azure, Google Cloud, and Kubernetes.",
+  "tags": [
+    "cloud-workload-protection-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663733098/icons/wiz-io.jpg",
+  "website": "https://www.wiz.io/",
+  "docsUrl": "https://docs.wiz.io"
+}

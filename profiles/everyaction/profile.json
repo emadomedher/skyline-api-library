@@ -1,0 +1,14 @@
+{
+  "id": "everyaction",
+  "title": "EveryAction",
+  "subtitle": "EveryAction API integration",
+  "tags": [
+    "donations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573853568/catalog/everyaction/icon128x128.jpg",
+  "website": "https://www.everyaction.com/",
+  "docsUrl": "https://developers.everyaction.com"
+}

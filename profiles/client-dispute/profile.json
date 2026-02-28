@@ -1,0 +1,13 @@
+{
+  "id": "client-dispute",
+  "title": "Client Dispute Manager",
+  "subtitle": "Client Dispute Manager is an online Credit Repair Business Software.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284475/catalog/client-dispute/icon128x128.png",
+  "website": "https://zapier.com/apps/client-dispute/integrations"
+}

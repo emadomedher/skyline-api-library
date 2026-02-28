@@ -1,0 +1,16 @@
+{
+  "id": "tooljet-io",
+  "title": "ToolJet",
+  "subtitle": "Open-source no-code platform for building custom internal tools.",
+  "tags": [
+    "internal-tools",
+    "open-source",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686735630/icons/tooljet-io.jpg",
+  "website": "https://tooljet.io/",
+  "docsUrl": "https://docs.tooljet.io"
+}

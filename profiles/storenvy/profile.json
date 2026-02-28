@@ -1,0 +1,13 @@
+{
+  "id": "storenvy",
+  "title": "Storenvy",
+  "subtitle": "Storenvy helps you discover goods you'll love from brands that inspire. It is also the easiest way to open your own s...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306192/catalog/storenvy/icon128x128.png",
+  "website": "https://www.storenvy.com/"
+}

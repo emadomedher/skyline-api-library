@@ -1,0 +1,15 @@
+{
+  "id": "airwallex",
+  "title": "Airwallex",
+  "subtitle": "Give your business the power to make fast, transparent and cost-effective international payments in multiple currenci...",
+  "tags": [
+    "fx-payments",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584144666/catalog/airwallex/icon128x128.png",
+  "website": "https://www.airwallex.com/",
+  "docsUrl": "https://www.airwallex.com/developers"
+}

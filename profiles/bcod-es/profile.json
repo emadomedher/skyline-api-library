@@ -1,0 +1,13 @@
+{
+  "id": "bcod-es",
+  "title": "bcod.es",
+  "subtitle": "bcod.es API integration",
+  "tags": [
+    "barcode-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621004445/icons/bcod-es.png",
+  "website": "http://www.bcod.es/"
+}

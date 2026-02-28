@@ -1,0 +1,15 @@
+{
+  "id": "wayup",
+  "title": "WayUp",
+  "subtitle": "Find paid internships, part-time jobs and entry-level opportunities at thousands of startups and Fortune 500s. Use ou...",
+  "tags": [
+    "job-marketplaces",
+    "internship-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793903/icons/wayup.jpg",
+  "website": "https://www.wayup.com/",
+  "docsUrl": "https://wayup.helpscoutdocs.com"
+}

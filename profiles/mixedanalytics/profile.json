@@ -1,0 +1,13 @@
+{
+  "id": "mixedanalytics",
+  "title": "Mixed Analytics",
+  "subtitle": "Mixed Analytics provides analytics tools and consulting services for Google Sheets, Google Tag Manager, and Google An...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649374961/icons/mixedanalytics.png",
+  "website": "https://mixedanalytics.com/"
+}

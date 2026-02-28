@@ -1,0 +1,13 @@
+{
+  "id": "noahface-shift",
+  "title": "NoahFace Shift",
+  "subtitle": "The fastest and most accurate Time and Attendance (or work hours tracking) system using facial recognition. Accuratel...",
+  "tags": [
+    "timetracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564753168/catalog/noahFace-shift/icon128x128.png",
+  "website": "https://noahface.com"
+}

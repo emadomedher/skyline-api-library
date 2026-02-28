@@ -1,0 +1,15 @@
+{
+  "id": "fourth",
+  "title": "Fourth",
+  "subtitle": "Restaurant and hospitality-specific technology, services, and analytics to manage your workforce and inventory.",
+  "tags": [
+    "workforce-management",
+    "hospitality",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636480121/icons/fourth.png",
+  "website": "https://www.fourth.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "project-online",
+  "title": "Project Online",
+  "subtitle": "Project Online is a flexible online solution for project portfolio management (PPM) and everyday work from Microsoft....",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264838/catalog/project-online/icon128x128.png"
+}

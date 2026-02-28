@@ -1,0 +1,13 @@
+{
+  "id": "voluum",
+  "title": "Voluum",
+  "subtitle": "Voluum Ad Tracker is the leading tracking software for affiliates. With advanced analytical features and built-in opt...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722796/catalog/voluum/icon128x128.jpg",
+  "website": "https://voluum.com"
+}

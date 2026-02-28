@@ -1,0 +1,14 @@
+{
+  "id": "bindbox-io",
+  "title": "BindBox",
+  "subtitle": "Create backends without code and automatically deploy them as an API.",
+  "tags": [
+    "low-code",
+    "backend-as-a-service"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597962509/icons/bindbox-io.jpg",
+  "website": "https://bindbox.io/"
+}

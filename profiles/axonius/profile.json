@@ -1,0 +1,14 @@
+{
+  "id": "axonius",
+  "title": "Axonius",
+  "subtitle": "Axonius is the only cybersecurity asset management platform providing actionable visibility and security policy enfor...",
+  "tags": [
+    "security",
+    "cybersecurity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567033156/catalog/axonius/icon128x128.jpg",
+  "website": "https://www.axonius.com/"
+}

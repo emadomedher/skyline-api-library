@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-bot-framework",
+  "title": "Microsoft Bot Framework",
+  "subtitle": "Microsoft Bot Framework API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568422576/catalog/microsoft-bot-framework/icon128x128.jpg",
+  "website": "https://dev.botframework.com/"
+}

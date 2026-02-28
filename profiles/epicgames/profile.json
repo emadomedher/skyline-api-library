@@ -1,0 +1,14 @@
+{
+  "id": "epicgames",
+  "title": "Epic Games",
+  "subtitle": "Welcome to Epic Games Store! Download and play PC Games of every genre. We have mods, DLC and Free Games too! Games f...",
+  "tags": [
+    "video-game-developers",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618793612/icons/epicgames.jpg",
+  "website": "https://www.epicgames.com/"
+}

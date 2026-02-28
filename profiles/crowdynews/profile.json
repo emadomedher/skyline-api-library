@@ -1,0 +1,13 @@
+{
+  "id": "crowdynews",
+  "title": "Crowdynews",
+  "subtitle": "Crowdynews delivers relevant and safe social media curation solutions for online publishers worldwide. Increase engag...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947188/catalog/crowdynews/icon128x128.jpg",
+  "website": "https://crowdynews.com"
+}

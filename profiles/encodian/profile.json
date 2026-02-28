@@ -1,0 +1,12 @@
+{
+  "id": "encodian",
+  "title": "Encodian",
+  "subtitle": "Enhanced document management and PDF creation capabilities for Office 365, Flow, Logic Apps + more",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264787/catalog/encodian/icon128x128.png"
+}

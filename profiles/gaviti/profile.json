@@ -1,0 +1,13 @@
+{
+  "id": "gaviti",
+  "title": "Gaviti",
+  "subtitle": "Gaviti is an automated receivables collection platform that accelerates cash flow and improves DSO by an average of 30%.",
+  "tags": [
+    "accounts-receivable"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1661844549/icons/gaviti.jpg",
+  "website": "https://gaviti.com/"
+}

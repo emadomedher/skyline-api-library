@@ -1,0 +1,16 @@
+{
+  "id": "influxdata",
+  "title": "InfluxData",
+  "subtitle": "InfluxDB open source time series database, purpose-built by InfluxData for monitoring metrics and events, provides re...",
+  "tags": [
+    "databases",
+    "time-series-databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080682/catalog/influxdata/icon128x128.png",
+  "website": "https://www.influxdata.com/",
+  "docsUrl": "https://www.influxdata.com/developers"
+}

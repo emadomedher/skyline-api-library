@@ -1,0 +1,13 @@
+{
+  "id": "appetize",
+  "title": "Appetize",
+  "subtitle": "Drive financial performance and improve guest experience with the leading cloud-based point of sale system. Contact A...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567806011/catalog/appetize/icon128x128.jpg",
+  "website": "https://appetize.com/"
+}

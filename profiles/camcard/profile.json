@@ -1,0 +1,13 @@
+{
+  "id": "camcard",
+  "title": "CamCard",
+  "subtitle": "Log in or sign in to CamCard - Professional Business Card Reader and Manager. Read your card, mind your business. Cam...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826022/catalog/camcard/icon128x128.jpg",
+  "website": "https://camcard.com"
+}

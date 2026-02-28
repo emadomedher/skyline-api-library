@@ -1,0 +1,13 @@
+{
+  "id": "rr-donnelley",
+  "title": "RR Donnelley",
+  "subtitle": "RR Donnelley API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962455/catalog/rr-donnelley/icon128x128.png",
+  "website": "https://rrdonnelley.com"
+}

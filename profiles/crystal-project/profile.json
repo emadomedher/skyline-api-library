@@ -1,0 +1,13 @@
+{
+  "id": "crystal-project",
+  "title": "Crystal Project",
+  "subtitle": "Personality assessments, predictions and coaching tools to understand anyone’s personality for hiring, team building,...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964132/catalog/crystal-project/icon128x128.png",
+  "website": "https://crystalknows.com"
+}

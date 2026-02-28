@@ -1,0 +1,13 @@
+{
+  "id": "dashword",
+  "title": "Dashword",
+  "subtitle": "Dashword is the #1 content optimization software for SEO teams. Create relevant content for your readers and grow you...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634599536/icons/dashword.jpg",
+  "website": "https://www.dashword.com/"
+}

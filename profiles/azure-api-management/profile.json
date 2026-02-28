@@ -1,0 +1,16 @@
+{
+  "id": "azure-api-management",
+  "title": "Azure API Management",
+  "subtitle": "Azure API Management offers a scalable, multi-cloud API management platform for securing, publishing, and analyzing A...",
+  "tags": [
+    "api-management",
+    "api-gateways",
+    "developer-portal"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603882293/icons/azure-api-management.jpg",
+  "website": "https://azure.microsoft.com/en-us/services/api-management/",
+  "docsUrl": "https://azure.microsoft.com/en-us/services/postgresql"
+}

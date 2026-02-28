@@ -1,0 +1,13 @@
+{
+  "id": "smartup-io",
+  "title": "SmartUp.io",
+  "subtitle": "SmartUp is a mobile-first learning experience platform that allows training companies and organizations to revolution...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651682873/icons/smartup-io.png",
+  "website": "https://www.smartup.io/"
+}

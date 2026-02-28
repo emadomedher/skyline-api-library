@@ -1,0 +1,13 @@
+{
+  "id": "rexx-systems",
+  "title": "rexx systems",
+  "subtitle": "rexx systems - Software Solutions for Talent Management, Applicant tracking systems and Human Resource Management. Tr...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688572090/icons/rexx-systems.png",
+  "website": "https://www.rexx-systems.com/en/"
+}

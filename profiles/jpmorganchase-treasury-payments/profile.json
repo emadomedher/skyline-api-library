@@ -1,0 +1,16 @@
+{
+  "id": "jpmorganchase-treasury-payments",
+  "title": "J.P. Morgan Treasury Payments",
+  "subtitle": "J.P. Morgan is a full-service provider of cash management solutions specifically developed to meet the challenges tre...",
+  "tags": [
+    "treasury-apis",
+    "fintech",
+    "cash-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615835012/icons/jpmorganchase-treasury-payments.png",
+  "website": "https://www.jpmorgan.com/solutions/treasury-payments",
+  "docsUrl": "https://developer.jpmorgan.com"
+}

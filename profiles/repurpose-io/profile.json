@@ -1,0 +1,13 @@
+{
+  "id": "repurpose-io",
+  "title": "Repurpose.io",
+  "subtitle": "Repurposing content for social media made easy. Automatically repurpose YouTube, TikTok, Lives, Podcasts, and Zoom ca...",
+  "tags": [
+    "social-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674498376/icons/repurpose-io.jpg",
+  "website": "https://repurpose.io/"
+}

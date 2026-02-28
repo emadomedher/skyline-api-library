@@ -1,0 +1,15 @@
+{
+  "id": "iterative-ly",
+  "title": "Iteratively",
+  "subtitle": "Collaborate with your entire team to ship high-quality analytics faster and be confident in the results.",
+  "tags": [
+    "analytics-tracking",
+    "product-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591898029/icons/iterative-ly.jpg",
+  "website": "https://iterative.ly/",
+  "docsUrl": "https://iterative.ly/docs/getting-started"
+}

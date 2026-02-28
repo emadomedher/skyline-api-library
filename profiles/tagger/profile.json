@@ -1,0 +1,13 @@
+{
+  "id": "tagger",
+  "title": "Tagger",
+  "subtitle": "Tagger allows brands agencies and media companies to maximize their Influencer strategies and activations. Learn more...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946501/catalog/tagger/icon128x128.jpg",
+  "website": "https://taggermedia.com"
+}

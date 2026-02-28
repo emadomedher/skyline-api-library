@@ -1,0 +1,13 @@
+{
+  "id": "globalwebindex",
+  "title": "Globalwebindex",
+  "subtitle": "Globalwebindex API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434812/catalog/globalwebindex/icon128x128.png",
+  "website": "https://globalwebindex.com"
+}

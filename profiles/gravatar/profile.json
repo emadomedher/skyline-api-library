@@ -1,0 +1,14 @@
+{
+  "id": "gravatar",
+  "title": "Gravatar",
+  "subtitle": "Gravatar API integration",
+  "tags": [
+    "avatars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573360770/catalog/gravatar/icon128x128.png",
+  "website": "https://gravatar.com/",
+  "docsUrl": "https://en.gravatar.com/site/implement"
+}

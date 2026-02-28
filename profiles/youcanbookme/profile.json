@@ -1,0 +1,13 @@
+{
+  "id": "youcanbookme",
+  "title": "YouCanBook.Me",
+  "subtitle": "Take bookings online. YouCanBook.me links to your calendar to allow your customers to book your services via the web.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306562/catalog/youcanbookme/icon128x128.png",
+  "website": "https://youcanbook.me/"
+}

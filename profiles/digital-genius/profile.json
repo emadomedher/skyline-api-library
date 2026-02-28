@@ -1,0 +1,13 @@
+{
+  "id": "digital-genius",
+  "title": "Digital Genius",
+  "subtitle": "The DigitalGenius AI platform puts customer support on autopilot by understanding conversations, automating repetitiv...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947144/catalog/digital-genius/icon128x128.jpg",
+  "website": "https://digitalgenius.com"
+}

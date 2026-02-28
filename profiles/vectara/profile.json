@@ -1,0 +1,14 @@
+{
+  "id": "vectara",
+  "title": "Vectara",
+  "subtitle": "LLM-powered Search that delivers incredible relevance. An API-based search platform that offers a complete, easy-to-u...",
+  "tags": [
+    "search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683414786/icons/vectara.jpg",
+  "website": "https://vectara.com/",
+  "docsUrl": "https://vectara.com/platform/api-first"
+}

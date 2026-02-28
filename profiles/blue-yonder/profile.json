@@ -1,0 +1,13 @@
+{
+  "id": "blue-yonder",
+  "title": "Blue Yonder",
+  "subtitle": "World's Leading Supply Chain Platform",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433344/catalog/blue-yonder/icon128x128.png",
+  "website": "https://blue-yonder.com"
+}

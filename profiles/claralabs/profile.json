@@ -1,0 +1,13 @@
+{
+  "id": "claralabs",
+  "title": "Clara Labs",
+  "subtitle": "Clara is your partner in doing great work — a virtual employee that schedules your meetings.",
+  "tags": [
+    "virtual-assistants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610129719/icons/claralabs.png",
+  "website": "https://claralabs.com/"
+}

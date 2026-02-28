@@ -1,0 +1,13 @@
+{
+  "id": "gonow",
+  "title": "GoNow",
+  "subtitle": "GoNow API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434830/catalog/gonow/icon128x128.png",
+  "website": "https://gonowpro.com"
+}

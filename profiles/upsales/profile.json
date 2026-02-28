@@ -1,0 +1,14 @@
+{
+  "id": "upsales",
+  "title": "Upsales",
+  "subtitle": "You need to move fast and sell more. You need a revenue engine that can handle it. Unite sales and marketing with one...",
+  "tags": [
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667856378/icons/upsales.jpg",
+  "website": "https://upsales.com",
+  "docsUrl": "https://api.upsales.com/"
+}

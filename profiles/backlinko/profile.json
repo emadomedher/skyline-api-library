@@ -1,0 +1,13 @@
+{
+  "id": "backlinko",
+  "title": "Backlinko",
+  "subtitle": "It's time to get backlinks that make a difference. Backlinko is the place for next-level SEO training and link buildi...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567256346/catalog/backlinko/icon128x128.png",
+  "website": "https://backlinko.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vimeo",
+  "title": "Vimeo",
+  "subtitle": "Vimeo is a great tool for storing and distributing video content. It comes with powerful privacy and group features.",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306435/catalog/vimeo/icon128x128.png",
+  "website": "https://vimeo.com/"
+}

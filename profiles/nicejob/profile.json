@@ -1,0 +1,13 @@
+{
+  "id": "nicejob",
+  "title": "NiceJob",
+  "subtitle": "The easiest way to get more reviews, and build your reputation. Create social media buzz, improve your SEO and win mo...",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305513/catalog/nicejob/icon128x128.png",
+  "website": "https://get.nicejob.co"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tractable-ai",
+  "title": "Tractable",
+  "subtitle": "Artificial intelligence to help you perform visual tasks with more speed, accuracy, and scale than ever before.",
+  "tags": [
+    "insurtech",
+    "car-insurance-claim"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623961898/icons/tractable-ai.jpg",
+  "website": "https://tractable.ai/"
+}

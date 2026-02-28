@@ -1,0 +1,14 @@
+{
+  "id": "anyti-me",
+  "title": "Anytime",
+  "subtitle": "Anytime is a neobank based in Belgium and France that offers banking services to individuals, professionals, companie...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577808246/catalog/anyti-me/icon128x128.png",
+  "website": "https://www.anyti.me/",
+  "docsUrl": "https://developers.anyti.me/en/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nykredit",
+  "title": "Nykredit Bank",
+  "subtitle": "Nykredit Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568662658/catalog/nykredit/icon128x128.jpg",
+  "website": "https://www.nykredit.com/en-gb/",
+  "docsUrl": "https://apiportal00032.prod.bec.dk/openbanking/sandbox/APIs"
+}

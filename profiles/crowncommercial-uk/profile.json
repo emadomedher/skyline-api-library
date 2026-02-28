@@ -1,0 +1,14 @@
+{
+  "id": "crowncommercial-uk",
+  "title": "CrownCommercialServ",
+  "subtitle": "CrownCommercialServ API integration",
+  "tags": [
+    "government",
+    "non-software"
+  ],
+  "category": "Government",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591169584/icons/crowncommercial-uk.jpg",
+  "website": "https://www.crowncommercial.gov.uk/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "you-co",
+  "title": "YouTrip",
+  "subtitle": "Pay overseas with no fees - Mobile travel wallet with prepaid Mastercard at 0% overseas transaction fees for 150+ cur...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261084/icons/you-co.jpg",
+  "website": "https://www.you.co/"
+}

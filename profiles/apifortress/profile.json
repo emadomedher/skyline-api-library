@@ -1,0 +1,16 @@
+{
+  "id": "apifortress",
+  "title": "API Fortress",
+  "subtitle": "An API testing tool with unified API monitoring. Automate functional, integration, and data-driven testing with or wi...",
+  "tags": [
+    "api",
+    "api-testing",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599487342/icons/apifortress.jpg",
+  "website": "https://apifortress.com/",
+  "docsUrl": "https://apifortressv3.docs.apiary.io"
+}

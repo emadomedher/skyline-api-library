@@ -1,0 +1,13 @@
+{
+  "id": "abtesting-ai",
+  "title": "ABtesting.ai",
+  "subtitle": "Boost conversions on your landing page with the help of AI. Find the best way to showcase your product.",
+  "tags": [
+    "a/b-testing"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912842/icons/abtesting-ai.jpg",
+  "website": "https://abtesting.ai/"
+}

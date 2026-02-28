@@ -1,0 +1,13 @@
+{
+  "id": "linktrust",
+  "title": "Linktrust",
+  "subtitle": "Linktrust API integration",
+  "tags": [
+    "affiliate-marketing-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435560/catalog/linktrust/icon128x128.png",
+  "website": "https://linktrust.com"
+}

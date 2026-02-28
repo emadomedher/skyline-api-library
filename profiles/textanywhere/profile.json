@@ -1,0 +1,14 @@
+{
+  "id": "textanywhere",
+  "title": "TextAnywhere",
+  "subtitle": "Send, Receive & Reply to SMS | Deliver Offers, Notifications, Auto Replies & more | Reliable & Low Cost Bulk SMS Send...",
+  "tags": [
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642281577/icons/textanywhere.jpg",
+  "website": "https://www.textanywhere.com/",
+  "docsUrl": "https://www.textanywhere.com/developer-zone"
+}

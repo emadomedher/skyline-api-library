@@ -1,0 +1,15 @@
+{
+  "id": "debezium-io",
+  "title": "Debezium Project",
+  "subtitle": "Debezium Project API integration",
+  "tags": [
+    "data-streaming",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602032150/icons/debezium-io.jpg",
+  "website": "https://debezium.io/",
+  "docsUrl": "https://debezium.io/documentation/faq"
+}

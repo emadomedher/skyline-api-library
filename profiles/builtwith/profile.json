@@ -1,0 +1,15 @@
+{
+  "id": "builtwith",
+  "title": "BuiltWith",
+  "subtitle": "Web technology information profiler tool. Find out what a website is built with.",
+  "tags": [
+    "technographics",
+    "data-providers",
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433563/catalog/builtwith/icon128x128.png",
+  "website": "https://builtwith.com"
+}

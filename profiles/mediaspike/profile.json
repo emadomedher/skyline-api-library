@@ -1,0 +1,13 @@
+{
+  "id": "mediaspike",
+  "title": "Mediaspike",
+  "subtitle": "Mediaspike API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435825/catalog/mediaspike/icon128x128.png",
+  "website": "https://mediaspike.com"
+}

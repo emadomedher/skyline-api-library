@@ -1,0 +1,15 @@
+{
+  "id": "ai21",
+  "title": "AI21 Labs",
+  "subtitle": "AI21 Labs is an AI lab & product company whose mission is to reimagine the way we read and write by making the machin...",
+  "tags": [
+    "nlp",
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628808361/icons/ai21.png",
+  "website": "https://www.ai21.com/",
+  "docsUrl": "https://www.ai21.com/blog/announcing-ai21-studio-and-jurassic-1"
+}

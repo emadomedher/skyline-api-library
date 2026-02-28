@@ -1,0 +1,14 @@
+{
+  "id": "yodlee",
+  "title": "Envestnet | Yodlee",
+  "subtitle": "Envestnet | Yodlee has proudly fueled innovation for financial institutions and fintech companies since 1999 through ...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598570234/icons/yodlee.png",
+  "website": "https://www.yodlee.com/",
+  "docsUrl": "https://developer.yodlee.com/"
+}

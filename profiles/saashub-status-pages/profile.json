@@ -1,0 +1,13 @@
+{
+  "id": "saashub-status-pages",
+  "title": "SaaSHub Status Pages",
+  "subtitle": "SaaSHub Status Pages API integration",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578435976/catalog/saashub-status-pages/icon128x128.png",
+  "website": "https://www.saashub.com/status-pages"
+}

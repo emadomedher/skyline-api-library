@@ -1,0 +1,13 @@
+{
+  "id": "pivotcx-io",
+  "title": "PivotCX.io",
+  "subtitle": "PivotCX accelerates candidate flow and increases candidate flow by accelerating communication.",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675113429/icons/pivotcx-io.jpg",
+  "website": "https://www.pivotcx.io/"
+}

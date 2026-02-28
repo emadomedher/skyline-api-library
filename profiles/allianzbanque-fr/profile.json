@@ -1,0 +1,13 @@
+{
+  "id": "allianzbanque-fr",
+  "title": "Allianz Banque",
+  "subtitle": "Allianz Bank offers a wide range of banking products (current accounts, savings and investments, credits).",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006427/icons/allianzbanque-fr.png",
+  "website": "https://www.allianzbanque.fr"
+}

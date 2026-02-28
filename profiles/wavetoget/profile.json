@@ -1,0 +1,13 @@
+{
+  "id": "wavetoget",
+  "title": "WaveToGet",
+  "subtitle": "Wavetoget is an Exclusive Loyalty Program Which Helps Businesses Get New Customers and Keep Existing Ones Happy.",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722837/catalog/wavetoget/icon128x128.png",
+  "website": "https://wavetoget.com"
+}

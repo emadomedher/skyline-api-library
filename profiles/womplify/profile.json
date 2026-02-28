@@ -1,0 +1,13 @@
+{
+  "id": "womplify",
+  "title": "Womplify",
+  "subtitle": "Womplify API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961935/catalog/womplify/icon128x128.png",
+  "website": "https://womplify.com"
+}

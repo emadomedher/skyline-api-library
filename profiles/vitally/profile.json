@@ -1,0 +1,13 @@
+{
+  "id": "vitally",
+  "title": "Vitally",
+  "subtitle": "Vitally is a Customer Success platform that provides powerful analytics, alerts, and automated workflows to metrics d...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946382/catalog/vitally/icon128x128.jpg",
+  "website": "https://vitally.io"
+}

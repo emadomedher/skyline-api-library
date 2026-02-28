@@ -1,0 +1,14 @@
+{
+  "id": "allbirds",
+  "title": "Allbirds",
+  "subtitle": "Allbirds: the world’s most comfortable shoes, flats, and clothing made with natural materials like merino wool and eu...",
+  "tags": [
+    "footwear-brands",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618800199/icons/allbirds.jpg",
+  "website": "https://www.allbirds.com/"
+}

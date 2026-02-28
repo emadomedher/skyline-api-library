@@ -1,0 +1,15 @@
+{
+  "id": "omg-one",
+  "title": "OMG",
+  "subtitle": "Description",
+  "tags": [
+    "cashback-program",
+    "loyalty",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593186844/icons/omg-one.jpg",
+  "website": "https://omg.one/"
+}

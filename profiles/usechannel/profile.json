@@ -1,0 +1,13 @@
+{
+  "id": "usechannel",
+  "title": "Channel",
+  "subtitle": "Connect your database, ask a question, get an answer.",
+  "tags": [
+    "bi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672782350/icons/usechannel.jpg",
+  "website": "https://www.usechannel.com/"
+}

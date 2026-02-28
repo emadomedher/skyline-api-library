@@ -1,0 +1,14 @@
+{
+  "id": "posera",
+  "title": "Posera",
+  "subtitle": "Posera API integration",
+  "tags": [
+    "restech",
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573332075/catalog/posera/icon128x128.jpg",
+  "website": "https://www.posera.com/"
+}

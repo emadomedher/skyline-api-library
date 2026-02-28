@@ -1,0 +1,14 @@
+{
+  "id": "zoho-pagesense",
+  "title": "Zoho PageSense",
+  "subtitle": "With Zoho PageSense, you can measure your key website metrics, understand your visitors' online behavior, and give th...",
+  "tags": [
+    "a/b-testing"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396545/icons/zoho-pagesense.png",
+  "website": "https://www.zoho.com/pagesense/",
+  "docsUrl": "https://www.zoho.com/docs/?src=top-header&ireft=pagesense-co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "seo-samba",
+  "title": "Seo Samba",
+  "subtitle": "Seo Samba API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962374/catalog/seo-samba/icon128x128.png",
+  "website": "https://seosamba.com"
+}

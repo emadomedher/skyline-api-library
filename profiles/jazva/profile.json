@@ -1,0 +1,13 @@
+{
+  "id": "jazva",
+  "title": "Jazva",
+  "subtitle": "Jazva API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435284/catalog/jazva/icon128x128.png",
+  "website": "https://jazva.com"
+}

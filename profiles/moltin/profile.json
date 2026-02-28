@@ -1,0 +1,15 @@
+{
+  "id": "moltin",
+  "title": "moltin",
+  "subtitle": "An incredible eCommerce API for innovative brands, powerful and flexible building blocks with no steep learning curve...",
+  "tags": [
+    "ecommerce",
+    "api"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435950/catalog/moltin/icon128x128.png",
+  "website": "https://moltin.com",
+  "docsUrl": "https://www.moltin.com/developer"
+}

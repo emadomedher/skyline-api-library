@@ -1,0 +1,13 @@
+{
+  "id": "crowdvirality",
+  "title": "CrowdVirality",
+  "subtitle": "CrowdVirality API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434020/catalog/crowdvirality/icon128x128.png",
+  "website": "https://crowdvirality.com"
+}

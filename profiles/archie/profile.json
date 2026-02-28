@@ -1,0 +1,13 @@
+{
+  "id": "archie",
+  "title": "Archie",
+  "subtitle": "Archie helps you grow your social media exposure. Get more real followers on autopilot - start with a free trial.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433089/catalog/archie/icon128x128.png",
+  "website": "https://archie.co"
+}

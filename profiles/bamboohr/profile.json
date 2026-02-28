@@ -1,0 +1,15 @@
+{
+  "id": "bamboohr",
+  "title": "BambooHR",
+  "subtitle": "BambooHR is designed with small and medium sized businesses in mind. We set you free to focus on what matters most - ...",
+  "tags": [
+    "hris",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304444/catalog/bamboohr/icon128x128.png",
+  "website": "https://www.bamboohr.com",
+  "docsUrl": "https://documentation.bamboohr.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "popup-maker",
+  "title": "Popup Maker",
+  "subtitle": "Popup Maker is a multi functional marketing tool to boost your sales and grow your email list with variable features....",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830015/catalog/popup-maker/icon128x128.png",
+  "website": "https://wppopupmaker.com"
+}

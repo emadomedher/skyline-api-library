@@ -1,0 +1,13 @@
+{
+  "id": "secockpit",
+  "title": "SECockpit",
+  "subtitle": "SECockpit API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962422/catalog/secockpit/icon128x128.png",
+  "website": "https://secockpit.com"
+}

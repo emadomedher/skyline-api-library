@@ -1,0 +1,13 @@
+{
+  "id": "viralsweep",
+  "title": "ViralSweep",
+  "subtitle": "A platform for businesses to build and run social promotions.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306439/catalog/viralsweep/icon128x128.png",
+  "website": "https://viralsweep.com"
+}

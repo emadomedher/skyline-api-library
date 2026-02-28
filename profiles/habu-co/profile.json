@@ -1,0 +1,13 @@
+{
+  "id": "habu-co",
+  "title": "Habu",
+  "subtitle": "Simple and elegantly designed coworking software & space management tools let you get back to the important things. S...",
+  "tags": [
+    "workspace-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618847288/icons/habu-co.jpg",
+  "website": "https://www.habu.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "visitor-queue",
+  "title": "Visitor Queue",
+  "subtitle": "Visitor Queue is a B2B lead generation software that allows you to identify the businesses that have visited your web...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306442/catalog/visitor-queue/icon128x128.png",
+  "website": "https://visitorqueue.com"
+}

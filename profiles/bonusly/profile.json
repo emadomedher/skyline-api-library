@@ -1,0 +1,12 @@
+{
+  "id": "bonusly",
+  "title": "Bonusly",
+  "subtitle": "Bonusly is a fun, personal recognition and rewards program that enriches your company culture, improves employee enga...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304522/catalog/bonusly/icon128x128.png"
+}

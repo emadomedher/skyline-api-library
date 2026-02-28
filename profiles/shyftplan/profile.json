@@ -1,0 +1,15 @@
+{
+  "id": "shyftplan",
+  "title": "shyftplan",
+  "subtitle": "Dienstplan, Schichtplan, Zeiterfassung, Urlaubsplan und Lohnabrechnung alles aus einer Hand. Mit unserem Schichtplane...",
+  "tags": [
+    "scheduling",
+    "shift-planning",
+    "employee-scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587324897/catalog/shyftplan/icon128x128.jpg",
+  "website": "https://shyftplan.com/"
+}

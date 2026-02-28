@@ -1,0 +1,13 @@
+{
+  "id": "amplifr",
+  "title": "Amplifr",
+  "subtitle": "Amplifr is a social media publication and analytics app that analyses conversion and revenue for each of your social ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774797/catalog/amplifr/icon128x128.jpg",
+  "website": "https://amplifr.com"
+}

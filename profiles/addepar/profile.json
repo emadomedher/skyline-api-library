@@ -1,0 +1,13 @@
+{
+  "id": "addepar",
+  "title": "Addepar",
+  "subtitle": "Take your career to the next level. Addepar unites an extraordinary team with a pioneering vision: building the opera...",
+  "tags": [
+    "investment-portfolio-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579037032/catalog/addepar/icon128x128.jpg",
+  "website": "https://addepar.com"
+}

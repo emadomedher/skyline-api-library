@@ -1,0 +1,13 @@
+{
+  "id": "switchboard-app",
+  "title": "Switchboard",
+  "subtitle": "Work side-by-side in the tools you already use: web-based apps, images, files, and PDFs. Get more done together in in...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663733122/icons/switchboard-app.jpg",
+  "website": "https://www.switchboard.app/"
+}

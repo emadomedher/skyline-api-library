@@ -1,0 +1,13 @@
+{
+  "id": "radarpayments",
+  "title": "RadarPayments",
+  "subtitle": "Radar Payments is a leading white-label payment processing provider that offers a one-stop solution for end-to-end om...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364579/icons/radarpayments.png",
+  "website": "https://www.radarpayments.com/"
+}

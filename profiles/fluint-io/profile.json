@@ -1,0 +1,13 @@
+{
+  "id": "fluint-io",
+  "title": "Fluint",
+  "subtitle": "Stop losing deals when you’re not in the room. Fluint helps you create and sell with a committed champion for every d...",
+  "tags": [
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1673385320/icons/fluint-io.png",
+  "website": "https://www.fluint.io/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "unifiedfactory-easy",
+  "title": "UnifiedFactory Easy",
+  "subtitle": "UnifiedFactory Easy is a customer service and sales automation system. Your voice calls, chat, e-mails and messenger,...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306402/catalog/unifiedfactory-easy/icon128x128.png"
+}

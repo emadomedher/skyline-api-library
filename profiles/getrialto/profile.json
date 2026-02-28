@@ -1,0 +1,13 @@
+{
+  "id": "getrialto",
+  "title": "Rialto",
+  "subtitle": "There's a smarter way to drive workspace occupancy. Rialto is a one-off marketing & sales automation software, used b...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565254479/catalog/getrialto/icon128x128.jpg",
+  "website": "https://getrialto.com"
+}

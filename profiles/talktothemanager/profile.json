@@ -1,0 +1,13 @@
+{
+  "id": "talktothemanager",
+  "title": "TalkToTheManager",
+  "subtitle": "Get anonymous customer feedback by text message (and reply in real-time). Address customer complaints privately.",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722439/catalog/talktothemanager/icon128x128.png",
+  "website": "https://talktothemanager.com"
+}

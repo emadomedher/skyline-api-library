@@ -1,0 +1,14 @@
+{
+  "id": "flexibee-eu",
+  "title": "ABRA FlexiBee",
+  "subtitle": "Online účetní program ABRA FlexiBee vhodný pro živnostníky a podnikatele. První uživatel zdarma, extra ceny pro účetn...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569663357/catalog/flexibee-eu/icon128x128.png",
+  "website": "https://www.flexibee.eu/",
+  "docsUrl": "https://www.flexibee.eu/reference"
+}

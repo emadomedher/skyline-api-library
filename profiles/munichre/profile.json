@@ -1,0 +1,14 @@
+{
+  "id": "munichre",
+  "title": "Munich Re Group",
+  "subtitle": "Munich Re is a leading global provider of reinsurance, primary insurance and insurance-related risk solutions.\n",
+  "tags": [
+    "reinsurance-providers",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616567460/icons/munichre.png",
+  "website": "https://www.munichre.com/"
+}

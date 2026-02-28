@@ -1,0 +1,13 @@
+{
+  "id": "demandforce",
+  "title": "Demandforce",
+  "subtitle": "Improve retention, automate appointment scheduling, and manage your online reputation with Demandforce. An industry l...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775041/catalog/demandforce/icon128x128.jpg",
+  "website": "https://demandforce.com"
+}

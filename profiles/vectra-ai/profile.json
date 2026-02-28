@@ -1,0 +1,14 @@
+{
+  "id": "vectra-ai",
+  "title": "Vectra AI",
+  "subtitle": "Vectra is the world leader in AI-driven threat detection and response. The Cognito platform uses AI to detect attacke...",
+  "tags": [
+    "network-detection-and-response",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612001/catalog/vectra-ai/icon128x128.jpg",
+  "website": "https://www.vectra.ai/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "crittercism",
+  "title": "Crittercism",
+  "subtitle": "Crittercism provides mobile app performance management. Keep tabs on all crashes and service issues that affect mobil...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304703/catalog/crittercism/icon128x128.png"
+}

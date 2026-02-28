@@ -1,0 +1,13 @@
+{
+  "id": "phixius",
+  "title": "Phixius",
+  "subtitle": "Phixius is a platform for securely exchanging payment-related information utilizing technology, rules within a networ...",
+  "tags": [
+    "payment-information-exchanges"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616023627/icons/phixius.svg",
+  "website": "https://www.nacha.org/content/phixius"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bank-pekao",
+  "title": "Bank Pekao",
+  "subtitle": "Bank Pekao API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569631974/catalog/bank-pekao/icon128x128.jpg",
+  "website": "https://www.pekao.com.pl/",
+  "docsUrl": "https://developer.pekao.com.pl/api/"
+}

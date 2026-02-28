@@ -1,0 +1,12 @@
+{
+  "id": "awork",
+  "title": "awork",
+  "subtitle": "Intelligent projects, tasks and time tracking for your project business.",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1552850044/catalog/awork/icon128x128.png"
+}

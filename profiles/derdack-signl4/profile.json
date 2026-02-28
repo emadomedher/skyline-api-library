@@ -1,0 +1,14 @@
+{
+  "id": "derdack-signl4",
+  "title": "Derdack SIGNL4",
+  "subtitle": "If your team is in charge of mission-critical services, SIGNL4 is your mobile alerting app for teams with tracking, e...",
+  "tags": [
+    "devops",
+    "alerting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264779/catalog/derdack-signl4/icon128x128.png",
+  "website": "https://www.signl4.com/"
+}

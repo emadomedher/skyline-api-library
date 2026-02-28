@@ -1,0 +1,13 @@
+{
+  "id": "artichoke",
+  "title": "Artichoke",
+  "subtitle": "Artichoke is a business platform for freelancers: everything in one place, on any device, wherever you work. A web pa...",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055774/catalog/artichoke/icon128x128.png",
+  "website": "https://getartichoke.com/"
+}

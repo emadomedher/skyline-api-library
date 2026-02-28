@@ -1,0 +1,13 @@
+{
+  "id": "snapengage",
+  "title": "SnapEngage",
+  "subtitle": "Enterprise chat software for businesses. Capture more leads, drive conversions, reduce response times, and increase c...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439362/catalog/snapengage/icon128x128.svg",
+  "website": "https://snapengage.com/"
+}

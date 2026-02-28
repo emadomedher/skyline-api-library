@@ -1,0 +1,13 @@
+{
+  "id": "yardstiq",
+  "title": "YARDSTIQ",
+  "subtitle": "Access 1000s of analyst-led interviews with the world's largest network of software buyers.  Access first-hand intell...",
+  "tags": [
+    "software-buying"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909497/icons/yardstiq.jpg",
+  "website": "https://www.yardstiq.com/"
+}

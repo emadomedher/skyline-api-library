@@ -1,0 +1,13 @@
+{
+  "id": "comptastart",
+  "title": "Comptastart",
+  "subtitle": "Souscrivez à l'offre Comptastart, un logiciel de gestion qui vous aide à suivre vos dépenses et vos revenus pour simp...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598560864/icons/comptastart.png",
+  "website": "https://www.legalstart.fr/comptastart/"
+}

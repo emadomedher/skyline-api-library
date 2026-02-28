@@ -1,0 +1,13 @@
+{
+  "id": "keynote",
+  "title": "Keynote",
+  "subtitle": "Keynote API integration",
+  "tags": [
+    "presentations"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941472/icons/keynote.png",
+  "website": "https://www.apple.com/keynote/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "aicpa-org",
+  "title": "AICPA",
+  "subtitle": "AICPA is the world's largest member association representing the accounting profession. Dating back to 1887, our orga...",
+  "tags": [
+    "associations",
+    "accounting",
+    "non-software",
+    "cpa"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604703266/icons/aicpa-org.jpg",
+  "website": "https://www.aicpa.org/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ach-payments",
+  "title": "ACH Payments",
+  "subtitle": "Automated Clearing House (ACH) payments are electronic payments that pull funds directly from your checking account. ...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594901065/icons/ach-payments.png"
+}

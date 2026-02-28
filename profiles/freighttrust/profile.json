@@ -1,0 +1,14 @@
+{
+  "id": "freighttrust",
+  "title": "Freight Trust",
+  "subtitle": "Digital Freight Management for Trucking Carriers, 3PLs, Brokers, Freight Forwarders and Shippers. Cloud Managed EDI f...",
+  "tags": [
+    "freight-management",
+    "edi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588430374/catalog/freighttrust/icon128x128.jpg",
+  "website": "https://freighttrust.com/"
+}

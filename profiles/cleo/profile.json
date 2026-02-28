@@ -1,0 +1,14 @@
+{
+  "id": "cleo",
+  "title": "Cleo",
+  "subtitle": "Cleo's robust integration platform powers seamless end-to-end integration flows with your ecosystem of trading partne...",
+  "tags": [
+    "supply-chain",
+    "edi-integration"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611247054/icons/cleo.png",
+  "website": "https://www.cleo.com/"
+}

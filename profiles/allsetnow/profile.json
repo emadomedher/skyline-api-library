@@ -1,0 +1,13 @@
+{
+  "id": "allsetnow",
+  "title": "Allset",
+  "subtitle": "Order ahead for dine-in and pickup at more than 2,000+ restaurants. Download the app and try now at your local faves.",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171267/catalog/allsetnow/icon128x128.jpg",
+  "website": "https://allsetnow.com/"
+}

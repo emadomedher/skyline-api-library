@@ -1,0 +1,12 @@
+{
+  "id": "yumpu",
+  "title": "Yumpu",
+  "subtitle": "Yumpu is a powerful publishing application that makes it easy to convert, share and embed all kinds of documents. \nYu...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306582/catalog/yumpu/icon128x128.png"
+}

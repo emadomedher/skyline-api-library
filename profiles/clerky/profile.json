@@ -1,0 +1,13 @@
+{
+  "id": "clerky",
+  "title": "Clerky",
+  "subtitle": "Most popular online service for startup legal paperwork, including Delaware C corporation incorporation. Recommended ...",
+  "tags": [
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572253709/catalog/clerky/icon128x128.png",
+  "website": "https://www.clerky.com/"
+}

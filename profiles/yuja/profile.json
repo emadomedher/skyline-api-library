@@ -1,0 +1,15 @@
+{
+  "id": "yuja",
+  "title": "YuJa",
+  "subtitle": "YuJa provides enterprise media solutions to leading universities, K12 districts, corporations, non-profits and govern...",
+  "tags": [
+    "video-cms",
+    "education"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609719574/icons/yuja.jpg",
+  "website": "https://www.yuja.com/",
+  "docsUrl": "https://www.yuja.com/documentation/privacy-policy"
+}

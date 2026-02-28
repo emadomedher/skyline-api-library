@@ -1,0 +1,13 @@
+{
+  "id": "givingloop-org",
+  "title": "GivingLoop",
+  "subtitle": "GivingLoop API integration",
+  "tags": [
+    "donations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573842478/catalog/givingloop-org/icon128x128.jpg",
+  "website": "https://www.givingloop.org/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "samsara",
+  "title": "Samsara",
+  "subtitle": "Samsara’s platform brings AI safety programs, real-time visibility, workflows, reporting, and an ecosystem of integra...",
+  "tags": [
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623808060/icons/samsara.jpg",
+  "website": "https://www.samsara.com/",
+  "docsUrl": "https://www.samsara.com/support/developers"
+}

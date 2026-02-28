@@ -1,0 +1,14 @@
+{
+  "id": "powermyanalytics",
+  "title": "Power My Analytics",
+  "subtitle": "Use data connectors to retrieve key metrics and integrate them with your favorite reporting, dashboard, and spreadshe...",
+  "tags": [
+    "marketing-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619108/icons/powermyanalytics.png",
+  "website": "https://www.powermyanalytics.com/",
+  "docsUrl": "https://www.powermyanalytics.com/template/facebook-ads-data-studio"
+}

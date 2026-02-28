@@ -1,0 +1,14 @@
+{
+  "id": "unlock-sh",
+  "title": "Unlock.sh",
+  "subtitle": "Set yourself free from billing and logistics so you can focus on building software instead of packaging, versioning, ...",
+  "tags": [
+    "license-billing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760555/icons/unlock-sh.jpg",
+  "website": "https://unlock.sh/",
+  "docsUrl": "https://unlock.sh/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "growhold",
+  "title": "Growhold",
+  "subtitle": "Growhold gives you the tools to track users and drive subscription-based online sales in Software-as-a-Service produc...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050290/icons/growhold.png",
+  "website": "https://growhold.com"
+}

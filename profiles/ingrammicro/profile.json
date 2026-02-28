@@ -1,0 +1,15 @@
+{
+  "id": "ingrammicro",
+  "title": "Ingram Micro",
+  "subtitle": "Delivering global technology and supply chain services to support cloud aggregation, data center management, logistic...",
+  "tags": [
+    "channel-distribution",
+    "resellers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597236531/icons/ingrammicro.jpg",
+  "website": "https://www.ingrammicro.com/",
+  "docsUrl": "https://corp.ingrammicro.com/corporatesite/media/corporate-website/docs/privacy-statement-arabic.pdf"
+}

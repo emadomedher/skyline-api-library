@@ -1,0 +1,13 @@
+{
+  "id": "zscaler",
+  "title": "Zscaler",
+  "subtitle": "Zscaler is enabling secure digital transformation by rethinking traditional network security, and empowering enterpri...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666359/icons/zscaler.jpg",
+  "website": "https://www.zscaler.com/"
+}

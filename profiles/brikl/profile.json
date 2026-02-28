@@ -1,0 +1,14 @@
+{
+  "id": "brikl",
+  "title": "Brikl",
+  "subtitle": "Brikl is the world's leading e-Commerce MicroStore technology. Create and sell team stores, club shops, custom and pr...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152915/icons/brikl.jpg",
+  "website": "https://www.brikl.com/",
+  "docsUrl": "https://developers.brikl.com"
+}

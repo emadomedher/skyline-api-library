@@ -1,0 +1,13 @@
+{
+  "id": "workera-ai",
+  "title": "Workera",
+  "subtitle": "Unlock the full potential of your workforce with Workera's AI-powered skills intelligence platform. Drive employee de...",
+  "tags": [
+    "upskilling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678808109/icons/workera-ai.png",
+  "website": "https://workera.ai/"
+}

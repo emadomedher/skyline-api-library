@@ -1,0 +1,14 @@
+{
+  "id": "proxy",
+  "title": "Proxy",
+  "subtitle": "Proxy is a new way to access your office, building, or apartment, and it is simple. Just use your phone.",
+  "tags": [
+    "identity",
+    "hardware"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560671518/catalog/proxy/icon128x128.png",
+  "website": "https://proxy.com"
+}

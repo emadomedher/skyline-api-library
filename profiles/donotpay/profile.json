@@ -1,0 +1,14 @@
+{
+  "id": "donotpay",
+  "title": "DoNotPay",
+  "subtitle": "DoNotPay API integration",
+  "tags": [
+    "legal",
+    "robot-lawyers"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630448387/icons/donotpay.jpg",
+  "website": "https://donotpay.com/"
+}

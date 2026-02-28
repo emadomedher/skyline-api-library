@@ -1,0 +1,13 @@
+{
+  "id": "moat",
+  "title": "Moat",
+  "subtitle": "Moat API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963574/catalog/moat/icon128x128.png",
+  "website": "https://moat.com"
+}

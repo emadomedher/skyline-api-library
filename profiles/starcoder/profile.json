@@ -1,0 +1,14 @@
+{
+  "id": "starcoder",
+  "title": "StarCoder",
+  "subtitle": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+  "tags": [
+    "llm",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683274462/icons/starcoder.jpg",
+  "website": "https://huggingface.co/blog/starcoder"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mailjet",
+  "title": "Mailjet",
+  "subtitle": "Streamline your emailing and boost your sales with Mailjet. We serve all your email and SMS needs with one simple and...",
+  "tags": [
+    "email-marketing",
+    "newsletter",
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305356/catalog/mailjet/icon128x128.png",
+  "website": "https://www.mailjet.com/",
+  "docsUrl": "https://dev.mailjet.com"
+}

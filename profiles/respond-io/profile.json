@@ -1,0 +1,16 @@
+{
+  "id": "respond-io",
+  "title": "Respond.io",
+  "subtitle": "Respond.io is a business messaging platform that connects contacts from Email, Whatsapp, Social Media, Website widget...",
+  "tags": [
+    "business-messaging",
+    "crm",
+    "customer-support"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598821935/icons/respond-io.jpg",
+  "website": "https://respond.io/",
+  "docsUrl": "https://docs.respond.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "apache",
+  "title": "Apache",
+  "subtitle": "Home page of The Apache Software Foundation",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559937655/catalog/apache/icon128x128.png",
+  "website": "https://apache.org",
+  "docsUrl": "https://community.apache.org"
+}

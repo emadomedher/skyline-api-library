@@ -1,0 +1,13 @@
+{
+  "id": "suitecrm",
+  "title": "SuiteCRM",
+  "subtitle": "Open Source Customer Relationship Manangement (CRM) software solution for SME and Enterprise. Available as SaaS or on...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722380/catalog/suitecrm/icon128x128.jpg",
+  "website": "https://suitecrm.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "lsretail",
+  "title": "LS Retail",
+  "subtitle": "LS Retail management software solutions & POS systems help retailers, restaurateurs, pharmacies & forecourt businesse...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801274/catalog/lsretail/icon128x128.jpg",
+  "website": "https://www.lsretail.com/"
+}

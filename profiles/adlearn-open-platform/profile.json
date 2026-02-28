@@ -1,0 +1,12 @@
+{
+  "id": "adlearn-open-platform",
+  "title": "AdLearn Open Platform",
+  "subtitle": "AdLearn Open Platform API integration",
+  "tags": [
+    "a/b-testing"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439075/catalog/adlearn-open-platform/icon128x128.svg"
+}

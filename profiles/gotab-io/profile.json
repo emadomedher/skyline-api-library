@@ -1,0 +1,13 @@
+{
+  "id": "gotab-io",
+  "title": "GoTab",
+  "subtitle": "GoTab, Inc., the contactless order and payment platform, helps restaurant operators open safely, save money and delig...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659713391/icons/gotab-io.jpg",
+  "website": "https://gotab.io/"
+}

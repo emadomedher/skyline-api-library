@@ -1,0 +1,13 @@
+{
+  "id": "spekit-inc",
+  "title": "Spekit",
+  "subtitle": "Spekit is the best digital adoption platform and digital enablement tool. Streamline your sales enablement & onboardi...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962242/catalog/spekit-inc/icon128x128.png",
+  "website": "https://spekit.co"
+}

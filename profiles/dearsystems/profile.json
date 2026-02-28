@@ -1,0 +1,16 @@
+{
+  "id": "dearsystems",
+  "title": "DEAR",
+  "subtitle": "A centralized cloud ERP software solution to help you evolve, manage, analyze and automate every aspect of your busin...",
+  "tags": [
+    "inventory-management",
+    "manufacturing",
+    "erp"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635918061/icons/dearsystems.png",
+  "website": "https://dearsystems.com/",
+  "docsUrl": "https://dearinventory.docs.apiary.io/"
+}

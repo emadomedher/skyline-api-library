@@ -1,0 +1,14 @@
+{
+  "id": "dorms",
+  "title": "Dorms.com",
+  "subtitle": "Dorms.com ® - Book your safe student accommodation, cheap Hostel and coworking space for a gap year or holidays – Dor...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448044/icons/dorms.jpg",
+  "website": "https://www.dorms.com/"
+}

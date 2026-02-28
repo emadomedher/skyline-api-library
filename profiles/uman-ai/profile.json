@@ -1,0 +1,13 @@
+{
+  "id": "uman-ai",
+  "title": "uman.ai",
+  "subtitle": "Company knowledge bases suck. We build a fresh approach on top of your existing setup that indexes internal tools, co...",
+  "tags": [
+    "knowledge-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624732826/icons/uman-ai.png",
+  "website": "https://www.uman.ai/"
+}

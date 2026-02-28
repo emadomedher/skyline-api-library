@@ -1,0 +1,14 @@
+{
+  "id": "absence-io",
+  "title": "absence.io",
+  "subtitle": "absence.io makes it easy to keep track of your team's vacations, sick days or any other absences. No more vacation ap...",
+  "tags": [
+    "absence-management",
+    "employee-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570202372/catalog/absence-io/icon128x128.png",
+  "website": "https://www.absence.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "genesis-global",
+  "title": "Genesis Global",
+  "subtitle": "Genesis is a global software company rewriting the rulebook for financial markets. Our unique Low Code Application Pl...",
+  "tags": [
+    "financial-markets",
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616068144/icons/genesis-global.jpg",
+  "website": "https://genesis.global/"
+}

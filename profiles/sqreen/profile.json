@@ -1,0 +1,14 @@
+{
+  "id": "sqreen",
+  "title": "Sqreen",
+  "subtitle": "Sqreen's Application Security Management Platform offers a modern approach to security in production for web applicat...",
+  "tags": [
+    "application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554139028/catalog/sqreen/icon128x128.jpg",
+  "website": "https://www.sqreen.com/",
+  "docsUrl": "https://docs.sqreen.com"
+}

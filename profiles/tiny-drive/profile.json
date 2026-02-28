@@ -1,0 +1,14 @@
+{
+  "id": "tiny-drive",
+  "title": "Tiny Drive",
+  "subtitle": "Download TinyMCE for free, the most advanced WYSIWYG HTML editor designed to simplify website content creation.",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562106793/catalog/tiny-drive/icon128x128.png",
+  "website": "https://tiny.cloud",
+  "docsUrl": "https://www.tiny.cloud/docs"
+}

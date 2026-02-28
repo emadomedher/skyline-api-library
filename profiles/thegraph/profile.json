@@ -1,0 +1,16 @@
+{
+  "id": "thegraph",
+  "title": "The Graph",
+  "subtitle": "The Graph helps you build next level decentralized apps on Ethereum and IPFS using GraphQL.",
+  "tags": [
+    "crypto-api",
+    "blockchain",
+    "defi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602009481/icons/thegraph.jpg",
+  "website": "https://thegraph.com/",
+  "docsUrl": "https://thegraph.com/docs"
+}

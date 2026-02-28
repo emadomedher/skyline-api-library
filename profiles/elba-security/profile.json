@@ -1,0 +1,13 @@
+{
+  "id": "elba-security",
+  "title": "elba",
+  "subtitle": "elba is the modern security hub for modern teams. With our plug-and-play solution, we detect security issues and guid...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152908/icons/elba-security.jpg",
+  "website": "https://www.elba.security/"
+}

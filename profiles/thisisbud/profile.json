@@ -1,0 +1,14 @@
+{
+  "id": "thisisbud",
+  "title": "Bud",
+  "subtitle": "Bud goes beyond open banking, intelligently connecting services to create new opportunities for businesses & their cu...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593641940/icons/thisisbud.png",
+  "website": "https://thisisbud.com/",
+  "docsUrl": "https://thisisbud.com/developers"
+}

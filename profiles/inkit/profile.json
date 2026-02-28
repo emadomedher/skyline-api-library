@@ -1,0 +1,13 @@
+{
+  "id": "inkit",
+  "title": "Inkit",
+  "subtitle": "Inkit API integration",
+  "tags": [
+    "print"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435139/catalog/inkit/icon128x128.png",
+  "website": "https://inkit.io"
+}

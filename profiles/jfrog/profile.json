@@ -1,0 +1,15 @@
+{
+  "id": "jfrog",
+  "title": "JFrog",
+  "subtitle": "Share build artifacts & dependencies from development to production with a complete DevOps Platform, including artifa...",
+  "tags": [
+    "devops",
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592321638/icons/jfrog.jpg",
+  "website": "https://jfrog.com/",
+  "docsUrl": "https://www.jfrog.com/confluence/site/documentation"
+}

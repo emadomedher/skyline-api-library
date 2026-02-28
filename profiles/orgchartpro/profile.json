@@ -1,0 +1,13 @@
+{
+  "id": "orgchartpro",
+  "title": "OrgChart Software",
+  "subtitle": "Easy, Fast, Intelligent Organization Charting for Any Business, Any Market, Any Size. Solutions for Online, Desktop, ...",
+  "tags": [
+    "org-chart"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494234/catalog/orgchartpro/icon128x128.jpg",
+  "website": "https://www.orgchartpro.com/"
+}

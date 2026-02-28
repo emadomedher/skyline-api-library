@@ -1,0 +1,15 @@
+{
+  "id": "apicur-io",
+  "title": "Apicurio",
+  "subtitle": "Open Source API Design and Registry.",
+  "tags": [
+    "api-design",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606567914/icons/apicur-io.jpg",
+  "website": "https://www.apicur.io/",
+  "docsUrl": "https://github.com/search?q=topic%3adeveloper-tools+org%3aapicurio&type=repositories"
+}

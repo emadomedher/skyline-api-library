@@ -1,0 +1,14 @@
+{
+  "id": "eurobank-ergasias",
+  "title": "Eurobank Ergasias",
+  "subtitle": "The Eurobank Group is a financial organisation that operates in Greece, Cyprus, Luxembourg, Serbia, Bulgaria and UK. ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568569723/catalog/eurobank-ergasias/icon128x128.jpg",
+  "website": "https://www.eurobank.gr/en/group/grafeio-tupou/159-news-page",
+  "docsUrl": "https://developer.eurobank.gr"
+}

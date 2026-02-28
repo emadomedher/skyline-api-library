@@ -1,0 +1,13 @@
+{
+  "id": "marvia",
+  "title": "Marvia",
+  "subtitle": "Marvia Brand Management and Digital Asset Management Software lets you easily create, manage and order local marketin...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963616/catalog/marvia/icon128x128.png",
+  "website": "https://getmarvia.com"
+}

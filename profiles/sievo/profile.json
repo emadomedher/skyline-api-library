@@ -1,0 +1,13 @@
+{
+  "id": "sievo",
+  "title": "Sievo",
+  "subtitle": "Get more value from your procurement information with Sievo’s leading procurement analytics solution - software, serv...",
+  "tags": [
+    "procurement-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640816154/icons/sievo.jpg",
+  "website": "https://sievo.com/"
+}

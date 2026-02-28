@@ -1,0 +1,14 @@
+{
+  "id": "idenfy",
+  "title": "iDenfy",
+  "subtitle": "Identity verification for Remote user onboarding, Mitigation of fraud and Regulation compliance. Meet Know Your Custo...",
+  "tags": [
+    "identity-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585655821/catalog/idenfy/icon128x128.png",
+  "website": "https://idenfy.com/",
+  "docsUrl": "https://idenfy.com/developers"
+}

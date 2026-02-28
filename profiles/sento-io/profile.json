@@ -1,0 +1,13 @@
+{
+  "id": "sento-io",
+  "title": "sento.io",
+  "subtitle": "sento ist die cloudbasierte B2B-Integrationsplattform für FMCG Brands. Automatisiere Deine manuellen Prozesse.",
+  "tags": [
+    "edi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633125250/icons/sento-io.png",
+  "website": "https://sento.io/"
+}

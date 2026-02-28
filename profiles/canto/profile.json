@@ -1,0 +1,13 @@
+{
+  "id": "canto",
+  "title": "Canto",
+  "subtitle": "Canto is the leading digital asset management solution with 2,500 customers and 30 years of experience. See how Canto...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719357/catalog/canto/icon128x128.jpg",
+  "website": "https://canto.com"
+}

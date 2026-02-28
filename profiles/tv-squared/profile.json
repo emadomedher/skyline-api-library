@@ -1,0 +1,12 @@
+{
+  "id": "tv-squared",
+  "title": "TV Squared",
+  "subtitle": "TV Squared API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439375/catalog/tv-squared/icon128x128.svg"
+}

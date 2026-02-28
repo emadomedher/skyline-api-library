@@ -1,0 +1,14 @@
+{
+  "id": "returnly",
+  "title": "Returnly",
+  "subtitle": "Give your customers a return experience like no other. Returnly is the only return solution that lets shoppers get th...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610512363/icons/returnly.png",
+  "website": "https://returnly.com/",
+  "docsUrl": "https://developer.returnly.com/api"
+}

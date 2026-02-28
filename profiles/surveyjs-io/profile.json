@@ -1,0 +1,14 @@
+{
+  "id": "surveyjs-io",
+  "title": "SurveyJS",
+  "subtitle": "Free online survey, quiz. Use our free Survey Service or integrate Survey Library and Survey Creator/Form Builder int...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608488615/icons/surveyjs-io.png",
+  "website": "https://surveyjs.io/",
+  "docsUrl": "https://surveyjs.io/documentation/library"
+}

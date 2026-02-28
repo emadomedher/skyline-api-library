@@ -1,0 +1,13 @@
+{
+  "id": "providusbank",
+  "title": "ProvidusBank",
+  "subtitle": "Providus Bank Limited, is a Nigerian financial services provider, licensed as a commercial bank, by the Central Bank ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622134865/icons/providusbank.jpg",
+  "website": "https://providusbank.com/"
+}

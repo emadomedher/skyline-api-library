@@ -1,0 +1,13 @@
+{
+  "id": "goolara",
+  "title": "Goolara",
+  "subtitle": "Goolara API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720268/catalog/goolara/icon128x128.jpg",
+  "website": "https://goolara.com"
+}

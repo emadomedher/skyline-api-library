@@ -1,0 +1,14 @@
+{
+  "id": "rallyon",
+  "title": "Rallyon",
+  "subtitle": "Rallyon API integration",
+  "tags": [
+    "headless-checkouts",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620989210/icons/rallyon.png",
+  "website": "https://www.rallyon.com/"
+}

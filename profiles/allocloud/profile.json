@@ -1,0 +1,14 @@
+{
+  "id": "allocloud",
+  "title": "ALLOcloud",
+  "subtitle": "Communicate more easily and effectively with our Unified Communications, Telephony & Collaboration services in the Cl...",
+  "tags": [
+    "ucaas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655156084/icons/allocloud.jpg",
+  "website": "https://www.allocloud.com/",
+  "docsUrl": "https://documentation.allocloud.com"
+}

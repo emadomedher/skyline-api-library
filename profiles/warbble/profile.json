@@ -1,0 +1,13 @@
+{
+  "id": "warbble",
+  "title": "Warbble",
+  "subtitle": "Helping businesses generate ideas to increase sales of their products and services by turning diverse business models...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722827/catalog/warbble/icon128x128.png",
+  "website": "https://warbble.com"
+}

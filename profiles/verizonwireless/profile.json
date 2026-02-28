@@ -1,0 +1,13 @@
+{
+  "id": "verizonwireless",
+  "title": "Verizon",
+  "subtitle": "Shop the latest smartphones, tablets & deals from brands like Apple, Samsung & Google. Verizon, the largest 4G LTE ne...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584859570/catalog/verizonwireless/icon128x128.png",
+  "website": "https://www.verizonwireless.com/"
+}

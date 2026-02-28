@@ -1,0 +1,15 @@
+{
+  "id": "floqast",
+  "title": "FloQast",
+  "subtitle": "FloQast is a provider of accounting workflow automation created by accountants for accountants to work smarter, not h...",
+  "tags": [
+    "accounting-automation",
+    "close-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640257822/icons/floqast.jpg",
+  "website": "https://floqast.com/",
+  "docsUrl": "https://floqast.com/#"
+}

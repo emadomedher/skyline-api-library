@@ -1,0 +1,14 @@
+{
+  "id": "bambee",
+  "title": "Bambee",
+  "subtitle": "Bambee allows you to hire an HR manager for just $99 a month. Plus SMB’s can access a free suite of powerful HR tools...",
+  "tags": [
+    "hr",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660394/icons/bambee.png",
+  "website": "https://www.bambee.com/"
+}

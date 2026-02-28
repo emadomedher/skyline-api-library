@@ -1,0 +1,14 @@
+{
+  "id": "elevensports-be",
+  "title": "Eleven Sports Network",
+  "subtitle": "ELEVEN SPORTS is een bekroonde aanbieder van sportprogramma´s. Bekijk de beste live voetbalwedstrijden van La Liga. N...",
+  "tags": [
+    "television",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741016/icons/elevensports-be.jpg",
+  "website": "https://www.elevensports.be/"
+}

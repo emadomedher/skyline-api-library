@@ -1,0 +1,14 @@
+{
+  "id": "lightship-dev",
+  "title": "Lightship",
+  "subtitle": "We are empowering creators to seamlessly and realistically bring virtual content into the real world, at a global scale.",
+  "tags": [
+    "ar"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652986378/icons/lightship-dev.jpg",
+  "website": "https://lightship.dev/",
+  "docsUrl": "https://lightship.dev/docs"
+}

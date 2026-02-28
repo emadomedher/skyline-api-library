@@ -1,0 +1,14 @@
+{
+  "id": "deci-ai",
+  "title": "Deci",
+  "subtitle": "Deci leverages AI to craft the next generation of AI. Deci’s platform supercharges deep learning models to top perfor...",
+  "tags": [
+    "ai",
+    "deep-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015088/icons/deci-ai.png",
+  "website": "https://deci.ai/"
+}

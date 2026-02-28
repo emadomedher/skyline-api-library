@@ -1,0 +1,12 @@
+{
+  "id": "servicetrade",
+  "title": "ServiceTrade",
+  "subtitle": "ServiceTrade is a customer service and sales application for commercial service contractors. Convert more of your con...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284605/catalog/servicetrade/icon128x128.png"
+}

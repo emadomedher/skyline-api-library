@@ -1,0 +1,13 @@
+{
+  "id": "adsquare",
+  "title": "adsquare",
+  "subtitle": "adsquare is the real-time mobile-first data exchange.",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432830/catalog/adsquare/icon128x128.png",
+  "website": "https://adsquare.com"
+}

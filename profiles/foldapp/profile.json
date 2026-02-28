@@ -1,0 +1,14 @@
+{
+  "id": "foldapp",
+  "title": "Fold",
+  "subtitle": "Fold is the bitcoin rewards debit card and bitcoin-back shopping app. Earn bitcoin on everything with the Fold bitcoi...",
+  "tags": [
+    "crypto",
+    "bitcoin-rewards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638042377/icons/foldapp.jpg",
+  "website": "https://foldapp.com/"
+}

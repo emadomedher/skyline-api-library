@@ -1,0 +1,13 @@
+{
+  "id": "vantiv",
+  "title": "Vantiv",
+  "subtitle": "Vantiv API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576794134/catalog/vantiv/icon128x128.png",
+  "website": "https://www.vantiv.com/"
+}

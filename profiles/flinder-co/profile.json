@@ -1,0 +1,13 @@
+{
+  "id": "flinder-co",
+  "title": "Flinder",
+  "subtitle": "flinder are an accounting, advisory and data analytics business helping businesses evolve.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581089653/catalog/flinder-co/icon128x128.jpg",
+  "website": "https://flinder.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "google-business-messages",
+  "title": "Google Business Messages",
+  "subtitle": "Business Messages is a mobile conversational channel that combines entry points on Google Maps, Search, and brand web...",
+  "tags": [
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593442145/icons/google-business-messages.jpg",
+  "website": "https://developers.google.com/business-communications/business-messages"
+}

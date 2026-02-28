@@ -1,0 +1,13 @@
+{
+  "id": "signrequest",
+  "title": "SignRequest",
+  "subtitle": "SignRequest is an electronic (digital) signature solution to get documents signed. Easy, fast, secure and legally bin...",
+  "tags": [
+    "documents",
+    "signatures"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306086/catalog/signrequest/icon128x128.png"
+}

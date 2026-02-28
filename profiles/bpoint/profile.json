@@ -1,0 +1,14 @@
+{
+  "id": "bpoint",
+  "title": "Bpoint",
+  "subtitle": "Bpoint API integration",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569813059/catalog/bpoint/icon128x128.svg",
+  "website": "https://www.bpoint.com.au/bpoint/",
+  "docsUrl": "https://www.bpoint.com.au/developers"
+}

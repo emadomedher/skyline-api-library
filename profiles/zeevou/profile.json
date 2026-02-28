@@ -1,0 +1,13 @@
+{
+  "id": "zeevou",
+  "title": "Zeevou",
+  "subtitle": "Zeevou is an award-winning Property Management System and Channel Manager that automates all areas of your short term...",
+  "tags": [
+    "property-management-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590575854/catalog/zeevou/icon128x128.jpg",
+  "website": "https://zeevou.com/"
+}

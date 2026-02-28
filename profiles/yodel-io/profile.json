@@ -1,0 +1,13 @@
+{
+  "id": "yodel-io",
+  "title": "Yodel.io",
+  "subtitle": "Yodel is a business phone system that allows you to make and receive calls directly inside of Slack using your existi...",
+  "tags": [
+    "phone-support"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573813924/catalog/yodel-io/icon128x128.jpg",
+  "website": "https://www.yodel.io/"
+}

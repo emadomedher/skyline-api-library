@@ -1,0 +1,13 @@
+{
+  "id": "bruce-clay",
+  "title": "Bruce Clay",
+  "subtitle": "Bruce Clay API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433471/catalog/bruce-clay/icon128x128.png",
+  "website": "https://bruceclay.com"
+}

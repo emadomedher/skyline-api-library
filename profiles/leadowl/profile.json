@@ -1,0 +1,12 @@
+{
+  "id": "leadowl",
+  "title": "LeadOwl",
+  "subtitle": "LeadOwl is a smart phone & web app that allows you and your team to connect funnels, get reminders, and follow up wit...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284549/catalog/leadowl/icon128x128.png"
+}

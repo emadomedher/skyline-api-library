@@ -1,0 +1,15 @@
+{
+  "id": "zomato",
+  "title": "Zomato",
+  "subtitle": "East of England Restaurants - Menus, Photos, Ratings and Reviews for over 900 Restaurants in East of England. Find th...",
+  "tags": [
+    "food-delivery",
+    "restaurant-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801233/catalog/zomato/icon128x128.png",
+  "website": "https://www.zomato.com",
+  "docsUrl": "https://developers.zomato.com"
+}

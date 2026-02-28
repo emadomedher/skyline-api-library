@@ -1,0 +1,13 @@
+{
+  "id": "ferrite-labs",
+  "title": "Ferrite Labs",
+  "subtitle": "Ferrite Labs is a MarTech startup creating disruptive software for managing and continuously improving marketing perf...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947011/catalog/ferrite-labs/icon128x128.jpg",
+  "website": "https://ferritelabs.com"
+}

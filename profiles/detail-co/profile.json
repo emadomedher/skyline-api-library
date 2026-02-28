@@ -1,0 +1,13 @@
+{
+  "id": "detail-co",
+  "title": "Detail",
+  "subtitle": "Detail turns your iPhone or iPad into an interactive camera for live video on your Mac. Use Detail to upgrade your ca...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635972589/icons/detail-co.png",
+  "website": "https://www.detail.co/"
+}

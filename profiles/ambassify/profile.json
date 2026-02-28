@@ -1,0 +1,13 @@
+{
+  "id": "ambassify",
+  "title": "Ambassify",
+  "subtitle": "Ambassify helps you harness the power of positive word-of-mouth. Identify and unite your most valuable advocates and ...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947244/catalog/ambassify/icon128x128.jpg",
+  "website": "https://ambassify.com"
+}

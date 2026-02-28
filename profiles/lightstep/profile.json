@@ -1,0 +1,14 @@
+{
+  "id": "lightstep",
+  "title": "Lightstep",
+  "subtitle": "Lightstep diagnoses anomalies and slowdowns, spanning mobile, monoliths, and microservices: best-in-class observabili...",
+  "tags": [
+    "application-performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597482072/icons/lightstep.png",
+  "website": "https://lightstep.com/",
+  "docsUrl": "https://lightstep.com/developers"
+}

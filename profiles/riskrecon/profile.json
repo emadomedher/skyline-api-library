@@ -1,0 +1,14 @@
+{
+  "id": "riskrecon",
+  "title": "RiskRecon",
+  "subtitle": "RiskRecon API integration",
+  "tags": [
+    "risk-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577145765/catalog/riskrecon/icon128x128.jpg",
+  "website": "https://www.riskrecon.com/"
+}

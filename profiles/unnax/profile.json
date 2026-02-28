@@ -1,0 +1,15 @@
+{
+  "id": "unnax",
+  "title": "Unnax",
+  "subtitle": "Our API Payment solution is created for Banking as a Service (BaaS) and FinTech companies, a simply way to money move...",
+  "tags": [
+    "api-aggregators",
+    "fintech",
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568048316/catalog/unnax/icon128x128.png",
+  "website": "https://www.unnax.com"
+}

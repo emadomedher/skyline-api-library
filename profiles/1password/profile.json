@@ -1,0 +1,24 @@
+{
+  "id": "1password",
+  "title": "1Password",
+  "subtitle": "A password manager, digital vault, form filler and secure digital wallet. 1Password remembers all your passwords for ...",
+  "tags": [
+    "password-managers",
+    "security",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626555289/icons/1password.png",
+  "specUrl": "https://i.1password.com/media/1password-events-reporting/1password-events-api.yaml",
+  "website": "https://1password.com/",
+  "docsUrl": "https://1password.com/secrets",
+  "additionalSpecUrls": [
+    {
+      "label": "1Password Connect API (OpenAPI)",
+      "specUrl": "https://i.1password.com/media/1password-connect/1password-connect-api.yaml",
+      "specType": "openapi"
+    }
+  ]
+}

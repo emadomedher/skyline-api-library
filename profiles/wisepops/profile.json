@@ -1,0 +1,13 @@
+{
+  "id": "wisepops",
+  "title": "WisePops",
+  "subtitle": "WisePops helps marketers build intelligent website popups and exit popups. Increase email signups and conversions. Tr...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306528/catalog/wisepops/icon128x128.png",
+  "website": "https://wisepops.com/"
+}

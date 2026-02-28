@@ -1,0 +1,13 @@
+{
+  "id": "pebblepost",
+  "title": "PebblePost",
+  "subtitle": "PebblePost enables better consumer experiences and brand performance by delivering respectful and relevant at-home ma...",
+  "tags": [
+    "direct-mail"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595533624/icons/pebblepost.jpg",
+  "website": "https://www.pebblepost.com/"
+}

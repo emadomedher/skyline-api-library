@@ -1,0 +1,13 @@
+{
+  "id": "qobra-co",
+  "title": "Qobra",
+  "subtitle": "Qobra is the next generation Sales Compensation Software designed for sales, operations, finance & HR fast-growing te...",
+  "tags": [
+    "sales-compensation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648506796/icons/qobra-co.png",
+  "website": "https://www.qobra.co/"
+}

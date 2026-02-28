@@ -1,0 +1,16 @@
+{
+  "id": "requestbin",
+  "title": "RequestBin",
+  "subtitle": "RequestBin.com gives you a URL that collects requests you send it so you can inspect them in a human-friendly way. Us...",
+  "tags": [
+    "api-testing",
+    "request-bins",
+    "webhooks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602949984/icons/requestbin.png",
+  "website": "https://requestbin.com/",
+  "docsUrl": "https://docs.pipedream.com/cli/install"
+}

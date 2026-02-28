@@ -1,0 +1,13 @@
+{
+  "id": "zoho-subscriptions",
+  "title": "Zoho Subscriptions",
+  "subtitle": "Zoho Subscriptions is a recurring billing and subscription management app that helps manage the entire life cycle of ...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306621/catalog/zoho-subscriptions/icon128x128.png",
+  "website": "https://www.zoho.com/subscriptions/"
+}

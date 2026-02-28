@@ -1,0 +1,14 @@
+{
+  "id": "cash-nl",
+  "title": "Cash",
+  "subtitle": "Automatisch boekhouden doet u met Cash Software. Realtime inzicht in uw belangrijkste cijfers. Bedrijfssoftware voor ...",
+  "tags": [
+    "accounting",
+    "invoicing"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566661924/catalog/cash-nl/icon128x128.png",
+  "website": "https://www.cash.nl/"
+}

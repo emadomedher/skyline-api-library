@@ -1,0 +1,13 @@
+{
+  "id": "jeenga",
+  "title": "Jeenga",
+  "subtitle": "A Jeenga é uma plataforma que analisa o comportamento dos seus clientes e envia automaticamente as campanhas programa...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720597/catalog/jeenga/icon128x128.png",
+  "website": "https://jeenga.com"
+}

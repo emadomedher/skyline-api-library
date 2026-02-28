@@ -1,0 +1,15 @@
+{
+  "id": "obieai",
+  "title": "Obie.ai",
+  "subtitle": "Obie is an AI platform that brings all of your knowledge and documentation into one spot so that your team can focus ...",
+  "tags": [
+    "productivity",
+    "bot",
+    "ai"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861280/catalog/obieai/icon128x128.png",
+  "website": "https://obie.ai"
+}

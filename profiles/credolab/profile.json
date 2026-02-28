@@ -1,0 +1,14 @@
+{
+  "id": "credolab",
+  "title": "CredoLab",
+  "subtitle": "CredoLab, one of Singapore's hottest Fintech companies, develops bank-grade digital credit  scorecards backed by alte...",
+  "tags": [
+    "credit-scoring",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494239/catalog/credolab/icon128x128.jpg",
+  "website": "https://www.credolab.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "applearn",
+  "title": "AppLearn®",
+  "subtitle": "The AppLearn digital adoption platform has been designed to help users ADOPT your digital transformation initiative. ...",
+  "tags": [
+    "digital-adoption-platform",
+    "user-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598560827/icons/applearn.png",
+  "website": "https://www.applearn.com/"
+}

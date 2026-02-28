@@ -1,0 +1,13 @@
+{
+  "id": "welab-co",
+  "title": "WeLab",
+  "subtitle": "WeLab is Asia's leading fintech company, making financial services accessible and enjoyable through innovative techno...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591439758/icons/welab-co.png",
+  "website": "https://www.welab.co/en/"
+}

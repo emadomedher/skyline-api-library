@@ -1,0 +1,13 @@
+{
+  "id": "engage121",
+  "title": "Engage121",
+  "subtitle": "Engage121 API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947080/catalog/engage121/icon128x128.jpg",
+  "website": "https://Engage121.com"
+}

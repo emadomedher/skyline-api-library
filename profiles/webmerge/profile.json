@@ -1,0 +1,13 @@
+{
+  "id": "webmerge",
+  "title": "WebMerge",
+  "subtitle": "Automatically generate PDF and Word DOCX documents merged with data from online web services. Contracts, invoices, ap...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456769/catalog/webmerge/icon128x128.png",
+  "website": "https://www.webmerge.me/"
+}

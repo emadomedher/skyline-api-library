@@ -1,0 +1,13 @@
+{
+  "id": "recruiterflow",
+  "title": "Recruiterflow",
+  "subtitle": "Highest rated applicant tracking and recruiting software that helps you source candidates and streamline your recruit...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215680/icons/recruiterflow.png",
+  "website": "https://recruiterflow.com/"
+}

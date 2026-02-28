@@ -1,0 +1,13 @@
+{
+  "id": "hints-so",
+  "title": "Hints",
+  "subtitle": "Valuable information immediately becomes actionable",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660241585/icons/hints-so.png",
+  "website": "https://hints.so/"
+}

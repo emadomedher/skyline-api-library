@@ -1,0 +1,13 @@
+{
+  "id": "rubicon-project",
+  "title": "Rubicon Project",
+  "subtitle": "Rubicon Project API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962454/catalog/rubicon-project/icon128x128.png",
+  "website": "https://RubiconProject.com"
+}

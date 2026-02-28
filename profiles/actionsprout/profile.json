@@ -1,0 +1,13 @@
+{
+  "id": "actionsprout",
+  "title": "ActionSprout",
+  "subtitle": "ActionSprout is a simple Facebook tool to grow your social following — and it’s 100% free for nonprofits! Try it now ...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304345/catalog/actionsprout/icon128x128.png",
+  "website": "https://actionsprout.com/"
+}

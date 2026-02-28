@@ -1,0 +1,13 @@
+{
+  "id": "artesian",
+  "title": "Artesian",
+  "subtitle": "Artesian API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433103/catalog/artesian/icon128x128.png",
+  "website": "https://artesian.co"
+}

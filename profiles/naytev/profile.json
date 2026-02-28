@@ -1,0 +1,13 @@
+{
+  "id": "naytev",
+  "title": "Naytev",
+  "subtitle": "Naytev's social media management and automation software empowers elite content teams to win on Facebook, Instagram, ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946793/catalog/naytev/icon128x128.jpg",
+  "website": "https://naytev.com"
+}

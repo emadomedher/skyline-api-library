@@ -1,0 +1,13 @@
+{
+  "id": "caseware-nl",
+  "title": "Caseware Nederland",
+  "subtitle": "Rely on CaseWare. Werk je met financiële gegevens? Dan is CaseWare de oplossing. De meest betrouwbare software voor a...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192472/icons/caseware-nl.jpg",
+  "website": "https://www.caseware.nl/"
+}

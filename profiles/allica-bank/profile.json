@@ -1,0 +1,13 @@
+{
+  "id": "allica-bank",
+  "title": "Allica Bank",
+  "subtitle": "By combining tailored expertise, local relationships and powerful technology, Allica Bank is built specifically to em...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671583/icons/allica-bank.jpg",
+  "website": "https://www.allica.bank/"
+}

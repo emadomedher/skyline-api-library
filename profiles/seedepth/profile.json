@@ -1,0 +1,13 @@
+{
+  "id": "seedepth",
+  "title": "Seedepth",
+  "subtitle": "Seedepth API integration",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561400246/catalog/seedepth/icon128x128.png",
+  "website": "https://seedepth.com"
+}

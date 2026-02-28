@@ -1,0 +1,13 @@
+{
+  "id": "toplinepro",
+  "title": "Topline Pro",
+  "subtitle": "Receive a optimized website built for you in 24hrs with online tools to grow your service business. Take your busines...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667746898/icons/toplinepro.jpg",
+  "website": "https://www.toplinepro.com/"
+}

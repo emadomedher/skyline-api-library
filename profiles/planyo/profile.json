@@ -1,0 +1,12 @@
+{
+  "id": "planyo",
+  "title": "Planyo",
+  "subtitle": "Planyo API integration",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378787/catalog/planyo/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wealthwizards",
+  "title": "Wealth Wizards",
+  "subtitle": "We're here to make financial advice affordable and accessible to all",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592818021/icons/wealthwizards.png",
+  "website": "https://www.wealthwizards.com/"
+}

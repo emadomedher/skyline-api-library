@@ -1,0 +1,14 @@
+{
+  "id": "buildium",
+  "title": "Buildium",
+  "subtitle": "Buildium's software helps property management companies become more efficient and profitable. Start your free trial t...",
+  "tags": [
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640194235/icons/buildium.jpg",
+  "website": "https://www.buildium.com/",
+  "docsUrl": "https://developer.buildium.com"
+}

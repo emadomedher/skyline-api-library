@@ -1,0 +1,13 @@
+{
+  "id": "litmus",
+  "title": "Litmus",
+  "subtitle": "Litmus provides a suite of email design and email marketing tools, helping you build, design, test, and analyze your ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720859/catalog/litmus/icon128x128.jpg",
+  "website": "https://litmus.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "workona",
+  "title": "Workona",
+  "subtitle": "Effortlessly manage your projects, documents, and apps in one place.",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311371/catalog/workona/icon128x128.jpg",
+  "website": "https://workona.com/"
+}

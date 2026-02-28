@@ -1,0 +1,14 @@
+{
+  "id": "typelaw",
+  "title": "TypeLaw",
+  "subtitle": "TypeLaw automatically builds your tables, hyperlinks your brief, and gives you back valuable time.",
+  "tags": [
+    "legal",
+    "digital-briefing"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585396446/catalog/typelaw/icon128x128.png",
+  "website": "https://www.typelaw.com/"
+}

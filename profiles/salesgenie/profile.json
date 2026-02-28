@@ -1,0 +1,13 @@
+{
+  "id": "salesgenie",
+  "title": "Salesgenie",
+  "subtitle": "Salesgenie is the best sales leads and marketing tool to help you target the right audience and generate new revenue....",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437088/catalog/salesgenie/icon128x128.png",
+  "website": "https://salesgenie.com"
+}

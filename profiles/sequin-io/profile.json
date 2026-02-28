@@ -1,0 +1,15 @@
+{
+  "id": "sequin-io",
+  "title": "Sequin",
+  "subtitle": "Replicate your SaaS data to a follower Postgres database in real-time.",
+  "tags": [
+    "data-integration",
+    "etl"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017166/icons/sequin-io.png",
+  "website": "https://www.sequin.io/",
+  "docsUrl": "https://docs.sequin.io"
+}

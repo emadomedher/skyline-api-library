@@ -1,0 +1,13 @@
+{
+  "id": "advanced-cloud-financials",
+  "title": "Advanced Cloud Financials",
+  "subtitle": "Gain a holistic view of business performance and serve your organisation finance needs with our cloud-based Financial...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634599542/icons/advanced-cloud-financials.jpg",
+  "website": "https://www.oneadvanced.com/solutions/cloudfinancials/"
+}

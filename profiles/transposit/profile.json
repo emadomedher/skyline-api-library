@@ -1,0 +1,15 @@
+{
+  "id": "transposit",
+  "title": "Transposit",
+  "subtitle": "Transposit uplifts your stack with the power of automation, integration, human and machine data, and infinite extensi...",
+  "tags": [
+    "devops",
+    "incident-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599138894/icons/transposit.png",
+  "website": "https://www.transposit.com/",
+  "docsUrl": "https://www.transposit.com/docs"
+}

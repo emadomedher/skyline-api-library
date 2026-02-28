@@ -1,0 +1,14 @@
+{
+  "id": "dart-dev",
+  "title": "Dart Language",
+  "subtitle": "Dart is a client-optimized language for fast apps on any platform",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612669124/icons/dart-dev.jpg",
+  "website": "https://dart.dev/",
+  "docsUrl": "https://dart.dev/guides"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bouwinfosys-nl-bouwoffice",
+  "title": "BouwOffice",
+  "subtitle": "BouwOffice - software voor aannemers in de bouw. Sinds de introductie van de eerste versie (1999) is BouwOffice uitge...",
+  "tags": [
+    "construction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572121411/catalog/bouwinfosys-nl-bouwoffice/icon128x128.png",
+  "website": "https://www.bouwinfosys.nl/index.php/branches/bouw/bouwoffice",
+  "docsUrl": "https://www.bouwinfosys.nl/docs/nederland_ict_voorwaarden.pdf"
+}

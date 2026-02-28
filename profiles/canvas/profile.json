@@ -1,0 +1,15 @@
+{
+  "id": "canvas",
+  "title": "Canvas",
+  "subtitle": "See why Canvas by Instructure is the world's fastest-growing learning platform. We create technology to help teachers...",
+  "tags": [
+    "lms",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583514627/catalog/canvas/icon128x128.png",
+  "website": "https://www.instructure.com/canvas/",
+  "docsUrl": "https://canvas.instructure.com/doc/api/"
+}

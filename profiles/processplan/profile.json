@@ -1,0 +1,13 @@
+{
+  "id": "processplan",
+  "title": "ProcessPlan",
+  "subtitle": "ProcessPlan is a process, procedure, project, and workflow tool.  Visually diagram your processes and then let Proces...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305735/catalog/processplan/icon128x128.png",
+  "website": "https://processplan.com/"
+}

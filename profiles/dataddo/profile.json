@@ -1,0 +1,14 @@
+{
+  "id": "dataddo",
+  "title": "Dataddo",
+  "subtitle": "Dataddo is a no-code data integration platform designed to connect to any analytics and business data and deliver the...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618333986/icons/dataddo.jpg",
+  "website": "https://www.dataddo.com/",
+  "docsUrl": "https://docs.dataddo.com"
+}

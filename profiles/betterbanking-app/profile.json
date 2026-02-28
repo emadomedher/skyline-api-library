@@ -1,0 +1,13 @@
+{
+  "id": "betterbanking-app",
+  "title": "Better",
+  "subtitle": "Banking that helps you fight unexpected medical debt. A Better Mastercard® Debit Card with no monthly fees, 32,000 AT...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624221142/icons/betterbanking-app.png",
+  "website": "https://betterbanking.app/"
+}

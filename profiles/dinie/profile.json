@@ -1,0 +1,13 @@
+{
+  "id": "dinie",
+  "title": "Dinie",
+  "subtitle": "Dinie API integration",
+  "tags": [
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644171723/icons/dinie.png",
+  "website": "https://www.dinie.com/"
+}

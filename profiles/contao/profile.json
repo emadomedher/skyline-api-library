@@ -1,0 +1,13 @@
+{
+  "id": "contao",
+  "title": "Contao",
+  "subtitle": "Contao ist ein web-basiertes Open Source CMS, das barrierefreie Webseiten generiert. Es unterstützt mehrere Sprachen ...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826146/catalog/contao/icon128x128.jpg",
+  "website": "https://contao.org"
+}

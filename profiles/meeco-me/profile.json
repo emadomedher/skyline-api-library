@@ -1,0 +1,13 @@
+{
+  "id": "meeco-me",
+  "title": "Meeco",
+  "subtitle": "access - control - delegation - consent of identity and personal data",
+  "tags": [
+    "privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571121290/catalog/meeco-me/icon128x128.jpg",
+  "website": "https://meeco.me/"
+}

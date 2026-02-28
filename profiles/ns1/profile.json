@@ -1,0 +1,14 @@
+{
+  "id": "ns1",
+  "title": "NS1",
+  "subtitle": "NS1 makes it easy to use next-generation DNS for advanced traffic routing, automation & application resiliency. Optim...",
+  "tags": [
+    "dns"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565024557/catalog/ns1/icon128x128.png",
+  "website": "https://ns1.com",
+  "docsUrl": "https://ns1.com/api"
+}

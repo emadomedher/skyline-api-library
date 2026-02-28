@@ -1,0 +1,16 @@
+{
+  "id": "onespan",
+  "title": "OneSpan",
+  "subtitle": "OneSpan is the only security, authentication, fraud prevention, and e-signature partner you need to deliver a frictio...",
+  "tags": [
+    "identity",
+    "security",
+    "fraud-prevention"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574651634/catalog/onespan/icon128x128.jpg",
+  "website": "https://www.onespan.com/",
+  "docsUrl": "https://secure.onespan.com/Email-Validation-Web.html"
+}

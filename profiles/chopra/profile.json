@@ -1,0 +1,14 @@
+{
+  "id": "chopra",
+  "title": "Chopra",
+  "subtitle": "Find meditation guides, self-care resources, and hundreds of years of ayurvedic knowledge with Chopra. Unlock the key...",
+  "tags": [
+    "chopra"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649375007/icons/chopra.jpg",
+  "website": "https://chopra.com/",
+  "docsUrl": "https://chopra.brightspotcdn.com/69/df/cc1b649249be8e16d1c390b42c81/docs-4032313-v1-chopra-ccpa-agent-authorization-form.pdf"
+}

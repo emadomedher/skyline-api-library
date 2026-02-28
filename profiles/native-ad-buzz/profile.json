@@ -1,0 +1,13 @@
+{
+  "id": "native-ad-buzz",
+  "title": "Native Ad Buzz",
+  "subtitle": "Native Ad Buzz API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436055/catalog/native-ad-buzz/icon128x128.png",
+  "website": "https://nativeadbuzz.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "shieldpay",
+  "title": "Shieldpay",
+  "subtitle": "For life’s biggest purchases. Trust your money to get where it needs to go, every time. We give you total peace of mi...",
+  "tags": [
+    "payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591167719/icons/shieldpay.png",
+  "website": "https://www.shieldpay.com/",
+  "docsUrl": "https://www.shieldpay.com/developer"
+}

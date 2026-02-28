@@ -1,0 +1,13 @@
+{
+  "id": "outboundflow-ai",
+  "title": "OutboundFlow.ai",
+  "subtitle": "OutboundFlow.ai | AI Powered Cold Email",
+  "tags": [
+    "email-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630613909/icons/outboundflow-ai.png",
+  "website": "https://www.outboundflow.ai/"
+}

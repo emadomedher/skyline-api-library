@@ -1,0 +1,14 @@
+{
+  "id": "postgresql",
+  "title": "PostgreSQL",
+  "subtitle": "The official site for PostgreSQL, the world's most advanced open source database",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056113/catalog/postgresql/icon128x128.png",
+  "website": "https://www.postgresql.org/",
+  "docsUrl": "https://www.postgresql.org/docs"
+}

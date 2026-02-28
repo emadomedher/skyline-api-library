@@ -1,0 +1,13 @@
+{
+  "id": "qogent-in",
+  "title": "Qogent Learning Solutions",
+  "subtitle": "We build online platforms to simplify the application processes for higher studies abroad.",
+  "tags": [
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642182940/icons/qogent-in.png",
+  "website": "https://qogent.in/"
+}

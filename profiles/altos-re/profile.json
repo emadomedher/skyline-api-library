@@ -1,0 +1,14 @@
+{
+  "id": "altos-re",
+  "title": "Altos Research",
+  "subtitle": "Use Altos Market Reports to generate new leads, close more business, and stay one step ahead of the market. Get start...",
+  "tags": [
+    "real-estate",
+    "market-data"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207274/icons/altos-re.png",
+  "website": "https://altos.re/"
+}

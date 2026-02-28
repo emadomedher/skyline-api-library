@@ -1,0 +1,13 @@
+{
+  "id": "meritdirect",
+  "title": "MeritDirect",
+  "subtitle": "MeritDirect API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389548/catalog/meritdirect/icon128x128.png",
+  "website": "https://meritdirect.com"
+}

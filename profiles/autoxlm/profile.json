@@ -1,0 +1,12 @@
+{
+  "id": "autoxlm",
+  "title": "AutoXLM",
+  "subtitle": "AutoXLM is a programmable Stellar Lumens (XLM) wallet.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304435/catalog/autoxlm/icon128x128.png"
+}

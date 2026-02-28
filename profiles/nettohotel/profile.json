@@ -1,0 +1,14 @@
+{
+  "id": "nettohotel",
+  "title": "NetToHotel",
+  "subtitle": "NetToHotel API integration",
+  "tags": [
+    "global-distribution-channels",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751548/icons/nettohotel.jpg",
+  "website": "https://www.nettohotel.com/"
+}

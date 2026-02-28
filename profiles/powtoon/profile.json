@@ -1,0 +1,13 @@
+{
+  "id": "powtoon",
+  "title": "PowToon",
+  "subtitle": "Make videos in minutes with Powtoon. Use our library of styles, characters, backgrounds and video, or upload your own...",
+  "tags": [
+    "video-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436576/catalog/powtoon/icon128x128.png",
+  "website": "https://powtoon.com"
+}

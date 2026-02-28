@@ -1,0 +1,13 @@
+{
+  "id": "snipd",
+  "title": "Snipd",
+  "subtitle": "Discover, save, and share highlights from podcasts. Snipd is an AI-powered podcast player. Search for moments in the ...",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679358331/icons/snipd.jpg",
+  "website": "https://www.snipd.com/"
+}

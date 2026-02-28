@@ -1,0 +1,14 @@
+{
+  "id": "contenda-co",
+  "title": "Contenda",
+  "subtitle": "Repurpose your technical content better and faster than an agency using generative AI.",
+  "tags": [
+    "copywriting",
+    "technical-documentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674230112/icons/contenda-co.jpg",
+  "website": "https://contenda.co/"
+}

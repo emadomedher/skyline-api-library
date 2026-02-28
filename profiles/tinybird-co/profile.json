@@ -1,0 +1,14 @@
+{
+  "id": "tinybird-co",
+  "title": "Tinybird",
+  "subtitle": "Tinybird helps data teams build real-time Data Products at scale through SQL-based API endpoints. It ingests millions...",
+  "tags": [
+    "real-time-analytics-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625622550/icons/tinybird-co.jpg",
+  "website": "https://www.tinybird.co/",
+  "docsUrl": "https://docs.tinybird.co"
+}

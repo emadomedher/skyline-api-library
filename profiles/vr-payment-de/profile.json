@@ -1,0 +1,13 @@
+{
+  "id": "vr-payment-de",
+  "title": "VR Payment",
+  "subtitle": "Vom Netzbetrieb über Kartenakzeptanz bis zur Kartenausgabe – bei uns erhalten Sie die gesamte Bandbreite des bargeldl...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605382120/icons/vr-payment-de.jpg",
+  "website": "https://www.vr-payment.de/"
+}

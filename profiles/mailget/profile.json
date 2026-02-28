@@ -1,0 +1,13 @@
+{
+  "id": "mailget",
+  "title": "MailGet",
+  "subtitle": "Sign Up For Free. An online form builder with email marketing software integrated, easy to build. It's now easy to cr...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720955/catalog/mailget/icon128x128.jpg",
+  "website": "https://formget.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zoho-people",
+  "title": "Zoho People",
+  "subtitle": "Zoho People is your complete online HR solution. Automate and simplify your HR operations with our easy-to-use and cu...",
+  "tags": [
+    "hr",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306617/catalog/zoho-people/icon128x128.png",
+  "website": "https://www.zoho.com/people/",
+  "docsUrl": "https://www.zoho.com/people/api/overview.html"
+}

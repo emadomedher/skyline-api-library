@@ -1,0 +1,14 @@
+{
+  "id": "replicant-ai",
+  "title": "Replicant",
+  "subtitle": "Serve your customers without limitations with the world’s first conversational AI platform that brings always-on, cap...",
+  "tags": [
+    "call-center-automation",
+    "contact-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600016307/icons/replicant-ai.png",
+  "website": "https://www.replicant.ai/"
+}

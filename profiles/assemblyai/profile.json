@@ -1,0 +1,15 @@
+{
+  "id": "assemblyai",
+  "title": "AssemblyAI",
+  "subtitle": "Top-ranked speech-to-text API in accuracy. Easy to setup and integrate. Trusted by thousands of developers using auto...",
+  "tags": [
+    "speech-to-text",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679070340/icons/assemblyai.png",
+  "website": "https://www.assemblyai.com/",
+  "docsUrl": "https://docs.assemblyai.com"
+}

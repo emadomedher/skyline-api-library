@@ -1,0 +1,13 @@
+{
+  "id": "crowdcomms",
+  "title": "CrowdComms",
+  "subtitle": "Get the best event app, meeting app, conference app from CrowdComms, we \nprovide Event Apps for major events, confere...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719661/catalog/crowdcomms/icon128x128.jpg",
+  "website": "https://crowdcomms.com"
+}

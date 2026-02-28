@@ -1,0 +1,14 @@
+{
+  "id": "blitznocode",
+  "title": "Blitz",
+  "subtitle": "Turn your business logic into an app with Blitz's no-code platform.",
+  "tags": [
+    "no-code",
+    "internal-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476533/icons/blitznocode.png",
+  "website": "https://www.blitznocode.com/"
+}

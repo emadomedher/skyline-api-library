@@ -1,0 +1,14 @@
+{
+  "id": "amplifier",
+  "title": "Amplifier",
+  "subtitle": "Amplifier is a powerful print-on-demand, screen printing &amp; logistics platform.",
+  "tags": [
+    "e-commerce",
+    "customer-appreciation"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829017/catalog/amplifier/icon128x128.png",
+  "website": "https://amplifier.com"
+}

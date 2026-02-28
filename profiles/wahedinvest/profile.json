@@ -1,0 +1,13 @@
+{
+  "id": "wahedinvest",
+  "title": "Wahed",
+  "subtitle": "Wahed API integration",
+  "tags": [
+    "investment-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608287806/icons/wahedinvest.jpg",
+  "website": "https://wahedinvest.com/"
+}

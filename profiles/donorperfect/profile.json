@@ -1,0 +1,14 @@
+{
+  "id": "donorperfect",
+  "title": "DonorPerfect",
+  "subtitle": "Nonprofits use DonorPerfect Fundraising Software for their Donor Management, Grant & Gift Tracking, Moves Management,...",
+  "tags": [
+    "donations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573842482/catalog/donorperfect/icon128x128.png",
+  "website": "https://www.donorperfect.com/",
+  "docsUrl": "https://www.softerware.com/doclib/DP/Manuals/DPO_SUP_Manual_XML_API_Documentation.pdf"
+}

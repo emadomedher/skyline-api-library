@@ -1,0 +1,13 @@
+{
+  "id": "ceska-sporitelna",
+  "title": "Česká spořitelna",
+  "subtitle": "Česká spořitelna is the biggest Czech bank measured by the number of clients with headquarters in Prague. It is a par...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629774626/icons/ceska-sporitelna.png",
+  "website": "https://www.csas.cz/en/personal-finance"
+}

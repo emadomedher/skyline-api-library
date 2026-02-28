@@ -1,0 +1,15 @@
+{
+  "id": "onerecord",
+  "title": "OneRecord",
+  "subtitle": "Your health. Your data. Your OneRecord.",
+  "tags": [
+    "health-records",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630350450/icons/onerecord.jpg",
+  "website": "https://onerecord.com/",
+  "docsUrl": "https://onerecord.com/developers"
+}

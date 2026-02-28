@@ -1,0 +1,13 @@
+{
+  "id": "fleetyr",
+  "title": "Fleetyr Pty",
+  "subtitle": "Fleetyr Pty API integration",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794356/icons/fleetyr.png",
+  "website": "https://www.fleetyr.com/"
+}

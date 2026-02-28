@@ -1,0 +1,15 @@
+{
+  "id": "thethingsnetwork-org",
+  "title": "The Things Network",
+  "subtitle": "The Things Network landing page",
+  "tags": [
+    "iot",
+    "lorawan"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593186839/icons/thethingsnetwork-org.jpg",
+  "website": "https://www.thethingsnetwork.org/",
+  "docsUrl": "https://www.thethingsnetwork.org/docs"
+}

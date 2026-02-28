@@ -1,0 +1,15 @@
+{
+  "id": "guideline",
+  "title": "Guideline",
+  "subtitle": "Guideline API integration",
+  "tags": [
+    "fintech",
+    "401-k",
+    "employee-benefits"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590547/icons/guideline.jpg",
+  "website": "https://www.guideline.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "crewdle",
+  "title": "Crewdle",
+  "subtitle": "The new way to do your video calls and your videoconferences.",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633141054/icons/crewdle.png",
+  "website": "https://crewdle.com/"
+}

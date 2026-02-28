@@ -1,0 +1,14 @@
+{
+  "id": "daylite",
+  "title": "Daylite",
+  "subtitle": "The all-in-one small business CRM. Manage clients, deals, and projects – all in one place. Daylite is available exclu...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304740/catalog/daylite/icon128x128.png",
+  "website": "https://www.marketcircle.com/",
+  "docsUrl": "https://www.marketcircle.com/api"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tide",
+  "title": "Tide",
+  "subtitle": "By using our Platform you agree to not commit any of the following actions, other than otherwise permitted by us: Upl...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579894505/catalog/tide/icon128x128.jpg",
+  "website": "https://www.tide.co/",
+  "docsUrl": "https://developers.tide.co"
+}

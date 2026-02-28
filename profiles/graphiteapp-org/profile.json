@@ -1,0 +1,14 @@
+{
+  "id": "graphiteapp-org",
+  "title": "Graphite",
+  "subtitle": "Graphite API integration",
+  "tags": [
+    "monitoring",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615931277/icons/graphiteapp-org.png",
+  "website": "https://graphiteapp.org/"
+}

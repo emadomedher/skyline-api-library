@@ -1,0 +1,14 @@
+{
+  "id": "questionbase",
+  "title": "Question Base",
+  "subtitle": "Question Base is a new kind of knowledge base. Powered by AI it answers to your team’s questions inside Slack. Automa...",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672972833/icons/questionbase.png",
+  "website": "https://www.questionbase.com/",
+  "docsUrl": "https://www.questionbase.com/#"
+}

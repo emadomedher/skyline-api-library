@@ -1,0 +1,13 @@
+{
+  "id": "aviso",
+  "title": "AVISO",
+  "subtitle": "Aviso. AI-powered forecasts, deal accelerating insights, and 360-degree visibility into forecast data.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825843/catalog/aviso/icon128x128.jpg",
+  "website": "https://aviso.com"
+}

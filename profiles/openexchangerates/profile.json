@@ -1,0 +1,15 @@
+{
+  "id": "openexchangerates",
+  "title": "Open Exchange Rates",
+  "subtitle": "The original simple, accurate and transparent exchange rates and currency conversion data API.",
+  "tags": [
+    "currency-data",
+    "data-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615757959/icons/openexchangerates.png",
+  "website": "https://openexchangerates.org/",
+  "docsUrl": "https://docs.openexchangerates.org"
+}

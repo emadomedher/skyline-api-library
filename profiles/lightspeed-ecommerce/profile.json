@@ -1,0 +1,13 @@
+{
+  "id": "lightspeed-ecommerce",
+  "title": "Lightspeed eCom",
+  "subtitle": "Lightspeed's eCommerce platform and online store software will help your business build a strong web presence. Try it...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599235554/icons/lightspeed-ecommerce.jpg",
+  "website": "https://www.lightspeedhq.com/ecommerce"
+}

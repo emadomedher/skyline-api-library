@@ -1,0 +1,14 @@
+{
+  "id": "books",
+  "title": "Deskera",
+  "subtitle": "Deskera Books is an Online Accounting Software designed to manage business finance transactions such as invoices, bil...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663543956/icons/books.jpg",
+  "website": "https://www.deskera.com/books",
+  "docsUrl": "https://deskera.github.io/developer-documentation"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "travelport",
+  "title": "Travelport",
+  "subtitle": "Travelport (NYSE: TVPT) is a Travel Commerce Platform providing distribution, technology, payment and other solutions...",
+  "tags": [
+    "travel",
+    "gds"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576754471/catalog/travelport/icon128x128.png",
+  "website": "https://www.travelport.com/",
+  "docsUrl": "https://www.travelport.com"
+}

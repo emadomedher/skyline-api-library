@@ -1,0 +1,13 @@
+{
+  "id": "mybizmailer",
+  "title": "MyBizMailer",
+  "subtitle": "MyBizMailer is an all-in-one affordable emailing solution to send marketing and transactional emails. Create a free a...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721200/catalog/mybizmailer/icon128x128.png",
+  "website": "https://mybizmailer.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aws-lambda",
+  "title": "AWS Lambda",
+  "subtitle": "AWS Lambda is a compute service that runs your code in response to events and automatically manages the compute resou...",
+  "tags": [
+    "developer-tools",
+    "amazon-web-services-(aws)"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055819/catalog/aws-lambda/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "meetglimpse",
+  "title": "Glimpse",
+  "subtitle": "Meet Glimpse - Discover exploding trends before they take off, from rapidly growing industries to viral products and ...",
+  "tags": [
+    "market-research",
+    "trends"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585406886/catalog/meetglimpse/icon128x128.jpg",
+  "website": "https://meetglimpse.com/"
+}

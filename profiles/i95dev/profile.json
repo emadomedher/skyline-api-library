@@ -1,0 +1,13 @@
+{
+  "id": "i95dev",
+  "title": "i95Dev",
+  "subtitle": "Magento Solutions Partner and world leader in Magento and Microsoft Dynamics integration. We specialize in Magento de...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598287581/icons/i95dev.jpg",
+  "website": "https://www.i95dev.com/"
+}

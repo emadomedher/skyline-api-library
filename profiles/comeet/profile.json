@@ -1,0 +1,17 @@
+{
+  "id": "comeet",
+  "title": "Comeet",
+  "subtitle": "Comeet is a better way to acquire, engage and hire talent in today's tight job market. Use collaborative recruiting s...",
+  "tags": [
+    "ats",
+    "recruiting",
+    "talent-management",
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406250/icons/comeet.jpg",
+  "website": "https://comeet.co",
+  "docsUrl": "https://developers.comeet.com"
+}

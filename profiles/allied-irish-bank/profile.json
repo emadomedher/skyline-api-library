@@ -1,0 +1,13 @@
+{
+  "id": "allied-irish-bank",
+  "title": "AIB (Allied Irish Banks)",
+  "subtitle": "AIB (Allied Irish Banks) API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617283017/icons/allied-irish-bank.jpg",
+  "website": "https://aib.ie/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "imperavi-redactor",
+  "title": "Imperavi",
+  "subtitle": "Imperavi API integration",
+  "tags": [
+    "wysiwyg-text-editors"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590544/icons/imperavi-redactor.png",
+  "website": "https://imperavi.com/redactor/",
+  "docsUrl": "https://imperavi.com/redactor/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wixanswers",
+  "title": "Wix Answers",
+  "subtitle": "Wix Answers puts all support channels on the same platform. Knowledge base, tickets, chats, and calls work together a...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597876575/icons/wixanswers.png",
+  "website": "https://www.wixanswers.com/"
+}

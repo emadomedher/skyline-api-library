@@ -1,0 +1,14 @@
+{
+  "id": "solera",
+  "title": "Solera",
+  "subtitle": "Put the power of Artificial Intelligence (AI), data, and services to work streamlining processes for your vehicle cla...",
+  "tags": [
+    "vehicle-lifecycle-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657574294/icons/solera.jpg",
+  "website": "https://www.solera.com/",
+  "docsUrl": "https://www.solera.com/#"
+}

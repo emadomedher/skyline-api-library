@@ -1,0 +1,13 @@
+{
+  "id": "goodyhq",
+  "title": "GoodyHQ",
+  "subtitle": "Goody is trusted loyalty program software, designed for POS and eCommerce systems. Earn more customer loyalty, with G...",
+  "tags": [
+    "loyalty-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634146835/icons/goodyhq.jpg",
+  "website": "https://goodyhq.com/"
+}

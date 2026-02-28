@@ -1,0 +1,14 @@
+{
+  "id": "any-run",
+  "title": "ANY.RUN",
+  "subtitle": "Cloud-based malware analysis service. Take your information security to the next level. Analyze suspicious and malici...",
+  "tags": [
+    "security",
+    "malware-hunting"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617729822/icons/any-run.png",
+  "website": "https://any.run/"
+}

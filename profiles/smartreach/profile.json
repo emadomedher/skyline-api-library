@@ -1,0 +1,12 @@
+{
+  "id": "smartreach",
+  "title": "SmartReach",
+  "subtitle": "SmartReach.io is a sales automation platform that helps you automate sending cold-emails and follow-ups from your mai...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284609/catalog/smartreach/icon128x128.png"
+}

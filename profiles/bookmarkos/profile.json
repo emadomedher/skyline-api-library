@@ -1,0 +1,13 @@
+{
+  "id": "bookmarkos",
+  "title": "Bookmark OS",
+  "subtitle": "Easily manage your bookmarks, to-dos, notes, and files, all in one elegant, customizable desktop.",
+  "tags": [
+    "bookmark-managers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598255902/icons/bookmarkos.png",
+  "website": "https://bookmarkos.com/"
+}

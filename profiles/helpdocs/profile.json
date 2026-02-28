@@ -1,0 +1,14 @@
+{
+  "id": "helpdocs",
+  "title": "HelpDocs",
+  "subtitle": "Create an authoritative knowledge base to guide your users when they're stuck, reduce support load for your team, and...",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559143120/catalog/helpdocs/icon128x128.png",
+  "website": "https://helpdocs.io",
+  "docsUrl": "http://blog.helpdocs.io/tag/customer-stories/"
+}

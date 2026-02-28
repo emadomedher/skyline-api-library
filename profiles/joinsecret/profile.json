@@ -1,0 +1,13 @@
+{
+  "id": "joinsecret",
+  "title": "secret",
+  "subtitle": "Sign up for free on Secret to get access to $2000 of Freshworks credits as well as hundreds of exclusive discounts on...",
+  "tags": [
+    "startup-deals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582078774/catalog/joinsecret/icon128x128.png",
+  "website": "https://www.joinsecret.com/"
+}

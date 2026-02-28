@@ -1,0 +1,14 @@
+{
+  "id": "sastrify",
+  "title": "Sastrify",
+  "subtitle": "Purchase business SaaS licenses without efforts. Manage contract renewals, get software price benchmarks and support ...",
+  "tags": [
+    "saas-management-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630868998/icons/sastrify.jpg",
+  "website": "https://www.sastrify.com/",
+  "docsUrl": "https://www.sastrify.com/#"
+}

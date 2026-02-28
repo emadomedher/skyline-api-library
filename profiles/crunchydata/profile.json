@@ -1,0 +1,14 @@
+{
+  "id": "crunchydata",
+  "title": "Crunchy Data",
+  "subtitle": "Deploy enterprise-ready PostgreSQL on your choice of platform and infrastructure with commercial support from Crunchy...",
+  "tags": [
+    "managed-postgres"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222465/icons/crunchydata.jpg",
+  "website": "https://www.crunchydata.com/",
+  "docsUrl": "https://docs.crunchybridge.com"
+}

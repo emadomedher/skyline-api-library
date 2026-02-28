@@ -1,0 +1,15 @@
+{
+  "id": "intaker-co",
+  "title": "Intaker",
+  "subtitle": "Intaker is the next generation live chat for law firms of all sizes that maximizes capturing contact information as w...",
+  "tags": [
+    "lead-generation",
+    "live-chat",
+    "legal"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573233189/catalog/intaker-co/icon128x128.png",
+  "website": "https://intaker.co/"
+}

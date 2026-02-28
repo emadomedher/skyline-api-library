@@ -1,0 +1,16 @@
+{
+  "id": "lucidworks",
+  "title": "Lucidworks",
+  "subtitle": "Using AI-powered search to transform digital experiences. Enterprise search solutions for global digital workplace an...",
+  "tags": [
+    "search",
+    "infrastructure",
+    "api"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565624060/catalog/lucidworks/icon128x128.png",
+  "website": "https://lucidworks.com/",
+  "docsUrl": "https://doc.lucidworks.com/index.html"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "calendso",
+  "title": "Calendso",
+  "subtitle": "Self-hosted or hosted by us. White-label by design. API-driven and ready to be deployed on your own domain. You are i...",
+  "tags": [
+    "scheduling",
+    "open-source"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618544036/icons/calendso.jpg",
+  "website": "https://calendso.com/",
+  "docsUrl": "https://docs.calendso.com"
+}

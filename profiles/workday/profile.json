@@ -1,0 +1,17 @@
+{
+  "id": "workday",
+  "title": "Workday",
+  "subtitle": "Workday is a leading provider of enterprise cloud applications for finance, HR, and planning. Founded in 2005, Workda...",
+  "tags": [
+    "hris",
+    "talent-management",
+    "payroll",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610647137/icons/workday.jpg",
+  "website": "https://workday.com",
+  "docsUrl": "https://developer.workday.com/"
+}

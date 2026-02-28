@@ -1,0 +1,13 @@
+{
+  "id": "lindy-ai",
+  "title": "Lindy AI",
+  "subtitle": "Lindy is an AI assistant that puts your life on autopilot.",
+  "tags": [
+    "personal-assistant"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679700971/icons/lindy-ai.png",
+  "website": "https://www.lindy.ai/"
+}

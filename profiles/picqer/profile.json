@@ -1,0 +1,15 @@
+{
+  "id": "picqer",
+  "title": "Picqer",
+  "subtitle": "Picqer is een super eenvoudig te gebruiken online tool voor het beheren van je magazijn. Speciaal gericht op webwinkels.",
+  "tags": [
+    "warehouse-software",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/icons/picqer",
+  "website": "https://picqer.com",
+  "docsUrl": "https://picqer.com/en/api"
+}

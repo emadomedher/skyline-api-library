@@ -1,0 +1,14 @@
+{
+  "id": "jobylon",
+  "title": "Jobylon",
+  "subtitle": "Jobylon API integration",
+  "tags": [
+    "hiring",
+    "recruiting-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638213324/icons/jobylon.png",
+  "website": "http://www.jobylon.com/"
+}

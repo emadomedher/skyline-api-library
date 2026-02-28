@@ -1,0 +1,14 @@
+{
+  "id": "bump-sh",
+  "title": "Bump",
+  "subtitle": "Bump is the first API contract management platform that helps documenting and tracking APIs: we smartly identify what...",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612980297/icons/bump-sh.png",
+  "website": "https://bump.sh/",
+  "docsUrl": "https://bump.sh/#documentations"
+}

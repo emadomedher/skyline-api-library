@@ -1,0 +1,13 @@
+{
+  "id": "webinarjam",
+  "title": "WebinarJam",
+  "subtitle": "World's most powerful webinar hosting platform. Universal Compatibility . Lowest Industry Pricing. Broadcasting Flexi...",
+  "tags": [
+    "webinars"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284653/catalog/webinarjam/icon128x128.png",
+  "website": "https://webinarjam.com"
+}

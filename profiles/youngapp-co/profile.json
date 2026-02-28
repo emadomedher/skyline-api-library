@@ -1,0 +1,15 @@
+{
+  "id": "youngapp-co",
+  "title": "Young App",
+  "subtitle": "Accelerate your digital transformation using low-code API Integration platform on GraphQL and Serverless",
+  "tags": [
+    "api-integration",
+    "low-code",
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522264/icons/youngapp-co.jpg",
+  "website": "https://youngapp.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "airim",
+  "title": "Airim",
+  "subtitle": "Effortless and Personalized. Make self-help easy for users on your website or web app",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825763/catalog/airim/icon128x128.jpg",
+  "website": "https://airim.co"
+}

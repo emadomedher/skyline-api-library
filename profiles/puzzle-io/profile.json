@@ -1,0 +1,14 @@
+{
+  "id": "puzzle-io",
+  "title": "Puzzle Financial",
+  "subtitle": "Integrated financial software designed for founders and finance teams.",
+  "tags": [
+    "finance-management",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634756605/icons/puzzle-io.png",
+  "website": "https://puzzle.io/"
+}

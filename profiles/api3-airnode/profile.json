@@ -1,0 +1,15 @@
+{
+  "id": "api3-airnode",
+  "title": "API3",
+  "subtitle": "Web3 is the decentralized web, the next generation of the internet. Built on the blockchain, it revolutionizes how th...",
+  "tags": [
+    "api-gateways",
+    "web3"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642055436/icons/api3-airnode.jpg",
+  "website": "https://www.api3.org/airnode",
+  "docsUrl": "https://docs.api3.org"
+}

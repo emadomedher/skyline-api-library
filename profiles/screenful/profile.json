@@ -1,0 +1,13 @@
+{
+  "id": "screenful",
+  "title": "Screenful",
+  "subtitle": "Screenful develops business performance dashboards that help companies to \ntrack and optimise their operations",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721949/catalog/screenful/icon128x128.jpg",
+  "website": "https://screenful.com"
+}

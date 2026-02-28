@@ -1,0 +1,13 @@
+{
+  "id": "1world-online",
+  "title": "1World Online",
+  "subtitle": "1World Online API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432655/catalog/1world-online/icon128x128.png",
+  "website": "https://1worldonline.com"
+}

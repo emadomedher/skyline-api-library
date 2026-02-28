@@ -1,0 +1,13 @@
+{
+  "id": "book-like-a-boss",
+  "title": "Book Like A Boss",
+  "subtitle": "Book Like A Boss - A free appointment scheduling software with Payment & Calendar scheduling app Integrations. Try Ou...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284458/catalog/book-like-a-boss/icon128x128.png",
+  "website": "https://booklikeaboss.com/"
+}

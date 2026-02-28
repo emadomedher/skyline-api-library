@@ -1,0 +1,14 @@
+{
+  "id": "rely-sg",
+  "title": "Rely",
+  "subtitle": "Rely lets you buy what you love today and pay later. Split your purchase amount into interest-free payments, due ever...",
+  "tags": [
+    "buy-now-pay-later",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608294851/icons/rely-sg.png",
+  "website": "https://www.rely.sg/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "leadoutcome",
+  "title": "LeadOutcome",
+  "subtitle": "LeadOutcome is a marketing automation platform that everyone can afford. It includes a Email Marketing System, CRM Sy...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305285/catalog/leadoutcome/icon128x128.png"
+}

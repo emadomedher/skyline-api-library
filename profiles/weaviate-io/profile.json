@@ -1,0 +1,14 @@
+{
+  "id": "weaviate-io",
+  "title": "Weaviate • vector database",
+  "subtitle": "Welcome to Weaviate",
+  "tags": [
+    "vector-databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679688011/icons/weaviate-io.jpg",
+  "website": "https://weaviate.io/",
+  "docsUrl": "https://weaviate.io/developers/weaviate/modules/reader-generator-modules/generative-openai"
+}

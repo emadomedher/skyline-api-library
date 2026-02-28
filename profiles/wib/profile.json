@@ -1,0 +1,14 @@
+{
+  "id": "wib",
+  "title": "Wib",
+  "subtitle": "Wib is the only way to secure your APIs from development to production, with the most comprehensive full-lifecycle AP...",
+  "tags": [
+    "api-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660819543/icons/wib.jpg",
+  "website": "https://wib.com/",
+  "docsUrl": "https://wib.com/resources/documentation"
+}

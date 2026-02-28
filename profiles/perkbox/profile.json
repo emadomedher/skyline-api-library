@@ -1,0 +1,13 @@
+{
+  "id": "perkbox",
+  "title": "Perkbox",
+  "subtitle": "Perkbox is an all-in-one platform which helps create a great employee experience, both in work and life - helping to ...",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588457595/catalog/perkbox/icon128x128.png",
+  "website": "https://www.perkbox.com/"
+}

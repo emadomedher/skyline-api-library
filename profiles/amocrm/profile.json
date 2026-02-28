@@ -1,0 +1,14 @@
+{
+  "id": "amocrm",
+  "title": "amoCRM",
+  "subtitle": "Boost sales with messaging apps in amoCRM. Try the world’s first messenger-based sales CRM for free for 14 days",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304403/catalog/amocrm/icon128x128.png",
+  "website": "https://www.amocrm.com/",
+  "docsUrl": "https://www.amocrm.com/developers"
+}

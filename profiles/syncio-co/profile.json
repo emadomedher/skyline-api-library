@@ -1,0 +1,15 @@
+{
+  "id": "syncio-co",
+  "title": "Syncio",
+  "subtitle": "Syncio real-time syncs inventory, product updates, and orders across multiple Shopify stores, resulting in increased ...",
+  "tags": [
+    "ecommerce",
+    "inventory-sync"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607659992/icons/syncio-co.png",
+  "website": "https://www.syncio.co/",
+  "docsUrl": "https://intercom.help/syncio/en"
+}

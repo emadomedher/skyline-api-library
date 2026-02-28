@@ -1,0 +1,14 @@
+{
+  "id": "6storage",
+  "title": "6Storage",
+  "subtitle": "6Storage- #1 Self Storage Software used to manage Mini and Medium self-storage units across the Globe.",
+  "tags": [
+    "storage-unit"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629487068/icons/6storage.jpg",
+  "website": "https://www.6storage.com/",
+  "docsUrl": "https://developer.6storage.com"
+}

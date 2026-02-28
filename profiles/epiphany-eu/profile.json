@@ -1,0 +1,13 @@
+{
+  "id": "epiphany-eu",
+  "title": "Epiphany",
+  "subtitle": "Epiphany API integration",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606682563/icons/epiphany-eu.png",
+  "website": "https://www.epiphany.eu/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "revenue-io",
+  "title": "Revenue.io",
+  "subtitle": "Revenue.io (formerly ringDNA) is the complete RevOps, Sales Engagement and Conversation Intelligence platform that po...",
+  "tags": [
+    "sales-engagement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669850056/icons/revenue-io.jpg",
+  "website": "https://www.revenue.io/"
+}

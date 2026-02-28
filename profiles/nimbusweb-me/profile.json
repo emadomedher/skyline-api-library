@@ -1,0 +1,13 @@
+{
+  "id": "nimbusweb-me",
+  "title": "Nimbus Note",
+  "subtitle": "Transform information chaos from multiple sources into an organized workplace. Empower yourself or your team to get t...",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584346806/catalog/nimbusweb-me/icon128x128.jpg",
+  "website": "https://nimbusweb.me/"
+}

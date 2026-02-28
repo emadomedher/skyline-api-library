@@ -1,0 +1,14 @@
+{
+  "id": "altitudenetworks",
+  "title": "Altitude Networks",
+  "subtitle": "Altitude Networks API integration",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193084/catalog/altitudenetworks/icon128x128.jpg",
+  "website": "https://www.altitudenetworks.com"
+}

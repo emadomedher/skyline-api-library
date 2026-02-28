@@ -1,0 +1,14 @@
+{
+  "id": "ada-fr",
+  "title": "ADA Location Nantes",
+  "subtitle": "Location de voiture et utilitaire en ligne au meilleur prix. Avec ADA, réservez votre véhicule partout en France et d...",
+  "tags": [
+    "car-rental",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604043129/icons/ada-fr.jpg",
+  "website": "https://www.ada.fr/"
+}

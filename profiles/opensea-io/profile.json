@@ -1,0 +1,14 @@
+{
+  "id": "opensea-io",
+  "title": "OpenSea",
+  "subtitle": "A peer-to-peer marketplace for rare digital items and crypto collectibles. Buy, sell, auction, and discover CryptoKit...",
+  "tags": [
+    "nft-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192462/icons/opensea-io.jpg",
+  "website": "https://opensea.io/",
+  "docsUrl": "https://docs.opensea.io/docs"
+}

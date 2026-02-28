@@ -1,0 +1,13 @@
+{
+  "id": "markodojo",
+  "title": "Markodojo",
+  "subtitle": "Markodojo API integration",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435773/catalog/markodojo/icon128x128.png",
+  "website": "https://markodojo.com"
+}

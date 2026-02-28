@@ -1,0 +1,15 @@
+{
+  "id": "jamroom-net",
+  "title": "Jamroom",
+  "subtitle": "Jamroom API integration",
+  "tags": [
+    "social-network",
+    "open-source"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509866/catalog/jamroom-net/icon128x128.jpg",
+  "website": "https://www.jamroom.net/",
+  "docsUrl": "https://www.jamroom.net/the-jamroom-network/documentation/contents"
+}

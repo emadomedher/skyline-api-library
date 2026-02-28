@@ -1,0 +1,14 @@
+{
+  "id": "xkit-co",
+  "title": "Xkit",
+  "subtitle": "One API to let your customers connect Slack, GitHub, Salesforce and 35+ other services to your app.",
+  "tags": [
+    "managed-oauth"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660370/icons/xkit-co.jpg",
+  "website": "https://xkit.co/",
+  "docsUrl": "https://docs.xkit.co/docs"
+}

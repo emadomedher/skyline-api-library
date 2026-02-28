@@ -1,0 +1,14 @@
+{
+  "id": "forkspot-io",
+  "title": "Forkspot.io",
+  "subtitle": "Forkspot.io API integration",
+  "tags": [
+    "foodtech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584144657/catalog/forkspot-io/icon128x128.png",
+  "website": "http://forkspot.io/",
+  "docsUrl": "https://forkspot.io/docs/FSIO%20Whitepaper%20July%202019%20FNLv1.6DT.pdf"
+}

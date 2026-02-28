@@ -1,0 +1,14 @@
+{
+  "id": "lightning-ai",
+  "title": "Lightning AI",
+  "subtitle": "Discover, clone, and publish ML workflow templates as Lightning Apps. Use Lightning's open-source framework, platform...",
+  "tags": [
+    "machine-learning-model-deployment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674167237/icons/lightning-ai.png",
+  "website": "https://lightning.ai/",
+  "docsUrl": "https://lightning.ai/docs/stable"
+}

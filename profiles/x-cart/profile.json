@@ -1,0 +1,14 @@
+{
+  "id": "x-cart",
+  "title": "X-cart",
+  "subtitle": "X-cart API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717051/catalog/x-cart/icon128x128.png",
+  "website": "https://www.x-cart.com/",
+  "docsUrl": "https://devs.x-cart.com/"
+}

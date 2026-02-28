@@ -1,0 +1,13 @@
+{
+  "id": "ikentoo",
+  "title": "iKentoo by Lightspeed",
+  "subtitle": "iKentoo by Lightspeed est le système caisse enregistreuse et gestion \nd'entreprise iPad® le plus avancé sur le marché...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589827517/catalog/ikentoo/icon128x128.jpg",
+  "website": "https://www.ikentoo.com/"
+}

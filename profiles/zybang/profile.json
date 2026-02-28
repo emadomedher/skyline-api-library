@@ -1,0 +1,15 @@
+{
+  "id": "zybang",
+  "title": "Zuoyebang",
+  "subtitle": "Zuoyebang is an online education platform that provides quality educational products and services to k12 students.",
+  "tags": [
+    "mobile-study-platforms",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610315739/icons/zybang.png",
+  "website": "https://www.zybang.com/",
+  "docsUrl": "https://app.baidu.com/docs?id=31&frompos=401002"
+}

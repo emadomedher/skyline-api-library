@@ -1,0 +1,13 @@
+{
+  "id": "webcrm",
+  "title": "webCRM",
+  "subtitle": "webCRM helps your sales team with the daily workflow and overview.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722847/catalog/webcrm/icon128x128.jpg",
+  "website": "https://webcrm.com"
+}

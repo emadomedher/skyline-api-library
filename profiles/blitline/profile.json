@@ -1,0 +1,14 @@
+{
+  "id": "blitline",
+  "title": "Blitline",
+  "subtitle": "Blitline API offers the premium image processing services platform. Providing enterprise level image processing and r...",
+  "tags": [
+    "image-processing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599928335/icons/blitline.jpg",
+  "website": "https://www.blitline.com/",
+  "docsUrl": "https://www.blitline.com/v3/home#"
+}

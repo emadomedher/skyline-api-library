@@ -1,0 +1,14 @@
+{
+  "id": "localist",
+  "title": "Localist",
+  "subtitle": "Localist centralizes your organization's events into one fully-branded calendar for your website, making it easier fo...",
+  "tags": [
+    "event-ticketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657718741/icons/localist.jpg",
+  "website": "https://www.localist.com/",
+  "docsUrl": "https://www.localist.com/training#support-documentation"
+}

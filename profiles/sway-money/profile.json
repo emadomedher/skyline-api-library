@@ -1,0 +1,14 @@
+{
+  "id": "sway-money",
+  "title": "Sway",
+  "subtitle": "Sway API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679688017/icons/sway-money.png",
+  "website": "https://sway.money/",
+  "docsUrl": "https://sway-help.helpscoutdocs.com/article/27-how-do-i-contact-sway"
+}

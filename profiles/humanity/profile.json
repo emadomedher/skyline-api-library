@@ -1,0 +1,14 @@
+{
+  "id": "humanity",
+  "title": "Humanity",
+  "subtitle": "Humanity is easy to use employee scheduling software that helps your business manage shifts, schedules, payroll, time...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613717176/icons/humanity.png",
+  "website": "https://www.humanity.com/",
+  "docsUrl": "https://platform.humanity.com/v2.0/reference"
+}

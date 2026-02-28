@@ -1,0 +1,13 @@
+{
+  "id": "seen",
+  "title": "Seen",
+  "subtitle": "Data-Inspired Storytelling. Intelligent tools to make you a more engaging marketer. We're AI at the core. Our machine...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946634/catalog/seen/icon128x128.jpg",
+  "website": "https://seenmoment.com"
+}

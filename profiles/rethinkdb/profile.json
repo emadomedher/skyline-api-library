@@ -1,0 +1,12 @@
+{
+  "id": "rethinkdb",
+  "title": "RethinkDB",
+  "subtitle": "RethinkDB is an open-source distributed database built with love. It has a intuitive and expressive query language th...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305876/catalog/rethinkdb/icon128x128.png"
+}

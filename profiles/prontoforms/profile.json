@@ -1,0 +1,13 @@
+{
+  "id": "prontoforms",
+  "title": "ProntoForms",
+  "subtitle": "ProntoForms makes it easy to deliver and manage forms to any mobile or tablet device. Move paper form workflows into ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056120/catalog/prontoforms/icon128x128.png",
+  "website": "https://prontoforms.com"
+}

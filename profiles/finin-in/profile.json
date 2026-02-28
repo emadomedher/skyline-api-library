@@ -1,0 +1,13 @@
+{
+  "id": "finin-in",
+  "title": "Finin",
+  "subtitle": "A modern neobanking platform that helps you manage, save and invest your money simpler, smarter and faster. Join the ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437755/icons/finin-in.jpg",
+  "website": "https://www.finin.in/"
+}

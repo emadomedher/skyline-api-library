@@ -1,0 +1,13 @@
+{
+  "id": "emercury",
+  "title": "eMercury",
+  "subtitle": "Delivering your marketing and automation emails with a support team that cares about your business. Building an email...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719908/catalog/emercury/icon128x128.png",
+  "website": "https://emercury.co"
+}

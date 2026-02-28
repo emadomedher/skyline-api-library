@@ -1,0 +1,13 @@
+{
+  "id": "partnerhub-app",
+  "title": "Partnerhub",
+  "subtitle": "Meet Partnerhub - your solution to find, vet, deploy, manage, and ensure ROI from partnerships. Sign up today and sta...",
+  "tags": [
+    "channel-ecosystem-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628002265/icons/partnerhub-app.png",
+  "website": "https://www.partnerhub.app/"
+}

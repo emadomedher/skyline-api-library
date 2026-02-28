@@ -1,0 +1,13 @@
+{
+  "id": "yappay-in",
+  "title": "YAP",
+  "subtitle": "API Platform for Banking and Payments",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591169578/icons/yappay-in.png",
+  "website": "https://yappay.in/"
+}

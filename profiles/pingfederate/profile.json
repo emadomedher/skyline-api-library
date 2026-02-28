@@ -1,0 +1,16 @@
+{
+  "id": "pingfederate",
+  "title": "PingFederate",
+  "subtitle": "Click here to access PingFederate software downloads. Here you can find software for an initial installation or an up...",
+  "tags": [
+    "federated-identity-management",
+    "sso",
+    "servers"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567123369/catalog/pingfederate/icon128x128.jpg",
+  "website": "https://www.pingidentity.com/en/resources/downloads/pingfederate.html",
+  "docsUrl": "https://apidocs.pingidentity.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ibm-qradar",
+  "title": "IBM QRadar",
+  "subtitle": "IBM QRadar SIEM consolidates log events and network flow data from thousands of devices, endpoints and applications d...",
+  "tags": [
+    "security-information-and-event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565204816/catalog/ibm-qradar/icon128x128.png",
+  "website": "https://ibm.com",
+  "docsUrl": "https://www.ibm.com/developerworks/"
+}

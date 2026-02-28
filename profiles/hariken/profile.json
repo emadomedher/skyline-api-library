@@ -1,0 +1,13 @@
+{
+  "id": "hariken",
+  "title": "Hariken",
+  "subtitle": "Com a Universal Data Manger (UDM) da Hariken, entenda o comportamento de cada  visitante. Converse de maneira intelig...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963824/catalog/hariken/icon128x128.png",
+  "website": "https://hariken.co"
+}

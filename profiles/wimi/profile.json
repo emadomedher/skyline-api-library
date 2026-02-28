@@ -1,0 +1,14 @@
+{
+  "id": "wimi",
+  "title": "Wimi",
+  "subtitle": "Wimi is a team collaboration platform for businesses who want to boost teamwork and manage projects efficiently.",
+  "tags": [
+    "team-collaboration",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306502/catalog/wimi/icon128x128.png",
+  "website": "https://wimi-teamwork.com"
+}

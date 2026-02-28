@@ -1,0 +1,13 @@
+{
+  "id": "getsquire",
+  "title": "Squire",
+  "subtitle": "Squire Technologies is the leading operating system for barbershops that allows barbers to manage bookings, schedulin...",
+  "tags": [
+    "barbershop"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606090620/icons/getsquire.jpg",
+  "website": "https://getsquire.com/"
+}

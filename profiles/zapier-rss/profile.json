@@ -1,0 +1,14 @@
+{
+  "id": "zapier-rss",
+  "title": "RSS by Zapier",
+  "subtitle": "RSS (really simple syndication) is pretty much the industry standard for feed readers. You'll find RSS feeds in almos...",
+  "tags": [
+    "zapier-tools",
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809846/catalog/zapier-rss/icon128x128.png",
+  "website": "https://zapier.com/"
+}

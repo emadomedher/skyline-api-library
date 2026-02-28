@@ -1,0 +1,13 @@
+{
+  "id": "synthio",
+  "title": "Synthio",
+  "subtitle": "B2B contact data for you to improve the health and quality of your database and increase your ROI: data health analys...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437820/catalog/synthio/icon128x128.png",
+  "website": "https://synthio.com"
+}

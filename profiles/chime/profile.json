@@ -1,0 +1,13 @@
+{
+  "id": "chime",
+  "title": "chime",
+  "subtitle": "Chime is an all-in-one real estate solution that offers CRM, IDX, team management, lead generation and more bundled i...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719419/catalog/chime/icon128x128.jpg",
+  "website": "https://chime.me"
+}

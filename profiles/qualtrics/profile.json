@@ -1,0 +1,14 @@
+{
+  "id": "qualtrics",
+  "title": "Qualtrics",
+  "subtitle": "Optimise the 4 core experience of your business with Qualtrics XM - a single platform for your brand, product, employ...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600759691/icons/qualtrics.jpg",
+  "website": "https://qualtrics.com",
+  "docsUrl": "https://api.qualtrics.com/"
+}

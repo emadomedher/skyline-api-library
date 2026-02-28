@@ -1,0 +1,14 @@
+{
+  "id": "dataiku",
+  "title": "Dataiku",
+  "subtitle": "Dataiku's single, collaborative platform powers both self-service analytics and the operationalization of machine lea...",
+  "tags": [
+    "data-science",
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581969863/catalog/dataiku/icon128x128.jpg",
+  "website": "https://www.dataiku.com/"
+}

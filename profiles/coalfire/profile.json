@@ -1,0 +1,15 @@
+{
+  "id": "coalfire",
+  "title": "Coalfire",
+  "subtitle": "Coalfire API integration",
+  "tags": [
+    "soc-2-auditors",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666399/icons/coalfire.jpg",
+  "website": "https://www.coalfire.com/",
+  "docsUrl": "https://www.coalfire.com/documents/datasheets/verified-reference-architecture-datasheet"
+}

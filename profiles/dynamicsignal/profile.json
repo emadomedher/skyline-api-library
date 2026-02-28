@@ -1,0 +1,14 @@
+{
+  "id": "dynamicsignal",
+  "title": "Dynamic Signal",
+  "subtitle": "Reach every employee. Cut through the noise. Manage your enterprise communications with our platform and award-winnin...",
+  "tags": [
+    "employee-communication",
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311404/catalog/dynamicsignal/icon128x128.jpg",
+  "website": "https://dynamicsignal.com/"
+}

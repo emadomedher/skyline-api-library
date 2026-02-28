@@ -1,0 +1,14 @@
+{
+  "id": "follow-up-boss",
+  "title": "Follow Up Boss",
+  "subtitle": "Stop sending your marketing dollars into a black hole. Follow Up Boss helps real estate teams double their deals with...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304945/catalog/follow-up-boss/icon128x128.png",
+  "website": "https://www.followupboss.com/",
+  "docsUrl": "https://docs.followupboss.com/v1.0/reference"
+}

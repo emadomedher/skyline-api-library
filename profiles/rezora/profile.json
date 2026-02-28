@@ -1,0 +1,13 @@
+{
+  "id": "rezora",
+  "title": "rezora",
+  "subtitle": "Rezora is a digital marketing platform for real estate marketing managers and agents to market their companies, thems...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305892/catalog/rezora/icon128x128.png",
+  "website": "https://rezora.com"
+}

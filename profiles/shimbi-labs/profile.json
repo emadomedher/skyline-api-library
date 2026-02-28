@@ -1,0 +1,13 @@
+{
+  "id": "shimbi-labs",
+  "title": "Shimbi Labs",
+  "subtitle": "Use Shimbi Labs to create your free website, manage online invoicing for your small business in one place ",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437286/catalog/shimbi-labs/icon128x128.png",
+  "website": "https://shimbilabs.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "innetwork",
+  "title": "InNetwork",
+  "subtitle": "InNetwork API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435147/catalog/innetwork/icon128x128.png",
+  "website": "https://innetwork.net"
+}

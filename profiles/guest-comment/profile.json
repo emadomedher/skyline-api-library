@@ -1,0 +1,13 @@
+{
+  "id": "guest-comment",
+  "title": "Guest Comment",
+  "subtitle": "Improve the customer experience at your business with better data. Digital comment cards collected through our custom...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720365/catalog/guest-comment/icon128x128.jpg",
+  "website": "https://guestcomment.com"
+}

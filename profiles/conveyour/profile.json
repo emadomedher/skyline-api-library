@@ -1,0 +1,13 @@
+{
+  "id": "conveyour",
+  "title": "Conveyour",
+  "subtitle": "Microlearning that let's you simplify production, lower costs, & create breakthrough engagement.",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719597/catalog/conveyour/icon128x128.jpg",
+  "website": "https://conveyour.com"
+}

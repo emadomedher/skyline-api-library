@@ -1,0 +1,13 @@
+{
+  "id": "continu-co",
+  "title": "Continu",
+  "subtitle": "Continu is Learning Software for modern teams. With Continu, you can train, develop and engage your team with softwar...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441107/catalog/continu-co/icon128x128.png",
+  "website": "https://continu.co/"
+}

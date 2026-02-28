@@ -1,0 +1,13 @@
+{
+  "id": "treble-ai",
+  "title": "treble.ai",
+  "subtitle": "Here in Treble.ai we can help you link your business with WhatsApp. Increase your sales, nurture your leads, and impr...",
+  "tags": [
+    "conversational-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904752/icons/treble-ai.jpg",
+  "website": "https://www.treble.ai/en/"
+}

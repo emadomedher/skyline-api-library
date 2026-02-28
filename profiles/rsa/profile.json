@@ -1,0 +1,14 @@
+{
+  "id": "rsa",
+  "title": "RSA Security",
+  "subtitle": "See why RSA is the cyber security market leader and how digital risk management is the next cyber security frontier. ...",
+  "tags": [
+    "security",
+    "risk-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575470181/catalog/rsa/icon128x128.jpg",
+  "website": "https://www.rsa.com/"
+}

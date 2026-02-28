@@ -1,0 +1,13 @@
+{
+  "id": "cincom-systems",
+  "title": "Cincom Systems",
+  "subtitle": "Cincom Systems is a global leader in CPQ (configure price quote) and customer communications management (CCM) software.\n",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826060/catalog/cincom-systems/icon128x128.png",
+  "website": "https://cincom.com"
+}

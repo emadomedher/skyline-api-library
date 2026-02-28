@@ -1,0 +1,14 @@
+{
+  "id": "meetquo",
+  "title": "Meetquo",
+  "subtitle": "Meetquo - Asynchronous meetings platform for remote teams",
+  "tags": [
+    "asynchronous-meeting",
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588261380/catalog/meetquo/icon128x128.jpg",
+  "website": "https://meetquo.com/"
+}

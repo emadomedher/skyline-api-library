@@ -1,0 +1,13 @@
+{
+  "id": "dripfish",
+  "title": "Dripfish",
+  "subtitle": "Use Drip.Fish and instantly create your own content hubs. A content hub allows you to uniquely pool your branded and ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947120/catalog/dripfish/icon128x128.png",
+  "website": "https://drip.fish"
+}

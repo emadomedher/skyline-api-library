@@ -1,0 +1,13 @@
+{
+  "id": "cortex",
+  "title": "Cortex",
+  "subtitle": "Discover, inform, create, and distribute the best content at scale with Cortex. Take your creative strategy to the ne...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826185/catalog/cortex/icon128x128.jpg",
+  "website": "https://meetcortex.com"
+}

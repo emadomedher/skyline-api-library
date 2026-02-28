@@ -1,0 +1,13 @@
+{
+  "id": "koyoloans",
+  "title": "Koyo Loans",
+  "subtitle": "Personal Loans for people new to credit, or the UK. Free quote. 3 minute application. Money in your account within on...",
+  "tags": [
+    "lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572302843/catalog/koyoloans/icon128x128.png",
+  "website": "https://www.koyoloans.com/"
+}

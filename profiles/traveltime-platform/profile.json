@@ -1,0 +1,13 @@
+{
+  "id": "traveltime-platform",
+  "title": "TravelTime Platform",
+  "subtitle": "TravelTime Platform API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438037/catalog/traveltime-platform/icon128x128.png",
+  "website": "https://traveltimeplatform.com"
+}

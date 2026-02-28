@@ -1,0 +1,14 @@
+{
+  "id": "bandsintown",
+  "title": "Bandsintown",
+  "subtitle": "Find tour dates, live music events and watch live streams for all your favorite bands and artists in your city. Get c...",
+  "tags": [
+    "event-discovery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615053322/icons/bandsintown.jpg",
+  "website": "https://www.bandsintown.com/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlsdmfdyr6f4lgcoogsri_ogujjxq5pvytcx5tirvp3qnorciia/viewform?usp=sf_link"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "finqware",
+  "title": "Finqware",
+  "subtitle": "A single API for Open Banking",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602837384/icons/finqware.png",
+  "website": "https://www.finqware.com/"
+}

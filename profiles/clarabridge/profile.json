@@ -1,0 +1,13 @@
+{
+  "id": "clarabridge",
+  "title": "Clarabridge",
+  "subtitle": "Customer experience management has never been easier than with Clarabridge's industry-leading text analytics & CEM so...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719440/catalog/clarabridge/icon128x128.jpg",
+  "website": "https://clarabridge.com "
+}

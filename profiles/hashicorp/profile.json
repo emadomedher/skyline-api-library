@@ -1,0 +1,15 @@
+{
+  "id": "hashicorp",
+  "title": "HashiCorp",
+  "subtitle": "HashiCorp delivers consistent workflows to provision, secure, connect, and run any infrastructure for any application.",
+  "tags": [
+    "cloud-infrastructure",
+    "open-source"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574007372/catalog/hashicorp/icon128x128.jpg",
+  "website": "https://www.hashicorp.com/",
+  "docsUrl": "https://www.terraform.io/docs/index.html"
+}

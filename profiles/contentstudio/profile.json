@@ -1,0 +1,13 @@
+{
+  "id": "contentstudio",
+  "title": "ContentStudio",
+  "subtitle": "ContentStudio is a social media management platform to discover engaging content, share on multiple networks and ampl...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826165/catalog/contentstudio/icon128x128.jpg",
+  "website": "https://contentstudio.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "neoncrm",
+  "title": "Neon One",
+  "subtitle": "Scale your impact and achieve maximum sustainability with Neon One, the leading providers of nonprofit software and s...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305497/catalog/neoncrm/icon128x128.png",
+  "website": "https://neonone.com/",
+  "docsUrl": "https://developer.neoncrm.com/"
+}

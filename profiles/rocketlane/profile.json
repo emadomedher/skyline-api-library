@@ -1,0 +1,14 @@
+{
+  "id": "rocketlane",
+  "title": "Rocketlane",
+  "subtitle": "Rocketlane is a customer onboarding software that lets you collaborate with customers, consistently hit your onboardi...",
+  "tags": [
+    "customer-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017760/icons/rocketlane.jpg",
+  "website": "https://www.rocketlane.com/",
+  "docsUrl": "https://www.rocketlane.com/blogs/developers-moving-slowly-heres-why"
+}

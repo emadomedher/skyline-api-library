@@ -1,0 +1,14 @@
+{
+  "id": "yotpo",
+  "title": "Yotpo",
+  "subtitle": "Yotpo is a eCommerce marketing platform with the most advanced solutions for customer reviews, visual marketing, loya...",
+  "tags": [
+    "community-and-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946322/catalog/yotpo/icon128x128.png",
+  "website": "https://yotpo.com",
+  "docsUrl": "https://apidocs.yotpo.com/reference"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fantom",
+  "title": "Fantom",
+  "subtitle": "Fantom is a next-gen Layer-1 platform for DeFi, dApps and businesses.",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638775801/icons/fantom.png",
+  "website": "https://fantom.foundation/"
+}

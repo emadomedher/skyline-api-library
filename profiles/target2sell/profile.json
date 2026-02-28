@@ -1,0 +1,13 @@
+{
+  "id": "target2sell",
+  "title": "Target2Sell",
+  "subtitle": "Target2Sell API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437869/catalog/target2sell/icon128x128.png",
+  "website": "https://target2sell.com"
+}

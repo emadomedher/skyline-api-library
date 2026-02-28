@@ -1,0 +1,13 @@
+{
+  "id": "ennect",
+  "title": "Ennect",
+  "subtitle": "Award-winning Marketing Software empowers you to rapidly deploy email, survey, sweepstakes, and event management camp...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719937/catalog/ennect/icon128x128.jpg",
+  "website": "https://ennect.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sweet-show",
+  "title": "Sweet Show",
+  "subtitle": "En créant une expérience de vente unique et ciblée lors de vos rendez-vous commerciaux, Sweet Show vous aide à réussi...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946509/catalog/sweet-show/icon128x128.jpg",
+  "website": "https://sweetshow.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "semalytix",
+  "title": "Semalytix",
+  "subtitle": "Demonstrate the value of your treatments with real world evidence from millions of patients in your target population.",
+  "tags": [
+    "patient-data",
+    "health"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598910100/icons/semalytix.jpg",
+  "website": "https://www.semalytix.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "broadly",
+  "title": "Broadly",
+  "subtitle": "Broadly's software helps your business look great online. Get more positive online reviews, keep negative feedback of...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719260/catalog/broadly/icon128x128.png",
+  "website": "https://broadly.com"
+}

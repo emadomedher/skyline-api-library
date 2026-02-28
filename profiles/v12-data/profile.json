@@ -1,0 +1,13 @@
+{
+  "id": "v12-data",
+  "title": "V12 Data",
+  "subtitle": "V12 Data API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962026/catalog/v12-data/icon128x128.png",
+  "website": "https://v12data.com"
+}

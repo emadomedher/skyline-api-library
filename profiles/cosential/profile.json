@@ -1,0 +1,13 @@
+{
+  "id": "cosential",
+  "title": "Cosential",
+  "subtitle": "#1 commercial CRM solution for AEC. Manage data on prospects, bids, leads, opportunities, projects, and knowledge thr...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719635/catalog/cosential/icon128x128.jpg",
+  "website": "https://cosential.com"
+}

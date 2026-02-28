@@ -1,0 +1,14 @@
+{
+  "id": "commoninja",
+  "title": "Common Ninja",
+  "subtitle": "Develop apps once, and launch them on multiple e-commerce platforms like Shopify, WooCommerce, Wix & others, with abs...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655656930/icons/commoninja.jpg",
+  "website": "https://www.commoninja.com/",
+  "docsUrl": "https://www.commoninja.com"
+}

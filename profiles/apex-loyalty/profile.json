@@ -1,0 +1,13 @@
+{
+  "id": "apex-loyalty",
+  "title": "Apex Loyalty",
+  "subtitle": "Apex Loyalty is the ultimate B2B loyalty marketing & incentive automation platform built on Salesforce.com. A Partner...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718952/catalog/apex-loyalty/icon128x128.jpg",
+  "website": "https://apexloyalty.com"
+}

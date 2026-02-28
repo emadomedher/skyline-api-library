@@ -1,0 +1,14 @@
+{
+  "id": "delivery-com",
+  "title": "delivery.com",
+  "subtitle": "Order from local restaurants, liquor and grocery stores; even schedule laundry and dry cleaning online for pickup and...",
+  "tags": [
+    "food-delivery",
+    "delivery-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171259/catalog/delivery-com/icon128x128.jpg",
+  "website": "https://www.delivery.com/"
+}

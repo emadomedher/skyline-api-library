@@ -1,0 +1,13 @@
+{
+  "id": "myfeelback",
+  "title": "MyFeelBack",
+  "subtitle": "Exploitez des données clients récoltées sur tous les points de contact pour les intégrer dans vos prises de décisions...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721207/catalog/myfeelback/icon128x128.jpg",
+  "website": "https://myfeelback.com"
+}

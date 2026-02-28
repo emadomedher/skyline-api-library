@@ -1,0 +1,13 @@
+{
+  "id": "squadzip",
+  "title": "Squadzip",
+  "subtitle": "Squadzip is a productivity platform that makes staying on top of your business as easy as using social media, all imp...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962227/catalog/squadzip/icon128x128.png",
+  "website": "https://squadzip.com"
+}

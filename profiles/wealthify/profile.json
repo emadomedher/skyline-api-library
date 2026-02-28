@@ -1,0 +1,15 @@
+{
+  "id": "wealthify",
+  "title": "Wealthify",
+  "subtitle": "Wealthify is an online investment service which lets you build personal investment plans and then manages them for yo...",
+  "tags": [
+    "wealth-management",
+    "investments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565430375/catalog/wealthify/icon128x128.jpg",
+  "website": "https://wealthify.com"
+}

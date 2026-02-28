@@ -1,0 +1,13 @@
+{
+  "id": "upflow-au",
+  "title": "UpFlow",
+  "subtitle": "UpFlow provides document digitisation, workflow and business processing products and services to organisations throug...",
+  "tags": [
+    "document-digitisation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596921098/icons/upflow-au.jpg",
+  "website": "https://upflow.com.au"
+}

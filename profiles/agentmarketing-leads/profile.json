@@ -1,0 +1,13 @@
+{
+  "id": "agentmarketing-leads",
+  "title": "AgentMarketing Leads",
+  "subtitle": "AgentMarketing is a suite of marketing tools for real estate that helps source and manage qualified leads from high q...",
+  "tags": [
+    "real-estate",
+    "marketing-automation"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284434/catalog/agentmarketing-leads/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "calbot-cc",
+  "title": "Calbot",
+  "subtitle": "Sign In Effortless meeting scheduling Calbot helps people from different companies find a mutually available time to ...",
+  "tags": [
+    "meeting-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006416/icons/calbot-cc.jpg",
+  "website": "https://calbot.cc/"
+}

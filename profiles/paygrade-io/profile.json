@@ -1,0 +1,14 @@
+{
+  "id": "paygrade-io",
+  "title": "PayGrade",
+  "subtitle": "A virtual bank for students bringing financial education to life",
+  "tags": [
+    "education",
+    "financial-literacy"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605635312/icons/paygrade-io.jpg",
+  "website": "https://paygrade.io/"
+}

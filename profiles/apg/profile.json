@@ -1,0 +1,12 @@
+{
+  "id": "apg",
+  "title": "APG",
+  "subtitle": "APG is een pensioenuitvoerder die voor zijn opdrachtgevers het pensioen regelt van 4,5 miljoen mensen. We verzorgen h...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256885/catalog/apg/icon128x128.jpg"
+}

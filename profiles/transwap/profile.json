@@ -1,0 +1,13 @@
+{
+  "id": "transwap",
+  "title": "TranSwap",
+  "subtitle": "TranSwap API integration",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582088214/catalog/transwap/icon128x128.jpg",
+  "website": "https://transwap.com/"
+}

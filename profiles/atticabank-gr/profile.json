@@ -1,0 +1,13 @@
+{
+  "id": "atticabank-gr",
+  "title": "Attica Bank",
+  "subtitle": "Ενημερωθείτε για τα προϊόντα και τις υπηρεσίες της Attica Bank. Πραγματοποιήσετε εύκολα και γρήγορα όλες τις Τραπεζικ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590745690/catalog/atticabank-gr/icon128x128.jpg",
+  "website": "https://www.atticabank.gr/"
+}

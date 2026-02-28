@@ -1,0 +1,13 @@
+{
+  "id": "perka",
+  "title": "Perka",
+  "subtitle": "Keep your customers coming back with improved purchase tracking, custom reward programs, emails, create seemless prom...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721466/catalog/perka/icon128x128.jpg",
+  "website": "https://perka.com"
+}

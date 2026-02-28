@@ -1,0 +1,14 @@
+{
+  "id": "tableplus",
+  "title": "TablePlus",
+  "subtitle": "Modern, native client with intuitive GUI tools to create, access, query & edit multiple relational databases: MySQL, ...",
+  "tags": [
+    "database-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671518203/icons/tableplus.png",
+  "website": "https://tableplus.com/",
+  "docsUrl": "https://docs.tableplus.com"
+}

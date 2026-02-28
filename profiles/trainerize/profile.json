@@ -1,0 +1,12 @@
+{
+  "id": "trainerize",
+  "title": "Trainerize",
+  "subtitle": "Trainerize is a powerful personal training software to grow your business and reach more clients with online personal...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306361/catalog/trainerize/icon128x128.png"
+}

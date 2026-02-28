@@ -1,0 +1,13 @@
+{
+  "id": "chatsonic",
+  "title": "Chatsonic",
+  "subtitle": "ChatSonic a conversational AI chatbot is like ChatGPT but built with superpowers and now GPT-4 powered. Check out the...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679697472/icons/chatsonic.jpg",
+  "website": "https://writesonic.com/chat"
+}

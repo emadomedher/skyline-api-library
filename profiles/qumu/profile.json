@@ -1,0 +1,13 @@
+{
+  "id": "qumu",
+  "title": "Qumu",
+  "subtitle": "The leading Global 2000 enterprise platform to create, manage, secure, distribute and measure the success of live and...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721696/catalog/qumu/icon128x128.jpg",
+  "website": "https://qumu.com"
+}

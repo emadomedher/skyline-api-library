@@ -1,0 +1,13 @@
+{
+  "id": "auphonic",
+  "title": "Auphonic",
+  "subtitle": "The automatic audio post production webservice, using signal processing and machine learning techniques.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825833/catalog/auphonic/icon128x128.jpg",
+  "website": "https://auphonic.com"
+}

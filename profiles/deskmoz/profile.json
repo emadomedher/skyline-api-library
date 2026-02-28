@@ -1,0 +1,12 @@
+{
+  "id": "deskmoz",
+  "title": "DeskMoz",
+  "subtitle": "DeskMoz is 24x7 live chat agent service provider that helps you in generating sales leads and providing support to ne...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304756/catalog/deskmoz/icon128x128.png"
+}

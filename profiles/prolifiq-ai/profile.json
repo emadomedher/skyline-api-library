@@ -1,0 +1,14 @@
+{
+  "id": "prolifiq-ai",
+  "title": "Prolifiq",
+  "subtitle": "Prolifiq helps Salesforce users increase win rates with its key account management, relationship mapping, and digital...",
+  "tags": [
+    "account-management",
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215684/icons/prolifiq-ai.jpg",
+  "website": "https://prolifiq.ai/"
+}

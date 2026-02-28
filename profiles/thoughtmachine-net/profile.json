@@ -1,0 +1,13 @@
+{
+  "id": "thoughtmachine-net",
+  "title": "Thought Machine",
+  "subtitle": "Thought Machine builds cloud native technology to revolutionise core banking.",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591170187/icons/thoughtmachine-net.jpg",
+  "website": "https://thoughtmachine.net/"
+}

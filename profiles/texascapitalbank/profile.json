@@ -1,0 +1,14 @@
+{
+  "id": "texascapitalbank",
+  "title": "Texas Capital Bank",
+  "subtitle": "Visit our Texas Capital Bank official site to find out how we can help you with your commercial banking and wealth ma...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062128/catalog/texascapitalbank/icon128x128.jpg",
+  "website": "https://www.texascapitalbank.com/",
+  "docsUrl": "https://www.texascapitalbank.com/who-we-serve/business/homebuilders-developers"
+}

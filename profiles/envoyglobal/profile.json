@@ -1,0 +1,14 @@
+{
+  "id": "envoyglobal",
+  "title": "Envoy Global",
+  "subtitle": "Envoy's simple approach to sponsoring and managing work visas in the U.S. and overseas results in the easiest applica...",
+  "tags": [
+    "immigration-case-management",
+    "visa-applications"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590286219/catalog/envoyglobal/icon128x128.jpg",
+  "website": "https://www.envoyglobal.com/"
+}

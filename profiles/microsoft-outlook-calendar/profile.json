@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-outlook-calendar",
+  "title": "Outlook Calendar",
+  "subtitle": "Microsoft Outlook is a personal information manager software system from Microsoft, available as a part of the Micros...",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573320170/catalog/microsoft-outlook-calendar/icon128x128.png",
+  "website": "https://outlook.live.com/"
+}

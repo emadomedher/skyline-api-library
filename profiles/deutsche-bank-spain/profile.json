@@ -1,0 +1,13 @@
+{
+  "id": "deutsche-bank-spain",
+  "title": "Deutsche Bank Spain",
+  "subtitle": "Deutsche Bank Spain",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623545737/icons/deutsche-bank-spain.jpg",
+  "website": "https://www.deutsche-bank.es/"
+}

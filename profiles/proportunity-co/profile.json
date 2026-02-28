@@ -1,0 +1,14 @@
+{
+  "id": "proportunity-co",
+  "title": "Proportunity",
+  "subtitle": "Proportunity is the smart way to #ownahome! The Proportunity Loan is an equity loan that could help you afford the ho...",
+  "tags": [
+    "mortgages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572174996/catalog/proportunity-co/icon128x128.jpg",
+  "website": "https://proportunity.co/",
+  "docsUrl": "https://proportunity.co/documentation/cookie-policy"
+}

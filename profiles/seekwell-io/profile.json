@@ -1,0 +1,15 @@
+{
+  "id": "seekwell-io",
+  "title": "SeekWell",
+  "subtitle": "SeekWell brings SQL to the places your team already hangs out, including Google Sheets, Excel, Slack, and email.",
+  "tags": [
+    "data-visualization",
+    "data-integration"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616309524/icons/seekwell-io.jpg",
+  "website": "https://seekwell.io/",
+  "docsUrl": "https://seekwell.io/kb"
+}

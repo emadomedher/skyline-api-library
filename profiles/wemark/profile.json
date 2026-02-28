@@ -1,0 +1,13 @@
+{
+  "id": "wemark",
+  "title": "Wemark",
+  "subtitle": "License images directly from the world's most inspiring photographers",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828022/catalog/wemark/icon128x128.jpg",
+  "website": "https://wemark.com"
+}

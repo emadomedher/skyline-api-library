@@ -1,0 +1,14 @@
+{
+  "id": "getin-noble",
+  "title": "Getin Noble Bank",
+  "subtitle": "Getin Noble Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569632003/catalog/getin-noble/icon128x128.jpg",
+  "website": "https://en.gnb.pl/",
+  "docsUrl": "https://www.getinbank.pl/getinapi/dokumentacja"
+}

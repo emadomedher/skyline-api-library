@@ -1,0 +1,13 @@
+{
+  "id": "oi-engine",
+  "title": "OI Engine",
+  "subtitle": "Our award-winning innovation software combined with our experienced consulting to can help you work better together.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946763/catalog/oi-engine/icon128x128.jpg",
+  "website": "https://oiengine.com"
+}

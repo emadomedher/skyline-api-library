@@ -1,0 +1,13 @@
+{
+  "id": "backboneiq",
+  "title": "Backbone",
+  "subtitle": "Backbone is the world's first supply mesh software providing supply chain solutions for an interconnected world.",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681847253/icons/backboneiq.jpg",
+  "website": "https://backboneiq.com/"
+}

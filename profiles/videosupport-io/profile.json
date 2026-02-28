@@ -1,0 +1,14 @@
+{
+  "id": "videosupport-io",
+  "title": "Videosupport",
+  "subtitle": "Allow customers to instantly record & share video with your support team.",
+  "tags": [
+    "video-customer-support",
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614933156/icons/videosupport-io.png",
+  "website": "https://www.videosupport.io/"
+}

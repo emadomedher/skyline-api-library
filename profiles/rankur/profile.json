@@ -1,0 +1,13 @@
+{
+  "id": "rankur",
+  "title": "Rankur",
+  "subtitle": "Advanced tools for monitoring social media, news and the entire web with focus on online reputation management. Softw...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721723/catalog/rankur/icon128x128.png",
+  "website": "https://rankur.com"
+}

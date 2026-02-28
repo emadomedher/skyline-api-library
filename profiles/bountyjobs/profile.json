@@ -1,0 +1,13 @@
+{
+  "id": "bountyjobs",
+  "title": "BountyJobs",
+  "subtitle": "One platform for ALL your third-party recruiting needs. Supporting contingent and direct-hires, for one job or many, ...",
+  "tags": [
+    "talent-sourcing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805177/icons/bountyjobs.jpg",
+  "website": "https://www.bountyjobs.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "liveoak-net",
+  "title": "Liveoak Technologies",
+  "subtitle": "Liveoak is a virtual customer engagement and business platform that enables connection, engagement & seamless workflows.",
+  "tags": [
+    "signatures",
+    "kyc",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741007/icons/liveoak-net.png",
+  "website": "https://www.liveoak.net/"
+}

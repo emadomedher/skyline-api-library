@@ -1,0 +1,14 @@
+{
+  "id": "qovery",
+  "title": "Qovery",
+  "subtitle": "Qovery helps tech companies to deploy their apps on AWS in just a few seconds. Qovery is the simplest way to deploy y...",
+  "tags": [
+    "application-deployment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638576523/icons/qovery.jpg",
+  "website": "https://www.qovery.com/",
+  "docsUrl": "https://hub.qovery.com/docs/getting-started/what-is-qovery"
+}

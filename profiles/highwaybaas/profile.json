@@ -1,0 +1,14 @@
+{
+  "id": "highwaybaas",
+  "title": "Highway",
+  "subtitle": "Highway API integration",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635972587/icons/highwaybaas.jpg",
+  "website": "https://www.highwaybaas.com/",
+  "docsUrl": "https://www.highwaybaas.com/en/database-developer.html"
+}

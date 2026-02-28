@@ -1,0 +1,13 @@
+{
+  "id": "moonmail",
+  "title": "MoonMail",
+  "subtitle": "MoonMail is a powerful tool that helps you do amazing email marketing in a simple, human centric way.",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305476/catalog/moonmail/icon128x128.png",
+  "website": "https://moonmail.io/"
+}

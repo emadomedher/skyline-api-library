@@ -1,0 +1,14 @@
+{
+  "id": "vezgo",
+  "title": "Vezgo",
+  "subtitle": "Vezgo is the easiest way for people to connect their crypto accounts to your app.",
+  "tags": [
+    "crypto-apis",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633094751/icons/vezgo.jpg",
+  "website": "https://vezgo.com/"
+}

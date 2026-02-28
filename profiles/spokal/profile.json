@@ -1,0 +1,13 @@
+{
+  "id": "spokal",
+  "title": "Spokal",
+  "subtitle": "Social Media scheduling that learns your audience's preferences, and delivers content they want to drive more leads t...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722287/catalog/spokal/icon128x128.png",
+  "website": "https://getspokal.com"
+}

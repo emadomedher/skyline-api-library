@@ -1,0 +1,13 @@
+{
+  "id": "engagio",
+  "title": "Engagio",
+  "subtitle": "Land & expand high-value accounts at scale. Engagio helps B2B marketers doing Account Based Marketing create & measur...",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947076/catalog/engagio/icon128x128.jpg",
+  "website": "https://engagio.com"
+}

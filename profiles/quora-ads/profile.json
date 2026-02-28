@@ -1,0 +1,13 @@
+{
+  "id": "quora-ads",
+  "title": "Quora Ads",
+  "subtitle": "People visit Quora every day to ask questions and read insightful answers. Advertise on Quora to reach millions of pe...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582723648/catalog/quora-ads/icon128x128.jpg",
+  "website": "https://www.quora.com/business"
+}

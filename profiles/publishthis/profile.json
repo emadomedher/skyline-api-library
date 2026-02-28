@@ -1,0 +1,13 @@
+{
+  "id": "publishthis",
+  "title": "PublishThis",
+  "subtitle": "PublishThis helps businesses produce better content more often for the web, email, & social so they can achieve conte...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946699/catalog/publishthis/icon128x128.jpg",
+  "website": "https://publishthis.com"
+}

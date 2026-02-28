@@ -1,0 +1,12 @@
+{
+  "id": "formforall",
+  "title": "FormForAll",
+  "subtitle": "With FormForAll's online form builder, create your web forms in seconds, publish it online, collect the data. You can...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304950/catalog/formforall/icon128x128.png"
+}

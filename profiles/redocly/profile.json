@@ -1,0 +1,15 @@
+{
+  "id": "redocly",
+  "title": "Redoc.ly",
+  "subtitle": "Redocly creates usable interactive API docs",
+  "tags": [
+    "open-source",
+    "api",
+    "api-documentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568569720/catalog/redocly/icon128x128.jpg",
+  "website": "https://redoc.ly/"
+}

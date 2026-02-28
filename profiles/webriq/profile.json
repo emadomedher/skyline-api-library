@@ -1,0 +1,14 @@
+{
+  "id": "webriq",
+  "title": "WebriQ",
+  "subtitle": "Websites as a Service - The answer to high-quality business websites on a budget",
+  "tags": [
+    "websites",
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616205756/icons/webriq.jpg",
+  "website": "https://www.webriq.com/"
+}

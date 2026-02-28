@@ -1,0 +1,13 @@
+{
+  "id": "monkeylearn",
+  "title": "MonkeyLearn",
+  "subtitle": "MonkeyLearn is an AI platform that allows you to classify and extract actionable data from raw texts like emails, cha...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284556/catalog/monkeylearn/icon128x128.png",
+  "website": "https://zapier.com/apps/monkeylearn"
+}

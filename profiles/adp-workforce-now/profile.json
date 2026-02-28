@@ -1,0 +1,15 @@
+{
+  "id": "adp-workforce-now",
+  "title": "ADP Workforce Now",
+  "subtitle": "The all-in-one platform for payroll and HR software, provides expert support and analytics for data-driven insights.",
+  "tags": [
+    "hris",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635821547/icons/adp-workforce-now.png",
+  "website": "https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx",
+  "docsUrl": "https://developers.adp.com/"
+}

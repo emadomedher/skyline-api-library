@@ -1,0 +1,13 @@
+{
+  "id": "google-hangouts-chat",
+  "title": "Google Hangouts Chat",
+  "subtitle": "Google Hangouts Chat is an intelligent communication app for teams that takes direct messaging in Google Hangouts and...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055940/catalog/google-hangouts-chat/icon128x128.png",
+  "website": "https://gsuite.google.com/products/chat/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "getsalesramp",
+  "title": "Salesramp",
+  "subtitle": "Automatisez le calcul de vos plans de commissions. Stimulez la performance de vos commerciaux. Réduisez votre turnover.",
+  "tags": [
+    "compensation-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685868376/icons/getsalesramp.jpg",
+  "website": "https://www.getsalesramp.com/"
+}

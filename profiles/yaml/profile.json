@@ -1,0 +1,14 @@
+{
+  "id": "yaml",
+  "title": "YAML",
+  "subtitle": "YAML is a human-readable data-serialization language. It is commonly used for configuration files and in applications...",
+  "tags": [
+    "files",
+    "markup-languages"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590575856/catalog/yaml/icon128x128.png",
+  "website": "https://yaml.org/"
+}

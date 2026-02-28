@@ -1,0 +1,13 @@
+{
+  "id": "demandbase",
+  "title": "Demandbase",
+  "subtitle": "Demandbase API integration",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964068/catalog/demandbase/icon128x128.png",
+  "website": "https://demandbase.com"
+}

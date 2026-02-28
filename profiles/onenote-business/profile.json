@@ -1,0 +1,12 @@
+{
+  "id": "onenote-business",
+  "title": "OneNote (Business)",
+  "subtitle": "OneNote is a note taking app from Microsoft that makes it easy to sync your ideas, sketches and notes across all your...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264823/catalog/onenote-business/icon128x128.png"
+}

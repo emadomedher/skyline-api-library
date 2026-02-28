@@ -1,0 +1,14 @@
+{
+  "id": "instagram-shopping",
+  "title": "Instagram Shopping",
+  "subtitle": "Instagram Shopping API integration",
+  "tags": [
+    "ecommerce",
+    "social"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455959/catalog/instagram/icon128x128.png",
+  "website": "https://help.instagram.com/191462054687226"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "jupitrr",
+  "title": "Jupitrr",
+  "subtitle": "Create more insightful content by turning your voice into shareable videos.",
+  "tags": [
+    "video-marketing",
+    "podcast-to-video"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638517620/icons/jupitrr.jpg",
+  "website": "https://jupitrr.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sungarddx",
+  "title": "Data Exchange FIS",
+  "subtitle": "Data Exchange is a portal that helps aggregate, organize and visualize data leveraging industry-leading reporting and...",
+  "tags": [
+    "investment-management",
+    "asset-management",
+    "vc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567219742/catalog/sungarddx/icon128x128.jpg",
+  "website": "https://www.sungarddx.com/"
+}

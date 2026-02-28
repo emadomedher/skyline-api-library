@@ -1,0 +1,14 @@
+{
+  "id": "grammarbot-io",
+  "title": "GrammarBot",
+  "subtitle": "Free grammar checking API with no signups. Check your texts for spelling and grammar errors for free using our award ...",
+  "tags": [
+    "grammar-check-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578262219/catalog/grammarbot-io/icon128x128.webp",
+  "website": "https://www.grammarbot.io/",
+  "docsUrl": "https://www.grammarbot.io/post/grammarly-api-developers"
+}

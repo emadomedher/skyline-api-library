@@ -1,0 +1,13 @@
+{
+  "id": "trackmaven",
+  "title": "TrackMaven",
+  "subtitle": "TrackMaven's marketing analytics software helps marketers prove ROI and improve results on 18 integrated digital and ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827848/catalog/trackmaven/icon128x128.png",
+  "website": "https://trackmaven.com"
+}

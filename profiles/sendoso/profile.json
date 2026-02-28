@@ -1,0 +1,13 @@
+{
+  "id": "sendoso",
+  "title": "Sendoso",
+  "subtitle": "Sendoso is the leading Sending Platform for sourcing, storing, shipping, and measuring ROI so that businesses can sen...",
+  "tags": [
+    "advocacy-loyalty-and-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962393/catalog/sendoso/icon128x128.png",
+  "website": "https://sendoso.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "insight360",
+  "title": "Insight360",
+  "subtitle": "Insight360 API integration",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435164/catalog/insight360/icon128x128.png",
+  "website": "https://insight360.com"
+}

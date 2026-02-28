@@ -1,0 +1,13 @@
+{
+  "id": "customer-alliance",
+  "title": "Customer Alliance",
+  "subtitle": "By empowering the guest experience, Customer Alliance helps independent and chain businesses take control of their cu...",
+  "tags": [
+    "hotel-reputation-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448046/icons/customer-alliance.jpg",
+  "website": "https://www.customer-alliance.com/"
+}

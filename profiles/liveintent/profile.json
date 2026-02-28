@@ -1,0 +1,13 @@
+{
+  "id": "liveintent",
+  "title": "LiveIntent",
+  "subtitle": "LiveIntent API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435580/catalog/liveintent/icon128x128.png",
+  "website": "https://liveintent.com"
+}

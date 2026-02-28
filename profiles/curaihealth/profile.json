@@ -1,0 +1,13 @@
+{
+  "id": "curaihealth",
+  "title": "Curai",
+  "subtitle": "Curai API integration",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671577/icons/curaihealth.png",
+  "website": "https://curaihealth.com/"
+}

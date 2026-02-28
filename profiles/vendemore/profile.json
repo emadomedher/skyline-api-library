@@ -1,0 +1,13 @@
+{
+  "id": "vendemore",
+  "title": "Vendemore",
+  "subtitle": "Vendemore is a world leading Account Based Marketing company and global ABM-partner for Fortune 2000 companies.",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946400/catalog/vendemore/icon128x128.jpg",
+  "website": "https://vendemore.com"
+}

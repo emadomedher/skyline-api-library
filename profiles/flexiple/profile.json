@@ -1,0 +1,14 @@
+{
+  "id": "flexiple",
+  "title": "Flexiple",
+  "subtitle": "Flexiple helps companies hire top freelance developers and designers within 48 hours to 7 days. Work with handpicked,...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629634498/icons/flexiple.png",
+  "website": "https://flexiple.com/",
+  "docsUrl": "https://flexiple.com/hire-freelance-android-developers/?&url=0"
+}

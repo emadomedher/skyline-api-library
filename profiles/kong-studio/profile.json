@@ -1,0 +1,16 @@
+{
+  "id": "kong-studio",
+  "title": "Kong Studio",
+  "subtitle": "Empower your developers with the Kong Studio API Design and Test Suite",
+  "tags": [
+    "api-design",
+    "graphql",
+    "rest"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603193629/icons/kong-studio.png",
+  "website": "https://konghq.com/products/kong-enterprise/kong-studio/",
+  "docsUrl": "https://docs.konghq.com/enterprise/2.1.x/studio/"
+}

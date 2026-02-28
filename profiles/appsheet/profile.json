@@ -1,0 +1,13 @@
+{
+  "id": "appsheet",
+  "title": "AppSheet",
+  "subtitle": "The best app maker for mobile apps. Create an app easily and quickly. Powerful features, yet no-code required. Start ...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947267/catalog/appsheet/icon128x128.jpg",
+  "website": "https://appsheet.com"
+}

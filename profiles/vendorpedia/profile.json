@@ -1,0 +1,14 @@
+{
+  "id": "vendorpedia",
+  "title": "Vendorpedia",
+  "subtitle": "Intelligent third party risk management powered by OneTrust Vendorpedia software platform, Vendor Exchange and vendor...",
+  "tags": [
+    "vendor-risk-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572481426/catalog/vendorpedia/icon128x128.png",
+  "website": "https://www.vendorpedia.com/"
+}

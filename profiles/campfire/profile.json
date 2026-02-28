@@ -1,0 +1,12 @@
+{
+  "id": "campfire",
+  "title": "Campfire",
+  "subtitle": "Campfire is 37Signals group chat application. It allows you to share files, images, code and more right within the ch...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304607/catalog/campfire/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "supersaas",
+  "title": "SuperSaaS",
+  "subtitle": "Online appointment scheduling for any type of business. Flexible and affordable booking software that can be integrat...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306224/catalog/supersaas/icon128x128.png",
+  "website": "https://www.supersaas.com/"
+}

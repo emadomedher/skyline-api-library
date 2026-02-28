@@ -1,0 +1,14 @@
+{
+  "id": "alpaca-markets",
+  "title": "Alpaca",
+  "subtitle": "Alpaca Stock Trading API is built for algorithmic trading and building apps for commission-free",
+  "tags": [
+    "stock-trading-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589496326/catalog/alpaca-markets/icon128x128.jpg",
+  "website": "https://alpaca.markets/",
+  "docsUrl": "https://alpaca.markets/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "codestream",
+  "title": "CodeStream",
+  "subtitle": "Discuss code easily inside Visual Studio, VS Code, JetBrains, and other IDEs. Integrates with team chat services like...",
+  "tags": [
+    "coding",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565490504/catalog/codestream/icon128x128.jpg",
+  "website": "https://www.codestream.com/",
+  "docsUrl": "https://www.codestream.com/for/developers"
+}

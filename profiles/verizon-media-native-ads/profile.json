@@ -1,0 +1,13 @@
+{
+  "id": "verizon-media-native-ads",
+  "title": "Verizon Media Native Ads",
+  "subtitle": "Verizon Media Native Ads API integration",
+  "tags": [
+    "marketing-automation",
+    "analytics"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830044/catalog/verizon-media-native-ads/icon128x128.png"
+}

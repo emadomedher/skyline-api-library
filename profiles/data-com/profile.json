@@ -1,0 +1,15 @@
+{
+  "id": "data-com",
+  "title": "Data.com",
+  "subtitle": "Data.com Connect was retired as of May 4th, 2019. Learn more about the retirement and review our FAQs. ",
+  "tags": [
+    "prospecting",
+    "sales",
+    "marketing"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566502910/catalog/data-com/icon128x128.png",
+  "website": "https://www.data.com/"
+}

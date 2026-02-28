@@ -1,0 +1,13 @@
+{
+  "id": "resultspreviewer",
+  "title": "Results Previewer",
+  "subtitle": "Never click another link in a Google Search again. Preview your results with a hover.",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605367953/icons/resultspreviewer.png",
+  "website": "https://resultspreviewer.com/"
+}

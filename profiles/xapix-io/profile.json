@@ -1,0 +1,14 @@
+{
+  "id": "xapix-io",
+  "title": "Xapix",
+  "subtitle": "Xapix is a fast, flexible, and user-friendly data integration platform designed to meet highest demands of automotive...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589447812/catalog/xapix-io/icon128x128.jpg",
+  "website": "https://www.xapix.io/",
+  "docsUrl": "https://www.xapix.io/post/5-must-have-features-for-developers-in-low-code-platforms"
+}

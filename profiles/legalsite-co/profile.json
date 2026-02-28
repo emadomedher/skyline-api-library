@@ -1,0 +1,14 @@
+{
+  "id": "legalsite-co",
+  "title": "Legalsite",
+  "subtitle": "Full GDPR/CCPA privacy compliance for free up to 1,000 people. Free legal templates for your business included. Get S...",
+  "tags": [
+    "legal",
+    "compliance"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585397059/catalog/legalsite-co/icon128x128.png",
+  "website": "https://legalsite.co/"
+}

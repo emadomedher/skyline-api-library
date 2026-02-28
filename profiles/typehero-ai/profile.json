@@ -1,0 +1,13 @@
+{
+  "id": "typehero-ai",
+  "title": "Typehero",
+  "subtitle": "Looking for a copywriting app that won't break the bank? Typehero is your solution! With AI-powered content creation,...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671286091/icons/typehero-ai.png",
+  "website": "https://www.typehero.ai/"
+}

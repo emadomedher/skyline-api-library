@@ -1,0 +1,15 @@
+{
+  "id": "iconscout",
+  "title": "Iconscout",
+  "subtitle": "Browse 2 Million+ high quality Icons, Illustrations and royalty-free stock photos at one place. Download Now!",
+  "tags": [
+    "icon-marketplaces",
+    "icons"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590575875/catalog/iconscout/icon128x128.jpg",
+  "website": "https://iconscout.com",
+  "docsUrl": "https://iconscout.com/icondrop/for-google-docs"
+}

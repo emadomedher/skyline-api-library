@@ -1,0 +1,13 @@
+{
+  "id": "scraper-ai",
+  "title": "Scraper.AI",
+  "subtitle": "Scraper.AI is a web scraper that allows you to extract data from any website. Automate your data gathering and proces...",
+  "tags": [
+    "web-scraping"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595597614/icons/scraper-ai.jpg",
+  "website": "https://scraper.ai/"
+}

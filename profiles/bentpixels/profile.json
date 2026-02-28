@@ -1,0 +1,13 @@
+{
+  "id": "bentpixels",
+  "title": "BentPixels",
+  "subtitle": "BentPixels API integration",
+  "tags": [
+    "video-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433265/catalog/bentpixels/icon128x128.png",
+  "website": "https://bentpixels.com"
+}

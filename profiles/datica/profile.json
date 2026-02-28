@@ -1,0 +1,18 @@
+{
+  "id": "datica",
+  "title": "Datica",
+  "subtitle": "Datica API integration",
+  "tags": [
+    "api",
+    "healthcare",
+    "ehr",
+    "data-integration",
+    "ipaas"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568048322/catalog/datica/icon128x128.jpg",
+  "website": "https://datica.com/",
+  "docsUrl": "https://help.datica.com/hc/en-us"
+}

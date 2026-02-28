@@ -1,0 +1,17 @@
+{
+  "id": "playwright-dev",
+  "title": "Playwright",
+  "subtitle": "Playwright is a cross-browser automation library for Chromium, Firefox and WebKit. Use the Playwright API to automate...",
+  "tags": [
+    "testing",
+    "qa",
+    "browser-testing",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606481114/icons/playwright-dev.png",
+  "website": "https://playwright.dev/",
+  "docsUrl": "https://playwright.dev/#version=v1.6.2&path=docs%2fwhy-playwright.md&q="
+}

@@ -1,0 +1,13 @@
+{
+  "id": "anexia",
+  "title": "Anexia",
+  "subtitle": "Anexia is your IT service provider in Austria, Germany and USA. We focus on web development, individual software and ...",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600472467/icons/anexia.jpg",
+  "website": "https://anexia.com/"
+}

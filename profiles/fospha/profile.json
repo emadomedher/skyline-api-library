@@ -1,0 +1,13 @@
+{
+  "id": "fospha",
+  "title": "Fospha",
+  "subtitle": "Fospha's multi-touch attribution product leverages cutting-edge data science to enable marketers to understand and op...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720139/catalog/fospha/icon128x128.jpg",
+  "website": "https://fospha.com"
+}

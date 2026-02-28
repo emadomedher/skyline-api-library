@@ -1,0 +1,13 @@
+{
+  "id": "sureclaim-in",
+  "title": "SureClaim",
+  "subtitle": "SureClaim API integration",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528005/icons/sureclaim-in.jpg",
+  "website": "https://sureclaim.in/"
+}

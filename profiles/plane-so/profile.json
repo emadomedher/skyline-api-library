@@ -1,0 +1,15 @@
+{
+  "id": "plane-so",
+  "title": "Plance",
+  "subtitle": "Open-source project management tool to manage issues, sprints, and product roadmaps with peace of mind.",
+  "tags": [
+    "project-management",
+    "open-source"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1695109195/icons/plane-so.jpg",
+  "website": "https://plane.so/",
+  "docsUrl": "https://docs.plane.so"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "webinfinity",
+  "title": "Webinfinity",
+  "subtitle": "Webinfinity is a SaaS-based solution for driving personalized engagement at scale.  Learn about Webinfinity – its val...",
+  "tags": [
+    "partner-relationship-management",
+    "channel-partner-and-local-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438427/catalog/webinfinity/icon128x128.png",
+  "website": "https://webinfinity.com"
+}

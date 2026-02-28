@@ -1,0 +1,17 @@
+{
+  "id": "n8n-io",
+  "title": "n8n",
+  "subtitle": "n8n is a powerful, open-source workflow automation platform that enables technical teams to connect apps and build co...",
+  "tags": [
+    "integration-platforms",
+    "workflow-builders",
+    "automation",
+    "developer-tools"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570559986/catalog/n8n-io/icon128x128.png",
+  "website": "https://n8n.io/",
+  "docsUrl": "https://docs.n8n.io"
+}

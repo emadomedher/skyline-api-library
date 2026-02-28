@@ -1,0 +1,13 @@
+{
+  "id": "campaignagent-au",
+  "title": "CampaignAgent",
+  "subtitle": "Australia’s largest funder of vendor paid advertising, giving vendors the choice to Pay Now or Pay Later for their pr...",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528053/icons/campaignagent-au.png",
+  "website": "https://campaignagent.com.au/"
+}

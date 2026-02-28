@@ -1,0 +1,13 @@
+{
+  "id": "brightmove",
+  "title": "BrightMove",
+  "subtitle": "BrightMove is an enterprise ready applicant tracking system (ATS) for any staffing, recruiting, RPO or HR team.",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304545/catalog/brightmove/icon128x128.png",
+  "website": "https://www.brightmove.com/"
+}

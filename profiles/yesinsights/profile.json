@@ -1,0 +1,13 @@
+{
+  "id": "yesinsights",
+  "title": "YesInsights",
+  "subtitle": "YesInsights allows you to create one-click surveys for your team or clients, giving you actionable feedback to move y...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306559/catalog/yesinsights/icon128x128.png",
+  "website": "https://yesinsights.com"
+}

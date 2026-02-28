@@ -1,0 +1,13 @@
+{
+  "id": "sompani",
+  "title": "Sompani",
+  "subtitle": "Sompani API integration",
+  "tags": [
+    "talent-sourcing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887380/icons/sompani.jpg",
+  "website": "https://www.sompani.com/"
+}

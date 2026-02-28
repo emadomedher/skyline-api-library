@@ -1,0 +1,13 @@
+{
+  "id": "adzis",
+  "title": "Adzis",
+  "subtitle": "Autogenerate content for your internet business using Adzis content engine. Does your eCommerce/classified/real-estat...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825726/catalog/adzis/icon128x128.jpg",
+  "website": "https://adzis.com"
+}

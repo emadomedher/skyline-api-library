@@ -1,0 +1,14 @@
+{
+  "id": "ycombinator",
+  "title": "Y Combinator",
+  "subtitle": "Y Combinator created a new model for funding early stage startups. Twice a year we invest in a large number of startups.",
+  "tags": [
+    "accelerators",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576627575/catalog/ycombinator/icon128x128.jpg",
+  "website": "https://www.ycombinator.com/"
+}

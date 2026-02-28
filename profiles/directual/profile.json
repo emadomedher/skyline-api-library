@@ -1,0 +1,14 @@
+{
+  "id": "directual",
+  "title": "Directual",
+  "subtitle": "Directual is a no-code platform for building scalable and sophisticated apps in an intuitive visual interface. Launch...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614225531/icons/directual.jpg",
+  "website": "https://www.directual.com/",
+  "docsUrl": "https://www.directual.com/who-uses-directual"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fresha",
+  "title": "Fresha",
+  "subtitle": "Find the best salons and spa in your area with Fresha salon booking software. Book now!",
+  "tags": [
+    "welness",
+    "salon"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623808069/icons/fresha.png",
+  "website": "https://www.fresha.com/",
+  "docsUrl": "https://www.fresha.com/docs/legal-clauses-booking-terms_v3.pdf"
+}

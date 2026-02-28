@@ -1,0 +1,16 @@
+{
+  "id": "hokodo-co",
+  "title": "Hokodo",
+  "subtitle": "We aim to revolutionise financial services, making them simple and accessible to the many small businesses left behin...",
+  "tags": [
+    "insurtech",
+    "fintech",
+    "insurance-apis"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587489807/catalog/hokodo-co/icon128x128.jpg",
+  "website": "https://www.hokodo.co/",
+  "docsUrl": "https://docs.apiary.io/tools/apiary-cli"
+}

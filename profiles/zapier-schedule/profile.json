@@ -1,0 +1,14 @@
+{
+  "id": "zapier-schedule",
+  "title": "Schedule by Zapier",
+  "subtitle": "Schedule is a native Zapier app you can use for recurring tasks. Trigger an action every day of the month, every day ...",
+  "tags": [
+    "zapier-tools",
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809839/catalog/zapier-schedule/icon128x128.png",
+  "website": "https://zapier.com/"
+}

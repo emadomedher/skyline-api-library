@@ -1,0 +1,15 @@
+{
+  "id": "codeigniter",
+  "title": "CodeIgniter",
+  "subtitle": "CodeIgniter API integration",
+  "tags": [
+    "web-frameworks",
+    "php"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597823232/icons/codeigniter.png",
+  "website": "https://codeigniter.com/",
+  "docsUrl": "https://codeigniter.com/docs"
+}

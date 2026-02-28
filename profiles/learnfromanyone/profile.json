@@ -1,0 +1,13 @@
+{
+  "id": "learnfromanyone",
+  "title": "Learn From Anyone",
+  "subtitle": "LearnFromAnyone",
+  "tags": [
+    "learning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611632136/icons/learnfromanyone.jpg",
+  "website": "https://learnfromanyone.com/"
+}

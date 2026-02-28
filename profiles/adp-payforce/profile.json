@@ -1,0 +1,13 @@
+{
+  "id": "adp-payforce",
+  "title": "ADP Payforce",
+  "subtitle": "ADP Payforce is a highly secure and comprehensive payroll solution built for mid-to-large business. Simplify your pay...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578144382/catalog/adp-payforce/icon128x128.png",
+  "website": "https://www.adp.com/"
+}

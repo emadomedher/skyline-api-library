@@ -1,0 +1,15 @@
+{
+  "id": "aleph-im",
+  "title": "aleph.im",
+  "subtitle": "aleph.im API integration",
+  "tags": [
+    "cloud-computing",
+    "defi"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701518/icons/aleph-im.jpg",
+  "website": "https://aleph.im/",
+  "docsUrl": "https://aleph.im/#/developers"
+}

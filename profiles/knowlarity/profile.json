@@ -1,0 +1,13 @@
+{
+  "id": "knowlarity",
+  "title": "Knowlarity",
+  "subtitle": "Knowlarity is a leading cloud business commnication  solution provider with cloud telephony - virtual number, ivr ser...",
+  "tags": [
+    "telecom-services-for-call-centers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632537559/icons/knowlarity.jpg",
+  "website": "https://www.knowlarity.com/"
+}

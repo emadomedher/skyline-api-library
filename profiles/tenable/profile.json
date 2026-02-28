@@ -1,0 +1,14 @@
+{
+  "id": "tenable",
+  "title": "Tenable",
+  "subtitle": "Welcome to the modern era of cyber exposure. Join the movement.",
+  "tags": [
+    "vulnerability-risk-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581261871/catalog/tenable/icon128x128.jpg",
+  "website": "https://www.tenable.com/",
+  "docsUrl": "https://docs.tenable.com"
+}

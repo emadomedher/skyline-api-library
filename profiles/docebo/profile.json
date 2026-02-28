@@ -1,0 +1,14 @@
+{
+  "id": "docebo",
+  "title": "Docebo",
+  "subtitle": "The cloud-based Docebo LMS helps deliver corporate training anytime, anywhere with its powerful, yet easy-to-use lear...",
+  "tags": [
+    "learning-management-system-(lms)"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611123677/icons/docebo.png",
+  "website": "https://www.docebo.com/",
+  "docsUrl": "https://www.docebo.com/knowledge/apis/"
+}

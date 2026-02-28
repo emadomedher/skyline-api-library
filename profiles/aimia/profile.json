@@ -1,0 +1,13 @@
+{
+  "id": "aimia",
+  "title": "Aimia",
+  "subtitle": "Aimia is a marketing and loyalty analytics company, providing clients with the customer insights they need to make sm...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774767/catalog/aimia/icon128x128.jpg",
+  "website": "https://aimia.com"
+}

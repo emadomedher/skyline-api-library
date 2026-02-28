@@ -1,0 +1,13 @@
+{
+  "id": "wnr-ai",
+  "title": "WNR.AI",
+  "subtitle": "Supercharge ChatGPT with templates from top startup founders, VCs, and product leaders.",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681469062/icons/wnr-ai.jpg",
+  "website": "https://wnr.ai/"
+}

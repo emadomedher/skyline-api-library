@@ -1,0 +1,12 @@
+{
+  "id": "hotspotsystem",
+  "title": "HotspotSystem",
+  "subtitle": "Extract data of your hotspot users, using the cloud based hotspot management service of hotspotsystem.com.",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305135/catalog/hotspotsystem/icon128x128.png"
+}

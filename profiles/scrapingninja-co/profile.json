@@ -1,0 +1,14 @@
+{
+  "id": "scrapingninja-co",
+  "title": "ScrapingNinja",
+  "subtitle": "ScrapingNinja is a Web Scraping API that handles proxies and Headless browser for you, so you can focus on extracting...",
+  "tags": [
+    "web-scraping"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193184/catalog/scrapingninja-co/icon128x128.png",
+  "website": "https://www.scrapingninja.co/",
+  "docsUrl": "https://www.scrapingninja.co/documentation"
+}

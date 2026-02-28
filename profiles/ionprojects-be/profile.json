@@ -1,0 +1,13 @@
+{
+  "id": "ionprojects-be",
+  "title": "ionProjects",
+  "subtitle": "ionBIZ is een complete project management software voor ICT, Engineering, Consultancy en andere project gedreven afde...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1711405458/icons/ionprojects-be.jpg",
+  "website": "https://www.ionprojects.be/"
+}

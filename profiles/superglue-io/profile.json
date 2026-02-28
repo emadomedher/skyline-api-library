@@ -1,0 +1,13 @@
+{
+  "id": "superglue-io",
+  "title": "Superglue",
+  "subtitle": "Turn your partners into your #1 revenue channel",
+  "tags": [
+    "partner-ecosystem"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651682864/icons/superglue-io.png",
+  "website": "https://www.superglue.io/"
+}

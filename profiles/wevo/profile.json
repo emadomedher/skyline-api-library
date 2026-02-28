@@ -1,0 +1,13 @@
+{
+  "id": "wevo",
+  "title": "WEVO",
+  "subtitle": "WEVO API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961953/catalog/wevo/icon128x128.png",
+  "website": "https://wevoconversion.com"
+}

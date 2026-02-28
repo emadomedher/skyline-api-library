@@ -1,0 +1,13 @@
+{
+  "id": "defined-ai",
+  "title": "Defined.ai",
+  "subtitle": "DefinedAi® is the world's leading AI training data marketplace. Buy, sell, or commission top-quality AI training data...",
+  "tags": [
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653082117/icons/defined-ai.jpg",
+  "website": "https://www.defined.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dreamfactory",
+  "title": "Dreamfactory",
+  "subtitle": "DreamFactory is a free, open source software package that provides a complete REST API for mobile, web, and IoT appli...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775053/catalog/dreamfactory/icon128x128.jpg",
+  "website": "https://dreamfactory.com"
+}

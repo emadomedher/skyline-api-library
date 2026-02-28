@@ -1,0 +1,14 @@
+{
+  "id": "cloras",
+  "title": "Cloras",
+  "subtitle": "Cloras - the iPaaS middleware for B2B & B2C, ERP Integration. Automate & accelerate your sales, now with eCommerce, C...",
+  "tags": [
+    "ipaas",
+    "erp"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669499/icons/cloras.jpg",
+  "website": "https://www.cloras.com/"
+}

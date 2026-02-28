@@ -1,0 +1,14 @@
+{
+  "id": "graphql-voyager",
+  "title": "GraphQL Voyager",
+  "subtitle": "️ Represent any GraphQL API as an interactive graph - APIs-guru/graphql-voyager",
+  "tags": [
+    "graphql",
+    "data-model-visualizers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724234/icons/graphql-voyager.png",
+  "website": "https://github.com/APIs-guru/graphql-voyager"
+}

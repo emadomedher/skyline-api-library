@@ -1,0 +1,13 @@
+{
+  "id": "tomocredit",
+  "title": "TomoCredit",
+  "subtitle": "Tomo is the next generation of credit card catered to young adults, students and immigrants looking to build a better...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616209382/icons/tomocredit.jpg",
+  "website": "https://www.tomocredit.com/"
+}

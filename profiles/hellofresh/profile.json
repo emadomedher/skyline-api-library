@@ -1,0 +1,13 @@
+{
+  "id": "hellofresh",
+  "title": "HelloFresh",
+  "subtitle": "America’s Most Popular Meal Kit ✅ Most 5-Star-Reviews ✅ Now offering the most recipe variety ✅ Fresh and affordable M...",
+  "tags": [
+    "meal-kit-delivery-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620731253/icons/hellofresh.jpg",
+  "website": "https://www.hellofresh.com/"
+}

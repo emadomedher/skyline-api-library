@@ -1,0 +1,13 @@
+{
+  "id": "wylei",
+  "title": "Wylei",
+  "subtitle": "Wylei API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961916/catalog/wylei/icon128x128.png",
+  "website": "https://wylei.com"
+}

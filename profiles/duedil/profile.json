@@ -1,0 +1,13 @@
+{
+  "id": "duedil",
+  "title": "DueDil ",
+  "subtitle": "DueDil helps companies find opportunities and mitigate risks, by providing the richest source of private company info...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947118/catalog/duedil/icon128x128.jpg",
+  "website": "https://duedil.com"
+}

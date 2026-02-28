@@ -1,0 +1,13 @@
+{
+  "id": "presentain",
+  "title": "Presentain",
+  "subtitle": "Presentain helps speakers engage and grow their audiences. You use smartphone as a clicker and audience can connect t...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721575/catalog/presentain/icon128x128.png",
+  "website": "https://presentain.com"
+}

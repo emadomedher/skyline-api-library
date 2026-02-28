@@ -1,0 +1,14 @@
+{
+  "id": "advicelocal",
+  "title": "Advice Local",
+  "subtitle": "Help businesses show up in local search results with Advice Local's business listing management software and solution...",
+  "tags": [
+    "seo",
+    "listing-management"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599594358/icons/advicelocal.jpg",
+  "website": "https://www.advicelocal.com/"
+}

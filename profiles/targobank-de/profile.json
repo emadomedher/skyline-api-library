@@ -1,0 +1,13 @@
+{
+  "id": "targobank-de",
+  "title": "Targobank",
+  "subtitle": "Targobank AG is a German bank mainly active in retail banking and is headquartered in Düsseldorf. Since 2008 it is pa...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595523764/icons/targobank-de.png",
+  "website": "https://www.targobank.de/"
+}

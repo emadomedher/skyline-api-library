@@ -1,0 +1,13 @@
+{
+  "id": "magicemail-io",
+  "title": "Magic Email",
+  "subtitle": "Magic Email is your AI-powered email assistant that summarises your emails and generates professional emails from bri...",
+  "tags": [
+    "email-writing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611375655/icons/magicemail-io.jpg",
+  "website": "https://magicemail.io/"
+}

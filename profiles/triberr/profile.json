@@ -1,0 +1,13 @@
+{
+  "id": "triberr",
+  "title": "Triberr",
+  "subtitle": "Triberr is a marketing automation suite for influencers and bloggers who want to amplify the reach of their content w...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827864/catalog/triberr/icon128x128.jpg",
+  "website": "https://triberr.com"
+}

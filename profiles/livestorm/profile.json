@@ -1,0 +1,14 @@
+{
+  "id": "livestorm",
+  "title": "Livestorm",
+  "subtitle": "Livestorm provides simple software for video communications for business. Host webinars, live, prerecorded or automat...",
+  "tags": [
+    "webinars"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528029/icons/livestorm.png",
+  "website": "https://livestorm.co",
+  "docsUrl": "https://support.livestorm.co/article/185-livestorm-api"
+}

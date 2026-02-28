@@ -1,0 +1,13 @@
+{
+  "id": "trumba",
+  "title": "Trumba",
+  "subtitle": "Trumba offers web-hosted event calendar software for publishing online, interactive, calendars of events.",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946447/catalog/trumba/icon128x128.png",
+  "website": "https://trumba.com"
+}

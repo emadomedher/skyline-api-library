@@ -1,0 +1,13 @@
+{
+  "id": "flexspring",
+  "title": "Flexspring",
+  "subtitle": "Flexspring handles HR data integration. It’s all we do. When experts connect your HR data, you have peace of mind.",
+  "tags": [
+    "hr-integration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1697114638/icons/flexspring.png",
+  "website": "https://www.flexspring.com/"
+}

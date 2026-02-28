@@ -1,0 +1,13 @@
+{
+  "id": "storytel",
+  "title": "Storytel",
+  "subtitle": "Luisterboeken op je telefoon. Meer dan 250.000 luisterboeken in één app. Ideaal voor in de auto, in het openbaar verv...",
+  "tags": [
+    "audiobooks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634146812/icons/storytel.png",
+  "website": "https://www.storytel.com/"
+}

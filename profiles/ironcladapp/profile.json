@@ -1,0 +1,15 @@
+{
+  "id": "ironcladapp",
+  "title": "Ironclad",
+  "subtitle": "Ironclad's contract management software is the only solution that lets companies design and deploy any type or comple...",
+  "tags": [
+    "contracts",
+    "contract-lifecycle-management",
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613353343/icons/ironcladapp.jpg",
+  "website": "https://ironcladapp.com/"
+}

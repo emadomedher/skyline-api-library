@@ -1,0 +1,15 @@
+{
+  "id": "prove",
+  "title": "Prove",
+  "subtitle": "With 1 billion+ consumer and small business identity tokens under continuous management, Prove’s Phone-Centric Identi...",
+  "tags": [
+    "identity-verification",
+    "kyc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635622862/icons/prove.jpg",
+  "website": "https://www.prove.com/",
+  "docsUrl": "https://www.prove.com/latest-news-insights/developer-blogs"
+}

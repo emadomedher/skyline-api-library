@@ -1,0 +1,14 @@
+{
+  "id": "etleap",
+  "title": "Etleap",
+  "subtitle": "Etleap API integration",
+  "tags": [
+    "etl",
+    "data-pipelines"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080689/catalog/etleap/icon128x128.jpg",
+  "website": "https://etleap.com/"
+}

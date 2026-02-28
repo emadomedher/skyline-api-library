@@ -1,0 +1,14 @@
+{
+  "id": "absorblms",
+  "title": "Absorb LMS",
+  "subtitle": "Absorb LMS is a learning management system built to accelerate learning and drive results. Our learning platform focu...",
+  "tags": [
+    "channel-learning-and-readiness",
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075919/icons/absorblms.jpg",
+  "website": "https://www.absorblms.com/"
+}

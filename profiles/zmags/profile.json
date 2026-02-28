@@ -1,0 +1,13 @@
+{
+  "id": "zmags",
+  "title": "Zmags",
+  "subtitle": "Create engaging digital content, both interactive and shoppable, with no coding. Stand apart with rich digital experi...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946305/catalog/zmags/icon128x128.jpg",
+  "website": "https://zmags.com"
+}

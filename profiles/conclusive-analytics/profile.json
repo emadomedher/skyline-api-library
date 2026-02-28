@@ -1,0 +1,13 @@
+{
+  "id": "conclusive-analytics",
+  "title": "Conclusive Analytics",
+  "subtitle": "Conclusive Analytics API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830134/catalog/conclusive-analytics/icon128x128.png",
+  "website": "https://conclusiveanalytics.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "blogger",
+  "title": "Blogger",
+  "subtitle": "Blogger is an easy-to-use, popular and free web blog publishing service provided by Google. There are millions of blo...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055828/catalog/blogger/icon128x128.png",
+  "website": "https://blogger.com"
+}

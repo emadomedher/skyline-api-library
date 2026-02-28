@@ -1,0 +1,13 @@
+{
+  "id": "opencart",
+  "title": "OpenCart",
+  "subtitle": "OpenCart API integration",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554327571/catalog/opencart/icon128x128.png",
+  "website": "https://www.opencart.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "getfondue",
+  "title": "Fondue",
+  "subtitle": "Fondue helps Brands drive profitable growth with CashBack. Seamlessly brand-embedded, CashBack replaces discount code...",
+  "tags": [
+    "cashback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663733263/icons/getfondue.png",
+  "website": "https://www.getfondue.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "extrawatch",
+  "title": "ExtraWatch",
+  "subtitle": "Visitor tracking tool, counter, heat map, click density, conversion tracking, anti-spam, mobile devices, social media...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720040/catalog/extrawatch/icon128x128.png",
+  "website": "https://extrawatch.com"
+}

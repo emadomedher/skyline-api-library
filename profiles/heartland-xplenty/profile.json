@@ -1,0 +1,13 @@
+{
+  "id": "heartland-xplenty",
+  "title": "Heartland XPIENT",
+  "subtitle": "Heartland XPIENT API integration",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171253/catalog/heartland-xplenty/icon128x128.png",
+  "website": "https://www.hcomm.us/en/restaurant-pos/xpient"
+}

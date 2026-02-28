@@ -1,0 +1,14 @@
+{
+  "id": "sunhotels",
+  "title": "Sunhotels",
+  "subtitle": "Sunhotels API integration",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612673142/icons/sunhotels.png",
+  "website": "https://www.sunhotels.com/"
+}

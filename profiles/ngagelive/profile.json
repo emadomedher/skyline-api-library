@@ -1,0 +1,13 @@
+{
+  "id": "ngagelive",
+  "title": "NgageLiveChat",
+  "subtitle": "The chat support software that you're looking for your business. Convert visitors into paying customers. Take sales a...",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017775/icons/ngagelive.png",
+  "website": "https://www.ngagelive.com/"
+}

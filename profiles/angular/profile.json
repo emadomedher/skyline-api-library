@@ -1,0 +1,15 @@
+{
+  "id": "angular",
+  "title": "Angular",
+  "subtitle": "Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.",
+  "tags": [
+    "programming",
+    "javascript",
+    "frontend-framework"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557669948/catalog/angular/icon128x128.png",
+  "website": "https://angular.io/"
+}

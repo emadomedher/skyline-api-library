@@ -1,0 +1,15 @@
+{
+  "id": "securionpay",
+  "title": "SecurionPay",
+  "subtitle": "An online payment platform designed to maximize merchants revenue. Get a free quote on high risk merchant services & ...",
+  "tags": [
+    "subscription-billing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595706292/icons/securionpay.jpg",
+  "website": "https://securionpay.com/",
+  "docsUrl": "https://securionpay.com/docs/privacy"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "airbeam-io",
+  "title": "Airbeam",
+  "subtitle": "Turn your designs into coded components. Streamline your interface design process, reduce handoff times and improve d...",
+  "tags": [
+    "design-systems",
+    "design",
+    "styleguides"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567068055/catalog/airbeam-io/icon128x128.png",
+  "website": "https://airbeam.io/"
+}

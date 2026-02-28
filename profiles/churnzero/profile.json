@@ -1,0 +1,13 @@
+{
+  "id": "churnzero",
+  "title": "Churnzero",
+  "subtitle": "ChurnZero is the Customer Success Software built for growing SaaS and subscription businesses. Fight customer churn &...",
+  "tags": [
+    "churn-protection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719427/catalog/churnzero/icon128x128.jpg",
+  "website": "https://churnzero.net"
+}

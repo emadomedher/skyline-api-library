@@ -1,0 +1,14 @@
+{
+  "id": "bejamas-io",
+  "title": "Bejamas",
+  "subtitle": "Lightning fast, secure, and SEO-friendly websites, web apps, and e-commerce. If that’s what you’re looking for - we’r...",
+  "tags": [
+    "development-agencies",
+    "jamstack"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594081826/icons/bejamas-io.jpg",
+  "website": "https://bejamas.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "engageya",
+  "title": "Engageya",
+  "subtitle": "Engageya is the world’s largest content and native advertising platform for emerging markets, with vast reach in: Nor...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434403/catalog/engageya/icon128x128.png",
+  "website": "https://engageya.com"
+}

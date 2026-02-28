@@ -1,0 +1,12 @@
+{
+  "id": "pdf",
+  "title": "PDF",
+  "subtitle": "The Portable Document Format (PDF) is a file format developed by Adobe in the 1990s to present documents, including t...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590424538/catalog/pdf/icon128x128.png"
+}

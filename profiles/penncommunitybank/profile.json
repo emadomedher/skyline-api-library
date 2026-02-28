@@ -1,0 +1,13 @@
+{
+  "id": "penncommunitybank",
+  "title": "Penn Community Bank",
+  "subtitle": "Penn Community Bank is the top community bank for personal, small business and commercial business banking in Bucks, ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528018/icons/penncommunitybank.jpg",
+  "website": "https://www.penncommunitybank.com/"
+}

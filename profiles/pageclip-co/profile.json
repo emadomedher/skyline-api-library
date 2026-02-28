@@ -1,0 +1,14 @@
+{
+  "id": "pageclip-co",
+  "title": "Pageclip",
+  "subtitle": "Pageclip is a server for your HTML forms. Collect info from users without a\n    server-Pageclip is your server. Use i...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615632965/icons/pageclip-co.png",
+  "website": "https://pageclip.co/",
+  "docsUrl": "https://pageclip.co/docs"
+}

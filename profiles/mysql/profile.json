@@ -1,0 +1,13 @@
+{
+  "id": "mysql",
+  "title": "MySQL",
+  "subtitle": "MySQL is a premier database used in millions of production environments around the world. Easily plug your MySQL data...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456749/catalog/mysql/icon128x128.png",
+  "website": "https://www.mysql.com/"
+}

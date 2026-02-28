@@ -1,0 +1,14 @@
+{
+  "id": "darksky-net",
+  "title": "The Dark Sky Company",
+  "subtitle": "Dark Sky is the most accurate source of hyperlocal weather information: with down-to-the-minute forecasts for your ex...",
+  "tags": [
+    "weather-data",
+    "weather-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574204048/catalog/darksky-net/icon128x128.png",
+  "website": "https://darksky.net/"
+}

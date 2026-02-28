@@ -1,0 +1,12 @@
+{
+  "id": "ezidox",
+  "title": "ezidox",
+  "subtitle": "Ezidox is a cloud-based platform for automating and simplifying the collection and exchange of documents required for...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304887/catalog/ezidox/icon128x128.png"
+}

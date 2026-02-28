@@ -1,0 +1,14 @@
+{
+  "id": "livedocs",
+  "title": "Livedocs",
+  "subtitle": "Bring live data into your documents and build powerful automations that supercharge your workflows",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698444/icons/livedocs.jpg",
+  "website": "https://livedocs.com/",
+  "docsUrl": "https://www.producthunt.com/posts/livedocs-2"
+}

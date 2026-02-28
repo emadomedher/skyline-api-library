@@ -1,0 +1,13 @@
+{
+  "id": "floodlight-analytics",
+  "title": "Floodlight Analytics",
+  "subtitle": "Floodlight Analytics API integration",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566876701/catalog/floodlight-analytics/icon128x128.png",
+  "website": "https://floodlightanalytics.com"
+}

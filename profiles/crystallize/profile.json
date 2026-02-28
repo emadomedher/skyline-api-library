@@ -1,0 +1,14 @@
+{
+  "id": "crystallize",
+  "title": "Crystallize",
+  "subtitle": "Crystallize is a blazing fast headless commerce service with a GraphQL based PIM so you can deliver a unique customer...",
+  "tags": [
+    "headless-ecommerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075903/icons/crystallize.jpg",
+  "website": "https://crystallize.com/",
+  "docsUrl": "https://crystallize.com/developers"
+}

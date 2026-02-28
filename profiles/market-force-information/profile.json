@@ -1,0 +1,13 @@
+{
+  "id": "market-force-information",
+  "title": "Market Force Information",
+  "subtitle": "Market Force Information API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435751/catalog/market-force-information/icon128x128.png",
+  "website": "https://marketforce.com"
+}

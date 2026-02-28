@@ -1,0 +1,15 @@
+{
+  "id": "kite",
+  "title": "Kite.com",
+  "subtitle": "Code faster with Kite’s AI-powered autocomplete plugin for over 13 programming languages and 16 IDEs, featuring Multi...",
+  "tags": [
+    "code-completion",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603308295/icons/kite.jpg",
+  "website": "https://www.kite.com/",
+  "docsUrl": "https://www.businessinsider.com/developer-startup-kite-launches-first-paid-product-javascript-support-2020-5"
+}

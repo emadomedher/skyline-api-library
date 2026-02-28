@@ -1,0 +1,15 @@
+{
+  "id": "edgedb",
+  "title": "EdgeDB",
+  "subtitle": "EdgeDB is an open-source database designed as a spiritual successor to SQL and the relational paradigm.",
+  "tags": [
+    "databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667856384/icons/edgedb.png",
+  "website": "https://www.edgedb.com/",
+  "docsUrl": "https://www.edgedb.com/docs"
+}

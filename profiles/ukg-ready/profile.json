@@ -1,0 +1,15 @@
+{
+  "id": "ukg-ready",
+  "title": "UKG Ready",
+  "subtitle": "Leverage the power of HR, talent, payroll, and time in a single solution that increases efficiency and simplifies com...",
+  "tags": [
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1694886923/icons/ukg-ready.jpg",
+  "website": "https://www.ukg.com/solutions/ukg-ready-suite",
+  "docsUrl": "https://secure3.saashr.com/ta/docs/rest/public/"
+}

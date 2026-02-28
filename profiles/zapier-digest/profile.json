@@ -1,0 +1,14 @@
+{
+  "id": "zapier-digest",
+  "title": "Digest by Zapier",
+  "subtitle": "Digest captures info from multiple events in your workflows and collects them in a single easily consumed summary tha...",
+  "tags": [
+    "zapier-tools",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809856/catalog/zapier-digest/icon128x128.png",
+  "website": "https://zapier.com/"
+}

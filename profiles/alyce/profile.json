@@ -1,0 +1,15 @@
+{
+  "id": "alyce",
+  "title": "Alyce",
+  "subtitle": "Sales reps use Alyce for strategic B2B gifting. An ABM solution, Alyce works as a door-opener or to continue to devel...",
+  "tags": [
+    "sales-productivity",
+    "direct-mail",
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574204051/catalog/alyce/icon128x128.jpg",
+  "website": "https://www.alyce.com/"
+}

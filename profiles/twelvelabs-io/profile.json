@@ -1,0 +1,14 @@
+{
+  "id": "twelvelabs-io",
+  "title": "Twelve Labs",
+  "subtitle": "Twelve Labs helps developers make programs that can see, listen, and understand the world as we do by giving them the...",
+  "tags": [
+    "video-search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671591067/icons/twelvelabs-io.jpg",
+  "website": "https://twelvelabs.io/",
+  "docsUrl": "https://docs.twelvelabs.io"
+}

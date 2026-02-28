@@ -1,0 +1,14 @@
+{
+  "id": "astra-finance",
+  "title": "Astra",
+  "subtitle": "An API to fund customer accounts and add financial automation to your product.",
+  "tags": [
+    "money-movement-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651682969/icons/astra-finance.png",
+  "website": "https://astra.finance/",
+  "docsUrl": "https://docs.astra.finance"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "e-deal-crm",
+  "title": "E-DEAL CRM",
+  "subtitle": "E-DEAL is the French CRM market leader. With 90.000 users, E-DEAL supports your digital evolution. Request your onlin...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947110/catalog/e-deal-crm/icon128x128.jpg",
+  "website": "https://e-deal.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "alliancehcm",
+  "title": "AllianceHCM",
+  "subtitle": "AllianceHCM unites technology, expertise and service to deliver a complete payroll and HR platform.",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1694886927/icons/alliancehcm.jpg",
+  "website": "https://alliancehcm.com/"
+}

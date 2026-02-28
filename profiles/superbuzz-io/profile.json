@@ -1,0 +1,13 @@
+{
+  "id": "superbuzz-io",
+  "title": "SuperBuzz",
+  "subtitle": "SuperBuzz API integration",
+  "tags": [
+    "ad-campaign-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672207735/icons/superbuzz-io.png",
+  "website": "https://www.superbuzz.io/"
+}

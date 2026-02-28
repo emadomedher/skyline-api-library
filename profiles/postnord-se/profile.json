@@ -1,0 +1,14 @@
+{
+  "id": "postnord-se",
+  "title": "PostNord Sverige",
+  "subtitle": "Spåra brev och paket eller använd dig av PostNords andra tjänster och verktyg för att skicka och ta emot din post.",
+  "tags": [
+    "shipping-carriers",
+    "postal-companies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598943231/icons/postnord-se.jpg",
+  "website": "https://www.postnord.se/"
+}

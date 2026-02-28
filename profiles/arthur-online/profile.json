@@ -1,0 +1,13 @@
+{
+  "id": "arthur-online",
+  "title": "Arthur Online",
+  "subtitle": "Arthur Online is a property management solution like no other. It brings together in one place property managers, ten...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829019/catalog/arthur-online/icon128x128.png",
+  "website": "https://arthuronline.co.uk"
+}

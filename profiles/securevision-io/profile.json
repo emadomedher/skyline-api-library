@@ -1,0 +1,13 @@
+{
+  "id": "securevision-io",
+  "title": "SecureVision",
+  "subtitle": "SecureVision builds high-velocity talent acquisition solutions that are sustainable, predictable, reportable, and sca...",
+  "tags": [
+    "embedded-recruitment-firm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082028/icons/securevision-io.jpg",
+  "website": "https://www.securevision.io/"
+}

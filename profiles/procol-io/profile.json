@@ -1,0 +1,13 @@
+{
+  "id": "procol-io",
+  "title": "Procol",
+  "subtitle": "Procol is the next generation procurement software which is user-friendly, cost effective with data intelligence prov...",
+  "tags": [
+    "procurement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655856324/icons/procol-io.jpg",
+  "website": "https://www.procol.io/"
+}

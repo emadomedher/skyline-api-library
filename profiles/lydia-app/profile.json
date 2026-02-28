@@ -1,0 +1,14 @@
+{
+  "id": "lydia-app",
+  "title": "Lydia",
+  "subtitle": "Instantly send money to friends and pay contactless anywhere with your phone. Shared accounts, money pots, card with ...",
+  "tags": [
+    "p2p-payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591042193/catalog/lydia-app/icon128x128.jpg",
+  "website": "https://lydia-app.com/"
+}

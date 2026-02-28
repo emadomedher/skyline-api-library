@@ -1,0 +1,13 @@
+{
+  "id": "mailpoet",
+  "title": "MailPoet",
+  "subtitle": "WordPress newsletter plugin trusted by 300,000 websites. Collect subscribers with signup forms, send newsletters, aut...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720961/catalog/mailpoet/icon128x128.jpg",
+  "website": "https://mailpoet.com"
+}

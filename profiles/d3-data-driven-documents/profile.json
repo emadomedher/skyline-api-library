@@ -1,0 +1,13 @@
+{
+  "id": "d3-data-driven-documents",
+  "title": "D3 - Data Driven Documents",
+  "subtitle": "D3 - Data Driven Documents API integration",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964115/catalog/d3-data-driven-documents/icon128x128.png",
+  "website": "https://d3js.org"
+}

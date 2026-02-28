@@ -1,0 +1,14 @@
+{
+  "id": "stardekk",
+  "title": "Stardekk",
+  "subtitle": "Stardekk is a company that makes cloud-based software and web design for the hospitality industry. Simplify managemen...",
+  "tags": [
+    "hotel",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610136291/icons/stardekk.jpg",
+  "website": "https://www.stardekk.com/"
+}

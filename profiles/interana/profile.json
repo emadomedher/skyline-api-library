@@ -1,0 +1,13 @@
+{
+  "id": "interana",
+  "title": "Interana",
+  "subtitle": "Interana API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435203/catalog/interana/icon128x128.png",
+  "website": "https://interana.com"
+}

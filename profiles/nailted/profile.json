@@ -1,0 +1,15 @@
+{
+  "id": "nailted",
+  "title": "Nailted",
+  "subtitle": "The best way to get a team aligned with your company culture. Understand, motivate and boost the performance of your ...",
+  "tags": [
+    "company-culture",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588579221/catalog/nailted/icon128x128.png",
+  "website": "https://nailted.com/",
+  "docsUrl": "https://nailted.com/assets/docs/politica_privacidad.pdf"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "amazon-ses",
+  "title": "Amazon SES",
+  "subtitle": "Amazon Simple Email Service is a scalable and cost-effective email sending service tailored for both bulk and transac...",
+  "tags": [
+    "transactional-email",
+    "amazon-web-services-(aws)"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054208/catalog/amazon-ses/icon128x128.png",
+  "website": "https://aws.amazon.com/ses/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rossum-ai",
+  "title": "Rossum",
+  "subtitle": "To automate document communication and focus on your business instead, read more about Rossum’s unique approach and i...",
+  "tags": [
+    "document-processing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975825/icons/rossum-ai.jpg",
+  "website": "https://rossum.ai/",
+  "docsUrl": "https://rossum.ai/developers"
+}

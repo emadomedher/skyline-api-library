@@ -1,0 +1,14 @@
+{
+  "id": "securedocs",
+  "title": "SecureDocs",
+  "subtitle": "An easy-to-use data and secure data room that allows you to move through transactions quickly, collect deeper insight...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642313083/icons/securedocs.jpg",
+  "website": "https://www.securedocs.com/",
+  "docsUrl": "https://www-securedocs-com.sandbox.hs-sites.com/start-free-trial?__hstc=65292529.085bd414d294c8e4abafa71a47312d79.1642310206828.1642310206828.1642310206828.1&__hssc=65292529.1.1642310206829&__hsfp=3805097892"
+}

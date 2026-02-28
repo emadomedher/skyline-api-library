@@ -1,0 +1,13 @@
+{
+  "id": "snaptrends",
+  "title": "Snaptrends",
+  "subtitle": "We empower organizations to leverage location-based social media intelligence to follow conversations around their br...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722170/catalog/snaptrends/icon128x128.png",
+  "website": "https://snaptrends.com"
+}

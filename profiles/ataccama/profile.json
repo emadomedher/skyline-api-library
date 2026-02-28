@@ -1,0 +1,15 @@
+{
+  "id": "ataccama",
+  "title": "Ataccama",
+  "subtitle": "Helping you to build an agile, data-driven organization, where data people have the power to drive the change.",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement",
+    "data-quality"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433117/catalog/ataccama/icon128x128.png",
+  "website": "https://ataccama.com",
+  "docsUrl": "https://docs.ataccama.com"
+}

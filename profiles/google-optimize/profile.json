@@ -1,0 +1,13 @@
+{
+  "id": "google-optimize",
+  "title": "Google Optimize",
+  "subtitle": "Google Optimize API integration",
+  "tags": [
+    "a/b-testing"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567462980/catalog/google-optimize/icon128x128.png",
+  "website": "https://marketingplatform.google.com/about/optimize/"
+}

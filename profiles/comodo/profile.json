@@ -1,0 +1,15 @@
+{
+  "id": "comodo",
+  "title": "Comodo",
+  "subtitle": "Comodo, the leading Cybersecurity Platform offers best Antivirus, Internet Security, Endpoint Security and Website Se...",
+  "tags": [
+    "ssl-certificates",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578046549/catalog/comodo/icon128x128.jpg",
+  "website": "https://www.comodo.com/",
+  "docsUrl": "https://help.comodo.com/"
+}

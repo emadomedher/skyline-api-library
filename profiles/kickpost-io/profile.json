@@ -1,0 +1,13 @@
+{
+  "id": "kickpost-io",
+  "title": "KickPost",
+  "subtitle": "Effortlessly connect to your industry partners on KickPost, the most efficient way to deliver, organize, and receive ...",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594230632/icons/kickpost-io.png",
+  "website": "https://kickpost.io"
+}

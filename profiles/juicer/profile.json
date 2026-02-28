@@ -1,0 +1,13 @@
+{
+  "id": "juicer",
+  "title": "Juicer",
+  "subtitle": "Juicer is a simple way to aggregate all of your social media into a beautiful social media feed and embed it on your ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720624/catalog/juicer/icon128x128.jpg",
+  "website": "https://juicer.io"
+}

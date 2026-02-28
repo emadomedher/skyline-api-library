@@ -1,0 +1,13 @@
+{
+  "id": "sagesure",
+  "title": "SageSure",
+  "subtitle": "SageSure is the trusted expert for homeowners insurance in the most challenged areas of coastal states.",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640050190/icons/sagesure.jpg",
+  "website": "https://www.sagesure.com/"
+}

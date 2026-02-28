@@ -1,0 +1,13 @@
+{
+  "id": "compensa-io",
+  "title": "Compensa",
+  "subtitle": "null",
+  "tags": [
+    "employee-retention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646844829/icons/compensa-io.jpg",
+  "website": "https://www.compensa.io/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ibanity",
+  "title": "Ibanity",
+  "subtitle": "Connect your app to our financial services.",
+  "tags": [
+    "fintech",
+    "api-aggregators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563111404/catalog/ibanity/icon128x128.jpg",
+  "website": "https://ibanity.com",
+  "docsUrl": "https://documentation.ibanity.com"
+}

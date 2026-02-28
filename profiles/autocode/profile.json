@@ -1,0 +1,15 @@
+{
+  "id": "autocode",
+  "title": "Autocode",
+  "subtitle": "Build webhooks, scripts and integrate APIs. When AWS is overkill, use Autocode to go from prototype to production-hos...",
+  "tags": [
+    "cloud-ide",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597863191/icons/autocode.jpg",
+  "website": "https://autocode.com/",
+  "docsUrl": "https://docs.autocode.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "roboflow",
+  "title": "Roboflow",
+  "subtitle": "Even if you're not a machine learning expert, you can use Roboflow train a custom, state-of-the-art computer vision m...",
+  "tags": [
+    "machine-learning",
+    "computer-vision"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598443576/icons/roboflow.jpg",
+  "website": "https://roboflow.com/",
+  "docsUrl": "https://docs.roboflow.com"
+}

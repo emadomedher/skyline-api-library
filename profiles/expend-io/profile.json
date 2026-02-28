@@ -1,0 +1,13 @@
+{
+  "id": "expend-io",
+  "title": "Expend",
+  "subtitle": "Expend helping businesses to go beyond expenses by combining with the power of our smart payment card and expense man...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591878932/icons/expend-io.jpg",
+  "website": "https://expend.io/"
+}

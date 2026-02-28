@@ -1,0 +1,13 @@
+{
+  "id": "chaport",
+  "title": "Chaport",
+  "subtitle": "Grow your business with Chaport — modern live chat software for websites. Start talking to your customers today and i...",
+  "tags": [
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569892404/catalog/chaport/icon128x128.jpg",
+  "website": "https://www.chaport.com/"
+}

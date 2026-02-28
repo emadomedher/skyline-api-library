@@ -1,0 +1,14 @@
+{
+  "id": "announcekit",
+  "title": "AnnounceKit",
+  "subtitle": "A changelog service with fancy in-product widgets you can use on your website. Announce latest product updates and re...",
+  "tags": [
+    "changelog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559568021/catalog/announcekit/icon128x128.png",
+  "website": "https://announcekit.app",
+  "docsUrl": "https://announcekit.app/docs"
+}

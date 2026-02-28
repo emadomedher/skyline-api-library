@@ -1,0 +1,14 @@
+{
+  "id": "versio-nl",
+  "title": "Versio BV",
+  "subtitle": "Kwalitatieve hosting, domeinnamen en SSL certificaten voor de laagste prijs! Als beste beoordeeld door klanten.",
+  "tags": [
+    "hosting",
+    "dns"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578164997/catalog/versio-nl/icon128x128.png",
+  "website": "https://www.versio.nl/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "arteel",
+  "title": "Arteel",
+  "subtitle": "Arteel API integration",
+  "tags": [
+    "employee-recognition",
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670902825/icons/arteel.png",
+  "website": "https://arteel.com/",
+  "docsUrl": "https://arteel.com/cookie-policy-eu/#cmplz-manage-consent-container"
+}

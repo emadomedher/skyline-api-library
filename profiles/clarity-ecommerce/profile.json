@@ -1,0 +1,13 @@
+{
+  "id": "clarity-ecommerce",
+  "title": "Clarity eCommerce",
+  "subtitle": "Clarity eCommerce API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433733/catalog/clarity-ecommerce/icon128x128.png",
+  "website": "https://clarity-ventures.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "olea",
+  "title": "Olea Kiosks",
+  "subtitle": "Olea Kiosks Inc. is the leading Kiosk design and manufacturer of standard and custom Kiosks. For over 40 years.",
+  "tags": [
+    "kiosk",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634599524/icons/olea.jpg",
+  "website": "https://www.olea.com/"
+}

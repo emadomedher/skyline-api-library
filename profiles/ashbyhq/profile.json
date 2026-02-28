@@ -1,0 +1,15 @@
+{
+  "id": "ashbyhq",
+  "title": "Ashby",
+  "subtitle": "Ashby’s all-in-one recruiting software consolidates your ATS, Analytics, Scheduling, and CRM",
+  "tags": [
+    "recruiting",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607849127/icons/ashbyhq.png",
+  "website": "https://www.ashbyhq.com/",
+  "docsUrl": "https://developers.ashbyhq.com"
+}

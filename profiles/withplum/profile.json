@@ -1,0 +1,16 @@
+{
+  "id": "withplum",
+  "title": "Plum",
+  "subtitle": "Build up your savings, invest in things that matter and spend less on those pesky bills. Sign up now, it's free ❤️",
+  "tags": [
+    "savings",
+    "investments",
+    "chat-bot",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567666947/catalog/withplum/icon128x128.jpg",
+  "website": "https://withplum.com/"
+}

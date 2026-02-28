@@ -1,0 +1,15 @@
+{
+  "id": "efficientip",
+  "title": "EfficientIP",
+  "subtitle": "EfficientIP provides innovative DDI (DNS-DHCP-IPAM), network automation and DNS security solutions for the availabili...",
+  "tags": [
+    "network-security",
+    "dns"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576974675/catalog/efficientip/icon128x128.png",
+  "website": "https://www.efficientip.com/",
+  "docsUrl": "https://www.efficientip.com/resources/#solutions_documentation"
+}

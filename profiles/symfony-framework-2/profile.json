@@ -1,0 +1,14 @@
+{
+  "id": "symfony-framework-2",
+  "title": "Symfony 2",
+  "subtitle": "Symfony is a set of reusable PHP components and a PHP framework to build web applications, APIs, microservices and we...",
+  "tags": [
+    "programming-framework",
+    "php"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563055994/catalog/symfony-framework-2/icon128x128.png",
+  "website": "https://symfony.com/"
+}

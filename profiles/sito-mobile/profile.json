@@ -1,0 +1,13 @@
+{
+  "id": "sito-mobile",
+  "title": "Sito Mobile",
+  "subtitle": "Sito Mobile API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437389/catalog/sito-mobile/icon128x128.png",
+  "website": "https://sitomobile.com"
+}

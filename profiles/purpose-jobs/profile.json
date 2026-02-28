@@ -1,0 +1,13 @@
+{
+  "id": "purpose-jobs",
+  "title": "Purpose Jobs",
+  "subtitle": "Purpose Jobs matches job seekers with startups based on culture contribution and experience. Join the Midwest's large...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990359/icons/purpose-jobs.jpg",
+  "website": "https://www.purpose.jobs/"
+}

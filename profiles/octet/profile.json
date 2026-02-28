@@ -1,0 +1,14 @@
+{
+  "id": "octet",
+  "title": "Octet",
+  "subtitle": "Octet's flexible working capital solutions, including Trade and Debtor Finance help to power your business growth. Yo...",
+  "tags": [
+    "working-capital",
+    "business-lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662389208/icons/octet.png",
+  "website": "https://www.octet.com/"
+}

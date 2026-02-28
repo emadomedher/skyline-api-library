@@ -1,0 +1,13 @@
+{
+  "id": "restream-io",
+  "title": "Restream",
+  "subtitle": "Restream is the best way to live stream to YouTube, Twitch, Facebook, and 30+ streaming sites at once. Expand your au...",
+  "tags": [
+    "live-streaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588537650/catalog/restream-io/icon128x128.jpg",
+  "website": "https://restream.io/"
+}

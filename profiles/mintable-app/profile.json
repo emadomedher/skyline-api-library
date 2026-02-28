@@ -1,0 +1,13 @@
+{
+  "id": "mintable-app",
+  "title": "Mintable",
+  "subtitle": "The best digital items marketplace to sell blockchain items",
+  "tags": [
+    "nft-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615681928/icons/mintable-app.png",
+  "website": "https://mintable.app/"
+}

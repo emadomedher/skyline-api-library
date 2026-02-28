@@ -1,0 +1,14 @@
+{
+  "id": "column",
+  "title": "Column",
+  "subtitle": "The only nationally chartered bank built to enable developers and builders to create new financial services.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650579963/icons/column.jpg",
+  "website": "https://column.com/",
+  "docsUrl": "https://column.com/bank-accounts"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "irispay-io",
+  "title": "IRIS",
+  "subtitle": "IRIS API integration",
+  "tags": [
+    "biometric-payments",
+    "biometric-authentication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605055351/icons/irispay-io.jpg",
+  "website": "https://irispay.io/"
+}

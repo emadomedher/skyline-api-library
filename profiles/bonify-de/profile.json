@@ -1,0 +1,14 @@
+{
+  "id": "bonify-de",
+  "title": "bonify",
+  "subtitle": "Kostenlose Bonitätsprüfung online & Transparenz über Kreditwürdigkeit. Jetzt kostenlos abfragen! Nur mit bonify! Dein...",
+  "tags": [
+    "credit-scoring",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563450486/catalog/bonify-de/icon128x128.png",
+  "website": "https://bonify.de"
+}

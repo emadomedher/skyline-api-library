@@ -1,0 +1,13 @@
+{
+  "id": "dataliciousequifax",
+  "title": "Datalicious/Equifax",
+  "subtitle": "Marketing data specialists for any data maturity stage. Datalicious is a global data analytics agency that helps mark...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719725/catalog/dataliciousequifax/icon128x128.jpg",
+  "website": "https://datalicious.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "linebk",
+  "title": "Line BK",
+  "subtitle": "Line BK is a social banking platform in Thailand formed by a collaboration between Kasikornbank (KBank) and Line Corp...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604118581/icons/linebk.jpg",
+  "website": "https://linebk.com/"
+}

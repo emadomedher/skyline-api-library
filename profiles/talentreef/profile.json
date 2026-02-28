@@ -1,0 +1,13 @@
+{
+  "id": "talentreef",
+  "title": "TalentReef",
+  "subtitle": "Our talent management system features innovative workforce management tools that are built for location-based, high-v...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082009/icons/talentreef.jpg",
+  "website": "https://www.talentreef.com/"
+}

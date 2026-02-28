@@ -1,0 +1,13 @@
+{
+  "id": "ninjaoutreach",
+  "title": "NinjaOutreach",
+  "subtitle": "Influencer Marketing & Blogger Outreach software that streamlines your influencer marketing and lead generation proce...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946782/catalog/ninjaoutreach/icon128x128.jpg",
+  "website": "https://ninjaoutreach.com"
+}

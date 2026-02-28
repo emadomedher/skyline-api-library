@@ -1,0 +1,14 @@
+{
+  "id": "speakeasyapi-dev",
+  "title": "Speakeasy",
+  "subtitle": "The Developer Experience your API users need.",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667856379/icons/speakeasyapi-dev.jpg",
+  "website": "https://www.speakeasyapi.dev/",
+  "docsUrl": "https://www.speakeasyapi.dev/product#product-dev-portal"
+}

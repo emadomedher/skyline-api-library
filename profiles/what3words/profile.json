@@ -1,0 +1,13 @@
+{
+  "id": "what3words",
+  "title": "what3words",
+  "subtitle": "what3words is the simplest way to talk about location. We've divided the world into a grid of 3m x 3m squares and ass...",
+  "tags": [
+    "location"
+  ],
+  "category": "Maps & Geolocation",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578989959/catalog/what3words/icon128x128.jpg",
+  "website": "https://what3words.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ab-tasty",
+  "title": "A/B Tasty",
+  "subtitle": "AB Tasty is a fast-growing provider of AI-powered experimentation, personalization and feature management solutions, ...",
+  "tags": [
+    "optimization-personalization-and-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717084/catalog/ab-tasty/icon128x128.jpg",
+  "website": "https://abtasty.com",
+  "docsUrl": "https://support.abtasty.com"
+}

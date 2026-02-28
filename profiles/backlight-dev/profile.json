@@ -1,0 +1,14 @@
+{
+  "id": "backlight-dev",
+  "title": "Backlight.dev",
+  "subtitle": "Empower your front-end with a collaborative design system platform: code, design, stories, tests, documentation, vers...",
+  "tags": [
+    "design-system"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646112153/icons/backlight-dev.jpg",
+  "website": "https://backlight.dev/",
+  "docsUrl": "https://backlight.dev/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "informer-nl",
+  "title": "InformerOnline",
+  "subtitle": "Snel en eenvoudig online boekhoudprogramma voor ZZP en MKB. ✅ Keurmerk Zeker-OnLine, Betrouwbaar Boekhouden en Truste...",
+  "tags": [
+    "accounting",
+    "invoicing"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565345001/catalog/informer-nl/icon128x128.png",
+  "website": "https://informer.nl"
+}

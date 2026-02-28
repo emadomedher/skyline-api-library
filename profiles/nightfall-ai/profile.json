@@ -1,0 +1,15 @@
+{
+  "id": "nightfall-ai",
+  "title": "Nightfall",
+  "subtitle": "Discover, classify, and protect sensitive data across 100+ cloud apps & infrastructure. Cloud data loss prevention (D...",
+  "tags": [
+    "data-loss-prevention",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666379/icons/nightfall-ai.jpg",
+  "website": "https://nightfall.ai/",
+  "docsUrl": "https://nightfall.ai/api"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "henchman-io",
+  "title": "Henchman",
+  "subtitle": "Henchman API integration",
+  "tags": [
+    "legaltech",
+    "contract"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620223364/icons/henchman-io.png",
+  "website": "https://henchman.io/"
+}

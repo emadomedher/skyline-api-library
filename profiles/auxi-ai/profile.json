@@ -1,0 +1,13 @@
+{
+  "id": "auxi-ai",
+  "title": "auxi",
+  "subtitle": "auxi is the most advanced powerpoint add-in on the market. auxi has been built specifically for management consultant...",
+  "tags": [
+    "presentation-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675229347/icons/auxi-ai.png",
+  "website": "https://www.auxi.ai/"
+}

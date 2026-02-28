@@ -1,0 +1,15 @@
+{
+  "id": "thetalake",
+  "title": "Theta Lake",
+  "subtitle": "Theta Lake is a next-generation video classification startup dedicated to addressing the challenges organizations fac...",
+  "tags": [
+    "compliance",
+    "regtech",
+    "video"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305953/catalog/thetalake/icon128x128.png",
+  "website": "https://thetalake.com"
+}

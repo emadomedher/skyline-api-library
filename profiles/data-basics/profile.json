@@ -1,0 +1,14 @@
+{
+  "id": "data-basics",
+  "title": "DATABASICS",
+  "subtitle": "DATABASICS time and expense reporting software offers timesheets and expense reports for mid-size and enterprise busi...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568762/icons/data-basics.jpg",
+  "website": "https://www.data-basics.com/",
+  "docsUrl": "https://www.data-basics.com/resources/developers"
+}

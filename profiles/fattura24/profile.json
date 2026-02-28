@@ -1,0 +1,12 @@
+{
+  "id": "fattura24",
+  "title": "Fattura24",
+  "subtitle": "Fattura24 is an application available for web and mobile that helps entrepreneurs send invoices, track expenses, mana...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055898/catalog/fattura24/icon128x128.png"
+}

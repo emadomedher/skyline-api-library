@@ -1,0 +1,13 @@
+{
+  "id": "folk-app",
+  "title": "Folk",
+  "subtitle": "folk is contact management designed for teams and individuals. Organize, collaborate, and activate your network",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/icons/folk-app",
+  "website": "https://www.folk.app/"
+}

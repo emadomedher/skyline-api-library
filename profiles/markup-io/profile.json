@@ -1,0 +1,13 @@
+{
+  "id": "markup-io",
+  "title": "MarkUp",
+  "subtitle": "Smart and easy visual feedback for websites and images. Invite unlimited contributors to any project. Did we mention ...",
+  "tags": [
+    "visual-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622848455/icons/markup-io.png",
+  "website": "https://www.markup.io/"
+}

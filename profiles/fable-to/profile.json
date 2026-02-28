@@ -1,0 +1,14 @@
+{
+  "id": "fable-to",
+  "title": "Fable",
+  "subtitle": "Fable is a place for fast moving product teams to keep everyone on the same page. Collaborate on what to build, sync ...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643017804/icons/fable-to.png",
+  "website": "https://www.fable.to/",
+  "docsUrl": "https://www.fable.to/docs-addon"
+}

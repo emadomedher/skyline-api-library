@@ -1,0 +1,15 @@
+{
+  "id": "osano-cookie-consent",
+  "title": "Cookie Consent by Osano",
+  "subtitle": "The easiest & most popular solution to the EU cookie law as well as, GDPR, and California cookie laws. Seen more than...",
+  "tags": [
+    "cookies",
+    "consent-management-platform",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571963778/catalog/osano-cookie-consent/icon128x128.jpg",
+  "website": "https://cookieconsent.osano.com/"
+}

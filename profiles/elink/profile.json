@@ -1,0 +1,13 @@
+{
+  "id": "elink",
+  "title": "eLink",
+  "subtitle": "elink is an all-in-one content marketing tool to curate and publish email newsletters and web pages in minutes. Grow ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947090/catalog/elink/icon128x128.jpg",
+  "website": "https://elink.io"
+}

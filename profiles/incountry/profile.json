@@ -1,0 +1,15 @@
+{
+  "id": "incountry",
+  "title": "InCountry",
+  "subtitle": "Stay compliant with global data regulations by storing profille, employee, healthcare, transaction and payment data i...",
+  "tags": [
+    "data-residency",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049989/icons/incountry.jpg",
+  "website": "https://incountry.com/",
+  "docsUrl": "https://incountry.com/developers"
+}

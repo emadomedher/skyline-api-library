@@ -1,0 +1,14 @@
+{
+  "id": "breachlock",
+  "title": "BreachLock",
+  "subtitle": "BreachLock platform leverages cerified hackers and AI-powered vulnerability scans to deliver a continuous and on-dema...",
+  "tags": [
+    "pen-testing",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572568034/catalog/breachlock/icon128x128.png",
+  "website": "https://www.breachlock.com/"
+}

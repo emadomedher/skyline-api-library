@@ -1,0 +1,14 @@
+{
+  "id": "foundationsoft",
+  "title": "Foundation Software",
+  "subtitle": "We simplify complex construction accounting. FOUNDATION® - America's #1 construction accounting software offers an in...",
+  "tags": [
+    "accounting",
+    "construction"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683273146/icons/foundationsoft.png",
+  "website": "https://www.foundationsoft.com/"
+}

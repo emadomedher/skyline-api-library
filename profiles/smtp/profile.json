@@ -1,0 +1,13 @@
+{
+  "id": "smtp",
+  "title": "SMTP",
+  "subtitle": "SMTP has been the leader in email delivery for 22 years. See how SMTP can improve email delivery!",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437463/catalog/smtp/icon128x128.png",
+  "website": "https://smtp.com"
+}

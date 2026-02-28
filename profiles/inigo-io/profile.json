@@ -1,0 +1,14 @@
+{
+  "id": "inigo-io",
+  "title": "Inigo",
+  "subtitle": "Inigo supports API developers and security architects with better security and operational tools for resilient, secur...",
+  "tags": [
+    "graphql-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663733194/icons/inigo-io.png",
+  "website": "https://inigo.io/",
+  "docsUrl": "https://docs.inigo.io"
+}

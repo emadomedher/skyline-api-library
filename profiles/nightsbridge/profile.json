@@ -1,0 +1,14 @@
+{
+  "id": "nightsbridge",
+  "title": "NightsBridge",
+  "subtitle": "NightsBridge API integration",
+  "tags": [
+    "hospitality",
+    "booking-systems"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589827512/catalog/nightsbridge/icon128x128.jpg",
+  "website": "https://site.nightsbridge.com/"
+}

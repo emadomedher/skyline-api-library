@@ -1,0 +1,14 @@
+{
+  "id": "opteo",
+  "title": "Opteo",
+  "subtitle": "Opteo is everything you hoped AdWords would be. Smart, powerful, and built to make life easier. Automate routine AdWo...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963439/catalog/opteo/icon128x128.png",
+  "website": "https://opteo.com",
+  "docsUrl": "https://opteo.com/docs"
+}

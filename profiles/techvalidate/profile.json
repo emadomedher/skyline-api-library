@@ -1,0 +1,13 @@
+{
+  "id": "techvalidate",
+  "title": "TechValidate",
+  "subtitle": "TechValidate is the world's only customer content creation platform. We help companies harness the voice of their cus...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946489/catalog/techvalidate/icon128x128.png",
+  "website": "https://techvalidate.com"
+}

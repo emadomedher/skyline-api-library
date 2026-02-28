@@ -1,0 +1,12 @@
+{
+  "id": "instant-contact",
+  "title": "Instant Contact",
+  "subtitle": "Instant Contact creates and pushes full-detail contact profiles from your inbox to your CRM and business applications...",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305173/catalog/instant-contact/icon128x128.png"
+}

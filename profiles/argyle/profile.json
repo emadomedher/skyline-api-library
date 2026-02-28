@@ -1,0 +1,15 @@
+{
+  "id": "argyle",
+  "title": "Argyle",
+  "subtitle": "The technology to access workforce data. Link your user's workforce accounts to your application and power real-time ...",
+  "tags": [
+    "employment-data-api",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602809337/icons/argyle.png",
+  "website": "https://argyle.com/",
+  "docsUrl": "https://argyle.io/docs"
+}

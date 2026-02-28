@@ -1,0 +1,12 @@
+{
+  "id": "http-with-azure-ad",
+  "title": "HTTP with Azure AD",
+  "subtitle": "Use the HTTP connector to fetch resources from various Web services, authenticated by Azure Active Directory (Azure A...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264797/catalog/http-with-azure-ad/icon128x128.png"
+}

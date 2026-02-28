@@ -1,0 +1,13 @@
+{
+  "id": "joinpogo",
+  "title": "Pogo",
+  "subtitle": "Unlock the power of your data to earn and save on shopping, finances and more. Download the Pogo app today to start e...",
+  "tags": [
+    "data-monetization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658904869/icons/joinpogo.png",
+  "website": "https://www.joinpogo.com/"
+}

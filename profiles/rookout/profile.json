@@ -1,0 +1,16 @@
+{
+  "id": "rookout",
+  "title": "Rookout",
+  "subtitle": "Using Rookout is as easy as inserting a debugging breakpoint, only nothing breaks or stops! Get JUST the data you nee...",
+  "tags": [
+    "debugging",
+    "coding",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565490493/catalog/rookout/icon128x128.png",
+  "website": "https://www.rookout.com/",
+  "docsUrl": "https://docs.rookout.com"
+}

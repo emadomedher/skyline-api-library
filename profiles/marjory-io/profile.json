@@ -1,0 +1,14 @@
+{
+  "id": "marjory-io",
+  "title": "Marjory",
+  "subtitle": "Marjory integrates and orchestrates ambitious digital marketplaces to help B2C and B2B companies growth.",
+  "tags": [
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671285883/icons/marjory-io.jpg",
+  "website": "https://marjory.io/en/",
+  "docsUrl": "https://marjory.gitbook.io/marjory"
+}

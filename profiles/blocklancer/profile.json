@@ -1,0 +1,13 @@
+{
+  "id": "blocklancer",
+  "title": "BlockLancer",
+  "subtitle": "Do you want to earn Ethereum? Get paid in Ethereum now or buy freelancing gigs with Ethereum ✓ Many Blockchain & Ethe...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719164/catalog/blocklancer/icon128x128.jpg",
+  "website": "https://blocklancer.net"
+}

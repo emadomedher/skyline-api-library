@@ -1,0 +1,13 @@
+{
+  "id": "getmarketspace",
+  "title": "MarketSpace",
+  "subtitle": "MarketSpace is an e-commerce platform for creating customized online multi-vendor marketplaces for events, business a...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582715261/catalog/getmarketspace/icon128x128.jpg",
+  "website": "https://www.getmarketspace.com/"
+}

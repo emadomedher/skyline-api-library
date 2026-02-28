@@ -1,0 +1,15 @@
+{
+  "id": "magnetic",
+  "title": "Magnetic",
+  "subtitle": "Magnetic is a cloud based business management app that allows you to manage your whole business. We have modules focu...",
+  "tags": [
+    "project-management",
+    "human-resources-(hr)",
+    "crm"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305338/catalog/magnetic/icon128x128.png",
+  "website": "https://www.magnetichq.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dominionpayroll",
+  "title": "Dominion Payroll",
+  "subtitle": "Dominion Payroll is a premier human capital management provider for Virginia, North Carolina, South Carolina, Tenness...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626428662/icons/dominionpayroll.jpg",
+  "website": "https://dominionpayroll.com/"
+}

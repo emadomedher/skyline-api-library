@@ -1,0 +1,13 @@
+{
+  "id": "rap-index",
+  "title": "RAP Index",
+  "subtitle": "RAP Index API integration",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962525/catalog/rap-index/icon128x128.png",
+  "website": "https://rapindex.com"
+}

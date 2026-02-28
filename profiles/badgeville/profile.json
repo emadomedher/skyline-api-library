@@ -1,0 +1,13 @@
+{
+  "id": "badgeville",
+  "title": "Badgeville",
+  "subtitle": "CallidusCloud's award winning Lead to Money suite gives sales, marketing, finance, HR, and legal teams the tools to b...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719087/catalog/badgeville/icon128x128.jpg",
+  "website": "https://calliduscloud.com"
+}

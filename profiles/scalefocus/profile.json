@@ -1,0 +1,13 @@
+{
+  "id": "scalefocus",
+  "title": "ScaleFocus",
+  "subtitle": "ScaleFocus is an European IT Solutions Delivery Center. We Craft Technology Excellence, R&D and Innovation in the Dom...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584551406/catalog/scalefocus/icon128x128.jpg",
+  "website": "https://www.scalefocus.com/"
+}

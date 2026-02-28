@@ -1,0 +1,14 @@
+{
+  "id": "faradaysec",
+  "title": "Faraday",
+  "subtitle": "There are better ways than managing vulnerabilities with spreadsheets, especially when you are working with several t...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626555270/icons/faradaysec.png",
+  "website": "https://faradaysec.com/",
+  "docsUrl": "https://api.faradaysec.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "affinio",
+  "title": "Affinio",
+  "subtitle": "Affinio is an AI-segmentation platform that analyzes all your first party and social consumer data to uncover new seg...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947304/catalog/affinio/icon128x128.jpg",
+  "website": "https://affinio.com"
+}

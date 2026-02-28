@@ -1,0 +1,13 @@
+{
+  "id": "getpalace",
+  "title": "Palace Operations",
+  "subtitle": "Web-based software that grows your property management business.",
+  "tags": [
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596921119/icons/getpalace.jpg",
+  "website": "https://www.getpalace.com"
+}

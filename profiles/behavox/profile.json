@@ -1,0 +1,13 @@
+{
+  "id": "behavox",
+  "title": "Behavox",
+  "subtitle": "Behavox enables you to aggregate, analyze, and act on your entire organization's data.",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582669850/catalog/behavox/icon128x128.jpg",
+  "website": "https://www.behavox.com/"
+}

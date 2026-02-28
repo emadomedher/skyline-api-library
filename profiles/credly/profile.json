@@ -1,0 +1,15 @@
+{
+  "id": "credly",
+  "title": "Credly",
+  "subtitle": "Credly is the end-to-end solution for creating, issuing and managing digital credentials. Thousands of organizations ...",
+  "tags": [
+    "digital-credentials",
+    "certifications"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606833885/icons/credly.jpg",
+  "website": "https://info.credly.com/",
+  "docsUrl": "https://www.youracclaim.com/docs"
+}

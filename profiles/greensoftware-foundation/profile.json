@@ -1,0 +1,13 @@
+{
+  "id": "greensoftware-foundation",
+  "title": "Green Software Foundation",
+  "subtitle": "The Green Software Foundation is a non-profit with the mission to create a trusted ecosystem of people, standards, to...",
+  "tags": [
+    "foundations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622167004/icons/greensoftware-foundation.jpg",
+  "website": "https://greensoftware.foundation/"
+}

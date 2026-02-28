@@ -1,0 +1,13 @@
+{
+  "id": "eventable",
+  "title": "Eventable",
+  "subtitle": "Eventable is a calendar communication platform that makes it easy for anyone to create, send, and share calendar even...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304873/catalog/eventable/icon128x128.png",
+  "website": "https://www.eventable.com/"
+}

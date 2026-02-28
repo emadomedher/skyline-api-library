@@ -1,0 +1,14 @@
+{
+  "id": "ethos-io",
+  "title": "Ethos",
+  "subtitle": "Ethos is on a mission to build a financial ecosystem that is open, safe & fair for everybody with Ethos Universal Wal...",
+  "tags": [
+    "crypto",
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494236/catalog/ethos-io/icon128x128.jpg",
+  "website": "https://www.ethos.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "concourse-ci-org",
+  "title": "Concourse CI",
+  "subtitle": "Concourse CI API integration",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614360/catalog/concourse-ci-org/icon128x128.jpg",
+  "website": "https://concourse-ci.org/",
+  "docsUrl": "https://concourse-ci.org/docs.html"
+}

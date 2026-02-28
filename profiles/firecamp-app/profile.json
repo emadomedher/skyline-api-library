@@ -1,0 +1,14 @@
+{
+  "id": "firecamp-app",
+  "title": "Firecamp",
+  "subtitle": "Firecamp is a modern client for Real-time, GraphQL, REST and other 15+ routine tech stacks and platforms. It serves t...",
+  "tags": [
+    "api-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561812461/catalog/firecamp-app/icon128x128.jpg",
+  "website": "https://firecamp.app",
+  "docsUrl": "https://firecamp.io/docs/rtc/ably-channels/introduction"
+}

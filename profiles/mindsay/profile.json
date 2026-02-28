@@ -1,0 +1,13 @@
+{
+  "id": "mindsay",
+  "title": "Mindsay",
+  "subtitle": "Happier customers and lower costs? Discover how our fully-trained conversational AI chatbots help you manage your sup...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576736217/catalog/mindsay/icon128x128.png",
+  "website": "https://www.mindsay.com/"
+}

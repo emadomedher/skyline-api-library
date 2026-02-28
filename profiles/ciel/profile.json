@@ -1,0 +1,13 @@
+{
+  "id": "ciel",
+  "title": "Ciel",
+  "subtitle": "Achetez en ligne votre logiciel de gestion pour TPE, artisans ou professions libérales: comptabilité, devis/factures,...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598387980/icons/ciel.jpg",
+  "website": "https://www.ciel.com/"
+}

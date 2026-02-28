@@ -1,0 +1,13 @@
+{
+  "id": "aparavi",
+  "title": "Aparavi",
+  "subtitle": "Aparavi's highly scalable data intelligence and automation solutions enable organizations to easily discover, classif...",
+  "tags": [
+    "backup"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583982054/catalog/aparavi/icon128x128.png",
+  "website": "https://www.aparavi.com/"
+}

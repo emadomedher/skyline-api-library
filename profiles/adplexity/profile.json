@@ -1,0 +1,13 @@
+{
+  "id": "adplexity",
+  "title": "adplexity",
+  "subtitle": "adplexity API integration",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432813/catalog/adplexity/icon128x128.png",
+  "website": "https://adplexity.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wireguard",
+  "title": "WireGuard",
+  "subtitle": "WireGuard: fast, modern, secure VPN tunnel",
+  "tags": [
+    "vpn"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583846426/catalog/wireguard/icon128x128.png",
+  "website": "https://www.wireguard.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hivebrite",
+  "title": "Hivebrite",
+  "subtitle": "Hivebrite is the all-in-one platform to manage and engage all types of private communities: alumni, corporate alumni,...",
+  "tags": [
+    "community-portals",
+    "community-management-platform",
+    "community-and-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946938/catalog/hivebrite/icon128x128.jpg",
+  "website": "https://hivebrite.com",
+  "docsUrl": "https://hivebrite.com/documentation/api/admin"
+}

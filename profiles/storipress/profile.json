@@ -1,0 +1,13 @@
+{
+  "id": "storipress",
+  "title": "Storipress",
+  "subtitle": "Storipress is an all in one content management system that integrates all the tools a publisher needs in a single pla...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627994355/icons/storipress.jpg",
+  "website": "https://storipress.com/"
+}

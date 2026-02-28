@@ -1,0 +1,13 @@
+{
+  "id": "vimsy-co",
+  "title": "Vimsy",
+  "subtitle": "Bring videos from Youtube, Vimeo and Wistia together to create anything from a simple, branded video portal to your o...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565305951/catalog/vimsy-co/icon128x128.jpg",
+  "website": "https://vimsy.co"
+}

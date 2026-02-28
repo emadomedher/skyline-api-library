@@ -1,0 +1,13 @@
+{
+  "id": "inde",
+  "title": "INDE",
+  "subtitle": "INDE API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946921/catalog/inde/icon128x128.png",
+  "website": "https://indestry.com"
+}

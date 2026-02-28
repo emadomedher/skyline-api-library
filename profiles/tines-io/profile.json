@@ -1,0 +1,15 @@
+{
+  "id": "tines-io",
+  "title": "Tines",
+  "subtitle": "The Tines Security Automation platform allows security teams automate any task without code. Making them more effecti...",
+  "tags": [
+    "security",
+    "security-automation"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571958125/catalog/tines-io/icon128x128.jpg",
+  "website": "https://tines.io/",
+  "docsUrl": "https://docs.tines.io"
+}

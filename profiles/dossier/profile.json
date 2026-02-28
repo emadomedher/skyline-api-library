@@ -1,0 +1,13 @@
+{
+  "id": "dossier",
+  "title": "Dossier",
+  "subtitle": "Dossier is an app for organizing customer conversations, no matter where it happens, with zero disruption to the ways...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947126/catalog/dossier/icon128x128.jpg",
+  "website": "https://dossier.work"
+}

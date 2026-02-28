@@ -1,0 +1,13 @@
+{
+  "id": "peakfeed",
+  "title": "PeakFeed",
+  "subtitle": "Hi, we’re Gregg and Patrick. No massive teams or VC money here, just two marketers and friends who love to build tool...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721434/catalog/peakfeed/icon128x128.jpg",
+  "website": "https://peakfeed.com"
+}

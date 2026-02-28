@@ -1,0 +1,14 @@
+{
+  "id": "elastic-path",
+  "title": "Elastic Path",
+  "subtitle": "Your eCommerce software should adapt to your business, not the other way around. Deliver unique, composable commerce ...",
+  "tags": [
+    "ecommerce-platforms-and-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775070/catalog/elastic-path/icon128x128.png",
+  "website": "https://elasticpath.com",
+  "docsUrl": "https://documentation.elasticpath.com"
+}

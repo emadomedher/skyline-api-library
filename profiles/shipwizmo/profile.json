@@ -1,0 +1,13 @@
+{
+  "id": "shipwizmo",
+  "title": "Wizmo",
+  "subtitle": "A better way to ship parcels",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586354021/catalog/shipwizmo/icon128x128.jpg",
+  "website": "https://www.shipwizmo.com/"
+}

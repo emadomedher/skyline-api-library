@@ -1,0 +1,12 @@
+{
+  "id": "kunversion",
+  "title": "Kunversion",
+  "subtitle": "Kunversion is a full CRM suite of tools that helps generate and manage real estate leads.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305260/catalog/kunversion/icon128x128.png"
+}

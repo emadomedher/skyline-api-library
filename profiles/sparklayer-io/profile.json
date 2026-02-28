@@ -1,0 +1,13 @@
+{
+  "id": "sparklayer-io",
+  "title": "SparkLayer B2B eCommerce",
+  "subtitle": "SparkLayer brings unmatched B2B wholesale functionality to your Shopify store. Rapid to set up, it beautifully connec...",
+  "tags": [
+    "b-2-b-ecommerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656700605/icons/sparklayer-io.png",
+  "website": "https://www.sparklayer.io/"
+}

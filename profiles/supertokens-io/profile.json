@@ -1,0 +1,13 @@
+{
+  "id": "supertokens-io",
+  "title": "SuperTokens",
+  "subtitle": "Add simple email and password sign up functionality to your site or app in 15 minutes",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760565/icons/supertokens-io.png",
+  "website": "https://supertokens.io/"
+}

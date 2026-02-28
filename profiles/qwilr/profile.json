@@ -1,0 +1,13 @@
+{
+  "id": "qwilr",
+  "title": "Qwilr",
+  "subtitle": "Qwilr is reimagining the way you communicate with your clients. We help you make beautiful, intuitive sales and marke...",
+  "tags": [
+    "proposals-&-invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305819/catalog/qwilr/icon128x128.png",
+  "website": "https://qwilr.com/"
+}

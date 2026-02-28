@@ -1,0 +1,12 @@
+{
+  "id": "fastbill",
+  "title": "FastBill",
+  "subtitle": "FastBill API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178363/catalog/fastbill/icon128x128.png"
+}

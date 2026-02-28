@@ -1,0 +1,13 @@
+{
+  "id": "dotloop",
+  "title": "Dotloop",
+  "subtitle": "Dotloop API integration",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178330/catalog/dotloop/icon128x128.png",
+  "website": "https://dotloop.com"
+}

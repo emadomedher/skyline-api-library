@@ -1,0 +1,15 @@
+{
+  "id": "orchest-io",
+  "title": "Orchest",
+  "subtitle": "Orchest is an open source tool for interactively building data science pipelines. Check us out on GitHub to get started.",
+  "tags": [
+    "data-pipelines",
+    "data-notebooks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633563125/icons/orchest-io.jpg",
+  "website": "https://www.orchest.io/",
+  "docsUrl": "https://orchest.readthedocs.io/en/stable"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "custodiandc",
+  "title": "Custodian Data Centres",
+  "subtitle": "Kent's most resilent data centre provider specialising in colocation, network connectivity and cloud solutions. 24/7/...",
+  "tags": [
+    "data-centers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666395/icons/custodiandc.jpg",
+  "website": "https://www.custodiandc.com/"
+}

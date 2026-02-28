@@ -1,0 +1,14 @@
+{
+  "id": "lumapps",
+  "title": "LumApps",
+  "subtitle": "LumApps is a social intranet platform that concentrates everything you need to work in one place. Providing corporate...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539002/catalog/lumapps/icon128x128.png",
+  "website": "https://www.lumapps.com/",
+  "docsUrl": "https://apiv1.lumapps.com/"
+}

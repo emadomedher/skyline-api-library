@@ -1,0 +1,14 @@
+{
+  "id": "phish-ly",
+  "title": "Phish.ly",
+  "subtitle": "Forward a suspicious email (or an .eml attachment) to scan@phish.ly, Tines will automatically analyze the URLs with u...",
+  "tags": [
+    "security",
+    "anti-phishing"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612402263/icons/phish-ly.png",
+  "website": "https://phish.ly/"
+}

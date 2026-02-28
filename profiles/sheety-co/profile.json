@@ -1,0 +1,16 @@
+{
+  "id": "sheety-co",
+  "title": "Sheety",
+  "subtitle": "Turn any Google Sheet into an API instantly. Power websites, apps, or whatever you like, all from a spreadsheet.",
+  "tags": [
+    "spreadsheets-api",
+    "no-code",
+    "spreadsheets"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608641328/icons/sheety-co.jpg",
+  "website": "https://sheety.co/",
+  "docsUrl": "https://sheety.co/docs"
+}

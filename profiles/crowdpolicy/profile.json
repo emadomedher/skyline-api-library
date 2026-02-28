@@ -1,0 +1,14 @@
+{
+  "id": "crowdpolicy",
+  "title": "Crowdpolicy",
+  "subtitle": "Crowdpolicy API integration",
+  "tags": [
+    "consultancy",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600383046/icons/crowdpolicy.jpg",
+  "website": "https://www.crowdpolicy.com/"
+}

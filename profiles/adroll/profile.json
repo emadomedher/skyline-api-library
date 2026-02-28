@@ -1,0 +1,13 @@
+{
+  "id": "adroll",
+  "title": "Adroll",
+  "subtitle": "With AdRoll's AI-driven marketing software, you can get sophisticated audience targeting, cross-channel engagement, a...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054133/catalog/adroll/icon128x128.png",
+  "website": "https://www.adroll.com/"
+}

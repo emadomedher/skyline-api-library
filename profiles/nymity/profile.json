@@ -1,0 +1,13 @@
+{
+  "id": "nymity",
+  "title": "Nymity",
+  "subtitle": "Choose Nymity’s Privacy Platform for the GDPR, CCPA, LGPD and the World’s Privacy Requirements",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721302/catalog/nymity/icon128x128.png",
+  "website": "https://nymity.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sprinto",
+  "title": "SprintoHQ",
+  "subtitle": "#1 Rated security compliance automation platform Move fast without breaking things Ambitious cloud companies all over...",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651682868/icons/sprinto.png",
+  "website": "https://sprinto.com/"
+}

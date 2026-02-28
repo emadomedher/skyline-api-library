@@ -1,0 +1,13 @@
+{
+  "id": "jobbio",
+  "title": "Jobbio",
+  "subtitle": "Jobbio is a job search platform that connects great talent like you with great companies quickly, directly and privat...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805144/icons/jobbio.jpg",
+  "website": "https://jobbio.com/"
+}

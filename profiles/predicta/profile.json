@@ -1,0 +1,13 @@
+{
+  "id": "predicta",
+  "title": "Predicta",
+  "subtitle": "Oferecemos serviços de Programática, Adserver e mensurações, BI, análise de dados e atribuição para otimizar os inves...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721569/catalog/predicta/icon128x128.jpg",
+  "website": "https://predicta.net"
+}

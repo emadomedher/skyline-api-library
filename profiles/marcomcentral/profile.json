@@ -1,0 +1,14 @@
+{
+  "id": "marcomcentral",
+  "title": "MarcomCentral",
+  "subtitle": "Marketing technology that combines digital asset management, dynamic content customization, & sales enablement into o...",
+  "tags": [
+    "through-channel-marketing-automation",
+    "dam-and-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435746/catalog/marcomcentral/icon128x128.png",
+  "website": "https://marcom.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "google-cloud-api-gateway",
+  "title": "Google Cloud API Gateway",
+  "subtitle": "API Gateway is a fully managed service to create, deploy, and manage APIs on Compute Engine, App Engine, Cloud Functi...",
+  "tags": [
+    "api-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606682562/icons/google-cloud-api-gateway.jpg",
+  "website": "https://cloud.google.com/api-gateway",
+  "docsUrl": "https://cloud.google.com/solutions/new-channels-using-apis"
+}

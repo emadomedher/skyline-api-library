@@ -1,0 +1,13 @@
+{
+  "id": "leadgnome",
+  "title": "LeadGnome",
+  "subtitle": "LeadGnome mines and manages marketing and sales email replies to improve database health, find new leads, and uncover...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826792/catalog/leadgnome/icon128x128.png",
+  "website": "https://leadgnome.com"
+}

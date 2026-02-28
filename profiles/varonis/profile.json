@@ -1,0 +1,13 @@
+{
+  "id": "varonis",
+  "title": "Varonis",
+  "subtitle": "Varonis is a pioneer in data security and analytics, fighting a different battle than conventional cybersecurity comp...",
+  "tags": [
+    "data-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575470179/catalog/varonis/icon128x128.png",
+  "website": "https://www.varonis.com/"
+}

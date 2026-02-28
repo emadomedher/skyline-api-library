@@ -1,0 +1,15 @@
+{
+  "id": "decentro-tech",
+  "title": "Decentro",
+  "subtitle": "Simple & automated API platform for banking integrations in India and Asia. Open banking APIs to launch your products...",
+  "tags": [
+    "banking-api-aggregators",
+    "bank-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598475482/icons/decentro-tech.jpg",
+  "website": "https://decentro.tech/",
+  "docsUrl": "https://docs.decentro.tech"
+}

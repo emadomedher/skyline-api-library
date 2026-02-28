@@ -1,0 +1,15 @@
+{
+  "id": "viselio",
+  "title": "Viselio",
+  "subtitle": "> All travel documents in one place. Tourist, business and work visas, e-Visas, COVID-19 tests, Health Certificate, a...",
+  "tags": [
+    "travel",
+    "visa-services"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637700338/icons/viselio.jpg",
+  "website": "https://www.viselio.com/",
+  "docsUrl": "https://www.viselio.com/knowledge/developers"
+}

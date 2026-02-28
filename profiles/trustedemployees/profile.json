@@ -1,0 +1,14 @@
+{
+  "id": "trustedemployees",
+  "title": "Trusted Employees",
+  "subtitle": "Trusted Employees offers pre-employment background checks in a range of flexible solutions. Businesses, non-profits, ...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990336/icons/trustedemployees.png",
+  "website": "https://www.trustedemployees.com/",
+  "docsUrl": "https://www.trustedemployees.com/employment-screening/reference-verification"
+}

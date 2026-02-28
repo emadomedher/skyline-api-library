@@ -1,0 +1,14 @@
+{
+  "id": "strawberry-rocks",
+  "title": "Strawberry GraphQL",
+  "subtitle": "Strawberry is Python library to build GraphQL APIs, built on top of dataclasses",
+  "tags": [
+    "graphql-libraries"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633819128/icons/strawberry-rocks.jpg",
+  "website": "https://strawberry.rocks/",
+  "docsUrl": "https://strawberry.rocks/docs"
+}

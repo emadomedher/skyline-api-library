@@ -1,0 +1,13 @@
+{
+  "id": "red-sift-platform",
+  "title": "Red Sift Platform",
+  "subtitle": "At Red Sift we want to democratise cybersecurity by using our open cloud platform to deliver innovative products that...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721777/catalog/red-sift-platform/icon128x128.png",
+  "website": "https://redsift.com"
+}

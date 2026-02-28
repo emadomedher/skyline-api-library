@@ -1,0 +1,13 @@
+{
+  "id": "cognosys-ai",
+  "title": "CognosysAI",
+  "subtitle": "Your personal web-based AI Agent",
+  "tags": [
+    "ai-agents"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685841955/icons/cognosys-ai.png",
+  "website": "https://www.cognosys.ai/"
+}

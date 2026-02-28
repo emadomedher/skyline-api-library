@@ -1,0 +1,15 @@
+{
+  "id": "repl-it",
+  "title": "Repl.it",
+  "subtitle": "Repl.it is a simple yet powerful online IDE, Editor, Compiler, Interpreter, and REPL. Code, compile, run, and host in...",
+  "tags": [
+    "ide",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679354619/icons/repl-it.jpg",
+  "website": "https://repl.it/",
+  "docsUrl": "https://repl.it/site/docs"
+}

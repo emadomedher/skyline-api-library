@@ -1,0 +1,12 @@
+{
+  "id": "korton",
+  "title": "Korton",
+  "subtitle": "Met Korton maakt u overzichtelijke personeelsplanningen en kunt gewerkte uren registreren.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256941/catalog/korton/icon128x128.png"
+}

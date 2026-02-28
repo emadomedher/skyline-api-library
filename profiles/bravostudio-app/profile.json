@@ -1,0 +1,14 @@
+{
+  "id": "bravostudio-app",
+  "title": "Bravo Studio",
+  "subtitle": "Turn your Figma design prototype into a real native iOS and Android mobile app. No code needed.",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608639821/icons/bravostudio-app.png",
+  "website": "https://www.bravostudio.app/",
+  "docsUrl": "https://developer.nytimes.com"
+}

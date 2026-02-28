@@ -1,0 +1,13 @@
+{
+  "id": "opus-ai",
+  "title": "OPUS",
+  "subtitle": "OPUS API integration",
+  "tags": [
+    "text-to-video"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674308685/icons/opus-ai.jpg",
+  "website": "https://opus.ai/"
+}

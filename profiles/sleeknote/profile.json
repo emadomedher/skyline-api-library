@@ -1,0 +1,13 @@
+{
+  "id": "sleeknote",
+  "title": "Sleeknote",
+  "subtitle": "Sleeknote API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962303/catalog/sleeknote/icon128x128.png",
+  "website": "https://sleeknote.com"
+}

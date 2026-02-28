@@ -1,0 +1,13 @@
+{
+  "id": "leadbi",
+  "title": "LeadBI",
+  "subtitle": "LeadBI is a marketing automation software that converts website visitors into leads. Track, identify, engage and nurt...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946859/catalog/leadbi/icon128x128.jpg",
+  "website": "https://leadbi.com"
+}

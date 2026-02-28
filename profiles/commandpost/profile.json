@@ -1,0 +1,13 @@
+{
+  "id": "commandpost",
+  "title": "CommandPost",
+  "subtitle": "CommandPost is CMP.LY’s patented Monitoring, Measurement & Insights tool for managed social media communications. Sta...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433842/catalog/commandpost/icon128x128.png",
+  "website": "https://getcommandpost.com"
+}

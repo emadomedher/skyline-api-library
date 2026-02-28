@@ -1,0 +1,13 @@
+{
+  "id": "home-made",
+  "title": "Home Made",
+  "subtitle": "Join thousands of Home Made Landlords, Renters and Build to Rent funds today.",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652915299/icons/home-made.jpg",
+  "website": "https://www.home-made.com/"
+}

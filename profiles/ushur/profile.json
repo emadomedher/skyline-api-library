@@ -1,0 +1,16 @@
+{
+  "id": "ushur",
+  "title": "Ushur",
+  "subtitle": "Ushur is the complete solution for intelligent automation. Designed for high-contact industries like insurance, logis...",
+  "tags": [
+    "conversational-ai",
+    "no-code",
+    "chat-bots"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604703247/icons/ushur.png",
+  "website": "https://ushur.com/",
+  "docsUrl": "https://ushur.com/webinars/rise-of-the-citizen-developer/?utm_campaign=q32020%3a%20citizen%20developer%20webinar%20&utm_source=website%20banner"
+}

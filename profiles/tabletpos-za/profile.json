@@ -1,0 +1,13 @@
+{
+  "id": "tabletpos-za",
+  "title": "TabletPOS",
+  "subtitle": "Meet TabletPOS powered by iKentoo, the largest mobile Cloud Based Point of Sale system, crafted for the hospitality i...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589150150/catalog/tabletpos-za/icon128x128.png",
+  "website": "https://tabletpos.co.za/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hafele-dialock",
+  "title": "Dialock",
+  "subtitle": "The Dialock Access Control System from Häfele is ideal for hotels, offices and other commercial spaces with touchless...",
+  "tags": [
+    "keylocks",
+    "hospitality",
+    "non-software"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724232/icons/hafele-dialock.png",
+  "website": "https://www.hafele.com/us/en/info/commercial/hospitality/dialock/90552/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "r3",
+  "title": "R3",
+  "subtitle": "R3 delivers Corda - the next-gen blockchain for business, enabled by our industry-leading distributed ledger technology.",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602556892/icons/r3.jpg",
+  "website": "https://www.r3.com/",
+  "docsUrl": "https://www.r3.com/blockchain-developer-community"
+}

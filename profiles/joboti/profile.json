@@ -1,0 +1,12 @@
+{
+  "id": "joboti",
+  "title": "Joboti",
+  "subtitle": "Joboti levert een HR chatbot voor medewerkers van uw bedrijf. Met een chatbot, kan het merendeel van de HR vragen dir...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256938/catalog/joboti/icon128x128.png"
+}

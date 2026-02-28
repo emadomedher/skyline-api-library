@@ -1,0 +1,12 @@
+{
+  "id": "scalr",
+  "title": "Scalr",
+  "subtitle": "Scalr Cloud Management Platform offers a unified API and web interface for developers and IT users to access and mana...",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305983/catalog/scalr/icon128x128.png"
+}

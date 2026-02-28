@@ -1,0 +1,13 @@
+{
+  "id": "siteoscope",
+  "title": "Siteoscope",
+  "subtitle": "Siteoscope API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554482021/catalog/siteoscope/icon128x128.png",
+  "website": "https://siteoscope.com"
+}

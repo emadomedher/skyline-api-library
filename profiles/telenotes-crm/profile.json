@@ -1,0 +1,13 @@
+{
+  "id": "telenotes-crm",
+  "title": "Telenotes CRM",
+  "subtitle": "Update your CRM in 60 seconds after each sales call by simply leaving a message with your virtual assistant. Learn more!",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946488/catalog/telenotes-crm/icon128x128.jpg",
+  "website": "https://telenotes.com"
+}

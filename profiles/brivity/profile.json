@@ -1,0 +1,12 @@
+{
+  "id": "brivity",
+  "title": "Brivity",
+  "subtitle": "Brivity is a cloud-based CRM platform for real estate professionals & brokerages.",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304545/catalog/brivity/icon128x128.png"
+}

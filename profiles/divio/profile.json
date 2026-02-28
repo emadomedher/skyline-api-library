@@ -1,0 +1,13 @@
+{
+  "id": "divio",
+  "title": "Divio",
+  "subtitle": "Divio is a platform for running your Django projects. Get going faster with Django optimised hosting, developer tools...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947134/catalog/divio/icon128x128.jpg",
+  "website": "https://divio.com"
+}

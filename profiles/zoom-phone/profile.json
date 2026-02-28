@@ -1,0 +1,13 @@
+{
+  "id": "zoom-phone",
+  "title": "Zoom Phone",
+  "subtitle": "Zoom Phone API integration",
+  "tags": [
+    "cloud-phone-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636588401/icons/zoom-phone.jpg",
+  "website": "https://explore.zoom.us/en/products/zoom-phone/"
+}

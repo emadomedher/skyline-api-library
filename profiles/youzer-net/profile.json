@@ -1,0 +1,14 @@
+{
+  "id": "youzer-net",
+  "title": "Youzer",
+  "subtitle": "Youzer is a collaborative solution that automates: account creation, onboarding and offboarding, supervision of softw...",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637941/icons/youzer-net.jpg",
+  "website": "https://en.youzer.net/",
+  "docsUrl": "https://docs.youzer.net"
+}

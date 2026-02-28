@@ -1,0 +1,13 @@
+{
+  "id": "leadspace",
+  "title": "Leadspace",
+  "subtitle": "Leadspace API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435499/catalog/leadspace/icon128x128.png",
+  "website": "https://leadspace.com"
+}

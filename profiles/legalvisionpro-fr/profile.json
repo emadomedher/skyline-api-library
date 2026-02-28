@@ -1,0 +1,13 @@
+{
+  "id": "legalvisionpro-fr",
+  "title": "LegalVisionPro",
+  "subtitle": "LegalVisionPro API integration",
+  "tags": [
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602351252/icons/legalvisionpro-fr.png",
+  "website": "https://www.legalvisionpro.fr/"
+}

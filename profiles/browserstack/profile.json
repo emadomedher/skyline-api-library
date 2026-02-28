@@ -1,0 +1,14 @@
+{
+  "id": "browserstack",
+  "title": "BrowserStack",
+  "subtitle": "Instant access to 2000+ browsers and real iOS and Android devices for cross browser testing. Ship apps and websites t...",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561812464/catalog/browserstack/icon128x128.png",
+  "website": "https://browserstack.com",
+  "docsUrl": "https://www.browserstack.com/docs"
+}

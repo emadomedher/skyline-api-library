@@ -1,0 +1,14 @@
+{
+  "id": "spiral-xyz",
+  "title": "Spiral",
+  "subtitle": "Making bitcoin more than an investment.",
+  "tags": [
+    "blockchain",
+    "bitcoin"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638474651/icons/spiral-xyz.jpg",
+  "website": "https://spiral.xyz/"
+}

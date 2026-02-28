@@ -1,0 +1,14 @@
+{
+  "id": "microsoft-translator",
+  "title": "Microsoft Translator",
+  "subtitle": "Microsoft Translator live is a free translation and transcription service that let's you have translated conversation...",
+  "tags": [
+    "translation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264812/catalog/microsoft-translator/icon128x128.png",
+  "website": "https://translator.microsoft.com/",
+  "docsUrl": "https://developer.microsoft.com/en-us/windows"
+}

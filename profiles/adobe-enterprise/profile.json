@@ -1,0 +1,13 @@
+{
+  "id": "adobe-enterprise",
+  "title": "Adobe Enterprise",
+  "subtitle": "Adobe Enterprise API integration",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573858421/catalog/adobe-enterprise/icon128x128.jpg",
+  "website": "https://www.adobe.com/enterprise.html"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "vidyard",
+  "title": "Vidyard",
+  "subtitle": "Vidyard is an online video platform for business which allows you to increase leads, accelerate your pipeline and del...",
+  "tags": [
+    "video-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827959/catalog/vidyard/icon128x128.jpg",
+  "website": "https://vidyard.com",
+  "docsUrl": "https://www.vidyard.com/developers"
+}

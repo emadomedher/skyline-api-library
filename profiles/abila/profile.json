@@ -1,0 +1,13 @@
+{
+  "id": "abila",
+  "title": "Abila",
+  "subtitle": "Abila products, now part of the Community Brands family, include Freestone, Fundraising 50, Fundraising Online, MIP F...",
+  "tags": [
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623100657/icons/abila.jpg",
+  "website": "https://www.abila.com/"
+}

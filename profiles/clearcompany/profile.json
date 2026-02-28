@@ -1,0 +1,13 @@
+{
+  "id": "clearcompany",
+  "title": "ClearCompany",
+  "subtitle": "ClearCompany's HR Software uses best practices to deliver better hiring experiences, seamless onboarding, easy perfor...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719455/catalog/clearcompany/icon128x128.png",
+  "website": "https://clearcompany.com"
+}

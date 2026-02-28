@@ -1,0 +1,13 @@
+{
+  "id": "itineris-net",
+  "title": "Itineris",
+  "subtitle": "Our cloud-based solution is built on the Microsoft Dynamics 365 platform and is specifically designed to meet the nee...",
+  "tags": [
+    "utilities"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649154605/icons/itineris-net.png",
+  "website": "https://www.itineris.net/"
+}

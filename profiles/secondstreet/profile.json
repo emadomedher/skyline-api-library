@@ -1,0 +1,13 @@
+{
+  "id": "secondstreet",
+  "title": "SecondStreet",
+  "subtitle": "Second Street is an audience engagement platform that helps media and marketers use contests, interactive content, an...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946616/catalog/secondstreet/icon128x128.jpg",
+  "website": "https://secondstreet.com"
+}

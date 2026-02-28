@@ -1,0 +1,14 @@
+{
+  "id": "barclays",
+  "title": "Barclays",
+  "subtitle": "Barclays plc is a British multinational investment bank and financial services company, headquartered in London, Engl...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569631977/catalog/barclays/icon128x128.jpg",
+  "website": "https://www.barclays.co.uk/",
+  "docsUrl": "https://developer.barclays.com/open-banking"
+}

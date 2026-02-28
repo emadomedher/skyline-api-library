@@ -1,0 +1,15 @@
+{
+  "id": "signdesk",
+  "title": "SignDesk",
+  "subtitle": "Experience total document automation with SignDesk’s Digital KYC, Smart CLM, eNach, esign & Digital Stamp solutions. ...",
+  "tags": [
+    "document-automation",
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152905/icons/signdesk.jpg",
+  "website": "https://signdesk.com/",
+  "docsUrl": "https://signdesk.com/digitise-insurance-documentation"
+}

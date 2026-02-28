@@ -1,0 +1,14 @@
+{
+  "id": "capsule8",
+  "title": "Capsule8",
+  "subtitle": "Attack visibility, detection, and protection for all Linux production environments whether containers, VMs, or bare m...",
+  "tags": [
+    "security",
+    "linux"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565490506/catalog/capsule8/icon128x128.png",
+  "website": "https://capsule8.com/"
+}

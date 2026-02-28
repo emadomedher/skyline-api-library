@@ -1,0 +1,12 @@
+{
+  "id": "traction-next",
+  "title": "TractionNext",
+  "subtitle": "TractionNext automates campaign workflows, triggers conversations and accelerates conversions, with visibility to ema...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306363/catalog/traction-next/icon128x128.png"
+}

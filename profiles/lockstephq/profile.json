@@ -1,0 +1,14 @@
+{
+  "id": "lockstephq",
+  "title": "Lockstep",
+  "subtitle": "One place for all your AR and AP workflows.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268415/icons/lockstephq.jpg",
+  "website": "https://lockstephq.com",
+  "docsUrl": "https://developer.lockstep.io/"
+}

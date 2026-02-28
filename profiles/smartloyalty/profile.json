@@ -1,0 +1,13 @@
+{
+  "id": "smartloyalty",
+  "title": "SmartLoyalty",
+  "subtitle": "SmartLoyalty AG - Producer of modular customer loyalty card systems for customer loyalty consists of customer cards, ...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050577/icons/smartloyalty.png",
+  "website": "https://smartloyalty.net"
+}

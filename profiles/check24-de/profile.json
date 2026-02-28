@@ -1,0 +1,13 @@
+{
+  "id": "check24-de",
+  "title": "CHECK24",
+  "subtitle": "CHECK24 - Das Vergleichsportal: Sparen Sie mit den Vergleichsrechnern! Versicherungen, Kredite, Strom-, DSL-Tarife, R...",
+  "tags": [
+    "compare-websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603144408/icons/check24-de.png",
+  "website": "https://www.check24.de/"
+}

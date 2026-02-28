@@ -1,0 +1,13 @@
+{
+  "id": "ozoneapi",
+  "title": "Ozone API",
+  "subtitle": "The Ozone API makes it easy for any bank or account provider (ASPSP) to deliver an API which meets all PSD2 and RTS r...",
+  "tags": [
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589830990/catalog/ozoneapi/icon128x128.png",
+  "website": "https://ozoneapi.com/"
+}

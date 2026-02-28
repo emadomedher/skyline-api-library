@@ -1,0 +1,16 @@
+{
+  "id": "leadoo",
+  "title": "Leadoo",
+  "subtitle": "Leadoo makes your website more converting by the help of conversational marketing. Chatbots and inpagebots make engag...",
+  "tags": [
+    "bots",
+    "sales",
+    "marketing"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570527740/catalog/leadoo/icon128x128.jpg",
+  "website": "https://leadoo.com/",
+  "docsUrl": "https://leadoo.com/web-developer"
+}

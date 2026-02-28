@@ -1,0 +1,13 @@
+{
+  "id": "aspera",
+  "title": "Aspera",
+  "subtitle": "Aspera provides software asset management products and services to enable license compliance, audit defense & measura...",
+  "tags": [
+    "software-asset-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941507/icons/aspera.png",
+  "website": "https://www.aspera.com/"
+}

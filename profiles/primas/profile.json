@@ -1,0 +1,13 @@
+{
+  "id": "primas",
+  "title": "Primas",
+  "subtitle": "Primas is a movement to bring quality, credibility and accountability back to the internet in the form of a decentral...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827256/catalog/primas/icon128x128.jpg",
+  "website": "https://primas.io"
+}

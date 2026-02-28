@@ -1,0 +1,15 @@
+{
+  "id": "fundstory",
+  "title": "FundStory",
+  "subtitle": "Use FundStory to access non-dilutive capital, understand its costs, and manage it into maturity. Saving on time, mone...",
+  "tags": [
+    "non-dilutive-financing",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609719580/icons/fundstory.jpg",
+  "website": "https://www.fundstory.com/",
+  "docsUrl": "https://docs.fundstory.com"
+}

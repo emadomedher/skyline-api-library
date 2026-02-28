@@ -1,0 +1,13 @@
+{
+  "id": "google-chrome",
+  "title": "Google Chrome",
+  "subtitle": "Get more done with the new Google Chrome. A more simple, secure, and faster web browser than ever,  with Google’s sma...",
+  "tags": [
+    "browsers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565304470/catalog/google-chrome/icon128x128.jpg",
+  "website": "https://google.com"
+}

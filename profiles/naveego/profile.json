@@ -1,0 +1,13 @@
+{
+  "id": "naveego",
+  "title": "Naveego",
+  "subtitle": "A next-generation, hybrid and multi-cloud data accuracy platform that proactively manages, detects and eliminates dat...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946794/catalog/naveego/icon128x128.jpg",
+  "website": "https://naveego.com"
+}

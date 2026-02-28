@@ -1,0 +1,13 @@
+{
+  "id": "everstring",
+  "title": "Everstring",
+  "subtitle": "Marketing and sales intelligence software powered by automated data science and the world’s most reliable business data",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947044/catalog/everstring/icon128x128.jpg",
+  "website": "https://everstring.com"
+}

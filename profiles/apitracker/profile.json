@@ -1,0 +1,15 @@
+{
+  "id": "apitracker",
+  "title": "apitracker",
+  "subtitle": "apitracker API integration",
+  "tags": [
+    "api",
+    "api-monitoring",
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567377576/catalog/apitracker/icon128x128.png",
+  "website": "https://apitracker.com/"
+}

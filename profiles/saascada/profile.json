@@ -1,0 +1,13 @@
+{
+  "id": "saascada",
+  "title": "SaaScada",
+  "subtitle": "SaaScada provides a cloud-native platform for digital banking solutions. The banking platform gives businesses a solu...",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652051823/icons/saascada.jpg",
+  "website": "https://www.saascada.com/"
+}

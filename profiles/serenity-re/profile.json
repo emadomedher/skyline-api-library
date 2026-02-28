@@ -1,0 +1,14 @@
+{
+  "id": "serenity-re",
+  "title": "Serenity Notes",
+  "subtitle": "End-to-end encrypted private & shared notes. Offline-first on all platforms.",
+  "tags": [
+    "notes",
+    "privacy"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616685765/icons/serenity-re.jpg",
+  "website": "https://www.serenity.re/"
+}

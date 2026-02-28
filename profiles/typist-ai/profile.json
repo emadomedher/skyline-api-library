@@ -1,0 +1,13 @@
+{
+  "id": "typist-ai",
+  "title": "Typist.ai",
+  "subtitle": "Typist.ai is a team of deveopers building tools and custom solutions using language models such as GPT-3, Codex, GPT-...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633125883/icons/typist-ai.jpg",
+  "website": "https://www.typist.ai/"
+}

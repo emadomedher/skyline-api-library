@@ -1,0 +1,13 @@
+{
+  "id": "raisin-uk",
+  "title": "@Raisin_UK",
+  "subtitle": "The Raisin UK savings marketplace enables you to purchase and manage savings products, helping you to save time and m...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575925948/catalog/raisin-uk/icon128x128.jpg",
+  "website": "https://www.raisin.co.uk/"
+}

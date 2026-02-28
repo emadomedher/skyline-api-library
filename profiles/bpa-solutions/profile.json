@@ -1,0 +1,13 @@
+{
+  "id": "bpa-solutions",
+  "title": "BPA Solutions",
+  "subtitle": "BPA develops ready-to-use, simplified regulatory software solutions - Quality, Risk, GDPR - to improve organizations’...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719212/catalog/bpa-solutions/icon128x128.png",
+  "website": "https://bpa-solutions.net"
+}

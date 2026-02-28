@@ -1,0 +1,13 @@
+{
+  "id": "scrumy",
+  "title": "Scrumy",
+  "subtitle": "Scrumy is a simple and intuitive virtual task board based on some concepts of Scrum that helps organize and manage yo...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437166/catalog/scrumy/icon128x128.png",
+  "website": "https://scrumy.com"
+}

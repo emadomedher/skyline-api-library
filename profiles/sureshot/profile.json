@@ -1,0 +1,13 @@
+{
+  "id": "sureshot",
+  "title": "Sureshot",
+  "subtitle": "Customer engagement solutions for Oracle Eloqua and Marketo. Software to boost your campaign response rates and save ...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722384/catalog/sureshot/icon128x128.png",
+  "website": "https://sureshot.io"
+}

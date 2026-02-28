@@ -1,0 +1,13 @@
+{
+  "id": "crimson-hexagon",
+  "title": "Crimson Hexagon",
+  "subtitle": "Crimson Hexagon is an AI-powered consumer insights company for brand managers, marketers, executives, and more.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719639/catalog/crimson-hexagon/icon128x128.png",
+  "website": "https://crimsonhexagon.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dyme-app",
+  "title": "Dyme",
+  "subtitle": "We track and manage all your recurring costs. With Dyme, you get a clear overview and can save directly by cancelling...",
+  "tags": [
+    "fintech",
+    "mobile",
+    "pfm"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567037730/catalog/dyme-app/icon128x128.png",
+  "website": "https://dyme.app"
+}

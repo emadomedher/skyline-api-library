@@ -1,0 +1,14 @@
+{
+  "id": "travelgatex",
+  "title": "TravelgateX",
+  "subtitle": "We are travel technology company that empowers travel businesses to increase their revenue and boost efficiency. We s...",
+  "tags": [
+    "ota"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641113/icons/travelgatex.png",
+  "website": "https://www.travelgatex.com/",
+  "docsUrl": "https://docs.travelgatex.com"
+}

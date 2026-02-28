@@ -1,0 +1,13 @@
+{
+  "id": "fobi-ai",
+  "title": "Fobi",
+  "subtitle": "Fobi's AI-powered platform enables businesses to action their data providing venue management services, detailed reta...",
+  "tags": [
+    "nfc-readers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630448384/icons/fobi-ai.jpg",
+  "website": "https://www.fobi.ai/"
+}

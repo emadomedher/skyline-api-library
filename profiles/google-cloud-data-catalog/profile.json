@@ -1,0 +1,13 @@
+{
+  "id": "google-cloud-data-catalog",
+  "title": "Google Cloud Data Catalog",
+  "subtitle": "Fully managed and scalable metadata management product that empowers organizations to quickly discover, manage, and u...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581132477/catalog/google-cloud-data-catalog/icon128x128.jpg",
+  "website": "https://cloud.google.com/data-catalog/"
+}

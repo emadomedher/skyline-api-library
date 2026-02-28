@@ -1,0 +1,13 @@
+{
+  "id": "tribe",
+  "title": "Tribe",
+  "subtitle": "Tribe | A cloud-based community platform that plugs into your marketing stack.",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722567/catalog/tribe/icon128x128.jpg",
+  "website": "https://tribe.so"
+}

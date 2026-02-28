@@ -1,0 +1,13 @@
+{
+  "id": "personalcapital",
+  "title": "Personal Capital",
+  "subtitle": "Take control of your finances with Personal Capital. Get access to insight-driven wealth management services and free...",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615737962/icons/personalcapital.png",
+  "website": "https://www.personalcapital.com/"
+}

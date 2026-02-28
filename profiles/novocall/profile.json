@@ -1,0 +1,13 @@
+{
+  "id": "novocall",
+  "title": "Novocall",
+  "subtitle": "Novocall helps you generate more sales calls from your web visitors and helps qualified leads automatically book sale...",
+  "tags": [
+    "callback-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588983264/catalog/novocall/icon128x128.png",
+  "website": "https://novocall.co"
+}

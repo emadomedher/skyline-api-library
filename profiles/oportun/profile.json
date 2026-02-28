@@ -1,0 +1,14 @@
+{
+  "id": "oportun",
+  "title": "Oportun",
+  "subtitle": "We offer affordable personal loans and credit cards, and community support. We'll help you establish credit history a...",
+  "tags": [
+    "consumer-lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637251115/icons/oportun.png",
+  "website": "https://oportun.com/",
+  "docsUrl": "https://oportun.com/financial-education/what-documentation-do-you-need-for-a-personal-loan"
+}

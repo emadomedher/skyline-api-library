@@ -1,0 +1,13 @@
+{
+  "id": "mili-eu",
+  "title": "Milieu",
+  "subtitle": "Consumer Data Analytics & Custom Research Solutions",
+  "tags": [
+    "market-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572354157/catalog/mili-eu/icon128x128.png",
+  "website": "https://mili.eu/"
+}

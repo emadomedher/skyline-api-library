@@ -1,0 +1,14 @@
+{
+  "id": "legalzoom",
+  "title": "LegalZoom",
+  "subtitle": "Find the right NDA form for your needs. Protect your customers and your company by using the correct NDA agreement.",
+  "tags": [
+    "legal",
+    "incorporation"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599586072/icons/legalzoom.jpg",
+  "website": "https://www.legalzoom.com/"
+}

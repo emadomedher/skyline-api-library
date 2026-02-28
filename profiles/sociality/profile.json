@@ -1,0 +1,13 @@
+{
+  "id": "sociality",
+  "title": "Sociality",
+  "subtitle": "Sociality.io is a social media management platform for agencies and brands.",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561980565/catalog/sociality/icon128x128.jpg",
+  "website": "https://sociality.io/"
+}

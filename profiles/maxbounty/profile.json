@@ -1,0 +1,13 @@
+{
+  "id": "maxbounty",
+  "title": "MaxBounty",
+  "subtitle": "MaxBounty API integration",
+  "tags": [
+    "affiliate-marketing-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435800/catalog/maxbounty/icon128x128.png",
+  "website": "https://maxbounty.com"
+}

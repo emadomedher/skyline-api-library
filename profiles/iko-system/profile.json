@@ -1,0 +1,13 @@
+{
+  "id": "iko-system",
+  "title": "IKO System",
+  "subtitle": "Human prospecting software",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826586/catalog/iko-system/icon128x128.jpg",
+  "website": "https://iko-system.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "demandsage",
+  "title": "DemandSage",
+  "subtitle": "DemandSage API integration",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581440213/catalog/demandsage/icon128x128.jpg",
+  "website": "https://www.demandsage.com/"
+}

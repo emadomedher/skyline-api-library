@@ -1,0 +1,14 @@
+{
+  "id": "pythonanywhere",
+  "title": "PythonAnywhere",
+  "subtitle": "Python platform-as-a-service",
+  "tags": [
+    "cloud-computing-services",
+    "hosting"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861279/catalog/pythonanywhere/icon128x128.png",
+  "website": "https://www.pythonanywhere.com"
+}

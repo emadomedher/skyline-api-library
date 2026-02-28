@@ -1,0 +1,13 @@
+{
+  "id": "woopra",
+  "title": "Woopra",
+  "subtitle": "Analyze and visualize the entire customer journey from first marketing touch all the way through immersive product us...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439396/catalog/woopra/icon128x128.svg",
+  "website": "https://woopra.com"
+}

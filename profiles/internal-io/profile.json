@@ -1,0 +1,16 @@
+{
+  "id": "internal-io",
+  "title": "Internal",
+  "subtitle": "Access the app data you need to service your customers and get work done, without lengthy implementation time or engi...",
+  "tags": [
+    "admin",
+    "compliance",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566429920/catalog/internal-io/icon128x128.png",
+  "website": "https://internal.io/",
+  "docsUrl": "https://internal.io/docs"
+}

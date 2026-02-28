@@ -1,0 +1,14 @@
+{
+  "id": "alexishr",
+  "title": "AlexisHR",
+  "subtitle": "Declutter HR. Simplify and automate your people ops.",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640050241/icons/alexishr.jpg",
+  "website": "https://alexishr.com/",
+  "docsUrl": "https://docs.alexishr.com/"
+}

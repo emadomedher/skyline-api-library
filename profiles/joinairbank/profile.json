@@ -1,0 +1,13 @@
+{
+  "id": "joinairbank",
+  "title": "Airbank",
+  "subtitle": "Access your bank accounts, monitor your cash flow in real-time, and forecast finances with ease. Set up Airbank for f...",
+  "tags": [
+    "finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655243504/icons/joinairbank.jpg",
+  "website": "https://www.joinairbank.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pixpay-fr",
+  "title": "Pixpay",
+  "subtitle": "Pixpay is a payment card for teens, with an application to learn how to manage your budget on a daily basis.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591042189/catalog/pixpay-fr/icon128x128.jpg",
+  "website": "https://www.pixpay.fr/"
+}

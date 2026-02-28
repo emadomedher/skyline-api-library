@@ -1,0 +1,14 @@
+{
+  "id": "hrs",
+  "title": "HRS Group",
+  "subtitle": "Hotels worldwide incl. information, ratings and photos. Make your hotel reservation inexpensively and quickly at HRS ...",
+  "tags": [
+    "travel",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597931465/icons/hrs.jpg",
+  "website": "https://www.hrs.com/"
+}

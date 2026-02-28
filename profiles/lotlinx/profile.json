@@ -1,0 +1,14 @@
+{
+  "id": "lotlinx",
+  "title": "LotLinx",
+  "subtitle": "LotLinx uses award-winning artificial intelligence to match buyer demand to specific vehicles according to dealer inv...",
+  "tags": [
+    "automotive",
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607794058/icons/lotlinx.jpg",
+  "website": "https://www.lotlinx.com/"
+}

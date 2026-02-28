@@ -1,0 +1,13 @@
+{
+  "id": "keypay-com-au",
+  "title": "KeyPay",
+  "subtitle": "KeyPay is Australia's #1 cloud payroll solution for modern award automation & compliance. Easily manage online timesh...",
+  "tags": [
+    "payroll-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564740224/catalog/keypay-com-au/icon128x128.jpg",
+  "website": "https://keypay.com.au"
+}

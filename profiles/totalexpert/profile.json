@@ -1,0 +1,14 @@
+{
+  "id": "totalexpert",
+  "title": "Total Expert",
+  "subtitle": "Create hyper-personalized engagement that captures customers for life with the Total Expert Marketing Operating Syste...",
+  "tags": [
+    "fintech",
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571958123/catalog/totalexpert/icon128x128.jpg",
+  "website": "https://totalexpert.com/"
+}

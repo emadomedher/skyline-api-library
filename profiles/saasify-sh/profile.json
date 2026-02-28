@@ -1,0 +1,13 @@
+{
+  "id": "saasify-sh",
+  "title": "Saasify",
+  "subtitle": "The easiest way to monetize your API.",
+  "tags": [
+    "api-monetization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582898726/catalog/saasify-sh/icon128x128.jpg",
+  "website": "https://saasify.sh/"
+}

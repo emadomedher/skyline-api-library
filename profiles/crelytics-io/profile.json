@@ -1,0 +1,14 @@
+{
+  "id": "crelytics-io",
+  "title": "Crelytics",
+  "subtitle": "Improve customer onboarding time & lower operating costs with AI-ML powered technology. For progressive financial ser...",
+  "tags": [
+    "lending",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569370660/catalog/crelytics-io/icon128x128.png",
+  "website": "https://www.crelytics.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ewebinar",
+  "title": "eWebinar",
+  "subtitle": "eWebinar offers rich, engaging and automated webinars using a combination of pre-recorded video, real-time interactio...",
+  "tags": [
+    "webinar"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613989209/icons/ewebinar.jpg",
+  "website": "https://www.ewebinar.com/"
+}

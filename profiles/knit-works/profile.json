@@ -1,0 +1,13 @@
+{
+  "id": "knit-works",
+  "title": "Knit",
+  "subtitle": "Large video calls? They dull our brain. Knit gets it. Split into small groups. Come together. Rinse & repeat.",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588257463/catalog/knit-works/icon128x128.jpg",
+  "website": "https://knit.works/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "webydo",
+  "title": "Webydo",
+  "subtitle": "Webydo is a website builder for web design freelancers & agencies with a built-in CMS and hosting to create websites ...",
+  "tags": [
+    "website-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573826623/catalog/webydo/icon128x128.jpg",
+  "website": "https://www.webydo.com/"
+}

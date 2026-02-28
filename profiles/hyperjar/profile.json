@@ -1,0 +1,14 @@
+{
+  "id": "hyperjar",
+  "title": "HyperJar",
+  "subtitle": "Every HyperJar account is unique to you and your money. Create multiple Jars in the mobile app and use each one as a ...",
+  "tags": [
+    "pfm",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588444277/catalog/hyperjar/icon128x128.jpg",
+  "website": "https://hyperjar.com/"
+}

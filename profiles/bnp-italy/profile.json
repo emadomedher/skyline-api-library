@@ -1,0 +1,14 @@
+{
+  "id": "bnp-italy",
+  "title": "Banca Nazionale del Lavoro",
+  "subtitle": "Banca Nazionale del Lavoro API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568422577/catalog/bnp-italy/icon128x128.jpg",
+  "website": "https://bnl.it/it/Individui-e-Famiglie",
+  "docsUrl": "https://bnl.it/it/Individui-e-Famiglie/Internet-e-Mobile/Navigare-in-sicurezza/PSD2"
+}

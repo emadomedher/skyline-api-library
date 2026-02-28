@@ -1,0 +1,13 @@
+{
+  "id": "erste-group",
+  "title": "Erste Group",
+  "subtitle": "Erste Group API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261142/icons/erste-group.jpg",
+  "website": "https://www.erstegroup.com/en/home"
+}

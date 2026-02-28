@@ -1,0 +1,15 @@
+{
+  "id": "protel-io",
+  "title": "protel",
+  "subtitle": "Define the future of vendor-neutral hospitality technology by building on the new protel Hospitality Platform. Any ho...",
+  "tags": [
+    "property-management-software",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566511745/catalog/protel-io/icon128x128.png",
+  "website": "https://www.protel.io/",
+  "docsUrl": "https://www.protel.io/clkn/https/developer.protel.io/#"
+}

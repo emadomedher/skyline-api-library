@@ -1,0 +1,14 @@
+{
+  "id": "trafficguard-ai",
+  "title": "TrafficGuard",
+  "subtitle": "TrafficGuard detects, mitigates and reports on digital ad fraud before it hits your advertising budget. Three formida...",
+  "tags": [
+    "ad-fraud-prevention",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415405/catalog/trafficguard-ai/icon128x128.jpg",
+  "website": "https://www.trafficguard.ai/"
+}

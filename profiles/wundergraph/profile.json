@@ -1,0 +1,14 @@
+{
+  "id": "wundergraph",
+  "title": "WunderGraph",
+  "subtitle": "Access any API through one unified interface. Query the world as if it was one single GraphQL server. Integration. Done.",
+  "tags": [
+    "graphql-clients"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621112868/icons/wundergraph.jpg",
+  "website": "https://wundergraph.com/",
+  "docsUrl": "https://wundergraph.com/docs/overview/features"
+}

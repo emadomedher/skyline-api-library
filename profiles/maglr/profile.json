@@ -1,0 +1,13 @@
+{
+  "id": "maglr",
+  "title": "Maglr",
+  "subtitle": "Maglr API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721142/catalog/maglr/icon128x128.jpg",
+  "website": "https://maglr.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "blackswan",
+  "title": "Black Swan Data",
+  "subtitle": "Black Swan Data uses AI to unlock the power of Social data and accurately predict the future needs and wants of consu...",
+  "tags": [
+    "data-science",
+    "social-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594981081/icons/blackswan.jpg",
+  "website": "https://www.blackswan.com/"
+}

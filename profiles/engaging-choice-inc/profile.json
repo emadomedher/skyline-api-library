@@ -1,0 +1,13 @@
+{
+  "id": "engaging-choice-inc",
+  "title": "Engaging Choice Inc.",
+  "subtitle": "Engaging Choice Inc. API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963956/catalog/engaging-choice-inc/icon128x128.png",
+  "website": "https://engagingchoice.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "moboom",
+  "title": "Moboom",
+  "subtitle": "Moboom's web design tool and adaptive CMS is the faster, smarter way to build a responsive website.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826960/catalog/moboom/icon128x128.png",
+  "website": "https://moboom.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "roubler",
+  "title": "Roubler",
+  "subtitle": "Roubler cloud-based workforce management HR software completely manages every aspect of the employee relationship. Hi...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564752146/catalog/roubler/icon128x128.jpg",
+  "website": "https://roubler.com"
+}

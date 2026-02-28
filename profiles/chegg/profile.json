@@ -1,0 +1,13 @@
+{
+  "id": "chegg",
+  "title": "Chegg",
+  "subtitle": "Search 32+ million Expert Q&As and Textbook Solutions with Chegg Study or use our flashcards and writing tools. As al...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615675229/icons/chegg.jpg",
+  "website": "https://www.chegg.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "google-my-business",
+  "title": "Google My Business",
+  "subtitle": "Maak een gratis bedrijfsprofiel met Google Mijn Bedrijf en vergroot uw zichtbaarheid op Google Maps en Google Zoeken ...",
+  "tags": [
+    "cms",
+    "reviews",
+    "reputation-management"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829970/catalog/google-my-business/icon128x128.png",
+  "website": "https://www.google.com/business/",
+  "docsUrl": "https://developers.google.com/"
+}

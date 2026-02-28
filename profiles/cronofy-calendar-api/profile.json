@@ -1,0 +1,12 @@
+{
+  "id": "cronofy-calendar-api",
+  "title": "Cronofy Calendar Connector",
+  "subtitle": "Single connection to all major calendar services: Apple, Exchange, Office365, Live and Google",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055855/catalog/cronofy-calendar-api/icon128x128.png"
+}

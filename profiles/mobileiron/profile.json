@@ -1,0 +1,14 @@
+{
+  "id": "mobileiron",
+  "title": "MobileIron",
+  "subtitle": "MobileIron Unified Endpoint Management (UEM) secures 20,000+ organizations. Click for the Leader in Gartner UEM & Str...",
+  "tags": [
+    "unified-endpoint-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630448379/icons/mobileiron.png",
+  "website": "https://www.mobileiron.com/",
+  "docsUrl": "https://www.mobileiron.com/en/products/uem/productivity-apps/docs-at-work"
+}

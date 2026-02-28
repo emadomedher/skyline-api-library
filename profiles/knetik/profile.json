@@ -1,0 +1,13 @@
+{
+  "id": "knetik",
+  "title": "Knetik",
+  "subtitle": "Knetik API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963699/catalog/knetik/icon128x128.png",
+  "website": "https://knetik.com"
+}

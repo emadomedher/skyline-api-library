@@ -1,0 +1,15 @@
+{
+  "id": "anonos",
+  "title": "anonos",
+  "subtitle": "anonos API integration",
+  "tags": [
+    "pseudonymisation",
+    "compliance",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581535417/catalog/anonos/icon128x128.jpg",
+  "website": "https://www.anonos.com/"
+}

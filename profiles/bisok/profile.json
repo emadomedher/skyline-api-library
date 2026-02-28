@@ -1,0 +1,14 @@
+{
+  "id": "bisok",
+  "title": "BIS",
+  "subtitle": "Helping organizations disrupt their industry & innovate workflows with intelligent document processing and data integ...",
+  "tags": [
+    "data-integration",
+    "document-processing"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609987206/icons/bisok.jpg",
+  "website": "https://www.bisok.com/"
+}

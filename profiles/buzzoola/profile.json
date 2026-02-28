@@ -1,0 +1,13 @@
+{
+  "id": "buzzoola",
+  "title": "Buzzoola",
+  "subtitle": "Buzzoola API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433518/catalog/buzzoola/icon128x128.png",
+  "website": "https://buzzoola.com"
+}

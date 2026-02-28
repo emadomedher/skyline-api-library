@@ -1,0 +1,13 @@
+{
+  "id": "matomo",
+  "title": "Matomo",
+  "subtitle": "Enjoy the full benefits of a Premium Web Analytics and Conversion Optimization tool ALL in one place, while taking fu...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721040/catalog/matomo/icon128x128.jpg",
+  "website": "https://matomo.org"
+}

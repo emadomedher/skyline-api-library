@@ -1,0 +1,13 @@
+{
+  "id": "issuehunt-io",
+  "title": "IssueHunt",
+  "subtitle": "IssueHunt  =  OSS Development ⚒ + Bounty Program .\n      IssueHunt is an issue-based bounty platform for open sou...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590652593/catalog/issuehunt-io/icon128x128.jpg",
+  "website": "https://issuehunt.io/"
+}

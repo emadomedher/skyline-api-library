@@ -1,0 +1,13 @@
+{
+  "id": "pressat",
+  "title": "Pressat",
+  "subtitle": "Pressat API integration",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436594/catalog/pressat/icon128x128.png",
+  "website": "https://pressat.co.uk"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sanalabs",
+  "title": "Sana Labs",
+  "subtitle": "Sana is your all-in-one, AI-assisted, online learning platform. Author employee training courses and measure team dev...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701445/icons/sanalabs.jpg",
+  "website": "https://www.sanalabs.com/"
+}

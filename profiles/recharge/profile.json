@@ -1,0 +1,14 @@
+{
+  "id": "recharge",
+  "title": "ReCharge",
+  "subtitle": "ReCharge is the leading platform to launch and scale a subscription business. Start today for free!",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539020/catalog/recharge/icon128x128.png",
+  "website": "https://rechargepayments.com/",
+  "docsUrl": "https://rechargepayments.com/developers"
+}

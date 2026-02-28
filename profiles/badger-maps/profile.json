@@ -1,0 +1,13 @@
+{
+  "id": "badger-maps",
+  "title": "Badger Maps",
+  "subtitle": "Badger Maps is the best mapping and routing app for outside sales. Drive 20% less and sell 25% more.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825855/catalog/badger-maps/icon128x128.jpg",
+  "website": "https://badgermapping.com"
+}

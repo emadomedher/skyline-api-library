@@ -1,0 +1,13 @@
+{
+  "id": "vii-events",
+  "title": "Vii-Events",
+  "subtitle": "We Help Organizations, Companies, and Individuals Create, Execute, and Experience Inspiring Virtual Events that Gener...",
+  "tags": [
+    "virtual-events"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640617431/icons/vii-events.jpg",
+  "website": "https://vii.events/"
+}

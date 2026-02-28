@@ -1,0 +1,13 @@
+{
+  "id": "jetpak",
+  "title": "Jetpak Sverige",
+  "subtitle": "Jetpak is the fastest logistics company in the nordics. With over 30 years of experience, we are precise and on time.",
+  "tags": [
+    "shipping-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572481434/catalog/jetpak/icon128x128.jpg",
+  "website": "https://jetpak.com/"
+}

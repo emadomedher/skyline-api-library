@@ -1,0 +1,14 @@
+{
+  "id": "webhook-site",
+  "title": "Webhook.site ",
+  "subtitle": "Instantly generate a free, unique URL and email address to test, inspect, and automate (with a visual workflow editor...",
+  "tags": [
+    "webhook-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612516714/icons/webhook-site.png",
+  "website": "https://webhook.site/",
+  "docsUrl": "http://docs.webhook.site"
+}

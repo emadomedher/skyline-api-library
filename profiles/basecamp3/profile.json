@@ -1,0 +1,13 @@
+{
+  "id": "basecamp3",
+  "title": "Basecamp 3",
+  "subtitle": "Basecamp’s unique blend of tools is everything any team needs to stay on the same page about whatever they’re working...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456719/catalog/basecamp3/icon128x128.png",
+  "website": "https://basecamp.com/"
+}

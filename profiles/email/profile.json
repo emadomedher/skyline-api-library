@@ -1,0 +1,12 @@
+{
+  "id": "email",
+  "title": "Email",
+  "subtitle": "Electronic mail (email or e-mail) is a method of exchanging messages (\"mail\") between people using electronic devices.",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568778901/catalog/email/icon128x128.png"
+}

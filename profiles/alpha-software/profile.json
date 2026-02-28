@@ -1,0 +1,13 @@
+{
+  "id": "alpha-software",
+  "title": "Alpha Software",
+  "subtitle": "Alpha Anywhere allows anyone to build powerful, enterprise mobile apps while giving IT the control to manage the envi...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717242/catalog/alpha-software/icon128x128.png",
+  "website": "https://alphasoftware.com"
+}

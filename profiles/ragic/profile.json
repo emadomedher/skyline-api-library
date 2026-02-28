@@ -1,0 +1,12 @@
+{
+  "id": "ragic",
+  "title": "Ragic",
+  "subtitle": "Ragic is an online database builder for creating real-world business applications using a simple Excel-like interface.",
+  "tags": [
+    "app-builder"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056135/catalog/ragic/icon128x128.png"
+}

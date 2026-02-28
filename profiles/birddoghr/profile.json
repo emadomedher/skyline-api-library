@@ -1,0 +1,13 @@
+{
+  "id": "birddoghr",
+  "title": "BirdDogHR",
+  "subtitle": "BirdDogHR offers integrated talent management including recruitment and applicant tracking, onboarding, social collab...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719134/catalog/birddoghr/icon128x128.jpg",
+  "website": "https://birddoghr.com"
+}

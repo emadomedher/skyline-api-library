@@ -1,0 +1,12 @@
+{
+  "id": "playfilm",
+  "title": "PlayFilm",
+  "subtitle": "PlayFilm is the tool to easily create video tests and capture qualified contacts. Optimize your conversion rate and g...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284577/catalog/playfilm/icon128x128.png"
+}

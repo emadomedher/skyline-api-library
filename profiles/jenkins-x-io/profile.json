@@ -1,0 +1,15 @@
+{
+  "id": "jenkins-x-io",
+  "title": "Jenkins X",
+  "subtitle": "Documentation, guides and support for Jenkins X",
+  "tags": [
+    "continuous-delivery",
+    "kubernetes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597482077/icons/jenkins-x-io.jpg",
+  "website": "https://jenkins-x.io/",
+  "docsUrl": "https://jenkins-x.io/docs"
+}

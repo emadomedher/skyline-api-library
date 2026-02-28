@@ -1,0 +1,15 @@
+{
+  "id": "thelessonspace",
+  "title": "Lessonspace",
+  "subtitle": "Virtual classroom and teaching software. The best way to teach online.",
+  "tags": [
+    "teaching",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792150/icons/thelessonspace.jpg",
+  "website": "https://www.thelessonspace.com/",
+  "docsUrl": "https://api.thelessonspace.com/v2/docs"
+}

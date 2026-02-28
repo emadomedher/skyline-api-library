@@ -1,0 +1,13 @@
+{
+  "id": "epson",
+  "title": "Epson",
+  "subtitle": "Epson API integration",
+  "tags": [
+    "printers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573172140/catalog/epson/icon128x128.jpg",
+  "website": "https://epson.com/"
+}

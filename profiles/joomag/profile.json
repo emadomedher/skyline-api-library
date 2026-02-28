@@ -1,0 +1,13 @@
+{
+  "id": "joomag",
+  "title": "Joomag",
+  "subtitle": "Joomag is the all-in-one platform offering a suite of integrated solutions for every content marketing, digital publi...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305212/catalog/joomag/icon128x128.png",
+  "website": "https://www.joomag.com/"
+}

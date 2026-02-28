@@ -1,0 +1,13 @@
+{
+  "id": "channelreply",
+  "title": "ChannelReply",
+  "subtitle": "The world's most powerful customer service tool for online sellers. Consolidate your eBay and Amazon messages on Zend...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586894476/catalog/channelreply/icon128x128.png",
+  "website": "https://www.channelreply.com/"
+}

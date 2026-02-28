@@ -1,0 +1,14 @@
+{
+  "id": "q2",
+  "title": "Q2",
+  "subtitle": "Q2 API integration",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612187949/icons/q2.png",
+  "website": "https://www.q2.com/",
+  "docsUrl": "https://www.q2developer.com"
+}

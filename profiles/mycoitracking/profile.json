@@ -1,0 +1,13 @@
+{
+  "id": "mycoitracking",
+  "title": "myCOI",
+  "subtitle": "myCOI's certificate tracking software and services will help you mitigate insurance risk and automate the process and...",
+  "tags": [
+    "insurance-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631602671/icons/mycoitracking.jpg",
+  "website": "https://mycoitracking.com/"
+}

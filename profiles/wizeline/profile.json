@@ -1,0 +1,13 @@
+{
+  "id": "wizeline",
+  "title": "Wizeline",
+  "subtitle": "Wizeline is a global product development company. We help our clients solve their biggest challenges with design and ...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722907/catalog/wizeline/icon128x128.jpg",
+  "website": "https://wizeline.com"
+}

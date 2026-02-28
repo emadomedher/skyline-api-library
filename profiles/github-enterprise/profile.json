@@ -1,0 +1,15 @@
+{
+  "id": "github-enterprise",
+  "title": "GitHub Enterprise",
+  "subtitle": "Whether you’re working solo or leading an enterprise, GitHub has everything you need to build and scale your team’s w...",
+  "tags": [
+    "developers",
+    "code-hosting"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581630750/catalog/github-enterprise/icon128x128.jpg",
+  "website": "https://github.com/enterprise",
+  "docsUrl": "https://help.github.com/en/github/supporting-the-open-source-community-with-github-sponsors/becoming-a-sponsored-developer#submitting-your-bank-and-tax-information"
+}

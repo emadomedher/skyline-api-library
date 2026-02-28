@@ -1,0 +1,13 @@
+{
+  "id": "plushforums",
+  "title": "PlushForums",
+  "subtitle": "The easy way to build a great community. Plush is the most polished, user-friendly forum software ever. Free for 14 d...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721519/catalog/plushforums/icon128x128.png",
+  "website": "https://plushforums.com"
+}

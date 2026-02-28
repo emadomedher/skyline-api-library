@@ -1,0 +1,14 @@
+{
+  "id": "overwolf",
+  "title": "Overwolf",
+  "subtitle": "Overwolf is an open platform for building gaming apps for top PC games. Use simple HTML and JavaScript to build nativ...",
+  "tags": [
+    "game-monetization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615931267/icons/overwolf.jpg",
+  "website": "https://www.overwolf.com/",
+  "docsUrl": "https://overwolf.github.io/docs/start/getting-started"
+}

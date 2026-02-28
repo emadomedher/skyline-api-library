@@ -1,0 +1,13 @@
+{
+  "id": "thelegalvillage-be",
+  "title": "The Legal Village",
+  "subtitle": "The Legal Village: juridische hulp met gratis adviezen op onze website of volledig op maat via uw rechtsbijstandverze...",
+  "tags": [
+    "legal-advice"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565280231/catalog/thelegalvillage-be/icon128x128.png",
+  "website": "https://thelegalvillage.be"
+}

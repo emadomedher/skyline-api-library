@@ -1,0 +1,13 @@
+{
+  "id": "motional",
+  "title": "Motional",
+  "subtitle": "Motional is making driverless vehicles a safe, reliable, and accessible reality.",
+  "tags": [
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885633/icons/motional.jpg",
+  "website": "https://motional.com/"
+}

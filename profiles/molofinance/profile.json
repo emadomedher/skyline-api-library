@@ -1,0 +1,14 @@
+{
+  "id": "molofinance",
+  "title": "Molo Finance",
+  "subtitle": "Molo - the UK's first fully digital, direct-to-customer buy-to-let mortgage lender. No paper, no appointments, just f...",
+  "tags": [
+    "mortgages",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581066515/catalog/molofinance/icon128x128.jpg",
+  "website": "https://molofinance.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "stilt",
+  "title": "Stilt",
+  "subtitle": "Loans for immigrants, non-U.S. citizens, and F-1, OPT, H-1B, TN, O-1, L-1 visa holders.",
+  "tags": [
+    "challenger-banks",
+    "lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982415/catalog/stilt/icon128x128.png",
+  "website": "https://www.stilt.com/"
+}

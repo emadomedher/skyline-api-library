@@ -1,0 +1,13 @@
+{
+  "id": "bidvestbank-za",
+  "title": "Bidvest Bank",
+  "subtitle": "Bidvest Bank, is a commercial bank in the Republic of South Africa. It is licensed as a \"locally-controlled bank\" by ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612733245/icons/bidvestbank-za.jpg",
+  "website": "https://www.bidvestbank.co.za/"
+}

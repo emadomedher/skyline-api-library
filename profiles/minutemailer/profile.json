@@ -1,0 +1,13 @@
+{
+  "id": "minutemailer",
+  "title": "Minutemailer",
+  "subtitle": "Make your company grow using professional newsletters and email. Simple and powerful.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721135/catalog/minutemailer/icon128x128.jpg",
+  "website": "https://minutemailer.com"
+}

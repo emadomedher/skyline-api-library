@@ -1,0 +1,13 @@
+{
+  "id": "globallogic",
+  "title": "GlobalLogic",
+  "subtitle": "GlobalLogic is a leading software engineering services provider. We help you in building digital service platforms, d...",
+  "tags": [
+    "outsourcing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869889/icons/globallogic.jpg",
+  "website": "https://www.globallogic.com/"
+}

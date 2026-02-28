@@ -1,0 +1,13 @@
+{
+  "id": "momentum-io",
+  "title": "Momentum",
+  "subtitle": "Momentum is a no code collaboration platform to build and automate sales workflows.",
+  "tags": [
+    "salesops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723373/icons/momentum-io.jpg",
+  "website": "https://momentum.io/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "burner",
+  "title": "Burner",
+  "subtitle": "Burner is a phone number app for calling, texting, and picture messaging using private, disposable phone numbers. Ava...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304552/catalog/burner/icon128x128.png"
+}

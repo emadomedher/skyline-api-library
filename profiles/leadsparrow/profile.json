@@ -1,0 +1,13 @@
+{
+  "id": "leadsparrow",
+  "title": "LeadSparrow",
+  "subtitle": "LeadSparrow is an email marketing platform that helps customers in sending click-worthy and personalized emails. Send...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720803/catalog/leadsparrow/icon128x128.jpg",
+  "website": "https://leadsparrow.com"
+}

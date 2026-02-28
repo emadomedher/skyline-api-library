@@ -1,0 +1,14 @@
+{
+  "id": "mediafly",
+  "title": "Mediafly",
+  "subtitle": "End-to-end sales enablement & content management platform gives marketers & reps an easy way to access, edit & share ...",
+  "tags": [
+    "channel-learning-and-readiness",
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826905/catalog/mediafly/icon128x128.jpg",
+  "website": "https://mediafly.com"
+}

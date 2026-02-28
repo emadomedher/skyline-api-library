@@ -1,0 +1,15 @@
+{
+  "id": "square-payroll",
+  "title": "Square Payroll",
+  "subtitle": "Square has all your payroll needs covered for one simple price. We even handle your tax filings. No hidden fees or lo...",
+  "tags": [
+    "payroll",
+    "hris"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590530/icons/square-payroll.jpg",
+  "website": "https://squareup.com/payroll",
+  "docsUrl": "https://developer.squareup.com/docs"
+}

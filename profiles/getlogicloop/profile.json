@@ -1,0 +1,13 @@
+{
+  "id": "getlogicloop",
+  "title": "LogicLoop",
+  "subtitle": "Set up a SQL-based rules engine on top of your data to alert, automate or review. LogicLoop is a low-code SaaS automa...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671572/icons/getlogicloop.jpg",
+  "website": "https://www.getlogicloop.com/"
+}

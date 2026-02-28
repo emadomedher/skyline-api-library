@@ -1,0 +1,13 @@
+{
+  "id": "gremlin-social",
+  "title": "Gremlin Social",
+  "subtitle": "Gremlin Social offers organizational tools to help manage social media for banks. Schedule a demo to learn more about...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720287/catalog/gremlin-social/icon128x128.png",
+  "website": "https://gremlinsocial.com"
+}

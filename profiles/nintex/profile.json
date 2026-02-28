@@ -1,0 +1,12 @@
+{
+  "id": "nintex",
+  "title": "Nintex",
+  "subtitle": "Nintex automates core business processes in SharePoint with a few clicks, not code, so you can give more complex proj...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305538/catalog/nintex/icon128x128.png"
+}

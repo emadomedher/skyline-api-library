@@ -1,0 +1,14 @@
+{
+  "id": "marketearlybird",
+  "title": "EarlyBird",
+  "subtitle": "EarlyBird API integration",
+  "tags": [
+    "trading",
+    "alternative-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614345/catalog/marketearlybird/icon128x128.png",
+  "website": "https://www.marketearlybird.com/"
+}

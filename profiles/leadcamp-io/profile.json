@@ -1,0 +1,14 @@
+{
+  "id": "leadcamp-io",
+  "title": "Leadcamp",
+  "subtitle": "Leadcamp enables reps to talk to prospects like a boss. Try our Touchpoint Intelligence software designed to make you...",
+  "tags": [
+    "lead-generation",
+    "sales-prospection"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618948344/icons/leadcamp-io.jpg",
+  "website": "https://leadcamp.io/"
+}

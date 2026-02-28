@@ -1,0 +1,13 @@
+{
+  "id": "tella-tv",
+  "title": "Tella",
+  "subtitle": "Create product demos, tutorials, presentations, and more — all in your web browser. Record your screen, camera, or sl...",
+  "tags": [
+    "video-cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017149/icons/tella-tv.png",
+  "website": "https://www.tella.tv/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "polygon-io",
+  "title": "Polygon.io",
+  "subtitle": "Free stock data APIs. Real time and historical data, unlimited usage, tick level and aggregate granularity, in standa...",
+  "tags": [
+    "stock-data-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637114209/icons/polygon-io.jpg",
+  "website": "https://polygon.io/",
+  "docsUrl": "https://polygon.io/docs"
+}

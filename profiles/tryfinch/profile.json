@@ -1,0 +1,15 @@
+{
+  "id": "tryfinch",
+  "title": "Finch",
+  "subtitle": "Finch",
+  "tags": [
+    "unified-apis",
+    "payroll-api"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602816471/icons/tryfinch.jpg",
+  "website": "https://tryfinch.com/",
+  "docsUrl": "https://developer.tryfinch.com/docs/reference/docs/employer/6-payment.md"
+}

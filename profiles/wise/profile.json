@@ -1,0 +1,13 @@
+{
+  "id": "wise",
+  "title": "Wise",
+  "subtitle": "Banks charge a lot for overseas transfers. We don't. Transfer money abroad easily and quickly with our low cost money...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414331/icons/wise.jpg",
+  "website": "https://wise.com/"
+}

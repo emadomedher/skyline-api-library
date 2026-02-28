@@ -1,0 +1,13 @@
+{
+  "id": "creditstacks",
+  "title": "CreditStacks",
+  "subtitle": "The revolutionary credit card designed specifically for relocating professionals. No credit history or SSN needed to ...",
+  "tags": [
+    "credit-cards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581636436/catalog/creditstacks/icon128x128.png",
+  "website": "https://www.creditstacks.com/"
+}

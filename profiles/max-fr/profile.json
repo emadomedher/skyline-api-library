@@ -1,0 +1,16 @@
+{
+  "id": "max-fr",
+  "title": "Max",
+  "subtitle": "Max is the trade name of the company Nouvelle Vague, a young Breton FinTech company and subsidiary of the Arkéa group.",
+  "tags": [
+    "challenger-banks",
+    "pfm",
+    "cards",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567369108/catalog/max-fr/icon128x128.jpg",
+  "website": "https://www.max.fr/"
+}

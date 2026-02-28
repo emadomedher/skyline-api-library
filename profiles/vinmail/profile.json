@@ -1,0 +1,13 @@
+{
+  "id": "vinmail",
+  "title": "Vinmail",
+  "subtitle": "Vinmail resolves the complexity of sending email and delivering email campaigns by saving your time and money.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946386/catalog/vinmail/icon128x128.jpg",
+  "website": "https://vinmail.org"
+}

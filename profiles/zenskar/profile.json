@@ -1,0 +1,13 @@
+{
+  "id": "zenskar",
+  "title": "Zenskar",
+  "subtitle": "Zenskar seamlessly manages complex subscription and usage based billing. Meter high throughput data, and automate rev...",
+  "tags": [
+    "billing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685784913/icons/zenskar.jpg",
+  "website": "https://www.zenskar.com/"
+}

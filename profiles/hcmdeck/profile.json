@@ -1,0 +1,15 @@
+{
+  "id": "hcmdeck",
+  "title": "HCM Deck",
+  "subtitle": "HCM Deck is an HR platform that helps companies manage employee development and learning. Support growth, boost motiv...",
+  "tags": [
+    "employee-development",
+    "human-resources-(hr)",
+    "hcm"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801287/catalog/hcmdeck/icon128x128.jpg",
+  "website": "https://hcmdeck.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "hubspot-crm",
+  "title": "HubSpot CRM",
+  "subtitle": "HubSpot's free CRM offers a centralized and easy-to-use interface to power your business, with premium CRM features a...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456016/catalog/hubspot-crm/icon128x128.png",
+  "website": "https://www.hubspot.com/products/crm",
+  "docsUrl": "https://developers.hubspot.com/"
+}

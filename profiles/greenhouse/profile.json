@@ -1,0 +1,14 @@
+{
+  "id": "greenhouse",
+  "title": "Greenhouse",
+  "subtitle": "Greenhouse helps thousands of companies design and automate all aspects of hiring throughout their organizations, hel...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628624919/icons/greenhouse.jpg",
+  "website": "https://www.greenhouse.io/",
+  "docsUrl": "https://developers.greenhouse.io/harvest.html"
+}

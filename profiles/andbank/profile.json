@@ -1,0 +1,13 @@
+{
+  "id": "andbank",
+  "title": "Andbank",
+  "subtitle": "Andbank is the oldest firm of private bankers in Andorra. Independent private bank with presence in 11 countries and ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863288/icons/andbank.jpg",
+  "website": "https://www.andbank.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "poolmanager-eu",
+  "title": "Poolmanager",
+  "subtitle": "Poolmanager helpt organisaties hun personeelsplanning en tijdregistratie zo te doen, dat ze met minimale inspanning e...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192461/icons/poolmanager-eu.jpg",
+  "website": "https://poolmanager.eu/"
+}

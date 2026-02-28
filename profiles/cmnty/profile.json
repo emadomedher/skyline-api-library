@@ -1,0 +1,13 @@
+{
+  "id": "cmnty",
+  "title": "CMNTY",
+  "subtitle": "CMNTY is a tool to build an online collective around your idea, brand or company. Understand people’s motivations and...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304667/catalog/cmnty/icon128x128.png",
+  "website": "https://cmnty.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "up-banking-au",
+  "title": "Up",
+  "subtitle": "Up Bank is a clever way to organise your finances, freeing you up to do the things you love. Join thousands of people...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570098624/catalog/up-banking-au/icon128x128.jpg",
+  "website": "https://up.com.au"
+}

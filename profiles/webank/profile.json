@@ -1,0 +1,14 @@
+{
+  "id": "webank",
+  "title": "WeBank (微众银行)",
+  "subtitle": "WeBank, China's 1st digital bank initiated by Tencent, offers wealth management and financing services through differ...",
+  "tags": [
+    "challenger-banks",
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598821743/icons/webank.jpg",
+  "website": "https://www.webank.com/"
+}

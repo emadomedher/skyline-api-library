@@ -1,0 +1,15 @@
+{
+  "id": "kaleyra",
+  "title": "Kaleyra",
+  "subtitle": "Kaleyra focuses on providing an integrated Cloud communication platform that caters to messaging services globally.",
+  "tags": [
+    "phone",
+    "cpaas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305222/catalog/kaleyra/icon128x128.png",
+  "website": "https://www.kaleyra.com/",
+  "docsUrl": "https://developers.kaleyra.com"
+}

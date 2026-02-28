@@ -1,0 +1,14 @@
+{
+  "id": "equityeffect",
+  "title": "Diligent Equity",
+  "subtitle": "Diligent Equity enables investors, law firms, and private companies to manage their cap tables, valuations, investmen...",
+  "tags": [
+    "equity-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656835/icons/equityeffect.png",
+  "website": "https://www.equityeffect.com/",
+  "docsUrl": "http://www.boarddocs.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pinboard",
+  "title": "Pinboard",
+  "subtitle": "Pinboard is a fast, no-nonsense bookmarking site. No ads, no fluff.",
+  "tags": [
+    "bookmarks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056101/catalog/pinboard/icon128x128.png",
+  "website": "https://pinboard.in/"
+}

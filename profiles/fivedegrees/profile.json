@@ -1,0 +1,16 @@
+{
+  "id": "fivedegrees",
+  "title": "five°degrees",
+  "subtitle": "Digital banking solutions that make your bank future proof. Five Degrees helps you make the most out of the digital b...",
+  "tags": [
+    "banking",
+    "fintech",
+    "consultancy"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583752307/catalog/fivedegrees/icon128x128.jpg",
+  "website": "https://www.fivedegrees.com/",
+  "docsUrl": "https://www.fivedegrees.com/resources/matrix-technical-documentation"
+}

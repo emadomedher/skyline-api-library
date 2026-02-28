@@ -1,0 +1,13 @@
+{
+  "id": "lakana",
+  "title": "Lakana",
+  "subtitle": "LAKANA is a next generation, enterprise-class content management platform that enables media companies and brands to ...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946870/catalog/lakana/icon128x128.png",
+  "website": "https://lakana.com"
+}

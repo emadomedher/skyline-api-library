@@ -1,0 +1,13 @@
+{
+  "id": "springbox-ai",
+  "title": "Springbox",
+  "subtitle": "Upgrade your trading game.",
+  "tags": [
+    "trading-forecasts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611533826/icons/springbox-ai.png",
+  "website": "https://www.springbox.ai/"
+}

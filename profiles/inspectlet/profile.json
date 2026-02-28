@@ -1,0 +1,13 @@
+{
+  "id": "inspectlet",
+  "title": "Inspectlet",
+  "subtitle": "Inspectlet API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553326798/catalog/inspectlet/icon128x128.jpg",
+  "website": "https://inspectlet.com"
+}

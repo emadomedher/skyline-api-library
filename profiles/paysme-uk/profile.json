@@ -1,0 +1,13 @@
+{
+  "id": "paysme-uk",
+  "title": "Paysme",
+  "subtitle": "We're on a mission to help our community of small business customers take control of their finances hassle free.",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626026526/icons/paysme-uk.jpg",
+  "website": "https://www.paysme.co.uk/"
+}

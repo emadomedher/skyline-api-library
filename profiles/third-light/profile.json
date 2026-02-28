@@ -1,0 +1,13 @@
+{
+  "id": "third-light",
+  "title": "Third Light",
+  "subtitle": "Third Light enables all of your organisation to manage all of its media in one place. 30-day free trial available.",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946471/catalog/third-light/icon128x128.jpg",
+  "website": "https://thirdlight.com"
+}

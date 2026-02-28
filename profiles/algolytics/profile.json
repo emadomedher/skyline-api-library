@@ -1,0 +1,13 @@
+{
+  "id": "algolytics",
+  "title": "Algolytics",
+  "subtitle": "Algolytics API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774777/catalog/algolytics/icon128x128.png",
+  "website": "https://algolytics.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dealpointio",
+  "title": "DealPoint.io",
+  "subtitle": "DealPoint.io API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964072/catalog/dealpointio/icon128x128.png",
+  "website": "https://dealpoint.io"
+}

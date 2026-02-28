@@ -1,0 +1,15 @@
+{
+  "id": "degreed",
+  "title": "Degreed",
+  "subtitle": "Degreed connects learning, talent development, and internal mobility opportunities in one place - so you can reinvent...",
+  "tags": [
+    "talent-management",
+    "education"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617633731/icons/degreed.png",
+  "website": "https://degreed.com/",
+  "docsUrl": "https://developer.degreed.com/"
+}

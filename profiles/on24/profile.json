@@ -1,0 +1,14 @@
+{
+  "id": "on24",
+  "title": "ON24",
+  "subtitle": "ON24 is a webinar-based marketing platform that drives demand generation and customer engagement.",
+  "tags": [
+    "webinars",
+    "video"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539013/catalog/on24/icon128x128.png",
+  "website": "https://on24.com"
+}

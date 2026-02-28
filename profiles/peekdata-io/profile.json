@@ -1,0 +1,17 @@
+{
+  "id": "peekdata-io",
+  "title": "Peekdata",
+  "subtitle": "Peekdata Data API gateway enables you to access your data from any source and embed reporting and analytics modules i...",
+  "tags": [
+    "data-integration",
+    "data-api-frameworks",
+    "data-api-gateways",
+    "api"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576470004/catalog/peekdata-io/icon128x128.jpg",
+  "website": "https://www.peekdata.io/",
+  "docsUrl": "https://www.peekdata.io/developers/index.html"
+}

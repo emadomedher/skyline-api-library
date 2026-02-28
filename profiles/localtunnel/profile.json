@@ -1,0 +1,14 @@
+{
+  "id": "localtunnel",
+  "title": "Localtunnel",
+  "subtitle": "Expose yourself to the world",
+  "tags": [
+    "local-debugging",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631050615/icons/localtunnel.png",
+  "website": "https://theboroer.github.io/localtunnel-www/"
+}

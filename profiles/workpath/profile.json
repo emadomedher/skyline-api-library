@@ -1,0 +1,13 @@
+{
+  "id": "workpath",
+  "title": "Workpath",
+  "subtitle": "Goal and performance management solutions for your organization. Connect your strategic plan with your employee’s dai...",
+  "tags": [
+    "performance-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583407382/catalog/workpath/icon128x128.jpg",
+  "website": "https://www.workpath.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "elevo-fr",
+  "title": "Elevo",
+  "subtitle": "Elevo est la plateforme de gestion de la performance qui transforme vos pratiques RH : Entretiens d'évaluation (annue...",
+  "tags": [
+    "employee-performance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669665514/icons/elevo-fr.jpg",
+  "website": "https://www.elevo.fr/"
+}

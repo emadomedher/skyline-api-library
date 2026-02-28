@@ -1,0 +1,13 @@
+{
+  "id": "profasee",
+  "title": "Profasee",
+  "subtitle": "Profasee’s dynamic pricing platform predicts the perfect price for every product at each precise moment for Amazon, W...",
+  "tags": [
+    "dynamic-product-pricing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674230105/icons/profasee.jpg",
+  "website": "https://profasee.com/"
+}

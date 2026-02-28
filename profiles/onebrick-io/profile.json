@@ -1,0 +1,14 @@
+{
+  "id": "onebrick-io",
+  "title": "Brick",
+  "subtitle": "Brick is a financial API provider that enables fintech developers to \nimplement delightful in-app financial services ...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612402266/icons/onebrick-io.jpg",
+  "website": "https://www.onebrick.io/",
+  "docsUrl": "https://docs.onebrick.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hapkey-io",
+  "title": "Hapkey",
+  "subtitle": "The mood of your organization is your key to success. Because the happier your people are, the better they perform, a...",
+  "tags": [
+    "employee-retention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648078596/icons/hapkey-io.jpg",
+  "website": "https://www.hapkey.io/"
+}

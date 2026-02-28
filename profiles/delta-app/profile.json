@@ -1,0 +1,14 @@
+{
+  "id": "delta-app",
+  "title": "Delta",
+  "subtitle": "Get Delta! The ultimate crypto tracker for your Bitcoin and other crypto currency. Get alerts so you don’t miss out o...",
+  "tags": [
+    "crypto",
+    "investment-tracker"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669497/icons/delta-app.png",
+  "website": "https://delta.app/"
+}

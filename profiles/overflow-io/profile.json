@@ -1,0 +1,13 @@
+{
+  "id": "overflow-io",
+  "title": "Overflow",
+  "subtitle": "The world’s first user flow diagramming tool tailored for designers. Build and present beautiful user flow diagrams t...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564833569/catalog/overflow-io/icon128x128.png",
+  "website": "https://overflow.io"
+}

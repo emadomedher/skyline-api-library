@@ -1,0 +1,13 @@
+{
+  "id": "ctrlshift",
+  "title": "CtrlShift",
+  "subtitle": "CtrlShift API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434030/catalog/ctrlshift/icon128x128.png",
+  "website": "https://ctrlshift.com"
+}

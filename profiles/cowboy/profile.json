@@ -1,0 +1,14 @@
+{
+  "id": "cowboy",
+  "title": "COWBOY",
+  "subtitle": "Cowboy is the first connected, electric bike that offers urban riders freedom to take the streets. The fastest way to...",
+  "tags": [
+    "e-bikes",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581516943/catalog/cowboy/icon128x128.jpg",
+  "website": "https://cowboy.com/"
+}

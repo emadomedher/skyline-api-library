@@ -1,0 +1,13 @@
+{
+  "id": "7suite",
+  "title": "7suite",
+  "subtitle": "7suite API integration",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432674/catalog/7suite/icon128x128.png",
+  "website": "https://7suite.com"
+}

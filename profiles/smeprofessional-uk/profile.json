@@ -1,0 +1,14 @@
+{
+  "id": "smeprofessional-uk",
+  "title": "SME Professional",
+  "subtitle": "Over 90% of companies presented to migrate to SME Professional. Intrigued? For letting agents our Cloud software comp...",
+  "tags": [
+    "property-management-lettings",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302465/icons/smeprofessional-uk.jpg",
+  "website": "https://www.smeprofessional.co.uk/"
+}

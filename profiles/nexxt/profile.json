@@ -1,0 +1,13 @@
+{
+  "id": "nexxt",
+  "title": "Nexxt",
+  "subtitle": "Nexxt, an HR technology company, makes finding the perfect candidates easier through the use of multichannel marketin...",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231789/icons/nexxt.jpg",
+  "website": "https://www.nexxt.com/"
+}

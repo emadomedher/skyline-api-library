@@ -1,0 +1,13 @@
+{
+  "id": "gx-software",
+  "title": "GX Software",
+  "subtitle": "GX Software is hét softwarebedrijf voor organisaties die digitale kanalen persoonlijk willen maken. Wij leveren de be...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826551/catalog/gx-software/icon128x128.jpg",
+  "website": "https://gxsoftware.com"
+}

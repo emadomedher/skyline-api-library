@@ -1,0 +1,13 @@
+{
+  "id": "floabank-fr",
+  "title": "FLOA Bank",
+  "subtitle": "French leader in omnichannel install payment solutions, FLOA (new name of Banque Casino) simplifies consumers' lives ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612488692/icons/floabank-fr.png",
+  "website": "https://www.floabank.fr/"
+}

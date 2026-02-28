@@ -1,0 +1,16 @@
+{
+  "id": "tonic-ai",
+  "title": "Tonic",
+  "subtitle": "Get your data moving as fast as your developers. Accelerate your development cycle while advancing data security with...",
+  "tags": [
+    "synthetic-data",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614342782/icons/tonic-ai.png",
+  "website": "https://tonic.ai/",
+  "docsUrl": "https://docs.tonic.ai/app/"
+}

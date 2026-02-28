@@ -1,0 +1,13 @@
+{
+  "id": "jlan-mobile",
+  "title": "jLAN Mobile",
+  "subtitle": "Route Sales & Direct Store Delivery Software for Dynamics GP, Dynamics AX and NetSuite. Integrate & automate your sal...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826693/catalog/jlan-mobile/icon128x128.png",
+  "website": "https://jlanmobile.com"
+}

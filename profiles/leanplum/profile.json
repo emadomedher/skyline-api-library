@@ -1,0 +1,13 @@
+{
+  "id": "leanplum",
+  "title": "Leanplum",
+  "subtitle": "We help mobile teams orchestrate multi-channel campaigns — from messaging to the in-app experience — all from a singl...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439251/catalog/leanplum/icon128x128.svg",
+  "website": "https://leanplum.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "moneyboxapp",
+  "title": "Moneybox",
+  "subtitle": "The Moneybox app is the simplest way to save and invest. Round up your purchases to the nearest pound and set aside t...",
+  "tags": [
+    "personal-finance-management",
+    "investments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565432660/catalog/moneyboxapp/icon128x128.png",
+  "website": "https://moneyboxapp.com"
+}

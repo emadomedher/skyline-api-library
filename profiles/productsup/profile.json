@@ -1,0 +1,13 @@
+{
+  "id": "productsup",
+  "title": "ProductsUp",
+  "subtitle": "Optimize and distribute product content and feeds to any ecommerce channel. Get premium technology from Productsup, l...",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436634/catalog/productsup/icon128x128.png",
+  "website": "https://productsup.io"
+}

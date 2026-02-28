@@ -1,0 +1,15 @@
+{
+  "id": "sonymcs",
+  "title": "Sony Media Cloud Services",
+  "subtitle": "Sony Media Cloud Services API integration",
+  "tags": [
+    "media-management",
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602704506/icons/sonymcs.jpg",
+  "website": "https://www.sonymcs.com/",
+  "docsUrl": "https://developers.cimediacloud.com"
+}

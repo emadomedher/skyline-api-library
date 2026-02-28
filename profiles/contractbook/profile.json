@@ -1,0 +1,14 @@
+{
+  "id": "contractbook",
+  "title": "Contractbook",
+  "subtitle": "Manage the entire lifecycle of your contracts in a single digital flow - for maximum efficiency and total overview.",
+  "tags": [
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304686/catalog/contractbook/icon128x128.png",
+  "website": "https://contractbook.com/",
+  "docsUrl": "https://contractbook.docs.apiary.io/#"
+}

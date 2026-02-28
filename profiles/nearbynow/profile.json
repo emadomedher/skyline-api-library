@@ -1,0 +1,12 @@
+{
+  "id": "nearbynow",
+  "title": "Nearby Now",
+  "subtitle": "Nearby Now's powerful marketing platform drives hyperlocal results for your own website by helping you secure more re...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305496/catalog/nearbynow/icon128x128.png"
+}

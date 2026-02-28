@@ -1,0 +1,14 @@
+{
+  "id": "carta",
+  "title": "Carta",
+  "subtitle": "Carta (formerly eShares) is an ownership and equity management platform trusted by thousands of founders, investors, ...",
+  "tags": [
+    "equity-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572473899/catalog/carta/icon128x128.png",
+  "website": "https://carta.com/",
+  "docsUrl": "https://carta.com/asc-820"
+}

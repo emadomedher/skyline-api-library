@@ -1,0 +1,13 @@
+{
+  "id": "joinme",
+  "title": "join.me",
+  "subtitle": "join.me is the instant, intuitive online meeting and collaboration solution. With join.me users can share their scree...",
+  "tags": [
+    "video-calls"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305211/catalog/joinme/icon128x128.png",
+  "website": "https://join.me"
+}

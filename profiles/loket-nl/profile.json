@@ -1,0 +1,15 @@
+{
+  "id": "loket-nl",
+  "title": "Loket.nl",
+  "subtitle": "Je complete HR- en salarisadministratie. In één gebruiksvriendelijke app. op Loket.",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187637/catalog/loket-nl/icon128x128.png",
+  "specUrl": "https://developer.loket.nl/swagger.json",
+  "website": "https://www.loket.nl/",
+  "docsUrl": "https://developer.loket.nl/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "vessel-land",
+  "title": "Vessel",
+  "subtitle": "Easily provide embedded CRM integrations from top providers to securely read and write CRM data.",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647372600/icons/vessel-land.jpg",
+  "website": "https://www.vessel.land/",
+  "docsUrl": "https://vesseldocs.stoplight.io"
+}

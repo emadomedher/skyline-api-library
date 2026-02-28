@@ -1,0 +1,14 @@
+{
+  "id": "inworld-ai",
+  "title": "Inworld AI",
+  "subtitle": "Create more realistic and believable worlds with characters powered by artificial intelligence. Inworld provides a pl...",
+  "tags": [
+    "game-development"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675801500/icons/inworld-ai.jpg",
+  "website": "https://www.inworld.ai/",
+  "docsUrl": "https://docs.inworld.ai/docs/tutorial-integrations"
+}

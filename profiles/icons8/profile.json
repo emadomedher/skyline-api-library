@@ -1,0 +1,13 @@
+{
+  "id": "icons8",
+  "title": "Icons8",
+  "subtitle": "Designers, download the design stuff for free — icons, photos, UX illustrations, and music for your videos.",
+  "tags": [
+    "icons"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562544744/catalog/icons8/icon128x128.jpg",
+  "website": "https://icons8.com"
+}

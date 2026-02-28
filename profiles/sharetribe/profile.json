@@ -1,0 +1,14 @@
+{
+  "id": "sharetribe",
+  "title": "Sharetribe",
+  "subtitle": "Build an online marketplace platform - fast! Get started for free. Code or no code. All essential features for any ma...",
+  "tags": [
+    "marketplace"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585679787/catalog/sharetribe/icon128x128.jpg",
+  "website": "https://www.sharetribe.com/",
+  "docsUrl": "https://www.sharetribe.com/docs"
+}

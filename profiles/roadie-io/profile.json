@@ -1,0 +1,14 @@
+{
+  "id": "roadie-io",
+  "title": "Roadie",
+  "subtitle": "\nRoadie's SaaS platform handles hosting and upgrades and ensures\nyou always have access to the latest Backstage featu...",
+  "tags": [
+    "internal-developer-portals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644512989/icons/roadie-io.jpg",
+  "website": "https://roadie.io/",
+  "docsUrl": "https://roadie.io/docs/getting-started/getting-started-for-admins"
+}

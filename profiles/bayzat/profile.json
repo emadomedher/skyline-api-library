@@ -1,0 +1,14 @@
+{
+  "id": "bayzat",
+  "title": "Bayzat",
+  "subtitle": "Bayzat is an HRMS & Payroll software & insurance provider in Dubai, UAE with automated HR, payroll & various insuranc...",
+  "tags": [
+    "hr",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678357851/icons/bayzat.png",
+  "website": "https://www.bayzat.com/"
+}

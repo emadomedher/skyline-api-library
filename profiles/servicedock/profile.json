@@ -1,0 +1,13 @@
+{
+  "id": "servicedock",
+  "title": "ServiceDock",
+  "subtitle": "Our messaging-based customer feedback and service platform helps chain stores attract and retain millennial customers...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962363/catalog/servicedock/icon128x128.png",
+  "website": "https://servicedock.com"
+}

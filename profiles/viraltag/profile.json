@@ -1,0 +1,13 @@
+{
+  "id": "viraltag",
+  "title": "Viraltag",
+  "subtitle": "Viraltag is the best social media marketing tool for sharing visuals across Pinterest, Instagram, Facebook & more, us...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722750/catalog/viraltag/icon128x128.png",
+  "website": "https://viraltag.com"
+}

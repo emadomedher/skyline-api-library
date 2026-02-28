@@ -1,0 +1,15 @@
+{
+  "id": "au10tix",
+  "title": "AU10TIX",
+  "subtitle": "AU10TIX API integration",
+  "tags": [
+    "id-verification",
+    "document-verification",
+    "kyc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605533754/icons/au10tix.png",
+  "website": "https://www.au10tix.com/"
+}

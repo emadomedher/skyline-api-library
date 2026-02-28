@@ -1,0 +1,14 @@
+{
+  "id": "bankifi",
+  "title": "BankiFi",
+  "subtitle": "BankiFi API integration",
+  "tags": [
+    "banking-as-a-service",
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611731841/icons/bankifi.jpg",
+  "website": "https://www.bankifi.com/"
+}

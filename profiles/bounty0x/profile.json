@@ -1,0 +1,13 @@
+{
+  "id": "bounty0x",
+  "title": "Bounty0x",
+  "subtitle": "Bounty0x is a global cryptocurrency bounty hunting platform. Earn cryptocurrency by completing marketing, software de...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774898/catalog/bounty0x/icon128x128.jpg",
+  "website": "https://bounty0x.io"
+}

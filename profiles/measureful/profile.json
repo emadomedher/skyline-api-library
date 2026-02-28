@@ -1,0 +1,13 @@
+{
+  "id": "measureful",
+  "title": "Measureful",
+  "subtitle": "Automating the collection, analysis and presentation of data. Turn marketing data into elegantly designed marketing a...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435804/catalog/measureful/icon128x128.png",
+  "website": "https://measureful.com"
+}

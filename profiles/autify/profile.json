@@ -1,0 +1,13 @@
+{
+  "id": "autify",
+  "title": "Autify",
+  "subtitle": "Autify is a software QA automation platform powered by AI",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562835429/catalog/autify/icon128x128.png",
+  "website": "https://autify.com"
+}

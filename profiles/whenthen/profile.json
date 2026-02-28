@@ -1,0 +1,15 @@
+{
+  "id": "whenthen",
+  "title": "WhenThen",
+  "subtitle": "WhenThen is a no-code open payments operations platform on a mission to empower every company to own and smarten up t...",
+  "tags": [
+    "payment-orcherstration",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655384673/icons/whenthen.jpg",
+  "website": "https://whenthen.com/",
+  "docsUrl": "https://documentation.whenthen.com"
+}

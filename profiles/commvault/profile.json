@@ -1,0 +1,14 @@
+{
+  "id": "commvault",
+  "title": "Commvault",
+  "subtitle": "Commvault protects your organization's data through one complete solution. Providing peace of mind with data backup a...",
+  "tags": [
+    "backup"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364591/icons/commvault.jpg",
+  "website": "https://www.commvault.com/",
+  "docsUrl": "https://documentation.commvault.com/commvault"
+}

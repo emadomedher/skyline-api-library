@@ -1,0 +1,14 @@
+{
+  "id": "spencer-co",
+  "title": "Spencer",
+  "subtitle": "Spencer proactively assists your workforce through employee-centric journeys. Empowering and connecting your employee...",
+  "tags": [
+    "employee-communication",
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565288299/catalog/spencer-co/icon128x128.jpg",
+  "website": "https://spencer.co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "signpost",
+  "title": "Signpost",
+  "subtitle": "Signpost is a leading provider of CRM and Marketing Automation software that helps small businesses get and keep cust...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437344/catalog/signpost/icon128x128.png",
+  "website": "https://signpost.com"
+}

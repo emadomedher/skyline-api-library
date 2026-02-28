@@ -1,0 +1,14 @@
+{
+  "id": "tidio",
+  "title": "Tidio",
+  "subtitle": "Tidio uniquely merges live chat, Bots, and Marketing Automation in one place to let you easily communicate with your ...",
+  "tags": [
+    "customer-support",
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830040/catalog/tidio/icon128x128.png",
+  "website": "https://www.tidio.com/"
+}

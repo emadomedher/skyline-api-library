@@ -1,0 +1,13 @@
+{
+  "id": "fyoosion",
+  "title": "Fyoosion",
+  "subtitle": "Fyoosion API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963853/catalog/fyoosion/icon128x128.png",
+  "website": "https://fyoosion.com"
+}

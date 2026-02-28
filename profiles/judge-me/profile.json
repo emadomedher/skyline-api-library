@@ -1,0 +1,14 @@
+{
+  "id": "judge-me",
+  "title": "Judge.me",
+  "subtitle": "Judge.me powers the product reviews for your e-commerce store. Our apps help you collect and display star ratings and...",
+  "tags": [
+    "product-review"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650881515/icons/judge-me.jpg",
+  "website": "https://judge.me/",
+  "docsUrl": "https://judge.me/api/docs/v1"
+}

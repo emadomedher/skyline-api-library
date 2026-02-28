@@ -1,0 +1,13 @@
+{
+  "id": "returnpath",
+  "title": "ReturnPath",
+  "subtitle": "Return Path is the email deliverability expert, helping marketers drive revenue through email.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721842/catalog/returnpath/icon128x128.jpg",
+  "website": "https://returnpath.com"
+}

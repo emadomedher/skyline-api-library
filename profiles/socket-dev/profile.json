@@ -1,0 +1,14 @@
+{
+  "id": "socket-dev",
+  "title": "Socket",
+  "subtitle": "Secure your JavaScript supply chain. Depend on Socket to protect your app from malicious dependencies lurking in your...",
+  "tags": [
+    "application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646691663/icons/socket-dev.jpg",
+  "website": "https://socket.dev/",
+  "docsUrl": "https://docs.google.com/forms/d/e/1faipqlseqezq6wh3cfjh-blox-1mucbliroyo-aqxpzxbqyjraxl5sa/viewform?usp=sf_link"
+}

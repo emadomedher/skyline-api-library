@@ -1,0 +1,15 @@
+{
+  "id": "helphero-co",
+  "title": "HelpHero",
+  "subtitle": "Improve user experience, onboarding &amp; success without writing code.",
+  "tags": [
+    "product-tours",
+    "onboarding"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604372337/icons/helphero-co.jpg",
+  "website": "https://helphero.co/",
+  "docsUrl": "https://helphero.co/docs"
+}

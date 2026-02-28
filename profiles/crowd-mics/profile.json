@@ -1,0 +1,13 @@
+{
+  "id": "crowd-mics",
+  "title": "Crowd Mics",
+  "subtitle": "Crowd Mics API integration",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434007/catalog/crowd-mics/icon128x128.png",
+  "website": "https://crowdmics.com"
+}

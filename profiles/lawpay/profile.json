@@ -1,0 +1,14 @@
+{
+  "id": "lawpay",
+  "title": "LawPay",
+  "subtitle": "LawPay makes it easy for firms and private practices to accept credit cards and manage their practice with a robust s...",
+  "tags": [
+    "payments",
+    "legal"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573231965/catalog/lawpay/icon128x128.jpg",
+  "website": "https://lawpay.com/"
+}

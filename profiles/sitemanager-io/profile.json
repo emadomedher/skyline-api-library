@@ -1,0 +1,13 @@
+{
+  "id": "sitemanager-io",
+  "title": "SiteManager",
+  "subtitle": "Empowering agencies and web professionals to scale their web design workflow by building design systems that improve ...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614786747/icons/sitemanager-io.jpg",
+  "website": "https://www.sitemanager.io/"
+}

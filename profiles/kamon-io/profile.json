@@ -1,0 +1,14 @@
+{
+  "id": "kamon-io",
+  "title": "kamon.io",
+  "subtitle": "Kamon helps developers find and fix performance issues in Akka and Play Framework microservices. Start monitoring mic...",
+  "tags": [
+    "application-performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621779697/icons/kamon-io.png",
+  "website": "https://kamon.io/",
+  "docsUrl": "https://kamon.io/docs/latest/guides"
+}

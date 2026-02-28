@@ -1,0 +1,13 @@
+{
+  "id": "oncrawl",
+  "title": "OnCrawl",
+  "subtitle": "OnCrawl API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963465/catalog/oncrawl/icon128x128.png",
+  "website": "https://oncrawl.com"
+}

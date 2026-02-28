@@ -1,0 +1,13 @@
+{
+  "id": "diggecard",
+  "title": "Diggecard",
+  "subtitle": "Delivering gift card expertise and technology to the heart of your business. Diggecard helps businesses of all kinds ...",
+  "tags": [
+    "gift-card"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909637/icons/diggecard.png",
+  "website": "https://diggecard.com/"
+}

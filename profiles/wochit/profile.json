@@ -1,0 +1,13 @@
+{
+  "id": "wochit",
+  "title": "Wochit",
+  "subtitle": "Wochit is a video creation platform for media companies and brands looking to expand audience engagement through the ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828038/catalog/wochit/icon128x128.jpg",
+  "website": "https://wochit.com"
+}

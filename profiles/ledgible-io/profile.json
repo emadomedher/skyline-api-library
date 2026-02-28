@@ -1,0 +1,14 @@
+{
+  "id": "ledgible-io",
+  "title": "Ledgible Crypto",
+  "subtitle": "The Ledgible Crypto Tax and Accounting platform provides professionals and individuals tools to monitor cryptocurrenc...",
+  "tags": [
+    "crypto-tax",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655243497/icons/ledgible-io.jpg",
+  "website": "https://ledgible.io/"
+}

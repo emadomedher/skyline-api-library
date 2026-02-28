@@ -1,0 +1,13 @@
+{
+  "id": "payveris",
+  "title": "Payveris",
+  "subtitle": "Payveris is the creator of The MoveMoney Platform, an Open-API cloud-based platform enabling financial institutions t...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572211123/catalog/payveris/icon128x128.jpg",
+  "website": "https://www.payveris.com/"
+}

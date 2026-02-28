@@ -1,0 +1,15 @@
+{
+  "id": "gigantum",
+  "title": "Gigantum",
+  "subtitle": "Science will always be difficult. Sharing your work shouldn't be. Gigantum is an open source platform for creating, c...",
+  "tags": [
+    "science",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569892389/catalog/gigantum/icon128x128.jpg",
+  "website": "https://gigantum.com/",
+  "docsUrl": "https://docs.gigantum.com/docs"
+}

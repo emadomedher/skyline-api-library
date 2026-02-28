@@ -1,0 +1,13 @@
+{
+  "id": "getmarker-io",
+  "title": "Marker.io",
+  "subtitle": "Report visual bugs directly into your existing issue tracking tool like Trello, Jira, GitHub, Asana, and more. Perfec...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567069819/catalog/getmarker-io/icon128x128.png",
+  "website": "https://getmarker.io"
+}

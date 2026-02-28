@@ -1,0 +1,14 @@
+{
+  "id": "enzyme-dev",
+  "title": "Enzyme — The fastest way to build websites without code.",
+  "subtitle": "The fastest way to build websites without code.",
+  "tags": [
+    "nocode",
+    "website-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612019588/icons/enzyme-dev.png",
+  "website": "https://enzyme.dev/"
+}

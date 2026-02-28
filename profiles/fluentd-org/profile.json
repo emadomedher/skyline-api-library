@@ -1,0 +1,15 @@
+{
+  "id": "fluentd-org",
+  "title": "Fluentd",
+  "subtitle": "Fluentd API integration",
+  "tags": [
+    "logging",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581165903/catalog/fluentd-org/icon128x128.jpg",
+  "website": "https://www.fluentd.org/",
+  "docsUrl": "https://docs.fluentd.org"
+}

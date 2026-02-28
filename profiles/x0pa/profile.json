@@ -1,0 +1,13 @@
+{
+  "id": "x0pa",
+  "title": "X0PA AI",
+  "subtitle": "X0PA is a B2B SaaS Hiring Management Software Powered by AI and Machine Learning, Allowing Recruiters to Make the Bes...",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887353/icons/x0pa.jpg",
+  "website": "https://x0pa.com/"
+}

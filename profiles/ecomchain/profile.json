@@ -1,0 +1,13 @@
+{
+  "id": "ecomchain",
+  "title": "eComchain",
+  "subtitle": "eComchain API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775067/catalog/ecomchain/icon128x128.png",
+  "website": "https://ecomchain.com"
+}

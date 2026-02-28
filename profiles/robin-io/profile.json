@@ -1,0 +1,15 @@
+{
+  "id": "robin-io",
+  "title": "Robin.io",
+  "subtitle": "Automate deployment of complex 5G & enterprise apps to improve productivity and reduce cost with cloud native Kuberne...",
+  "tags": [
+    "cloud-native-storage",
+    "data-management",
+    "kubernetes"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604326889/icons/robin-io.png",
+  "website": "https://robin.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "endorsal-io",
+  "title": "Endorsal",
+  "subtitle": "Fully automated collection & display of testimonials. Increase conversions with beautiful, simple social proof.",
+  "tags": [
+    "testimonials",
+    "reputation-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566650870/catalog/endorsal-io/icon128x128.png",
+  "website": "https://endorsal.io/"
+}

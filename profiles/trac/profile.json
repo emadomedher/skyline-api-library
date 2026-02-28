@@ -1,0 +1,14 @@
+{
+  "id": "trac",
+  "title": "Trac",
+  "subtitle": "Trac is an open-source, web-based project management and bug tracking system. It has been adopted by a variety of org...",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565399385/catalog/trac/icon128x128.jpg",
+  "website": "https://trac.edgewall.org",
+  "docsUrl": "https://trac.edgewall.org/wiki/TracGuide"
+}

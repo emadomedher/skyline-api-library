@@ -1,0 +1,13 @@
+{
+  "id": "3d-city",
+  "title": "3D City",
+  "subtitle": "3D City API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432664/catalog/3d-city/icon128x128.png",
+  "website": "https://3dcitysigns.com"
+}

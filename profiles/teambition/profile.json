@@ -1,0 +1,13 @@
+{
+  "id": "teambition",
+  "title": "Teambition",
+  "subtitle": "Teambition is a simple, efficient project collaboration tool with over 6 million users. Simply sign up with an email ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722463/catalog/teambition/icon128x128.png",
+  "website": "https://teambition.com"
+}

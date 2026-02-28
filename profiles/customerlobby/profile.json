@@ -1,0 +1,13 @@
+{
+  "id": "customerlobby",
+  "title": "CustomerLobby",
+  "subtitle": "Spotlight by Customer Lobby identifies customers likely to need repeat service. Then, it automatically sends personal...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947180/catalog/customerlobby/icon128x128.png",
+  "website": "https://customerlobby.com"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "nexhealth",
+  "title": "NexHealth",
+  "subtitle": "Join thousands of doctors, hundreds of developers, and millions of patients using NexHealth for EHR-integrated real-t...",
+  "tags": [
+    "unified-apis",
+    "healthcare-apis",
+    "ehr-apis",
+    "healthcare"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624984053/icons/nexhealth.jpg",
+  "website": "https://www.nexhealth.com/",
+  "docsUrl": "https://www.nexhealth.com/api"
+}

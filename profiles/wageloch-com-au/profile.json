@@ -1,0 +1,14 @@
+{
+  "id": "wageloch-com-au",
+  "title": "WageLoch",
+  "subtitle": "Time & attendance, rostering, and payroll solutions | Automatically apply award rules and pay rates | Eliminate time ...",
+  "tags": [
+    "timetracking",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564776604/catalog/wageloch-com-au/icon128x128.jpg",
+  "website": "https://wageloch.com.au"
+}

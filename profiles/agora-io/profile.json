@@ -1,0 +1,14 @@
+{
+  "id": "agora-io",
+  "title": "Agora",
+  "subtitle": "Real-time engagement for broadcasting solutions. The future of communications with the world’s leading voice, video, ...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563042319/catalog/agora-io/icon128x128.jpg",
+  "website": "https://agora.io",
+  "docsUrl": "https://docs.agora.io/en"
+}

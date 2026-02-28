@@ -1,0 +1,15 @@
+{
+  "id": "ferpa",
+  "title": "FERPA",
+  "subtitle": "Family Educational Rights and Privacy Act (FERPA) Home Page.",
+  "tags": [
+    "certifications",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613721552/icons/ferpa.png",
+  "website": "https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html"
+}

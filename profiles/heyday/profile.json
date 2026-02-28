@@ -1,0 +1,13 @@
+{
+  "id": "heyday",
+  "title": "Heyday",
+  "subtitle": "Engage customers with our conversational AI chatbot. Boost sales, improve return on ad spend and enhance customer exp...",
+  "tags": [
+    "live-chat-and-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720354/catalog/heyday/icon128x128.jpg",
+  "website": "https://heyday.ai"
+}

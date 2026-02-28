@@ -1,0 +1,18 @@
+{
+  "id": "har",
+  "title": "HAR",
+  "subtitle": "The specification for the HTTP Archive (HAR) format defines an archival format for HTTP transactions that can be used...",
+  "tags": [
+    "proptech",
+    "real-estate-portals",
+    "file-formats",
+    "files",
+    "http"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587080687/catalog/har/icon128x128.png",
+  "website": "https://en.wikipedia.org/wiki/HAR_(file_format)",
+  "docsUrl": "https://www.har.com/service_providers/developers/devel"
+}

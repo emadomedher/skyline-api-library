@@ -1,0 +1,14 @@
+{
+  "id": "cyclr",
+  "title": "Cyclr",
+  "subtitle": "Embedded integration toolkit for SaaS applications. Use API connectors to orchestrate data with a low-code workflow b...",
+  "tags": [
+    "integration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559315852/catalog/cyclr/icon128x128.jpg",
+  "website": "https://cyclr.com",
+  "docsUrl": "https://cyclr.com/docs"
+}

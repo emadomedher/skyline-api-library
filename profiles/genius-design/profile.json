@@ -1,0 +1,13 @@
+{
+  "id": "genius-design",
+  "title": "Genius",
+  "subtitle": "Your AI design companion",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676032179/icons/genius-design.png",
+  "website": "https://www.genius.design/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "awesome-table",
+  "title": "Awesome Table",
+  "subtitle": "Build Web Apps from Spreadsheets",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587572695/catalog/awesome-table/icon128x128.png",
+  "website": "https://awesome-table.com/"
+}

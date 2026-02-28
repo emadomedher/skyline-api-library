@@ -1,0 +1,13 @@
+{
+  "id": "repignite",
+  "title": "Repignite",
+  "subtitle": "Create sales contest to build real sales engagement for Inside Sales teams. Motivate salesforce with gamification too...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436910/catalog/repignite/icon128x128.png",
+  "website": "https://repignite.com"
+}

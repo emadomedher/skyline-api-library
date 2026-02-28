@@ -1,0 +1,13 @@
+{
+  "id": "savemysales-co",
+  "title": "SaveMySales",
+  "subtitle": "SaveMySales API integration",
+  "tags": [
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738445/catalog/savemysales-co/icon128x128.jpg",
+  "website": "https://savemysales.co/"
+}

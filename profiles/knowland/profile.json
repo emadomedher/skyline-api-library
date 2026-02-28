@@ -1,0 +1,13 @@
+{
+  "id": "knowland",
+  "title": "Knowland",
+  "subtitle": "Knowland provides deep analytics for group meetings and sales tools to maximize hotel group revenue. Knowland priorit...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826733/catalog/knowland/icon128x128.jpg",
+  "website": "https://knowland.com"
+}

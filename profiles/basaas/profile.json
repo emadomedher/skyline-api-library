@@ -1,0 +1,13 @@
+{
+  "id": "basaas",
+  "title": "Basaas",
+  "subtitle": "Your new productivity Hub",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805179/icons/basaas.jpg",
+  "website": "https://www.basaas.com/"
+}

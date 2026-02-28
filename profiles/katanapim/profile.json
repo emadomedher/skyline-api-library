@@ -1,0 +1,13 @@
+{
+  "id": "katanapim",
+  "title": "Katana PIM",
+  "subtitle": "Grow your business with easy product information management. Centralize your data and give your customers amazing pro...",
+  "tags": [
+    "product-information-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649664863/icons/katanapim.jpg",
+  "website": "https://www.katanapim.com/"
+}

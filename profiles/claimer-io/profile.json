@@ -1,0 +1,13 @@
+{
+  "id": "claimer-io",
+  "title": "Claimer",
+  "subtitle": "Get your Research and Development (R&D) Tax Credit claim done in as little as 20 minutes, for just 5% of what you get...",
+  "tags": [
+    "r&d-tax-credits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576014978/catalog/claimer-io/icon128x128.jpg",
+  "website": "https://www.claimer.io/"
+}

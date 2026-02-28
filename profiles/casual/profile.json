@@ -1,0 +1,13 @@
+{
+  "id": "casual",
+  "title": "Casual",
+  "subtitle": "Looking for a simple online project management tool? Casual.pm is the best tool for managing your projects as visual ...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433608/catalog/casual/icon128x128.png",
+  "website": "https://casual.pm"
+}

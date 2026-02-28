@@ -1,0 +1,14 @@
+{
+  "id": "getcoconut",
+  "title": "Coconut",
+  "subtitle": "With expenses, invoicing and tax all in one, Coconut is the ultimate accounting and tax tool for self-employed people.",
+  "tags": [
+    "accounting",
+    "expense-management"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601899951/icons/getcoconut.jpg",
+  "website": "https://getcoconut.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "horizon-io",
+  "title": "Horizon Blockchain Games",
+  "subtitle": "Building a new dimension of gaming that belongs to its players.",
+  "tags": [
+    "blockchain",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584051182/catalog/horizon-io/icon128x128.jpg",
+  "website": "https://horizon.io/"
+}

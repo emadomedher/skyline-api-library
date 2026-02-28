@@ -1,0 +1,16 @@
+{
+  "id": "ctrader",
+  "title": "cTrader",
+  "subtitle": "Join cTrader community to find platform's latest updates & help guides, download indicators & cBots, connect to exper...",
+  "tags": [
+    "forex",
+    "trading",
+    "community"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569927368/catalog/ctrader/icon128x128.gif",
+  "website": "https://ctrader.com/",
+  "docsUrl": "https://ctrader.com/api/reference"
+}

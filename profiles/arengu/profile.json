@@ -1,0 +1,13 @@
+{
+  "id": "arengu",
+  "title": "Arengu",
+  "subtitle": "Build all your sign-up logic without coding. Easily streamline users to your API or authentication systems.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594522293/icons/arengu.jpg",
+  "website": "https://www.arengu.com/"
+}

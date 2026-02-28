@@ -1,0 +1,15 @@
+{
+  "id": "peepl-io",
+  "title": "Peepl",
+  "subtitle": "With Peepl you can manage your members directory, calendar, communication, finances and much more with an easy-to-use...",
+  "tags": [
+    "membership-organization",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585396717/catalog/peepl-io/icon128x128.svg",
+  "website": "https://www.peepl.io/",
+  "docsUrl": "https://www.peepl.io/en/apidocs"
+}

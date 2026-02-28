@@ -1,0 +1,13 @@
+{
+  "id": "lbbw-de",
+  "title": "LBBW",
+  "subtitle": "Landesbank Baden-Württemberg (LBBW) is a universal bank and the Landesbank for some Federal States of Germany (Baden-...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601756240/icons/lbbw-de.jpg",
+  "website": "https://www.lbbw.de/"
+}

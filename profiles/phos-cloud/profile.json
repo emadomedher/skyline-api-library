@@ -1,0 +1,15 @@
+{
+  "id": "phos-cloud",
+  "title": "Phos",
+  "subtitle": "Phos is an innovative and game changing technology allowing merchants to take payments.",
+  "tags": [
+    "pos",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586894464/catalog/phos-cloud/icon128x128.png",
+  "website": "https://phos.cloud/",
+  "docsUrl": "https://phos.cloud/docs/phos_terms_and_conditions.pdf"
+}

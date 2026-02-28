@@ -1,0 +1,16 @@
+{
+  "id": "square",
+  "title": "Square",
+  "subtitle": "Square helps millions of sellers run their business-from secure credit card processing to point of sale solutions. Ge...",
+  "tags": [
+    "payment-processing",
+    "payment-gateways"
+  ],
+  "category": "Payments",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306175/catalog/square/icon128x128.png",
+  "specUrl": "https://raw.githubusercontent.com/square/connect-api-specification/master/api.json",
+  "website": "https://squareup.com/",
+  "docsUrl": "https://developer.squareup.com/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "clearscope-io",
+  "title": "Clearscope",
+  "subtitle": "Clearscope is the industry's most advanced content optimization platform that helps you produce relevant, high qualit...",
+  "tags": [
+    "content-optimization",
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612714216/icons/clearscope-io.jpg",
+  "website": "https://www.clearscope.io/"
+}

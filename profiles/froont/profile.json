@@ -1,0 +1,14 @@
+{
+  "id": "froont",
+  "title": "Froont",
+  "subtitle": "Design responsive landing pages, publications, microsites without code",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567507129/catalog/froont/icon128x128.png",
+  "website": "https://froont.com/",
+  "docsUrl": "https://docs.froont.com"
+}

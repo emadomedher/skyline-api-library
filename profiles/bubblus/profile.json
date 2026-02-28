@@ -1,0 +1,13 @@
+{
+  "id": "bubblus",
+  "title": "Bubbl.us",
+  "subtitle": "Brainstorm online with Bubbl.us. Easily create colorful mind maps to print or share with others. Almost no learning c...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433472/catalog/bubblus/icon128x128.png",
+  "website": "https://bubbl.us"
+}

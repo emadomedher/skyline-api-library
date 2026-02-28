@@ -1,0 +1,13 @@
+{
+  "id": "getresponse",
+  "title": "GetResponse",
+  "subtitle": "With GetResponse you can send email newsletters, campaigns, online surveys and follow-up autoresponders all from a si...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477982/catalog/getresponse/icon128x128.png",
+  "website": "https://www.getresponse.co.uk/"
+}

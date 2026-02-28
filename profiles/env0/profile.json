@@ -1,0 +1,14 @@
+{
+  "id": "env0",
+  "title": "env0",
+  "subtitle": "Let your team manage their own environment in AWS, Azure and Google. Governed by your policies and with complete visi...",
+  "tags": [
+    "cloud-cost-management",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592818033/icons/env0.jpg",
+  "website": "https://www.env0.com/"
+}

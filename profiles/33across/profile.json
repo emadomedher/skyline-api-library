@@ -1,0 +1,13 @@
+{
+  "id": "33across",
+  "title": "33Across",
+  "subtitle": "33Across is a technology company focused on solving the challenge of consumer attention for an era of automated adver...",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717059/catalog/33across/icon128x128.jpg",
+  "website": "https://33Across.com"
+}

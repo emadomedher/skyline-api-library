@@ -1,0 +1,13 @@
+{
+  "id": "usefocus-co",
+  "title": "Focus",
+  "subtitle": "Focus is the simplest OKR software for SaaS companies that turns your goals into results",
+  "tags": [
+    "okr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628215429/icons/usefocus-co.jpg",
+  "website": "https://usefocus.co/"
+}

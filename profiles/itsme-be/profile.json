@@ -1,0 +1,13 @@
+{
+  "id": "itsme-be",
+  "title": "itsme",
+  "subtitle": "itsme®, je digitale ID.\nVeilig inloggen, gegevens delen of tekenen, alleen nog met je gsm.",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597088232/icons/itsme-be.jpg",
+  "website": "https://www.itsme.be"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "apphub",
+  "title": "AppHub",
+  "subtitle": "We’re on a mission to help merchants maximize their commercial success and advance the future of commerce together.",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753785/icons/apphub.png",
+  "website": "https://www.apphub.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "abacusinsights",
+  "title": "Abacus Insights",
+  "subtitle": "Abacus Insights is a data management solution that harnesses the power of the healthcare data explosion to enhance pe...",
+  "tags": [
+    "healthcare-data-integration",
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583934837/catalog/abacusinsights/icon128x128.png",
+  "website": "https://abacusinsights.com/"
+}

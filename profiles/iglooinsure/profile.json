@@ -1,0 +1,13 @@
+{
+  "id": "iglooinsure",
+  "title": "Igloo",
+  "subtitle": "Igloo makes insurance accessible for all with affordable, simple, painless and honest digital insurance products.",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587833015/catalog/iglooinsure/icon128x128.jpg",
+  "website": "https://www.iglooinsure.com/"
+}

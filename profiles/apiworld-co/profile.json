@@ -1,0 +1,15 @@
+{
+  "id": "apiworld-co",
+  "title": "API World",
+  "subtitle": "API World is the world’s largest API conference with 4,000+ attendees from 30+ countries and 50+ exhibitors exploring...",
+  "tags": [
+    "conferences",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364594/icons/apiworld-co.jpg",
+  "website": "https://apiworld.co/",
+  "docsUrl": "https://www.developerweek.com"
+}

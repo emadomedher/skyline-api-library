@@ -1,0 +1,13 @@
+{
+  "id": "sympa",
+  "title": "Sympa",
+  "subtitle": "Sympa is a complete, fully customisable HR software that lets you focus on your people and smart decision-making. Exp...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256977/catalog/sympa/icon128x128.jpg",
+  "website": "https://www.sympa.com/"
+}

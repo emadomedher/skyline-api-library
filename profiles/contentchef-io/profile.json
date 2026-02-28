@@ -1,0 +1,14 @@
+{
+  "id": "contentchef-io",
+  "title": "ContentChef - Headless CMS",
+  "subtitle": "An headless cms deigned for smart developers,great designer and businesses wanting to accelerate the time to market o...",
+  "tags": [
+    "headless-cms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611926821/icons/contentchef-io.png",
+  "website": "https://www.contentchef.io/",
+  "docsUrl": "https://www.contentchef.io/how-it-works/for-developers"
+}

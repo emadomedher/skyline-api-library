@@ -1,0 +1,14 @@
+{
+  "id": "harperdb-io",
+  "title": "HarperDB",
+  "subtitle": "HarperDB is a SQL/NoSQL data management platform. It is fully indexed, doesn’t duplicate data, and runs on any device...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662068344/icons/harperdb-io.jpg",
+  "website": "https://harperdb.io/",
+  "docsUrl": "https://harperdb.io/docs/overview"
+}

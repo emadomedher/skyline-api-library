@@ -1,0 +1,13 @@
+{
+  "id": "instapayments-io",
+  "title": "InstaPayments",
+  "subtitle": "InstaPayments gives you Signup Pages and a Customer Portal in a few clicks.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582669843/catalog/instapayments-io/icon128x128.jpg",
+  "website": "https://www.instapayments.io/"
+}

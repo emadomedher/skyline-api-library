@@ -1,0 +1,13 @@
+{
+  "id": "azlo",
+  "title": "Azlo",
+  "subtitle": "Azlo provides online banking and free checking for small businesses. Our platform features unlimited transactions, on...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599335538/icons/azlo.jpg",
+  "website": "https://www.azlo.com/"
+}

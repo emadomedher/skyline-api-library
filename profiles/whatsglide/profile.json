@@ -1,0 +1,15 @@
+{
+  "id": "whatsglide",
+  "title": "Glide Practice Solutions Limited",
+  "subtitle": "Workflow, timesheets, invoicing and staff scheduling for Accountants",
+  "tags": [
+    "workflow-management",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584346796/catalog/whatsglide/icon128x128.png",
+  "website": "https://www.whatsglide.com/",
+  "docsUrl": "https://www.whatsglide.com/developer"
+}

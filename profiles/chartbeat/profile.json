@@ -1,0 +1,13 @@
+{
+  "id": "chartbeat",
+  "title": "Chartbeat",
+  "subtitle": "Improve audience engagement, inform editorial decisions, and increase readership. Chartbeat delivers real-time analyt...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439140/catalog/chartbeat/icon128x128.svg",
+  "website": "https://chartbeat.com"
+}

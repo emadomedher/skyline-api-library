@@ -1,0 +1,14 @@
+{
+  "id": "fellow-app",
+  "title": "Fellow.app",
+  "subtitle": "Fellow is the best tool for meetings. From 1-on-1s to team meetings, build collaborative meeting agendas, assign acti...",
+  "tags": [
+    "meeting-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887440/icons/fellow-app.jpg",
+  "website": "https://fellow.app/",
+  "docsUrl": "https://fellow.app/compare/fellow-vs-google-docs"
+}

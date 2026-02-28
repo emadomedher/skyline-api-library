@@ -1,0 +1,13 @@
+{
+  "id": "ltse",
+  "title": "LTSE",
+  "subtitle": "LTSE's innovative approach is designed to provide a new public markets experience for modern companies and investors ...",
+  "tags": [
+    "stock-exchanges"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587415369/catalog/ltse/icon128x128.jpg",
+  "website": "https://ltse.com/"
+}

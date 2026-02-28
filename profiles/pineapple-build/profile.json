@@ -1,0 +1,14 @@
+{
+  "id": "pineapple-build",
+  "title": "Pineapple Studio",
+  "subtitle": "Pineapple Studio API integration",
+  "tags": [
+    "no-code",
+    "mobile-apps"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863264/icons/pineapple-build.jpg",
+  "website": "https://pineapple.build/"
+}

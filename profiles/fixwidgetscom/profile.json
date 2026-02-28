@@ -1,0 +1,13 @@
+{
+  "id": "fixwidgetscom",
+  "title": "Fixwidgets.com",
+  "subtitle": "Find broken embed widgets in your content within minutes. We support all major social networks: Instagram, Facebook, ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947000/catalog/fixwidgetscom/icon128x128.jpg",
+  "website": "https://fixwidgets.com"
+}

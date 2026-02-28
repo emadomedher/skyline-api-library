@@ -1,0 +1,13 @@
+{
+  "id": "userlane",
+  "title": "Userlane",
+  "subtitle": "Automate customer onboarding and employee training with step by step interactive walkthroughs. Easy implementation, n...",
+  "tags": [
+    "user-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946421/catalog/userlane/icon128x128.jpg",
+  "website": "https://userlane.com"
+}

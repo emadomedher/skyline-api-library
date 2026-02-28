@@ -1,0 +1,13 @@
+{
+  "id": "cocoondata",
+  "title": "Cocoon Data",
+  "subtitle": "Cocoon Data API integration",
+  "tags": [
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578740379/catalog/cocoondata/icon128x128.png",
+  "website": "https://cocoondata.com/"
+}

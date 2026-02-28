@@ -1,0 +1,13 @@
+{
+  "id": "neubrain",
+  "title": "Neubrain",
+  "subtitle": "Neubrain - Innovative Budgeting, Business Analytics and Performance Management Software Solutions",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721244/catalog/neubrain/icon128x128.png",
+  "website": "https://neubrain.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "interac-ca",
+  "title": "Interac",
+  "subtitle": "Discover more about everyday conveniences Interac can provide to make your life easier and payment solutions that can...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662389229/icons/interac-ca.jpg",
+  "website": "https://www.interac.ca/en/",
+  "docsUrl": "https://developer.interac.ca/"
+}

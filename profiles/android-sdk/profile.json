@@ -1,0 +1,14 @@
+{
+  "id": "android-sdk",
+  "title": "Android SDK",
+  "subtitle": "Android SDK API integration",
+  "tags": [
+    "ssk",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557272896/catalog/android-sdk/icon128x128.png",
+  "website": "https://www.android.com/"
+}

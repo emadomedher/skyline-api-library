@@ -1,0 +1,13 @@
+{
+  "id": "agil-technologies",
+  "title": "Agil Technologies",
+  "subtitle": "Agil Technologies provides agility, a collaborative platform that manages all marketing activities and connects all p...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947303/catalog/agil-technologies/icon128x128.jpg",
+  "website": "https://agil.com"
+}

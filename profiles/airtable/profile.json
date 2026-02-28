@@ -1,0 +1,16 @@
+{
+  "id": "airtable",
+  "title": "Airtable",
+  "subtitle": "Airtable works like a spreadsheet but gives you the power of a database to organize anything. Sign up for free.",
+  "tags": [
+    "spreadsheets",
+    "database",
+    "crm"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456009/catalog/airtable/icon128x128.png",
+  "website": "https://airtable.com/",
+  "docsUrl": "https://airtable.com/developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shoppingfeed",
+  "title": "Shoppingfeed",
+  "subtitle": "Accédez à plus de 1000 canaux de vente et d’acquisition, augmentez vos ventes et optimisez votre rentabilité. Vendez ...",
+  "tags": [
+    "product-feed-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680207451/icons/shoppingfeed.png",
+  "website": "https://shoppingfeed.com/",
+  "docsUrl": "https://developer.shopping-feed.com/api/yxbpoji1mtmynzm4-order-api"
+}

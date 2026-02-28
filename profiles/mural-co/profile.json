@@ -1,0 +1,13 @@
+{
+  "id": "mural-co",
+  "title": "MURAL",
+  "subtitle": "MURAL is a digital workspace for visual collaboration. Simply put what’s on your mind on sticky notes. Then organize ...",
+  "tags": [
+    "collaborative-design"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587651095/catalog/mural-co/icon128x128.jpg",
+  "website": "https://www.mural.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cyabra",
+  "title": "Cyabra",
+  "subtitle": "We break down social media so you can understand narratives, detect authenticity and reach true audiences.",
+  "tags": [
+    "disinformation-detection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528047/icons/cyabra.jpg",
+  "website": "https://cyabra.com/"
+}

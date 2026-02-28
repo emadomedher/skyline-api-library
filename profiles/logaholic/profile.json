@@ -1,0 +1,13 @@
+{
+  "id": "logaholic",
+  "title": "Logaholic",
+  "subtitle": "Logaholic is a Web Analytics provider with solutions for individual websites, hosting providers and agencies. Self ho...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720877/catalog/logaholic/icon128x128.jpg",
+  "website": "https://logaholic.com"
+}

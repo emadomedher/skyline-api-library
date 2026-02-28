@@ -1,0 +1,14 @@
+{
+  "id": "sharepoint-online",
+  "title": "SharePoint Online",
+  "subtitle": "SharePoint Online API integration",
+  "tags": [
+    "team-collaboration",
+    "microsoft-flow"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573858412/catalog/sharepoint-online/icon128x128.png",
+  "website": "https://support.office.com/en-us/article/sign-in-to-sharepoint-online-324a89ec-e77b-4475-b64a-13a0c14c45ec"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "slyce",
+  "title": "Slyce",
+  "subtitle": "With more than 200 million mobile coupons activated in the last two years, we’ve helped spark a mobile coupon revolut...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946582/catalog/slyce/icon128x128.jpg",
+  "website": "https://coupons.slyce.it"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "broadridge",
+  "title": "Broadridge",
+  "subtitle": "Broadridge is the leading provider of investor communications, technology-driven solutions, and data and analytics to...",
+  "tags": [
+    "through-channel-marketing-automation",
+    "channel-partner-and-local-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433469/catalog/broadridge/icon128x128.png",
+  "website": "https://www.broadridge.com/",
+  "docsUrl": "https://www.broadridge.com/intl/financial-services/capital-markets/optimise-your-operating-model-with-managed-services/managed-reference-data-service"
+}

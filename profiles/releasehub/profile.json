@@ -1,0 +1,15 @@
+{
+  "id": "releasehub",
+  "title": "Release",
+  "subtitle": "Release Environments streamline the development process, with Environments as a Service: fast, shareable, scalable, m...",
+  "tags": [
+    "developer-tools",
+    "environments-as-a-service"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642619980/icons/releasehub.png",
+  "website": "https://releasehub.com/",
+  "docsUrl": "https://docs.releasehub.com"
+}

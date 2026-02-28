@@ -1,0 +1,12 @@
+{
+  "id": "facebook-events",
+  "title": "Facebook Events",
+  "subtitle": "Facebook Events API integration",
+  "tags": [
+    "events"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456711/catalog/facebook/icon128x128.png"
+}

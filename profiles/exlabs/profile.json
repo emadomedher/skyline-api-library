@@ -1,0 +1,13 @@
+{
+  "id": "exlabs",
+  "title": "EXLABS",
+  "subtitle": "We deliver high-level consultancy & flexible, complex data-driven software solutions for the companies of the future....",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641269651/icons/exlabs.png",
+  "website": "https://exlabs.com/"
+}

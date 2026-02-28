@@ -1,0 +1,13 @@
+{
+  "id": "mmhmm-app",
+  "title": "mmhmm",
+  "subtitle": "A new way to communicate via video — both in real-time and asynchronously. Perfect for our new remote reality, add po...",
+  "tags": [
+    "video-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594906737/icons/mmhmm-app.jpg",
+  "website": "https://www.mmhmm.app/"
+}

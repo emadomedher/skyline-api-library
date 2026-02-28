@@ -1,0 +1,15 @@
+{
+  "id": "zenefits",
+  "title": "Zenefits",
+  "subtitle": "Zenefits is an award-winning People Ops Platform that makes it easy to manage your employee documents, HR, benefits, ...",
+  "tags": [
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554428048/catalog/zenefits/icon128x128.jpg",
+  "website": "https://www.zenefits.com/",
+  "docsUrl": "https://developers.zenefits.com/"
+}

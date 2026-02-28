@@ -1,0 +1,13 @@
+{
+  "id": "newzik",
+  "title": "Newzik",
+  "subtitle": "Welcome to Newzik! We develop technological products and services to help musicians, orchestras and music publishers ...",
+  "tags": [
+    "digital-sheet-music"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589208739/catalog/newzik/icon128x128.jpg",
+  "website": "https://newzik.com/"
+}

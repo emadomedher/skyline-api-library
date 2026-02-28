@@ -1,0 +1,14 @@
+{
+  "id": "preflight",
+  "title": "PreFlight",
+  "subtitle": "Preflight - Code-free Automated Software Testing.",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603145930/icons/preflight.jpg",
+  "website": "https://preflight.com/",
+  "docsUrl": "https://preflight.com/support"
+}

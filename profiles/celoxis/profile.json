@@ -1,0 +1,13 @@
+{
+  "id": "celoxis",
+  "title": "Celoxis",
+  "subtitle": "Celoxis is an all-in-one platform for project management, work collaboration and workflow automation.",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538958/catalog/celoxis/icon128x128.png",
+  "website": "https://celoxis.com"
+}

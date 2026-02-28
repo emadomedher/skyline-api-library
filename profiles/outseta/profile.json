@@ -1,0 +1,13 @@
+{
+  "id": "outseta",
+  "title": "Outseta",
+  "subtitle": "Outseta offers all the software tools you need to launch and scale a SaaS \nstart-up including subscription billing, C...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963409/catalog/outseta/icon128x128.png",
+  "website": "https://outseta.com"
+}

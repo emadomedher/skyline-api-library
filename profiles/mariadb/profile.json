@@ -1,0 +1,14 @@
+{
+  "id": "mariadb",
+  "title": "MariaDB",
+  "subtitle": "Our second poll aims to get to know you better by learning which version of MariaDB Server you primarily use in produ...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1145729423628357632/juwtUgGy_200x200.png",
+  "website": "https://mariadb.org/",
+  "docsUrl": "https://mariadb.org/documentation"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wagepoint",
+  "title": "Wagepoint",
+  "subtitle": "Payroll accounting software for small businesses to pay your employees and independent contractors. Quick and easy ac...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639604633/icons/wagepoint.jpg",
+  "website": "https://wagepoint.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sharebite",
+  "title": "Sharebite",
+  "subtitle": "Hey! We’re Sharebite, a mission-driven food ordering platform built exclusively for companies. Order a meal, and we w...",
+  "tags": [
+    "food-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649182439/icons/sharebite.jpg",
+  "website": "https://sharebite.com/"
+}

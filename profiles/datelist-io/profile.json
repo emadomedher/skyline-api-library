@@ -1,0 +1,13 @@
+{
+  "id": "datelist-io",
+  "title": "Datelist",
+  "subtitle": "Add a digital booking calendar to your website and start booking appointments online now with Datelist.",
+  "tags": [
+    "appointment-scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628808364/icons/datelist-io.png",
+  "website": "https://datelist.io/"
+}

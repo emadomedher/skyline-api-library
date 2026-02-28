@@ -1,0 +1,13 @@
+{
+  "id": "google-chrome-extension",
+  "title": "Google Chrome Extension",
+  "subtitle": "Google Chrome Extension API integration",
+  "tags": [
+    "browser-extensions"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572016334/catalog/google-chrome-extension/icon128x128.jpg",
+  "website": "https://developer.chrome.com/extensions"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ubankapp",
+  "title": "Übank",
+  "subtitle": "Übank is an automatic savings solution that helps people save automatically based on their lifestyle and everyday act...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601846780/icons/ubankapp.jpg",
+  "website": "https://ubankapp.com/"
+}

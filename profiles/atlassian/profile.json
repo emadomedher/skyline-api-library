@@ -1,0 +1,15 @@
+{
+  "id": "atlassian",
+  "title": "Atlassian",
+  "subtitle": "Millions of users globally rely on Atlassian products every day for improving software development, project managemen...",
+  "tags": [
+    "project-management",
+    "developer-tools"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547936485/catalog/atlassian/icon128x128.png",
+  "website": "https://atlassian.com",
+  "docsUrl": "https://developer.atlassian.com/"
+}

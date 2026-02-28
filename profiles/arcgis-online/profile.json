@@ -1,0 +1,13 @@
+{
+  "id": "arcgis-online",
+  "title": "ArcGIS Online",
+  "subtitle": "ArcGIS Online is a leading enterprise Geographic Information System (GIS) that allows collaborative sharing of rich w...",
+  "tags": [
+    "databases",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304416/catalog/arcgis-online/icon128x128.png"
+}

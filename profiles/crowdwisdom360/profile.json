@@ -1,0 +1,13 @@
+{
+  "id": "crowdwisdom360",
+  "title": "CrowdWisdom",
+  "subtitle": "CrowdWisdom360 is India’s first prediction market game to test the knowledge of an individual on various \n           ...",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610512370/icons/crowdwisdom360.png",
+  "website": "https://www.crowdwisdom360.com/"
+}

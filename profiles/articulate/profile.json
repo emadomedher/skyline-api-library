@@ -1,0 +1,15 @@
+{
+  "id": "articulate",
+  "title": "Articulate",
+  "subtitle": "Learn about Articulate products, including Articulate 360, which simplifies course authoring and e-learning developme...",
+  "tags": [
+    "learning-management-system-(lms)",
+    "e-learning"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746593/icons/articulate.jpg",
+  "website": "https://articulate.com/",
+  "docsUrl": "https://community.articulate.com/articles/visual-design-how-tos-for-e-learning-developers?utm_source=www-referral&utm_medium=internal&utm_campaign=resources"
+}

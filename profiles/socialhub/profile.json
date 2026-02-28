@@ -1,0 +1,13 @@
+{
+  "id": "socialhub",
+  "title": "SocialHub",
+  "subtitle": "Up your Social Media Management game today! Create and schedule Facebook Posts and Ads in one simple and fun to use i...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962270/catalog/socialhub/icon128x128.png",
+  "website": "https://socialhub.io"
+}

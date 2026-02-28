@@ -1,0 +1,14 @@
+{
+  "id": "hydrahost",
+  "title": "Hydra Host",
+  "subtitle": "HYDRA || Cross-Cloud Native Hosting",
+  "tags": [
+    "cloud-infrastructure"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649374979/icons/hydrahost.jpg",
+  "website": "https://www.hydrahost.com/",
+  "docsUrl": "https://www.hydrahost.com/docs/hydra-pp.pdf"
+}

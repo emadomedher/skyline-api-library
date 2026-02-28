@@ -1,0 +1,15 @@
+{
+  "id": "zabo",
+  "title": "Zabo",
+  "subtitle": "Zabo is an API for connecting to any crypto exchange, wallet, protocol or account. Sign up for access to free API key...",
+  "tags": [
+    "crypto",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614391401/icons/zabo.png",
+  "website": "https://zabo.com/",
+  "docsUrl": "https://zabo.com"
+}

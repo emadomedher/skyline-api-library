@@ -1,0 +1,12 @@
+{
+  "id": "informix",
+  "title": "Informix",
+  "subtitle": "Microsoft Connector for Informix integrates Azure applications with resources stored in an IBM Informix database. Con...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264799/catalog/informix/icon128x128.png"
+}

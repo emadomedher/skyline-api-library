@@ -1,0 +1,13 @@
+{
+  "id": "csscorp",
+  "title": "CSS",
+  "subtitle": "CSS Corp is IT services and premium tech support solutions company to harnesses power of digital, cognitive IT servic...",
+  "tags": [
+    "customer-support-servicesnon-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869897/icons/csscorp.jpg",
+  "website": "https://www.csscorp.com/"
+}

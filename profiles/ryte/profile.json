@@ -1,0 +1,13 @@
+{
+  "id": "ryte",
+  "title": "Ryte",
+  "subtitle": "Ryte API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962450/catalog/ryte/icon128x128.png",
+  "website": "https://ryte.com"
+}

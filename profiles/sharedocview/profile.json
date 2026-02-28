@@ -1,0 +1,14 @@
+{
+  "id": "sharedocview",
+  "title": "sharedocview",
+  "subtitle": "Get better analytics for who viewed your documents, how much time they spent on each page, and how many visits you re...",
+  "tags": [
+    "document-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017165/icons/sharedocview.jpg",
+  "website": "https://sharedocview.com/",
+  "docsUrl": "https://sharedocview.com/#pills-home"
+}

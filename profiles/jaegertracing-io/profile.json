@@ -1,0 +1,15 @@
+{
+  "id": "jaegertracing-io",
+  "title": "JaegerTracing",
+  "subtitle": "Monitor and troubleshoot transactions in complex distributed systems",
+  "tags": [
+    "tracing",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598784360/icons/jaegertracing-io.jpg",
+  "website": "https://www.jaegertracing.io/",
+  "docsUrl": "https://www.jaegertracing.io/docs/1.19"
+}

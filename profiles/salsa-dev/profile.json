@@ -1,0 +1,13 @@
+{
+  "id": "salsa-dev",
+  "title": "salsa.dev",
+  "subtitle": "We sell Payroll infrastructure to SaaS businesses that want to embed multi-country Payroll in their products, through...",
+  "tags": [
+    "embedded-payroll"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650143668/icons/salsa-dev.jpg",
+  "website": "https://www.salsa.dev/"
+}

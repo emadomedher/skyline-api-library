@@ -1,0 +1,13 @@
+{
+  "id": "engage-talent",
+  "title": "Engage Talent",
+  "subtitle": "Engage Talent is a platform for passive candidate recruiting.",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304865/catalog/engage-talent/icon128x128.png",
+  "website": "https://www.engagetalent.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "vauld",
+  "title": "Vauld",
+  "subtitle": "Lend, borrow & trade with Bitcoin (BTC), Ethereum (ETH), Tether (USDT) and other major cryptocurrencies. Buy & sell c...",
+  "tags": [
+    "crypto-lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609589708/icons/vauld.jpg",
+  "website": "https://www.vauld.com/",
+  "docsUrl": "https://docs.vauld.com/"
+}

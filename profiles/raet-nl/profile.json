@@ -1,0 +1,14 @@
+{
+  "id": "raet-nl",
+  "title": "Raet",
+  "subtitle": "Visma | Raet is uw HR & payroll partner. Met de unieke combi van HR-software én diensten van onze HR-professionals, h...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582907277/catalog/raet-nl/icon128x128.jpg",
+  "website": "https://www.raet.nl/",
+  "docsUrl": "https://developers.youforce.com/"
+}

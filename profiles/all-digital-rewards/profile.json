@@ -1,0 +1,13 @@
+{
+  "id": "all-digital-rewards",
+  "title": "All Digital Rewards",
+  "subtitle": "All Digital Rewards API integration",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717229/catalog/all-digital-rewards/icon128x128.jpg",
+  "website": "https://alldigitalrewards.com"
+}

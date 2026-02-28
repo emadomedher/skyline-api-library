@@ -1,0 +1,15 @@
+{
+  "id": "helpninja",
+  "title": "HelpNinja",
+  "subtitle": "Get your whole team on board!",
+  "tags": [
+    "helpdesk-software",
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581592725/catalog/helpninja/icon128x128.png",
+  "website": "https://helpninja.com/",
+  "docsUrl": "https://helpninja.com/docs"
+}

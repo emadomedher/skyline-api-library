@@ -1,0 +1,13 @@
+{
+  "id": "peadler-llc",
+  "title": "Peadler LLC",
+  "subtitle": "On Peadler influencers can share local businesses' stories and be rewarded with promotional discounts for the visibil...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556129077/catalog/peadler-llc/icon128x128.png",
+  "website": "https://peadler.com"
+}

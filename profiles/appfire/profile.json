@@ -1,0 +1,15 @@
+{
+  "id": "appfire",
+  "title": "Appfire",
+  "subtitle": "Appfire empowers teams to do their best work by extending what's possible on platforms like Atlassian, Microsoft, Sal...",
+  "tags": [
+    "productivity",
+    "ipaas"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687293179/icons/appfire.png",
+  "website": "https://appfire.com/",
+  "docsUrl": "https://appfire.com/solutions/products/?_sfm_category=dt"
+}

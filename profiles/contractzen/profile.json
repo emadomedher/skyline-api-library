@@ -1,0 +1,13 @@
+{
+  "id": "contractzen",
+  "title": "ContractZen",
+  "subtitle": "ContractZen is an all-in-one SaaS solution for metadata-driven contract management, all-digital board portal, VDR and...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719585/catalog/contractzen/icon128x128.png",
+  "website": "https://contractzen.com"
+}

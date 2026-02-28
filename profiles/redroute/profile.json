@@ -1,0 +1,13 @@
+{
+  "id": "redroute",
+  "title": "RedRoute",
+  "subtitle": "RedRoute leverages voice AI to create amazing customer service for businesses of all sizes. Companies can launch RedR...",
+  "tags": [
+    "phone-support"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414368/icons/redroute.jpg",
+  "website": "https://redroute.com/"
+}

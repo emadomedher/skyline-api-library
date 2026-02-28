@@ -1,0 +1,14 @@
+{
+  "id": "sage-50",
+  "title": "Sage 50",
+  "subtitle": "Sage 50 Accounting, formerly Peachtree, is the same easy-to-use software that simplifies your everyday tasks and prov...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548122141/catalog/sage-50/icon128x128.png",
+  "website": "https://www.sage.com/en-us/products/sage-50cloud/",
+  "docsUrl": "http://qa-developer-portal-50cloud.sageaccountantscloud.com/"
+}

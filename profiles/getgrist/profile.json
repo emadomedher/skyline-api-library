@@ -1,0 +1,14 @@
+{
+  "id": "getgrist",
+  "title": "Grist",
+  "subtitle": "Grist is a relational spreadsheet-database that empowers you to organize your data, your way. Get started with a free...",
+  "tags": [
+    "spreadsheets",
+    "open-source"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645495164/icons/getgrist.png",
+  "website": "https://www.getgrist.com/"
+}

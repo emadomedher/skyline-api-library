@@ -1,0 +1,15 @@
+{
+  "id": "transifex",
+  "title": "Transifex",
+  "subtitle": "Integrate with Transifex to manage the creation of multilingual websites and app content. Order translations, see tra...",
+  "tags": [
+    "cms-and-web-experience-management",
+    "localization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946452/catalog/transifex/icon128x128.jpg",
+  "website": "https://transifex.com",
+  "docsUrl": "http://docs.transifex.com"
+}

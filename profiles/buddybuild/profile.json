@@ -1,0 +1,14 @@
+{
+  "id": "buddybuild",
+  "title": "buddybuild",
+  "subtitle": "A continuous integration, continuous deployment, and user feedback platform for iOS development teams. Get up and run...",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609010928/icons/buddybuild.jpg",
+  "website": "https://www.buddybuild.com/",
+  "docsUrl": "https://docs.buddybuild.com"
+}

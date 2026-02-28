@@ -1,0 +1,13 @@
+{
+  "id": "magicrobot",
+  "title": "Magic Robot",
+  "subtitle": "Magic Robot API integration",
+  "tags": [
+    "marketing-roi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594660409/icons/magicrobot.jpg",
+  "website": "http://www.magicrobot.com/"
+}

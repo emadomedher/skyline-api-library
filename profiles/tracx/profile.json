@@ -1,0 +1,13 @@
+{
+  "id": "tracx",
+  "title": "Tracx",
+  "subtitle": "Tracx has discontinued operations. Talkwalker, the best alternative to Tracx, is here to help with your social listen...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962095/catalog/tracx/icon128x128.png",
+  "website": "https://tracx.com"
+}

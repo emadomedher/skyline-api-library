@@ -1,0 +1,12 @@
+{
+  "id": "klick-tipp",
+  "title": "Klick-Tipp",
+  "subtitle": "Klick-Tipp is an email marketing service provider. On our easy to use platform, you can segment your subscribers by t...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305254/catalog/klick-tipp/icon128x128.png"
+}

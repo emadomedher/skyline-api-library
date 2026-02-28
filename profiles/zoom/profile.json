@@ -1,0 +1,15 @@
+{
+  "id": "zoom",
+  "title": "Zoom",
+  "subtitle": "Zoom is the leader in modern enterprise video communications, with an easy, reliable cloud platform for video and aud...",
+  "tags": [
+    "video-calls",
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456384/catalog/zoom/icon128x128.png",
+  "website": "https://zoom.us/",
+  "docsUrl": "https://developers.zoom.us/"
+}

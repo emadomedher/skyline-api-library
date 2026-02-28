@@ -1,0 +1,13 @@
+{
+  "id": "cloudwords",
+  "title": "Cloudwords",
+  "subtitle": "Cloudwords API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826102/catalog/cloudwords/icon128x128.png",
+  "website": "https://cloudwords.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "advantagepayroll",
+  "title": "Paychex",
+  "subtitle": "Affordable, outsourced employee payroll processing services, tax filing and accounting reports for small to medium bu...",
+  "tags": [
+    "payroll-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622668472/icons/advantagepayroll.jpg",
+  "website": "https://www.advantagepayroll.com/"
+}

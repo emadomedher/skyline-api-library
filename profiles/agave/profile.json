@@ -1,0 +1,16 @@
+{
+  "id": "agave",
+  "title": "Agave",
+  "subtitle": "Landing page for Agave",
+  "tags": [
+    "ats",
+    "hiring",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567851585/catalog/agave/icon128x128.png",
+  "website": "https://agave.com",
+  "docsUrl": "https://developer.agave.com"
+}

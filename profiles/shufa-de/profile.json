@@ -1,0 +1,13 @@
+{
+  "id": "shufa-de",
+  "title": "SCHUFA Holding",
+  "subtitle": "SCHUFA Holding API integration",
+  "tags": [
+    "private-credit-bureaus"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746572/icons/shufa-de.png",
+  "website": "https://www.schufa.de/en/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "wordapp",
+  "title": "Wordapp",
+  "subtitle": "Wordapp is a word-processing platform for e-commerce that lets you manage & control your content creation with a crow...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306514/catalog/wordapp/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zapier-filter",
+  "title": "Filter by Zapier",
+  "subtitle": "Only allow a Zap to proceed when a certain condition is met. For example, if you're sending a text message when you r...",
+  "tags": [
+    "zapier-tools",
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809859/catalog/zapier-filter/icon128x128.png",
+  "website": "https://zapier.com/"
+}

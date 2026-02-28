@@ -1,0 +1,14 @@
+{
+  "id": "dotfile",
+  "title": "Dotfile",
+  "subtitle": "Dotfile API integration",
+  "tags": [
+    "customer-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669665516/icons/dotfile.jpg",
+  "website": "https://www.dotfile.com/",
+  "docsUrl": "https://intercom.help/dotfile/en/articles/6495178-learn-about-the-client-portal-and-how-to-personalize-it"
+}

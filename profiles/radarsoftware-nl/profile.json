@@ -1,0 +1,14 @@
+{
+  "id": "radarsoftware-nl",
+  "title": "RADAR software",
+  "subtitle": "DE OPLOSSINGEN VAN RADAR  \nBieden 360° inzicht in de klant.\nVergroten de productiviteit en winstgevendheid.\nZijn 100%...",
+  "tags": [
+    "invoicing",
+    "crm"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577964309/catalog/radarsoftware-nl/icon128x128.png",
+  "website": "https://www.radarsoftware.nl/"
+}

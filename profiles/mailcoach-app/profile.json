@@ -1,0 +1,14 @@
+{
+  "id": "mailcoach-app",
+  "title": "getmailcoach",
+  "subtitle": "Mailcoach is a self-hosted dashboard for email newsletters. Everything you’d expect from an email list manager —in a ...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583407387/catalog/mailcoach-app/icon128x128.jpg",
+  "website": "https://mailcoach.app/",
+  "docsUrl": "https://mailcoach.app/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rebuyengine",
+  "title": "Rebuy Engine",
+  "subtitle": "Fuel growth with a new breed of data-driven personalization and merchandizing solutions that turns intelligence into ...",
+  "tags": [
+    "ecommerce-personalization-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631602666/icons/rebuyengine.jpg",
+  "website": "https://rebuyengine.com/",
+  "docsUrl": "https://rebuyengine.com/api/v1/docs"
+}

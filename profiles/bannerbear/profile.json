@@ -1,0 +1,17 @@
+{
+  "id": "bannerbear",
+  "title": "Bannerbear",
+  "subtitle": "Bannerbear turns your graphic templates into an API so that you can generate variations automatically",
+  "tags": [
+    "banner-automation-api",
+    "image-generation-api",
+    "design",
+    "files"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599586077/icons/bannerbear.jpg",
+  "website": "https://www.bannerbear.com/",
+  "docsUrl": "https://developers.bannerbear.com"
+}

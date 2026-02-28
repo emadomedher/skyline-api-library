@@ -1,0 +1,14 @@
+{
+  "id": "bonsai-io",
+  "title": "Bonsai Search",
+  "subtitle": "Grow your search engine on Bonsai. Launch a production-grade, High Availability Elasticsearch cluster for free. Our s...",
+  "tags": [
+    "search",
+    "elasticsearch"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591344997/icons/bonsai-io.png",
+  "website": "https://bonsai.io/"
+}

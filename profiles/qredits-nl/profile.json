@@ -1,0 +1,14 @@
+{
+  "id": "qredits-nl",
+  "title": "Qredits",
+  "subtitle": "Qredits helpt ondernemers met kredieten, persoonlijke coaching en organiseert kleinschalige trainingen. 15.000+ onder...",
+  "tags": [
+    "fintech",
+    "mircofinancing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193159/catalog/qredits-nl/icon128x128.jpg",
+  "website": "https://qredits.nl/"
+}

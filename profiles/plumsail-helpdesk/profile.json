@@ -1,0 +1,12 @@
+{
+  "id": "plumsail-helpdesk",
+  "title": "Plumsail HelpDesk",
+  "subtitle": "The API allows interact with Plumsail HelpDesk ticketing system. Visit https://plumsail.com/docs/help-desk-o365/v1.x/...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264831/catalog/plumsail-helpdesk/icon128x128.png"
+}

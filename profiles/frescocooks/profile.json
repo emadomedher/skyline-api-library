@@ -1,0 +1,13 @@
+{
+  "id": "frescocooks",
+  "title": "Fresco",
+  "subtitle": "Build a community of happy and engaged home cooks with a user experience that solves their everyday challenges and an...",
+  "tags": [
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679429037/icons/frescocooks.png",
+  "website": "https://frescocooks.com/"
+}

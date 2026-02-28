@@ -1,0 +1,13 @@
+{
+  "id": "kemtai",
+  "title": "Kemtai",
+  "subtitle": "Kemtai adaptive home fitness uses AI and advanced computer vision to provide real-time training feedback",
+  "tags": [
+    "fitness-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222460/icons/kemtai.jpg",
+  "website": "https://kemtai.com/"
+}

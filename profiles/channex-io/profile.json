@@ -1,0 +1,14 @@
+{
+  "id": "channex-io",
+  "title": "Channex.io",
+  "subtitle": "Channex.io is a connectivity platform for hotels groups, Chains and other hotel tech vendors.",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623548946/icons/channex-io.png",
+  "website": "https://channex.io/",
+  "docsUrl": "https://channex.io/#"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "adaplo",
+  "title": "Adaplo",
+  "subtitle": "adaplo is a simple automated management tool for Google Shopping. adaplo uses the power of machine learning to improv...",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432741/catalog/adaplo/icon128x128.png",
+  "website": "https://adaplo.com",
+  "docsUrl": "https://adaplo.com/static/docs/privacy-policy.pdf"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "deidentification-co",
+  "title": "D-ID",
+  "subtitle": "D-id provides identity protection services - identity theft protection aligned with GDPR face recognition instruction...",
+  "tags": [
+    "identity-protection",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590626657/catalog/deidentification-co/icon128x128.jpg",
+  "website": "https://www.deidentification.co/"
+}

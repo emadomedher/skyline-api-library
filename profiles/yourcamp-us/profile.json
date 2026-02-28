@@ -1,0 +1,13 @@
+{
+  "id": "yourcamp-us",
+  "title": "YourCampus",
+  "subtitle": "YourCampus is the leading flexible employee benefits engagement platform for fast growing and modern employers. ",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023431/icons/yourcamp-us.jpg",
+  "website": "https://www.yourcamp.us/"
+}

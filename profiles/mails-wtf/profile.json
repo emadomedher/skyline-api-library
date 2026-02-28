@@ -1,0 +1,14 @@
+{
+  "id": "mails-wtf",
+  "title": "mails.wtf",
+  "subtitle": "mails.wtf let you Find anyone's email for free in seconds with up to 99% accuracy. Best solution for finding professi...",
+  "tags": [
+    "email-verification",
+    "contacts"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578495805/catalog/mails-wtf/icon128x128.png",
+  "website": "https://mails.wtf/"
+}

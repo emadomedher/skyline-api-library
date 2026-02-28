@@ -1,0 +1,13 @@
+{
+  "id": "bookingkoala",
+  "title": "BookingKoala",
+  "subtitle": "BookingKoala is a booking platform for service businesses such as cleaning, dog walking, spa, and tutoring services.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829384/catalog/bookingkoala/icon128x128.png",
+  "website": "https://bookingkoala.com"
+}

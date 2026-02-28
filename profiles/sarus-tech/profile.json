@@ -1,0 +1,14 @@
+{
+  "id": "sarus-tech",
+  "title": "Sarus Technologies",
+  "subtitle": "Sarus reinvents data access: data practitioners can leverage data they cannot see and produce impactful results insta...",
+  "tags": [
+    "data-anonymization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619091/icons/sarus-tech.jpg",
+  "website": "https://www.sarus.tech/",
+  "docsUrl": "https://admin.sarus.tech:5000/apidocs/#"
+}

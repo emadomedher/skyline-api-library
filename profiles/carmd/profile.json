@@ -1,0 +1,14 @@
+{
+  "id": "carmd",
+  "title": "CarMD",
+  "subtitle": "Communication is key.\nLet's stay connected.     \n\n \tTerms & Conditions\n \tTrademarks\n \tAbout\n \t\n\n Copyright © 2021 Car...",
+  "tags": [
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645106656/icons/carmd.jpg",
+  "website": "https://www.carmd.com/",
+  "docsUrl": "https://api.carmd.com/member/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "revenuecat",
+  "title": "RevenueCat",
+  "subtitle": "RevenueCat makes it simple to build in-app purchases and subscriptions, manage customers and pricing, and analyze you...",
+  "tags": [
+    "mobile-subscription-billing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626758164/icons/revenuecat.jpg",
+  "website": "https://www.revenuecat.com/",
+  "docsUrl": "https://docs.revenuecat.com/docs"
+}

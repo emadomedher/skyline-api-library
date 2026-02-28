@@ -1,0 +1,13 @@
+{
+  "id": "endorsify",
+  "title": "Endorsify",
+  "subtitle": "Endorsify is an Influencer Marketing SaaS platform helping brands connect with creators and price their ad space. Usi...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719923/catalog/endorsify/icon128x128.jpg",
+  "website": "https://endorsify.co"
+}

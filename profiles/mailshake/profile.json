@@ -1,0 +1,13 @@
+{
+  "id": "mailshake",
+  "title": "Mailshake",
+  "subtitle": "Mailshake is a simple outreach tool that works with any Google account.",
+  "tags": [
+    "drip-emails"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305380/catalog/mailshake/icon128x128.png",
+  "website": "https://mailshake.com"
+}

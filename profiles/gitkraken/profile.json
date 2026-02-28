@@ -1,0 +1,14 @@
+{
+  "id": "gitkraken",
+  "title": "Axosoft",
+  "subtitle": "Unleash GitKraken! Three legendary developer productivity tools: the Git GUI Client for Windows/Mac/Linux development...",
+  "tags": [
+    "git",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588267935/catalog/gitkraken/icon128x128.jpg",
+  "website": "https://www.gitkraken.com/"
+}

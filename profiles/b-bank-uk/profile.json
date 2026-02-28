@@ -1,0 +1,13 @@
+{
+  "id": "b-bank-uk",
+  "title": "B Bank",
+  "subtitle": "B Bank API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591167553/icons/b-bank-uk.jpg",
+  "website": "https://www.youandb.co.uk/"
+}

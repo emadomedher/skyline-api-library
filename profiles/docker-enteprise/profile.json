@@ -1,0 +1,14 @@
+{
+  "id": "docker-enteprise",
+  "title": "Docker Enterprise",
+  "subtitle": "Docker Enterprise API integration",
+  "tags": [
+    "container-orchestration",
+    "containers"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573695728/catalog/docker-enteprise/icon128x128.jpg",
+  "website": "https://www.docker.com/products/docker-enterprise"
+}

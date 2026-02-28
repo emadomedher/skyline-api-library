@@ -1,0 +1,13 @@
+{
+  "id": "wells-fargo-merchant-services",
+  "title": "Wells Fargo Merchant Services",
+  "subtitle": "Our Merchant Services accounts provide businesses with credit card and payment processing solutions. Learn more and a...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571962492/catalog/wells-fargo-merchant-services/icon128x128.jpg",
+  "website": "https://www.wellsfargo.com/biz/merchant/"
+}

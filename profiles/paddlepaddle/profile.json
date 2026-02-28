@@ -1,0 +1,13 @@
+{
+  "id": "paddlepaddle",
+  "title": "PaddlePaddle",
+  "subtitle": "PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训...",
+  "tags": [
+    "deep-learning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624221132/icons/paddlepaddle.jpg",
+  "website": "https://github.com/PaddlePaddle/Paddle"
+}

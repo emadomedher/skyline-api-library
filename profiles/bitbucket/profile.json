@@ -1,0 +1,15 @@
+{
+  "id": "bitbucket",
+  "title": "Bitbucket",
+  "subtitle": "Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship ...",
+  "tags": [
+    "developer-tools",
+    "issue-tracking"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304497/catalog/bitbucket/icon128x128.png",
+  "website": "https://bitbucket.org/",
+  "docsUrl": "https://developer.atlassian.com/bitbucket"
+}

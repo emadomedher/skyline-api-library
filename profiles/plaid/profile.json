@@ -1,0 +1,15 @@
+{
+  "id": "plaid",
+  "title": "Plaid",
+  "subtitle": "Develop the future of fintech with Plaid, the technology layer for financial services. Plaid enables applications to ...",
+  "tags": [
+    "banking-apis",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559337184/catalog/plaid/icon128x128.jpg",
+  "website": "https://plaid.com",
+  "docsUrl": "https://plaid.com/docs"
+}

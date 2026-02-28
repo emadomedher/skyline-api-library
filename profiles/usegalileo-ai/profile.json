@@ -1,0 +1,13 @@
+{
+  "id": "usegalileo-ai",
+  "title": "Galileo AI",
+  "subtitle": "Generates delightful UI designs from a text prompt in an instant. Galileo AI combines UI components, images, and cont...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675978399/icons/usegalileo-ai.png",
+  "website": "https://usegalileo.ai/"
+}

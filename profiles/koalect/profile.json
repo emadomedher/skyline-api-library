@@ -1,0 +1,13 @@
+{
+  "id": "koalect",
+  "title": "Koalect",
+  "subtitle": "Every organisation has a crowd. Let’s define yours and discover its value through our unique fundraising, crowdfundin...",
+  "tags": [
+    "crowdfunding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585407274/catalog/koalect/icon128x128.jpg",
+  "website": "https://koalect.com/"
+}

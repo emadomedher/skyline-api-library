@@ -1,0 +1,14 @@
+{
+  "id": "crewapp",
+  "title": "Crew",
+  "subtitle": "Crew is the leading digital workplace for frontline employees, helping the world's largest brands streamline operatio...",
+  "tags": [
+    "workforce-managememt"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612239231/icons/crewapp.jpg",
+  "website": "https://www.crewapp.com/",
+  "docsUrl": "https://developer.crewapp.com/api-docs/public-api.htm"
+}

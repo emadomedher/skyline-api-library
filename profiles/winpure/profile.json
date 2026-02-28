@@ -1,0 +1,13 @@
+{
+  "id": "winpure",
+  "title": "WinPure",
+  "subtitle": "WinPure API integration",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438484/catalog/winpure/icon128x128.png",
+  "website": "https://winpure.com"
+}

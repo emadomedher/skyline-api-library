@@ -1,0 +1,13 @@
+{
+  "id": "aitowrite",
+  "title": "AI to Write",
+  "subtitle": "AI to Write uses AI to help you write tech docs fast!",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619680474/icons/aitowrite.png",
+  "website": "https://aitowrite.com/"
+}

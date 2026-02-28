@@ -1,0 +1,15 @@
+{
+  "id": "sendcloud",
+  "title": "Sendcloud",
+  "subtitle": "Save time, money and ship 300% more efficient with Sendcloud. Plug your online store and ship using multiple carriers...",
+  "tags": [
+    "shipping",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573437318/catalog/sendcloud/icon128x128.jpg",
+  "website": "https://www.sendcloud.com/",
+  "docsUrl": "https://sendcloud.dev/"
+}

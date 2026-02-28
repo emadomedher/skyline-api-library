@@ -1,0 +1,13 @@
+{
+  "id": "linkpatrol",
+  "title": "LinkPatrol",
+  "subtitle": "LinkPatrol API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435558/catalog/linkpatrol/icon128x128.png",
+  "website": "https://linkpatrolwp.com"
+}

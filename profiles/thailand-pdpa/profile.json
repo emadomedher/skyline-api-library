@@ -1,0 +1,14 @@
+{
+  "id": "thailand-pdpa",
+  "title": "Thailand PDPA",
+  "subtitle": "The Personal Data Protection Act (PDPA) is a privacy rights act for residents of Thailand.",
+  "tags": [
+    "compliance",
+    "regulations"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644512973/icons/thailand-pdpa.png",
+  "website": "https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf"
+}

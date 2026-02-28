@@ -1,0 +1,13 @@
+{
+  "id": "enterprise-hive",
+  "title": "Enterprise Hive",
+  "subtitle": "Enterprise Hive's business social platform and collaboration networking tool modernizes a way to connect employees, c...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719936/catalog/enterprise-hive/icon128x128.png",
+  "website": "https://enterprisehive.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "realm-io",
+  "title": "Realm",
+  "subtitle": "Realm is a mobile platform and a replacement for SQLite & Core Data. Build offline-first, reactive mobile experiences...",
+  "tags": [
+    "mobile-apps",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609010923/icons/realm-io.jpg",
+  "website": "https://realm.io/",
+  "docsUrl": "https://realm.io/products/realm-database"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ahola",
+  "title": "Ahola HR Solutions",
+  "subtitle": "Ahola provides payroll services and offers easy-to-use HR technology solutions, providing personalized, dedicated sup...",
+  "tags": [
+    "payroll-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622762266/icons/ahola.jpg",
+  "website": "https://www.ahola.com/"
+}

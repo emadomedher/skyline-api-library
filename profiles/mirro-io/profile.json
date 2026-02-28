@@ -1,0 +1,13 @@
+{
+  "id": "mirro-io",
+  "title": "Mirro.io",
+  "subtitle": "Mirro.io - Performance management software ✅ Easy performance management ⭐️ Engage your people ✅ Monitor results",
+  "tags": [
+    "performance-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1690989489/icons/mirro-io.png",
+  "website": "https://mirro.io/"
+}

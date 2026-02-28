@@ -1,0 +1,13 @@
+{
+  "id": "pagertree",
+  "title": "PagerTree",
+  "subtitle": "PagerTree on-call incident management gives devops teams flexible schedules, escalations, & reliable notifications vi...",
+  "tags": [
+    "incident-response"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627608002/icons/pagertree.jpg",
+  "website": "https://pagertree.com/"
+}

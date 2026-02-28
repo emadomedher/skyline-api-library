@@ -1,0 +1,14 @@
+{
+  "id": "zapier-weather",
+  "title": "Weather by Zapier",
+  "subtitle": "Trigger off weather conditions in your local area. (Powered by Dark Sky)",
+  "tags": [
+    "zapier-tools",
+    "entertainment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809821/catalog/zapier-weather/icon128x128.png",
+  "website": "https://zapier.com/"
+}

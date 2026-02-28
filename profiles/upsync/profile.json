@@ -1,0 +1,13 @@
+{
+  "id": "upsync",
+  "title": "UpSync",
+  "subtitle": "UpSync is a powerful mobile sales presentation app designed to organize, manage, and share timely and relevant content",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946431/catalog/upsync/icon128x128.png",
+  "website": "https://UpSync.com"
+}

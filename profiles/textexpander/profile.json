@@ -1,0 +1,13 @@
+{
+  "id": "textexpander",
+  "title": "TextExpander",
+  "subtitle": "TextExpander is your instant access knowledge base for outgoing communication. Share text and images from your knowle...",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628098591/icons/textexpander.jpg",
+  "website": "https://textexpander.com/"
+}

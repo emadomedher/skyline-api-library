@@ -1,0 +1,12 @@
+{
+  "id": "mailplatform",
+  "title": "MailPlatform",
+  "subtitle": "Create and send newsletters with our Email Marketing system. Our clients send over 300 million emails every month",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305378/catalog/mailplatform/icon128x128.png"
+}

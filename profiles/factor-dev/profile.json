@@ -1,0 +1,15 @@
+{
+  "id": "factor-dev",
+  "title": "Factor",
+  "subtitle": "Factor is the leading extension-focused JavaScript CMS, Vue framework and eCommerce platform that helps you build web...",
+  "tags": [
+    "cms",
+    "javascript"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613008106/icons/factor-dev.png",
+  "website": "https://factor.dev/",
+  "docsUrl": "https://factor.dev/docs"
+}

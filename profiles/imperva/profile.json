@@ -1,0 +1,14 @@
+{
+  "id": "imperva",
+  "title": "Imperva",
+  "subtitle": "Imperva provides complete cyber security by protecting what really matters most—your data and applications—whether on...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559973137/catalog/imperva/icon128x128.jpg",
+  "website": "https://imperva.com",
+  "docsUrl": "https://docs.imperva.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "boxyhq",
+  "title": "BoxyHQ",
+  "subtitle": "BoxyHQ helps startups enable enterprise features in any SaaS app with just a few lines of code.",
+  "tags": [
+    "enterprise-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645810178/icons/boxyhq.jpg",
+  "website": "https://boxyhq.com/",
+  "docsUrl": "https://boxyhq.com/docs"
+}

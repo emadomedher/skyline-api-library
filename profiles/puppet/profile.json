@@ -1,0 +1,14 @@
+{
+  "id": "puppet",
+  "title": "Puppet",
+  "subtitle": "Puppet automates away the challenges, complexity, and risk of securing and running global hybrid and cloud-native inf...",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565204815/catalog/puppet/icon128x128.jpg",
+  "website": "https://puppet.com",
+  "docsUrl": "https://puppet.com/docs"
+}

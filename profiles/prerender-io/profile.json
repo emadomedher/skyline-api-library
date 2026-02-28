@@ -1,0 +1,15 @@
+{
+  "id": "prerender-io",
+  "title": "Prerender.io",
+  "subtitle": "Allow your AngularJS, ReactJS, VueJS, or JavaScript website to be crawled perfectly by search engines. Prerender.io u...",
+  "tags": [
+    "javascript",
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050040/icons/prerender-io.jpg",
+  "website": "https://prerender.io/",
+  "docsUrl": "https://prerender.io/documentation"
+}

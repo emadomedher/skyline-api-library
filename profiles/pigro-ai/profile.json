@@ -1,0 +1,14 @@
+{
+  "id": "pigro-ai",
+  "title": "Pigro",
+  "subtitle": "Pigro helps organizations and companies to find clear-cut answers inside their ever-growing knowledge bases.",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681847250/icons/pigro-ai.jpg",
+  "website": "https://pigro.ai/",
+  "docsUrl": "https://pigro.ai/#"
+}

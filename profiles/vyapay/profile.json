@@ -1,0 +1,13 @@
+{
+  "id": "vyapay",
+  "title": "VyaPay",
+  "subtitle": "VyaPay API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663081986/icons/vyapay.png",
+  "website": "https://vyapay.com/"
+}

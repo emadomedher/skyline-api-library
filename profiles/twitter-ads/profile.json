@@ -1,0 +1,12 @@
+{
+  "id": "twitter-ads",
+  "title": "Twitter Ads",
+  "subtitle": "Twitter Ads API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439383/catalog/twitter-ads/icon128x128.svg"
+}

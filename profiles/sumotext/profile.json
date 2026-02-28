@@ -1,0 +1,13 @@
+{
+  "id": "sumotext",
+  "title": "SUMOTEXT",
+  "subtitle": "SUMOTEXT API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437757/catalog/sumotext/icon128x128.png",
+  "website": "https://SUMOTEXT.com"
+}

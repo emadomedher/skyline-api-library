@@ -1,0 +1,13 @@
+{
+  "id": "ziplyne",
+  "title": "Ziplyne",
+  "subtitle": "Ziplyne is your “Guide On The Side”\r for Navigating Users, Customers and Employees Through the SaaS Terrain",
+  "tags": [
+    "onboarding"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638576515/icons/ziplyne.jpg",
+  "website": "https://www.ziplyne.com/"
+}

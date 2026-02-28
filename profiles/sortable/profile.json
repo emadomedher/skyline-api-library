@@ -1,0 +1,13 @@
+{
+  "id": "sortable",
+  "title": "Sortable",
+  "subtitle": "Sortable API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437606/catalog/sortable/icon128x128.png",
+  "website": "https://sortable.com"
+}

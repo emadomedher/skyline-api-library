@@ -1,0 +1,13 @@
+{
+  "id": "ideagen",
+  "title": "Ideagen Plc",
+  "subtitle": "We provide market-leading GRC Software Solutions to help organisations achieve operational excellence, regulatory com...",
+  "tags": [
+    "grc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601691177/icons/ideagen.jpg",
+  "website": "https://www.ideagen.com/"
+}

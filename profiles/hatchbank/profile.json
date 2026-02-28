@@ -1,0 +1,13 @@
+{
+  "id": "hatchbank",
+  "title": "Hatch Bank",
+  "subtitle": "Hatch is a digital-first bank improving how people save, spend, borrow, and send money by creating strategic relation...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585655824/catalog/hatchbank/icon128x128.png",
+  "website": "https://www.hatchbank.com/"
+}

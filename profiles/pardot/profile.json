@@ -1,0 +1,14 @@
+{
+  "id": "pardot",
+  "title": "Pardot",
+  "subtitle": "Pardot offers powerful marketing automation to help marketing and sales teams find and nurture the best leads, close ...",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056095/catalog/pardot/icon128x128.png",
+  "website": "https://www.pardot.com/",
+  "docsUrl": "https://developer.pardot.com"
+}

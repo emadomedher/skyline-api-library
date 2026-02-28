@@ -1,0 +1,13 @@
+{
+  "id": "ocbc",
+  "title": "OCBC Bank",
+  "subtitle": "The OCBC Bank group comprises a family of companies owned by Singapore's longest established local bank.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261121/icons/ocbc.jpg",
+  "website": "https://www.ocbc.com/"
+}

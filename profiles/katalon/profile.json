@@ -1,0 +1,15 @@
+{
+  "id": "katalon",
+  "title": "Katalon",
+  "subtitle": "Katalon is a powerful solution that helps you automate Web, API, Mobile, and Desktop apps — with smart analytics and ...",
+  "tags": [
+    "test-automation",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601691171/icons/katalon.jpg",
+  "website": "https://www.katalon.com/",
+  "docsUrl": "https://docs.katalon.com/display/kd"
+}

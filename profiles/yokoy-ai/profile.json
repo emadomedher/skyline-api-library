@@ -1,0 +1,13 @@
+{
+  "id": "yokoy-ai",
+  "title": "Yokoy",
+  "subtitle": "Manage your entire spend management with artificial intelligence and save time & money ✓completely automated ✓individ...",
+  "tags": [
+    "spend-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639604629/icons/yokoy-ai.jpg",
+  "website": "https://www.yokoy.ai/"
+}

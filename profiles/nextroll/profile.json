@@ -1,0 +1,14 @@
+{
+  "id": "nextroll",
+  "title": "NextRoll",
+  "subtitle": "NextRoll API integration",
+  "tags": [
+    "marketing",
+    "consent-management-platforms"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587218308/catalog/nextroll/icon128x128.jpg",
+  "website": "https://www.nextroll.com/"
+}

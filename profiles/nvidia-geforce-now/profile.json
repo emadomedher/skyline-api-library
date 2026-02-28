@@ -1,0 +1,14 @@
+{
+  "id": "nvidia-geforce-now",
+  "title": "GeForce NOW",
+  "subtitle": "Play PC Games seamlessly all of your devices. Anywhere. GeForce gaming in the cloud.",
+  "tags": [
+    "cloud-gaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604753486/icons/nvidia-geforce-now.png",
+  "website": "https://www.nvidia.com/en-eu/geforce-now/",
+  "docsUrl": "https://developer.nvidia.com"
+}

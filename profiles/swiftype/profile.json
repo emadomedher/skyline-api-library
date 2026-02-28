@@ -1,0 +1,13 @@
+{
+  "id": "swiftype",
+  "title": "Swiftype",
+  "subtitle": "Swiftype is a hosted search solution that lets site owners deliver powerful, customizable search for their website or...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306254/catalog/swiftype/icon128x128.png",
+  "website": "https://swiftype.com/"
+}

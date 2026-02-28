@@ -1,0 +1,13 @@
+{
+  "id": "funnelsource-inc",
+  "title": "FunnelSource Inc",
+  "subtitle": "FunnelSource Inc API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434723/catalog/funnelsource-inc/icon128x128.png",
+  "website": "https://funnelsource.com"
+}

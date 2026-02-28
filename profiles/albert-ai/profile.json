@@ -1,0 +1,13 @@
+{
+  "id": "albert-ai",
+  "title": "Albert",
+  "subtitle": "Albert is a self-learning digital marketing ally for marketers: a thinker, a doer, and a support system; autonomously...",
+  "tags": [
+    "optimization-personalization-and-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611872614/icons/albert-ai.jpg",
+  "website": "https://albert.ai"
+}

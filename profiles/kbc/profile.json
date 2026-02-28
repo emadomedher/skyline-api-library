@@ -1,0 +1,13 @@
+{
+  "id": "kbc",
+  "title": "KBC",
+  "subtitle": "KBC Group N.V. is a Belgian universal multi-channel bank-insurer, focusing on private clients and small and medium-si...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589999119/catalog/kbc/icon128x128.jpg",
+  "website": "https://www.kbc.com"
+}

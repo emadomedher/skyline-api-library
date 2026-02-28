@@ -1,0 +1,12 @@
+{
+  "id": "enadoc",
+  "title": "Enadoc",
+  "subtitle": "Enadoc is an innovative, cloud-based enterprise document imaging system.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264786/catalog/enadoc/icon128x128.png"
+}

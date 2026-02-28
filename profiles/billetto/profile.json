@@ -1,0 +1,14 @@
+{
+  "id": "billetto",
+  "title": "Billetto",
+  "subtitle": "Billetto helps you find 1000s of great events and sign up or buy tickets. Organising your own event? Start selling ti...",
+  "tags": [
+    "events-meetings-and-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433286/catalog/billetto/icon128x128.png",
+  "website": "https://billetto.co.uk",
+  "docsUrl": "https://api.billetto.com/docs"
+}

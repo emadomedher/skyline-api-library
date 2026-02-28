@@ -1,0 +1,13 @@
+{
+  "id": "scrummy-club",
+  "title": "Scrummy Club",
+  "subtitle": "Scrummy Club is the all-in-one loyalty & rewards club that your customers will love you for. Give your customers the ...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946638/catalog/scrummy-club/icon128x128.png",
+  "website": "https://scrummyloyalty.com"
+}

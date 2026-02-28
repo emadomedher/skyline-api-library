@@ -1,0 +1,13 @@
+{
+  "id": "contactually",
+  "title": "Contactually",
+  "subtitle": "Grow your most important asset, relationships, and enhance your real estate work with Contactually’s CRM that brings ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304681/catalog/contactually/icon128x128.png",
+  "website": "https://www.contactually.com/"
+}

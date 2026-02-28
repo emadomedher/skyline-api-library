@@ -1,0 +1,15 @@
+{
+  "id": "peppol",
+  "title": "PEPPOL",
+  "subtitle": "PEPPOL API integration",
+  "tags": [
+    "procurement",
+    "invoicing-specifications",
+    "associations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606682560/icons/peppol.jpg",
+  "website": "https://peppol.eu/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "atoss",
+  "title": "ATOSS Software",
+  "subtitle": "The aim of Workforce Management is to use existing personnel resources more intelligently and thereby to make compani...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586953432/catalog/atoss/icon128x128.jpg",
+  "website": "https://www.atoss.com/en-gb"
+}

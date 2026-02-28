@@ -1,0 +1,13 @@
+{
+  "id": "mobify",
+  "title": "Mobify",
+  "subtitle": "Mobify API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435913/catalog/mobify/icon128x128.png",
+  "website": "https://mobify.com"
+}

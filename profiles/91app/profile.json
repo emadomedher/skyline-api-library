@@ -1,0 +1,14 @@
+{
+  "id": "91app",
+  "title": "91App",
+  "subtitle": "91App is a Taiwan-based startup that builds customized apps for brands and retailers. 91App also has ambitions to pro...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615198286/icons/91app.png",
+  "website": "https://www.91app.com/",
+  "docsUrl": "https://www.91app.com/developers"
+}

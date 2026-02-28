@@ -1,0 +1,14 @@
+{
+  "id": "amazon-rds",
+  "title": "Amazon RDS",
+  "subtitle": "Amazon RDS API integration",
+  "tags": [
+    "developer-tools",
+    "databases",
+    "amazon-web-services-(aws)"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531054197/catalog/amazon-rds/icon128x128.png"
+}

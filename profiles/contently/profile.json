@@ -1,0 +1,13 @@
+{
+  "id": "contently",
+  "title": "Contently",
+  "subtitle": "Audience engagement is hard, but not with Contently. Leading content marketing platform that helps you strategize, pl...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826156/catalog/contently/icon128x128.png",
+  "website": "https://contently.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "servicepath",
+  "title": "servicePath",
+  "subtitle": "servicePath API integration",
+  "tags": [
+    "channel-finance-pricing-and-inventory",
+    "sales-automation-enablement-and-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827557/catalog/servicepath/icon128x128.png",
+  "website": "https://servicepath.co"
+}

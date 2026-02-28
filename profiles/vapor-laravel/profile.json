@@ -1,0 +1,13 @@
+{
+  "id": "vapor-laravel",
+  "title": "Laravel Vapor",
+  "subtitle": "Laravel Vapor API integration",
+  "tags": [
+    "php"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564150576/catalog/vapor-laravel/icon128x128.png",
+  "website": "https://vapor.laravel.com"
+}

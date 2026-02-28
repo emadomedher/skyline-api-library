@@ -1,0 +1,13 @@
+{
+  "id": "mobile-dev",
+  "title": "mobile.dev",
+  "subtitle": "Stop sacrificing users and start catching issues before you release.",
+  "tags": [
+    "mobile-development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626442139/icons/mobile-dev.png",
+  "website": "https://www.mobile.dev/"
+}

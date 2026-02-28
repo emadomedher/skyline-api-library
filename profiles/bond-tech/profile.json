@@ -1,0 +1,14 @@
+{
+  "id": "bond-tech",
+  "title": "Bond",
+  "subtitle": "Bond helps companies tailor-make their own financial products in weeks to create personal financial solutions with on...",
+  "tags": [
+    "fintech",
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567256348/catalog/bond-tech/icon128x128.jpg",
+  "website": "https://www.bond.tech/"
+}

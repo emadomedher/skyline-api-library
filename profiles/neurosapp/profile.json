@@ -1,0 +1,13 @@
+{
+  "id": "neurosapp",
+  "title": "Neuros",
+  "subtitle": "The first challenger bank for Autism, ADHD, Asperger, OCD and other cognitive challenges.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586444634/catalog/neurosapp/icon128x128.jpg",
+  "website": "https://neurosapp.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bookkeeper360",
+  "title": "Bookkeeper360",
+  "subtitle": "Bookkeeper360 is a Quickbooks and Xero bookkeeping, accounting, and advisory solution for small to medium-sized busin...",
+  "tags": [
+    "bookkeeping"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627571579/icons/bookkeeper360.jpg",
+  "website": "https://bookkeeper360.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ticketless-ai",
+  "title": "Ticketless",
+  "subtitle": "Enter the Ticketless Dōjō, the all-in-one customer support performance management software. Gamification meets AI to ...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570527407/catalog/ticketless-ai/icon128x128.png",
+  "website": "https://ticketless.ai/"
+}

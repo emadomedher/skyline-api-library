@@ -1,0 +1,14 @@
+{
+  "id": "munityapps",
+  "title": "Munity",
+  "subtitle": "Turn your integrations into competitive advantage. Munity is a platform specifically designed to relieve developers o...",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650143694/icons/munityapps.jpg",
+  "website": "https://www.munityapps.com/",
+  "docsUrl": "https://www.munityapps.com/#"
+}

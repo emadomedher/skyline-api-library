@@ -1,0 +1,14 @@
+{
+  "id": "heylaika",
+  "title": "Laika",
+  "subtitle": "Laika helps companies get certified faster, close enterprise deals, and build scalable security practices that stand ...",
+  "tags": [
+    "compliance",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629755857/icons/heylaika.jpg",
+  "website": "https://heylaika.com/"
+}

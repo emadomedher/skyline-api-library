@@ -1,0 +1,14 @@
+{
+  "id": "emptor-io",
+  "title": "Emptor",
+  "subtitle": "Emptor provides quick and reliable identity verification and background checks with our automated platform with the w...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152909/icons/emptor-io.jpg",
+  "website": "https://emptor.io/",
+  "docsUrl": "https://docs.emptor.io"
+}

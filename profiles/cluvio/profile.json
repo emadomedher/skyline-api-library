@@ -1,0 +1,13 @@
+{
+  "id": "cluvio",
+  "title": "Cluvio",
+  "subtitle": "With Cluvio you can run SQL queries against your database and visualize the results as beautiful interactive dashboar...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719517/catalog/cluvio/icon128x128.jpg",
+  "website": "https://cluvio.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "oanda",
+  "title": "OANDA",
+  "subtitle": "We do all things currency. With over 23 years of experience in FX solutions and offering a wide range of services, it...",
+  "tags": [
+    "fintech",
+    "currency-exchanges",
+    "trading",
+    "forex"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311392/catalog/oanda/icon128x128.jpg",
+  "website": "https://www.oanda.com/"
+}

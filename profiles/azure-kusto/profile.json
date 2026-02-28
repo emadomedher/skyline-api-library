@@ -1,0 +1,12 @@
+{
+  "id": "azure-kusto",
+  "title": "Azure Kusto",
+  "subtitle": "Kusto is a log analytics cloud platform optimized for ad-hoc big data queries. Read more about it here: http://aka.ms...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264753/catalog/azure-kusto/icon128x128.png"
+}

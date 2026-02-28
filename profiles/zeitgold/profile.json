@@ -1,0 +1,14 @@
+{
+  "id": "zeitgold",
+  "title": "Zeitgold",
+  "subtitle": "Mit Zeitgold arbeiten Unternehmer und Steuerberater digital zusammen. Die intuitive Software sorgt mit hochpräzisen B...",
+  "tags": [
+    "bookkeeping",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588809147/catalog/zeitgold/icon128x128.jpg",
+  "website": "https://www.zeitgold.com/"
+}

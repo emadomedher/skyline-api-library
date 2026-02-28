@@ -1,0 +1,13 @@
+{
+  "id": "adelement",
+  "title": "AdElement",
+  "subtitle": "AdElement API integration",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964423/catalog/adelement/icon128x128.png",
+  "website": "https://adelement.com"
+}

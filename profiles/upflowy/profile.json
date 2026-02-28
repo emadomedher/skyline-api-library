@@ -1,0 +1,13 @@
+{
+  "id": "upflowy",
+  "title": "Upflowy",
+  "subtitle": "A drag and drop tool powering an increase in conversions. Create a flow to build and optimize your forms, quizzes, su...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663081994/icons/upflowy.jpg",
+  "website": "https://www.upflowy.com/"
+}

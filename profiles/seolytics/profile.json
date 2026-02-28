@@ -1,0 +1,13 @@
+{
+  "id": "seolytics",
+  "title": "SEOlytics",
+  "subtitle": "SEOlytics API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962371/catalog/seolytics/icon128x128.png",
+  "website": "https://seolytics.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "terra-do",
+  "title": "Terra.do",
+  "subtitle": "Learn about climate change and start working on climate change solutions today with the Terra.do community.",
+  "tags": [
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414346/icons/terra-do.jpg",
+  "website": "https://www.terra.do/"
+}

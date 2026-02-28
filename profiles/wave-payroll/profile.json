@@ -1,0 +1,13 @@
+{
+  "id": "wave-payroll",
+  "title": "Wave Payroll",
+  "subtitle": "Pay contractor, salaried and hourly workers easily. Wave's payroll software is accurate, includes direct deposit, tax...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476414/icons/wave-payroll.png",
+  "website": "https://www.waveapps.com/payroll"
+}

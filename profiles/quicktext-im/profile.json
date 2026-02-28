@@ -1,0 +1,14 @@
+{
+  "id": "quicktext-im",
+  "title": "Quicktext",
+  "subtitle": "Artificial intelligence powered chatbot and instant communication platform for Hotels. More revenues, more productivi...",
+  "tags": [
+    "chat-bots",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641121/icons/quicktext-im.jpg",
+  "website": "https://www.quicktext.im/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "morweborg",
+  "title": "Morweb.org",
+  "subtitle": "Use Morweb CMS to build a custom website for your nonprofit or association. Grow your membership or donations with ou...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946806/catalog/morweborg/icon128x128.jpg",
+  "website": "https://morweb.org"
+}

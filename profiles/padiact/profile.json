@@ -1,0 +1,13 @@
+{
+  "id": "padiact",
+  "title": "Padiact",
+  "subtitle": "PadiAct helps you get more email leads & subscribers by targeting the right visitors. Over 2.7 million leads & subscr...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946728/catalog/padiact/icon128x128.jpg",
+  "website": "https://padiact.com"
+}

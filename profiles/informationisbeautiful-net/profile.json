@@ -1,0 +1,13 @@
+{
+  "id": "informationisbeautiful-net",
+  "title": "Information is Beautiful",
+  "subtitle": "Distilling the world's data, information & knowledge into beautiful infographics & visualizations",
+  "tags": [
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584576997/catalog/informationisbeautiful-net/icon128x128.png",
+  "website": "https://informationisbeautiful.net/"
+}

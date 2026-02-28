@@ -1,0 +1,13 @@
+{
+  "id": "everlean",
+  "title": "everlean",
+  "subtitle": "everlean API integration",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629140704/icons/everlean.jpg",
+  "website": "https://everlean.de"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "easy-webinar",
+  "title": "Easy Webinar",
+  "subtitle": "EasyWebinar is a webinar platform where users can change between live and automated/evergreen webinars. We service au...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719858/catalog/easy-webinar/icon128x128.png",
+  "website": "https://easywebinar.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "careerbuilder",
+  "title": "CareerBuilder",
+  "subtitle": "CareerBuilder is the most trusted source for job opportunities & advice. Access career resources, personalized salary...",
+  "tags": [
+    "job-marketplace",
+    "job-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821142/catalog/careerbuilder/icon128x128.jpg",
+  "website": "https://www.careerbuilder.com/"
+}

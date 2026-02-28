@@ -1,0 +1,15 @@
+{
+  "id": "okaythis",
+  "title": "Okay",
+  "subtitle": "With Okay, you can put your entire bank branch with all the necessary service levels directly into the digital channe...",
+  "tags": [
+    "strong-customer-authentication",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595194331/icons/okaythis.png",
+  "website": "https://okaythis.com/",
+  "docsUrl": "https://okaythis.com/developer"
+}

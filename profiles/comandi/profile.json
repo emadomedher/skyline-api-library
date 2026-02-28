@@ -1,0 +1,15 @@
+{
+  "id": "comandi",
+  "title": "Comandi",
+  "subtitle": "Comandi Management Dashboard is een uniek instrument om sturing te geven aan uw organisatie. Ontworpen voor onderneme...",
+  "tags": [
+    "financial-dashboards",
+    "dashboards",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256907/catalog/comandi/icon128x128.jpg",
+  "website": "https://www.comandi.com/"
+}

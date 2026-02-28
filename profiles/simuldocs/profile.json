@@ -1,0 +1,13 @@
+{
+  "id": "simuldocs",
+  "title": "Simul Docs",
+  "subtitle": "Simul Docsmakes it easy to collaborate with others on documents. Easily access the latest version, see every change, ...",
+  "tags": [
+    "document-version-control"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585396449/catalog/simuldocs/icon128x128.jpg",
+  "website": "https://www.simuldocs.com/"
+}

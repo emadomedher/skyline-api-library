@@ -1,0 +1,16 @@
+{
+  "id": "starred",
+  "title": "Starred",
+  "subtitle": "Grow your business through actionable insights. Professional software built to collect, analyse and act on feedback. ...",
+  "tags": [
+    "hiring",
+    "hr",
+    "candidate-feedback",
+    "customer-experience-service-and-success"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437679/catalog/starred/icon128x128.png",
+  "website": "https://starred.com"
+}

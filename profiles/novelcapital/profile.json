@@ -1,0 +1,13 @@
+{
+  "id": "novelcapital",
+  "title": "Novel Capital",
+  "subtitle": "Novel Capital provides non dilutive funding and operational sales expertise to early-stage B2B software companies.",
+  "tags": [
+    "revenue-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647976997/icons/novelcapital.png",
+  "website": "https://novelcapital.com/"
+}

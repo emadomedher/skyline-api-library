@@ -1,0 +1,14 @@
+{
+  "id": "allianz-bg",
+  "title": "Allianz Bank Bulgaria",
+  "subtitle": "Allianz Bank Bulgaria AD is a universal bank, offering retail and corporate banking products and services to its cust...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590424550/catalog/allianz-bg/icon128x128.jpg",
+  "website": "https://www.allianz.bg/",
+  "docsUrl": "https://dev.bank.allianz.bg/allianz-sb/psd2"
+}

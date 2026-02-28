@@ -1,0 +1,13 @@
+{
+  "id": "expanse-co",
+  "title": "Expanse",
+  "subtitle": "Expanse API integration",
+  "tags": [
+    "internet-operations-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576736218/catalog/expanse-co/icon128x128.png",
+  "website": "https://www.expanse.co/"
+}

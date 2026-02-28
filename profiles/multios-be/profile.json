@@ -1,0 +1,13 @@
+{
+  "id": "multios-be",
+  "title": "Multi",
+  "subtitle": "Multi-OS développe T-Service, un logiciel pour les entreprises agréées titres-services",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912830/icons/multios-be.jpg",
+  "website": "https://www.multios.be/"
+}

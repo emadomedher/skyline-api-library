@@ -1,0 +1,14 @@
+{
+  "id": "aflorithmic-ai",
+  "title": "Aflorithmic",
+  "subtitle": "Hyper-personalized, engaging audio experiences produced at scale using AI voice synthesis and ethical voice cloning.",
+  "tags": [
+    "audio-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612494659/icons/aflorithmic-ai.jpg",
+  "website": "https://www.aflorithmic.ai/",
+  "docsUrl": "https://docs.api.audio"
+}

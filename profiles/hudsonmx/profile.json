@@ -1,0 +1,13 @@
+{
+  "id": "hudsonmx",
+  "title": "Hudson MX",
+  "subtitle": "login",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268421/icons/hudsonmx.jpg",
+  "website": "https://hudsonmx.com"
+}

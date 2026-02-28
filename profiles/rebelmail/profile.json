@@ -1,0 +1,13 @@
+{
+  "id": "rebelmail",
+  "title": "RebelMail",
+  "subtitle": "RebelMail API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436864/catalog/rebelmail/icon128x128.png",
+  "website": "https://rebelmail.com"
+}

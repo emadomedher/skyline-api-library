@@ -1,0 +1,15 @@
+{
+  "id": "youtility-uk",
+  "title": "Youtility",
+  "subtitle": "Bringing together Open Banking and deep behavioural data analytics, we help homes save across their finances",
+  "tags": [
+    "personal-finance-management",
+    "utility-switching",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582789846/catalog/youtility-uk/icon128x128.jpg",
+  "website": "https://youtility.co.uk/"
+}

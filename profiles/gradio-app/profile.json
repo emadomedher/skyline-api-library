@@ -1,0 +1,14 @@
+{
+  "id": "gradio-app",
+  "title": "Gradio",
+  "subtitle": "Build & Share Delightful Machine Learning Apps.",
+  "tags": [
+    "machine-learning-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653562551/icons/gradio-app.png",
+  "website": "https://gradio.app/",
+  "docsUrl": "https://gradio.app/docs"
+}

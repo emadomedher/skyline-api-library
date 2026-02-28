@@ -1,0 +1,14 @@
+{
+  "id": "allagents-uk",
+  "title": "allAgents",
+  "subtitle": "allAgents is the UK's largest customer review website for the property industry. Find agents in our directory & searc...",
+  "tags": [
+    "proptech",
+    "review-websites"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302488/icons/allagents-uk.jpg",
+  "website": "https://www.allagents.co.uk/"
+}

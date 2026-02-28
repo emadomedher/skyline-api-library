@@ -1,0 +1,14 @@
+{
+  "id": "onboardlist",
+  "title": "OnboardList",
+  "subtitle": "OnboardList increases SaaS adoption with a personalized checklist and targeted reminder emails for new users.",
+  "tags": [
+    "onboarding"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577905881/catalog/onboardlist/icon128x128.jpg",
+  "website": "https://www.onboardlist.com/",
+  "docsUrl": "https://www.onboardlist.com/documentation"
+}

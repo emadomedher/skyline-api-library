@@ -1,0 +1,13 @@
+{
+  "id": "cloud-software-association",
+  "title": "The Cloud Software Association",
+  "subtitle": "The Cloud Software Association API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548183554/catalog/cloud-software-association/icon128x128.jpg",
+  "website": "https://www.cloudsoftwareassociation.com/"
+}

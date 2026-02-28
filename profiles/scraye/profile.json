@@ -1,0 +1,13 @@
+{
+  "id": "scraye",
+  "title": "Scraye",
+  "subtitle": "The simple way to rent. Easy search. Clear profiles. Fast process.",
+  "tags": [
+    "renttech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617293633/icons/scraye.png",
+  "website": "https://www.scraye.com/"
+}

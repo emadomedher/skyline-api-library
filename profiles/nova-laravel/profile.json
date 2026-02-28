@@ -1,0 +1,15 @@
+{
+  "id": "nova-laravel",
+  "title": "Laravel Nova",
+  "subtitle": "Laravel Nova API integration",
+  "tags": [
+    "php",
+    "admin-panel"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564155273/catalog/nova-laravel/icon128x128.png",
+  "website": "https://nova.laravel.com",
+  "docsUrl": "https://nova.laravel.com/docs"
+}

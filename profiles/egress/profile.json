@@ -1,0 +1,14 @@
+{
+  "id": "egress",
+  "title": "Egress Switch",
+  "subtitle": "Secure Data Transfer by Egress Software Technologies provides an on-demand collaboration service to enable businesses...",
+  "tags": [
+    "email-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575220020/catalog/egress/icon128x128.png",
+  "website": "https://www.egress.com/",
+  "docsUrl": "https://www.egress.com/support/documentation"
+}

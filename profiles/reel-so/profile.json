@@ -1,0 +1,13 @@
+{
+  "id": "reel-so",
+  "title": "reel",
+  "subtitle": "Promote your podcast on social media with teaser videos. Create audiogram for podcast.",
+  "tags": [
+    "podcast-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638213317/icons/reel-so.png",
+  "website": "https://reel.so/"
+}

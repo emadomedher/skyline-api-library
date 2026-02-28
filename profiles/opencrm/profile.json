@@ -1,0 +1,13 @@
+{
+  "id": "opencrm",
+  "title": "OpenCRM",
+  "subtitle": "OpenCRM is a true UK CRM system. Customisable and fully-featured cloud CRM system at an affordable price. Watch our v...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721367/catalog/opencrm/icon128x128.jpg",
+  "website": "https://opencrm.co.uk"
+}

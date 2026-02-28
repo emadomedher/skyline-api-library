@@ -1,0 +1,13 @@
+{
+  "id": "spotmoney",
+  "title": "Spot",
+  "subtitle": "Meet Spot, your mobile money app and use it to connect to our open banking marketplace where you’ll find personalised...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612736040/icons/spotmoney.jpg",
+  "website": "https://spotmoney.com/"
+}

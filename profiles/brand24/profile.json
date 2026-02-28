@@ -1,0 +1,13 @@
+{
+  "id": "brand24",
+  "title": "Brand24",
+  "subtitle": "Brand24 gives you instant access to mentions about your brand across the web.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719219/catalog/brand24/icon128x128.jpg",
+  "website": "https://brand24.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "upress-io",
+  "title": "uPress",
+  "subtitle": "Speed, powerful security, simple and easy to manage management panel, security hacking scans, Google friendly storage...",
+  "tags": [
+    "wordpress-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601496810/icons/upress-io.png",
+  "website": "https://www.upress.io/",
+  "docsUrl": "https://www.upress.io/solutions/developers"
+}

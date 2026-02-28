@@ -1,0 +1,13 @@
+{
+  "id": "arastta",
+  "title": "Arastta",
+  "subtitle": "Arastta API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964284/catalog/arastta/icon128x128.png",
+  "website": "https://arastta.org"
+}

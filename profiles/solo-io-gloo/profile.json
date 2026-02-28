@@ -1,0 +1,14 @@
+{
+  "id": "solo-io-gloo",
+  "title": "Gloo",
+  "subtitle": "Gloo API integration",
+  "tags": [
+    "api-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573957567/catalog/solo-io-gloo/icon128x128.webp",
+  "website": "https://www.solo.io/products/gloo/",
+  "docsUrl": "https://docs.solo.io/gloo/latest"
+}

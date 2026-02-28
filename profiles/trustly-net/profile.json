@@ -1,0 +1,14 @@
+{
+  "id": "trustly-net",
+  "title": "Trustly",
+  "subtitle": "Trustly, as a simple and fast online banking payments solution, enables consumers and merchants to carry out in and o...",
+  "tags": [
+    "bank-payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587947177/catalog/trustly-net/icon128x128.jpg",
+  "website": "https://www.trustly.net/"
+}

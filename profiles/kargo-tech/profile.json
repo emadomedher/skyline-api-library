@@ -1,0 +1,13 @@
+{
+  "id": "kargo-tech",
+  "title": "Kargo Technologies",
+  "subtitle": "Sewa truk Wingbox/CDD/Tronton. Antar kota. Layanan 24 Jam. Gratis Asuransi. Pembayaran COD & Online. Harga Murah. Pen...",
+  "tags": [
+    "logistics"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779850/catalog/kargo-tech/icon128x128.jpg",
+  "website": "https://kargo.tech"
+}

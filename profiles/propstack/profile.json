@@ -1,0 +1,15 @@
+{
+  "id": "propstack",
+  "title": "Propstack",
+  "subtitle": "Propstack is India's leading Real Estate data, analytics and workflow solutions platform and was developed in respons...",
+  "tags": [
+    "real-estate-data",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607030341/icons/propstack.jpg",
+  "website": "https://www.propstack.com/",
+  "docsUrl": "https://loans.propstack.com"
+}

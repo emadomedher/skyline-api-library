@@ -1,0 +1,14 @@
+{
+  "id": "createjs",
+  "title": "CreateJS",
+  "subtitle": "A suite of modular libraries and tools which work together or independently to enable rich interactive content on ope...",
+  "tags": [
+    "javascript"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572966521/catalog/createjs/icon128x128.png",
+  "website": "https://createjs.com/",
+  "docsUrl": "https://createjs.com/docs"
+}

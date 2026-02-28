@@ -1,0 +1,14 @@
+{
+  "id": "nocodepages",
+  "title": "No Code Pages",
+  "subtitle": "Get multipurpose website layouts and add a custom domain, analytics, payment, and live chat integrations to build a w...",
+  "tags": [
+    "websites",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612288404/icons/nocodepages.jpg",
+  "website": "https://nocodepages.com/"
+}

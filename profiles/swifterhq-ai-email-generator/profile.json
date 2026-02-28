@@ -1,0 +1,13 @@
+{
+  "id": "swifterhq-ai-email-generator",
+  "title": "Email Subject Generator by Swifter",
+  "subtitle": "The easiest 1-click checkout solution for emails. Convert your email subscribers into customers right inside the emai...",
+  "tags": [
+    "email-subject-generators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612986172/icons/swifterhq-ai-email-generator.jpg",
+  "website": "https://www.swifterhq.com/tools/ai-email-generator"
+}

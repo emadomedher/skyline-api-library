@@ -1,0 +1,14 @@
+{
+  "id": "onstageapi",
+  "title": "onStage",
+  "subtitle": "onStage API integration",
+  "tags": [
+    "api-management",
+    "integration-platforms"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606173577/icons/onstageapi.png",
+  "website": "https://www.onstageapi.com/"
+}

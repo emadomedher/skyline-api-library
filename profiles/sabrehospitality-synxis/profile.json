@@ -1,0 +1,13 @@
+{
+  "id": "sabrehospitality-synxis",
+  "title": "SynXis",
+  "subtitle": "SynXis API integration",
+  "tags": [
+    "central-reservation-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751543/icons/sabrehospitality-synxis.jpg",
+  "website": "https://www.sabrehospitality.com/solutions/hotel-book-direct/hotel-central-reservation-systems/"
+}

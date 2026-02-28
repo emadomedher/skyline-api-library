@@ -1,0 +1,14 @@
+{
+  "id": "progress-sitefinity",
+  "title": "Progress Sitefinity",
+  "subtitle": "Sitefinity's web content management software is a marketing command center to drive growth for your business. Easily ...",
+  "tags": [
+    "cms-and-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827269/catalog/progress-sitefinity/icon128x128.png",
+  "website": "https://progress.com/sitefinity-cms",
+  "docsUrl": "https://www.progress.com/documentation"
+}

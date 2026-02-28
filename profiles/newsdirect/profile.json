@@ -1,0 +1,13 @@
+{
+  "id": "newsdirect",
+  "title": "News Direct",
+  "subtitle": "News Direct is the first newswire built for modern media outreach, offering an intuitive, self-directed workflow, fla...",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648679216/icons/newsdirect.png",
+  "website": "http://www.newsdirect.com/"
+}

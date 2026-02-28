@@ -1,0 +1,12 @@
+{
+  "id": "quanticmind",
+  "title": "QuanticMind",
+  "subtitle": "QuanticMind API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439324/catalog/quanticmind/icon128x128.svg"
+}

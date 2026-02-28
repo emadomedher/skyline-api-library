@@ -1,0 +1,13 @@
+{
+  "id": "carry-travel",
+  "title": "Carry",
+  "subtitle": "Carry - Your personal assistant for everything travel",
+  "tags": [
+    "travel-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566775205/catalog/carry-travel/icon128x128.jpg",
+  "website": "https://carry.travel/"
+}

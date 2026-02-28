@@ -1,0 +1,14 @@
+{
+  "id": "aviva",
+  "title": "Aviva plc",
+  "subtitle": "Our global corporate website for investors, shareholders, career hunters, the media and people interested in our soci...",
+  "tags": [
+    "insurance-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613989212/icons/aviva.jpg",
+  "website": "https://www.aviva.com/",
+  "docsUrl": "https://www.aviva.com/investors/preference-shares"
+}

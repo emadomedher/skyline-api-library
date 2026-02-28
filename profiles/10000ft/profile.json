@@ -1,0 +1,15 @@
+{
+  "id": "10000ft",
+  "title": "10,000ft",
+  "subtitle": "10,000ft's high-level resource management software helps teams get the clarity and insight they need to look ahead, a...",
+  "tags": [
+    "time-tracking",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304330/catalog/10000ft/icon128x128.png",
+  "website": "https://www.10000ft.com",
+  "docsUrl": "https://www.10000ft.com/reference/set-up-my-account/account-settings"
+}

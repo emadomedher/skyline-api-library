@@ -1,0 +1,13 @@
+{
+  "id": "easocare",
+  "title": "Easocare",
+  "subtitle": "Easocare is India's leading mobile app to upload and store your health records digitally so that it can be easily acc...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595533632/icons/easocare.jpg",
+  "website": "https://easocare.com/"
+}

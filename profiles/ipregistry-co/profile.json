@@ -1,0 +1,16 @@
+{
+  "id": "ipregistry-co",
+  "title": "ipregistry",
+  "subtitle": "Build location-aware apps and protect your business from bad actors with Ipregistry, the most reliable IP Geolocation...",
+  "tags": [
+    "ip-data-api",
+    "geolocation-api",
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793916/icons/ipregistry-co.png",
+  "website": "https://ipregistry.co/",
+  "docsUrl": "https://ipregistry.co/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "joinhandshake",
+  "title": "Handshake",
+  "subtitle": "Handshake is the #1 way college students find jobs. Join today to explore career options, find jobs and internships f...",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655156033/icons/joinhandshake.jpg",
+  "website": "https://joinhandshake.com/",
+  "docsUrl": "https://joinhandshake.com/wp-content/themes/handshake/dist/assets/downloads//docs/security/handshake-data-privacy-overview.pdf"
+}

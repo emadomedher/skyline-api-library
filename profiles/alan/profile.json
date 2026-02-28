@@ -1,0 +1,14 @@
+{
+  "id": "alan",
+  "title": "Alan",
+  "subtitle": "Alan revolutionises health insurance by focusing on user experience with excellent price-quality ratio health plan.",
+  "tags": [
+    "health-insurance",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567033158/catalog/alan/icon128x128.png",
+  "website": "https://alan.com/"
+}

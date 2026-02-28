@@ -1,0 +1,13 @@
+{
+  "id": "getpinwheel",
+  "title": "Pinwheel",
+  "subtitle": "The easiest way for users to connect their Payroll / HRIS accounts to your app.",
+  "tags": [
+    "income-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591898031/icons/getpinwheel.png",
+  "website": "https://getpinwheel.com/"
+}

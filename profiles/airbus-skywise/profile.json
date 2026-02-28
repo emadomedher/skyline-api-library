@@ -1,0 +1,14 @@
+{
+  "id": "airbus-skywise",
+  "title": "Skywise",
+  "subtitle": "Discover the Skywise product offer, Skywise Core and Skywise Digital Services, the Skywise Community and Skywise adop...",
+  "tags": [
+    "aviation-data-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621797232/icons/airbus-skywise.png",
+  "website": "https://skywise.airbus.com/",
+  "docsUrl": "https://skywise.airbus.com/en/developer-portal.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "keyword-studio",
+  "title": "Keyword Studio",
+  "subtitle": "Keyword Studio API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720688/catalog/keyword-studio/icon128x128.png",
+  "website": "https://keywordstudio.com"
+}

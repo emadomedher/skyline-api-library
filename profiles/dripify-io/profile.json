@@ -1,0 +1,13 @@
+{
+  "id": "dripify-io",
+  "title": "Dripify",
+  "subtitle": "Dripify is the most advanced LinkedIn automation tool ➔ We provide LinkedIn automation for marketers and sales reps ★...",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656619185/icons/dripify-io.png",
+  "website": "https://dripify.io/"
+}

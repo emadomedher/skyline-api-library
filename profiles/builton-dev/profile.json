@@ -1,0 +1,13 @@
+{
+  "id": "builton-dev",
+  "title": "BuiltOn",
+  "subtitle": "BuiltOn offers free access to cutting edge APIs with ML capabilities that build smart, reliable and scalable commerce...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187660/catalog/builton-dev/icon128x128.png",
+  "website": "https://www.builton.dev/"
+}

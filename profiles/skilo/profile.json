@@ -1,0 +1,13 @@
+{
+  "id": "skilo",
+  "title": "Skilo",
+  "subtitle": "Skilo API integration",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962311/catalog/skilo/icon128x128.png",
+  "website": "https://skilohr.com"
+}

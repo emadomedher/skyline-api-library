@@ -1,0 +1,13 @@
+{
+  "id": "anz",
+  "title": "ANZ",
+  "subtitle": "ANZ offers a range of personal banking and business financial solutions. The Australia and New Zealand Banking Group ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593641960/icons/anz.jpg",
+  "website": "https://www.anz.com"
+}

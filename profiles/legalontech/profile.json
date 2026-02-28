@@ -1,0 +1,13 @@
+{
+  "id": "legalontech",
+  "title": "LegalOn",
+  "subtitle": "Negotiate stronger contracts faster with the global leader in contract review AI. Use LegalOn to find and fix contrac...",
+  "tags": [
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683414790/icons/legalontech.png",
+  "website": "https://www.legalontech.com/"
+}

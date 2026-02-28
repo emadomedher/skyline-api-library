@@ -1,0 +1,13 @@
+{
+  "id": "creditkarma",
+  "title": "Credit Karma",
+  "subtitle": "Credit Karma offers free credit scores, reports and insights. Get the info you need to take control of your credit.",
+  "tags": [
+    "credit-scores"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577633815/catalog/creditkarma/icon128x128.png",
+  "website": "https://www.creditkarma.com/"
+}

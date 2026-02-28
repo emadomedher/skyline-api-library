@@ -1,0 +1,13 @@
+{
+  "id": "clario",
+  "title": "Clario",
+  "subtitle": "Clario API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597079225/icons/clario.png",
+  "website": "https://clario.io"
+}

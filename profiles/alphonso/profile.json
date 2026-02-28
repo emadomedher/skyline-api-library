@@ -1,0 +1,13 @@
+{
+  "id": "alphonso",
+  "title": "Alphonso",
+  "subtitle": "Alphonso API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964345/catalog/alphonso/icon128x128.png",
+  "website": "https://alphonso.tv"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "smpp",
+  "title": "SMPP",
+  "subtitle": "The SMPP (Short Message Peer-to-Peer) is a protocol used by the telecommunications industry for exchanging SMS messag...",
+  "tags": [
+    "sms",
+    "communication-protocols"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602716506/icons/smpp.jpg",
+  "website": "https://smpp.org/"
+}

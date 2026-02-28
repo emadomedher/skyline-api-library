@@ -1,0 +1,13 @@
+{
+  "id": "postplanner",
+  "title": "PostPlanner",
+  "subtitle": "Struggling with social media engagement? Use Post Planner to FIND, PLAN, & POST better content to  boost your reach &...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827232/catalog/postplanner/icon128x128.jpg",
+  "website": "https://postplanner.com"
+}

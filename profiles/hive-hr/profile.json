@@ -1,0 +1,14 @@
+{
+  "id": "hive-hr",
+  "title": "Hive.HR",
+  "subtitle": "Improve employee engagement, experience and performance with Hive's employee feedback platform and People Scientists.",
+  "tags": [
+    "employee-feedback",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571041828/catalog/hive-hr/icon128x128.png",
+  "website": "https://www.hive.hr/"
+}

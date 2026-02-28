@@ -1,0 +1,16 @@
+{
+  "id": "magic-link",
+  "title": "Magic",
+  "subtitle": "Drop passwords. Use magic links. Enable customizable, future-proof, passwordless login with a few lines of code.",
+  "tags": [
+    "identity",
+    "authentication",
+    "security",
+    "passwordless-auth"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590230474/catalog/magic-link/icon128x128.jpg",
+  "website": "https://magic.link/"
+}

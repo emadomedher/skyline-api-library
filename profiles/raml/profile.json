@@ -1,0 +1,14 @@
+{
+  "id": "raml",
+  "title": "RAML",
+  "subtitle": "RAML API integration",
+  "tags": [
+    "api-specifications"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616266067/icons/raml.jpg",
+  "website": "https://raml.org/",
+  "docsUrl": "https://raml.org/developer"
+}

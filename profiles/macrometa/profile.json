@@ -1,0 +1,14 @@
+{
+  "id": "macrometa",
+  "title": "Macrometa",
+  "subtitle": "Macrometa is a noSQL database, Pub/Sub, Event Processing, and computing platform for building geo-distributed applica...",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648679222/icons/macrometa.jpg",
+  "website": "https://www.macrometa.com/",
+  "docsUrl": "https://www.macrometa.com/docs"
+}

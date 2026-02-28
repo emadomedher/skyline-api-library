@@ -1,0 +1,14 @@
+{
+  "id": "figma",
+  "title": "Figma",
+  "subtitle": "A better way to design. Design, prototype, and gather feedback all in one place with Figma.",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557455842/catalog/figma/icon128x128.png",
+  "website": "https://figma.com",
+  "docsUrl": "https://www.figma.com/developers"
+}

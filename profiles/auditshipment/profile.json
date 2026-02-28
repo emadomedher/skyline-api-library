@@ -1,0 +1,13 @@
+{
+  "id": "auditshipment",
+  "title": "AuditShipment",
+  "subtitle": "Auditshipment will identify 50+ errors in your shipping invoice and claim FedEx,UPS & DHL refunds automatically. Sign...",
+  "tags": [
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570350240/catalog/auditshipment/icon128x128.png",
+  "website": "https://www.auditshipment.com/"
+}

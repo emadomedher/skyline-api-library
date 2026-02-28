@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-power",
+  "title": "Microsoft Power",
+  "subtitle": "Quickly build data-driven business solutions with the Microsoft Power Platform—Power BI, Power Apps, Power Automate, ...",
+  "tags": [
+    "rapid-application-development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621996979/icons/microsoft-power.jpg",
+  "website": "https://powerplatform.microsoft.com/"
+}

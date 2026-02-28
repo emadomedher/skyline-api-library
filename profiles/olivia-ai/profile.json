@@ -1,0 +1,14 @@
+{
+  "id": "olivia-ai",
+  "title": "Olivia AI",
+  "subtitle": "Olivia helps you spend smarter and save more. She applies artificial intelligence to learn your spending patterns, pr...",
+  "tags": [
+    "fintech",
+    "personal-finance-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592429375/icons/olivia-ai.jpg",
+  "website": "https://www.olivia.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vibrant-media",
+  "title": "Vibrant Media",
+  "subtitle": "Vibrant Media API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961998/catalog/vibrant-media/icon128x128.png",
+  "website": "https://vibrantmedia.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codeanywhere",
+  "title": "Codeanywhere",
+  "subtitle": "A complete toolset for web development. Enabling you to edit, collaborate and run your projects from any device.",
+  "tags": [
+    "ide",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587651101/catalog/codeanywhere/icon128x128.png",
+  "website": "https://codeanywhere.com/"
+}

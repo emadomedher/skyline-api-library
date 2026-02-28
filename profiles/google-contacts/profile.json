@@ -1,0 +1,14 @@
+{
+  "id": "google-contacts",
+  "title": "Google Contacts",
+  "subtitle": "Google Contacts, the address book built into Gmail, lets you keep track of all your contacts, see when you last inter...",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455965/catalog/google-contacts/icon128x128.png",
+  "website": "https://www.google.com/contacts",
+  "docsUrl": "https://developers.google.com/people/api/rest"
+}

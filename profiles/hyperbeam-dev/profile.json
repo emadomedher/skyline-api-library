@@ -1,0 +1,14 @@
+{
+  "id": "hyperbeam-dev",
+  "title": "Hyperbeam",
+  "subtitle": "Hyperbeam is an API that makes it easy for developers to embed multiplayer web browsers in their web apps. These enab...",
+  "tags": [
+    "real-time-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647256350/icons/hyperbeam-dev.png",
+  "website": "https://www.hyperbeam.dev/",
+  "docsUrl": "https://showy-backpack-b3f.notion.site/api-design-eb9874bd1ef54c22ba7197324ce22231"
+}

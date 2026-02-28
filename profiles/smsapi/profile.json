@@ -1,0 +1,12 @@
+{
+  "id": "smsapi",
+  "title": "SMSAPI",
+  "subtitle": "SMSAPI allows you to send text messages automatically. Messages can be fully personalized. You can set a custom sende...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306152/catalog/smsapi/icon128x128.png"
+}

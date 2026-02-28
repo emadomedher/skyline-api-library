@@ -1,0 +1,17 @@
+{
+  "id": "odoo",
+  "title": "Odoo",
+  "subtitle": "From ERP to CRM, eCommerce and CMS. Download Odoo or use it in the cloud. Grow Your Business.",
+  "tags": [
+    "business-tools",
+    "ecommerce",
+    "crm",
+    "accounting"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056082/catalog/odoo/icon128x128.png",
+  "website": "https://www.odoo.com/",
+  "docsUrl": "https://www.odoo.com/documentation/14.0/"
+}

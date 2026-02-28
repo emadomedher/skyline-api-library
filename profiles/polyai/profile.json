@@ -1,0 +1,14 @@
+{
+  "id": "polyai",
+  "title": "PolyAI",
+  "subtitle": "Enterprise-Ready Voice Assistants for Customer Service. Designed to handle natural conversations and ready to deploy ...",
+  "tags": [
+    "voice-assistants",
+    "customer-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612725331/icons/polyai.jpg",
+  "website": "https://www.polyai.com/"
+}

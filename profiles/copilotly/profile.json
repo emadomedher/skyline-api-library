@@ -1,0 +1,13 @@
+{
+  "id": "copilotly",
+  "title": "Copilotly",
+  "subtitle": "Unlock your mind's potential with Copilotly. Search better, write faster, and be more productive with Copilotly A.I. ...",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679055373/icons/copilotly.jpg",
+  "website": "https://www.copilotly.com/"
+}

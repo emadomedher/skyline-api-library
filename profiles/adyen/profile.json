@@ -1,0 +1,15 @@
+{
+  "id": "adyen",
+  "title": "Adyen",
+  "subtitle": "We provide a single payments platform globally to accept payments and grow revenue online, on mobile, and at the poin...",
+  "tags": [
+    "payments",
+    "payment-gateways"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571960552/catalog/adyen/icon128x128.jpg",
+  "website": "https://www.adyen.com/",
+  "docsUrl": "https://docs.adyen.com"
+}

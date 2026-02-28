@@ -1,0 +1,14 @@
+{
+  "id": "sheet2site",
+  "title": "Andrey Azimov",
+  "subtitle": "Sheet2Site is a website builder that lets you create your own website without writing code using only Google Sheets w...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588982421/catalog/sheet2site/icon128x128.jpg",
+  "website": "https://www.sheet2site.com/",
+  "docsUrl": "https://www.sheet2site.com/docs"
+}

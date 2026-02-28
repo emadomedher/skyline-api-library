@@ -1,0 +1,13 @@
+{
+  "id": "unionbank",
+  "title": "Union Bank",
+  "subtitle": "MUFG Union Bank is an American full-service bank with 398 branches in California, Washington and Oregon which is whol...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573864644/catalog/unionbank/icon128x128.jpg",
+  "website": "https://www.unionbank.com/"
+}

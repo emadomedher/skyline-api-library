@@ -1,0 +1,12 @@
+{
+  "id": "samanage",
+  "title": "Samanage",
+  "subtitle": "Modern IT management. Cloud-based IT service desk and asset management solution you'll love to use.",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305970/catalog/samanage/icon128x128.png"
+}

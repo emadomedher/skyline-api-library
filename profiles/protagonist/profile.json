@@ -1,0 +1,13 @@
+{
+  "id": "protagonist",
+  "title": "Protagonist",
+  "subtitle": "Protagonist identifies, measures and helps brands leverage the narratives that guide customer behavior.",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721613/catalog/protagonist/icon128x128.jpg",
+  "website": "https://protagonist.io"
+}

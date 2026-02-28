@@ -1,0 +1,16 @@
+{
+  "id": "tessel-io",
+  "title": "Tessel",
+  "subtitle": "Tessel API integration",
+  "tags": [
+    "iot",
+    "hardware",
+    "robotics"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581196297/catalog/tessel-io/icon128x128.png",
+  "website": "https://tessel.io/",
+  "docsUrl": "https://tessel.io/docs"
+}

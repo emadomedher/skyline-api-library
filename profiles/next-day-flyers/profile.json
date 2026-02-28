@@ -1,0 +1,13 @@
+{
+  "id": "next-day-flyers",
+  "title": "Next Day Flyers",
+  "subtitle": "Next Day Flyers API integration",
+  "tags": [
+    "print"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963510/catalog/next-day-flyers/icon128x128.png",
+  "website": "https://nextdayflyers.com"
+}

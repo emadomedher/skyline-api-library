@@ -1,0 +1,13 @@
+{
+  "id": "holydis",
+  "title": "Holy-Dis",
+  "subtitle": "Optimisez la gestion des plannings, horaires et temps | Un outil collaboratif et intelligent intégré au SiRH pour org...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648078593/icons/holydis.jpg",
+  "website": "https://www.holydis.com/"
+}

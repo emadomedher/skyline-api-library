@@ -1,0 +1,13 @@
+{
+  "id": "timedigitalcrm",
+  "title": "TimeDigital CRM",
+  "subtitle": "TimeDigitalCRM - сервис создания автоворонки продаж под ключ. Разработай и настрой свою автоворонку для эффективной р...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599826147/icons/timedigitalcrm.png",
+  "website": "https://timedigitalcrm.com/"
+}

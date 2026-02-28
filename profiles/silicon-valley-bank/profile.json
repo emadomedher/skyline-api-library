@@ -1,0 +1,14 @@
+{
+  "id": "silicon-valley-bank",
+  "title": "Silicon Valley Bank",
+  "subtitle": "Silicon Valley Bank, a subsidiary of SVB Financial Group, is a U.S.-based high-tech commercial bank. The bank has hel...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616003484/icons/silicon-valley-bank.jpg",
+  "website": "https://www.svb.com/",
+  "docsUrl": "https://www.svb.com/developers"
+}

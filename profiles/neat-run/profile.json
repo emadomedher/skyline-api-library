@@ -1,0 +1,13 @@
+{
+  "id": "neat-run",
+  "title": "Neat",
+  "subtitle": "Neat puts GitHub notifications in your menu bar. Streamline your code review and ship with ease. Preview, triage, and...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639528625/icons/neat-run.jpg",
+  "website": "https://neat.run/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "yourpos-nl",
+  "title": "Yourpos horeca kassasystemen",
+  "subtitle": "Yourpos is dé kassasysteem horeca specialist en levert gebruiksvriendelijke kassa's voor horecazaken. Installatie bin...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599156414/icons/yourpos-nl.jpg",
+  "website": "https://www.yourpos.nl/"
+}

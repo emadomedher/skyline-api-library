@@ -1,0 +1,13 @@
+{
+  "id": "mavenlink",
+  "title": "Mavenlink",
+  "subtitle": "Mavenlink’s project collaboration suite allows you to manage your business relationships, share files, and track proj...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305401/catalog/mavenlink/icon128x128.png",
+  "website": "https://www.mavenlink.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "forgerock",
+  "title": "ForgeRock",
+  "subtitle": "ForgeRock's Identity and Access Management Solutions helps their customers deepen their relationships with their cons...",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559238932/catalog/forgerock/icon128x128.jpg",
+  "website": "https://forgerock.com",
+  "docsUrl": "https://developer.forgerock.com"
+}

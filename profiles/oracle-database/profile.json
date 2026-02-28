@@ -1,0 +1,12 @@
+{
+  "id": "oracle-database",
+  "title": "Oracle Database",
+  "subtitle": "Oracle Database is a commercial relational or SQL database offering from Oracle. This database backs many critical op...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056093/catalog/oracle-database/icon128x128.png"
+}

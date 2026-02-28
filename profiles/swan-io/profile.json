@@ -1,0 +1,14 @@
+{
+  "id": "swan-io",
+  "title": "Swan",
+  "subtitle": "Use Swan's APIs to embed white-labeled banking features like accounts, cards, and IBANs into your workflows and UX.",
+  "tags": [
+    "embedded-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632869888/icons/swan-io.jpg",
+  "website": "https://www.swan.io/",
+  "docsUrl": "https://docs.swan.io"
+}

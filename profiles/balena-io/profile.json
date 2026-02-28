@@ -1,0 +1,16 @@
+{
+  "id": "balena-io",
+  "title": "balena",
+  "subtitle": "Infrastructure and tools to develop, deploy, and manage connected devices at scale. Your first ten devices are always...",
+  "tags": [
+    "iot",
+    "open-source",
+    "containers"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793924/icons/balena-io.jpg",
+  "website": "https://www.balena.io/",
+  "docsUrl": "https://balena.io/docs"
+}

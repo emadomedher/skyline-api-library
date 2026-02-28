@@ -1,0 +1,15 @@
+{
+  "id": "aire-io",
+  "title": "Aire",
+  "subtitle": "Aire is a new credit assessment service that reveals the bigger picture. So lenders make more informed decisions, and...",
+  "tags": [
+    "credit-scores",
+    "lending",
+    "income-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580407160/catalog/aire-io/icon128x128.png",
+  "website": "https://aire.io"
+}

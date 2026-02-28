@@ -1,0 +1,13 @@
+{
+  "id": "hellowalnut",
+  "title": "Walnut",
+  "subtitle": "Healthcare now. Pay Later. Discover the best way to pay for your healthcare over time at your own pace. Plans startin...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652051867/icons/hellowalnut.jpg",
+  "website": "https://www.hellowalnut.com/"
+}

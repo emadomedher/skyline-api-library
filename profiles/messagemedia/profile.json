@@ -1,0 +1,14 @@
+{
+  "id": "messagemedia",
+  "title": "MessageMedia",
+  "subtitle": "MessageMedia's powerful yet simple SMS billing and payment reminders can help boost your business's bottom line with ...",
+  "tags": [
+    "sms"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579119775/catalog/messagemedia/icon128x128.png",
+  "website": "https://messagemedia.com/",
+  "docsUrl": "https://developers.messagemedia.com"
+}

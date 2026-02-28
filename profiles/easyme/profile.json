@@ -1,0 +1,12 @@
+{
+  "id": "easyme",
+  "title": "EasyMe",
+  "subtitle": "EasyMe is an all-in-one booking, payment, marketing and online course platform for knowledge workers.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284503/catalog/easyme/icon128x128.png"
+}

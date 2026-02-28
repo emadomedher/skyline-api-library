@@ -1,0 +1,14 @@
+{
+  "id": "logdna",
+  "title": "LogDNA",
+  "subtitle": "LogDNA's centralized log management system deploys via cloud, multicloud, or on-prem in minutes. Aggregate, monitor &...",
+  "tags": [
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559901046/catalog/logdna/icon128x128.png",
+  "website": "https://logdna.com",
+  "docsUrl": "https://docs.logdna.com/docs"
+}

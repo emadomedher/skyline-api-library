@@ -1,0 +1,14 @@
+{
+  "id": "browse-ai",
+  "title": "Browse AI",
+  "subtitle": "Monitor any webpage for changes. Download any data on the web as a spreadsheet. Turn any website into an API.",
+  "tags": [
+    "web-scraping"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681065624/icons/browse-ai.png",
+  "website": "https://www.browse.ai/",
+  "docsUrl": "https://www.browse.ai/docs/api/v2"
+}

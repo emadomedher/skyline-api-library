@@ -1,0 +1,13 @@
+{
+  "id": "mainstreet",
+  "title": "MainStreet",
+  "subtitle": "MainStreet helps startups effortless discover & claim tax credits and incentives in minutes. Free to see how much you...",
+  "tags": [
+    "tax-credits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614023694/icons/mainstreet.jpg",
+  "website": "https://www.mainstreet.com/"
+}

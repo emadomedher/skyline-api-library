@@ -1,0 +1,14 @@
+{
+  "id": "otp-bank",
+  "title": "OTP Bank",
+  "subtitle": "OTP Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568914131/catalog/otp-bank/icon128x128.jpg",
+  "website": "https://www.otpbank.hu/portal/hu/Maganszemelyek",
+  "docsUrl": "https://portal-sandbox.openbanking.otpbank.hu"
+}

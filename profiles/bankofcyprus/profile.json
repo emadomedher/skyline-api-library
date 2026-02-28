@@ -1,0 +1,14 @@
+{
+  "id": "bankofcyprus",
+  "title": "Bank of Cyprus",
+  "subtitle": "Bank of Cyprus is the largest banking and financial services group in Cyprus, with significant market shares across a...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600383050/icons/bankofcyprus.png",
+  "website": "https://bankofcyprus.com/",
+  "docsUrl": "https://developer.bankofcyprus.com/"
+}

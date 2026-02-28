@@ -1,0 +1,13 @@
+{
+  "id": "siteground",
+  "title": "SiteGround",
+  "subtitle": "Our web hosting services are crafted for top speed, unmatched security, 24/7 fast and expert support. Trusted by more...",
+  "tags": [
+    "hosting"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578740376/catalog/siteground/icon128x128.jpg",
+  "website": "https://www.siteground.com/"
+}

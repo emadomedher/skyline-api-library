@@ -1,0 +1,14 @@
+{
+  "id": "spiketrap-io",
+  "title": "Spiketrap",
+  "subtitle": "Real-time artificial intelligence-driven analytics platform for the digital entertainment industry.",
+  "tags": [
+    "audience-analytics",
+    "social-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594981068/icons/spiketrap-io.jpg",
+  "website": "https://www.spiketrap.io/"
+}

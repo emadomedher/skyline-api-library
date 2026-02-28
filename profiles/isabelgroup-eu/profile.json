@@ -1,0 +1,14 @@
+{
+  "id": "isabelgroup-eu",
+  "title": "Isabel Group",
+  "subtitle": "Our experience, reliability and sense for innovation make Isabel Group Belgium’s biggest fintech and the fulcrum poin...",
+  "tags": [
+    "fintech",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562928981/catalog/isabelgroup-eu/icon128x128.png",
+  "website": "https://isabelgroup.eu"
+}

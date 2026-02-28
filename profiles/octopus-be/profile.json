@@ -1,0 +1,13 @@
+{
+  "id": "octopus-be",
+  "title": "Octopus",
+  "subtitle": "Octopus boekhoudsoftware is een product ontwikkeld en op de markt gebracht door Inaras NV, een onderdeel van de Dekim...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572476109/catalog/octopus-be/icon128x128.jpg",
+  "website": "https://www.octopus.be/"
+}

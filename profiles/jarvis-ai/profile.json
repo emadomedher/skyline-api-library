@@ -1,0 +1,14 @@
+{
+  "id": "jarvis-ai",
+  "title": "Jarvis",
+  "subtitle": "Create content 5x faster with artificial intelligence. Jarvis is the highest quality AI copywriter with over 1,000 5-...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631220839/icons/jarvis-ai.jpg",
+  "website": "https://www.jarvis.ai/",
+  "docsUrl": "https://jarvis.helpscoutdocs.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zerossl",
+  "title": "ZeroSSL",
+  "subtitle": "Free SSL certificates issued instantly online, supporting ACME clients, SSL monitoring, quick validation and automate...",
+  "tags": [
+    "ssl-certificates"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603589769/icons/zerossl.jpg",
+  "website": "https://zerossl.com/",
+  "docsUrl": "https://zerossl.com/developer"
+}

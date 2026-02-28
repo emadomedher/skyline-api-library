@@ -1,0 +1,12 @@
+{
+  "id": "highline",
+  "title": "Highline",
+  "subtitle": "Highline is a cloud-based mobile app for retailers small or large. It takes everything a retailer does--from Mobile P...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305101/catalog/highline/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zenlogin-co",
+  "title": "Zenlogin",
+  "subtitle": "Zenlogin detects suspicious logins so you don't have to. A single endpoint API to notify your users when there's been...",
+  "tags": [
+    "login-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618792253/icons/zenlogin-co.png",
+  "website": "https://zenlogin.co/",
+  "docsUrl": "https://zenlogin.co/docs"
+}

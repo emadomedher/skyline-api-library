@@ -1,0 +1,13 @@
+{
+  "id": "formwize",
+  "title": "Formwize",
+  "subtitle": "Formwize API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720140/catalog/formwize/icon128x128.jpg",
+  "website": "https://formwize.com"
+}

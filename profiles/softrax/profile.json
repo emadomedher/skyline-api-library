@@ -1,0 +1,13 @@
+{
+  "id": "softrax",
+  "title": "Softrax",
+  "subtitle": "Softrax enterprise revenue management software, offers innovative revenue recognition software solutions to help comp...",
+  "tags": [
+    "revenue-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553346476/catalog/softrax/icon128x128.jpg",
+  "website": "https://www.softrax.com/"
+}

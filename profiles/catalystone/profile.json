@@ -1,0 +1,14 @@
+{
+  "id": "catalystone",
+  "title": "CatalystOne",
+  "subtitle": "A complete HRM system for medium and large organisations. CatalystOne's cloud-based HR software suite will help you e...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1694887227/icons/catalystone.jpg",
+  "website": "https://www.catalystone.com/",
+  "docsUrl": "https://docs.microsoft.com/en-us/azure/dedicated-hsm/physical-security"
+}

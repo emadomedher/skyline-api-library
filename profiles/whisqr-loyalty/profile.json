@@ -1,0 +1,13 @@
+{
+  "id": "whisqr-loyalty",
+  "title": "Whisqr Loyalty",
+  "subtitle": "Whisqr is the easiest way to get a highly customized Loyalty Program for your business or brand.  Whisqr's Loyalty Pr...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946361/catalog/whisqr-loyalty/icon128x128.jpg",
+  "website": "https://loyalty.whisqr.com"
+}

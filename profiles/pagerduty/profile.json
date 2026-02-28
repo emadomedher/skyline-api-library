@@ -1,0 +1,15 @@
+{
+  "id": "pagerduty",
+  "title": "PagerDuty",
+  "subtitle": "See how PagerDuty's Platform for Real-Time Operations integrates machine data & human intelligence to improve visibil...",
+  "tags": [
+    "devops",
+    "incident-response"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618104288/icons/pagerduty.png",
+  "website": "https://www.pagerduty.com/",
+  "docsUrl": "https://v2.developer.pagerduty.com"
+}

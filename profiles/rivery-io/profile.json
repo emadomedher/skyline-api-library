@@ -1,0 +1,14 @@
+{
+  "id": "rivery-io",
+  "title": "Rivery",
+  "subtitle": "Rivery API integration",
+  "tags": [
+    "elt",
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649710834/icons/rivery-io.jpg",
+  "website": "https://rivery.io/"
+}

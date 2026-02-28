@@ -1,0 +1,13 @@
+{
+  "id": "surveypal",
+  "title": "Surveypal",
+  "subtitle": "Send branded surveys after any customer interaction, then monitor performance and improve survey response rates with ...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306245/catalog/surveypal/icon128x128.png",
+  "website": "https://www.surveypal.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ore-network",
+  "title": "ORE Network",
+  "subtitle": "The Open Rights Exchange is a purpose-built blockchain optimized for managing secure identities and digital assets, c...",
+  "tags": [
+    "blockchain-networks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642055395/icons/ore-network.png",
+  "website": "https://ore.network/",
+  "docsUrl": "https://ore.network/developers"
+}

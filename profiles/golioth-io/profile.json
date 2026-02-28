@@ -1,0 +1,14 @@
+{
+  "id": "golioth-io",
+  "title": "Golioth",
+  "subtitle": "Golioth is a platform that allows device makers to deliver on the promise of cloud connected IoT. It enables hardware...",
+  "tags": [
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637639870/icons/golioth-io.jpg",
+  "website": "https://golioth.io/",
+  "docsUrl": "https://docs.golioth.io"
+}

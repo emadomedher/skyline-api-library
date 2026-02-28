@@ -1,0 +1,14 @@
+{
+  "id": "fullstory",
+  "title": "FullStory",
+  "subtitle": "FullStory’s intuitive digital experience analytics provide you with key qualitative and quantitative insights so you ...",
+  "tags": [
+    "mobile-and-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439198/catalog/fullstory/icon128x128.svg",
+  "website": "https://fullstory.com",
+  "docsUrl": "https://developer.fullstory.com/introduction"
+}

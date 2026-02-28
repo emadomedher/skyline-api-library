@@ -1,0 +1,14 @@
+{
+  "id": "armosec-io",
+  "title": "ARMO",
+  "subtitle": "ARMO assures every Kubernetes' cluster, container, and microservice is born and remains secure from development to pr...",
+  "tags": [
+    "kubernetes-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640194238/icons/armosec-io.png",
+  "website": "https://www.armosec.io/",
+  "docsUrl": "https://hub.armo.cloud/docs"
+}

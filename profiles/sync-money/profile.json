@@ -1,0 +1,15 @@
+{
+  "id": "sync-money",
+  "title": "sync.",
+  "subtitle": "sync. is an all-in-one money management app that lets you take control of all your entire financial life in one app, ...",
+  "tags": [
+    "mobile-payments",
+    "fintech",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597405218/icons/sync-money.jpg",
+  "website": "https://sync.money/"
+}

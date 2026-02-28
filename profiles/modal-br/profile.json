@@ -1,0 +1,13 @@
+{
+  "id": "modal-br",
+  "title": "Banco Modal",
+  "subtitle": "O Modal é um Banco de Investimento completo. Nossas áreas de atuação são focadas em desenvolver soluções personalizad...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792169/icons/modal-br.png",
+  "website": "https://www.modal.com.br/"
+}

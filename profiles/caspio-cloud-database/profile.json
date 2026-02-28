@@ -1,0 +1,12 @@
+{
+  "id": "caspio-cloud-database",
+  "title": "Caspio Cloud Database",
+  "subtitle": "Caspio is a cloud platform for creating custom database applications fast and without coding.",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304583/catalog/caspio-cloud-database/icon128x128.png"
+}

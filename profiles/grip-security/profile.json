@@ -1,0 +1,13 @@
+{
+  "id": "grip-security",
+  "title": "Grip Security",
+  "subtitle": "The Grip SaaS security management platform brings the industry’s most comprehensive visibility across all enterprise ...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476496/icons/grip-security.jpg",
+  "website": "https://www.grip.security/"
+}

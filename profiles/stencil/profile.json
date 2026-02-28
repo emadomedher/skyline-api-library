@@ -1,0 +1,13 @@
+{
+  "id": "stencil",
+  "title": "Stencil",
+  "subtitle": "Ridiculously simple image creation for social media marketers, bloggers and small businesses.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722341/catalog/stencil/icon128x128.jpg",
+  "website": "https://getstencil.com"
+}

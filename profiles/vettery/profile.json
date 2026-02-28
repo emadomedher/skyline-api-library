@@ -1,0 +1,14 @@
+{
+  "id": "vettery",
+  "title": "Vettery",
+  "subtitle": "We use machine learning and real-time data to match talented job-seekers with inspiring companies. Our goal is to enr...",
+  "tags": [
+    "job-marketplaces",
+    "recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793904/icons/vettery.png",
+  "website": "https://www.vettery.com/"
+}

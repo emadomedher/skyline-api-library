@@ -1,0 +1,13 @@
+{
+  "id": "harmonie",
+  "title": "Harmon.ie",
+  "subtitle": "harmon.ie puts SharePoint, Office 365 and Outlook together so you can organize emails in outlook and do much more.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720322/catalog/harmonie/icon128x128.jpg",
+  "website": "https://harmon.ie"
+}

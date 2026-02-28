@@ -1,0 +1,14 @@
+{
+  "id": "mecoms",
+  "title": "MECOMS",
+  "subtitle": "The application platform of the future for energy & utility companies.",
+  "tags": [
+    "energy",
+    "utility"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595706305/icons/mecoms.jpg",
+  "website": "https://www.mecoms.com/"
+}

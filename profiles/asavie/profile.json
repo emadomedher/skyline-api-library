@@ -1,0 +1,15 @@
+{
+  "id": "asavie",
+  "title": "Asavie",
+  "subtitle": "At Asavie we make secure connectivity simple for any size of mobility or IoT deployment in a hyper-connected world.",
+  "tags": [
+    "security",
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801309/catalog/asavie/icon128x128.png",
+  "website": "https://www.asavie.com/",
+  "docsUrl": "https://www.asavie.com/resources"
+}

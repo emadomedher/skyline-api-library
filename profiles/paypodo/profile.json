@@ -1,0 +1,13 @@
+{
+  "id": "paypodo",
+  "title": "Paypodo",
+  "subtitle": "Paypodo API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595437740/icons/paypodo.png",
+  "website": "https://paypodo.com/"
+}

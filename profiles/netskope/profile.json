@@ -1,0 +1,13 @@
+{
+  "id": "netskope",
+  "title": "Netskope",
+  "subtitle": "Trusted by industry-leading businesses, we work to protect your data, stop threats and respond to incidents. Netskope...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593442136/icons/netskope.jpg",
+  "website": "https://www.netskope.com/"
+}

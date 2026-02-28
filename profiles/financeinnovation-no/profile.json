@@ -1,0 +1,13 @@
+{
+  "id": "financeinnovation-no",
+  "title": "Finance Innovation",
+  "subtitle": "NCE Finance Innovation is a non-profit Norwegian fintech cluster. We aim to \ndeliver value to members by enabling inf...",
+  "tags": [
+    "fintech-incubators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573694245/catalog/financeinnovation-no/icon128x128.jpg",
+  "website": "https://www.financeinnovation.no/"
+}

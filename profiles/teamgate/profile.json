@@ -1,0 +1,13 @@
+{
+  "id": "teamgate",
+  "title": "Teamgate",
+  "subtitle": "Teamgate is an intelligent sales CRM with a great insights. Start from Lead capturing and move along to closing a Dea...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306279/catalog/teamgate/icon128x128.png",
+  "website": "https://www.teamgate.com/"
+}

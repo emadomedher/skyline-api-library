@@ -1,0 +1,13 @@
+{
+  "id": "harvest",
+  "title": "Harvest",
+  "subtitle": "Harvest gives you simple time tracking, fast online invoicing, and powerful reporting software. Simplify employee tim...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456731/catalog/harvest/icon128x128.png",
+  "website": "https://www.getharvest.com/"
+}

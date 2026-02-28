@@ -1,0 +1,16 @@
+{
+  "id": "cosell-io",
+  "title": "CoSell",
+  "subtitle": "CoSell is a SaaS platform for B2B sales teams that surfaces customer and prospect overlap with partners to drive the ...",
+  "tags": [
+    "co-selling",
+    "sales",
+    "partner-management",
+    "channel-learning-and-readiness"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594230648/icons/cosell-io.jpg",
+  "website": "https://cosell.io"
+}

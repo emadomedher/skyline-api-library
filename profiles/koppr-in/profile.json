@@ -1,0 +1,14 @@
+{
+  "id": "koppr-in",
+  "title": "Koppr",
+  "subtitle": "Koppr helps you become an employee-first organisation. We help you become a companion in your employee’s financial we...",
+  "tags": [
+    "financial-wellness",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941460/icons/koppr-in.png",
+  "website": "https://www.koppr.in/"
+}

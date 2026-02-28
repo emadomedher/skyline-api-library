@@ -1,0 +1,13 @@
+{
+  "id": "apache-spark",
+  "title": "Apache Spark",
+  "subtitle": "Apache Spark is a unified analytics engine for big data processing, with built-in modules for streaming, SQL, machine...",
+  "tags": [
+    "data-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572827482/catalog/apache-spark/icon128x128.png",
+  "website": "https://spark.apache.org/"
+}

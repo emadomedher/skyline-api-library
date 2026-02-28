@@ -1,0 +1,14 @@
+{
+  "id": "drchrono",
+  "title": "drchrono",
+  "subtitle": "DrChrono EHR is a medical records,billing and practice management platform",
+  "tags": [
+    "saas",
+    "medical-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578862549/catalog/drchrono/icon128x128.png",
+  "website": "https://www.drchrono.com"
+}

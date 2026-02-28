@@ -1,0 +1,14 @@
+{
+  "id": "alloy-co",
+  "title": "Alloy",
+  "subtitle": "Alloy helps top banks and fintechs make better decisions using a single API and dashboard to manage KYC/AML, fraud, a...",
+  "tags": [
+    "kyc",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821143/catalog/alloy-co/icon128x128.jpg",
+  "website": "https://alloy.co/"
+}

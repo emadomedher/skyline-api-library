@@ -1,0 +1,13 @@
+{
+  "id": "cinchy",
+  "title": "Cinchy",
+  "subtitle": "Integration is obsolete. Cinchy's Autonomous Data Fabric is your only way to double your IT capacity and thrive in th...",
+  "tags": [
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590612404/catalog/cinchy/icon128x128.jpg",
+  "website": "https://www.cinchy.com/"
+}

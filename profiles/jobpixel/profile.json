@@ -1,0 +1,13 @@
+{
+  "id": "jobpixel",
+  "title": "JobPixel",
+  "subtitle": "Attract and engage job seekers, screen and assess potential candidates and hire top talent faster than ever before wi...",
+  "tags": [
+    "video-interviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659049750/icons/jobpixel.jpg",
+  "website": "https://www.jobpixel.com/"
+}

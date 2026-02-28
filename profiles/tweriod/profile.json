@@ -1,0 +1,13 @@
+{
+  "id": "tweriod",
+  "title": "Tweriod",
+  "subtitle": "Tweriod is a free twitter tool that helps you make the most of Twitter by letting you know the best time to tweet.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722600/catalog/tweriod/icon128x128.png",
+  "website": "https://tweriod.com"
+}

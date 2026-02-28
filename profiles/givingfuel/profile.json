@@ -1,0 +1,12 @@
+{
+  "id": "givingfuel",
+  "title": "GivingFuel",
+  "subtitle": "GivingFuel is a flexible giving solution. Do More, Raise More, and Keep More.",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305018/catalog/givingfuel/icon128x128.png"
+}

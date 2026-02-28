@@ -1,0 +1,15 @@
+{
+  "id": "clay-run",
+  "title": "Clay",
+  "subtitle": "Quickly connect apps and custom code to create automated workflows and build tools for your team",
+  "tags": [
+    "no-code",
+    "integration-platforms"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594906745/icons/clay-run.png",
+  "website": "https://clay.run/",
+  "docsUrl": "https://www.notion.so/clayrun/clay-library-5223a65f2468499491da4d5a899d8072"
+}

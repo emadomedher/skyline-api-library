@@ -1,0 +1,14 @@
+{
+  "id": "calendarhero",
+  "title": "CalendarHero",
+  "subtitle": "From video calls to group meetings, CalendarHero is powerful meeting \nscheduling software that helps you automate you...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629487070/icons/calendarhero.jpg",
+  "website": "https://calendarhero.com/",
+  "docsUrl": "https://api.calendarhero.com/documentation"
+}

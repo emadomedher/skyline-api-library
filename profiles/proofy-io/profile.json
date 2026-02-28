@@ -1,0 +1,15 @@
+{
+  "id": "proofy-io",
+  "title": "Proofy",
+  "subtitle": "Verifying email address is easy! Our website helps to make your email list verification more simple and qualitatively...",
+  "tags": [
+    "email-verification-api",
+    "email",
+    "api"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567507126/catalog/proofy-io/icon128x128.jpg",
+  "website": "https://proofy.io/"
+}

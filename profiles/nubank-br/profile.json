@@ -1,0 +1,13 @@
+{
+  "id": "nubank-br",
+  "title": "Nubank",
+  "subtitle": "Finally, you're in control of your money. Total control of your credit card and the 100% digital NuConta account",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571567202/catalog/nubank-br/icon128x128.png",
+  "website": "https://nubank.com.br/"
+}

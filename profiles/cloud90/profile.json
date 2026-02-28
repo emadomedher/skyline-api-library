@@ -1,0 +1,13 @@
+{
+  "id": "cloud90",
+  "title": "Cloud90",
+  "subtitle": "Cloud90 API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433781/catalog/cloud90/icon128x128.png",
+  "website": "https://cloud90.ie"
+}

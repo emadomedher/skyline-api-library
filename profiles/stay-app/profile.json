@@ -1,0 +1,13 @@
+{
+  "id": "stay-app",
+  "title": "STAY",
+  "subtitle": "Connect your hotel with your guests thanks to STAY. Digitize your guests' experience with an end-to-end solution. ✅ G...",
+  "tags": [
+    "guest-experience-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625622553/icons/stay-app.jpg",
+  "website": "https://www.stay-app.com/"
+}

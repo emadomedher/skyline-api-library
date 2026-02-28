@@ -1,0 +1,14 @@
+{
+  "id": "stuart",
+  "title": "Stuart",
+  "subtitle": "Start delivering happiness to all your clients, on-demand",
+  "tags": [
+    "food-delivery",
+    "delivery-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588108001/catalog/stuart/icon128x128.jpg",
+  "website": "https://stuart.com/"
+}

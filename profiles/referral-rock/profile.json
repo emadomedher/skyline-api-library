@@ -1,0 +1,13 @@
+{
+  "id": "referral-rock",
+  "title": "Referral Rock",
+  "subtitle": "Referral Rock helps businesses to design, track and manage referral programs.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305859/catalog/referral-rock/icon128x128.png",
+  "website": "https://referralrock.com"
+}

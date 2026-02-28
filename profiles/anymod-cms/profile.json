@@ -1,0 +1,13 @@
+{
+  "id": "anymod-cms",
+  "title": "Anymod CMS",
+  "subtitle": "Community coding for the web",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964311/catalog/anymod-cms/icon128x128.png",
+  "website": "https://anymod.com"
+}

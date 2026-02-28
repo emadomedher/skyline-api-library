@@ -1,0 +1,13 @@
+{
+  "id": "neon-br",
+  "title": "Neon",
+  "subtitle": "Neon is a digital bank that offers credit cards, personal loans, and investment products, among other services.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614908081/icons/neon-br.jpg",
+  "website": "https://neon.com.br/"
+}

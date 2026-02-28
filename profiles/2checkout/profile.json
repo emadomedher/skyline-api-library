@@ -1,0 +1,14 @@
+{
+  "id": "2checkout",
+  "title": "2Checkout",
+  "subtitle": "Accept payments online, anytime, anywhere. 2Checkout.com is an online payment processing service that helps you accep...",
+  "tags": [
+    "ecommerce-platforms-and-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432659/catalog/2checkout/icon128x128.png",
+  "website": "https://2checkout.com",
+  "docsUrl": "https://www.2checkout.com/partners/developer"
+}

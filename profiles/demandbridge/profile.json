@@ -1,0 +1,13 @@
+{
+  "id": "demandbridge",
+  "title": "DemandBridge",
+  "subtitle": "DemandBridge connects robust inventory and accounting software with eCommerce technology for management, customizatio...",
+  "tags": [
+    "through-channel-marketing-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593941487/icons/demandbridge.jpg",
+  "website": "https://www.demandbridge.com/"
+}

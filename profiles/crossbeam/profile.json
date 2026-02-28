@@ -1,0 +1,14 @@
+{
+  "id": "crossbeam",
+  "title": "Crossbeam",
+  "subtitle": "Crossbeam is a Partner Ecosystem Platform that helps companies build more valuable partner ecosystems. We act as an e...",
+  "tags": [
+    "channel-data-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434004/catalog/crossbeam/icon128x128.png",
+  "website": "https://getcrossbeam.com",
+  "docsUrl": "https://help.crossbeam.com"
+}

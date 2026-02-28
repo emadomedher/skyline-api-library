@@ -1,0 +1,14 @@
+{
+  "id": "trybrass",
+  "title": "Brass",
+  "subtitle": "Current account for fast growing businesses in Nigeria.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607659990/icons/trybrass.jpg",
+  "website": "https://www.trybrass.com/",
+  "docsUrl": "https://docs.trybrass.com"
+}

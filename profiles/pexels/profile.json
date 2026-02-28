@@ -1,0 +1,13 @@
+{
+  "id": "pexels",
+  "title": "Pexels",
+  "subtitle": "Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required",
+  "tags": [
+    "stock-images"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586106184/catalog/pexels/icon128x128.jpg",
+  "website": "https://www.pexels.com/"
+}

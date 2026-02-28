@@ -1,0 +1,14 @@
+{
+  "id": "billie-io",
+  "title": "Billie",
+  "subtitle": "Billie Factoring begleicht Ihre offenen Rechnungen in weniger als 10 Minuten. Jetzt direkt anmelden und noch heute di...",
+  "tags": [
+    "invoicing",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563298670/catalog/billie-io/icon128x128.png",
+  "website": "https://billie.io"
+}

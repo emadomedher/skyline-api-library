@@ -1,0 +1,13 @@
+{
+  "id": "salonbridge-za",
+  "title": "SalonBridge",
+  "subtitle": "SalonBridge is an online spa and salon management system that lets you manage appointments, clients, payments, online...",
+  "tags": [
+    "salon"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589150154/catalog/salonbridge-za/icon128x128.jpg",
+  "website": "https://www.salonbridge.co.za/"
+}

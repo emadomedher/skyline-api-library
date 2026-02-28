@@ -1,0 +1,14 @@
+{
+  "id": "penta",
+  "title": "Penta",
+  "subtitle": "Free online business bank account for startups and SMEs. ✔ German IBAN ✔ Top Support ✔ Multiple corporate Mastercards.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569632028/catalog/penta/icon128x128.jpg",
+  "website": "https://getpenta.com/",
+  "docsUrl": "https://www.permanenttsb.ie/developer-portal/api-overview/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "addsource",
+  "title": "AddSource",
+  "subtitle": "We made the most powerful tool to enable, monitor, optimize & automate performance based marketing for everyone. Book...",
+  "tags": [
+    "call-analytics-and-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718888/catalog/addsource/icon128x128.png",
+  "website": "https://addsource.com",
+  "docsUrl": "https://www.addsource.com/documentation"
+}

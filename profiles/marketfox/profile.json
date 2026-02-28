@@ -1,0 +1,13 @@
+{
+  "id": "marketfox",
+  "title": "MarketFox",
+  "subtitle": "Marketfox is a business automation software that helps businesses to attract more visitors, create larger pipeline an...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720994/catalog/marketfox/icon128x128.jpg",
+  "website": "https://marketfox.io"
+}

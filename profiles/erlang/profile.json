@@ -1,0 +1,14 @@
+{
+  "id": "erlang",
+  "title": "Ericsson OTP Team",
+  "subtitle": "Erlang Programming Language",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607030348/icons/erlang.jpg",
+  "website": "https://www.erlang.org/",
+  "docsUrl": "https://www.erlang.org/docs"
+}

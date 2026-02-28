@@ -1,0 +1,13 @@
+{
+  "id": "airplane-dev",
+  "title": "Airplane",
+  "subtitle": "Airplane turns SQL queries, REST endpoints, JavaScript / Python scripts, and more into apps for your team to use.",
+  "tags": [
+    "internal-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632258403/icons/airplane-dev.jpg",
+  "website": "https://www.airplane.dev/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "lansweeper",
+  "title": "Lansweeper",
+  "subtitle": "Lansweeper API integration",
+  "tags": [
+    "it-asset-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568747/icons/lansweeper.jpg",
+  "website": "https://www.lansweeper.com/"
+}

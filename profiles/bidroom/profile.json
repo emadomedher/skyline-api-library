@@ -1,0 +1,14 @@
+{
+  "id": "bidroom",
+  "title": "bidroom.com",
+  "subtitle": "Over 150K hotels worldwide at up to 25% lower prices than anywhere else. Book your hotel & level up the whole trip wi...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448064/icons/bidroom.jpg",
+  "website": "https://bidroom.com/"
+}

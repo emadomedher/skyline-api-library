@@ -1,0 +1,13 @@
+{
+  "id": "talkspace",
+  "title": "Talkspace",
+  "subtitle": "Connect with a licensed therapist from the palm of your hand, and experience the most convenient, affordable way to i...",
+  "tags": [
+    "online-therapy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796472/catalog/talkspace/icon128x128.png",
+  "website": "https://www.talkspace.com/"
+}

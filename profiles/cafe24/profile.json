@@ -1,0 +1,14 @@
+{
+  "id": "cafe24",
+  "title": "카페24",
+  "subtitle": "구글, 페이스북 등 전 세계 파트너와 협력하여 75억 소비자를 만나는 글로벌 전자상거래 플랫폼 카페24입니다.",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615198280/icons/cafe24.jpg",
+  "website": "https://www.cafe24.com/",
+  "docsUrl": "https://developers.cafe24.com"
+}

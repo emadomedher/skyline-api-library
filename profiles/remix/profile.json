@@ -1,0 +1,14 @@
+{
+  "id": "remix",
+  "title": "Remix",
+  "subtitle": "Remix is the leading platform for transportation planning software. See all your data in one place, plan a holistic n...",
+  "tags": [
+    "mobility",
+    "transportation-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615772624/icons/remix.jpg",
+  "website": "https://www.remix.com/"
+}

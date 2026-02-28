@@ -1,0 +1,13 @@
+{
+  "id": "quantati",
+  "title": "Quantiti",
+  "subtitle": "Quantiti API integration",
+  "tags": [
+    "web-scraping"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568048318/catalog/quantati/icon128x128.png",
+  "website": "https://quantati.com"
+}

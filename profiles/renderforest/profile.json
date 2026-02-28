@@ -1,0 +1,13 @@
+{
+  "id": "renderforest",
+  "title": "Renderforest",
+  "subtitle": "We're all in one platform for creating your intros, explainer animations, promotional videos, logos or even a profess...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583189297/catalog/renderforest/icon128x128.jpg",
+  "website": "https://www.renderforest.com/"
+}

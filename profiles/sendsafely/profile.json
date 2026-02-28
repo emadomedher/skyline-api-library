@@ -1,0 +1,12 @@
+{
+  "id": "sendsafely",
+  "title": "SendSafely",
+  "subtitle": "SendSafely is an end-to-end encrypted file transfer platform that lets you securely attach any file to any platform.",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306031/catalog/sendsafely/icon128x128.png"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "spotio",
+  "title": "Spotio",
+  "subtitle": "Door to door sales tracking that's fast and easy to use, with maps and reports that keep you in the know. Available f...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306165/catalog/spotio/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "workiz",
+  "title": "Workiz",
+  "subtitle": "Workiz is an intuitive Field Service Management and Scheduling Software. Use cloud-based invoicing,     scheduling, S...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562610900/catalog/workiz/icon128x128.jpg",
+  "website": "https://workiz.com"
+}

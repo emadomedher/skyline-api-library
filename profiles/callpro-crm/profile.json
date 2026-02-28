@@ -1,0 +1,13 @@
+{
+  "id": "callpro-crm",
+  "title": "CallPro CRM",
+  "subtitle": "Telemarketing software designed for calling and call centers. Very configurable, very powerful. Built-in email market...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719327/catalog/callpro-crm/icon128x128.jpg",
+  "website": "https://callprocrm.com"
+}

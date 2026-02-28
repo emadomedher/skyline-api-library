@@ -1,0 +1,14 @@
+{
+  "id": "spatie-be",
+  "title": "SPATIE",
+  "subtitle": "Spatie is a digital allrounder: we design solid websites & web applications using Laravel & Vue. No frills, just\n    ...",
+  "tags": [
+    "development-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610365778/icons/spatie-be.jpg",
+  "website": "https://spatie.be/",
+  "docsUrl": "https://spatie.be/docs"
+}

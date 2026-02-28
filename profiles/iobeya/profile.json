@@ -1,0 +1,14 @@
+{
+  "id": "iobeya",
+  "title": "iObeya",
+  "subtitle": "Transform enterprise collaboration with Digital Visual Management designed on Lean and Agile principles.The enterpris...",
+  "tags": [
+    "project-management",
+    "agile"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595597624/icons/iobeya.png",
+  "website": "https://www.iobeya.com/"
+}

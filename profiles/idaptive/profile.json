@@ -1,0 +1,13 @@
+{
+  "id": "idaptive",
+  "title": "Idaptive",
+  "subtitle": "Idaptive delivers Next-Gen Access through a zero trust approach. Idaptive secures access everywhere with single sign-...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601005954/icons/idaptive.jpg",
+  "website": "https://www.idaptive.com/"
+}

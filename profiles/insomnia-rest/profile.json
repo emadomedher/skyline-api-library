@@ -1,0 +1,15 @@
+{
+  "id": "insomnia-rest",
+  "title": "Insomnia",
+  "subtitle": "Insomnia is a cross-platform GraphQL and REST client, available for Mac, Windows, and Linux",
+  "tags": [
+    "api-design",
+    "api"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570527747/catalog/insomnia-rest/icon128x128.jpg",
+  "website": "https://insomnia.rest/",
+  "docsUrl": "https://support.insomnia.rest"
+}

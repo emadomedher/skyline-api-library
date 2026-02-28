@@ -1,0 +1,14 @@
+{
+  "id": "dealertrack",
+  "title": "Dealertrack",
+  "subtitle": "Dealertrack is the leading provider of on-demand dealership F&I software for the auto industry, specializing in finan...",
+  "tags": [
+    "dealership-management",
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601567133/icons/dealertrack.png",
+  "website": "https://us.dealertrack.com/"
+}

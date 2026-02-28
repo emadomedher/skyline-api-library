@@ -1,0 +1,14 @@
+{
+  "id": "ibanity-xs2a",
+  "title": "Ibanity XS2A",
+  "subtitle": "Surf the PSD2 wave. Connect to any bank and access account information or initiate payment orders directly from your ...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621996983/icons/ibanity-xs2a.jpg",
+  "website": "https://ibanity.com/products/ibanity-xs2a",
+  "docsUrl": "https://documentation.ibanity.com"
+}

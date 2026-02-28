@@ -1,0 +1,14 @@
+{
+  "id": "happyreturns",
+  "title": "Happy Returns",
+  "subtitle": "Happy Returns API integration",
+  "tags": [
+    "retail",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590546/icons/happyreturns.jpg",
+  "website": "https://www.happyreturns.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gojek",
+  "title": "Gojek",
+  "subtitle": "Lebih dari 1 juta driver Gojek siap melayani ojek online, taksi online, pesan antar makanan, kirim barang, belanja & ...",
+  "tags": [
+    "super-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608594245/icons/gojek.jpg",
+  "website": "https://www.gojek.com/"
+}

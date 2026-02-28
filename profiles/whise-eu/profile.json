@@ -1,0 +1,13 @@
+{
+  "id": "whise-eu",
+  "title": "Whise",
+  "subtitle": "Speed up your real estate agency with our CRM software, and spend more time with your customer.",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614786963/icons/whise-eu.png",
+  "website": "https://www.whise.eu/"
+}

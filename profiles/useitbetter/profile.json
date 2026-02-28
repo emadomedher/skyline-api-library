@@ -1,0 +1,13 @@
+{
+  "id": "useitbetter",
+  "title": "UseItBetter",
+  "subtitle": "UseItBetter API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962042/catalog/useitbetter/icon128x128.png",
+  "website": "https://useitbetter.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "lytics",
+  "title": "Lytics",
+  "subtitle": "The Lytics Customer Data Platform (CDP) removes complexity to help marketers serve smart and relevant experiences to ...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553335255/catalog/lytics/icon128x128.png",
+  "website": "https://www.lytics.com/"
+}

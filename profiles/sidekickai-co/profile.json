@@ -1,0 +1,15 @@
+{
+  "id": "sidekickai-co",
+  "title": "Sidekick AI",
+  "subtitle": "Sidekick AI builds AI customer service agents to chat with your customers. Come talk to one today!",
+  "tags": [
+    "customer-support",
+    "chat-bots"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556170/icons/sidekickai-co.jpg",
+  "website": "https://www.sidekickai.co/",
+  "docsUrl": "https://www.sidekickai.co/docs"
+}

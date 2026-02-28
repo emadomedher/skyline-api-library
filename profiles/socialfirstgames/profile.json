@@ -1,0 +1,13 @@
+{
+  "id": "socialfirstgames",
+  "title": "Social First",
+  "subtitle": "We create games that are social experiences, span decades and extend beyond gaming; giving our players platforms to c...",
+  "tags": [
+    "game-studios"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647328116/icons/socialfirstgames.jpg",
+  "website": "https://www.socialfirstgames.com/"
+}

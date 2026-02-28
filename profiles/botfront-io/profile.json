@@ -1,0 +1,14 @@
+{
+  "id": "botfront-io",
+  "title": "Botfront",
+  "subtitle": "An open source UI platform to build chatbots with Rasa",
+  "tags": [
+    "bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569659400/catalog/botfront-io/icon128x128.png",
+  "website": "https://www.botfront.io/",
+  "docsUrl": "https://docs.botfront.io"
+}

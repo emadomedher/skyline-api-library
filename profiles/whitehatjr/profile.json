@@ -1,0 +1,14 @@
+{
+  "id": "whitehatjr",
+  "title": "WhiteHat Jr",
+  "subtitle": "Enrol your kids in online Coding, Math & Music Classes with WhiteHat Jr & become a part of the future of education. B...",
+  "tags": [
+    "online-coding",
+    "edtech"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556143/icons/whitehatjr.jpg",
+  "website": "https://www.whitehatjr.com/"
+}

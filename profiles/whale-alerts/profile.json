@@ -1,0 +1,12 @@
+{
+  "id": "whale-alerts",
+  "title": "Whale Alerts",
+  "subtitle": "Whale Alerts API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439394/catalog/whale-alerts/icon128x128.svg"
+}

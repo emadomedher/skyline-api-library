@@ -1,0 +1,12 @@
+{
+  "id": "powrbot",
+  "title": "Powrbot",
+  "subtitle": "Powrbot automates searching the web for company data.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284579/catalog/powrbot/icon128x128.png"
+}

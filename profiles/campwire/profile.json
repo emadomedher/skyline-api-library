@@ -1,0 +1,13 @@
+{
+  "id": "campwire",
+  "title": "Campwire",
+  "subtitle": "Make your digital business dreams come true! Create and sell your online courses and eBooks quickly and easily using ...",
+  "tags": [
+    "online-course-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571041833/catalog/campwire/icon128x128.jpg",
+  "website": "https://www.campwire.com"
+}

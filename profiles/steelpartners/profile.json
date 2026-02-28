@@ -1,0 +1,14 @@
+{
+  "id": "steelpartners",
+  "title": "Steel Partners Holdings",
+  "subtitle": "Steel Partners Holdings L.P. is a global diversified holding company that engages in multiple businesses through cons...",
+  "tags": [
+    "holdings",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577067595/catalog/steelpartners/icon128x128.jpg",
+  "website": "https://www.steelpartners.com/"
+}

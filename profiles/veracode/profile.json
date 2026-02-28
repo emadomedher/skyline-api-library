@@ -1,0 +1,14 @@
+{
+  "id": "veracode",
+  "title": "Veracode",
+  "subtitle": "A simpler and more scalable way to increase the resiliency of your global application infrastructure, without slowing...",
+  "tags": [
+    "application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563898876/catalog/veracode/icon128x128.png",
+  "website": "https://veracode.com",
+  "docsUrl": "https://www.veracode.com"
+}

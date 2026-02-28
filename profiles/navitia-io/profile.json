@@ -1,0 +1,14 @@
+{
+  "id": "navitia-io",
+  "title": "Navitia",
+  "subtitle": "Discover our API to build cool stuff with public transport",
+  "tags": [
+    "transport-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615241042/icons/navitia-io.jpg",
+  "website": "https://www.navitia.io/",
+  "docsUrl": "http://canaltp.github.io/navitia"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tryellie",
+  "title": "Ellie",
+  "subtitle": "Ellie learns from your writing style and crafts replies as if they were written by you",
+  "tags": [
+    "email-assistants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674309148/icons/tryellie.png",
+  "website": "https://tryellie.com/"
+}

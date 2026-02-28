@@ -1,0 +1,13 @@
+{
+  "id": "exsalerate-crm",
+  "title": "Exsalerate CRM",
+  "subtitle": "Exsalerate is Online Customer Relationship Management (CRM) Software Designed with Small & Medium Business in Mind.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720038/catalog/exsalerate-crm/icon128x128.png",
+  "website": "https://exsalerate.com"
+}

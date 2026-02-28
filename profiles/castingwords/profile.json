@@ -1,0 +1,12 @@
+{
+  "id": "castingwords",
+  "title": "CastingWords",
+  "subtitle": "Human powered transcription, accurate, fast, and easy.  We turn your audio in text - or web pages.  Incredible qualit...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304582/catalog/castingwords/icon128x128.png"
+}

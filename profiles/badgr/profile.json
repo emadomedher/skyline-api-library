@@ -1,0 +1,14 @@
+{
+  "id": "badgr",
+  "title": "Badgr",
+  "subtitle": "Seamlessly award badges and verify and track achievements with Badgr, the only credentialing platform with stackable ...",
+  "tags": [
+    "award-badges",
+    "digital-badging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641977872/icons/badgr.jpg",
+  "website": "https://info.badgr.com/"
+}

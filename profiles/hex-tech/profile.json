@@ -1,0 +1,15 @@
+{
+  "id": "hex-tech",
+  "title": "Hex",
+  "subtitle": "The data workspace for teams.\n    ",
+  "tags": [
+    "data-notebooks",
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617283011/icons/hex-tech.png",
+  "website": "https://hex.tech/",
+  "docsUrl": "https://docs.hex.tech"
+}

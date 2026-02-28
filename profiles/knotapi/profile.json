@@ -1,0 +1,14 @@
+{
+  "id": "knotapi",
+  "title": "Knot API",
+  "subtitle": "Knot is for when there's knot an API - change card on file information, cancel subscriptions, change passwords, and m...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691961337/icons/knotapi.jpg",
+  "website": "https://knotapi.com/",
+  "docsUrl": "https://docs.knotapi.com/docs/card-on-file-switcher-quick-start"
+}

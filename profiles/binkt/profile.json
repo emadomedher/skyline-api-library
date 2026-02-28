@@ -1,0 +1,13 @@
+{
+  "id": "binkt",
+  "title": "Binkt",
+  "subtitle": "Binkt offers Social Media Management services. We'll create targeted fresh daily content to engage your audience, ill...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947243/catalog/binkt/icon128x128.jpg",
+  "website": "https://binkt.com"
+}

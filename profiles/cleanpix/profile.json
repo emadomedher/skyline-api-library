@@ -1,0 +1,13 @@
+{
+  "id": "cleanpix",
+  "title": "Cleanpix",
+  "subtitle": "Digital media management software to protect, organize and deliver your brand files simply and effectively. Start you...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433805/catalog/cleanpix/icon128x128.png",
+  "website": "https://cleanpix.com"
+}

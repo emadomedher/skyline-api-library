@@ -1,0 +1,14 @@
+{
+  "id": "usbank",
+  "title": "U.S. Bank",
+  "subtitle": "Bank smarter with U.S. Bank and browse personal and consumer banking services including checking and savings accounts...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573360755/catalog/usbank/icon128x128.jpg",
+  "website": "https://www.usbank.com/",
+  "docsUrl": "https://developer.usbank.com/"
+}

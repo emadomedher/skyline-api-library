@@ -1,0 +1,13 @@
+{
+  "id": "bennie",
+  "title": "Bennie",
+  "subtitle": "Bennie is on a mission to provide everyone with access to better benefits. Learn more about our app and world-class b...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686603014/icons/bennie.jpg",
+  "website": "https://www.bennie.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dkb-de",
+  "title": "Deutsche Kreditbank (DKB)",
+  "subtitle": "Deutsche Kreditbank (DKB) is the second-largest Direct bank in Germany with 4,5 million customers, fully owned by the...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618530782/icons/dkb-de.jpg",
+  "website": "https://www.dkb.de/"
+}

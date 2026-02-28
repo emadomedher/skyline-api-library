@@ -1,0 +1,12 @@
+{
+  "id": "lahar",
+  "title": "LAHAR",
+  "subtitle": "LAHAR is digital software that facilitates digital marketing tasks for small and medium-sized businesses and provides...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284547/catalog/lahar/icon128x128.png"
+}

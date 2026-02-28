@@ -1,0 +1,13 @@
+{
+  "id": "firstagentwins",
+  "title": "First Agent Wins",
+  "subtitle": "First Agent Wins, Baton Rouge",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591351444/icons/firstagentwins.png",
+  "website": "http://www.firstagentwins.com/"
+}

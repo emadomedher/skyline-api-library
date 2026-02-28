@@ -1,0 +1,16 @@
+{
+  "id": "middesk",
+  "title": "Middesk",
+  "subtitle": "Middesk provides infrastructure for businesses to establish trusted relationships",
+  "tags": [
+    "verification",
+    "kyb",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569733402/catalog/middesk/icon128x128.jpg",
+  "website": "https://www.middesk.com/",
+  "docsUrl": "https://docs.middesk.com"
+}

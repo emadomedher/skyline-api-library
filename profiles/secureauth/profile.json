@@ -1,0 +1,14 @@
+{
+  "id": "secureauth",
+  "title": "SecureAuth",
+  "subtitle": "Experience enterprise-level identity and access management with SecureAuth's powerful, innovative, multi-factor adapt...",
+  "tags": [
+    "multi-factor-authentication",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593705300/icons/secureauth.jpg",
+  "website": "https://www.secureauth.com/"
+}

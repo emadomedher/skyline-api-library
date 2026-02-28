@@ -1,0 +1,13 @@
+{
+  "id": "weare8",
+  "title": "WeAre8",
+  "subtitle": "WeAre8 is an app for anyone who wants to get sponsored by brands, for watching videos, being creative and sharing stuff.",
+  "tags": [
+    "sponsorships"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577072218/catalog/weare8/icon128x128.png",
+  "website": "https://www.weare8.com/"
+}

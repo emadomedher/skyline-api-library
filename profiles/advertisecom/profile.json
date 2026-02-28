@@ -1,0 +1,13 @@
+{
+  "id": "advertisecom",
+  "title": "Advertise.com",
+  "subtitle": "Advertise.com API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964397/catalog/advertisecom/icon128x128.png",
+  "website": "https://Advertise.com"
+}

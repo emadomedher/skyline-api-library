@@ -1,0 +1,13 @@
+{
+  "id": "planyo-online-booking",
+  "title": "Planyo Online Booking",
+  "subtitle": "Planyo is an online reservation system which can be used by any business taking bookings. It's used, amongst others, ...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305702/catalog/planyo-online-booking/icon128x128.png",
+  "website": "https://www.planyo.com/"
+}

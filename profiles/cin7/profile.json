@@ -1,0 +1,12 @@
+{
+  "id": "cin7",
+  "title": "Cin7",
+  "subtitle": "Cin7 API integration",
+  "tags": [
+    "inventory"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378789/catalog/cin7/icon128x128.png"
+}

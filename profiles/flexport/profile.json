@@ -1,0 +1,17 @@
+{
+  "id": "flexport",
+  "title": "Flexport",
+  "subtitle": "Flexport moves freight globally by air, ocean, rail, and truck for the world's leading brands. Only Flexport delivers...",
+  "tags": [
+    "logistics",
+    "supply-chain",
+    "freight-forwarding-services-providers",
+    "freight-forwarding"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231801/icons/flexport.png",
+  "website": "https://www.flexport.com/",
+  "docsUrl": "https://apidocs.flexport.com/reference"
+}

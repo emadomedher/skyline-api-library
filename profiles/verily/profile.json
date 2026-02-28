@@ -1,0 +1,13 @@
+{
+  "id": "verily",
+  "title": "Verily Life Sciences",
+  "subtitle": "Verily is focused on using technology to better\nunderstand health, as well as prevent, detect, and manage disease. Ou...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584551403/catalog/verily/icon128x128.png",
+  "website": "https://verily.com/"
+}

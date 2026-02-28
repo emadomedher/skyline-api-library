@@ -1,0 +1,13 @@
+{
+  "id": "intraboom",
+  "title": "Intraboom",
+  "subtitle": "Intraboom - the new mobile intranet and digital workplace - an all-in-one communication solution for your business. A...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720542/catalog/intraboom/icon128x128.jpg",
+  "website": "https://intraboom.com"
+}

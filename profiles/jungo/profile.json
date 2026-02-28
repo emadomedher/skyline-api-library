@@ -1,0 +1,13 @@
+{
+  "id": "jungo",
+  "title": "Jungo",
+  "subtitle": "Jungo is the premier mortgage app for Salesforce, offering a comprehensive solution with workflow management, referra...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720626/catalog/jungo/icon128x128.jpg",
+  "website": "https://ijungo.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "chromeriver",
+  "title": "Chrome River",
+  "subtitle": "Chrome River delivers the best expense management software and expense report software with all the modern mobile fea...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579472851/catalog/chromeriver/icon128x128.jpg",
+  "website": "https://www.chromeriver.com/"
+}

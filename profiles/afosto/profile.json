@@ -1,0 +1,14 @@
+{
+  "id": "afosto",
+  "title": "Afosto",
+  "subtitle": "Met het beste platform voor zowel on- als offline verkopen helpt Afosto honderden retailers hun omzetgroei te realise...",
+  "tags": [
+    "e-commerce",
+    "pos"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562337873/catalog/afosto/icon128x128.jpg",
+  "website": "https://afosto.com"
+}

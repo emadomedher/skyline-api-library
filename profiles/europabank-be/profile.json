@@ -1,0 +1,14 @@
+{
+  "id": "europabank-be",
+  "title": "Europabank",
+  "subtitle": "Within the Crelan Group, Europabank is a Belgian commercial bank specializing in lending to individuals and companies.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612733243/icons/europabank-be.png",
+  "website": "https://www.europabank.be/",
+  "docsUrl": "https://devportal.tpp.europabank.be/"
+}

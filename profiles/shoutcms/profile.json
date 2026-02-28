@@ -1,0 +1,13 @@
+{
+  "id": "shoutcms",
+  "title": "ShoutCMS",
+  "subtitle": "ShoutCMS API integration",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437315/catalog/shoutcms/icon128x128.png",
+  "website": "https://shoutcms.com"
+}

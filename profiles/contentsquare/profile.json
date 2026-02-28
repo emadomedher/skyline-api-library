@@ -1,0 +1,13 @@
+{
+  "id": "contentsquare",
+  "title": "ContentSquare",
+  "subtitle": "Contentsquare is a digital experience platform (DXP) that helps you to optimize your customer journeys and increase c...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719579/catalog/contentsquare/icon128x128.jpg",
+  "website": "https://contentsquare.com"
+}

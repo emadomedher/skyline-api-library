@@ -1,0 +1,14 @@
+{
+  "id": "moneycorp",
+  "title": "Moneycorp",
+  "subtitle": "moneycorp is an award-winning foreign exchange specialist with over 35 years experience in currency exchange. Save mo...",
+  "tags": [
+    "fintech",
+    "currency-exchanges"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566775203/catalog/moneycorp/icon128x128.png",
+  "website": "https://www.moneycorp.com/"
+}

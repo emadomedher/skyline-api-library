@@ -1,0 +1,13 @@
+{
+  "id": "atlabank",
+  "title": "Atlantic Bank",
+  "subtitle": "Atlantic Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604849536/icons/atlabank.png",
+  "website": "https://atlabank.com/"
+}

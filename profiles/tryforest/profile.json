@@ -1,0 +1,13 @@
+{
+  "id": "tryforest",
+  "title": "Forest",
+  "subtitle": "The technology-powered HOA management. Try us free for a month, you'll like it.",
+  "tags": [
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650533437/icons/tryforest.png",
+  "website": "https://tryforest.com/"
+}

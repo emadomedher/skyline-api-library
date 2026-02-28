@@ -1,0 +1,13 @@
+{
+  "id": "savvycal",
+  "title": "SavvyCal",
+  "subtitle": "Scheduling should be a breeze. We're building the most user-friendly way to do it.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606506294/icons/savvycal.png",
+  "website": "https://savvycal.com/"
+}

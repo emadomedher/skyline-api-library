@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-powerpoint",
+  "title": "Microsoft PowerPoint",
+  "subtitle": "Microsoft PowerPoint API integration",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564819944/catalog/microsoft-powerpoint/icon128x128.png",
+  "website": "https://products.office.com/en/powerpoint"
+}

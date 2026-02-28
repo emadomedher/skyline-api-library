@@ -1,0 +1,13 @@
+{
+  "id": "introhive",
+  "title": "Introhive",
+  "subtitle": "Introhive automates CRM data entry and relationship intelligence to help organizations strengthen business relationsh...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946904/catalog/introhive/icon128x128.jpg",
+  "website": "https://introhive.com"
+}

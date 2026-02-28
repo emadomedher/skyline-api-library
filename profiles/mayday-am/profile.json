@@ -1,0 +1,13 @@
+{
+  "id": "mayday-am",
+  "title": "Mayday",
+  "subtitle": "Time is your most valuable asset. Make sure you're spending it wisely.",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621560420/icons/mayday-am.jpg",
+  "website": "https://mayday.am/"
+}

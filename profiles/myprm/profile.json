@@ -1,0 +1,13 @@
+{
+  "id": "myprm",
+  "title": "myprm",
+  "subtitle": "myprm is a SaaS platform developed in France to help you handle and develop your indirect sales.",
+  "tags": [
+    "partner-relationship-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792164/icons/myprm.jpg",
+  "website": "https://myprm.com/"
+}

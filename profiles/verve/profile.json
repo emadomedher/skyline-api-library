@@ -1,0 +1,13 @@
+{
+  "id": "verve",
+  "title": "Verve",
+  "subtitle": "Verve API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438254/catalog/verve/icon128x128.png",
+  "website": "https://verve.com"
+}

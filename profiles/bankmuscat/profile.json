@@ -1,0 +1,13 @@
+{
+  "id": "bankmuscat",
+  "title": "Bank Muscat",
+  "subtitle": "Bank Muscat is a financial services provider in the Sultanate of Oman providing corporate banking, retail banking, in...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608488635/icons/bankmuscat.jpg",
+  "website": "https://www.bankmuscat.com/"
+}

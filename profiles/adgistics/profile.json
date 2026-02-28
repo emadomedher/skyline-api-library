@@ -1,0 +1,14 @@
+{
+  "id": "adgistics",
+  "title": "Adgistics",
+  "subtitle": "Adgistics Brand Hub centralises marketing operations, improves brand \nconsistency and sweats brand assets.",
+  "tags": [
+    "dam-and-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825670/catalog/adgistics/icon128x128.jpg",
+  "website": "https://adgistics.com",
+  "docsUrl": "https://www.adgistics.com/documentation-redistribution-policy"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rejoiner",
+  "title": "Rejoiner",
+  "subtitle": "Rejoiner API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436896/catalog/rejoiner/icon128x128.png",
+  "website": "https://rejoiner.com"
+}

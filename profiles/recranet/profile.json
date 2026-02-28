@@ -1,0 +1,18 @@
+{
+  "id": "recranet",
+  "title": "Recranet",
+  "subtitle": "Recranet API integration",
+  "tags": [
+    "reservation-systems",
+    "scheduling",
+    "booking-software",
+    "recreation",
+    "event-ticketing"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562341225/catalog/recranet/icon128x128.png",
+  "website": "https://recranet.com",
+  "docsUrl": "https://recranet.com/nl/nieuws/van-student-developer-naar-fulltime-webontwikkelaar"
+}

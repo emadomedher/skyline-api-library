@@ -1,0 +1,14 @@
+{
+  "id": "marketflow",
+  "title": "Marketflow",
+  "subtitle": "A global e-commerce & fintech group delivering solutions to power the online economy. Fully integrated solutions driv...",
+  "tags": [
+    "ecommerce",
+    "payments"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589567986/catalog/marketflow/icon128x128.jpg",
+  "website": "https://marketflow.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "semmle",
+  "title": "Semmle",
+  "subtitle": "Semmle's code analysis platform helps teams find zero-days and automate variant analysis. Secure your code with conti...",
+  "tags": [
+    "code-security",
+    "sast"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626758162/icons/semmle.jpg",
+  "website": "https://semmle.com/",
+  "docsUrl": "https://help.semmle.com"
+}

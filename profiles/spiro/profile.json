@@ -1,0 +1,13 @@
+{
+  "id": "spiro",
+  "title": "Spiro",
+  "subtitle": "Spiro is a personal sales assistant with a built-in, easy to use CRM platform. Spiro’s machine learning algorithm rem...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306160/catalog/spiro/icon128x128.png",
+  "website": "https://brucelead.com"
+}

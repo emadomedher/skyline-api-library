@@ -1,0 +1,14 @@
+{
+  "id": "postmastery",
+  "title": "Postmastery",
+  "subtitle": "Postmastery provides professional email delivery and monitoring software. We help legitimate email senders to ensure ...",
+  "tags": [
+    "email-deliverability"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578287981/catalog/postmastery/icon128x128.png",
+  "website": "https://www.postmastery.com/",
+  "docsUrl": "https://www.postmastery.com/frontend-developer"
+}

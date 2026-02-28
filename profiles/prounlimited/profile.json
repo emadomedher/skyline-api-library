@@ -1,0 +1,13 @@
+{
+  "id": "prounlimited",
+  "title": "PRO Unlimited",
+  "subtitle": "Pro Unlimited enables organizations to strategically manage, optimize and adapt their modern workforce through integr...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082045/icons/prounlimited.jpg",
+  "website": "https://prounlimited.com/"
+}

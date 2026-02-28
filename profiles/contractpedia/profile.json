@@ -1,0 +1,13 @@
+{
+  "id": "contractpedia",
+  "title": "Contractpedia",
+  "subtitle": "Contractpedia is a cloud-based software solution for contract management designed to give you a financial overview an...",
+  "tags": [
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588278130/catalog/contractpedia/icon128x128.jpg",
+  "website": "https://www.contractpedia.com/"
+}

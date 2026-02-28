@@ -1,0 +1,13 @@
+{
+  "id": "digitalcrm",
+  "title": "DigitalCRM",
+  "subtitle": "DigitalCRM API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719794/catalog/digitalcrm/icon128x128.jpg",
+  "website": "https://digitalcrm.com"
+}

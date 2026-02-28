@@ -1,0 +1,13 @@
+{
+  "id": "paperless-pipeline",
+  "title": "Paperless Pipeline",
+  "subtitle": "Paperless Pipeline is a real estate transaction and commission management system for agents &amp; brokers.",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830007/catalog/paperless-pipeline/icon128x128.png",
+  "website": "https://paperlesspipeline.com"
+}

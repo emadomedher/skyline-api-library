@@ -1,0 +1,14 @@
+{
+  "id": "mambu",
+  "title": "Mambu",
+  "subtitle": "Banks used to be built to last. Today, they need to be built to change. Composable banking is a new approach to banki...",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573437321/catalog/mambu/icon128x128.jpg",
+  "website": "https://www.mambu.com/",
+  "docsUrl": "https://support.mambu.com/docs"
+}

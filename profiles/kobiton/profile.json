@@ -1,0 +1,15 @@
+{
+  "id": "kobiton",
+  "title": "Kobiton",
+  "subtitle": "Kobiton is a mobile device testing platform that accelerates the testing and delivery of mobile applications by offer...",
+  "tags": [
+    "testing",
+    "mobile-device-testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601691200/icons/kobiton.jpg",
+  "website": "https://kobiton.com/",
+  "docsUrl": "https://docs.kobiton.com"
+}

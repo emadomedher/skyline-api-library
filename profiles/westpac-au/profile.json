@@ -1,0 +1,13 @@
+{
+  "id": "westpac-au",
+  "title": "Westpac",
+  "subtitle": "Westpac Banking Corporation, known simply as Westpac, is an Australian bank and financial services provider headquart...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635251781/icons/westpac-au.png",
+  "website": "https://www.westpac.com.au/"
+}

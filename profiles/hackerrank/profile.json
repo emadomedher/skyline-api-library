@@ -1,0 +1,13 @@
+{
+  "id": "hackerrank",
+  "title": "HackerRank",
+  "subtitle": "Join over 7 million developers. Practice coding, prepare for interviews, and get hired.",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582914369/catalog/hackerrank/icon128x128.jpg",
+  "website": "https://www.hackerrank.com/"
+}

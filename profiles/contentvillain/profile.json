@@ -1,0 +1,13 @@
+{
+  "id": "contentvillain",
+  "title": "Content Villain",
+  "subtitle": "Content Villain API integration",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620406769/icons/contentvillain.png",
+  "website": "https://contentvillain.com/"
+}

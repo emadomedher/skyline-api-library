@@ -1,0 +1,13 @@
+{
+  "id": "dell-emc",
+  "title": "Dell EMC",
+  "subtitle": "Dell EMC is reshaping the industry through IT Transformation, combining leading infrastructure, data storage, hybrid ...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719766/catalog/dell-emc/icon128x128.jpg",
+  "website": "https://dellemc.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "terminal-four",
+  "title": "Terminal Four",
+  "subtitle": "TERMINALFOUR is a game changing digital marketing and web content management platform for Higher Education.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946480/catalog/terminal-four/icon128x128.png",
+  "website": "https://terminalfour.com"
+}

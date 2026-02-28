@@ -1,0 +1,15 @@
+{
+  "id": "appdynamics",
+  "title": "AppDynamics",
+  "subtitle": "Get real-time insight from your apps using Application Performance Monitoring & Management—how they’re being used, ho...",
+  "tags": [
+    "apm",
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565395418/catalog/appdynamics/icon128x128.jpg",
+  "website": "https://appdynamics.com",
+  "docsUrl": "https://docs.appdynamics.com"
+}

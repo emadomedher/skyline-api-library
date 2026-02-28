@@ -1,0 +1,12 @@
+{
+  "id": "statusy",
+  "title": "Statusy",
+  "subtitle": "Statusy is a modern status page with all the features and integrations you could ever want. Provide incident updates ...",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306191/catalog/statusy/icon128x128.png"
+}

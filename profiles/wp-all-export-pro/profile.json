@@ -1,0 +1,12 @@
+{
+  "id": "wp-all-export-pro",
+  "title": "WP All Export Pro",
+  "subtitle": "WP All Export turns your WordPress data into a fully customizable CSV or XML file. Edit exported WordPress posts and ...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306535/catalog/wp-all-export-pro/icon128x128.png"
+}

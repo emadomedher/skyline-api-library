@@ -1,0 +1,14 @@
+{
+  "id": "squeaky-ai",
+  "title": "Squeaky",
+  "subtitle": "Capture screen recordings and insightful analytics data with Squeaky, the first tool that lets you understand your us...",
+  "tags": [
+    "analytics",
+    "heatmaps"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643794275/icons/squeaky-ai.jpg",
+  "website": "https://squeaky.ai/"
+}

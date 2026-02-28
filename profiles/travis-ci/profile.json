@@ -1,0 +1,13 @@
+{
+  "id": "travis-ci",
+  "title": "Travis CI",
+  "subtitle": "Travis CI API integration",
+  "tags": [
+    "continuous-integration"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574476453/catalog/travis-ci/icon128x128.jpg",
+  "website": "https://travis-ci.org/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "abreuonline",
+  "title": "Abreu Online",
+  "subtitle": "Abreu Online API integration",
+  "tags": [
+    "tour-operators",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612576658/icons/abreuonline.png",
+  "website": "http://www.abreuonline.com/"
+}

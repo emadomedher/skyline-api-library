@@ -1,0 +1,13 @@
+{
+  "id": "woises",
+  "title": "Woises",
+  "subtitle": "Woises is a smart tool to enhance the productivity of Product managers by providing workflows for capturing requireme...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946355/catalog/woises/icon128x128.jpg",
+  "website": "https://woises.com"
+}

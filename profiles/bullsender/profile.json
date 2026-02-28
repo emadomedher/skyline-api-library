@@ -1,0 +1,13 @@
+{
+  "id": "bullsender",
+  "title": "BullSender",
+  "subtitle": "Create and send newsletters! At Bullsender you can create, design, and send newsletters online, through our danish ne...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433489/catalog/bullsender/icon128x128.png",
+  "website": "https://bullsender.com"
+}

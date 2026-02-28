@@ -1,0 +1,13 @@
+{
+  "id": "seoquake",
+  "title": "SEOQuake",
+  "subtitle": "SEOQuake API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962368/catalog/seoquake/icon128x128.png",
+  "website": "https://seoquake.com"
+}

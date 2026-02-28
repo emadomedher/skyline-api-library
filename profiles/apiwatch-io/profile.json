@@ -1,0 +1,14 @@
+{
+  "id": "apiwatch-io",
+  "title": "Apiwatch",
+  "subtitle": "Your entire API landscape in one place, watched by us. We'll notify your team whenever an API requires attention. ",
+  "tags": [
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679429061/icons/apiwatch-io.jpg",
+  "website": "https://www.apiwatch.io/",
+  "docsUrl": "https://www.apiwatch.io/developers"
+}

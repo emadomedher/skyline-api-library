@@ -1,0 +1,13 @@
+{
+  "id": "icontroller-org",
+  "title": "iController",
+  "subtitle": "iController API integration",
+  "tags": [
+    "credit-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589999122/catalog/icontroller-org/icon128x128.png",
+  "website": "https://icontroller.org/"
+}

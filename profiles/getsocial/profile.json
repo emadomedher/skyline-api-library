@@ -1,0 +1,13 @@
+{
+  "id": "getsocial",
+  "title": "GetSocial",
+  "subtitle": "GetSocial API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826510/catalog/getsocial/icon128x128.png",
+  "website": "https://getsocial.im"
+}

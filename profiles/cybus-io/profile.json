@@ -1,0 +1,15 @@
+{
+  "id": "cybus-io",
+  "title": "Cybus",
+  "subtitle": "Linking Industry and Internet",
+  "tags": [
+    "edge-application-platforms",
+    "industrial-iot"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615223035/icons/cybus-io.png",
+  "website": "https://www.cybus.io/",
+  "docsUrl": "http://cybus.io/ressourcen/#documentation"
+}

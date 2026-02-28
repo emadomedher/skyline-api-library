@@ -1,0 +1,14 @@
+{
+  "id": "octopods-io",
+  "title": "Octopods",
+  "subtitle": "Intercom",
+  "tags": [
+    "customer-support",
+    "unified-messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596813369/icons/octopods-io.jpg",
+  "website": "https://octopods.io/"
+}

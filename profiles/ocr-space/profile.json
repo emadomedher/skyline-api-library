@@ -1,0 +1,13 @@
+{
+  "id": "ocr-space",
+  "title": "OCR.SPACE",
+  "subtitle": "OCR.SPACE API integration",
+  "tags": [
+    "ocr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583850731/catalog/ocr-space/icon128x128.png",
+  "website": "https://ocr.space/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "viralcopy-xyz",
+  "title": "Viralcopy",
+  "subtitle": "Social media copy in seconds with GPT-3",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628695709/icons/viralcopy-xyz.gif",
+  "website": "https://viralcopy.xyz/"
+}

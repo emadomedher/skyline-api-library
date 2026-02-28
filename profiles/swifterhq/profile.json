@@ -1,0 +1,13 @@
+{
+  "id": "swifterhq",
+  "title": "Swifter HQ",
+  "subtitle": "The easiest 1-click checkout solution for emails. Convert your email subscribers into customers right inside the emai...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612912815/icons/swifterhq.jpg",
+  "website": "https://www.swifterhq.com/"
+}

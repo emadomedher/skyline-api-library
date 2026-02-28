@@ -1,0 +1,12 @@
+{
+  "id": "leadquizzes3",
+  "title": "LeadQuizzes 3",
+  "subtitle": "LeadQuizzes 3 allows you to build interactive content to generate leads, collect data and personalize your marketing.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305289/catalog/leadquizzes3/icon128x128.png"
+}

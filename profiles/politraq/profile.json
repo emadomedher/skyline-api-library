@@ -1,0 +1,13 @@
+{
+  "id": "politraq",
+  "title": "PoliTraQ",
+  "subtitle": "PoliTraQ API integration",
+  "tags": [
+    "advocacy-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623343870/icons/politraq.jpg",
+  "website": "https://politraq.com/"
+}

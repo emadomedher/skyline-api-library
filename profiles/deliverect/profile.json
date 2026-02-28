@@ -1,0 +1,14 @@
+{
+  "id": "deliverect",
+  "title": "Deliverect",
+  "subtitle": "Connect online food ordering players like Uber Eats, Deliveroo and Glovo with your restaurant POS. Seamlessly manage ...",
+  "tags": [
+    "ordering-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566511752/catalog/deliverect/icon128x128.jpg",
+  "website": "https://www.deliverect.com",
+  "docsUrl": "https://developers.deliverect.com/"
+}

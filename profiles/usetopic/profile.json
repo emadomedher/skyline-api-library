@@ -1,0 +1,15 @@
+{
+  "id": "usetopic",
+  "title": "Topic",
+  "subtitle": "Stop creating SEO content the hard way. Topic helps editors and agencies create content briefs in half the time. Crea...",
+  "tags": [
+    "content-optimization",
+    "copywriting",
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612563725/icons/usetopic.png",
+  "website": "https://www.usetopic.com/"
+}

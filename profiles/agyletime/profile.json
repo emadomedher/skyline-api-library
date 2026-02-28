@@ -1,0 +1,13 @@
+{
+  "id": "agyletime",
+  "title": "Agyle Time",
+  "subtitle": "Intelligently forecast, schedule and monitor your workforce in real time. Agyle Time is a cloud based workforce manag...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615421001/icons/agyletime.png",
+  "website": "https://agyletime.com/"
+}

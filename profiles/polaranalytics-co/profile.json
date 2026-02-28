@@ -1,0 +1,14 @@
+{
+  "id": "polaranalytics-co",
+  "title": "The Growth Team",
+  "subtitle": "Your Shopify Analytics. Effortless. Centralized. Smart. Connect your datasource in one clic, automatically calculate ...",
+  "tags": [
+    "marketing-analytics",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621116076/icons/polaranalytics-co.png",
+  "website": "https://www.polaranalytics.co/"
+}

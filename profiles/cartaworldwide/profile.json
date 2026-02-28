@@ -1,0 +1,13 @@
+{
+  "id": "cartaworldwide",
+  "title": "Carta Worldwide",
+  "subtitle": "Process Payments, Digitize Payment Accounts & Enhanced Payment Experiences - Carta's platform offers unlimited opport...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573743960/catalog/cartaworldwide/icon128x128.jpg",
+  "website": "https://cartaworldwide.com/"
+}

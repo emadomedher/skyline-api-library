@@ -1,0 +1,18 @@
+{
+  "id": "steinhq",
+  "title": "Stein",
+  "subtitle": "Use Google Sheets as your no-setup data store. Build fast and get a familiar interface for managing the data, with th...",
+  "tags": [
+    "no-code",
+    "databases",
+    "google-sheets",
+    "travel",
+    "metasearch-engines"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572444990/catalog/steinhq/icon128x128.png",
+  "website": "https://steinhq.com/",
+  "docsUrl": "https://docs.steinhq.com"
+}

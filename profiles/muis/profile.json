@@ -1,0 +1,12 @@
+{
+  "id": "muis",
+  "title": "Muis",
+  "subtitle": "MUIS Software ontwikkelt administratieve software specifiek voor accountants en ondernemers (mkb, (groot)handelsbedri...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256950/catalog/muis/icon128x128.jpg"
+}

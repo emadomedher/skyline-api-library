@@ -1,0 +1,16 @@
+{
+  "id": "directus",
+  "title": "Directus",
+  "subtitle": "Directus is an open-source tool for managing content across all your omni-channel digital experiences. Our suite incl...",
+  "tags": [
+    "cms-and-web-experience-management",
+    "open-source",
+    "backend-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947138/catalog/directus/icon128x128.jpg",
+  "website": "https://directus.io",
+  "docsUrl": "https://directus.io/resources.html#documentation"
+}

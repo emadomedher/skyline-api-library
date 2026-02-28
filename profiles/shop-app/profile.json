@@ -1,0 +1,14 @@
+{
+  "id": "shop-app",
+  "title": "Shop App",
+  "subtitle": "Available on iOS and Android, the Shop app makes it easy to find and track the things you love, earn exclusive reward...",
+  "tags": [
+    "ecommerce",
+    "d-2-c"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680329008/icons/shop-app.png",
+  "website": "https://shop.app/"
+}

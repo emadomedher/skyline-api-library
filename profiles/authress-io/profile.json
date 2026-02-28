@@ -1,0 +1,13 @@
+{
+  "id": "authress-io",
+  "title": "Authress HQ",
+  "subtitle": "Authorization as a service. Protect your assets. Ensure user data privacy. Make your app enterprise-ready.",
+  "tags": [
+    "api-authorization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619706918/icons/authress-io.jpg",
+  "website": "https://authress.io/"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "spreedly",
+  "title": "Spreedly",
+  "subtitle": "Build best-in-market payment systems by connecting to any payment service. Enable, optimize, and analyze online reven...",
+  "tags": [
+    "payments",
+    "api",
+    "payment-gateway-api",
+    "payment-gateway-aggregators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569813005/catalog/spreedly/icon128x128.jpg",
+  "website": "https://spreedly.com",
+  "docsUrl": "https://docs.spreedly.com"
+}

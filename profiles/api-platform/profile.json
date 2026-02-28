@@ -1,0 +1,14 @@
+{
+  "id": "api-platform",
+  "title": "API Platform",
+  "subtitle": "REST and GraphQL framework on top of Symfony and React",
+  "tags": [
+    "api-generation",
+    "graphql"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620383397/icons/api-platform.png",
+  "website": "https://api-platform.com/"
+}

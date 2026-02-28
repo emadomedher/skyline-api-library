@@ -1,0 +1,13 @@
+{
+  "id": "step",
+  "title": "Step",
+  "subtitle": "Step offers a free FDIC insured bank account and Visa card designed for the next generation.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601556270/icons/step.jpg",
+  "website": "https://step.com/"
+}

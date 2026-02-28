@@ -1,0 +1,15 @@
+{
+  "id": "nuapay",
+  "title": "Nuapay",
+  "subtitle": "Nuapay is a pioneer of Open Banking and the industry leading Account-2-Account payment solution. Get started with Dir...",
+  "tags": [
+    "account-to-account-payments",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592483261/icons/nuapay.jpg",
+  "website": "https://www.nuapay.com/",
+  "docsUrl": "https://www.nuapay.com/go/api-documentation"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "five-crm",
+  "title": "Five CRM",
+  "subtitle": "One of the most flexible and powerful call center CRM systems on the market. Outbound calling, call center, contact m...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720110/catalog/five-crm/icon128x128.jpg",
+  "website": "https://fivecrm.com"
+}

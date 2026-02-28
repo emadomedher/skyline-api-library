@@ -1,0 +1,13 @@
+{
+  "id": "radiusbank",
+  "title": "Lendingclub Bank (formerly Radius Bank)",
+  "subtitle": "We are a full-service virtual bank built around you. We offer the product depth of a national brand and the personali...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591775583/icons/radiusbank.jpg",
+  "website": "https://radiusbank.com/"
+}

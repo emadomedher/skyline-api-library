@@ -1,0 +1,14 @@
+{
+  "id": "precisely",
+  "title": "Precisely",
+  "subtitle": "Precisely builds trust in your data. Better data. Better decisions. See why 90 of the Fortune 100 trust Precisely to ...",
+  "tags": [
+    "data-integrity"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604671333/icons/precisely.jpg",
+  "website": "https://www.precisely.com/",
+  "docsUrl": "https://developer.precisely.com/"
+}

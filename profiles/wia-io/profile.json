@@ -1,0 +1,14 @@
+{
+  "id": "wia-io",
+  "title": "Wia",
+  "subtitle": "Wia helps you transform your space into an operationally efficient, green environment with the Internet of Things | C...",
+  "tags": [
+    "smart-building"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593186837/icons/wia-io.png",
+  "website": "https://www.wia.io/",
+  "docsUrl": "https://www.wia.io/developers"
+}

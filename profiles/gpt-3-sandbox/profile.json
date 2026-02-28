@@ -1,0 +1,15 @@
+{
+  "id": "gpt-3-sandbox",
+  "title": "GPT-3 Sandbox",
+  "subtitle": "The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with j...",
+  "tags": [
+    "gpt-3",
+    "developer-tools",
+    "python"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612643824/icons/gpt-3-sandbox.png",
+  "website": "https://github.com/shreyashankar/gpt3-sandbox"
+}

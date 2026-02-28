@@ -1,0 +1,13 @@
+{
+  "id": "fiskaly",
+  "title": "fiskaly",
+  "subtitle": "Wir sind die Experten für Fiskalisierung in ✓Österreich ✓Deutschland & ✓Europa. Erfahren Sie mehr über unsere innovat...",
+  "tags": [
+    "fiscal-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590551/icons/fiskaly.jpg",
+  "website": "https://fiskaly.com/"
+}

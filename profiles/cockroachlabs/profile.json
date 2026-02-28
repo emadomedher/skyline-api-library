@@ -1,0 +1,14 @@
+{
+  "id": "cockroachlabs",
+  "title": "CockroachDB",
+  "subtitle": "CockroachDB provides resilient, globally distributed SQL for cloud applications. CockroachDB powers companies like Co...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565490503/catalog/cockroachlabs/icon128x128.jpg",
+  "website": "https://www.cockroachlabs.com/",
+  "docsUrl": "https://www.cockroachlabs.com/docs/stable"
+}

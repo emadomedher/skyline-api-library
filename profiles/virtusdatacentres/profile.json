@@ -1,0 +1,13 @@
+{
+  "id": "virtusdatacentres",
+  "title": "VIRTUS Data Centres",
+  "subtitle": "VIRTUS Data Centres offer the lowest total cost of service for colocation in London through highly efficient and well...",
+  "tags": [
+    "data-centers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666363/icons/virtusdatacentres.jpg",
+  "website": "https://virtusdatacentres.com/"
+}

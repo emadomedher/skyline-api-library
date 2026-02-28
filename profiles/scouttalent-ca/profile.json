@@ -1,0 +1,14 @@
+{
+  "id": "scouttalent-ca",
+  "title": "Scout Talent",
+  "subtitle": "Scout Talent API integration",
+  "tags": [
+    "hr",
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564752145/catalog/scouttalent-ca/icon128x128.png",
+  "website": "https://scouttalent.ca"
+}

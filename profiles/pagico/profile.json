@@ -1,0 +1,13 @@
+{
+  "id": "pagico",
+  "title": "Pagico",
+  "subtitle": "Pagico is a powerful productivity suite that helps you manage projects, contacts, daily tasks and files in one place....",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305617/catalog/pagico/icon128x128.png",
+  "website": "https://www.pagico.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "makcorps",
+  "title": "MakCorps",
+  "subtitle": "Compare Hotel Prices & achieve the competitive advantage straightaway. Using our Hotel API, Travel Agencies and busin...",
+  "tags": [
+    "hotel-aggregator-api",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611946435/icons/makcorps.png",
+  "website": "https://www.makcorps.com/",
+  "docsUrl": "https://www.makcorps.com/documentation"
+}

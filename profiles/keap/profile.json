@@ -1,0 +1,12 @@
+{
+  "id": "keap",
+  "title": "Keap",
+  "subtitle": "Keap API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378796/catalog/keap/icon128x128.png"
+}

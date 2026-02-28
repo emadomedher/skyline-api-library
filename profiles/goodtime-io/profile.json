@@ -1,0 +1,15 @@
+{
+  "id": "goodtime-io",
+  "title": "GoodTime",
+  "subtitle": "GoodTime’s automated interview scheduling software helps recruiters schedule complex interviews up to 10x faster.",
+  "tags": [
+    "interview-scheduling",
+    "recruitment",
+    "hiring"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579985068/catalog/goodtime-io/icon128x128.png",
+  "website": "https://www.goodtime.io/"
+}

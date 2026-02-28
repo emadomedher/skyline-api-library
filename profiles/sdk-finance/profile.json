@@ -1,0 +1,16 @@
+{
+  "id": "sdk-finance",
+  "title": "SDK.finance",
+  "subtitle": "Core payment platform with 400+RESTful API. Payments, exchange, loyalty, wallets & digital banking in white-label. We...",
+  "tags": [
+    "fintech",
+    "api",
+    "infrastructure",
+    "banking"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565587675/catalog/sdk-finance/icon128x128.jpg",
+  "website": "https://sdk.finance/"
+}

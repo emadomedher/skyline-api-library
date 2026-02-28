@@ -1,0 +1,14 @@
+{
+  "id": "g-suite",
+  "title": "G Suite",
+  "subtitle": "An integrated suite of secure, cloud-native collaboration and productivity apps powered by Google AI. Includes Gmail,...",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547836149/catalog/g-suite/icon128x128.png",
+  "website": "https://gsuite.google.com/",
+  "docsUrl": "https://developers.google.com/gsuite/"
+}

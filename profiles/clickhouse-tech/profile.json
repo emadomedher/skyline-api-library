@@ -1,0 +1,15 @@
+{
+  "id": "clickhouse-tech",
+  "title": "ClickHouse",
+  "subtitle": "ClickHouse is a fast open-source column-oriented database management system that allows generating analytical data re...",
+  "tags": [
+    "databases",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600349600/icons/clickhouse-tech.jpg",
+  "website": "https://clickhouse.tech/",
+  "docsUrl": "https://clickhouse.tech/docs/en"
+}

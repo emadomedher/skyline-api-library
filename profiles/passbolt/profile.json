@@ -1,0 +1,15 @@
+{
+  "id": "passbolt",
+  "title": "passbolt",
+  "subtitle": "Passbolt is a free open source password manager for teams. Try our online demo!",
+  "tags": [
+    "password-managers",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638318373/icons/passbolt.png",
+  "website": "https://passbolt.com/",
+  "docsUrl": "https://help.passbolt.com/api"
+}

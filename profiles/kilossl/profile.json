@@ -1,0 +1,14 @@
+{
+  "id": "kilossl",
+  "title": "Kilo SSL",
+  "subtitle": "Kilo SSL API integration",
+  "tags": [
+    "ssl-certificates"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421381/icons/kilossl.jpg",
+  "website": "https://kilossl.com/",
+  "docsUrl": "https://kilossl.com/documentation"
+}

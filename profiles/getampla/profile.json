@@ -1,0 +1,13 @@
+{
+  "id": "getampla",
+  "title": "Ampla",
+  "subtitle": "Ampla offers growth financing to emerging brands in need of capital. We've developed software that designs financial ...",
+  "tags": [
+    "financial-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1666656335/icons/getampla.jpg",
+  "website": "https://www.getampla.com/"
+}

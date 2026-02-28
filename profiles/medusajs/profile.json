@@ -1,0 +1,15 @@
+{
+  "id": "medusajs",
+  "title": "Medusa Commerce",
+  "subtitle": "Medusa Commerce API integration",
+  "tags": [
+    "ecommerce",
+    "open-source"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644277459/icons/medusajs.png",
+  "website": "https://www.medusajs.com/",
+  "docsUrl": "https://docs.medusajs.com"
+}

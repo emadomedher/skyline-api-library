@@ -1,0 +1,13 @@
+{
+  "id": "54gene",
+  "title": "54gene",
+  "subtitle": "54gene API integration",
+  "tags": [
+    "genomics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892887/catalog/54gene/icon128x128.jpg",
+  "website": "https://www.54gene.com/"
+}

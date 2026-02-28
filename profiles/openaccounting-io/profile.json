@@ -1,0 +1,15 @@
+{
+  "id": "openaccounting-io",
+  "title": "Open Accounting",
+  "subtitle": "Use an open source accounting platform for your business and personal finances.",
+  "tags": [
+    "accounting",
+    "open-source"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627928935/icons/openaccounting-io.png",
+  "website": "https://openaccounting.io/",
+  "docsUrl": "https://openaccounting.io/docs/getting-started"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "42crunch",
+  "title": "42Crunch",
+  "subtitle": "42Crunch is an API security platform with integrated services, including an API firewall, to discover and remediate A...",
+  "tags": [
+    "api-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563829775/catalog/42crunch/icon128x128.jpg",
+  "website": "https://42crunch.com",
+  "docsUrl": "https://docs.42crunch.com"
+}

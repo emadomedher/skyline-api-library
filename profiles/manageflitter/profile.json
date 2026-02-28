@@ -1,0 +1,13 @@
+{
+  "id": "manageflitter",
+  "title": "ManageFlitter",
+  "subtitle": "ManageFlitter - Twitter Management Tool | Work Faster & Smarter",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720974/catalog/manageflitter/icon128x128.jpg",
+  "website": "https://manageflitter.com"
+}

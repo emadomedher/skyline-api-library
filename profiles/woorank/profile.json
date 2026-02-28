@@ -1,0 +1,13 @@
+{
+  "id": "woorank",
+  "title": "Woorank",
+  "subtitle": "Woorank API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961928/catalog/woorank/icon128x128.png",
+  "website": "https://woorank.com"
+}

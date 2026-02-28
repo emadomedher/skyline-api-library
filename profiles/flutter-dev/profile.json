@@ -1,0 +1,15 @@
+{
+  "id": "flutter-dev",
+  "title": "Flutter",
+  "subtitle": "Flutter is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop fr...",
+  "tags": [
+    "mobile-development",
+    "ui-kits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579380455/catalog/flutter-dev/icon128x128.jpg",
+  "website": "https://flutter.dev/",
+  "docsUrl": "https://flutter.dev/docs"
+}

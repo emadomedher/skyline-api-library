@@ -1,0 +1,13 @@
+{
+  "id": "24-7-press-release",
+  "title": "24-7 Press Release",
+  "subtitle": "Press release distribution to thousands of journalists (including the Associated Press), researchers and more. Statis...",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561383740/catalog/24-7-press-release/icon128x128.png",
+  "website": "https://24-7pressrelease.com"
+}

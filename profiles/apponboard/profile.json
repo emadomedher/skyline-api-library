@@ -1,0 +1,14 @@
+{
+  "id": "apponboard",
+  "title": "AppOnboard",
+  "subtitle": "The fastest and most powerful No Code mobile development software suite in the world.",
+  "tags": [
+    "no-code",
+    "game-development"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863286/icons/apponboard.png",
+  "website": "https://apponboard.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "unified-to",
+  "title": "Unified.to",
+  "subtitle": "Unified API - one API for CRM, MarTech, Enrichment, Call Center and Authentication integrations",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655115690/icons/unified-to.jpg",
+  "website": "https://unified.to/",
+  "docsUrl": "https://api.unified.to"
+}

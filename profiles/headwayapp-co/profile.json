@@ -1,0 +1,13 @@
+{
+  "id": "headwayapp-co",
+  "title": "Headway",
+  "subtitle": "Keep customers in the loop about your product.",
+  "tags": [
+    "changelog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577964313/catalog/headwayapp-co/icon128x128.png",
+  "website": "https://headwayapp.co/"
+}

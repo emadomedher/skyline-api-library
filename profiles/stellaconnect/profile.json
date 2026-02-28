@@ -1,0 +1,15 @@
+{
+  "id": "stellaconnect",
+  "title": "Stella Connect",
+  "subtitle": "Stella Connect lets customer service teams have it all. Empower your front-line team with real-time feedback, coachin...",
+  "tags": [
+    "custom-support",
+    "cx-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396552/icons/stellaconnect.png",
+  "website": "https://stellaconnect.com/",
+  "docsUrl": "https://apidocs.stellaconnect.net/#intro"
+}

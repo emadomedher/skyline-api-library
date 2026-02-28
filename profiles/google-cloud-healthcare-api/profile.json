@@ -1,0 +1,15 @@
+{
+  "id": "google-cloud-healthcare-api",
+  "title": "Google Cloud Healthcare API",
+  "subtitle": "Accelerate your healthcare solution development with fully managed, enterprise-scale, HL7® FHIR®, HL7® v2, and DICOM®...",
+  "tags": [
+    "healthcare-apis",
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089350/icons/google-cloud-healthcare-api.jpg",
+  "website": "https://cloud.google.com/healthcare",
+  "docsUrl": "https://cloud.google.com/solutions/new-channels-using-apis"
+}

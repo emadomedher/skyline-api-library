@@ -1,0 +1,14 @@
+{
+  "id": "oneflow",
+  "title": "Oneflow",
+  "subtitle": "Experience truly digital contract magic by automating the entire contract process — from creating to signing and mana...",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637251114/icons/oneflow.jpg",
+  "website": "https://oneflow.com/",
+  "docsUrl": "https://oneflow.com/developers"
+}

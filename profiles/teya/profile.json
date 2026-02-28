@@ -1,0 +1,14 @@
+{
+  "id": "teya",
+  "title": "Teya",
+  "subtitle": "Accept all payment methods, launch loyalty programmes, and create your own online store ­– all in one place.",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691960722/icons/teya.png",
+  "website": "https://teya.com/",
+  "docsUrl": "http://developer.teya.com"
+}

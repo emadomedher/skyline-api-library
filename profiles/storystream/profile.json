@@ -1,0 +1,13 @@
+{
+  "id": "storystream",
+  "title": "StoryStream",
+  "subtitle": "StoryStream is the world's most advanced content marketing platform built to help automotive brands deliver more rele...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827727/catalog/storystream/icon128x128.jpg",
+  "website": "https://storystream.it"
+}

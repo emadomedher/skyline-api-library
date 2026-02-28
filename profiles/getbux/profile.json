@@ -1,0 +1,14 @@
+{
+  "id": "getbux",
+  "title": "BUX",
+  "subtitle": "Invest or trade straight from your phone. Create and manage your portfolio easily. Connect and learn from our communi...",
+  "tags": [
+    "stock-trading",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699478/catalog/getbux/icon128x128.jpg",
+  "website": "https://getbux.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "resend",
+  "title": "Resend",
+  "subtitle": "Build, test, and send transactional emails at scale.",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672975819/icons/resend.jpg",
+  "website": "https://resend.com/"
+}

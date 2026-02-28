@@ -1,0 +1,13 @@
+{
+  "id": "dynamicaction",
+  "title": "Dynamicaction",
+  "subtitle": "DynamicAction is the prescriptive retail analytics solution built to enable eCommerce, store & omnichannel teams to t...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964009/catalog/dynamicaction/icon128x128.png",
+  "website": "https://dynamicaction.com"
+}

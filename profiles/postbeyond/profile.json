@@ -1,0 +1,13 @@
+{
+  "id": "postbeyond",
+  "title": "PostBeyond",
+  "subtitle": "PostBeyond is the leading employee advocacy and social selling platform. Our solution is easy for employees to use, s...",
+  "tags": [
+    "channel-ecosystem-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721560/catalog/postbeyond/icon128x128.jpg",
+  "website": "https://postbeyond.com"
+}

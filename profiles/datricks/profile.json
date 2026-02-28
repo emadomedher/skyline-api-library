@@ -1,0 +1,14 @@
+{
+  "id": "datricks",
+  "title": "Datricks",
+  "subtitle": "Datricks | Made for Internal compliance and audit teams - Harness process mining to automatically map your internal p...",
+  "tags": [
+    "compliance",
+    "grc"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607364589/icons/datricks.jpg",
+  "website": "https://datricks.com/"
+}

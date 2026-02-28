@@ -1,0 +1,14 @@
+{
+  "id": "dialogflow",
+  "title": "Dialogflow",
+  "subtitle": "A conversational user experience platform.",
+  "tags": [
+    "bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561042895/catalog/dialogflow/icon128x128.jpg",
+  "website": "https://dialogflow.com",
+  "docsUrl": "https://cloud.google.com/dialogflow/cx/docs/reference"
+}

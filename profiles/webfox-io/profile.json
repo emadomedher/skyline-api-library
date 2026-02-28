@@ -1,0 +1,13 @@
+{
+  "id": "webfox-io",
+  "title": "WebFox",
+  "subtitle": "WEBFOX IS A SMART WEBSITE BUILDER\nBUILD YOUR STORE TODAY",
+  "tags": [
+    "website-builders"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572570139/catalog/webfox-io/icon128x128.png",
+  "website": "https://webfox.io/"
+}

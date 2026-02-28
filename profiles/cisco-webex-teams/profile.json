@@ -1,0 +1,12 @@
+{
+  "id": "cisco-webex-teams",
+  "title": "Cisco Webex Teams",
+  "subtitle": "Cisco Webex Teams API integration",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829398/catalog/cisco-webex-teams/icon128x128.png"
+}

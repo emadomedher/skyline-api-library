@@ -1,0 +1,14 @@
+{
+  "id": "airgara-ge",
+  "title": "AirGarage",
+  "subtitle": "AirGarage has solutions for all parking owners - enforcement, payment collection, visitor registration, customer supp...",
+  "tags": [
+    "parking-owner",
+    "parking-operator"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615246128/icons/airgara-ge.png",
+  "website": "https://airgara.ge/"
+}

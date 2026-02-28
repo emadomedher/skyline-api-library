@@ -1,0 +1,13 @@
+{
+  "id": "hey",
+  "title": "Hey.com",
+  "subtitle": "Email at its best, new from Basecamp.",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594741012/icons/hey.jpg",
+  "website": "https://hey.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "postmark",
+  "title": "Postmark",
+  "subtitle": "Postmark is specifically built to deliver your app’s emails to the inbox, fast. Instantly send and receive transactio...",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305722/catalog/postmark/icon128x128.png",
+  "website": "https://postmarkapp.com/"
+}

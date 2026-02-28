@@ -1,0 +1,14 @@
+{
+  "id": "templateto",
+  "title": "TemplateTo",
+  "subtitle": "TemplateTo API integration",
+  "tags": [
+    "document-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643370508/icons/templateto.png",
+  "website": "https://templateto.com/",
+  "docsUrl": "https://developers.templateto.com"
+}

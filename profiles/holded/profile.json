@@ -1,0 +1,15 @@
+{
+  "id": "holded",
+  "title": "Holded",
+  "subtitle": "Holded is Spain's fastest-growing cloud ERP, acquired by Visma in 2021 and now serving 80,000+ companies. As part of ...",
+  "tags": [
+    "accounting",
+    "crm"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635814195/icons/holded.jpg",
+  "website": "https://www.holded.com/",
+  "docsUrl": "https://developers.holded.com"
+}

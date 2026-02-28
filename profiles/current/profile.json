@@ -1,0 +1,13 @@
+{
+  "id": "current",
+  "title": "Current",
+  "subtitle": "Current is a bank for modern life, that adapts to the way you work and live. Current’s Personal Checking gets you pai...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566943384/catalog/current/icon128x128.jpg",
+  "website": "https://current.com/"
+}

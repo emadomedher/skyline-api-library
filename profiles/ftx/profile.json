@@ -1,0 +1,14 @@
+{
+  "id": "ftx",
+  "title": "FTX",
+  "subtitle": "FTX Crypto Derivatives Exchange, built by traders, for traders. Buy and sell BTC, ETH, USDT, BNB and index futures wi...",
+  "tags": [
+    "crypto-exchanges"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635251815/icons/ftx.png",
+  "website": "https://ftx.com/",
+  "docsUrl": "https://ftexchange.zendesk.com/hc/en-us"
+}

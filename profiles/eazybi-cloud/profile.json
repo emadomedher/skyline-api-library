@@ -1,0 +1,13 @@
+{
+  "id": "eazybi-cloud",
+  "title": "EazyBI Cloud",
+  "subtitle": "EazyBI Cloud API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963993/catalog/eazybi-cloud/icon128x128.png",
+  "website": "https://eazybi.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "gitea-io",
+  "title": "Gitea",
+  "subtitle": "Gitea API integration",
+  "tags": [
+    "git",
+    "code-hosting",
+    "source-control"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597100181/icons/gitea-io.jpg",
+  "website": "https://gitea.io/"
+}

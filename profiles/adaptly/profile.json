@@ -1,0 +1,13 @@
+{
+  "id": "adaptly",
+  "title": "Adaptly",
+  "subtitle": "Adaptly empowers the largest brands and agencies as they navigate the fragmented social media landscape.",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825638/catalog/adaptly/icon128x128.jpg",
+  "website": "https://adaptly.com"
+}

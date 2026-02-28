@@ -1,0 +1,14 @@
+{
+  "id": "hq-xyz",
+  "title": "Headquarters",
+  "subtitle": "Headquarters (HQ.xyz) helps Web3 teams be automate their financial activities and reporting. Aggregated balance overv...",
+  "tags": [
+    "finance-automation",
+    "web3"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668171294/icons/hq-xyz.jpg",
+  "website": "https://www.hq.xyz/"
+}

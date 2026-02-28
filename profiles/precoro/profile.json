@@ -1,0 +1,14 @@
+{
+  "id": "precoro",
+  "title": "Precoro",
+  "subtitle": "Precoro is a robust procure-to-pay system for your business. Automated purchasing, simple sourcing and spend analytic...",
+  "tags": [
+    "procurement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648679204/icons/precoro.png",
+  "website": "https://precoro.com/",
+  "docsUrl": "https://precoro.com/compare/trust-and-security#request-demo"
+}

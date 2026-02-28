@@ -1,0 +1,16 @@
+{
+  "id": "microlink-io",
+  "title": "Microlink",
+  "subtitle": "Turns websites into data: Enter a URL, receive information. Make any URL embeddable. Capture any website as a snapsho...",
+  "tags": [
+    "scraping-api",
+    "scraping",
+    "data-extraction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607953940/icons/microlink-io.jpg",
+  "website": "https://microlink.io",
+  "docsUrl": "https://microlink.io/docs"
+}

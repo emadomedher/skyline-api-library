@@ -1,0 +1,13 @@
+{
+  "id": "spencer-cash",
+  "title": "Spencer.cash",
+  "subtitle": "Launching fall 2019",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567217501/catalog/spencer-cash/icon128x128.png",
+  "website": "https://spencer.cash"
+}

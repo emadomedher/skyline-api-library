@@ -1,0 +1,13 @@
+{
+  "id": "gitlab-container-registry",
+  "title": "GitLab Container Registry",
+  "subtitle": "Documentation for GitLab Community Edition, GitLab Enterprise Edition, Omnibus GitLab, and GitLab Runner.",
+  "tags": [
+    "container-registries"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1689014130/icons/gitlab-container-registry.jpg",
+  "website": "https://docs.gitlab.com/ee/user/packages/container_registry/"
+}

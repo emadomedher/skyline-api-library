@@ -1,0 +1,13 @@
+{
+  "id": "icapture",
+  "title": "iCapture",
+  "subtitle": "The Number ONE iPad lead capture app. Use any mobile device, anywhere, even without WiFi. Ports directly into your CR...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946925/catalog/icapture/icon128x128.jpg",
+  "website": "https://icapture.com"
+}

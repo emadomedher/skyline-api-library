@@ -1,0 +1,12 @@
+{
+  "id": "revio",
+  "title": "Rev.io",
+  "subtitle": "Rev.io is an IoT billing platform with the tools needed to accurately manage billing from quote-to-cash. Save time by...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284594/catalog/revio/icon128x128.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rarog",
+  "title": "Rarog",
+  "subtitle": "Next level advertising - rarog connect your product with right people. Try our hypertargeted twitter campaigns!",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721740/catalog/rarog/icon128x128.jpg",
+  "website": "https://rarog.io"
+}

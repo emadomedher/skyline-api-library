@@ -1,0 +1,15 @@
+{
+  "id": "globalprocessing",
+  "title": "GPS",
+  "subtitle": "We deliver industry-leading payment processing solutions designed for today's leading challenger brands.",
+  "tags": [
+    "embedded-finance",
+    "card-issuing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642313120/icons/globalprocessing.jpg",
+  "website": "https://www.globalprocessing.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "textkernel",
+  "title": "Textkernel",
+  "subtitle": "Textkernel API integration",
+  "tags": [
+    "talent-sourcing",
+    "hr",
+    "cv-parsing"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600449433/icons/textkernel.jpg",
+  "website": "https://www.textkernel.com/"
+}

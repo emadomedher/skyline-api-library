@@ -1,0 +1,14 @@
+{
+  "id": "deepcode-ai",
+  "title": "DeepCode",
+  "subtitle": "We automatically learn from millions of available software programs and use this knowledge to make key suggestions on...",
+  "tags": [
+    "development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565163189/catalog/deepcode-ai/icon128x128.jpg",
+  "website": "https://deepcode.ai",
+  "docsUrl": "https://www.deepcode.ai/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gloo-us",
+  "title": "Gloo",
+  "subtitle": "A new kind of local outreach platform, Gloo reaches people in your community who need prayer, have questions about Je...",
+  "tags": [
+    "church"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663459340/icons/gloo-us.jpg",
+  "website": "https://www.gloo.us/"
+}

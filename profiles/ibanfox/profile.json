@@ -1,0 +1,17 @@
+{
+  "id": "ibanfox",
+  "title": "APIfox",
+  "subtitle": "IBAN API for Developers",
+  "tags": [
+    "data-apis",
+    "fintech",
+    "api",
+    "payment-validation"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611032351/icons/ibanfox.jpg",
+  "website": "https://ibanfox.com/",
+  "docsUrl": "https://ibanfox.com/docs/account-management/how-billing-works"
+}

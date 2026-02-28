@@ -1,0 +1,14 @@
+{
+  "id": "validatedid",
+  "title": "Validated ID",
+  "subtitle": "Validated ID - Legally binding electronic signature. Biometric, centralized, remote and automated signatures in the s...",
+  "tags": [
+    "identity",
+    "signatures"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591042178/catalog/validatedid/icon128x128.jpg",
+  "website": "https://www.validatedid.com/"
+}

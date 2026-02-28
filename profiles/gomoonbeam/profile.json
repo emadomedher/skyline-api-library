@@ -1,0 +1,13 @@
+{
+  "id": "gomoonbeam",
+  "title": "Moonbeam",
+  "subtitle": "Kickstart your next great blog with Moonbeam: your long-form writing AI assistant.",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678907749/icons/gomoonbeam.jpg",
+  "website": "https://www.gomoonbeam.com/"
+}

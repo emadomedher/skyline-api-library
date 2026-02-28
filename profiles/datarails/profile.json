@@ -1,0 +1,13 @@
+{
+  "id": "datarails",
+  "title": "DataRails",
+  "subtitle": "DataRails is an FP&A software that provides finance professionals with an easy way to conduct FP&A, budgeting, and fo...",
+  "tags": [
+    "financial-planning-and-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624482692/icons/datarails.jpg",
+  "website": "https://www.datarails.com/"
+}

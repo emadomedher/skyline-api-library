@@ -1,0 +1,14 @@
+{
+  "id": "amazon-eks",
+  "title": "Amazon EKS",
+  "subtitle": "Amazon EKS makes it easy for you to run Kubernetes on AWS without needing to install and operate your own Kubernetes ...",
+  "tags": [
+    "kubernetes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606326382/icons/amazon-eks.png",
+  "website": "https://aws.amazon.com/eks/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=header_signup"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "qlik",
+  "title": "Qlik",
+  "subtitle": "Turn your data into business value faster with Qlik, the only end-to-end cloud data integration and data analytics so...",
+  "tags": [
+    "dashboards-and-data-visualization",
+    "bi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946688/catalog/qlik/icon128x128.jpg",
+  "website": "https://qlik.com",
+  "docsUrl": "https://qlik.dev/"
+}

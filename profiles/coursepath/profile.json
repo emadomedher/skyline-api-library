@@ -1,0 +1,14 @@
+{
+  "id": "coursepath",
+  "title": "Coursepath",
+  "subtitle": "Coursepath LMS ➤ easy to use learning platform ✔ ⭐ Top rated ✔ Create your own courses in minutes ✔ Try it now!",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638381668/icons/coursepath.jpg",
+  "website": "https://www.coursepath.com/",
+  "docsUrl": "https://developer.coursepath.com/docs/sso.md"
+}

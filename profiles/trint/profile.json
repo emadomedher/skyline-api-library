@@ -1,0 +1,12 @@
+{
+  "id": "trint",
+  "title": "Trint",
+  "subtitle": "Trint is an automated transcription (speech to text) service that allows users to upload audio and video media and re...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284643/catalog/trint/icon128x128.jpg"
+}

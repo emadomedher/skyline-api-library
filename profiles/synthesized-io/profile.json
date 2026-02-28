@@ -1,0 +1,15 @@
+{
+  "id": "synthesized-io",
+  "title": "Synthesized",
+  "subtitle": "Enterprise tools for sensitive data. Reduce risk and minimize data leaks.\n  Replace staging with Synthesized's data p...",
+  "tags": [
+    "synthetic-data",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678518974/icons/synthesized-io.jpg",
+  "website": "https://synthesized.io/"
+}

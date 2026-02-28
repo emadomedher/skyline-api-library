@@ -1,0 +1,14 @@
+{
+  "id": "cloudflare-api-shield",
+  "title": "Cloudflare API Shield",
+  "subtitle": "Of the 18 million requests per second that traverse Cloudflare’s network, 50% are directed towards APIs. Cloudflare i...",
+  "tags": [
+    "api-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602837387/icons/cloudflare-api-shield.jpg",
+  "website": "https://blog.cloudflare.com/introducing-api-shield/",
+  "docsUrl": "https://blog.cloudflare.com/tag/developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "stripe-corporate-card",
+  "title": "Stripe Corporate Card",
+  "subtitle": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for busines...",
+  "tags": [
+    "credit-cards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581564496/catalog/stripe-corporate-card/icon128x128.svg",
+  "website": "https://stripe.com/corporate-card",
+  "docsUrl": "https://stripe.com/docs"
+}

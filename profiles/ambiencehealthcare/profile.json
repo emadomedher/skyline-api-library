@@ -1,0 +1,13 @@
+{
+  "id": "ambiencehealthcare",
+  "title": "Ambience",
+  "subtitle": "Experience what it feels like to never have to type or dictate another note again.",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678818041/icons/ambiencehealthcare.png",
+  "website": "https://www.ambiencehealthcare.com/"
+}

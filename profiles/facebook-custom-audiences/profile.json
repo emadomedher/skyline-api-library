@@ -1,0 +1,13 @@
+{
+  "id": "facebook-custom-audiences",
+  "title": "Facebook Custom Audiences",
+  "subtitle": "Facebook Custom Audiences makes signing up for business information easy for people and more valuable for businesses....",
+  "tags": [
+    "facebook",
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284515/catalog/facebook-custom-audiences/icon128x128.jpg"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "yandex",
+  "title": "Yandex",
+  "subtitle": "Yandex is a technology company that builds intelligent products and services powered by machine learning. Our goal is...",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961894/catalog/yandex/icon128x128.png",
+  "website": "https://yandex.ru",
+  "docsUrl": "https://yandex.com/dev/"
+}

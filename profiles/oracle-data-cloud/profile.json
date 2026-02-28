@@ -1,0 +1,14 @@
+{
+  "id": "oracle-data-cloud",
+  "title": "Oracle Data Cloud",
+  "subtitle": "Digital marketing has evolved drastically over the past decade.\nThink back to 2010: Apple released the first iPad; Pi...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581093695/catalog/oracle-data-cloud/icon128x128.jpg",
+  "website": "https://www.oracle.com/applications/customer-experience/data-cloud/",
+  "docsUrl": "https://www.oracle.com/a/ocom/docs/dc/em/essential-guide-to-navigating-advanced-tv-video-landscape.pdf"
+}

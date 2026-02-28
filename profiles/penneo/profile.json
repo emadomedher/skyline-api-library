@@ -1,0 +1,15 @@
+{
+  "id": "penneo",
+  "title": "Penneo",
+  "subtitle": "Penneo is a digital signature software that helps companies with everything from digital signing to KYC and risk asse...",
+  "tags": [
+    "signatures",
+    "kyc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627767075/icons/penneo.png",
+  "website": "https://penneo.com/",
+  "docsUrl": "https://penneo.readme.io/docs/prebuild-integrations"
+}

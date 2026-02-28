@@ -1,0 +1,14 @@
+{
+  "id": "westriveapp",
+  "title": "WeStrive",
+  "subtitle": "WeStrive allows your training business to thrive. Manage clients, save time, and make more money. Start your free mon...",
+  "tags": [
+    "personal-training-platform",
+    "fitness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582078770/catalog/westriveapp/icon128x128.jpg",
+  "website": "https://www.westriveapp.com/"
+}

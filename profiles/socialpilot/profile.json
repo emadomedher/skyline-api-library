@@ -1,0 +1,13 @@
+{
+  "id": "socialpilot",
+  "title": "SocialPilot",
+  "subtitle": "SocialPilot lets you create schedules for postings on your social media profiles, pages and groups on Facebook, Linke...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306141/catalog/socialpilot/icon128x128.png",
+  "website": "https://socialpilot.co"
+}

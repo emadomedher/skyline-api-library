@@ -1,0 +1,13 @@
+{
+  "id": "datavalidation",
+  "title": "DataValidation",
+  "subtitle": "DataValidation grades email addresses for their deliverability.",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304746/catalog/datavalidation/icon128x128.png",
+  "website": "https://datavalidation.com"
+}

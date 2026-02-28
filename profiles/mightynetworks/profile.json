@@ -1,0 +1,12 @@
+{
+  "id": "mightynetworks",
+  "title": "Mighty Networks",
+  "subtitle": "Mighty Networks is a platform that offers anyone the opportunity to create their own community and start getting paid...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305446/catalog/mightynetworks/icon128x128.png"
+}

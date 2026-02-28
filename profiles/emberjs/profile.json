@@ -1,0 +1,13 @@
+{
+  "id": "emberjs",
+  "title": "EmberJS",
+  "subtitle": "Ember.js helps developers be more productive out of the box. Designed with developer ergonomics in mind, its friendly...",
+  "tags": [
+    "javascript-frameworks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604206059/icons/emberjs.png",
+  "website": "https://emberjs.com/"
+}

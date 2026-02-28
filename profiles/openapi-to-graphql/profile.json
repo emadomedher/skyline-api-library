@@ -1,0 +1,15 @@
+{
+  "id": "openapi-to-graphql",
+  "title": "OpenAPI-to-GraphQL",
+  "subtitle": "OpenAPI-to-GraphQL is a library that helps providers leverage existing REST APIs to use this exciting new technology....",
+  "tags": [
+    "api-tooling",
+    "graphql-tooling",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618689451/icons/openapi-to-graphql.png",
+  "website": "https://developer.ibm.com/open/projects/openapi-to-graphql/"
+}

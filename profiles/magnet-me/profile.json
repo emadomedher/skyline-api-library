@@ -1,0 +1,13 @@
+{
+  "id": "magnet-me",
+  "title": "Magnet.me",
+  "subtitle": "Directly see which graduate jobs, internships and companies you're qualified for. Find something you like - or be fou...",
+  "tags": [
+    "hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577682179/catalog/magnet-me/icon128x128.jpg",
+  "website": "https://magnet.me/"
+}

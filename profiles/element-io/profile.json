@@ -1,0 +1,16 @@
+{
+  "id": "element-io",
+  "title": "Element",
+  "subtitle": "Element is a Matrix-based end-to-end encrypted messenger and collaboration app. It’s decentralised for digital sovere...",
+  "tags": [
+    "messaging",
+    "decentralized",
+    "privacy"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616309526/icons/element-io.png",
+  "website": "https://element.io/",
+  "docsUrl": "https://element.io/developers"
+}

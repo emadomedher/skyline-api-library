@@ -1,0 +1,12 @@
+{
+  "id": "rocket-responder",
+  "title": "RocketResponder",
+  "subtitle": "Email Marketing Automation by RocketResponder makes it easy to create and send emails that get great results to grow ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305901/catalog/rocket-responder/icon128x128.png"
+}

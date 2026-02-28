@@ -1,0 +1,14 @@
+{
+  "id": "alumio",
+  "title": "Alumio",
+  "subtitle": "Alumio, integration platform for digital commerce and AI. Built to scale and accelerate your business. Alumio is the ...",
+  "tags": [
+    "integration-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634680440/icons/alumio.jpg",
+  "website": "https://www.alumio.com/",
+  "docsUrl": "https://www.alumio.com/platform/alumio-for-developers"
+}

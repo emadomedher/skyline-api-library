@@ -1,0 +1,13 @@
+{
+  "id": "loyaly",
+  "title": "Loyaly",
+  "subtitle": "Build a custom omni-channel loyalty program for your e-commerce and retail store to increase your Customer Lifetime V...",
+  "tags": [
+    "customer-loyalty"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603725572/icons/loyaly.svg",
+  "website": "https://loyaly.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "suggested-co",
+  "title": "Suggested",
+  "subtitle": "Suggested.co makes it easy for your customers to vote for features and helps you centralise feedback in one place",
+  "tags": [
+    "product-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613353333/icons/suggested-co.jpg",
+  "website": "https://suggested.co/",
+  "docsUrl": "https://suggested.co/docs"
+}

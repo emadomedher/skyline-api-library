@@ -1,0 +1,13 @@
+{
+  "id": "salesassembly",
+  "title": "Sales Assembly",
+  "subtitle": "We’re the trusted partner for leading B2B Tech companies on their journey to Scale Better, Scale Faster, and Scale Sm...",
+  "tags": [
+    "sales-consultancy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231780/icons/salesassembly.jpg",
+  "website": "https://www.salesassembly.com/"
+}

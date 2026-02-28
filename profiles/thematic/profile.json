@@ -1,0 +1,13 @@
+{
+  "id": "thematic",
+  "title": "Thematic",
+  "subtitle": "Thematic is a customer feedback analysis solution. We turn free-text comments into interactive reports. Learn what im...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946478/catalog/thematic/icon128x128.jpg",
+  "website": "https://getthematic.com"
+}

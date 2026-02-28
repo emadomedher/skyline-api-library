@@ -1,0 +1,13 @@
+{
+  "id": "media-innovation-group",
+  "title": "Media Innovation Group",
+  "subtitle": "Media Innovation Group API integration",
+  "tags": [
+    "data-management"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435815/catalog/media-innovation-group/icon128x128.png",
+  "website": "https://themig.com"
+}

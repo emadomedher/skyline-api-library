@@ -1,0 +1,15 @@
+{
+  "id": "openjsf-org",
+  "title": "OpenJS Foundation",
+  "subtitle": "OpenJS Foundation’s mission is to drive broad adoption and ongoing development of key JavaScript solutions and relate...",
+  "tags": [
+    "foundations",
+    "javascript",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598713725/icons/openjsf-org.jpg",
+  "website": "https://openjsf.org/"
+}

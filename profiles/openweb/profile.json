@@ -1,0 +1,14 @@
+{
+  "id": "openweb",
+  "title": "OpenWeb",
+  "subtitle": "It’s time for quality conversations online. OpenWeb's community engagement and commenting system turns publishers int...",
+  "tags": [
+    "publishing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568745/icons/openweb.jpg",
+  "website": "https://www.openweb.com/",
+  "docsUrl": "https://openwebdoc.readme.io"
+}

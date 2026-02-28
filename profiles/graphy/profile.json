@@ -1,0 +1,13 @@
+{
+  "id": "graphy",
+  "title": "Graphy",
+  "subtitle": "Launch your course website and mobile apps with Graphy’s powerful and secure no-code platform. Dedicated support and ...",
+  "tags": [
+    "online-courses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640726510/icons/graphy.jpg",
+  "website": "https://graphy.com/"
+}

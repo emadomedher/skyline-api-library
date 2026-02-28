@@ -1,0 +1,13 @@
+{
+  "id": "feather-icons",
+  "title": "Feather Icons",
+  "subtitle": "Feather is a collection of simply beautiful open source icons. Each icon is designed on a 24x24 grid with an emphasis...",
+  "tags": [
+    "icons"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562108269/catalog/feather-icons/icon128x128.png",
+  "website": "https://feathericons.com"
+}

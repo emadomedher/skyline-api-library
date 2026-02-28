@@ -1,0 +1,14 @@
+{
+  "id": "accengage",
+  "title": "Accengage",
+  "subtitle": "Broadcast targeted, personalized and automated Push Notifications to boost the engagement, retention and conversion o...",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432693/catalog/accengage/icon128x128.png",
+  "website": "https://accengage.com",
+  "docsUrl": "https://wiki.accengage.com"
+}

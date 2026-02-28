@@ -1,0 +1,13 @@
+{
+  "id": "spocto",
+  "title": "Spocto",
+  "subtitle": "A Big Data Analytics Company focused on ‘Individual Consumer’ Data driven\nInsights on mass scale to significantly enh...",
+  "tags": [
+    "dmp"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946548/catalog/spocto/icon128x128.jpg",
+  "website": "https://spocto.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "eventtemple",
+  "title": "EventTemple",
+  "subtitle": "Event Temple is an all in one event management software used by hotels, wedding venues, clubs, restaurants, and confe...",
+  "tags": [
+    "scheduling",
+    "event-management"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305056/catalog/eventtemple/icon128x128.png"
+}

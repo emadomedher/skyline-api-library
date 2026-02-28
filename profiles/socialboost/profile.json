@@ -1,0 +1,13 @@
+{
+  "id": "socialboost",
+  "title": "SocialBoost",
+  "subtitle": "SocialBoost API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827662/catalog/socialboost/icon128x128.png",
+  "website": "https://socialboost.com"
+}

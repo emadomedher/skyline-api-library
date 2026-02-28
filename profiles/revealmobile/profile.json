@@ -1,0 +1,13 @@
+{
+  "id": "revealmobile",
+  "title": "Reveal Mobile",
+  "subtitle": "Reveal Mobile provides location-based marketing, analytics and foot traffic attribution to agencies, brands, and data...",
+  "tags": [
+    "location-based-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578585544/catalog/revealmobile/icon128x128.jpg",
+  "website": "https://revealmobile.com/"
+}

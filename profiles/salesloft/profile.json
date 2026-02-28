@@ -1,0 +1,13 @@
+{
+  "id": "salesloft",
+  "title": "SalesLoft",
+  "subtitle": "SalesLoft is the #1 sales engagement platform that helps you understand your customers' needs and respond in meaningf...",
+  "tags": [
+    "sales-automation-enablement-and-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1662669824/icons/salesloft.png",
+  "website": "https://salesloft.com"
+}

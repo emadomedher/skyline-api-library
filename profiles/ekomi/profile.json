@@ -1,0 +1,13 @@
+{
+  "id": "ekomi",
+  "title": "eKomi",
+  "subtitle": "eKomi is the only Goldman Sachs backed Ratings & Reviews collection company that is accredited by Google, Bing and Ya...",
+  "tags": [
+    "community-and-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947092/catalog/ekomi/icon128x128.jpg",
+  "website": "https://ekomi-us.com"
+}

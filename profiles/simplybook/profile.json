@@ -1,0 +1,13 @@
+{
+  "id": "simplybook",
+  "title": "SimplyBook",
+  "subtitle": "Free Online Appointment Booking and Scheduling Software.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306095/catalog/simplybook/icon128x128.png",
+  "website": "https://simplybook.me/"
+}

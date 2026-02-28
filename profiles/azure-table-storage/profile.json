@@ -1,0 +1,12 @@
+{
+  "id": "azure-table-storage",
+  "title": "Azure Table Storage",
+  "subtitle": "Azure Table storage is a service that stores structured NoSQL data in the cloud, providing a key/attribute store with...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264761/catalog/azure-table-storage/icon128x128.png"
+}

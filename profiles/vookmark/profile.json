@@ -1,0 +1,12 @@
+{
+  "id": "vookmark",
+  "title": "Vookmark",
+  "subtitle": "Vookmark is the easiest to bookmark videos across the web and mobile and watch it later on your browser, Apple TV, iO...",
+  "tags": [
+    "bookmarks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056537/catalog/vookmark/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "apiworld-io",
+  "title": "apiworld.io",
+  "subtitle": "Your Daily Dose of APIs Content by Liad Bokovsky",
+  "tags": [
+    "newsletters",
+    "resources"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615223039/icons/apiworld-io.png",
+  "website": "http://apiworld.io/"
+}

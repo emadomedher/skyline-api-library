@@ -1,0 +1,14 @@
+{
+  "id": "dashbot-io",
+  "title": "Dashbot.io",
+  "subtitle": "Actionable Chatbot & Voice Analytics. Optimize response effectiveness. Understand user behaviors. Increase user satis...",
+  "tags": [
+    "bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561042797/catalog/dashbot-io/icon128x128.jpg",
+  "website": "https://dashbot.io",
+  "docsUrl": "https://www.dashbot.io/docs"
+}

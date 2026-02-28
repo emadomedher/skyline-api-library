@@ -1,0 +1,14 @@
+{
+  "id": "vercel",
+  "title": "Vercel",
+  "subtitle": "Vercel is the easiest way to deploy websites. Host your web projects with zero configuration, automatic SSL, and glob...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590753293/catalog/vercel/icon128x128.jpg",
+  "website": "https://vercel.com/",
+  "docsUrl": "https://vercel.com/docs/api"
+}

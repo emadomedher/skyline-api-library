@@ -1,0 +1,13 @@
+{
+  "id": "six-payment-services",
+  "title": "SIX",
+  "subtitle": "Take advantage of our efficient, reliable payment service. Because quality matters.",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641119/icons/six-payment-services.jpg",
+  "website": "https://www.six-payment-services.com/"
+}

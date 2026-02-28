@@ -1,0 +1,13 @@
+{
+  "id": "connectwise",
+  "title": "ConnectWise",
+  "subtitle": "ConnectWise empowers technology solution providers to reach their goals faster with an award-winning business managem...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551227444/catalog/connectwise/icon128x128.jpg",
+  "website": "https://connectwise.com"
+}

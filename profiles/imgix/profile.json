@@ -1,0 +1,14 @@
+{
+  "id": "imgix",
+  "title": "imgix",
+  "subtitle": "imgix solves images. We tackle the complexity of responsive imagery to help you deliver the highest value image to th...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559273434/catalog/imgix/icon128x128.png",
+  "website": "https://imgix.com",
+  "docsUrl": "https://docs.imgix.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "textmagic",
+  "title": "TextMagic",
+  "subtitle": "TextMagic is a business text-messaging service for sending notifications, alerts, reminders, confirmations and SMS ma...",
+  "tags": [
+    "phone-&-sms",
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306310/catalog/textmagic/icon128x128.png",
+  "website": "https://textmagic.com"
+}

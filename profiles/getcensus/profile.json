@@ -1,0 +1,14 @@
+{
+  "id": "getcensus",
+  "title": "Census",
+  "subtitle": "Census is the easiest way to sync your data warehouse to the apps you use. No engineering favors required.",
+  "tags": [
+    "reverse-etl",
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590745684/catalog/getcensus/icon128x128.png",
+  "website": "https://www.getcensus.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "backbase",
+  "title": "Backbase",
+  "subtitle": "Backbase provides the leading digital-firstbanking platform that empowers banks and other FI to accelerate their digi...",
+  "tags": [
+    "banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598560832/icons/backbase.png",
+  "website": "https://www.backbase.com/"
+}

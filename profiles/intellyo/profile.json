@@ -1,0 +1,13 @@
+{
+  "id": "intellyo",
+  "title": "Intellyo",
+  "subtitle": "Intellyo gives your enterprise a voice in the digital world by building & tracking your communication strategy in one...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826650/catalog/intellyo/icon128x128.jpg",
+  "website": "https://intellyo.com"
+}

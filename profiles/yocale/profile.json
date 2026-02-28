@@ -1,0 +1,12 @@
+{
+  "id": "yocale",
+  "title": "Yocale",
+  "subtitle": "Yocale helps you to have full control over your schedule, bookings and online presence to meet your requirements.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306554/catalog/yocale/icon128x128.png"
+}

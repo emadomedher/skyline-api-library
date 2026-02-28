@@ -1,0 +1,15 @@
+{
+  "id": "guestrevu",
+  "title": "GuestRevu",
+  "subtitle": "Guest feedback technology to seamlessly gather the information you need to actively manage your online reputation and...",
+  "tags": [
+    "hospitality",
+    "review-management",
+    "reviews"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589827519/catalog/guestrevu/icon128x128.jpg",
+  "website": "https://www.guestrevu.com/"
+}

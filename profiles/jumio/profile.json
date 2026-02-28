@@ -1,0 +1,14 @@
+{
+  "id": "jumio",
+  "title": "Jumio",
+  "subtitle": "Jumio's end-to-end ID and identity verification and authentication solutions fight fraud, maintain compliance and onb...",
+  "tags": [
+    "kyc",
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593450162/icons/jumio.jpg",
+  "website": "https://www.jumio.com/"
+}

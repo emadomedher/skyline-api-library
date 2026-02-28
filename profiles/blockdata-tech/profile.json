@@ -1,0 +1,14 @@
+{
+  "id": "blockdata-tech",
+  "title": "BLOCKDATA",
+  "subtitle": "Understand the projects, consortia, and technologies that make up the blockchain ecosystem.",
+  "tags": [
+    "blockchain",
+    "market-intelligence-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583752313/catalog/blockdata-tech/icon128x128.jpg",
+  "website": "https://www.blockdata.tech/"
+}

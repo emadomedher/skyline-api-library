@@ -1,0 +1,13 @@
+{
+  "id": "copycraftai",
+  "title": "CopyCraft AI",
+  "subtitle": "CopyCraft AI API integration",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672640280/icons/copycraftai.png",
+  "website": "https://copycraftai.com/"
+}

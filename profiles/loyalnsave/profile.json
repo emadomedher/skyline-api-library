@@ -1,0 +1,13 @@
+{
+  "id": "loyalnsave",
+  "title": "Loyal~n~Save",
+  "subtitle": "Loyal~n~Save premium loyalty reward program helps you to earn reward tokens every time you shop with your favourite s...",
+  "tags": [
+    "loyalty-rewards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017198/icons/loyalnsave.jpg",
+  "website": "https://loyalnsave.com/"
+}

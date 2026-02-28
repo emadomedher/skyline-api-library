@@ -1,0 +1,13 @@
+{
+  "id": "happyfox-chat",
+  "title": "HappyFox Chat",
+  "subtitle": "Powerful live chat software built from ground-up for super fast customer support.",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305087/catalog/happyfox-chat/icon128x128.png",
+  "website": "https://happyfoxchat.com"
+}

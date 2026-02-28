@@ -1,0 +1,13 @@
+{
+  "id": "default",
+  "title": "Default",
+  "subtitle": "Turn you site into a pipeline-generating machine with Default's all-in-one lead capture, qualification, scheduling, &...",
+  "tags": [
+    "lead-qualification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669850058/icons/default.png",
+  "website": "https://www.default.com/"
+}

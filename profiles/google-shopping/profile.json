@@ -1,0 +1,14 @@
+{
+  "id": "google-shopping",
+  "title": "Google Shopping",
+  "subtitle": "Google Shopping, formerly Google Product Search, Google Products and Froogle, is a Google service invented by Craig N...",
+  "tags": [
+    "e-commerce",
+    "compare-websites"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581085768/catalog/google-shopping/icon128x128.jpg",
+  "website": "https://www.google.com/shopping"
+}

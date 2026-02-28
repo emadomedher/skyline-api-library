@@ -1,0 +1,13 @@
+{
+  "id": "contentrunner",
+  "title": "ContentRunner",
+  "subtitle": "Content Runner connects people who can write content with the people who need it. Get content for your website or mak...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826161/catalog/contentrunner/icon128x128.jpg",
+  "website": "https://contentrunner.com"
+}

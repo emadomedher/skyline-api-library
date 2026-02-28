@@ -1,0 +1,14 @@
+{
+  "id": "flexio-app",
+  "title": "Flexio",
+  "subtitle": "Flexio API integration",
+  "tags": [
+    "invoice-collection",
+    "account-reconciliation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617192466/icons/flexio-app.jpg",
+  "website": "https://flexio.app/"
+}

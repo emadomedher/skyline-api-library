@@ -1,0 +1,13 @@
+{
+  "id": "helloaudio-fm",
+  "title": "Join Hello Audio Today ⚡️",
+  "subtitle": "Don’t you just wish it was easier for your students to consume your content? Wouldn’t it be great if ALL of your stud...",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613989206/icons/helloaudio-fm.png",
+  "website": "https://www.helloaudio.fm/"
+}

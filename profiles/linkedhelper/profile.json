@@ -1,0 +1,14 @@
+{
+  "id": "linkedhelper",
+  "title": "Linked Helper 2",
+  "subtitle": "Linked Helper - LinkedIn automation tools. Automatic connection requests, bulk-messaging, LinkedIn profiles export, a...",
+  "tags": [
+    "linkedin-automation",
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618353216/icons/linkedhelper.jpg",
+  "website": "https://www.linkedhelper.com/"
+}

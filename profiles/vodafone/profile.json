@@ -1,0 +1,13 @@
+{
+  "id": "vodafone",
+  "title": "Vodafone Group",
+  "subtitle": "Vodafone is a leader in technology communications through mobile, fixed, broadband and TV around the world. Learn mor...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606148351/icons/vodafone.jpg",
+  "website": "https://www.vodafone.com/"
+}

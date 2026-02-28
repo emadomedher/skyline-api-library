@@ -1,0 +1,14 @@
+{
+  "id": "ubb-bg",
+  "title": "United Bulgarian Bank (UBB)",
+  "subtitle": "United Bulgarian Bank (UBB) was established in 1992 and has been a member of the KBC group since 2017.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605187014/icons/ubb-bg.svg",
+  "website": "https://www.ubb.bg/",
+  "docsUrl": "https://developer.ubb.bg/ubb-sb/psd2"
+}

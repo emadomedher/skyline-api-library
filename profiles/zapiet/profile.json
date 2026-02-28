@@ -1,0 +1,14 @@
+{
+  "id": "zapiet",
+  "title": "Store Pickup + Delivery",
+  "subtitle": "Industry-leading store pickup and local delivery solutions for Shopify and BigCommerce. Our powerful, flexible and cu...",
+  "tags": [
+    "delivery",
+    "shopify"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573332065/catalog/zapiet/icon128x128.jpg",
+  "website": "https://www.zapiet.com"
+}

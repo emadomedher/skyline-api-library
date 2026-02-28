@@ -1,0 +1,14 @@
+{
+  "id": "lessannoyingcrm",
+  "title": "Less Annoying CRM",
+  "subtitle": "Thousands of small businesses use Less Annoying CRM to manage contacts, track \n\tleads, and stay on top of follow-ups....",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178340/catalog/lessannoyingcrm/icon128x128.png",
+  "website": "https://www.lessannoyingcrm.com/",
+  "docsUrl": "https://www.lessannoyingcrm.com/help/topic/API"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xolo-io",
+  "title": "Xolo",
+  "subtitle": "Xolo is the quickest and easiest way to launch and run a one-person freelancing business in Europe.",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564923777/catalog/xolo-io/icon128x128.png",
+  "website": "https://xolo.io"
+}

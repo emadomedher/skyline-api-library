@@ -1,0 +1,15 @@
+{
+  "id": "hightouch-io",
+  "title": "Hightouch",
+  "subtitle": "Hightouch brings together customer data from all your SaaS tools, spreadsheets, and databases for querying, automated...",
+  "tags": [
+    "customer-data-platforms",
+    "knowledge-integration"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595903504/icons/hightouch-io.png",
+  "website": "https://www.hightouch.io/",
+  "docsUrl": "http://docs.hightouch.io"
+}

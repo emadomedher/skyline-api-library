@@ -1,0 +1,13 @@
+{
+  "id": "tint",
+  "title": "Tint",
+  "subtitle": "Easily aggregate your best social media content - from Instagram, Facebook, Twitter, and more - on any website or eve...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722529/catalog/tint/icon128x128.jpg",
+  "website": "https://tintup.com"
+}

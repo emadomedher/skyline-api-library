@@ -1,0 +1,13 @@
+{
+  "id": "cello-so",
+  "title": "Cello",
+  "subtitle": "Fastest way for any SaaS company to seamlessly integrate a referral program. Open now for early access.",
+  "tags": [
+    "referral"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909657/icons/cello-so.jpg",
+  "website": "https://cello.so/"
+}

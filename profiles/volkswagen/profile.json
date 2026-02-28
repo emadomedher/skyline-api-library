@@ -1,0 +1,13 @@
+{
+  "id": "volkswagen",
+  "title": "Volkswagen",
+  "subtitle": "Find Volkswagen in your sales region.",
+  "tags": [
+    "car-manufacturers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574651993/catalog/volkswagen/icon128x128.jpg",
+  "website": "http://www.volkswagen.com/"
+}

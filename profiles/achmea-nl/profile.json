@@ -1,0 +1,14 @@
+{
+  "id": "achmea-nl",
+  "title": "Achmea",
+  "subtitle": "We zijn een bedrijf met een coöperatief karakter: want samen kun je financiële risico's makkelijker dragen dan alleen...",
+  "tags": [
+    "insurers",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632569533/icons/achmea-nl.png",
+  "website": "https://www.achmea.nl/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "deepaffects",
+  "title": "DeepAffects",
+  "subtitle": "DeepAffects speech analysis platform supports automated multi-speaker recognition, voiceprints, emotions & intents fr...",
+  "tags": [
+    "speech-analysis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610134046/icons/deepaffects.jpg",
+  "website": "https://www.deepaffects.com/",
+  "docsUrl": "https://docs.deepaffects.com/docs/introduction.html"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "leadconnect",
+  "title": "Lead Connect",
+  "subtitle": "Lead Connect is a lead-to-call automation tool that connects a phone call between your sales people and your new lead...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305275/catalog/leadconnect/icon128x128.png"
+}

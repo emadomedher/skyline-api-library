@@ -1,0 +1,13 @@
+{
+  "id": "guest-manager",
+  "title": "Guest Manager",
+  "subtitle": "Event management software for importing guests, guest check in, ticket scanning, CRM database, online ticketing and r...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720297/catalog/guest-manager/icon128x128.png",
+  "website": "https://guestmanager.com"
+}

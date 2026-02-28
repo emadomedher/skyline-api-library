@@ -1,0 +1,14 @@
+{
+  "id": "incorta",
+  "title": "Incorta",
+  "subtitle": "Incorta aggregates large complex business data in real time, eliminating the need to reshape it. No Data Warehouse. N...",
+  "tags": [
+    "etl"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566431969/catalog/incorta/icon128x128.png",
+  "website": "https://www.incorta.com/",
+  "docsUrl": "https://docs.incorta.com"
+}

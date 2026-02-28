@@ -1,0 +1,13 @@
+{
+  "id": "leadme-ca",
+  "title": "Leadme",
+  "subtitle": "Leadme API integration",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607838424/icons/leadme-ca.png",
+  "website": "https://www.leadme.ca/"
+}

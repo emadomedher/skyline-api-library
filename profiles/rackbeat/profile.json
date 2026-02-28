@@ -1,0 +1,14 @@
+{
+  "id": "rackbeat",
+  "title": "Rackbeat",
+  "subtitle": "Inventory management software that is easy to use.",
+  "tags": [
+    "inventory-management",
+    "warehouse-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585773811/catalog/rackbeat/icon128x128.jpg",
+  "website": "https://rackbeat.com"
+}

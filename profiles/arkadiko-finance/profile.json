@@ -1,0 +1,14 @@
+{
+  "id": "arkadiko-finance",
+  "title": "Arkadiko Protocol",
+  "subtitle": "We bring DeFi to Bitcoin. Arkadiko is an open source protocol that mints a stablecoin which generates a yield in bitc...",
+  "tags": [
+    "defi"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628723131/icons/arkadiko-finance.jpg",
+  "website": "https://www.arkadiko.finance/",
+  "docsUrl": "https://docs.arkadiko.finance"
+}

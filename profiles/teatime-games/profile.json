@@ -1,0 +1,14 @@
+{
+  "id": "teatime-games",
+  "title": "Teatime Games",
+  "subtitle": "Real-time games for iOS and Android. The new generation of mobile games is here. Choose a filter and enjoy the video ...",
+  "tags": [
+    "social-games",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599684995/icons/teatime-games.jpg",
+  "website": "https://www.teatime.games/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "longevity-cards",
+  "title": "Longevity Bank",
+  "subtitle": "Health is the New Wealth. Longevity Card is the new way to manage your money and lead a healthy lifestyle in one app.​",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600227764/icons/longevity-cards.jpg",
+  "website": "https://www.longevity.cards/"
+}

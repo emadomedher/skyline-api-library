@@ -1,0 +1,14 @@
+{
+  "id": "elm-lang",
+  "title": "Elm",
+  "subtitle": "Elm API integration",
+  "tags": [
+    "programming-languages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607030349/icons/elm-lang.jpg",
+  "website": "https://elm-lang.org/",
+  "docsUrl": "https://elm-lang.org/docs"
+}

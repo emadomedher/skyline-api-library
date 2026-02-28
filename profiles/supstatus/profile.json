@@ -1,0 +1,13 @@
+{
+  "id": "supstatus",
+  "title": "Sup",
+  "subtitle": "Sup. The status page for your startup.",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565520332/catalog/supstatus/icon128x128.png",
+  "website": "https://supstatus.com/"
+}

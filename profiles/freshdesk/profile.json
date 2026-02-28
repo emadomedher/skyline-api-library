@@ -1,0 +1,13 @@
+{
+  "id": "freshdesk",
+  "title": "Freshdesk",
+  "subtitle": "Freshdesk is an online helpdesk software with multiple channel customer service to support customers across email, ph...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456681/catalog/freshdesk/icon128x128.png",
+  "website": "https://freshdesk.com/"
+}

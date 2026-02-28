@@ -1,0 +1,14 @@
+{
+  "id": "datacamp",
+  "title": "DataCamp",
+  "subtitle": "Learn Data Science from the comfort of your browser, at your own pace with DataCamp's video tutorials &amp; coding ch...",
+  "tags": [
+    "online-courses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626657758/icons/datacamp.jpg",
+  "website": "https://www.datacamp.com/",
+  "docsUrl": "https://www.rdocumentation.org"
+}

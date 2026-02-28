@@ -1,0 +1,15 @@
+{
+  "id": "securitycompass",
+  "title": "Security Compass",
+  "subtitle": "Manage your application security with Security Compass’ software security requirements management platform. We offer ...",
+  "tags": [
+    "security",
+    "compliance",
+    "application-security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567193173/catalog/securitycompass/icon128x128.jpg",
+  "website": "https://securitycompass.com"
+}

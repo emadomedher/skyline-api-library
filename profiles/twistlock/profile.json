@@ -1,0 +1,13 @@
+{
+  "id": "twistlock",
+  "title": "Twistlock",
+  "subtitle": "Twistlock is the first comprehensive cloud native cybersecurity platform for hosts, containers, and serverless setups...",
+  "tags": [
+    "container-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576895786/catalog/twistlock/icon128x128.jpg",
+  "website": "https://www.twistlock.com/"
+}

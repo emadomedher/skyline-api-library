@@ -1,0 +1,13 @@
+{
+  "id": "pay-nl",
+  "title": "PAY.nl",
+  "subtitle": "Payment service provider Pay.nl biedt betaaloplossingen voor eCommerce, fysieke retail, pin automaten, betaallinks en...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509304/catalog/pay-nl/icon128x128.jpg",
+  "website": "https://www.pay.nl/"
+}

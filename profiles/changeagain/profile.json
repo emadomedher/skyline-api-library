@@ -1,0 +1,13 @@
+{
+  "id": "changeagain",
+  "title": "ChangeAgain",
+  "subtitle": "ChangeAgain API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433647/catalog/changeagain/icon128x128.png",
+  "website": "https://changeagain.me"
+}

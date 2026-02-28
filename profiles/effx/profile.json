@@ -1,0 +1,14 @@
+{
+  "id": "effx",
+  "title": "effx",
+  "subtitle": "The simplest way to navigate and operate your microservices.",
+  "tags": [
+    "microservices-catalog"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327369/icons/effx.jpg",
+  "website": "https://effx.com",
+  "docsUrl": "https://effx.com/help"
+}

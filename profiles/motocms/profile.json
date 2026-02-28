@@ -1,0 +1,13 @@
+{
+  "id": "motocms",
+  "title": "MotoCMS",
+  "subtitle": "Build your own website in minutes! MotoCMS is a cheap and easy website builder with simple functionality, visual edit...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946805/catalog/motocms/icon128x128.jpg",
+  "website": "https://motocms.com"
+}

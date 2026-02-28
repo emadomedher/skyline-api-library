@@ -1,0 +1,13 @@
+{
+  "id": "seventh-sense",
+  "title": "Seventh Sense",
+  "subtitle": "Send time optimization for HubSpot and Marketo. Seventh Sense's precision email system analyzes your existing data to...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722041/catalog/seventh-sense/icon128x128.jpg",
+  "website": "https://theseventhsense.com"
+}

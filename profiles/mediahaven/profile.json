@@ -1,0 +1,13 @@
+{
+  "id": "mediahaven",
+  "title": "MediaHaven",
+  "subtitle": "MediaHaven makes Media asset management cost-effective and easy. Whatever you want to do, you'll find that MediaHaven...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721073/catalog/mediahaven/icon128x128.png",
+  "website": "https://mediahaven.com"
+}

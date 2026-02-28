@@ -1,0 +1,14 @@
+{
+  "id": "clicksend",
+  "title": "ClickSend",
+  "subtitle": "ClickSend is a cloud-based gateway service for your business that lets you send bulk SMS, email, fax & letters worldw...",
+  "tags": [
+    "sms"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628624928/icons/clicksend.jpg",
+  "website": "https://www.clicksend.com/",
+  "docsUrl": "https://developers.clicksend.com"
+}

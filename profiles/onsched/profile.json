@@ -1,0 +1,15 @@
+{
+  "id": "onsched",
+  "title": "OnSched",
+  "subtitle": "OnSched's enterprise online booking API enables simple integration of online scheduling into modern applications and ...",
+  "tags": [
+    "scheduling-apis"
+  ],
+  "category": "Other",
+  "specType": "openapi",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612922036/icons/onsched.jpg",
+  "specUrl": "https://sandbox-api.onsched.com/swagger/consumer/swagger.json",
+  "website": "https://www.onsched.com/",
+  "docsUrl": "https://onsched.readme.io"
+}

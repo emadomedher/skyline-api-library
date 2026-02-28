@@ -1,0 +1,13 @@
+{
+  "id": "infosys-finacle",
+  "title": "Infosys Finacle",
+  "subtitle": "Edgeverve Finacle is a leading universal digital banking application built to deliver better online banking, payments...",
+  "tags": [
+    "core-banking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598910104/icons/infosys-finacle.png",
+  "website": "https://www.edgeverve.com/finacle/"
+}

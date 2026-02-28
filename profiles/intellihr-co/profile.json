@@ -1,0 +1,15 @@
+{
+  "id": "intellihr-co",
+  "title": "intelliHR",
+  "subtitle": "intelliHR - Australia's #1 Online HR System for People Management, Performance, Analytics & Automation. For more info...",
+  "tags": [
+    "people-management",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616128778/icons/intellihr-co.jpg",
+  "website": "https://intellihr.co/",
+  "docsUrl": "https://developers.intellihr.io/"
+}

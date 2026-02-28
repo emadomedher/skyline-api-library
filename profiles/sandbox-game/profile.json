@@ -1,0 +1,13 @@
+{
+  "id": "sandbox-game",
+  "title": "The Sandbox",
+  "subtitle": "The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blo...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1469004112557711360/uz_BWtBs_400x400.jpg",
+  "website": "https://www.sandbox.game/"
+}

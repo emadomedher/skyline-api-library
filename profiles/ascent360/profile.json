@@ -1,0 +1,13 @@
+{
+  "id": "ascent360",
+  "title": "Ascent360",
+  "subtitle": "A cloud based marketing software that enables highly targeted, omni-channel marketing strategies direct to customers ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964277/catalog/ascent360/icon128x128.png",
+  "website": "https://ascent360.com"
+}

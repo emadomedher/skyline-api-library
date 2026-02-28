@@ -1,0 +1,13 @@
+{
+  "id": "wavtool",
+  "title": "WavTool",
+  "subtitle": "Make high-quality music with an AI assistant, in the browser, for free.",
+  "tags": [
+    "music-production"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1682411704/icons/wavtool.png",
+  "website": "https://wavtool.com/"
+}

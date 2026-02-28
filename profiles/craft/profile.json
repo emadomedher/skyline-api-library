@@ -1,0 +1,13 @@
+{
+  "id": "craft",
+  "title": "Craft",
+  "subtitle": "Craft is a single and collaborative place for product managers to work.",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304702/catalog/craft/icon128x128.png",
+  "website": "https://craft.io"
+}

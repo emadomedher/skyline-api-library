@@ -1,0 +1,14 @@
+{
+  "id": "liquidata-co",
+  "title": "Liquidata",
+  "subtitle": "Corporate website for Liquidata, Inc",
+  "tags": [
+    "data-versioning",
+    "data-pipelines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570907110/catalog/liquidata-co/icon128x128.png",
+  "website": "https://www.liquidata.co/"
+}

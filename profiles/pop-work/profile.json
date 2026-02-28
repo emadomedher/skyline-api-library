@@ -1,0 +1,13 @@
+{
+  "id": "pop-work",
+  "title": "Popwork",
+  "subtitle": "Take your team management to the next level with Popwork. One-to-one meetings are prepared and followed up upon week ...",
+  "tags": [
+    "employee-performance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670437559/icons/pop-work.png",
+  "website": "https://pop.work/"
+}

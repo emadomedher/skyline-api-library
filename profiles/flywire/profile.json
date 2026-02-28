@@ -1,0 +1,15 @@
+{
+  "id": "flywire",
+  "title": "Flywire",
+  "subtitle": "Helping our clients get paid and their customers pay with ease from anywhere in the world",
+  "tags": [
+    "payments",
+    "b2b-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634856990/icons/flywire.jpg",
+  "website": "https://www.flywire.com/",
+  "docsUrl": "https://www.flywire.com/#"
+}

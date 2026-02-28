@@ -1,0 +1,14 @@
+{
+  "id": "finixpayments",
+  "title": "Finix",
+  "subtitle": "Finix provides ISVs, ISOs, PSPs, platforms, marketplaces, and vertically-focused software and SaaS providers in the p...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062134/catalog/finixpayments/icon128x128.png",
+  "website": "https://finixpayments.com/",
+  "docsUrl": "https://developers.finixpayments.com"
+}

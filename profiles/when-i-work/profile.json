@@ -1,0 +1,16 @@
+{
+  "id": "when-i-work",
+  "title": "When I Work",
+  "subtitle": "When I Work is easy-to-use employee scheduling and time clock software. Simplify the shift and start your free 14-day...",
+  "tags": [
+    "scheduling",
+    "business-tools",
+    "hr"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830046/catalog/when-i-work/icon128x128.png",
+  "website": "https://wheniwork.com",
+  "docsUrl": "https://dev.wheniwork.com"
+}

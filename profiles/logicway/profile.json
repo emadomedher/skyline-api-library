@@ -1,0 +1,12 @@
+{
+  "id": "logicway",
+  "title": "LogicWay",
+  "subtitle": "LogicWay is gespecialiseerd in de verwerking van boordcomputergegevens en salaris voorloop. De LogicWay software (Tri...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256945/catalog/logicway/icon128x128.jpg"
+}

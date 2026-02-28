@@ -1,0 +1,13 @@
+{
+  "id": "zimyo",
+  "title": "Zimyo",
+  "subtitle": "An award-winning cloud-based solution, Zimyo is an HR & Payroll Software, making your HR agile, improving efficiency ...",
+  "tags": [
+    "employee-experience"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660740206/icons/zimyo.jpg",
+  "website": "https://www.zimyo.com/"
+}

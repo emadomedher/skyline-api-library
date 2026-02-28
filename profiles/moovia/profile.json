@@ -1,0 +1,13 @@
+{
+  "id": "moovia",
+  "title": "Moovia",
+  "subtitle": "MOOVIA is an enjoyable and secure social environment to host your team`s projects, tasks, meetings, ideas, messages a...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946807/catalog/moovia/icon128x128.jpg",
+  "website": "https://site.moovia.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "appsmith",
+  "title": "Appsmith",
+  "subtitle": "Appsmith is an open source web framework for building internal tools, admin panels, dashboards, and workflows.",
+  "tags": [
+    "low-code",
+    "rapid-application-development",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627503926/icons/appsmith.png",
+  "website": "https://www.appsmith.com/",
+  "docsUrl": "https://docs.appsmith.com"
+}

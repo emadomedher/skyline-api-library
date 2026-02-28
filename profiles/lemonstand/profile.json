@@ -1,0 +1,13 @@
+{
+  "id": "lemonstand",
+  "title": "LemonStand",
+  "subtitle": "A refreshingly customizable eCommerce platform. LemonStand helps web developers, agencies and fast growing brands cre...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305294/catalog/lemonstand/icon128x128.png",
+  "website": "https://lemonstand.com/"
+}

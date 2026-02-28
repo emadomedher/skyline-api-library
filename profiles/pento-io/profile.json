@@ -1,0 +1,13 @@
+{
+  "id": "pento-io",
+  "title": "Pento",
+  "subtitle": "Pento is the smart alternative to payroll outsourcing for modern UK businesses. ✅ Forget spreadsheets and pay your em...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635821100/icons/pento-io.jpg",
+  "website": "https://www.pento.io/"
+}

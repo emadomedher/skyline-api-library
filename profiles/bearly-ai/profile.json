@@ -1,0 +1,13 @@
+{
+  "id": "bearly-ai",
+  "title": "Bearly",
+  "subtitle": "Read, write, and learn faster with the world best Ai accessible with a hotkey directly on your desktop. Available for...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679522019/icons/bearly-ai.jpg",
+  "website": "https://bearly.ai/"
+}

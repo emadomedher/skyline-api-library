@@ -1,0 +1,14 @@
+{
+  "id": "higherme",
+  "title": "HigherMe",
+  "subtitle": "HigherMe API integration",
+  "tags": [
+    "restech",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578917424/catalog/higherme/icon128x128.jpg",
+  "website": "https://higherme.com/"
+}

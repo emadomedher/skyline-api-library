@@ -1,0 +1,13 @@
+{
+  "id": "insurello-se",
+  "title": "Insurello",
+  "subtitle": "Vi hittar alla möjligheter du har till försäkringsersättning. Vi driver ditt ärende gratis och tar endast en avgift o...",
+  "tags": [
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593186848/icons/insurello-se.jpg",
+  "website": "https://insurello.se/"
+}

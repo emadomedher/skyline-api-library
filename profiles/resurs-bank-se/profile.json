@@ -1,0 +1,13 @@
+{
+  "id": "resurs-bank-se",
+  "title": "Resurs Bank",
+  "subtitle": "Resurs Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593623609/icons/resurs-bank-se.png",
+  "website": "https://www.resursbank.se/"
+}

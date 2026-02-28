@@ -1,0 +1,12 @@
+{
+  "id": "outlook-tasks",
+  "title": "Outlook Tasks",
+  "subtitle": "Outlook Tasks service lets you create, read, synchronize, update and delete your tasks that are secured by Azure Acti...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264854/catalog/outlook-tasks/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "curity-io",
+  "title": "Curity",
+  "subtitle": "Manage user identities with minimal coding from your team. The Curity Identity Server makes it easy to stay in contro...",
+  "tags": [
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572111988/catalog/curity-io/icon128x128.png",
+  "website": "https://curity.io/",
+  "docsUrl": "https://developer.curity.io"
+}

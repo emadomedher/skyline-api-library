@@ -1,0 +1,14 @@
+{
+  "id": "opensuse-org",
+  "title": "openSUSE",
+  "subtitle": "Discover Tumbleweed and get the newest Linux packages with our rolling release. Fast! Integrated! Stabilized! Tested!...",
+  "tags": [
+    "operating-systems",
+    "linux"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582529412/catalog/opensuse-org/icon128x128.jpg",
+  "website": "https://www.opensuse.org/"
+}

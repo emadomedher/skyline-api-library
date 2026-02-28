@@ -1,0 +1,13 @@
+{
+  "id": "comerica",
+  "title": "Comerica Bank",
+  "subtitle": "Comerica Incorporated (NYSE: CMA) is a financial services company headquartered in Dallas, Texas, and strategically a...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618948354/icons/comerica.webp",
+  "website": "https://www.comerica.com/"
+}

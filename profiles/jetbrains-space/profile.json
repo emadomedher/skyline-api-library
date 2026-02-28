@@ -1,0 +1,15 @@
+{
+  "id": "jetbrains-space",
+  "title": "JetBrains Space",
+  "subtitle": "An all-in-one collaboration solution that provides a toolset for instant communication, software development, and tea...",
+  "tags": [
+    "project-management",
+    "team-messaging"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608005298/icons/jetbrains-space.png",
+  "website": "https://www.jetbrains.com/space/",
+  "docsUrl": "https://www.jetbrains.com/community/dev-recognition"
+}

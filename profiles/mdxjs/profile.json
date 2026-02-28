@@ -1,0 +1,16 @@
+{
+  "id": "mdxjs",
+  "title": "MDX",
+  "subtitle": "MDX Markdown for the component era MDX is an authorable format that lets you seamlessly write JSX in your Markdown\ndo...",
+  "tags": [
+    "markdown",
+    "javascript",
+    "jamstack",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594345164/icons/mdxjs.jpg",
+  "website": "https://mdxjs.com/"
+}

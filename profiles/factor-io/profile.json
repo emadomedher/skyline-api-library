@@ -1,0 +1,14 @@
+{
+  "id": "factor-io",
+  "title": "Factor.io",
+  "subtitle": "Move from design to finished goods with ease — and keep your supply chain improving every day.",
+  "tags": [
+    "order-tracking",
+    "manufacturing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643226838/icons/factor-io.png",
+  "website": "https://www.factor.io/"
+}

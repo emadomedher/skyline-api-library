@@ -1,0 +1,14 @@
+{
+  "id": "demandcurve",
+  "title": "Demand Curve",
+  "subtitle": "Demand Curve is a modern growth training program. We help companies apply the same strategies and tactics as the worl...",
+  "tags": [
+    "marketing-courses",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581613387/catalog/demandcurve/icon128x128.png",
+  "website": "https://www.demandcurve.com/"
+}

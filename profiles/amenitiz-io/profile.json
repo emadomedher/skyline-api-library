@@ -1,0 +1,13 @@
+{
+  "id": "amenitiz-io",
+  "title": "Amenitiz",
+  "subtitle": "Amenitiz is an all-in-one solutions including a website builder, an intuitive property management system, a native bo...",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723392/icons/amenitiz-io.png",
+  "website": "https://www.amenitiz.io/"
+}

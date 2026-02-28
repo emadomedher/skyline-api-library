@@ -1,0 +1,13 @@
+{
+  "id": "talentfinder-be",
+  "title": "Talentfinder",
+  "subtitle": "Talentfinder is an online recruitment software developed by recruiters, for recruiters to help companies managing the...",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577682175/catalog/talentfinder-be/icon128x128.jpg",
+  "website": "https://www.talentfinder.be/"
+}

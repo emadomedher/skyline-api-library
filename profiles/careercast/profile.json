@@ -1,0 +1,13 @@
+{
+  "id": "careercast",
+  "title": "CareerCast",
+  "subtitle": "CareerCast helps job seekers find a job, create a resume, get email job alerts, read career news and best job ranking...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805175/icons/careercast.jpg",
+  "website": "https://www.careercast.com/"
+}

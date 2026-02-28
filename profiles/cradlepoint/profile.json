@@ -1,0 +1,16 @@
+{
+  "id": "cradlepoint",
+  "title": "Cradlepoint",
+  "subtitle": "Cradlepoint API integration",
+  "tags": [
+    "wifi",
+    "hardware",
+    "networks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570207405/catalog/cradlepoint/icon128x128.png",
+  "website": "https://cradlepoint.com/",
+  "docsUrl": "https://dev.cradlepoint.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "momentfeed",
+  "title": "MomentFeed",
+  "subtitle": "MomentFeed API integration",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435952/catalog/momentfeed/icon128x128.png",
+  "website": "https://momentfeed.com"
+}

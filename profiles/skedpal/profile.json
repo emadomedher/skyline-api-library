@@ -1,0 +1,12 @@
+{
+  "id": "skedpal",
+  "title": "SkedPal",
+  "subtitle": "SkedPal is a smart calendar app that schedules your to-do's based on your commitments and preferences.",
+  "tags": [
+    "to-do-lists"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306112/catalog/skedpal/icon128x128.jpg"
+}

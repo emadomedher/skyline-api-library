@@ -1,0 +1,12 @@
+{
+  "id": "zapier-app-status",
+  "title": "App Status by Zapier",
+  "subtitle": "Get notifications when Apps with Zapier integrations experience downtime or other incidents.",
+  "tags": [
+    "zapier"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546849138/catalog/zapier-app-status/icon128x128.png"
+}

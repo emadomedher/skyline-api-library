@@ -1,0 +1,14 @@
+{
+  "id": "banco-santander",
+  "title": "Santander",
+  "subtitle": "Santander API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581324403/catalog/banco-santander/icon128x128.jpg",
+  "website": "https://www.santander.com/csgs/Satellite/CFWCSancomQP01/es_ES/Corporativo.html?leng=en_GB",
+  "docsUrl": "https://developer.santander.co.uk/sanuk/external"
+}

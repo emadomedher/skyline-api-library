@@ -1,0 +1,13 @@
+{
+  "id": "turtl",
+  "title": "Turtl",
+  "subtitle": "Create modern content experiences that engage and convert your audience with Turt's end-to-end content marketing plat...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827882/catalog/turtl/icon128x128.png",
+  "website": "https://turtl.co"
+}

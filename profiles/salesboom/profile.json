@@ -1,0 +1,13 @@
+{
+  "id": "salesboom",
+  "title": "Salesboom",
+  "subtitle": "Salesboom API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721911/catalog/salesboom/icon128x128.png",
+  "website": "https://salesboom.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zanroo",
+  "title": "Zanroo",
+  "subtitle": "Zanroo Search - Capture online conversations about your company, be it specific keywords, phrases or brands.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722980/catalog/zanroo/icon128x128.png",
+  "website": "https://zanroo.com"
+}

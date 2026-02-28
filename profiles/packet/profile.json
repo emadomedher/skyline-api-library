@@ -1,0 +1,15 @@
+{
+  "id": "packet",
+  "title": "Packet",
+  "subtitle": "Packet empowers developer-driven companies to deploy bare metal infrastructure at global scale with cloud, on-premise...",
+  "tags": [
+    "cloud-computing-infrastructure",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572827468/catalog/packet/icon128x128.png",
+  "website": "https://www.packet.com/",
+  "docsUrl": "https://www.packet.com/developers"
+}

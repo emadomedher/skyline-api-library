@@ -1,0 +1,13 @@
+{
+  "id": "wheel",
+  "title": "Wheel",
+  "subtitle": "Wheel is changing the way healthcare works with the leading virtual care infrastructure for companies and the best wo...",
+  "tags": [
+    "healthcare"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215660/icons/wheel.jpg",
+  "website": "https://www.wheel.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "freshworks",
+  "title": "Freshworks",
+  "subtitle": "Feature packed product suite for businesses of all sizes. Refreshing cloud software your teams will love. Support | S...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720166/catalog/freshworks/icon128x128.jpg",
+  "website": "https://freshworks.com"
+}

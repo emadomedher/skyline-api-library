@@ -1,0 +1,14 @@
+{
+  "id": "spreadsimple",
+  "title": "SpreadSimple",
+  "subtitle": "SpreadSimple uses the data in your Google spreadsheet to create styled websites with a variety of customizable featur...",
+  "tags": [
+    "websites",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612341781/icons/spreadsimple.jpg",
+  "website": "https://spreadsimple.com/"
+}

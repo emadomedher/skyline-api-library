@@ -1,0 +1,13 @@
+{
+  "id": "42-technologies",
+  "title": "42 Technologies",
+  "subtitle": "42 is a modern business intelligence platform built for omnichannel retailers.",
+  "tags": [
+    "customer-intelligence-and-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432669/catalog/42-technologies/icon128x128.png",
+  "website": "https://42technologies.com"
+}

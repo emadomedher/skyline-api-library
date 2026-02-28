@@ -1,0 +1,13 @@
+{
+  "id": "koalia",
+  "title": "Koalia",
+  "subtitle": "Con la app Koalia encontras las mejores promociones y descuentos de Argentina. Suma dinero con todas tus compras!",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946880/catalog/koalia/icon128x128.jpg",
+  "website": "https://redkoalia.com"
+}

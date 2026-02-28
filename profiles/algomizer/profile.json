@@ -1,0 +1,13 @@
+{
+  "id": "algomizer",
+  "title": "Algomizer",
+  "subtitle": "Algomizer is an Internet Technology company that specializes in developing online marketing tools for SMB's",
+  "tags": [
+    "search-and-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432918/catalog/algomizer/icon128x128.png",
+  "website": "https://algomizer.com"
+}

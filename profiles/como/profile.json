@@ -1,0 +1,13 @@
+{
+  "id": "como",
+  "title": "Como",
+  "subtitle": "Como API integration",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947200/catalog/como/icon128x128.jpg",
+  "website": "https://como.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sonarcloud-io",
+  "title": "SonarSource",
+  "subtitle": "Enhance your workflow with continuous code quality, SonarCloud automatically analyzes and decorates pull requests on ...",
+  "tags": [
+    "code-quality"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615490849/icons/sonarcloud-io.jpg",
+  "website": "https://sonarcloud.io/",
+  "docsUrl": "https://sonarcloud.io/documentation"
+}

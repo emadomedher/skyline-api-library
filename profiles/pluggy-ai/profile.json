@@ -1,0 +1,13 @@
+{
+  "id": "pluggy-ai",
+  "title": "Pluggy",
+  "subtitle": "Pluggy provides you easy access to your users' financial data. We are a developer first fintech that makes Open Finan...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633394824/icons/pluggy-ai.jpg",
+  "website": "https://pluggy.ai/"
+}

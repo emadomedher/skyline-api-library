@@ -1,0 +1,13 @@
+{
+  "id": "re-cap",
+  "title": "re",
+  "subtitle": "re:cap enables companies in the subscription economy to trade future revenues for on-demand, non-dilutive capital. Fa...",
+  "tags": [
+    "revenue-financing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975832/icons/re-cap.jpg",
+  "website": "https://www.re-cap.com/"
+}

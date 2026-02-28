@@ -1,0 +1,14 @@
+{
+  "id": "mastercard-open-banking-connect",
+  "title": "Open Banking Connect",
+  "subtitle": "A universal connection to financial institutions’ APIs",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614175156/icons/mastercard-open-banking-connect.png",
+  "website": "https://openbanking.mastercard.com/connect/",
+  "docsUrl": "https://developer.mastercard.com/product/open-banking-connect"
+}

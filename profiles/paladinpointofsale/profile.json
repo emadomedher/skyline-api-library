@@ -1,0 +1,13 @@
+{
+  "id": "paladinpointofsale",
+  "title": "Paladin Point of Sale",
+  "subtitle": "Paladin point of sale is a powerfully simple POS system for hardware, pharmacy, and retail stores. Efficiently manage...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582675407/catalog/paladinpointofsale/icon128x128.png",
+  "website": "https://paladinpointofsale.com/"
+}

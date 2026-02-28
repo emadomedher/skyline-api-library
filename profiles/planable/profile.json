@@ -1,0 +1,13 @@
+{
+  "id": "planable",
+  "title": "Planable",
+  "subtitle": "Planable is the command center of social media campaigns trusted by agencies, freelancers, and marketing teams to cre...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721500/catalog/planable/icon128x128.jpg",
+  "website": "https://planable.io"
+}

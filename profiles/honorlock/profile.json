@@ -1,0 +1,13 @@
+{
+  "id": "honorlock",
+  "title": "Honorlock",
+  "subtitle": "Honorlock provides on-demand online proctoring services for schools and universities with no scheduling, headaches, o...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565364962/catalog/honorlock/icon128x128.jpg",
+  "website": "https://honorlock.com"
+}

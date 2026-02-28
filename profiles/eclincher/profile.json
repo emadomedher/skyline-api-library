@@ -1,0 +1,13 @@
+{
+  "id": "eclincher",
+  "title": "eClincher",
+  "subtitle": "Best social media management tool: social media posting & scheduling, publishing automation with queues & RSS feeds, ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947101/catalog/eclincher/icon128x128.jpg",
+  "website": "https://eclincher.com"
+}

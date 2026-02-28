@@ -1,0 +1,14 @@
+{
+  "id": "chift-eu",
+  "title": "Chift",
+  "subtitle": "Offer native integrations within your software. Your clients connect your software to their tools in one click. Conne...",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663543949/icons/chift-eu.png",
+  "website": "https://www.chift.eu/",
+  "docsUrl": "https://chift.stoplight.io/docs/chift-api"
+}

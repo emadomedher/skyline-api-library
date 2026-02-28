@@ -1,0 +1,14 @@
+{
+  "id": "timekit",
+  "title": "Timekit",
+  "subtitle": "Empower your customers to book your team and grow your business with automated scheduling.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539031/catalog/timekit/icon128x128.png",
+  "website": "https://timekit.io",
+  "docsUrl": "https://developers.timekit.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pipz",
+  "title": "Pipz",
+  "subtitle": "Acquire and convert leads, engage with customers and analyze everything along the process, all in the same place.",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721488/catalog/pipz/icon128x128.jpg",
+  "website": "https://pipz.com"
+}

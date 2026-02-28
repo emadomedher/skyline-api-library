@@ -1,0 +1,13 @@
+{
+  "id": "walkersands",
+  "title": "Walker Sands",
+  "subtitle": "Walker Sands is an award-winning B2B tech integrated marketing agency that executes comprehensive marketing strategie...",
+  "tags": [
+    "marketing-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614898469/icons/walkersands.png",
+  "website": "https://www.walkersands.com/"
+}

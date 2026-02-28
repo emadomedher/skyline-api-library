@@ -1,0 +1,14 @@
+{
+  "id": "audioeye",
+  "title": "AudioEye",
+  "subtitle": "AudioEye API integration",
+  "tags": [
+    "audio",
+    "web-accessibility"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582062013/catalog/audioeye/icon128x128.jpg",
+  "website": "https://www.audioeye.com/"
+}

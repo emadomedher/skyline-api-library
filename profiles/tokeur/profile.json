@@ -1,0 +1,13 @@
+{
+  "id": "tokeur",
+  "title": "Tokeur",
+  "subtitle": "Tokeur Wallet: Bridge between Crypto and fiat thanks to PSD2",
+  "tags": [
+    "crypto-wallets"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584563654/catalog/tokeur/icon128x128.png",
+  "website": "https://demo.tokeur.com/"
+}

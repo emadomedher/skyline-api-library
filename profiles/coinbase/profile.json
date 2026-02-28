@@ -1,0 +1,14 @@
+{
+  "id": "coinbase",
+  "title": "Coinbase",
+  "subtitle": "Coinbase is a secure platform that makes it easy to buy, sell, and store cryptocurrency like Bitcoin, Ethereum, and m...",
+  "tags": [
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572574657/catalog/coinbase/icon128x128.png",
+  "website": "https://www.coinbase.com/",
+  "docsUrl": "https://developers.coinbase.com"
+}

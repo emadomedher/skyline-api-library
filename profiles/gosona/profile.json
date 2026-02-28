@@ -1,0 +1,12 @@
+{
+  "id": "gosona",
+  "title": "Sona",
+  "subtitle": "Sona API integration",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574204046/catalog/gosona/icon128x128.png"
+}

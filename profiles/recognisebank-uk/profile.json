@@ -1,0 +1,13 @@
+{
+  "id": "recognisebank-uk",
+  "title": "Recognise Bank",
+  "subtitle": "Recognise Bank is a provider of Banking services to UK's Small and Medium sized Enterprises (SMEs).",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723368/icons/recognisebank-uk.jpg",
+  "website": "https://www.recognisebank.co.uk/"
+}

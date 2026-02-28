@@ -1,0 +1,13 @@
+{
+  "id": "inwise",
+  "title": "inwise",
+  "subtitle": "inwise is a platform for email marketing & mobile marketing, landing pages and transactional messaging. Since 2002 we...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305201/catalog/inwise/icon128x128.png",
+  "website": "https://inwise.com"
+}

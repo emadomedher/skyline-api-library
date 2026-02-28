@@ -1,0 +1,13 @@
+{
+  "id": "smartaction",
+  "title": "SmartAction",
+  "subtitle": "SmartAction’s top-rated virtual agents for call centers use conversational AI to automate routine calls, chats, & tex...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946575/catalog/smartaction/icon128x128.jpg",
+  "website": "https://smartaction.com"
+}

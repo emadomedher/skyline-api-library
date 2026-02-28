@@ -1,0 +1,12 @@
+{
+  "id": "dossier-manager",
+  "title": "Dossier Manager",
+  "subtitle": "Dossier Manager van MediSoft maakt het leven van de HR specialist een stuk eenvoudiger. De online oplossing registree...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256921/catalog/dossier-manager/icon128x128.png"
+}

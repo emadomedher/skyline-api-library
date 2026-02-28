@@ -1,0 +1,13 @@
+{
+  "id": "eventsair",
+  "title": "EventsAIR",
+  "subtitle": "EventsAIR Empowers Event Leaders to Create Amazing Experiences. Events professionals around the globe use our event m...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947052/catalog/eventsair/icon128x128.jpg",
+  "website": "https://eventsair.com"
+}

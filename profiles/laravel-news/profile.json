@@ -1,0 +1,14 @@
+{
+  "id": "laravel-news",
+  "title": "Laravel News",
+  "subtitle": "Laravel News is the official blog of Laravel. Every day bringing you the latest news, tutorials, and packages for the...",
+  "tags": [
+    "laravel",
+    "news"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572617488/catalog/laravel-news/icon128x128.jpg",
+  "website": "https://laravel-news.com/"
+}

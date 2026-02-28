@@ -1,0 +1,13 @@
+{
+  "id": "nectardesk",
+  "title": "NectarDesk",
+  "subtitle": "Best call center software for your business. Use Nectar Desk and integrate with your CRM to automatically create cont...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721222/catalog/nectardesk/icon128x128.png",
+  "website": "https://nectardesk.com"
+}

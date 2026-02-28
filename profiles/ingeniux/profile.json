@@ -1,0 +1,13 @@
+{
+  "id": "ingeniux",
+  "title": "Ingeniux",
+  "subtitle": "Ingeniux provides Web Experience Management and collaboration software for connected customer experiences. 100% ASP.N...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826620/catalog/ingeniux/icon128x128.jpg",
+  "website": "https://ingeniux.com"
+}

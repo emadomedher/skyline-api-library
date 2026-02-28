@@ -1,0 +1,14 @@
+{
+  "id": "trip",
+  "title": "Trip.com",
+  "subtitle": "Er zijn meer dan 1.200.000 hotels in meer dan 200 landen en er zijn 30 miljoen recensies van echte gasten. Boek voord...",
+  "tags": [
+    "ota",
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612642010/icons/trip.jpg",
+  "website": "https://trip.com/"
+}

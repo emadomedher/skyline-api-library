@@ -1,0 +1,15 @@
+{
+  "id": "fenergo",
+  "title": "Fenergo",
+  "subtitle": "Fenergo has once again been selected as the category leader for CLM and KYC by Chartis Research following a rigorous ...",
+  "tags": [
+    "fintech",
+    "compliance"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581561922/catalog/fenergo/icon128x128.jpg",
+  "website": "https://www.fenergo.com/",
+  "docsUrl": "https://go.fenergo.com/preference-center.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "deepswap-ai",
+  "title": "DeepSwap",
+  "subtitle": "Deepswap is an AI face swap online app. Upload, swap and get 100% real-look face swap video, gender swap photo, faces...",
+  "tags": [
+    "deep-swapping"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568759/icons/deepswap-ai.jpg",
+  "website": "https://www.deepswap.ai/"
+}

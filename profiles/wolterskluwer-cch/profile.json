@@ -1,0 +1,13 @@
+{
+  "id": "wolterskluwer-cch",
+  "title": "CCH Practice Management software",
+  "subtitle": "CCH Practice Management software API integration",
+  "tags": [
+    "accounting-practice-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577147358/catalog/wolterskluwer-cch/icon128x128.png",
+  "website": "https://www.wolterskluwer.co.uk/software/accounting-practice-management-software/"
+}

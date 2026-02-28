@@ -1,0 +1,13 @@
+{
+  "id": "microsoft-project",
+  "title": "Microsoft Project",
+  "subtitle": "Easily plan projects and collaborate from virtually anywhere with the right tools for project managers, project teams...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575238890/catalog/microsoft-project/icon128x128.png",
+  "website": "https://products.office.com/project/project-management-software"
+}

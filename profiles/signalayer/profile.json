@@ -1,0 +1,13 @@
+{
+  "id": "signalayer",
+  "title": "Signalayer",
+  "subtitle": "We help marketers create engaging, personalized, interactive marketing experiences on the Web.",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598713723/icons/signalayer.jpg",
+  "website": "https://signalayer.com/"
+}

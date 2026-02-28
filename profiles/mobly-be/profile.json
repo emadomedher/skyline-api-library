@@ -1,0 +1,14 @@
+{
+  "id": "mobly-be",
+  "title": "Mobly",
+  "subtitle": "Verbeter je mobiliteit, vertrek slimmer op weg. Met pechverhelping in een app, een gratis autorapport en een onafhank...",
+  "tags": [
+    "mobility",
+    "insurtech"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608488620/icons/mobly-be.jpg",
+  "website": "https://mobly.be/"
+}

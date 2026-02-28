@@ -1,0 +1,15 @@
+{
+  "id": "accountscore",
+  "title": "AccountScore",
+  "subtitle": "AccountScore API integration",
+  "tags": [
+    "bank-transaction-data",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572473902/catalog/accountscore/icon128x128.jpg",
+  "website": "https://www.accountscore.com/",
+  "docsUrl": "https://www.accountscore.com/api"
+}

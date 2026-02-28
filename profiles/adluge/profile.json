@@ -1,0 +1,13 @@
+{
+  "id": "adluge",
+  "title": "Adluge",
+  "subtitle": "AdLuge is a SaaS CRM software that helps agencies save time on reporting while allowing their clients real-time acces...",
+  "tags": [
+    "marketing-automation-and-campaignlead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717158/catalog/adluge/icon128x128.jpg",
+  "website": "https://adluge.com"
+}

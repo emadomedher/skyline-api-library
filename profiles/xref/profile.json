@@ -1,0 +1,15 @@
+{
+  "id": "xref",
+  "title": "Xref",
+  "subtitle": "Online reference checking software that reduces time-to-hire for businesses across the globe.",
+  "tags": [
+    "reference-checks",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793899/icons/xref.png",
+  "website": "https://www.xref.com/",
+  "docsUrl": "https://www.xref.com/platform/reference-checking"
+}

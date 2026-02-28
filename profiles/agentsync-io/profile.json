@@ -1,0 +1,14 @@
+{
+  "id": "agentsync-io",
+  "title": "AgentSync",
+  "subtitle": "AgentSync automatically enforces state producer licensing and appointment regulatory requirements. Try our insurance ...",
+  "tags": [
+    "insurance-compliance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640050243/icons/agentsync-io.jpg",
+  "website": "https://agentsync.io/",
+  "docsUrl": "https://agentsync.io/privacy-notice#6"
+}

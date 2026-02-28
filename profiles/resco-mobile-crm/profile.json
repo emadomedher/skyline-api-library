@@ -1,0 +1,13 @@
+{
+  "id": "resco-mobile-crm",
+  "title": "Resco Mobile CRM",
+  "subtitle": "Resco helps you to mobilize your business with highly customizable solutions for MS Dynamics 365, Salesforce & more. ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721824/catalog/resco-mobile-crm/icon128x128.png",
+  "website": "https://resco.net"
+}

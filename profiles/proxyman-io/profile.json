@@ -1,0 +1,14 @@
+{
+  "id": "proxyman-io",
+  "title": "Proxyman",
+  "subtitle": "Proxyman • Modern & Native Web Debugging Proxy. Proxyman is a native, high-performance macOS app, which enables devel...",
+  "tags": [
+    "web-debugging-proxy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628624934/icons/proxyman-io.jpg",
+  "website": "https://proxyman.io/",
+  "docsUrl": "https://docs.proxyman.io"
+}

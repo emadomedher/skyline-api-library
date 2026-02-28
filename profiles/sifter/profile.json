@@ -1,0 +1,12 @@
+{
+  "id": "sifter",
+  "title": "Sifter",
+  "subtitle": "Sifter is a simple hosted bug and issue tracker. ",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306077/catalog/sifter/icon128x128.png"
+}

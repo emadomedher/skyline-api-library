@@ -1,0 +1,13 @@
+{
+  "id": "backstop-solutions-group",
+  "title": "Backstop Solutions Group",
+  "subtitle": "Backstop Solutions Group provides CRM software suites for investment managers, portfolio managers, hedge funds, funds...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556774848/catalog/backstop-solutions-group/icon128x128.jpg",
+  "website": "https://backstopsolutions.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mparticle",
+  "title": "mParticle",
+  "subtitle": "mParticle’s customer data platform integrates all of your data and orchestrates it across channels, partners, and sys...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721215/catalog/mparticle/icon128x128.jpg",
+  "website": "https://mparticle.com",
+  "docsUrl": "https://www.mparticle.com/solutions/developers"
+}

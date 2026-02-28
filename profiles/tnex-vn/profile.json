@@ -1,0 +1,13 @@
+{
+  "id": "tnex-vn",
+  "title": "TNEX",
+  "subtitle": "TNEX, is a digital bank created by Maritime Bank (MSB)",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597482058/icons/tnex-vn.jpg",
+  "website": "https://tnex.com.vn/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "go2amelia",
+  "title": "Amelia",
+  "subtitle": "Amelia, the intelligent cognitive conversational chatbot (AI) as part of your service desk with a seamless integratio...",
+  "tags": [
+    "chat-bots",
+    "virtual-agents"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582273469/catalog/go2amelia/icon128x128.png",
+  "website": "https://www.go2amelia.com/"
+}

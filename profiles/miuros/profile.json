@@ -1,0 +1,13 @@
+{
+  "id": "miuros",
+  "title": "Miuros",
+  "subtitle": "The All-In-One Suite for Customer Service Data Analysis! Get the best out of your Customer Service Team and build a s...",
+  "tags": [
+    "customer-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634006423/icons/miuros.jpg",
+  "website": "https://miuros.com/"
+}

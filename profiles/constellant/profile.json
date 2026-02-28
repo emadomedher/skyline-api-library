@@ -1,0 +1,14 @@
+{
+  "id": "constellant",
+  "title": "Constellant",
+  "subtitle": "Constellant API integration",
+  "tags": [
+    "channel-ecosystem-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595902853/icons/constellant.png",
+  "website": "https://constellant.com",
+  "docsUrl": "https://constellant.com/site/global/what_is_emaas/developer_ecosystem"
+}

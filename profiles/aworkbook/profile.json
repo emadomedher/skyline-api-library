@@ -1,0 +1,13 @@
+{
+  "id": "aworkbook",
+  "title": "aWorkbook",
+  "subtitle": "The aWorkbook B2B E-Catalogue and Sales App supports the launch and sale of products to B2B customers in the wholesal...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825846/catalog/aworkbook/icon128x128.jpg",
+  "website": "https://aworkbook.com"
+}

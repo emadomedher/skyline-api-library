@@ -1,0 +1,13 @@
+{
+  "id": "quickchat-ai",
+  "title": "Quickchat",
+  "subtitle": "Quickchat automates processes such as sales, customer support, onboarding or online booking.",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610797940/icons/quickchat-ai.jpg",
+  "website": "https://www.quickchat.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mimeeq",
+  "title": "Mimeeq",
+  "subtitle": "Mimeeq's 3D respiratory is a state of the art CMS to build your online digital offer. Increase conversion by 30% and ...",
+  "tags": [
+    "product-configurator"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672254736/icons/mimeeq.jpg",
+  "website": "https://mimeeq.com/"
+}

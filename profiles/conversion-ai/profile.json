@@ -1,0 +1,13 @@
+{
+  "id": "conversion-ai",
+  "title": "Conversion.ai ",
+  "subtitle": "Conversion.ai makes it easy for anyone to generate high performing marketing content using advanced AI. Companies use...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619549326/icons/conversion-ai.jpg",
+  "website": "https://www.conversion.ai/"
+}

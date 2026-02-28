@@ -1,0 +1,15 @@
+{
+  "id": "adocka",
+  "title": "Adocka",
+  "subtitle": "\nAdocka är ett molnbaserat bemanningsystem som inkluderar allt från konsultportal och uppdrag till löner och fakturer...",
+  "tags": [
+    "erp",
+    "hris",
+    "recruiting"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691960733/icons/adocka.jpg",
+  "website": "https://www.adocka.com/"
+}

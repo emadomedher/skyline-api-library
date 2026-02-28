@@ -1,0 +1,15 @@
+{
+  "id": "klaviyo",
+  "title": "Klaviyo",
+  "subtitle": "Klaviyo is an email marketing platform created for online businesses — featuring powerful email and SMS marketing aut...",
+  "tags": [
+    "marketing",
+    "email-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305247/catalog/klaviyo/icon128x128.png",
+  "website": "https://klaviyo.com",
+  "docsUrl": "https://www.klaviyo.com/docs"
+}

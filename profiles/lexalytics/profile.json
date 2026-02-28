@@ -1,0 +1,13 @@
+{
+  "id": "lexalytics",
+  "title": "Lexalytics",
+  "subtitle": "Flexible natural language processing APIs and complete text analytics platform solutions for data analytics companies...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720816/catalog/lexalytics/icon128x128.png",
+  "website": "https://lexalytics.com"
+}

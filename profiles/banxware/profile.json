@@ -1,0 +1,13 @@
+{
+  "id": "banxware",
+  "title": "Banxware",
+  "subtitle": "Banxware provides the technology and the funds for business financing of any kind: fully embedded in your platform or...",
+  "tags": [
+    "lending-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642040899/icons/banxware.png",
+  "website": "https://www.banxware.com/"
+}

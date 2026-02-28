@@ -1,0 +1,14 @@
+{
+  "id": "lunchbox-io",
+  "title": "Lunchbox",
+  "subtitle": "We're a collection of modern and creative online ordering solutions for enterprise restaurant chains and ghost kitche...",
+  "tags": [
+    "restaurant-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645810137/icons/lunchbox-io.jpg",
+  "website": "https://lunchbox.io/",
+  "docsUrl": "https://support.lunchbox.io/hc/en-us"
+}

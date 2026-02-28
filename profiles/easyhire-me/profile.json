@@ -1,0 +1,14 @@
+{
+  "id": "easyhire-me",
+  "title": "EasyHire.me",
+  "subtitle": "EasyHire.me - an online video interview platform that helps you structure recruitment interviews using live video, AI...",
+  "tags": [
+    "video-interviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641943825/icons/easyhire-me.png",
+  "website": "https://easyhire.me/",
+  "docsUrl": "https://easyhire.freshdesk.com/support/home"
+}

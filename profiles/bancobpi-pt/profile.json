@@ -1,0 +1,13 @@
+{
+  "id": "bancobpi-pt",
+  "title": "Banco BPI",
+  "subtitle": "Banco Português de Investimento is a major privately owned bank in Portugal owned by Spanish bank Caixabank.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591439769/icons/bancobpi-pt.jpg",
+  "website": "https://www.bancobpi.pt/"
+}

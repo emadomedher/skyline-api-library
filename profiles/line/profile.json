@@ -1,0 +1,13 @@
+{
+  "id": "line",
+  "title": "LINE",
+  "subtitle": "LINE is a new communication app which allows you to make FREE voice calls and send FREE messages whenever and whereve...",
+  "tags": [
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561048368/catalog/line/icon128x128.png",
+  "website": "https://line.me"
+}

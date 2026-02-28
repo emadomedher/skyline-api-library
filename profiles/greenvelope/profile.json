@@ -1,0 +1,13 @@
+{
+  "id": "greenvelope",
+  "title": "Greenvelope",
+  "subtitle": "Online Invitations that open with a personalized envelope in your guest's email!",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720285/catalog/greenvelope/icon128x128.png",
+  "website": "https://greenvelope.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nethunt-crm",
+  "title": "NetHunt CRM",
+  "subtitle": "NetHunt is a Gmail CRM that brings sales automation and drip campaigns straight to your inbox. Start your free trial ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305499/catalog/nethunt-crm/icon128x128.png",
+  "website": "https://nethunt.com/"
+}

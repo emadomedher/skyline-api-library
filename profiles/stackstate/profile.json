@@ -1,0 +1,16 @@
+{
+  "id": "stackstate",
+  "title": "StackState",
+  "subtitle": "StackState AIOps vendor: Accelerate IT Operations by breaking down silos across teams and tools. Increase productivit...",
+  "tags": [
+    "devops",
+    "monitoring",
+    "aiops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575925946/catalog/stackstate/icon128x128.jpg",
+  "website": "https://www.stackstate.com/",
+  "docsUrl": "https://docs.stackstate.com"
+}

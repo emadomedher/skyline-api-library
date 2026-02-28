@@ -1,0 +1,13 @@
+{
+  "id": "pollsnack",
+  "title": "Pollsnack",
+  "subtitle": "Pollsnack API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721545/catalog/pollsnack/icon128x128.png",
+  "website": "https://pollsnack.com"
+}

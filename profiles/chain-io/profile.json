@@ -1,0 +1,14 @@
+{
+  "id": "chain-io",
+  "title": "Chain.io",
+  "subtitle": "Supply chain & logistics API and EDI integration platform. Connect to \ntrading partners faster.",
+  "tags": [
+    "logistics",
+    "edi"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599635089/icons/chain-io.jpg",
+  "website": "https://www.chain.io/"
+}

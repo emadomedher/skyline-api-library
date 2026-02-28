@@ -1,0 +1,14 @@
+{
+  "id": "sundae",
+  "title": "Sundae",
+  "subtitle": "Sell your house as is. Pay zero fees. Move on your timeline. No repairs, cleaning, or showings.",
+  "tags": [
+    "home-selling",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638231410/icons/sundae.jpg",
+  "website": "https://sundae.com/"
+}

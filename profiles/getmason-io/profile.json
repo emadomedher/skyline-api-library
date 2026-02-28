@@ -1,0 +1,14 @@
+{
+  "id": "getmason-io",
+  "title": "Mason",
+  "subtitle": "With Mason, you can launch custom growth apps in minutes. It’s a headless platform that brings design, data, and chan...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635821544/icons/getmason-io.png",
+  "website": "https://getmason.io/",
+  "docsUrl": "https://www.getmason.dev"
+}

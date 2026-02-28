@@ -1,0 +1,13 @@
+{
+  "id": "useframework",
+  "title": "Framework",
+  "subtitle": "The world’s first on-demand business school, designed exclusively for startupland. Join the waitlist.",
+  "tags": [
+    "courses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653634085/icons/useframework.png",
+  "website": "https://useframework.com/"
+}

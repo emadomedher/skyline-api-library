@@ -1,0 +1,13 @@
+{
+  "id": "lambdatest",
+  "title": "LambdaTest",
+  "subtitle": "Perform manual or automated cross browser testing on 2000+ browsers online. Deploy and scale faster with the most pow...",
+  "tags": [
+    "browser-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597793418/icons/lambdatest.jpg",
+  "website": "https://www.lambdatest.com/"
+}

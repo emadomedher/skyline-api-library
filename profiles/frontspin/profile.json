@@ -1,0 +1,14 @@
+{
+  "id": "frontspin",
+  "title": "FrontSpin",
+  "subtitle": "FrontSpin is a cloud-based sales communication tool that helps you reach up to 3x more prospects and close more deals...",
+  "tags": [
+    "sales-communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600227770/icons/frontspin.jpg",
+  "website": "https://www.frontspin.com/",
+  "docsUrl": "https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "deepsee-ai",
+  "title": "Deepsee",
+  "subtitle": "Gain actionable insight from unstructured data—using your existing tools and infrastructure—with DeepSee’s BusinessAI...",
+  "tags": [
+    "process-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615921343/icons/deepsee-ai.png",
+  "website": "https://deepsee.ai/"
+}

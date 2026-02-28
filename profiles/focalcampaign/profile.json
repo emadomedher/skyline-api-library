@@ -1,0 +1,13 @@
+{
+  "id": "focalcampaign",
+  "title": "FocalCampaign",
+  "subtitle": "FocalCampaign API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389302/catalog/focalcampaign/icon128x128.png",
+  "website": "https://focalcampaign.com"
+}

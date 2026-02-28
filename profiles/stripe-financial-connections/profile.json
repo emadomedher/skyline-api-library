@@ -1,0 +1,14 @@
+{
+  "id": "stripe-financial-connections",
+  "title": "Stripe Financial Connections",
+  "subtitle": "Stripe Financial Connections lets your users securely share their financial data so you can streamline payments, redu...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652055272/icons/stripe-financial-connections.svg",
+  "website": "https://stripe.com/en-gb-be/financial-connections",
+  "docsUrl": "https://stripe.com/docs/api/financial_connections"
+}

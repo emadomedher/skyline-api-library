@@ -1,0 +1,13 @@
+{
+  "id": "windows-server",
+  "title": "Microsoft",
+  "subtitle": "Increase security, evolve your datacenter, and innovate faster with Microsoft Windows Server, the cloud-ready operati...",
+  "tags": [
+    "server-operating-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618353208/icons/windows-server.jpg",
+  "website": "https://www.microsoft.com/en-us/windows-server"
+}

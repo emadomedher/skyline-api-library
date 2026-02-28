@@ -1,0 +1,14 @@
+{
+  "id": "google-cardboard",
+  "title": "Google Cardboard",
+  "subtitle": "Google Cardboard API integration",
+  "tags": [
+    "vr",
+    "ar"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595809075/icons/google-cardboard.jpg",
+  "website": "https://arvr.google.com/cardboard/"
+}

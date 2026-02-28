@@ -1,0 +1,14 @@
+{
+  "id": "stickermule",
+  "title": "Sticker Mule",
+  "subtitle": "Thousands of people trust us to make kick ass stickers, labels, magnets & more. Get free proofs, free shipping, 4 day...",
+  "tags": [
+    "stickers",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581629819/catalog/stickermule/icon128x128.jpg",
+  "website": "https://www.stickermule.com/"
+}

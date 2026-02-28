@@ -1,0 +1,12 @@
+{
+  "id": "arthur",
+  "title": "Arthur",
+  "subtitle": "Arthur is a property management solution like no other. It brings together in one place property managers, tenants, c...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304421/catalog/arthur/icon128x128.png"
+}

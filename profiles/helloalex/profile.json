@@ -1,0 +1,12 @@
+{
+  "id": "helloalex",
+  "title": "HelloAlex",
+  "subtitle": "HelloAlex is a platform for real estate agents to trigger omni-channel lead qualification to increase conversions.",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284532/catalog/helloalex/icon128x128.png"
+}

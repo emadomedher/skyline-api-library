@@ -1,0 +1,12 @@
+{
+  "id": "facturadirecta",
+  "title": "FacturaDirecta",
+  "subtitle": "FacturaDirecta is an easy accounting software for small business and freelancers.",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304897/catalog/facturadirecta/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "godaddy",
+  "title": "GoDaddy",
+  "subtitle": "GoDaddy biedt hosting, domeinnaam registreren, websites en meer – allemaal tegen betaalbare prijzen. Ontdek waarom zo...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946958/catalog/godaddy/icon128x128.png",
+  "website": "https://godaddy.com"
+}

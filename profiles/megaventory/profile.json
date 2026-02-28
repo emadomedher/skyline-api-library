@@ -1,0 +1,13 @@
+{
+  "id": "megaventory",
+  "title": "Megaventory",
+  "subtitle": "A powerful business ERP software. Inventory and Order Management. Light Manufacturing Management.  Reporting.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305416/catalog/megaventory/icon128x128.png",
+  "website": "https://www.megaventory.com/"
+}

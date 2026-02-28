@@ -1,0 +1,14 @@
+{
+  "id": "sage-payroll",
+  "title": "Sage Payroll",
+  "subtitle": "Sage Business Cloud Payroll makes paying staff and staying compliant easy.",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1665485109/icons/sage-payroll.png",
+  "website": "https://www.sage.com/en-gb/sage-business-cloud/payroll/",
+  "docsUrl": "https://developer.sage.com/api/payroll/"
+}

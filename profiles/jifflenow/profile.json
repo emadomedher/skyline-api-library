@@ -1,0 +1,13 @@
+{
+  "id": "jifflenow",
+  "title": "Jifflenow",
+  "subtitle": "The world's #1 Meeting Automation Platform. Automate the scheduling, management, and analysis of B2B meetings at even...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826694/catalog/jifflenow/icon128x128.png",
+  "website": "https://jifflenow.com"
+}

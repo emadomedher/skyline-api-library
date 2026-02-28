@@ -1,0 +1,14 @@
+{
+  "id": "iset-br",
+  "title": "ISET",
+  "subtitle": "Tenha uma Plataforma de E-commerce para Montar ou Criar Loja Virtual com centenas de recursos, integração com Marketp...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642620011/icons/iset-br.png",
+  "website": "https://www.iset.com.br/",
+  "docsUrl": "https://isetapi.docs.apiary.io/#reference"
+}

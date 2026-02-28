@@ -1,0 +1,13 @@
+{
+  "id": "subscriber-voice",
+  "title": "Subscriber Voice",
+  "subtitle": "Subscriber Voice API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722372/catalog/subscriber-voice/icon128x128.png",
+  "website": "https://subscribervoice.com"
+}

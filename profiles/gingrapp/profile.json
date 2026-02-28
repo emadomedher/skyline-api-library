@@ -1,0 +1,14 @@
+{
+  "id": "gingrapp",
+  "title": "Gingr",
+  "subtitle": "Online scheduling software for dog daycare, boarding, training and grooming businesses. Request a demo today for the ...",
+  "tags": [
+    "dog-daycare",
+    "dog-grooming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598846281/icons/gingrapp.jpg",
+  "website": "https://www.gingrapp.com/"
+}

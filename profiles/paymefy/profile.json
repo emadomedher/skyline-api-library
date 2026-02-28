@@ -1,0 +1,13 @@
+{
+  "id": "paymefy",
+  "title": "Paymefy",
+  "subtitle": "Paymefy helps you recover more money faster and at a lower cost.",
+  "tags": [
+    "debt-collection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612488685/icons/paymefy.jpg",
+  "website": "https://www.paymefy.com/"
+}

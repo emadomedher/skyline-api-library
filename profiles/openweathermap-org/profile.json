@@ -1,0 +1,16 @@
+{
+  "id": "openweathermap-org",
+  "title": "OpenWeatherMap",
+  "subtitle": "Get current weather, hourly forecast, daily forecast for 16 days, and 3-hourly forecast 5 days for your city. Histori...",
+  "tags": [
+    "weather-api",
+    "open-data"
+  ],
+  "category": "Open Data",
+  "specType": "asyncapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576975935/catalog/openweathermap-org/icon128x128.jpg",
+  "specUrl": "https://ik.imagekit.io/ably/s3/xchg_products/async_api_specs/000/000/019/original/weather.yaml",
+  "website": "https://openweathermap.org/",
+  "docsUrl": "https://openweathermap.org/api"
+}

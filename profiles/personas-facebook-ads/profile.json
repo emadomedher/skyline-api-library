@@ -1,0 +1,12 @@
+{
+  "id": "personas-facebook-ads",
+  "title": "Personas Facebook Custom Audiences",
+  "subtitle": "Personas Facebook Custom Audiences API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439296/catalog/personas-facebook-ads/icon128x128.svg"
+}

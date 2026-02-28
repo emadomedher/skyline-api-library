@@ -1,0 +1,13 @@
+{
+  "id": "instapage",
+  "title": "Instapage",
+  "subtitle": "Instapage is the leader in post-click optimization and maximizes conversions for advertisers and marketers by enablin...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055967/catalog/instapage/icon128x128.png",
+  "website": "https://instapage.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "reonomy",
+  "title": "Reonomy",
+  "subtitle": "Reonomy is revolutionizing the world of commercial real estate with unrivaled access to in-depth property details and...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573214556/catalog/reonomy/icon128x128.png",
+  "website": "https://www.reonomy.com/"
+}

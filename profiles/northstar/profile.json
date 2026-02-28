@@ -1,0 +1,12 @@
+{
+  "id": "northstar",
+  "title": "NorthStar by GrowthHackers",
+  "subtitle": "GrowthHackers is a powerful collaboration platform helping marketers and growth professionals unleash their company's...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305536/catalog/northstar/icon128x128.png"
+}

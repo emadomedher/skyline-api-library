@@ -1,0 +1,14 @@
+{
+  "id": "netwave-eu",
+  "title": "Netwave",
+  "subtitle": "Acteur de référence sur le marché de l’e-commerce, Netwave propose des solutions de personnalisation Temps Réel pour ...",
+  "tags": [
+    "personalization",
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597146392/icons/netwave-eu.png",
+  "website": "http://www.netwave.eu/"
+}

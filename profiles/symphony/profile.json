@@ -1,0 +1,15 @@
+{
+  "id": "symphony",
+  "title": "Symphony",
+  "subtitle": "Connect with everyone you need to grow your business using secure team collaboration. Learn More.",
+  "tags": [
+    "team-chat",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561415967/catalog/symphony/icon128x128.jpg",
+  "website": "https://symphonyem.co.uk",
+  "docsUrl": "https://symphony.com/developers"
+}

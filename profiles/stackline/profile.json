@@ -1,0 +1,13 @@
+{
+  "id": "stackline",
+  "title": "Stackline",
+  "subtitle": "Stackline is a retail technology company built by ecommerce industry veterans. Technology activates data and optimize...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779843/catalog/stackline/icon128x128.png",
+  "website": "https://www.stackline.com/"
+}

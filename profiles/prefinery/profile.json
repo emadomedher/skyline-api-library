@@ -1,0 +1,12 @@
+{
+  "id": "prefinery",
+  "title": "Prefinery",
+  "subtitle": "More than just a landing page, Prefinery is a complete beta management launch platform that encourages social sharing...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305733/catalog/prefinery/icon128x128.png"
+}

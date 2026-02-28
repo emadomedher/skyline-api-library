@@ -1,0 +1,14 @@
+{
+  "id": "didid-be",
+  "title": "Didid",
+  "subtitle": "The app that helps your dreams come true. Didid is a social savings app that enables you to share, finance and get fu...",
+  "tags": [
+    "savings",
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604851930/icons/didid-be.png",
+  "website": "https://didid.be"
+}

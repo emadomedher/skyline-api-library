@@ -1,0 +1,16 @@
+{
+  "id": "bankdata-dk",
+  "title": "Bankdata",
+  "subtitle": "Bankdata API integration",
+  "tags": [
+    "api-gateway",
+    "banking",
+    "fintech"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568779233/catalog/bankdata-dk/icon128x128.jpg",
+  "website": "https://www.bankdata.dk/",
+  "docsUrl": "https://www.bankdata.dk/da/ydelser/developer%20portal"
+}

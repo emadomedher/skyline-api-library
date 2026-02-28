@@ -1,0 +1,13 @@
+{
+  "id": "aptean",
+  "title": "Aptean",
+  "subtitle": "Aptean API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433082/catalog/aptean/icon128x128.png",
+  "website": "https://aptean.com"
+}

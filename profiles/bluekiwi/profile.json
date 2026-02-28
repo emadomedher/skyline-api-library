@@ -1,0 +1,13 @@
+{
+  "id": "bluekiwi",
+  "title": "Bluekiwi",
+  "subtitle": "Make collaboration simple with Circuit by Unify. Circuit brings HD video, voice, screen share, messaging and file sha...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719184/catalog/bluekiwi/icon128x128.jpg",
+  "website": "https://bluekiwi.io"
+}

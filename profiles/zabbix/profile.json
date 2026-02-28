@@ -1,0 +1,15 @@
+{
+  "id": "zabbix",
+  "title": "Zabbix",
+  "subtitle": "Zabbix is a mature and effortless enterprise-class open source monitoring solution for network monitoring and applica...",
+  "tags": [
+    "monitoring",
+    "devops"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565233989/catalog/zabbix/icon128x128.png",
+  "website": "https://zabbix.com",
+  "docsUrl": "https://www.zabbix.com/manuals"
+}

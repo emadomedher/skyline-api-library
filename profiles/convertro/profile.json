@@ -1,0 +1,12 @@
+{
+  "id": "convertro",
+  "title": "Convertro",
+  "subtitle": "Convertro API integration",
+  "tags": [
+    "attribution"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439159/catalog/convertro/icon128x128.svg"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "lawren-io",
+  "title": "Lawren.io",
+  "subtitle": "Lawren.io's legaltech solution helps law firms work more efficient and customer centric by implementing an AI legal a...",
+  "tags": [
+    "legal-assistant"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645518422/icons/lawren-io.jpg",
+  "website": "https://lawren.io/law-firm/"
+}

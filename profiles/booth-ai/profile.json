@@ -1,0 +1,13 @@
+{
+  "id": "booth-ai",
+  "title": "Booth AI",
+  "subtitle": "Fast, inexpensive, high-quality images produced via AI with no physical samples required. Easily generate professiona...",
+  "tags": [
+    "product-images"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681320656/icons/booth-ai.jpg",
+  "website": "https://www.booth.ai/"
+}

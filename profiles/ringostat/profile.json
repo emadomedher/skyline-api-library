@@ -1,0 +1,13 @@
+{
+  "id": "ringostat",
+  "title": "Ringostat",
+  "subtitle": "Ringostat — аналізуйте дзвінки і приймайте правильні рішення ★ Call tracking, віртуальна АТС, форма зворотного дзвінк...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946660/catalog/ringostat/icon128x128.jpg",
+  "website": "https://ringostat.com"
+}

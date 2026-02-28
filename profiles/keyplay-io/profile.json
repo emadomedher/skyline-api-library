@@ -1,0 +1,13 @@
+{
+  "id": "keyplay-io",
+  "title": "Keyplay",
+  "subtitle": "Keyplay is your new recipe for account research. Unlike generic data providers, Keyplay uses unique signals to resear...",
+  "tags": [
+    "account-research"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670441980/icons/keyplay-io.png",
+  "website": "https://keyplay.io/"
+}

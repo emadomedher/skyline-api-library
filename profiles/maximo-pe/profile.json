@@ -1,0 +1,13 @@
+{
+  "id": "maximo-pe",
+  "title": "Máximo",
+  "subtitle": "Building a banking next generation.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607767288/icons/maximo-pe.jpg",
+  "website": "https://www.maximo.pe/"
+}

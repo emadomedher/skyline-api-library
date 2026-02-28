@@ -1,0 +1,13 @@
+{
+  "id": "civicrm",
+  "title": "CiviCRM",
+  "subtitle": "CiviCRM API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719446/catalog/civicrm/icon128x128.png",
+  "website": "https://civicrm.org"
+}

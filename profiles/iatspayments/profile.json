@@ -1,0 +1,14 @@
+{
+  "id": "iatspayments",
+  "title": "iATS Payments",
+  "subtitle": "Credit Card Payment Processing, International processing and Payment Security Services for Nonprofits from iATS Payments",
+  "tags": [
+    "payments",
+    "nonprofits"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563069299/catalog/iatspayments/icon128x128.png",
+  "website": "https://iatspayments.com"
+}

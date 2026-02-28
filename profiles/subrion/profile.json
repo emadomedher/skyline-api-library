@@ -1,0 +1,13 @@
+{
+  "id": "subrion",
+  "title": "Subrion",
+  "subtitle": "Get the power of the most user-friendly open source content management system written in PHP5 - Subrion! Spice up the...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827751/catalog/subrion/icon128x128.png",
+  "website": "https://subrion.org"
+}

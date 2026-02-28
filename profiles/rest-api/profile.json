@@ -1,0 +1,13 @@
+{
+  "id": "rest-api",
+  "title": "REST API",
+  "subtitle": "Representational state transfer (REST) is a software architectural style that defines a set of constraints to be used...",
+  "tags": [
+    "api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602106908/icons/rest-api.png",
+  "website": "https://restfulapi.net/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "business-central-on-premises",
+  "title": "Business Central (on-premises)",
+  "subtitle": "Dynamics 365 Business Central (on-premises) is a business management solution for small and mid-sized organizations t...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264767/catalog/business-central-on-premises/icon128x128.png"
+}

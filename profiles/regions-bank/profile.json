@@ -1,0 +1,13 @@
+{
+  "id": "regions-bank",
+  "title": "Regions Bank",
+  "subtitle": "Regions Financial Corporation is a bank holding company headquartered in the Regions Center in Birmingham, Alabama. T...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630230746/icons/regions-bank.jpg",
+  "website": "https://www.regions.com/"
+}

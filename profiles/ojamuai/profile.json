@@ -1,0 +1,14 @@
+{
+  "id": "ojamuai",
+  "title": "Ojamu",
+  "subtitle": "Ojamu",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687293167/icons/ojamuai.png",
+  "website": "https://www.ojamuai.com/",
+  "docsUrl": "https://docsend.com/view/i3vc4j5vqvfy6ag7"
+}

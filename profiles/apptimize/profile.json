@@ -1,0 +1,13 @@
+{
+  "id": "apptimize",
+  "title": "Apptimize",
+  "subtitle": "Learn how forward-thinking product teams fuel data-driven growth through Apptimize's Mobile A/B Testing and Release M...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439119/catalog/apptimize/icon128x128.svg",
+  "website": "https://apptimize.com"
+}

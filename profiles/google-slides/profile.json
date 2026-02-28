@@ -1,0 +1,13 @@
+{
+  "id": "google-slides",
+  "title": "Google Slides",
+  "subtitle": "Google Slides allows you to create, edit, and share presentations with anyone, online, for free.",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305057/catalog/google-slides/icon128x128.png",
+  "website": "https://www.google.com/slides/about/"
+}

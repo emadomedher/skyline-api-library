@@ -1,0 +1,14 @@
+{
+  "id": "bookolosystem",
+  "title": "Bookolo System",
+  "subtitle": "Bookolo system is the most innovative booking engine and effective online marketing for hospitality. We are able to e...",
+  "tags": [
+    "booking-software",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567806010/catalog/bookolosystem/icon128x128.png",
+  "website": "https://www.bookolosystem.com/"
+}

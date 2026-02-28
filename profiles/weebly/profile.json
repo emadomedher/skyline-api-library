@@ -1,0 +1,13 @@
+{
+  "id": "weebly",
+  "title": "Weebly",
+  "subtitle": "Weebly is an easy to use way to make high-quality websites like blogs or online stores.",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056538/catalog/weebly/icon128x128.png",
+  "website": "https://weebly.com"
+}

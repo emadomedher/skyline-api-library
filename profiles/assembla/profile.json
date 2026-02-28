@@ -1,0 +1,14 @@
+{
+  "id": "assembla",
+  "title": "Assembla",
+  "subtitle": "Video conversations with up to 4 people for free - no login, no downloads. Create a video room. Share the link. Appea...",
+  "tags": [
+    "version-control"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304424/catalog/assembla/icon128x128.png",
+  "website": "https://www.assembla.com/",
+  "docsUrl": "https://api-docs.assembla.cc/"
+}

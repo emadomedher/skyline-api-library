@@ -1,0 +1,13 @@
+{
+  "id": "cleverreach",
+  "title": "CleverReach",
+  "subtitle": "CleverReach is an email marketing solution that lets you easily create newsletters online and send them to your custo...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304618/catalog/cleverreach/icon128x128.png",
+  "website": "https://cleverreach.com"
+}

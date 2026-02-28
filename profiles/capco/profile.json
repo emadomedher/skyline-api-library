@@ -1,0 +1,13 @@
+{
+  "id": "capco",
+  "title": "Capco",
+  "subtitle": "Capco is a global management and technology consultancy dedicated to the financial services and energy industries. ",
+  "tags": [
+    "consultancy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699486/catalog/capco/icon128x128.jpg",
+  "website": "https://www.capco.com/"
+}

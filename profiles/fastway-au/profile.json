@@ -1,0 +1,13 @@
+{
+  "id": "fastway-au",
+  "title": "Fast Way Courier",
+  "subtitle": "Fastway Couriers currently operates across key metropolitan and regional locations across Australia, offering a low c...",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573128382/catalog/fastway-au/icon128x128.png",
+  "website": "https://www.fastway.com.au/"
+}

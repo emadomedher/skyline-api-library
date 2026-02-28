@@ -1,0 +1,13 @@
+{
+  "id": "coiled-io",
+  "title": "Coiled",
+  "subtitle": "Scaling Python Simply",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327382/icons/coiled-io.jpg",
+  "website": "https://coiled.io"
+}

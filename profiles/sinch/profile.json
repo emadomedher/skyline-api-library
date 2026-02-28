@@ -1,0 +1,15 @@
+{
+  "id": "sinch",
+  "title": "Sinch",
+  "subtitle": "Connect with customers and make engagement personal with our simple, programmable SMS, voice, video & verification to...",
+  "tags": [
+    "cpaas",
+    "sms"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573959824/catalog/sinch/icon128x128.png",
+  "website": "https://www.sinch.com/",
+  "docsUrl": "https://developers.sinch.com"
+}

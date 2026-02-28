@@ -1,0 +1,16 @@
+{
+  "id": "graphql-asia",
+  "title": "GraphQL Asia",
+  "subtitle": "GraphQL Asia is the largest gathering of the GraphQL community in Asia! Meet the creators of leading GraphQL tooling,...",
+  "tags": [
+    "events",
+    "graphql",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613177180/icons/graphql-asia.jpg",
+  "website": "https://graphql.asia/",
+  "docsUrl": "https://graphql.asia/workshops/introduction-to-hasura"
+}

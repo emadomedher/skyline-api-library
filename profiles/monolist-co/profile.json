@@ -1,0 +1,14 @@
+{
+  "id": "monolist-co",
+  "title": "Monolist",
+  "subtitle": "Monolist is a global inbox for engineers to centralize all of their tasks, messages, pull requests, and alerts.",
+  "tags": [
+    "task-management",
+    "developers"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566519067/catalog/monolist-co/icon128x128.jpg",
+  "website": "https://monolist.co"
+}

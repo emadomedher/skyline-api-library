@@ -1,0 +1,13 @@
+{
+  "id": "carbonpay-io",
+  "title": "CarbonPay",
+  "subtitle": "CarbonPay automatically helps offset your carbon footprint, every time you pay. Join us and make a world of difference. ",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650143745/icons/carbonpay-io.png",
+  "website": "https://carbonpay.io/"
+}

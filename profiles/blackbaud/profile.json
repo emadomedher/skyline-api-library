@@ -1,0 +1,14 @@
+{
+  "id": "blackbaud",
+  "title": "Blackbaud",
+  "subtitle": "Software solutions powering the entire social good community such as Faith Communities, Foundations, K-12 Schools, No...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719166/catalog/blackbaud/icon128x128.jpg",
+  "website": "https://blackbaud.com",
+  "docsUrl": "https://www.blackbaud.com/training-support/support/howto"
+}

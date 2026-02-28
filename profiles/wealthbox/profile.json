@@ -1,0 +1,14 @@
+{
+  "id": "wealthbox",
+  "title": "Wealthbox CRM",
+  "subtitle": "Wealthbox is a web-based CRM solution that allows financial advisors to manage their client relationships with ease.",
+  "tags": [
+    "management-tools",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306468/catalog/wealthbox/icon128x128.png",
+  "website": "https://wealthbox.com"
+}

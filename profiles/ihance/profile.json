@@ -1,0 +1,13 @@
+{
+  "id": "ihance",
+  "title": "iHance",
+  "subtitle": "Ihance ~ Sales 2.0, email marketing, sales force automation, marketing automation, sales campaigns, email campaigns, ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633371628/icons/ihance.png",
+  "website": "https://www.ihance.com/"
+}

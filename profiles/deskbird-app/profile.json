@@ -1,0 +1,13 @@
+{
+  "id": "deskbird-app",
+  "title": "deskbird",
+  "subtitle": "Most intuitive and people-centric - deskbird's hybrid workplace solution that employees will love. For all flexibe co...",
+  "tags": [
+    "workplace-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647256368/icons/deskbird-app.png",
+  "website": "https://www.deskbird.app/"
+}

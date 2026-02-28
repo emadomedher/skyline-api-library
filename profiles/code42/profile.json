@@ -1,0 +1,15 @@
+{
+  "id": "code42",
+  "title": "Code42",
+  "subtitle": "Code42 Insider Threat Software delivers a faster, simpler, more comprehensive path to data loss detection, investigat...",
+  "tags": [
+    "data-loss-prevention",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614666399/icons/code42.jpg",
+  "website": "https://www.code42.com/",
+  "docsUrl": "https://developer.code42.com"
+}

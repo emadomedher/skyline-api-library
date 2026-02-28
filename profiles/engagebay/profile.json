@@ -1,0 +1,13 @@
+{
+  "id": "engagebay",
+  "title": "engagebay",
+  "subtitle": "EngageBay is an affordable all-in-one marketing, sales and support software for growing companies to engage web visit...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719925/catalog/engagebay/icon128x128.jpg",
+  "website": "https://engagebay.com"
+}

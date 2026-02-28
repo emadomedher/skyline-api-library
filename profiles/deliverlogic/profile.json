@@ -1,0 +1,13 @@
+{
+  "id": "deliverlogic",
+  "title": "DeliverLogic",
+  "subtitle": "DeliverLogic provides the best turnkey software solution for restaurant delivery services. With the ability fully aut...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171261/catalog/deliverlogic/icon128x128.png",
+  "website": "https://www.deliverlogic.com/"
+}

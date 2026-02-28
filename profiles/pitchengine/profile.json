@@ -1,0 +1,13 @@
+{
+  "id": "pitchengine",
+  "title": "PitchEngine",
+  "subtitle": "PitchEngine API integration",
+  "tags": [
+    "pr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436470/catalog/pitchengine/icon128x128.png",
+  "website": "https://PitchEngine.com"
+}

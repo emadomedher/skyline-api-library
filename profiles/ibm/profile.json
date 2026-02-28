@@ -1,0 +1,14 @@
+{
+  "id": "ibm",
+  "title": "IBM",
+  "subtitle": "For more than a century IBM has been dedicated to every client's success and to creating innovations that matter for ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554329454/catalog/ibm/icon128x128.jpg",
+  "website": "https://ibm.com",
+  "docsUrl": "https://www.ibm.com/developerworks/"
+}

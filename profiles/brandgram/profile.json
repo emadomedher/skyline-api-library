@@ -1,0 +1,12 @@
+{
+  "id": "brandgram",
+  "title": "Brandgram",
+  "subtitle": "Brandgram is an easy web tool for collecting and sharing information, in a conversational way.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304535/catalog/brandgram/icon128x128.png"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "asvin-io",
+  "title": "asvin.io",
+  "subtitle": "asvin provides secure update management and delivery for Internet of Things - IoT Edge devices.",
+  "tags": [
+    "iot-security",
+    "iot",
+    "security"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573320180/catalog/asvin-io/icon128x128.jpg",
+  "website": "https://www.asvin.io/",
+  "docsUrl": "https://www.asvin.io/open-source"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "skan-ai",
+  "title": "Skan",
+  "subtitle": "Skan is a cognitive process mining software platform that leverages computer vision and machine intelligence for proc...",
+  "tags": [
+    "process-mining"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608117572/icons/skan-ai.png",
+  "website": "https://www.skan.ai/"
+}

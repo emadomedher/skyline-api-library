@@ -1,0 +1,13 @@
+{
+  "id": "quintoandar-br",
+  "title": "QuintoAndar",
+  "subtitle": "No QuintoAndar o aluguel é rápido, sem fiador e com segurança.\n  Agende visitas online, feche negócio com o proprietá...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622242223/icons/quintoandar-br.jpg",
+  "website": "https://www.quintoandar.com.br/"
+}

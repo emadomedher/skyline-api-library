@@ -1,0 +1,13 @@
+{
+  "id": "windscrm",
+  "title": "WindsCRM",
+  "subtitle": "Winds CRM, an On Demand - hosted CRM -  Customer Relationship Management CRM software from India. It comprises Cloud ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722893/catalog/windscrm/icon128x128.jpg",
+  "website": "https://windscrm.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vergify",
+  "title": "Vergify",
+  "subtitle": "Vergify is a web based CRM application that enables businesses to manage their clients, leads, invoices & customer su...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722717/catalog/vergify/icon128x128.jpg",
+  "website": "https://vergify.com"
+}

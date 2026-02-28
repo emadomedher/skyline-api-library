@@ -1,0 +1,14 @@
+{
+  "id": "suggestr-co",
+  "title": "Suggestr",
+  "subtitle": "19% higher conversion for your Shopify brand with AI-driven sales. Put your recommendations on autopilot with AI. Try...",
+  "tags": [
+    "product-recommendations",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634246134/icons/suggestr-co.jpg",
+  "website": "https://www.suggestr.co/"
+}

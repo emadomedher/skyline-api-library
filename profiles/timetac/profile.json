@@ -1,0 +1,13 @@
+{
+  "id": "timetac",
+  "title": "TimeTac",
+  "subtitle": "Online time tracking software : simple & user-friendly ✔ Log time anytime, anywhere ✔ Live time tracker ✔ Detailed wo...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760559/icons/timetac.jpg",
+  "website": "https://www.timetac.com/"
+}

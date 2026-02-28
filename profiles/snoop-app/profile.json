@@ -1,0 +1,14 @@
+{
+  "id": "snoop-app",
+  "title": "Snoop",
+  "subtitle": "A clever robot that's here to help you spend, save and live smarter.",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311381/catalog/snoop-app/icon128x128.jpg",
+  "website": "https://snoop.app/",
+  "docsUrl": "https://snoop.app/docs/legal/website-data-collection-policy"
+}

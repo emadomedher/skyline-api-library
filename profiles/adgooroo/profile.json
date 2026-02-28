@@ -1,0 +1,13 @@
+{
+  "id": "adgooroo",
+  "title": "AdGooroo",
+  "subtitle": "Gain Complete Insight Into Your Competitors & Performance",
+  "tags": [
+    "search-and-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561383782/catalog/adgooroo/icon128x128.png",
+  "website": "https://adgooroo.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "second-phase",
+  "title": "Second Phase",
+  "subtitle": "Second Phase API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565837/catalog/second-phase/icon128x128.png",
+  "website": "https://secondphase.net"
+}

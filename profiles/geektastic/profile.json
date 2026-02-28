@@ -1,0 +1,15 @@
+{
+  "id": "geektastic",
+  "title": "Geektastic",
+  "subtitle": "Geektastic guarantees hiring teams only meet high calibre candidates. Our technical code challenges quickly identify ...",
+  "tags": [
+    "employee-assessment",
+    "technical-skills-screening"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805156/icons/geektastic.png",
+  "website": "https://geektastic.com/",
+  "docsUrl": "https://geektastic.com/developers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "printix",
+  "title": "Printix",
+  "subtitle": "Printix API integration",
+  "tags": [
+    "print"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436609/catalog/printix/icon128x128.png",
+  "website": "https://printix.net"
+}

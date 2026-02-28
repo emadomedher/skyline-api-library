@@ -1,0 +1,14 @@
+{
+  "id": "smtp-com",
+  "title": "SMTP",
+  "subtitle": "SMTP email relay service that is powerful, secured and reliable. Send better transactional emails and integrate easil...",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620723834/icons/smtp-com.jpg",
+  "website": "http://smtp.com/",
+  "docsUrl": "https://www.smtp.com/solutions/smtp-for-developers"
+}

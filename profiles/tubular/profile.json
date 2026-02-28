@@ -1,0 +1,13 @@
+{
+  "id": "tubular",
+  "title": "Tubular",
+  "subtitle": "Tubular is a simple sales pipeline software, built for teams, that lets you convert more leads, close more sales, and...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284644/catalog/tubular/icon128x128.png",
+  "website": "https://tubularinsights.com"
+}

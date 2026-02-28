@@ -1,0 +1,13 @@
+{
+  "id": "cardlytics",
+  "title": "Cardlytics",
+  "subtitle": "Cardlytics Purchase Intelligence helps marketers identify opportunity, reach real people with relevant ads, then prec...",
+  "tags": [
+    "reward-program"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620571865/icons/cardlytics.png",
+  "website": "https://www.cardlytics.com/"
+}

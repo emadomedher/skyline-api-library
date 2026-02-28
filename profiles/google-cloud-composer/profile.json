@@ -1,0 +1,13 @@
+{
+  "id": "google-cloud-composer",
+  "title": "Google Cloud Composer",
+  "subtitle": "Cloud Composer is a fully managed data workflow orchestration service that empowers you to author, schedule, and moni...",
+  "tags": [
+    "workflow-orchestration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801605/icons/google-cloud-composer.png",
+  "website": "https://cloud.google.com/composer"
+}

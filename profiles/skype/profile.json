@@ -1,0 +1,13 @@
+{
+  "id": "skype",
+  "title": "Skype",
+  "subtitle": "Stay in touch! Free online calls, messaging, affordable international calling to mobiles or landlines and Skype for B...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946588/catalog/skype/icon128x128.jpg",
+  "website": "https://skype.com"
+}

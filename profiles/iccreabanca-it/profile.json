@@ -1,0 +1,13 @@
+{
+  "id": "iccreabanca-it",
+  "title": "Iccrea Banca",
+  "subtitle": "Iccrea Banca Spa provides banking services. The Bank offers a product range including savings, investments, mortgage ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617366959/icons/iccreabanca-it.jpg",
+  "website": "https://www.iccreabanca.it/"
+}

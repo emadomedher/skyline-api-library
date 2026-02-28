@@ -1,0 +1,13 @@
+{
+  "id": "trello",
+  "title": "Trello",
+  "subtitle": "Infinitely flexible. Incredibly easy to use. Great mobile apps. It's free. Trello keeps track of everything, from the...",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455926/catalog/trello/icon128x128.png",
+  "website": "https://trello.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "signalsciences",
+  "title": "Signal Sciences",
+  "subtitle": "See why the world’s leading companies trust Signal Sciences’ next-gen WAF and RASP to protect web applications, APIs ...",
+  "tags": [
+    "application-security",
+    "security",
+    "runtime-application-self-protection"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565201149/catalog/signalsciences/icon128x128.jpg",
+  "website": "https://signalsciences.com",
+  "docsUrl": "https://www.signalsciences.com/use-cases/developers"
+}

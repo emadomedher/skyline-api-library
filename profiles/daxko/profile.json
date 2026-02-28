@@ -1,0 +1,14 @@
+{
+  "id": "daxko",
+  "title": "Daxko",
+  "subtitle": "Daxko API integration",
+  "tags": [
+    "marketing-automation-and-campaignlead-management",
+    "welness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434130/catalog/daxko/icon128x128.png",
+  "website": "https://engage.daxko.com"
+}

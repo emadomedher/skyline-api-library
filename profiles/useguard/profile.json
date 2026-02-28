@@ -1,0 +1,14 @@
+{
+  "id": "useguard",
+  "title": "Guard",
+  "subtitle": "Guard is an AI that reads privacy policies for you and uncovers their hidden, filthy secrets.",
+  "tags": [
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573332069/catalog/useguard/icon128x128.jpg",
+  "website": "https://useguard.com/"
+}

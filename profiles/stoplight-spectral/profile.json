@@ -1,0 +1,16 @@
+{
+  "id": "stoplight-spectral",
+  "title": "Spectral",
+  "subtitle": "Spectral is an open source OpenAPI linter, which can tell you not just if your API descriptions are valid, but if the...",
+  "tags": [
+    "open-source",
+    "api",
+    "api-linters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599928320/icons/stoplight-spectral.png",
+  "website": "https://stoplight.io/open-source/spectral/",
+  "docsUrl": "https://meta.stoplight.io/docs/spectral/readme.md"
+}

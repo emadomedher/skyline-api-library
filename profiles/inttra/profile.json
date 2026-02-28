@@ -1,0 +1,14 @@
+{
+  "id": "inttra",
+  "title": "INTTRA",
+  "subtitle": "INTTRA API integration",
+  "tags": [
+    "shipping-network",
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571602398/catalog/inttra/icon128x128.jpg",
+  "website": "https://www.inttra.com/"
+}

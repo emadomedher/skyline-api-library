@@ -1,0 +1,13 @@
+{
+  "id": "zap-business-intelligence",
+  "title": "ZAP Business Intelligence",
+  "subtitle": "ZAP Business Intelligence API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775928/catalog/zap-business-intelligence/icon128x128.png",
+  "website": "https://zapbi.com"
+}

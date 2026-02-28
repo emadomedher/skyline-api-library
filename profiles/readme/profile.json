@@ -1,0 +1,14 @@
+{
+  "id": "readme",
+  "title": "ReadMe",
+  "subtitle": "With ReadMe, its easy to build a developer hub that adapts to the user, is always up to date, and looks great.",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568390858/catalog/readme/icon128x128.png",
+  "website": "https://readme.com/",
+  "docsUrl": "https://readme.com/metrics"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pathful",
+  "title": "Pathful",
+  "subtitle": "Your content marketing performance solution. Pathful provides content ROI metrics for B2B content marketers, inbound ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827167/catalog/pathful/icon128x128.png",
+  "website": "https://pathful.com"
+}

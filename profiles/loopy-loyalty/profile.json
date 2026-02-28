@@ -1,0 +1,13 @@
+{
+  "id": "loopy-loyalty",
+  "title": "Loopy Loyalty",
+  "subtitle": "Loopy Loyalty is a platform for businesses to create and manage digital loyalty stamp cards in Apple Wallet and Andro...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305328/catalog/loopy-loyalty/icon128x128.png",
+  "website": "https://loopyloyalty.com"
+}

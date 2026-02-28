@@ -1,0 +1,13 @@
+{
+  "id": "kaspersky",
+  "title": "Kaspersky",
+  "subtitle": "Kaspersky Lab is a multinational cybersecurity and anti-virus provider headquartered in Moscow, Russia and operated b...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581961520/catalog/kaspersky/icon128x128.jpg",
+  "website": "https://www.kaspersky.com/"
+}

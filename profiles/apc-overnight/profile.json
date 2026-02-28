@@ -1,0 +1,13 @@
+{
+  "id": "apc-overnight",
+  "title": "APC Overnight",
+  "subtitle": "APC Overnight. Specialising in timed deliveries, giving you flexible options for urgent packages.",
+  "tags": [
+    "shipping-carriers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573131657/catalog/apc-overnight/icon128x128.jpg",
+  "website": "https://apc-overnight.com/"
+}

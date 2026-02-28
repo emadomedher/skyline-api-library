@@ -1,0 +1,13 @@
+{
+  "id": "confrere",
+  "title": "Confrere",
+  "subtitle": "Confrere is a video tool tailor-made for meetings between professionals and their clients. It works on computers, tab...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563395583/catalog/confrere/icon128x128.jpg",
+  "website": "https://confrere.com"
+}

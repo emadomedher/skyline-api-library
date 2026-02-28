@@ -1,0 +1,13 @@
+{
+  "id": "a1webstats",
+  "title": "A1WebStats",
+  "subtitle": "A1WebStats is a lead identification and website visitors analysis solution for businesses that want to gain more resu...",
+  "tags": [
+    "mobile-and-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717083/catalog/a1webstats/icon128x128.jpg",
+  "website": "https://a1webstats.com"
+}

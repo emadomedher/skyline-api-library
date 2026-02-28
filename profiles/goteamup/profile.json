@@ -1,0 +1,14 @@
+{
+  "id": "goteamup",
+  "title": "TeamUp",
+  "subtitle": "Software that you and your clients will love. Easily schedule classes, take payments and keep track of all the import...",
+  "tags": [
+    "gym-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633051663/icons/goteamup.jpg",
+  "website": "https://goteamup.com/",
+  "docsUrl": "https://goteamup.com/#"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fellowai",
+  "title": "Fellow AI",
+  "subtitle": "Advanced Enterprise Machine Learning and Computer Vision to automate your supply chain and inventory operations.",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614100771/icons/fellowai.jpg",
+  "website": "https://www.fellowai.com/"
+}

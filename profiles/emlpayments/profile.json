@@ -1,0 +1,13 @@
+{
+  "id": "emlpayments",
+  "title": "EML",
+  "subtitle": "EML API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074601/icons/emlpayments.jpg",
+  "website": "https://www.emlpayments.com/"
+}

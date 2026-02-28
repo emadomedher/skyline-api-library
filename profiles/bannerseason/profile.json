@@ -1,0 +1,13 @@
+{
+  "id": "bannerseason",
+  "title": "BannerSeason",
+  "subtitle": "BannerSeason is a platform that enables you to Send gifts to WOW your customers with real personalized tangible cards...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829021/catalog/bannerseason/icon128x128.png",
+  "website": "https://bannerseason.com"
+}

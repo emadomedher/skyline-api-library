@@ -1,0 +1,14 @@
+{
+  "id": "flexmail",
+  "title": "Flexmail",
+  "subtitle": "Flexmail is a Belgian company that offers a user-friendly and cloud-based tool to run your email campaigns, build you...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633273076/icons/flexmail.jpg",
+  "website": "https://flexmail.be",
+  "docsUrl": "https://soap.flexmail.eu/documentation"
+}

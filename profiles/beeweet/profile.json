@@ -1,0 +1,14 @@
+{
+  "id": "beeweet",
+  "title": "Weet",
+  "subtitle": "We created Weet in response to the pandemic and the growing demand for video conference. Get more done with the asych...",
+  "tags": [
+    "async-meetings"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607838431/icons/beeweet.jpg",
+  "website": "https://beeweet.com/",
+  "docsUrl": "https://docs.intercom.com/pricing-privacy-and-terms/data-protection/how-were-preparing-for-gdpr"
+}

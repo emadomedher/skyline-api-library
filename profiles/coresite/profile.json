@@ -1,0 +1,15 @@
+{
+  "id": "coresite",
+  "title": "CoreSite",
+  "subtitle": "Secure, reliable, high-performance data center and interconnection solutions to a growing customer ecosystem across e...",
+  "tags": [
+    "data-centers",
+    "cloud-providers",
+    "colocation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611123679/icons/coresite.jpg",
+  "website": "https://www.coresite.com/"
+}

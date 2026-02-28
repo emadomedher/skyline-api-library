@@ -1,0 +1,13 @@
+{
+  "id": "loyalzoo",
+  "title": "Loyalzoo",
+  "subtitle": "Run your own digital loyalty card and keep customers coming back, just like the big brands. Ideal for coffee shops, c...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720909/catalog/loyalzoo/icon128x128.png",
+  "website": "https://loyalzoo.com"
+}

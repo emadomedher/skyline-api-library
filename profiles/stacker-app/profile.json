@@ -1,0 +1,15 @@
+{
+  "id": "stacker-app",
+  "title": "Stacker",
+  "subtitle": "Stacker lets you create the digital tools you need to engage your customers, partners and company, all powered by the...",
+  "tags": [
+    "no-code",
+    "web-app-builder"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611847371/icons/stacker-app.png",
+  "website": "https://stacker.app/",
+  "docsUrl": "https://docs.stacker.app"
+}

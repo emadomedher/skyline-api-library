@@ -1,0 +1,13 @@
+{
+  "id": "yangaroo",
+  "title": "Yangaroo",
+  "subtitle": "Our patented cloud-based software DMDS, powers the advertising, music, and award show markets with the most effective...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946325/catalog/yangaroo/icon128x128.jpg",
+  "website": "https://yangaroo.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "starbase-co",
+  "title": "Starbase",
+  "subtitle": "Crowdfund your rocket idea by issuing global tokens on Blockchain",
+  "tags": [
+    "blockchain",
+    "crowdfunding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604043132/icons/starbase-co.jpg",
+  "website": "https://starbase.co/",
+  "docsUrl": "https://assets-cdn.starbase.co/docs/2017/11/star_user+guide_latest.pdf"
+}

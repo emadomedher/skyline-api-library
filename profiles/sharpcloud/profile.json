@@ -1,0 +1,13 @@
+{
+  "id": "sharpcloud",
+  "title": "SharpCloud",
+  "subtitle": "SharpCloud is visual communication software for business and lives at the intersection of several products: spreadshe...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306069/catalog/sharpcloud/icon128x128.png",
+  "website": "https://sharpcloud.com"
+}

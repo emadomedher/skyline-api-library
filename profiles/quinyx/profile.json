@@ -1,0 +1,14 @@
+{
+  "id": "quinyx",
+  "title": "Quinyx",
+  "subtitle": "Save time, reduce costs and enjoy work with Quinyx, the cloud-based, mobile-first workforce management solution.",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638318370/icons/quinyx.jpg",
+  "website": "https://www.quinyx.com/",
+  "docsUrl": "https://quinyx.helpdocs.io/l/en"
+}

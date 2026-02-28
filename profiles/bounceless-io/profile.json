@@ -1,0 +1,13 @@
+{
+  "id": "bounceless-io",
+  "title": "Bounceless",
+  "subtitle": "Bounceless API integration",
+  "tags": [
+    "email-validation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554327563/catalog/bounceless-io/icon128x128.jpg",
+  "website": "https://www.bounceless.io/"
+}

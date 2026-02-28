@@ -1,0 +1,15 @@
+{
+  "id": "serenade-ai",
+  "title": "Serenade",
+  "subtitle": "With Serenade, you can write code using natural speech. Give your hands a break without missing a beat.",
+  "tags": [
+    "speech-to-code",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606326375/icons/serenade-ai.jpg",
+  "website": "https://serenade.ai/",
+  "docsUrl": "https://serenade.ai/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "funnelfox",
+  "title": "FunnelFox",
+  "subtitle": "Sell 20% More From Your Existing Pipeline Without Buying More Leads or Hiring More Sales People.",
+  "tags": [
+    "headless-crm",
+    "headless",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570350235/catalog/funnelfox/icon128x128.jpg",
+  "website": "https://www.funnelfox.com"
+}

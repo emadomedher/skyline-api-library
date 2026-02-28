@@ -1,0 +1,14 @@
+{
+  "id": "notchteam",
+  "title": "Notch",
+  "subtitle": "Hire full-time remote developers ready to work from anywhere. Fast-track to vetted and remote-ready talent in full-st...",
+  "tags": [
+    "remote-hiring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618534033/icons/notchteam.png",
+  "website": "https://notchteam.com/",
+  "docsUrl": "https://notchteam.com/apply-as-developer"
+}

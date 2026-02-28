@@ -1,0 +1,13 @@
+{
+  "id": "qandle",
+  "title": "Qandle",
+  "subtitle": "All-in-one HR Software Solution to automate and simplify your Human Resource Management System. Sign up with our HRMS...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632273582/icons/qandle.jpg",
+  "website": "https://www.qandle.com/"
+}

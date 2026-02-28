@@ -1,0 +1,13 @@
+{
+  "id": "formsite",
+  "title": "Formsite",
+  "subtitle": "Formsite enables non-technical users to build professional quality web forms and surveys with no HTML or coding exper...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304969/catalog/formsite/icon128x128.png",
+  "website": "https://www.formsite.com/"
+}

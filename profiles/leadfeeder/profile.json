@@ -1,0 +1,13 @@
+{
+  "id": "leadfeeder",
+  "title": "Leadfeeder",
+  "subtitle": "Generate leads from your anonymous website traffic, identify key decision makers and see what they're interested in.",
+  "tags": [
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305278/catalog/leadfeeder/icon128x128.png",
+  "website": "https://leadfeeder.com"
+}

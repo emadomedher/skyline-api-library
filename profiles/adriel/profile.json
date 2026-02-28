@@ -1,0 +1,14 @@
+{
+  "id": "adriel",
+  "title": "Adriel",
+  "subtitle": "Adriel provides the tools you need to handle complex marketing campaigns and reach your advertising goals. Drive resu...",
+  "tags": [
+    "subscription-analytics",
+    "dashboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679356012/icons/adriel.jpg",
+  "website": "https://www.adriel.com/"
+}

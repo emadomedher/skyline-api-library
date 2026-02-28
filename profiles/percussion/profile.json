@@ -1,0 +1,13 @@
+{
+  "id": "percussion",
+  "title": "Percussion",
+  "subtitle": "Percussion CMS makes it easy to create and manage content-rich, SEO friendly websites.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827175/catalog/percussion/icon128x128.jpg",
+  "website": "https://percussion.com"
+}

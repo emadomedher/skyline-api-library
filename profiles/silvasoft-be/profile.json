@@ -1,0 +1,14 @@
+{
+  "id": "silvasoft-be",
+  "title": "Silvasoft",
+  "subtitle": "Silvasoft business software. Compleet, onbeperkt en gebruiksvriendelijk. 30 dagen gratis proberen. ✅ Online boekhoude...",
+  "tags": [
+    "accounting",
+    "invoicing"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584050392/catalog/silvasoft-be/icon128x128.jpg",
+  "website": "https://www.silvasoft.be/"
+}

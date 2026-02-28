@@ -1,0 +1,13 @@
+{
+  "id": "250ok",
+  "title": "250ok",
+  "subtitle": "Email Analytics & Deliverability",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554717058/catalog/250ok/icon128x128.jpg",
+  "website": "https://250ok.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "neocasesoftware",
+  "title": "Neocase Software",
+  "subtitle": "Neocase© Software is a leading provider of integrated HRIS and Finance service delivery solutions. Providing powerful...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909575/icons/neocasesoftware.png",
+  "website": "https://www.neocasesoftware.com/",
+  "docsUrl": "https://www.neocasesoftware.com/hris-customers"
+}

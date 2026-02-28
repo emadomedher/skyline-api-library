@@ -1,0 +1,14 @@
+{
+  "id": "sap-sales-cloud",
+  "title": "SAP Sales Cloud",
+  "subtitle": "Get software and technology solutions from SAP, the leader in business applications.  Run simple with the best in clo...",
+  "tags": [
+    "channel-finance-pricing-and-inventory",
+    "advocacy-loyalty-and-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721933/catalog/sap-sales-cloud/icon128x128.jpg",
+  "website": "https://sap.com"
+}

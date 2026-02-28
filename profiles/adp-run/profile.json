@@ -1,0 +1,15 @@
+{
+  "id": "adp-run",
+  "title": "RUN Powered by ADP",
+  "subtitle": "RUN Powered by ADP® small business web-based payroll software solution handles the nitty-gritty, so you can focus on ...",
+  "tags": [
+    "payroll",
+    "hris"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632592971/icons/adp-run.png",
+  "website": "https://www.adp.com/what-we-offer/products/run-powered-by-adp.aspx",
+  "docsUrl": "https://developers.adp.com/articles/api/pr-offrg-run/apiexplorer"
+}

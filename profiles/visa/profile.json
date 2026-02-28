@@ -1,0 +1,14 @@
+{
+  "id": "visa",
+  "title": "visa",
+  "subtitle": "visa API integration",
+  "tags": [
+    "payment-methods"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557151298/catalog/visa/icon128x128.jpg",
+  "website": "https://visa.com",
+  "docsUrl": "https://usa.visa.com/partner-with-us/developer.html"
+}

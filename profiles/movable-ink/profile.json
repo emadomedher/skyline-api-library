@@ -1,0 +1,14 @@
+{
+  "id": "movable-ink",
+  "title": "Movable Ink",
+  "subtitle": "Intelligent Content for Email",
+  "tags": [
+    "email-marketing",
+    "content"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861281/catalog/movable-ink/icon128x128.png",
+  "website": "https://movableink.com"
+}

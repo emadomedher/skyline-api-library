@@ -1,0 +1,13 @@
+{
+  "id": "wenodo",
+  "title": "Wenodo",
+  "subtitle": "Hospitality for the future Talk to an expert Hospitality for the future Talk to an expert Smart digital solutions to ...",
+  "tags": [
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656700578/icons/wenodo.png",
+  "website": "https://wenodo.com/"
+}

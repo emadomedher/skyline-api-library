@@ -1,0 +1,13 @@
+{
+  "id": "salescout",
+  "title": "SaleScout",
+  "subtitle": "SaleScout API integration",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554481985/catalog/salescout/icon128x128.png",
+  "website": "https://salescoutdata.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "lottiefiles",
+  "title": "LottieFiles",
+  "subtitle": "The world’s largest online platform for the world’s smallest animation format for designers, developers, and more. Ac...",
+  "tags": [
+    "animation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017197/icons/lottiefiles.jpg",
+  "website": "https://lottiefiles.com/",
+  "docsUrl": "https://docs.kodika.io/design-elements/lottie-animation"
+}

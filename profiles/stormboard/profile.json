@@ -1,0 +1,14 @@
+{
+  "id": "stormboard",
+  "title": "Stormboard",
+  "subtitle": "An online stickynote whiteboard making meetings, brainstorms, and creative projects more productive and effective.",
+  "tags": [
+    "team-collaboration",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306198/catalog/stormboard/icon128x128.png",
+  "website": "https://stormboard.com"
+}

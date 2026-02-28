@@ -1,0 +1,14 @@
+{
+  "id": "mailvelope",
+  "title": "Mailvelope",
+  "subtitle": "Mailvelope open source project. OpenPGP in your browser.",
+  "tags": [
+    "encrypted-email",
+    "privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617283008/icons/mailvelope.png",
+  "website": "https://www.mailvelope.com/"
+}

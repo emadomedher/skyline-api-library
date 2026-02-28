@@ -1,0 +1,13 @@
+{
+  "id": "appraisd",
+  "title": "Appraisd",
+  "subtitle": "Appraisd helps HR teams and managers align talent performance management with company goals and growth.",
+  "tags": [
+    "employee-performance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671518212/icons/appraisd.png",
+  "website": "https://www.appraisd.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zocdoc",
+  "title": "Zocdoc",
+  "subtitle": "Find the right doctor, right now with Zocdoc. Read reviews from verified patients and book an appointment with a near...",
+  "tags": [
+    "healthcare",
+    "marketplaces"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089349/icons/zocdoc.jpg",
+  "website": "https://www.zocdoc.com/"
+}

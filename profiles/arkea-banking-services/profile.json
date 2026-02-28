@@ -1,0 +1,15 @@
+{
+  "id": "arkea-banking-services",
+  "title": "Arkéa Banking Services (ABS)",
+  "subtitle": "Arkéa Banking Services is a full-service bank, meeting CRBF 97-02 requirements, a 100% subsidiary of Crédit Mutuel Ar...",
+  "tags": [
+    "banks",
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006423/icons/arkea-banking-services.jpg",
+  "website": "https://www.arkea-banking-services.com/",
+  "docsUrl": "https://developer.arkea.com"
+}

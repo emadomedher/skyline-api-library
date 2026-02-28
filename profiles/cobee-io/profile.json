@@ -1,0 +1,14 @@
+{
+  "id": "cobee-io",
+  "title": "Cobee",
+  "subtitle": "Cobee es la solución que te permite gestionar tus beneficios sociales y retribución flexible que te ofrece tu empresa...",
+  "tags": [
+    "employee-benefits",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612016/catalog/cobee-io/icon128x128.jpg",
+  "website": "https://cobee.io/"
+}

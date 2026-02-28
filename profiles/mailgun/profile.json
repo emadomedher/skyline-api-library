@@ -1,0 +1,15 @@
+{
+  "id": "mailgun",
+  "title": "Mailgun",
+  "subtitle": "Mailgun is a tool with powerful APIs that allow you to send, receive, track and store email effortlessly.",
+  "tags": [
+    "api",
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305364/catalog/mailgun/icon128x128.png",
+  "website": "https://www.mailgun.com/",
+  "docsUrl": "https://documentation.mailgun.com"
+}

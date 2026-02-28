@@ -1,0 +1,13 @@
+{
+  "id": "td-bank",
+  "title": "TD Bank",
+  "subtitle": "Welcome to TD Bank, America's Most Convenient Bank. Visit now to learn about all our personal banking products like a...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583934811/catalog/td-bank/icon128x128.jpg",
+  "website": "https://www.td.com/"
+}

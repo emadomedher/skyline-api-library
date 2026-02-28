@@ -1,0 +1,14 @@
+{
+  "id": "traffit",
+  "title": "Traffit",
+  "subtitle": "TRAFFIT is an all-in-one recruitment system. Design hiring workflow, create career page, publish job offers and build...",
+  "tags": [
+    "ats",
+    "recruiting"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215667/icons/traffit.jpg",
+  "website": "https://www.traffit.com/"
+}

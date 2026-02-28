@@ -1,0 +1,14 @@
+{
+  "id": "pps-edenred",
+  "title": "PPS",
+  "subtitle": "PPS is a Mastercard and Visa Principal Member and an FCA regulated Electronic Money Institution.",
+  "tags": [
+    "payments",
+    "card-issuing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590770305/catalog/pps-edenred/icon128x128.jpg",
+  "website": "https://www.pps.edenred.com/"
+}

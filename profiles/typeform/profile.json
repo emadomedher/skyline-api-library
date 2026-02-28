@@ -1,0 +1,15 @@
+{
+  "id": "typeform",
+  "title": "Typeform",
+  "subtitle": "Create interactive experiences for your audience — get more responses. It's that simple. Try it FREE – no coding requ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628098581/icons/typeform.png",
+  "baseUrl": "https://api.typeform.com",
+  "website": "https://www.typeform.com/",
+  "docsUrl": "https://developer.typeform.com"
+}

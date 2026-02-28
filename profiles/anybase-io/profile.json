@@ -1,0 +1,14 @@
+{
+  "id": "anybase-io",
+  "title": "Adam Rochette",
+  "subtitle": "AnyBase turns your favorite tools into modern, scalable backends for your no-code applications.",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651773065/icons/anybase-io.svg",
+  "website": "https://www.anybase.io/",
+  "docsUrl": "https://www.anybase.io/features"
+}

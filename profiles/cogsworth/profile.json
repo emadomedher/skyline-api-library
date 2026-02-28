@@ -1,0 +1,13 @@
+{
+  "id": "cogsworth",
+  "title": "Cogsworth",
+  "subtitle": "Start your 45 Day trial for just $2. Cogsworth allows your customers to schedule appointments with your business 24/7...",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284482/catalog/cogsworth/icon128x128.jpg",
+  "website": "https://cogsworth.com/"
+}

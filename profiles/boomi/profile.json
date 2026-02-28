@@ -1,0 +1,15 @@
+{
+  "id": "boomi",
+  "title": "Dell Boomi",
+  "subtitle": "Accelerate your business. Connect everything, engage everywhere and run anywhere with Boomi's industry leading iPaaS ...",
+  "tags": [
+    "integration-platforms",
+    "data-management-platforms",
+    "data-integration"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311410/catalog/boomi/icon128x128.jpg",
+  "website": "https://boomi.com/"
+}

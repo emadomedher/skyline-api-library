@@ -1,0 +1,13 @@
+{
+  "id": "infogram",
+  "title": "Infogram",
+  "subtitle": "Infogram is an easy to use infographic and chart maker. Create and share beautiful infographics, online reports, and ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826612/catalog/infogram/icon128x128.jpg",
+  "website": "https://infogram.com"
+}

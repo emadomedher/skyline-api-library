@@ -1,0 +1,14 @@
+{
+  "id": "strapi",
+  "title": "strapi",
+  "subtitle": "The Open source Headless CMS Front-End Developers love. Manage your content. Distribute it anywhere.",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559297340/catalog/strapi/icon128x128.jpg",
+  "website": "https://strapi.io",
+  "docsUrl": "https://strapi.io/documentation/3.x.x/getting-started/quick-start.html"
+}

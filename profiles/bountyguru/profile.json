@@ -1,0 +1,13 @@
+{
+  "id": "bountyguru",
+  "title": "BountyGuru",
+  "subtitle": "BountyGuru API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719207/catalog/bountyguru/icon128x128.jpg",
+  "website": "https://bountyguru.com"
+}

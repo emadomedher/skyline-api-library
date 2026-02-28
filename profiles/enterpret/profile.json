@@ -1,0 +1,13 @@
+{
+  "id": "enterpret",
+  "title": "Enterpret",
+  "subtitle": "Enterpret helps you aggregate customer feedback from various sources and uses state-of-the-art NLP to automatically e...",
+  "tags": [
+    "feedback-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1688560636/icons/enterpret.jpg",
+  "website": "https://www.enterpret.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cloudcheckr",
+  "title": "CloudCheckr",
+  "subtitle": "CloudCheckr's cloud management platform provides cost management, security, reporting and analytics to help users opt...",
+  "tags": [
+    "cloud-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572827477/catalog/cloudcheckr/icon128x128.jpg",
+  "website": "https://cloudcheckr.com/",
+  "docsUrl": "https://success.cloudcheckr.com/category/sostev3vyd-documentation"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "enfuce",
+  "title": "Enfuce",
+  "subtitle": "Enfuce offers payment and open banking services to banks, fintechs, financial operators, and merchants. By combining ...",
+  "tags": [
+    "open-banking",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583142261/catalog/enfuce/icon128x128.jpg",
+  "website": "https://enfuce.com/",
+  "docsUrl": "https://enfuce.com/developers"
+}

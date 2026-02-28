@@ -1,0 +1,15 @@
+{
+  "id": "bigid",
+  "title": "BigID",
+  "subtitle": "BigID helps organizations understand the risks and their potential exposure of that information through deep Data Sci...",
+  "tags": [
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719127/catalog/bigid/icon128x128.jpg",
+  "website": "https://bigid.com",
+  "docsUrl": "https://developer.bigid.com/"
+}

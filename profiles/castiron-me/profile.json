@@ -1,0 +1,15 @@
+{
+  "id": "castiron-me",
+  "title": "Castiron",
+  "subtitle": "Castiron is a software platform built to help independent cooks, bakers, and food artisans start, build, and grow the...",
+  "tags": [
+    "foodtech",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635900789/icons/castiron-me.jpg",
+  "website": "https://www.castiron.me/",
+  "docsUrl": "https://castiron.helpscoutdocs.com"
+}

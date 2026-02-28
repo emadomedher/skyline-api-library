@@ -1,0 +1,13 @@
+{
+  "id": "klenty",
+  "title": "Klenty",
+  "subtitle": "Klenty is a sales engagement and lead generation tool that helps you send personalized emails and automated followups...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305254/catalog/klenty/icon128x128.png",
+  "website": "https://klenty.com"
+}

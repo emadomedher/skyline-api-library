@@ -1,0 +1,13 @@
+{
+  "id": "siteleaf",
+  "title": "Siteleaf",
+  "subtitle": "Send invitations to clients, colleagues, and others to edit and review sites. Managing content in Siteleaf is easy en...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306102/catalog/siteleaf/icon128x128.png",
+  "website": "https://www.siteleaf.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "xmetal",
+  "title": "XMetaL",
+  "subtitle": "XMetaL Author Enterprise helps you get to market faster by bringing structure and automation to content creation. Usi...",
+  "tags": [
+    "xml-editors",
+    "structured-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579797329/catalog/xmetal/icon128x128.jpg",
+  "website": "https://xmetal.com/",
+  "docsUrl": "https://xmetal.com/content-xmetal-developer"
+}

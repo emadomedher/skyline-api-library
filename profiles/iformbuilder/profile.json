@@ -1,0 +1,13 @@
+{
+  "id": "iformbuilder",
+  "title": "iFormBuilder",
+  "subtitle": "iFormBuilder is a universal, cloud based mobile data collection (\"forms\") platform with an emphasis on security on mo...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305161/catalog/iformbuilder/icon128x128.png",
+  "website": "https://www.iformbuilder.com/"
+}

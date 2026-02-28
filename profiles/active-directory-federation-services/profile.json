@@ -1,0 +1,13 @@
+{
+  "id": "active-directory-federation-services",
+  "title": "Active Directory Federation Services",
+  "subtitle": "Active Directory Federation Services API integration",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593705336/icons/active-directory-federation-services.png",
+  "website": "https://docs.microsoft.com/en-us/windows-server/identity/active-directory-federation-services"
+}

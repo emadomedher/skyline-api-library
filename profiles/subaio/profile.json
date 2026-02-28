@@ -1,0 +1,15 @@
+{
+  "id": "subaio",
+  "title": "Subaio",
+  "subtitle": "Subaio offers a white-label subscription management solution for banks. With Subaio users can track and cancel subscr...",
+  "tags": [
+    "subscription-management",
+    "banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589831416/catalog/subaio/icon128x128.png",
+  "website": "https://subaio.com/"
+}

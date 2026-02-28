@@ -1,0 +1,14 @@
+{
+  "id": "bancatransilvania-ro",
+  "title": "Banca Transilvania",
+  "subtitle": "Banca Transilvania S.A. is a banking institution with headquarters in Cluj-Napoca, Romania.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592519788/icons/bancatransilvania-ro.png",
+  "website": "https://www.bancatransilvania.ro/",
+  "docsUrl": "https://apistorebt.ro/bt/sb/"
+}

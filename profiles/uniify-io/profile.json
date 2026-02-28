@@ -1,0 +1,14 @@
+{
+  "id": "uniify-io",
+  "title": "Uniify ",
+  "subtitle": "Uniify is a no-code customer onboarding software that makes it fast, easy and secure for financial companies to onboa...",
+  "tags": [
+    "customer-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663733110/icons/uniify-io.png",
+  "website": "https://uniify.io/",
+  "docsUrl": "https://docs.kreditdata.dk"
+}

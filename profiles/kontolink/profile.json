@@ -1,0 +1,13 @@
+{
+  "id": "kontolink",
+  "title": "Kontolink",
+  "subtitle": "kontolink automatically collects receipts and invoices from e-mail, dropbox and more, and attach it to the correct ba...",
+  "tags": [
+    "receipts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614349/catalog/kontolink/icon128x128.png",
+  "website": "https://kontolink.com/english-2/"
+}

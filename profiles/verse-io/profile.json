@@ -1,0 +1,14 @@
+{
+  "id": "verse-io",
+  "title": "Verse.io",
+  "subtitle": "We engage, qualify, and convert your inbound leads with our unique blend of 2-way text, AI-powered technology, and sk...",
+  "tags": [
+    "real-estate",
+    "lead-bots"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207267/icons/verse-io.png",
+  "website": "https://verse.io/"
+}

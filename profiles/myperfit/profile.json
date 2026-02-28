@@ -1,0 +1,14 @@
+{
+  "id": "myperfit",
+  "title": "Perfit Email Marketing",
+  "subtitle": "Perfit es la aplicación de Email Marketing que te permitirá enviar a cada contacto lo que desea recibir. Comienza con...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639528627/icons/myperfit.jpg",
+  "website": "https://myperfit.com",
+  "docsUrl": "https://developers.myperfit.com"
+}

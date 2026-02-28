@@ -1,0 +1,14 @@
+{
+  "id": "banco-de-sabadell",
+  "title": "Banco Sabadell",
+  "subtitle": "Banco de Sabadell, S.A. is a Spanish multinational financial services company headquartered in Alicante, Spain. It is...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568914135/catalog/banco-de-sabadell/icon128x128.jpg",
+  "website": "https://www.bancsabadell.com/cs/Satellite/SabAtl/",
+  "docsUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/sabadell"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "knightley-co",
+  "title": "KnightleyCo",
+  "subtitle": "Knightley provides an off the shelf data room with all the folders you need to look like a superfounder in due dilige...",
+  "tags": [
+    "founders",
+    "startup",
+    "investor-due-diligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622794458/icons/knightley-co.jpg",
+  "website": "https://www.knightley.co/"
+}

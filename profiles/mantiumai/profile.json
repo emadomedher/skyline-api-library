@@ -1,0 +1,15 @@
+{
+  "id": "mantiumai",
+  "title": "Mantium",
+  "subtitle": "Mantium is a developer tool platform that provides: logging, human in the loop, prompt management, prompt workflows, ...",
+  "tags": [
+    "prompt-management",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620412838/icons/mantiumai.png",
+  "website": "https://mantiumai.com/",
+  "docsUrl": "https://mantiumai.com/#"
+}

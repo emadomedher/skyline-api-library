@@ -1,0 +1,14 @@
+{
+  "id": "getleeway",
+  "title": "Leeway",
+  "subtitle": "Négociez et gérez vos contrats simplement | Leeway",
+  "tags": [
+    "contracts",
+    "contract-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586894473/catalog/getleeway/icon128x128.jpg",
+  "website": "https://getleeway.com/"
+}

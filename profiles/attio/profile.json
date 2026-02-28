@@ -1,0 +1,14 @@
+{
+  "id": "attio",
+  "title": "Attio",
+  "subtitle": "Unlock your team's true potential with Attio, the data-driven CRM for modern teams. Manage everything from sales lead...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645518463/icons/attio.jpg",
+  "website": "https://attio.com/",
+  "docsUrl": "https://attio.com/docs"
+}

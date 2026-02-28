@@ -1,0 +1,12 @@
+{
+  "id": "tradegecko",
+  "title": "TradeGecko",
+  "subtitle": "TradeGecko is an inventory and order management platform for modern merchants.\nAll of your inventory, orders and cust...",
+  "tags": [
+    "management-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306360/catalog/tradegecko/icon128x128.png"
+}

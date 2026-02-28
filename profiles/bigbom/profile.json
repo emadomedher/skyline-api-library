@@ -1,0 +1,13 @@
+{
+  "id": "bigbom",
+  "title": "Bigbom",
+  "subtitle": "Bigbom API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433279/catalog/bigbom/icon128x128.png",
+  "website": "https://bigbom.com"
+}

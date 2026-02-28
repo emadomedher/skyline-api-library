@@ -1,0 +1,13 @@
+{
+  "id": "breyta-io",
+  "title": "Breyta.io",
+  "subtitle": "Breyta helps you spend more time closing deals. Unify your customer and user data to get automatic insights throughou...",
+  "tags": [
+    "product-led-sales"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659713428/icons/breyta-io.jpg",
+  "website": "https://breyta.io/"
+}

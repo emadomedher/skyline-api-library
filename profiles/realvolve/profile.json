@@ -1,0 +1,12 @@
+{
+  "id": "realvolve",
+  "title": "Realvolve",
+  "subtitle": "The real estate CRM that works the way you do. Manage people, listings, transactions and activities with powerful wor...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305835/catalog/realvolve/icon128x128.png"
+}

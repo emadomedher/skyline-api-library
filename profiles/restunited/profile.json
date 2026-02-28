@@ -1,0 +1,14 @@
+{
+  "id": "restunited",
+  "title": "REST United",
+  "subtitle": "Automated SDK Generation with easy-to-follow documentation and example code",
+  "tags": [
+    "sdk-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603867685/icons/restunited.png",
+  "website": "https://restunited.com/",
+  "docsUrl": "https://restunited.com/#section_doc"
+}

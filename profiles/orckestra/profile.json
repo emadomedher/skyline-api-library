@@ -1,0 +1,13 @@
+{
+  "id": "orckestra",
+  "title": "Orckestra",
+  "subtitle": "Orckestra API integration",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963426/catalog/orckestra/icon128x128.png",
+  "website": "https://orckestra.com"
+}

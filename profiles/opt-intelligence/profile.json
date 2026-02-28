@@ -1,0 +1,13 @@
+{
+  "id": "opt-intelligence",
+  "title": "Opt Intelligence",
+  "subtitle": "Opt Intelligence API integration",
+  "tags": [
+    "native/content-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827108/catalog/opt-intelligence/icon128x128.png",
+  "website": "https://opt-intelligence.com"
+}

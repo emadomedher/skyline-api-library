@@ -1,0 +1,13 @@
+{
+  "id": "amazon-aurora",
+  "title": "Amazon Aurora",
+  "subtitle": "Amazon Aurora API integration",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581895328/catalog/amazon-aurora/icon128x128.png",
+  "website": "https://aws.amazon.com/rds/aurora/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nedbank-za",
+  "title": "Nedbank",
+  "subtitle": "Nedbank Group is a financial services group in South Africa offering wholesale and retail banking services as well as...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792162/icons/nedbank-za.png",
+  "website": "https://www.nedbank.co.za/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "apibuilder-io",
+  "title": "API Builder",
+  "subtitle": "Simple, Comprehensive Tooling for Modern APIs",
+  "tags": [
+    "api-design",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597857224/icons/apibuilder-io.png",
+  "website": "https://www.apibuilder.io/"
+}

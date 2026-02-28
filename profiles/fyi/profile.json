@@ -1,0 +1,13 @@
+{
+  "id": "fyi",
+  "title": "FYI",
+  "subtitle": "Get access to the documents you need, right when you need them, in a new tab. FYI connects with G Suite, Slack, Dropb...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434801/catalog/fyi/icon128x128.png",
+  "website": "https://usefyi.com"
+}

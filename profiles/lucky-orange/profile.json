@@ -1,0 +1,13 @@
+{
+  "id": "lucky-orange",
+  "title": "Lucky Orange",
+  "subtitle": "Lucky Orange will help you answer the question of why 99% of visitors that visit your site never turn into customers....",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439254/catalog/lucky-orange/icon128x128.svg",
+  "website": "https://luckyorange.com"
+}

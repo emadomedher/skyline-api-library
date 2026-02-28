@@ -1,0 +1,14 @@
+{
+  "id": "showhue",
+  "title": "ShowHue",
+  "subtitle": "Best AI-powered tools for eCommerce sellers. Save more time by creating amazing product photos in seconds. Improve co...",
+  "tags": [
+    "product-image"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638213314/icons/showhue.jpg",
+  "website": "https://showhue.com/",
+  "docsUrl": "https://showhue.com/docs/usee"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "karate-dsl",
+  "title": "Karate",
+  "subtitle": "Test Automation Made Simple. The only open-source tool that unifies API test-automation, mocks, performance-testing a...",
+  "tags": [
+    "api-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611610216/icons/karate-dsl.jpg",
+  "website": "https://intuit.github.io/karate/"
+}

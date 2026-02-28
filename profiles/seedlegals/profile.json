@@ -1,0 +1,14 @@
+{
+  "id": "seedlegals",
+  "title": "SeedLegals",
+  "subtitle": "SeedLegals is the one-stop platform for all the legals to get funded and grow your business.",
+  "tags": [
+    "legal",
+    "funding"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801252/catalog/seedlegals/icon128x128.jpg",
+  "website": "https://seedlegals.com/"
+}

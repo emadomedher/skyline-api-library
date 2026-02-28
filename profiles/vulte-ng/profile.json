@@ -1,0 +1,13 @@
+{
+  "id": "vulte-ng",
+  "title": "VULTe",
+  "subtitle": "The Digital Bank from Polaris Bank. What is VULTe? VULTe is a fully digital bank accessible via your smartphones and ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621884388/icons/vulte-ng.webp",
+  "website": "https://vulte.ng/"
+}

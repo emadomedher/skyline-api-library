@@ -1,0 +1,15 @@
+{
+  "id": "fossa",
+  "title": "FOSSA",
+  "subtitle": "Open source license management for enterprise. Get an accurate view of your dependencies in realtime with deep code s...",
+  "tags": [
+    "open-source-management",
+    "open-source-license-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591483666/icons/fossa.jpg",
+  "website": "https://fossa.com/",
+  "docsUrl": "https://docs.fossa.com/docs/supported-languages"
+}

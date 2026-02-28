@@ -1,0 +1,13 @@
+{
+  "id": "jostle",
+  "title": "Jostle",
+  "subtitle": "Jostle’s cloud-based simple intranet solution; the next-generation intranet that improves employee engagement and int...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435302/catalog/jostle/icon128x128.png",
+  "website": "https://jostle.me"
+}

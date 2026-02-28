@@ -1,0 +1,13 @@
+{
+  "id": "getsparkage",
+  "title": "Getsparkage",
+  "subtitle": "Sparkage is a mobile-first, cloud-based platform with all of the customer engagement and loyalty tools needed to brin...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720217/catalog/getsparkage/icon128x128.jpg",
+  "website": "https://getsparkage.com"
+}

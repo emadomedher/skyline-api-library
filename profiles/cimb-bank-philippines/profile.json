@@ -1,0 +1,13 @@
+{
+  "id": "cimb-bank-philippines",
+  "title": "CIMB Bank Philippines",
+  "subtitle": "Have a secured and easy to manage bank account for your personal savings, investments, and loan applications in just ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639015151/icons/cimb-bank-philippines.jpg",
+  "website": "https://www.cimbbank.com.ph/"
+}

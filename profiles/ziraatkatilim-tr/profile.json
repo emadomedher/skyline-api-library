@@ -1,0 +1,14 @@
+{
+  "id": "ziraatkatilim-tr",
+  "title": "Ziraat Katılım",
+  "subtitle": "Ziraat Katılım is a state-owned participation bank in Turkey. The bank was founded on 12 May 2015, and is wholly owne...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606355124/icons/ziraatkatilim-tr.png",
+  "website": "https://www.ziraatkatilim.com.tr/",
+  "docsUrl": "https://apiportal.ziraatkatilim.com.tr/tr/"
+}

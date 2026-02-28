@@ -1,0 +1,15 @@
+{
+  "id": "icepay",
+  "title": "ICEPAY",
+  "subtitle": "  Gratis testen zonder verplichtingen en geen creditcard nodig   20,000 merchants gingen u voor   Omnichannel betaalo...",
+  "tags": [
+    "payments",
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599743981/icons/icepay.jpg",
+  "website": "https://icepay.com/",
+  "docsUrl": "https://icepay.com/#"
+}

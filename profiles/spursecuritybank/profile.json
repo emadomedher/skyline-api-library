@@ -1,0 +1,13 @@
+{
+  "id": "spursecuritybank",
+  "title": "Spur Security Bank",
+  "subtitle": "Spur Security Bank API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602559253/icons/spursecuritybank.jpg",
+  "website": "https://www.spursecuritybank.com/"
+}

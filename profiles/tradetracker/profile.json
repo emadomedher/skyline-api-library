@@ -1,0 +1,13 @@
+{
+  "id": "tradetracker",
+  "title": "TradeTracker.com",
+  "subtitle": "Affiliate marketing platform for advertisers and publishers; easy to use online advertising software with an internat...",
+  "tags": [
+    "affiliate-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415406/catalog/tradetracker/icon128x128.png",
+  "website": "https://tradetracker.com/"
+}

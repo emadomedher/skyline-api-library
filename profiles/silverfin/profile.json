@@ -1,0 +1,14 @@
+{
+  "id": "silverfin",
+  "title": "Silverfin",
+  "subtitle": "Silverfin is the single source of truth for live and historical data making it the ideal platform to build advisory s...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548081105/catalog/silverfin/icon128x128.jpg",
+  "website": "https://www.silverfin.com/",
+  "docsUrl": "https://developer.silverfin.com/docs"
+}

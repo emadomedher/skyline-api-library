@@ -1,0 +1,14 @@
+{
+  "id": "tradeledger-io",
+  "title": "Trade Ledger®",
+  "subtitle": "Trade Ledger is a fully integrated Lending Platform enabling financial institutions to transform their complex mid-ma...",
+  "tags": [
+    "invoice-financing",
+    "leding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611731830/icons/tradeledger-io.jpg",
+  "website": "https://tradeledger.io/"
+}

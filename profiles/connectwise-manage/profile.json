@@ -1,0 +1,13 @@
+{
+  "id": "connectwise-manage",
+  "title": "ConnectWise Manage",
+  "subtitle": "ConnectWise Manage is a business management platform designed to successfully run and grow your technology business.",
+  "tags": [
+    "management-tools",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304678/catalog/connectwise-manage/icon128x128.png"
+}

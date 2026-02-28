@@ -1,0 +1,14 @@
+{
+  "id": "onwardshr",
+  "title": "Onwards HR",
+  "subtitle": "Simplify employee separations in compliance with corporate policy and \nemployment laws.",
+  "tags": [
+    "severance-package-management",
+    "employee-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660241555/icons/onwardshr.jpg",
+  "website": "https://www.onwardshr.com/"
+}

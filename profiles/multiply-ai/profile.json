@@ -1,0 +1,14 @@
+{
+  "id": "multiply-ai",
+  "title": "Multiply.AI",
+  "subtitle": "Get a free financial plan to hit your goals",
+  "tags": [
+    "financial-planning",
+    "home-buying"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618792272/icons/multiply-ai.jpg",
+  "website": "https://multiply.ai/"
+}

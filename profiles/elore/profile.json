@@ -1,0 +1,12 @@
+{
+  "id": "elore",
+  "title": "Elore",
+  "subtitle": "Elore is a complete, user-friendly e-learning platform.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284505/catalog/elore/icon128x128.png"
+}

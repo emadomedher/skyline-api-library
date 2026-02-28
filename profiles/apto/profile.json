@@ -1,0 +1,13 @@
+{
+  "id": "apto",
+  "title": "Apto",
+  "subtitle": "More than a CRM, Apto commercial real estate software helps you build better relationships, win more business, and cl...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718996/catalog/apto/icon128x128.png",
+  "website": "https://apto.com"
+}

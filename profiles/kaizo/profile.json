@@ -1,0 +1,13 @@
+{
+  "id": "kaizo",
+  "title": "Kaizo",
+  "subtitle": "Kaizo is a performance management platform for customer support heroes using Zendesk. Get real-time insights, quality...",
+  "tags": [
+    "contact-center-quality-assurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023417/icons/kaizo.jpg",
+  "website": "https://kaizo.com/"
+}

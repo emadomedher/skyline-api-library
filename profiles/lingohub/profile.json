@@ -1,0 +1,13 @@
+{
+  "id": "lingohub",
+  "title": "Lingohub",
+  "subtitle": "Master translation and connect with world leading translators. Automate and optimize your translation workflow with L...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826841/catalog/lingohub/icon128x128.jpg",
+  "website": "https://lingohub.com"
+}

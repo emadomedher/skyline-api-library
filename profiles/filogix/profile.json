@@ -1,0 +1,14 @@
+{
+  "id": "filogix",
+  "title": "Filogix",
+  "subtitle": "Filogix API integration",
+  "tags": [
+    "mortgage-marketplaces",
+    "mortgage"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605055352/icons/filogix.png",
+  "website": "https://www.filogix.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "gosympl",
+  "title": "sympl",
+  "subtitle": "The sympl software helps you recruit passive candidates through targeted advertising. No marketing experience needed.",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653929558/icons/gosympl.jpg",
+  "website": "https://gosympl.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "swarm",
+  "title": "Swarm",
+  "subtitle": "Swarm by Foursquare is a popular geographical location-based social network that incorporates gaming elements.",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306257/catalog/swarm/icon128x128.png"
+}

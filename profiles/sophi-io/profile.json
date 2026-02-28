@@ -1,0 +1,14 @@
+{
+  "id": "sophi-io",
+  "title": "Sophi",
+  "subtitle": "Sophi API integration",
+  "tags": [
+    "content-paywall",
+    "publishers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609900073/icons/sophi-io.png",
+  "website": "https://www.sophi.io/"
+}

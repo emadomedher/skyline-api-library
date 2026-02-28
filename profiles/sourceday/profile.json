@@ -1,0 +1,13 @@
+{
+  "id": "sourceday",
+  "title": "SourceDay",
+  "subtitle": "SourceDay is a modern supplier portal changing how companies work with suppliers. Manage POs, RFQ, invoices, and qual...",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586354017/catalog/sourceday/icon128x128.jpg",
+  "website": "https://sourceday.com/"
+}

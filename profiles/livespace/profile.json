@@ -1,0 +1,13 @@
+{
+  "id": "livespace",
+  "title": "Livespace",
+  "subtitle": "Livespace is a sales CRM to help organise your teams,ensuring everyone knows the next step to winning their deals.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178311/catalog/livespace/icon128x128.png",
+  "website": "https://livespace.io"
+}

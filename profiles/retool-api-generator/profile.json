@@ -1,0 +1,13 @@
+{
+  "id": "retool-api-generator",
+  "title": "Mock API Generator by Retool",
+  "subtitle": "Backend not ready? Still waiting for database access? Generate a custom dataset that you can read and write to via a ...",
+  "tags": [
+    "api-mocking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617836716/icons/retool-api-generator.jpg",
+  "website": "https://retool.com/api-generator/"
+}

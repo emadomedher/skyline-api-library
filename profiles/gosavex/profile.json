@@ -1,0 +1,13 @@
+{
+  "id": "gosavex",
+  "title": "Gosavex",
+  "subtitle": "Help someone you care about avoid high interest charges! Gosavex helps you to formalise loan agreements and repayment...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598821748/icons/gosavex.jpg",
+  "website": "https://gosavex.com/"
+}

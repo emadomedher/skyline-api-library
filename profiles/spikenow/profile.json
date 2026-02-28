@@ -1,0 +1,15 @@
+{
+  "id": "spikenow",
+  "title": "Spike",
+  "subtitle": "Spike's conversational email app makes working easier and more efficient. Saving you and your team time, sanity, and ...",
+  "tags": [
+    "email",
+    "collaborative-inbox"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311378/catalog/spikenow/icon128x128.jpg",
+  "website": "https://www.spikenow.com/",
+  "docsUrl": "https://www.spikenow.com/use-cases/freelance-web-designer-developer"
+}

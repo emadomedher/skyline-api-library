@@ -1,0 +1,15 @@
+{
+  "id": "onity",
+  "title": "Onity",
+  "subtitle": "Onity API integration",
+  "tags": [
+    "keylocks",
+    "hospitality",
+    "non-software"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751547/icons/onity.jpg",
+  "website": "https://onity.com/"
+}

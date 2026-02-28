@@ -1,0 +1,14 @@
+{
+  "id": "reamaze",
+  "title": "Re",
+  "subtitle": "Re:amaze is Simple, Intuitive Customer Support Software. Support, Engage, and Convert Customers with Chat, Social, SM...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305829/catalog/reamaze/icon128x128.png",
+  "website": "https://www.reamaze.com/",
+  "docsUrl": "https://www.reamaze.com/developer"
+}

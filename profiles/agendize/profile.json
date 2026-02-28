@@ -1,0 +1,14 @@
+{
+  "id": "agendize",
+  "title": "Agendize",
+  "subtitle": "Agendize is a customer engagement platform that offers easy appointment booking, contact management, live chat and ca...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304368/catalog/agendize/icon128x128.png",
+  "website": "https://www.agendize.com",
+  "docsUrl": "http://developers.agendize.com/"
+}

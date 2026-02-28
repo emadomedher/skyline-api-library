@@ -1,0 +1,13 @@
+{
+  "id": "hyperise",
+  "title": "Hyperise",
+  "subtitle": "Personalize website text, images, and CTAs for each visitor without writing a single line of code.",
+  "tags": [
+    "website-personalisation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589177246/catalog/hyperise/icon128x128.png",
+  "website": "https://hyperise.com/"
+}

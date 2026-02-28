@@ -1,0 +1,12 @@
+{
+  "id": "bappo",
+  "title": "Bappo",
+  "subtitle": "Bappo is a cloud platform that enables normal people to create integrated business applications quickly.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284449/catalog/bappo/icon128x128.png"
+}

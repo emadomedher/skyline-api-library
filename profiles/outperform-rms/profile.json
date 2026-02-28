@@ -1,0 +1,13 @@
+{
+  "id": "outperform-rms",
+  "title": "OutPerform",
+  "subtitle": "The Revenue Management is changing. Focus on mastery not admin! OutPerform Revenue Management System aggregates data ...",
+  "tags": [
+    "hotel-revenue-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612733236/icons/outperform-rms.png",
+  "website": "https://outperform-rms.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "snowplow-analytics",
+  "title": "Snowplow Analytics",
+  "subtitle": "Snowplow Analytics technology gives you control of your own data, setting your team free to use data to be transforma...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722171/catalog/snowplow-analytics/icon128x128.png",
+  "website": "https://snowplowanalytics.com",
+  "docsUrl": "http://docs.snowplowanalytics.com/"
+}

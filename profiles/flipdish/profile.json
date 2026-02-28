@@ -1,0 +1,14 @@
+{
+  "id": "flipdish",
+  "title": "Flipdish",
+  "subtitle": "Flipdish is everything you need to take orders direct from your own sites and apps, offer digital ordering from kiosk...",
+  "tags": [
+    "online-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640816192/icons/flipdish.jpg",
+  "website": "https://www.flipdish.com/gb",
+  "docsUrl": "https://developers.flipdish.com"
+}

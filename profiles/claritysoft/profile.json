@@ -1,0 +1,13 @@
+{
+  "id": "claritysoft",
+  "title": "Claritysoft",
+  "subtitle": "Claritysoft CRM software helps small & medium size companies organize and optimize the business to drive performance ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719445/catalog/claritysoft/icon128x128.jpg",
+  "website": "https://claritysoft.com"
+}

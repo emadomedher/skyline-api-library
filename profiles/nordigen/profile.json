@@ -1,0 +1,15 @@
+{
+  "id": "nordigen",
+  "title": "Nordigen",
+  "subtitle": "Nordigen is an account data analytics platform for building powerful applications, on-boarding flows, and customer ex...",
+  "tags": [
+    "banking-api-aggregators",
+    "financial-data-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607030344/icons/nordigen.png",
+  "website": "https://nordigen.com/",
+  "docsUrl": "https://nordigen.com/en/account_information_documenation/api-documention/overview"
+}

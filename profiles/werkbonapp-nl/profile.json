@@ -1,0 +1,14 @@
+{
+  "id": "werkbonapp-nl",
+  "title": "WerkbonApp",
+  "subtitle": "WerkbonApp API integration",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562929877/catalog/werkbonapp-nl/icon128x128.png",
+  "website": "https://werkbonapp.nl",
+  "docsUrl": "https://www.werkbonapp.nl/iosdeveloper"
+}

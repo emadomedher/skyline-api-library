@@ -1,0 +1,14 @@
+{
+  "id": "clarity-io",
+  "title": "Clarity Movement",
+  "subtitle": "Clarity’s cost-effective, reliable air quality monitoring and measurement system is currently deployed in more than 6...",
+  "tags": [
+    "air-quality-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656700704/icons/clarity-io.jpg",
+  "website": "https://www.clarity.io/",
+  "docsUrl": "https://www.clarity.io/resource#documentation"
+}

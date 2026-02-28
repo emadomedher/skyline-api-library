@@ -1,0 +1,13 @@
+{
+  "id": "reklam-store",
+  "title": "Reklam Store",
+  "subtitle": "Reklam Store API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436897/catalog/reklam-store/icon128x128.png",
+  "website": "https://reklamstore.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hibob",
+  "title": "Hibob",
+  "subtitle": "bob is a people management platform that helps fast-growing companies bring out the best in their employees. Our HR s...",
+  "tags": [
+    "hris",
+    "hr",
+    "people-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610129717/icons/hibob.jpg",
+  "website": "https://www.hibob.com/",
+  "docsUrl": "https://apidocs.hibob.com/reference"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rain",
+  "title": "Rain",
+  "subtitle": "Rain API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436802/catalog/rain/icon128x128.png",
+  "website": "https://rainlocal.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kuia",
+  "title": "Kuia",
+  "subtitle": "Get on-brand, memorable interactive quizzes, calculators, charts, and more made for you, every month in half the time...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435427/catalog/kuia/icon128x128.png",
+  "website": "https://kuia.com"
+}

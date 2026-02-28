@@ -1,0 +1,14 @@
+{
+  "id": "scaledrone",
+  "title": "Scaledrone",
+  "subtitle": "Scaledrone is a realtime messaging service and platform. Send live updates, create chatrooms and collaborative tools.",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606481113/icons/scaledrone.jpg",
+  "website": "https://www.scaledrone.com/",
+  "docsUrl": "https://www.scaledrone.com/docs"
+}

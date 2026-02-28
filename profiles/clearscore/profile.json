@@ -1,0 +1,14 @@
+{
+  "id": "clearscore",
+  "title": "ClearScore",
+  "subtitle": "Get a free credit check today and get your credit score with a credit report. Free Credit Scores and Credit Reports f...",
+  "tags": [
+    "credit-scores"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572568031/catalog/clearscore/icon128x128.png",
+  "website": "https://www.clearscore.com/",
+  "docsUrl": "https://www.clearscore.com/credit-score/what-are-credit-reference-agencies"
+}

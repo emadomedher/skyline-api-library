@@ -1,0 +1,15 @@
+{
+  "id": "veriff",
+  "title": "Veriff",
+  "subtitle": "Highly automated identity verification software from Veriff. We help you build trust and transparency online.",
+  "tags": [
+    "identity-verification",
+    "kyc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643370401/icons/veriff.jpg",
+  "website": "https://www.veriff.com/",
+  "docsUrl": "https://developers.veriff.com"
+}

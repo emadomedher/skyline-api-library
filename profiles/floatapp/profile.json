@@ -1,0 +1,13 @@
+{
+  "id": "floatapp",
+  "title": "Floatapp",
+  "subtitle": "Visual, award-winning cash flow management and planning software! Float automatically updates your forecast with actu...",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720117/catalog/floatapp/icon128x128.jpg",
+  "website": "https://floatapp.com"
+}

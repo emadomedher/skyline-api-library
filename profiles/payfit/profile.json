@@ -1,0 +1,16 @@
+{
+  "id": "payfit",
+  "title": "PayFit",
+  "subtitle": "HMRC certified, PayFit automates everything from RTI submissions and employee payslips to leaves and expenses.",
+  "tags": [
+    "hris",
+    "payroll",
+    "hr-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583798793/catalog/payfit/icon128x128.jpg",
+  "website": "https://payfit.com/",
+  "docsUrl": "https://developers.payfit.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "snaplogic",
+  "title": "SnapLogic",
+  "subtitle": "SnapLogic's iPaaS platform empowers enterprises by automating application, data and cloud integration. Reach digital ...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722167/catalog/snaplogic/icon128x128.jpg",
+  "website": "https://snaplogic.com"
+}

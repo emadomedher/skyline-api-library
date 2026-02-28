@@ -1,0 +1,13 @@
+{
+  "id": "pureoxygenlabs",
+  "title": "PureOxygenLabs",
+  "subtitle": "PureOxygenLabs API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389775/catalog/pureoxygenlabs/icon128x128.png",
+  "website": "https://pureoxygenlabs.com"
+}

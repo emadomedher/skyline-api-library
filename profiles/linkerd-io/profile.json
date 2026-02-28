@@ -1,0 +1,14 @@
+{
+  "id": "linkerd-io",
+  "title": "Linkerd",
+  "subtitle": "Linkerd is an ultralight service mesh for Kubernetes. It gives you observability, reliability, and security without r...",
+  "tags": [
+    "service-mesh"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574004759/catalog/linkerd-io/icon128x128.jpg",
+  "website": "https://linkerd.io/",
+  "docsUrl": "https://linkerd.io/docs"
+}

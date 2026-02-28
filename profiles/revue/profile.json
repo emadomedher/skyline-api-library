@@ -1,0 +1,14 @@
+{
+  "id": "revue",
+  "title": "Revue",
+  "subtitle": "No algorithms or fighting to be seen in a news feed, just your writing in front of your subscribers, without the gues...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305884/catalog/revue/icon128x128.png",
+  "website": "https://www.getrevue.co/",
+  "docsUrl": "https://www.dataprotection.ie/docs/contact-us/b/11.htm"
+}

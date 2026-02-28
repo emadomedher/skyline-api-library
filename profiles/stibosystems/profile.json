@@ -1,0 +1,13 @@
+{
+  "id": "stibosystems",
+  "title": "Stibo Systems",
+  "subtitle": "Master Data Management Built for the Most Important Business in the World. Yours.\nMaster data is a universal challeng...",
+  "tags": [
+    "master-data-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581592723/catalog/stibosystems/icon128x128.png",
+  "website": "https://www.stibosystems.com/"
+}

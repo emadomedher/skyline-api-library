@@ -1,0 +1,13 @@
+{
+  "id": "manthan",
+  "title": "Manthan",
+  "subtitle": "Manthan API integration",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435738/catalog/manthan/icon128x128.png",
+  "website": "https://manthan.com"
+}

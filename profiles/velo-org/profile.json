@@ -1,0 +1,15 @@
+{
+  "id": "velo-org",
+  "title": "Velo",
+  "subtitle": "Velo API integration",
+  "tags": [
+    "blockchain",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606882765/icons/velo-org.jpg",
+  "website": "https://velo.org/",
+  "docsUrl": "https://velo.org/#"
+}

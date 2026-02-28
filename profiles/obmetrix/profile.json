@@ -1,0 +1,14 @@
+{
+  "id": "obmetrix",
+  "title": "OBmetrix",
+  "subtitle": "OBmetrix API integration",
+  "tags": [
+    "revops",
+    "sales-intelligence"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574204040/catalog/obmetrix/icon128x128.png",
+  "website": "https://appexchange.salesforce.com/listingDetail?listingId=a0N3A00000FR4myUAD"
+}

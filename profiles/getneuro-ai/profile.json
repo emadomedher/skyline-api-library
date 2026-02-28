@@ -1,0 +1,15 @@
+{
+  "id": "getneuro-ai",
+  "title": "Neuro",
+  "subtitle": "Train your model in the cloud instantly. Deploy in 1-click.",
+  "tags": [
+    "machine-learning-apis",
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625561022/icons/getneuro-ai.jpg",
+  "website": "https://www.getneuro.ai/",
+  "docsUrl": "https://docs.getneuro.ai"
+}

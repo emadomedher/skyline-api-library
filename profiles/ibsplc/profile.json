@@ -1,0 +1,14 @@
+{
+  "id": "ibsplc",
+  "title": "IBS Software",
+  "subtitle": "IBS Software is a leading global provider of next generation IT solutions to the Travel, Transportation & Logistics i...",
+  "tags": [
+    "cargo",
+    "logistis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592818030/icons/ibsplc.jpg",
+  "website": "https://www.ibsplc.com/"
+}

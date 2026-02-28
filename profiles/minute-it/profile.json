@@ -1,0 +1,13 @@
+{
+  "id": "minute-it",
+  "title": "Minute-It",
+  "subtitle": "Minute-it is collaborative meeting productivity software. It allows you to manage your meetings, minutes and actions ...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305454/catalog/minute-it/icon128x128.png",
+  "website": "https://www.minute-it.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "runpanther-io",
+  "title": "Panther Labs",
+  "subtitle": "Panther is a cloud-scale security analytics platform. Alleviate the pains of traditional SIEM with detections-as-code...",
+  "tags": [
+    "siem"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632258405/icons/runpanther-io.jpg",
+  "website": "https://runpanther.io/",
+  "docsUrl": "https://docs.runpanther.io"
+}

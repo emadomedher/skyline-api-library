@@ -1,0 +1,13 @@
+{
+  "id": "hireology",
+  "title": "Hireology",
+  "subtitle": "Attract, hire, and manage talent from one HR & recruitment platform. Turn hiring, HR, and payroll into a process your...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679688035/icons/hireology.jpg",
+  "website": "https://hireology.com/"
+}

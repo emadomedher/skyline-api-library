@@ -1,0 +1,14 @@
+{
+  "id": "mailsauce",
+  "title": "MailSauce",
+  "subtitle": "Here at MailSauce we believe that marketing should be super duper easy. We understand it isn't easy in todays world s...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623343875/icons/mailsauce.jpg",
+  "website": "https://www.mailsauce.com/",
+  "docsUrl": "https://docs.mailsauce.com/docs-home"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "epirusbank",
+  "title": "Bank of Epirus",
+  "subtitle": "The bank for the small and medium-sized enterprises in Epirus.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600383044/icons/epirusbank.jpg",
+  "website": "https://www.epirusbank.com/",
+  "docsUrl": "https://developers.epirusbank.openbank.gr"
+}

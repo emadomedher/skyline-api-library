@@ -1,0 +1,14 @@
+{
+  "id": "dotnet",
+  "title": ".NET",
+  "subtitle": "NET is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, ga...",
+  "tags": [
+    "frameworks",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559417570/catalog/dotnet/icon128x128.png",
+  "website": "https://dotnet.microsoft.com/"
+}

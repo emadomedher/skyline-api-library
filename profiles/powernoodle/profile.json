@@ -1,0 +1,13 @@
+{
+  "id": "powernoodle",
+  "title": "Powernoodle",
+  "subtitle": "Powernoodle® is cloud software that helps organizations make better \ndecisions by leveraging Stakeholder Intelligence™",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721567/catalog/powernoodle/icon128x128.jpg",
+  "website": "https://powernoodle.com"
+}

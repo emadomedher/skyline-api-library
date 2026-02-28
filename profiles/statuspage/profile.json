@@ -1,0 +1,14 @@
+{
+  "id": "statuspage",
+  "title": "Statuspage",
+  "subtitle": "StatusPage.io is the best way for web infrastructure, developer API, and SaaS companies to get set up with their very...",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1553786694/catalog/statuspage/icon128x128.png",
+  "website": "https://www.statuspage.io/",
+  "docsUrl": "https://developer.statuspage.io"
+}

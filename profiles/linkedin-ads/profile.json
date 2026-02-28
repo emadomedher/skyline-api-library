@@ -1,0 +1,12 @@
+{
+  "id": "linkedin-ads",
+  "title": "LinkedIn Ads",
+  "subtitle": "Generate leads, drive website traffic, and build brand awareness. Promote your business with LinkedIn ads.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1082424539492073477/exU8rYn8_400x400.jpg"
+}

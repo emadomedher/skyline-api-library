@@ -1,0 +1,13 @@
+{
+  "id": "quonticbank",
+  "title": "Quontic Bank",
+  "subtitle": "Quontic is a U.S.-based bank headquartered in Manhattan, New York City. Quontic has additional locations in Astoria, ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608287812/icons/quonticbank.jpg",
+  "website": "https://www.quonticbank.com/"
+}

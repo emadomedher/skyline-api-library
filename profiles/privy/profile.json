@@ -1,0 +1,15 @@
+{
+  "id": "privy",
+  "title": "Privy",
+  "subtitle": "Rated the #1 sales app in the Shopify App Store. Used by 600,000+ small ecommerce businesses around the world to make...",
+  "tags": [
+    "email-newsletters",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305743/catalog/privy/icon128x128.png",
+  "website": "https://privy.com",
+  "docsUrl": "https://help.privy.com/hc/en-us"
+}

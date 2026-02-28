@@ -1,0 +1,14 @@
+{
+  "id": "ubs",
+  "title": "UBS",
+  "subtitle": "UBS Group AG is a Swiss multinational investment bank and financial services company founded and based in Switzerland.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574083996/catalog/ubs/icon128x128.jpg",
+  "website": "https://www.ubs.com/global/en.html",
+  "docsUrl": "https://xs2a-devportal.ubs.com/"
+}

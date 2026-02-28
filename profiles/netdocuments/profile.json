@@ -1,0 +1,12 @@
+{
+  "id": "netdocuments",
+  "title": "NetDocuments",
+  "subtitle": "NetDocuments is a cloud content management service for businesses of all sizes to securely create, store, manage and ...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264814/catalog/netdocuments/icon128x128.png"
+}

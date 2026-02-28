@@ -1,0 +1,15 @@
+{
+  "id": "api2cart",
+  "title": "API2Cart",
+  "subtitle": "Connect your B2B eCommerce solution with 40+ shopping platforms and marketplaces at once. Strengthen your business wi...",
+  "tags": [
+    "unified-apis",
+    "ecommerce"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611731842/icons/api2cart.jpg",
+  "website": "https://api2cart.com/",
+  "docsUrl": "https://api2cart.com/e-commerce-api-integration-benefits-for-development"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tokbox",
+  "title": "Tokbox",
+  "subtitle": "TokBox’s WebRTC platform, OpenTok, makes it possible to add live video, voice and messaging to websites, iOS, and And...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946458/catalog/tokbox/icon128x128.png",
+  "website": "https://tokbox.com"
+}

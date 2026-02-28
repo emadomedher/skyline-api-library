@@ -1,0 +1,15 @@
+{
+  "id": "rainforestqa",
+  "title": "Rainforest QA",
+  "subtitle": "One platform for both crowdsourced manual and automated software testing. Everything your team needs in one place.",
+  "tags": [
+    "qa",
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606355129/icons/rainforestqa.jpg",
+  "website": "https://www.rainforestqa.com/",
+  "docsUrl": "https://app.rainforestqa.com/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "convergehub",
+  "title": "ConvergeHub",
+  "subtitle": "ConvergeHub is a new-age converged CRM software that functions as a comprehensive Business Management solution. It ma...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304691/catalog/convergehub/icon128x128.png",
+  "website": "https://convergehub.com"
+}

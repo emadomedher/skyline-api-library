@@ -1,0 +1,12 @@
+{
+  "id": "project-manager",
+  "title": "Project Manager",
+  "subtitle": "ProjectManager.com is a simple yet powerful online project management tool that enables you and your team to plan, tr...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305764/catalog/project-manager/icon128x128.png"
+}

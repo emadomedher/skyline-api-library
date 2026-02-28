@@ -1,0 +1,13 @@
+{
+  "id": "babbel",
+  "title": "Babbel",
+  "subtitle": "Learn a new language with conversation-based lessons that get you chatting with confidence from day 1. Learn what, wh...",
+  "tags": [
+    "language-learning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617729821/icons/babbel.png",
+  "website": "https://www.babbel.com/"
+}

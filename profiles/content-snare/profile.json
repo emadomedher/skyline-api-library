@@ -1,0 +1,13 @@
+{
+  "id": "content-snare",
+  "title": "Content Snare",
+  "subtitle": "A content gathering tool that helps digital agencies get website & marketing content from their clients on time, in t...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826151/catalog/content-snare/icon128x128.jpg",
+  "website": "https://contentsnare.com"
+}

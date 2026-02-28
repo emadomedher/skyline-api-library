@@ -1,0 +1,13 @@
+{
+  "id": "icharts",
+  "title": "iCharts",
+  "subtitle": "The leader in collaborative visual intelligence. iCharts' cloud-based Visual Analytics Platform can visualize any dat...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963795/catalog/icharts/icon128x128.png",
+  "website": "https://icharts.net"
+}

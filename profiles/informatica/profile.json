@@ -1,0 +1,13 @@
+{
+  "id": "informatica",
+  "title": "Informatica",
+  "subtitle": "Informatica API integration",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963767/catalog/informatica/icon128x128.png",
+  "website": "https://informatica.com"
+}

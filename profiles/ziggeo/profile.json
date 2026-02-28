@@ -1,0 +1,12 @@
+{
+  "id": "ziggeo",
+  "title": "Ziggeo",
+  "subtitle": "Ziggeo is an award-winning cloud-based service for in-browser/in-app video recording, playback, transcoding, storage ...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306581/catalog/ziggeo/icon128x128.png"
+}

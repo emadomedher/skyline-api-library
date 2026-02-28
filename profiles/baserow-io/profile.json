@@ -1,0 +1,16 @@
+{
+  "id": "baserow-io",
+  "title": "Baserow",
+  "subtitle": "Self hosted open source online database built with Django and Nuxt. Our tool gives you the powers of a developer with...",
+  "tags": [
+    "spreadsheets",
+    "databases"
+  ],
+  "category": "Productivity",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074607/icons/baserow-io.jpg",
+  "specUrl": "https://api.baserow.io/api/schema.json",
+  "website": "https://baserow.io/",
+  "docsUrl": "https://baserow.io/docs/index"
+}

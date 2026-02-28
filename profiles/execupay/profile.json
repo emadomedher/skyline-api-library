@@ -1,0 +1,13 @@
+{
+  "id": "execupay",
+  "title": "Execupay",
+  "subtitle": "Execupay API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554400453/catalog/execupay/icon128x128.jpg",
+  "website": "https://www.execupay.com/"
+}

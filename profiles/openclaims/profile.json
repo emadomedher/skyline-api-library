@@ -1,0 +1,14 @@
+{
+  "id": "openclaims",
+  "title": "Openclaims",
+  "subtitle": "Optimize body repair quality. Gain full control over body repair costs. Lower process costs. Create distinctive repai...",
+  "tags": [
+    "repair-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023413/icons/openclaims.png",
+  "website": "https://www.openclaims.com/",
+  "docsUrl": "https://developer.openclaims.com"
+}

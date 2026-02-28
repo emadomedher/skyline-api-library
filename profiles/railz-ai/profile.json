@@ -1,0 +1,15 @@
+{
+  "id": "railz-ai",
+  "title": "Railz",
+  "subtitle": "A single API connection to data from all major accounting software used by your SME customers. Proven performance in ...",
+  "tags": [
+    "accounting",
+    "unified-apis"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639854683/icons/railz-ai.png",
+  "website": "https://railz.ai/",
+  "docsUrl": "https://docs.railz.ai/reference"
+}

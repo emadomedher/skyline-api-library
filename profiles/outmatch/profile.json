@@ -1,0 +1,14 @@
+{
+  "id": "outmatch",
+  "title": "Outmatch",
+  "subtitle": "Outmatch API integration",
+  "tags": [
+    "video-recruitment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627931231/icons/outmatch.png",
+  "website": "https://outmatch.com/",
+  "docsUrl": "https://outmatch.com/products/reference"
+}

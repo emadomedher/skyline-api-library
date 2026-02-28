@@ -1,0 +1,12 @@
+{
+  "id": "feedier",
+  "title": "Feedier",
+  "subtitle": "Feedier lets you collect valuable feedback from your users by providing an enjoyable & rewarding experience.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284519/catalog/feedier/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "smbc-cojp",
+  "title": "SMBC",
+  "subtitle": "三井住友銀行のホームページです。口座開設、住宅ローン、外貨預金、投資信託等の各種商品・サービスについて掲載しています。インターネットバンキングでは、残高照会や振込、外貨預金や投資信託のお取り引きの他、便利なWeb通帳もご利用いただけます。",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563414771/catalog/smbc-cojp/icon128x128.png",
+  "website": "https://smbc.co.jp"
+}

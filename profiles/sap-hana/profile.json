@@ -1,0 +1,13 @@
+{
+  "id": "sap-hana",
+  "title": "SAP HANA",
+  "subtitle": "SAP HANA Cloud is a single database as a service (DBaaS) foundation for modern applications and analytics across all ...",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674004604/icons/sap-hana.jpg",
+  "website": "https://www.sap.com/products/technology-platform/hana.html"
+}

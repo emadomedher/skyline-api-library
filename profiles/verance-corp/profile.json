@@ -1,0 +1,13 @@
+{
+  "id": "verance-corp",
+  "title": "Verance Corp",
+  "subtitle": "Verance Corp API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946398/catalog/verance-corp/icon128x128.png",
+  "website": "https://verance.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "paddle",
+  "title": "Paddle",
+  "subtitle": "Paddle provides everything you need to sell software in one integration, with advanced solutions to help you grow and...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546481213/catalog/paddle/icon128x128.png",
+  "website": "https://paddle.com/"
+}

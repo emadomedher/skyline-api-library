@@ -1,0 +1,14 @@
+{
+  "id": "quicko",
+  "title": "Quicko",
+  "subtitle": "Need to file Income Tax Return, GSTR or TDS Return? Free ITR, GSTR & TDS return efiling online.",
+  "tags": [
+    "tax-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640656805/icons/quicko.jpg",
+  "website": "https://quicko.com/",
+  "docsUrl": "https://sandbox.co.in/docs"
+}

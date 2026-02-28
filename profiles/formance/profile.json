@@ -1,0 +1,16 @@
+{
+  "id": "formance",
+  "title": "Formance",
+  "subtitle": "Build complex money-moving flows using Formance open-source ledger and building blocks",
+  "tags": [
+    "ledger-as-a-service",
+    "open-source",
+    "payments-orchestration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655763620/icons/formance.jpg",
+  "website": "https://www.formance.com/",
+  "docsUrl": "https://docs.formance.com/api-reference/introduction"
+}

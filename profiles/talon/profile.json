@@ -1,0 +1,13 @@
+{
+  "id": "talon",
+  "title": "Talon",
+  "subtitle": "Talon.One is the leading API-based Promotion Engine for Coupon, Discount, Loyalty, Referral, and Product Bundling cam...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437859/catalog/talon/icon128x128.png",
+  "website": "https://talon.one"
+}

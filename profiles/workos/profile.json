@@ -1,0 +1,15 @@
+{
+  "id": "workos",
+  "title": "WorkOS",
+  "subtitle": "The easiest developer API for Single Sign-On (SSO), Directory Sync (SCIM), Audit Trail, and more.",
+  "tags": [
+    "identity",
+    "sso"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584473322/catalog/workos/icon128x128.jpg",
+  "website": "https://workos.com/",
+  "docsUrl": "https://workos.com/docs"
+}

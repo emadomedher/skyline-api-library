@@ -1,0 +1,13 @@
+{
+  "id": "amazon-quicksight",
+  "title": "Amazon QuickSight",
+  "subtitle": "Amazon QuickSight is a cloud-native, serverless, business intelligence with native ML integrations and usage-based pr...",
+  "tags": [
+    "business-intelligence"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620291104/icons/amazon-quicksight.jpg",
+  "website": "https://aws.amazon.com/quicksight/"
+}

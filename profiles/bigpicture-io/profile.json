@@ -1,0 +1,15 @@
+{
+  "id": "bigpicture-io",
+  "title": "BigPicture",
+  "subtitle": "BigPicture helps marketing and sales organizations identify, prioritize, and successfully act on targeted, strategic ...",
+  "tags": [
+    "lead-generation",
+    "anonymous-traffic-identification"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567567981/catalog/bigpicture-io/icon128x128.png",
+  "website": "https://bigpicture.io/",
+  "docsUrl": "https://bigpicture.io/docs"
+}

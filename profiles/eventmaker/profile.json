@@ -1,0 +1,12 @@
+{
+  "id": "eventmaker",
+  "title": "Eventmaker",
+  "subtitle": "Eventmaker is a platform for professional event managers and organizers. It provides everything required for a succes...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284512/catalog/eventmaker/icon128x128.png"
+}

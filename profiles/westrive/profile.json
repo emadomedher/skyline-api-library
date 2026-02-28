@@ -1,0 +1,13 @@
+{
+  "id": "westrive",
+  "title": "WeStrive",
+  "subtitle": "Grow your revenue with the best software for personal trainers and gym owners in 2022 - WeStrive. #1 app for personal...",
+  "tags": [
+    "gym"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568730/icons/westrive.jpg",
+  "website": "https://www.westrive.com/"
+}

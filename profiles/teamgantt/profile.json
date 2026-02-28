@@ -1,0 +1,13 @@
+{
+  "id": "teamgantt",
+  "title": "TeamGantt",
+  "subtitle": "Our online Gantt chart software can help plan your projects in minutes. Try our intuitive Gantt chart creator to make...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946491/catalog/teamgantt/icon128x128.png",
+  "website": "https://teamgantt.com"
+}

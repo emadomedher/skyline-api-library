@@ -1,0 +1,13 @@
+{
+  "id": "calltouch",
+  "title": "Calltouch",
+  "subtitle": "Calltouch — сервис веб-аналитики на основе коллтрекинга. Сервис Колтач для определения рекламных источников звонков, ...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433563/catalog/calltouch/icon128x128.png",
+  "website": "https://calltouch.ru"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "xing-events",
+  "title": "XING Events",
+  "subtitle": "XING Events is an event management tool that lets event organizers sell tickets online.",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306543/catalog/xing-events/icon128x128.png"
+}

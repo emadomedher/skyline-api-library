@@ -1,0 +1,13 @@
+{
+  "id": "helpsumo",
+  "title": "HelpSumo",
+  "subtitle": "Help Sumo is an fast, elegant and trusted online based help desk software that provides professional support to your ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561389375/catalog/helpsumo/icon128x128.png",
+  "website": "https://helpsumo.com"
+}

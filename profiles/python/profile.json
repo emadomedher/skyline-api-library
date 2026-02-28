@@ -1,0 +1,13 @@
+{
+  "id": "python",
+  "title": "Python",
+  "subtitle": "Python is an interpreted, high-level, general-purpose programming language. Python's design philosophy emphasizes cod...",
+  "tags": [
+    "programming-language"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557115477/catalog/python/icon128x128.png",
+  "website": "https://www.python.org/"
+}

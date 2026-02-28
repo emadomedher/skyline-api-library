@@ -1,0 +1,12 @@
+{
+  "id": "revolut-for-business",
+  "title": "Revolut for Business",
+  "subtitle": "A global business current account for easy international payments, with prepaid business cards and an Open API.",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539021/catalog/revolut-for-business/icon128x128.png"
+}

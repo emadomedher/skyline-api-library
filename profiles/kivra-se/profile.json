@@ -1,0 +1,13 @@
+{
+  "id": "kivra-se",
+  "title": "Kivra",
+  "subtitle": "Då får du skattebeskedet redan i början av mars. Var tredje svensk använder Kivra. Upplev lugnet med digitala brev oc...",
+  "tags": [
+    "digital-mailbox"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597049998/icons/kivra-se.png",
+  "website": "https://kivra.se/"
+}

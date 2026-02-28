@@ -1,0 +1,13 @@
+{
+  "id": "clipzine",
+  "title": "Clipzine",
+  "subtitle": "The CLIPZINE is a visual curation platform. Collect -> Classify -> Create your zine",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433772/catalog/clipzine/icon128x128.png",
+  "website": "https://clipzine.me"
+}

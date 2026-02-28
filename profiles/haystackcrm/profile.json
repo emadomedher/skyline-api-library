@@ -1,0 +1,13 @@
+{
+  "id": "haystackcrm",
+  "title": "HaystackCRM",
+  "subtitle": "HaystackCRM is easy to use CRM software for small business, includes a free CRM mobile app and web app. Track sales a...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720319/catalog/haystackcrm/icon128x128.jpg",
+  "website": "https://haystackcrm.com"
+}

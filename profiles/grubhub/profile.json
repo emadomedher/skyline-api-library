@@ -1,0 +1,13 @@
+{
+  "id": "grubhub",
+  "title": "Grubhub",
+  "subtitle": "Order online from your favorite local restaurants! With more than 50,000 restaurants in 1,100+ cities, food delivery ...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566602444/catalog/grubhub/icon128x128.jpg",
+  "website": "https://www.grubhub.com/"
+}

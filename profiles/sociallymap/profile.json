@@ -1,0 +1,13 @@
+{
+  "id": "sociallymap",
+  "title": "Sociallymap",
+  "subtitle": "Avec Sociallymap, lancez votre stratégie d'Employee Advocacy, de Social Selling, de Veille et d'Automatisation des pu...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722201/catalog/sociallymap/icon128x128.jpg",
+  "website": "https://sociallymap.com"
+}

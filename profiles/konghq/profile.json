@@ -1,0 +1,15 @@
+{
+  "id": "konghq",
+  "title": "Kong",
+  "subtitle": "Kong is the world's most popular open source microservice API gateway. Use Kong to secure, manage and orchestrate mic...",
+  "tags": [
+    "api",
+    "api-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563152095/catalog/konghq/icon128x128.png",
+  "website": "https://konghq.com",
+  "docsUrl": "https://docs.konghq.com"
+}

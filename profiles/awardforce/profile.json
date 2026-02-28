@@ -1,0 +1,14 @@
+{
+  "id": "awardforce",
+  "title": "Award Force",
+  "subtitle": "Award Force is award-winning awards management software for organisers of awards, grants, scholarships and pitch comp...",
+  "tags": [
+    "awards-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640659908/icons/awardforce.png",
+  "website": "https://www.awardforce.com/",
+  "docsUrl": "https://apidocs.awardforce.com"
+}

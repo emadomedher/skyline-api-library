@@ -1,0 +1,13 @@
+{
+  "id": "salesintel",
+  "title": "SalesIntel",
+  "subtitle": "SalesIntel API integration",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721915/catalog/salesintel/icon128x128.jpg",
+  "website": "https://salesintel.io"
+}

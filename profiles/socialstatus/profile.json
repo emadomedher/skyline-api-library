@@ -1,0 +1,13 @@
+{
+  "id": "socialstatus",
+  "title": "SocialStatus",
+  "subtitle": "Social Status is a social media analytics tool for competitor analysis, social media benchmarks, setting KPIs, social...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722207/catalog/socialstatus/icon128x128.jpg",
+  "website": "https://socialstatus.io"
+}

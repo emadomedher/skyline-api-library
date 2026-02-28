@@ -1,0 +1,13 @@
+{
+  "id": "pagecloud",
+  "title": "PageCloud",
+  "subtitle": "PageCloud’s drag and drop editor makes it easier than ever to build a custom website without code. With PageCloud, ev...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946729/catalog/pagecloud/icon128x128.jpg",
+  "website": "https://pagecloud.com"
+}

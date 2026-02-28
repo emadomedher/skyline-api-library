@@ -1,0 +1,14 @@
+{
+  "id": "sojourn-ai",
+  "title": "Sojourn",
+  "subtitle": "LAST METER NAVIGATION FOR PACKAGE DELIVERY Sojourn Platform Sojourn delivers breakthrough computer vision and supply ...",
+  "tags": [
+    "package-delivery",
+    "logistics"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599873728/icons/sojourn-ai.jpg",
+  "website": "https://www.sojourn.ai/"
+}

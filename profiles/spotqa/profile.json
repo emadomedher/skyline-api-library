@@ -1,0 +1,13 @@
+{
+  "id": "spotqa",
+  "title": "SpotQA",
+  "subtitle": "SpotQA API integration",
+  "tags": [
+    "testing"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566429913/catalog/spotqa/icon128x128.png",
+  "website": "https://www.spotqa.com/"
+}

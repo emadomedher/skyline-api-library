@@ -1,0 +1,14 @@
+{
+  "id": "avoma",
+  "title": "Avoma",
+  "subtitle": "All-in-one meeting management platform — Calendar, Notes, Conferencing, and CRM integrated with built-in AI Assistant.",
+  "tags": [
+    "meeting-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574204050/catalog/avoma/icon128x128.jpg",
+  "website": "https://www.avoma.com/",
+  "docsUrl": "https://help.avoma.com"
+}

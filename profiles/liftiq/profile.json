@@ -1,0 +1,13 @@
+{
+  "id": "liftiq",
+  "title": "Liftiq",
+  "subtitle": "Liftiq API integration",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574204041/catalog/liftiq/icon128x128.jpg",
+  "website": "https://www.liftiq.com/"
+}

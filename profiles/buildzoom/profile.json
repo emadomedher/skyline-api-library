@@ -1,0 +1,13 @@
+{
+  "id": "buildzoom",
+  "title": "BuildZoom",
+  "subtitle": "Send gorgeous estimates to your customers. You’ll look professional and win more jobs. Our free tool includes a sampl...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579309552/catalog/buildzoom/icon128x128.jpg",
+  "website": "https://www.buildzoom.com"
+}

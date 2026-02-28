@@ -1,0 +1,13 @@
+{
+  "id": "autotask",
+  "title": "Autotask",
+  "subtitle": "Autotask provides an IT business management solution that combines service desk, CRM, projects, time and expense, bil...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055783/catalog/autotask/icon128x128.jpg",
+  "website": "https://www.autotask.com/"
+}

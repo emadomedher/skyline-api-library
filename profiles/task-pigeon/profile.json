@@ -1,0 +1,13 @@
+{
+  "id": "task-pigeon",
+  "title": "Task Pigeon",
+  "subtitle": "Task Pigeon is an online task management application that makes it easy for individuals and teams to create, assign a...",
+  "tags": [
+    "to-do-lists",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306275/catalog/task-pigeon/icon128x128.png"
+}

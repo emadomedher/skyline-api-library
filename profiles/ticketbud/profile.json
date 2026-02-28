@@ -1,0 +1,13 @@
+{
+  "id": "ticketbud",
+  "title": "Ticketbud",
+  "subtitle": "Ticketbud is a tool that helps you manage your event, sell tickets, promote your ticket sales and capture data about ...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306331/catalog/ticketbud/icon128x128.png",
+  "website": "https://ticketbud.com/"
+}

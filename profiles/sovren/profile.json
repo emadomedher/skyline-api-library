@@ -1,0 +1,15 @@
+{
+  "id": "sovren",
+  "title": "Sovren",
+  "subtitle": "We have the most configurable, scalable and accurate recruitment intelligence software on the market. Start a trial o...",
+  "tags": [
+    "document-parsing",
+    "resume-parsing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602198683/icons/sovren.png",
+  "website": "https://www.sovren.com/",
+  "docsUrl": "https://myremotedevelopers.com"
+}

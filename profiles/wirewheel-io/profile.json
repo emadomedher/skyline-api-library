@@ -1,0 +1,15 @@
+{
+  "id": "wirewheel-io",
+  "title": "WireWheel",
+  "subtitle": "Data privacy management made simple. Solve the most pressing challenges of GDPR, CCPA & prepare to meet evolving priv...",
+  "tags": [
+    "data-privacy-management",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606922966/icons/wirewheel-io.png",
+  "website": "https://wirewheel.io/",
+  "docsUrl": "https://wirewheel.readme.io"
+}

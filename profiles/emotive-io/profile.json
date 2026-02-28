@@ -1,0 +1,13 @@
+{
+  "id": "emotive-io",
+  "title": "Emotive",
+  "subtitle": "Emotive API integration",
+  "tags": [
+    "sms-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892876/catalog/emotive-io/icon128x128.png",
+  "website": "https://emotive.io/"
+}

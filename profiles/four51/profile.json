@@ -1,0 +1,13 @@
+{
+  "id": "four51",
+  "title": "four51",
+  "subtitle": "four51 API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963863/catalog/four51/icon128x128.png",
+  "website": "https://public.four51.com"
+}

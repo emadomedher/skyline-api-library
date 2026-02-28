@@ -1,0 +1,14 @@
+{
+  "id": "medable",
+  "title": "Medable",
+  "subtitle": "Medable is a decentralized and remote trial platform providing a  seamless experience, connecting patients, sites, an...",
+  "tags": [
+    "healthcare",
+    "remote-patient-monitoring"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605866603/icons/medable.jpg",
+  "website": "https://www.medable.com/"
+}

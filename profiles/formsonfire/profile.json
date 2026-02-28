@@ -1,0 +1,12 @@
+{
+  "id": "formsonfire",
+  "title": "Forms On Fire",
+  "subtitle": "Forms On Fire is an enterprise-grade mobile forms platform. Capture rich data on a mobile device including pictures, ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304975/catalog/formsonfire/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "judo-bank",
+  "title": "Judo Bank",
+  "subtitle": "Judo Bank is a new SME challenger bank built specially to make it easier for Aussie businesses to get the funding the...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589177245/catalog/judo-bank/icon128x128.png",
+  "website": "https://www.judo.bank/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zapier-email-parser",
+  "title": "Email Parser by Zapier",
+  "subtitle": "Send emails to your custom <code>@robot.zapier.com</code> address and extract any data! Visit http://parser.zapier.co...",
+  "tags": [
+    "zapier-tools",
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546849154/catalog/zapier-email-parser/icon128x128.png",
+  "website": "https://parser.zapier.com/"
+}

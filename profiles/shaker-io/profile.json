@@ -1,0 +1,13 @@
+{
+  "id": "shaker-io",
+  "title": "Clerestory.io",
+  "subtitle": "Provide an unmatched experience for your clients and agents using the first relationship and workflow management suit...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606833879/icons/shaker-io.png",
+  "website": "https://www.shaker.io/"
+}

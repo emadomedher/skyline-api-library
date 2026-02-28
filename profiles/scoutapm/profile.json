@@ -1,0 +1,14 @@
+{
+  "id": "scoutapm",
+  "title": "Scout APM",
+  "subtitle": "Rails Monitoring, Django Monitoring, Elixir Phoenix Monitoring, PHP Laravel Monitoring, and more that identifies slow...",
+  "tags": [
+    "application-performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641269613/icons/scoutapm.png",
+  "website": "https://scoutapm.com/",
+  "docsUrl": "https://scoutapm.com/docs"
+}

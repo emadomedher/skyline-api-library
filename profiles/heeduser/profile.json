@@ -1,0 +1,13 @@
+{
+  "id": "heeduser",
+  "title": "Heeduser",
+  "subtitle": "Heeduser is the customer engagement platform that helps companies build better relationships with their customers and...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434918/catalog/heeduser/icon128x128.png",
+  "website": "https://heeduser.com"
+}

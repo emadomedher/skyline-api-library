@@ -1,0 +1,13 @@
+{
+  "id": "cardless",
+  "title": "Cardless",
+  "subtitle": "Cardless helps brands provide their superfans with a credit card experience that’s fairer, smoother, and more meaning...",
+  "tags": [
+    "card-issuing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636480126/icons/cardless.png",
+  "website": "https://www.cardless.com/"
+}

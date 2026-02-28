@@ -1,0 +1,14 @@
+{
+  "id": "hr2day",
+  "title": "HR2day",
+  "subtitle": "Je dagelijkse en strategische HR-werkzaamheden vragen om toegewijde HR-software. HR2day is het enige vernieuwende en ...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686698341/icons/hr2day.png",
+  "website": "https://www.hr2day.com/",
+  "docsUrl": "https://docs.microsoft.com/en-us/clarity/cookie-list"
+}

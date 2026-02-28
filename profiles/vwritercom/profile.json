@@ -1,0 +1,13 @@
+{
+  "id": "vwritercom",
+  "title": "vWriter.com",
+  "subtitle": "vWriter's unique content marketing platform helps you with content creation, management and distribution to build aut...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827996/catalog/vwritercom/icon128x128.png",
+  "website": "https://vWriter.com"
+}

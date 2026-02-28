@@ -1,0 +1,13 @@
+{
+  "id": "web-ceo",
+  "title": "Web CEO",
+  "subtitle": "WebCEO is a set of high quality SEO tools, allocated and based on a single platform. It is fast, time-saving, stable,...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306467/catalog/web-ceo/icon128x128.png",
+  "website": "https://webceo.com"
+}

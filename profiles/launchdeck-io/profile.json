@@ -1,0 +1,13 @@
+{
+  "id": "launchdeck-io",
+  "title": "Launchdeck",
+  "subtitle": "Deploy code from git to your server the fast and easy way.",
+  "tags": [
+    "code-deployment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607941970/icons/launchdeck-io.png",
+  "website": "https://launchdeck.io/"
+}

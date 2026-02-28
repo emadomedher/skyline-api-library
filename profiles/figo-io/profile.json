@@ -1,0 +1,15 @@
+{
+  "id": "figo-io",
+  "title": "figo",
+  "subtitle": "figo is the first European Banking Service Provider | figo Banking API | Financial Institutions, Banks and FinTech | ...",
+  "tags": [
+    "api-aggregators",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801291/catalog/figo-io/icon128x128.png",
+  "website": "https://www.figo.io",
+  "docsUrl": "https://www.figo.io/en/#"
+}

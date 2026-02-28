@@ -1,0 +1,14 @@
+{
+  "id": "leadpages",
+  "title": "Leadpages",
+  "subtitle": "Leadpages lets you build beautiful, high-converting landing pages, sign-up forms, and other conversion assets.",
+  "tags": [
+    "websites",
+    "marketing-automation"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305285/catalog/leadpages/icon128x128.png",
+  "website": "https://leadpages.net"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "google-data-studio",
+  "title": "Google Data Studio",
+  "subtitle": "Google Data Studio turns your data into fully customizable informative reports and dashboards that are easy to read a...",
+  "tags": [
+    "dashboards",
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571122510/catalog/google-data-studio/icon128x128.jpg",
+  "website": "https://datastudio.google.com"
+}

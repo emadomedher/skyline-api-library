@@ -1,0 +1,13 @@
+{
+  "id": "textline",
+  "title": "Textline",
+  "subtitle": "Textline is a text messaging platform for your business. Share one or more phone numbers for receiving, managing, & r...",
+  "tags": [
+    "phone-&-sms",
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306308/catalog/textline/icon128x128.png"
+}

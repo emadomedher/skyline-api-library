@@ -1,0 +1,13 @@
+{
+  "id": "diamond-trust-bank-kenya",
+  "title": "Diamond Trust Bank",
+  "subtitle": "Diamond Trust Bank Kenya Limited is an award-winning tier 1 lender in Kenya that is also listed in the Nairobi Securi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608488630/icons/diamond-trust-bank-kenya.jpg",
+  "website": "https://dtbk.dtbafrica.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bigpanda-io",
+  "title": "BigPanda",
+  "subtitle": "BigPanda Autonomous Operations Platform, powered by Open Box Machine Learning, helps you detect, investigate and reso...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566429927/catalog/bigpanda-io/icon128x128.png",
+  "website": "https://bigpanda.io",
+  "docsUrl": "https://docs.bigpanda.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cookie-control",
+  "title": "Cookie Control",
+  "subtitle": "Cookie Control by CIVIC - GDPR Cookie Compliance Solution",
+  "tags": [
+    "consent-management-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581279596/catalog/cookie-control/icon128x128.jpg",
+  "website": "https://www.civicuk.com/cookie-control",
+  "docsUrl": "https://www.civicuk.com/cookie-control/v8/documentation"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "chase-paymentech",
+  "title": "Chase Paymentech",
+  "subtitle": "Chase Paymentech API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571960546/catalog/chase-paymentech/icon128x128.jpg",
+  "website": "https://merchantservices.chase.com/"
+}

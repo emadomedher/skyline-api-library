@@ -1,0 +1,15 @@
+{
+  "id": "hellomedian",
+  "title": "Median",
+  "subtitle": "Cobrowsing software for support teams. Go from chat to screen share with the click of a button. Cobrowse screen share...",
+  "tags": [
+    "cobrowsing",
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613504906/icons/hellomedian.jpg",
+  "website": "https://www.hellomedian.com/",
+  "docsUrl": "https://developer.hellomedian.com/#median-apis"
+}

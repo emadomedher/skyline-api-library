@@ -1,0 +1,13 @@
+{
+  "id": "yard-live",
+  "title": "Yard",
+  "subtitle": "Organise your entire event in minutes not weeks",
+  "tags": [
+    "developer-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1665485105/icons/yard-live.jpg",
+  "website": "https://business.yard.live/"
+}

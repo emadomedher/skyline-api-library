@@ -1,0 +1,13 @@
+{
+  "id": "flatly",
+  "title": "Flatly",
+  "subtitle": "Auto export your business data to flat files like Google Sheets, Excel Online and CSV - connect your data for dashboa...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963878/catalog/flatly/icon128x128.png",
+  "website": "https://flatly.io"
+}

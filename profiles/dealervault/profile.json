@@ -1,0 +1,14 @@
+{
+  "id": "dealervault",
+  "title": "Authenticom",
+  "subtitle": "DealerVault creates the highway of secure data between dealer and vendor. \nOur simple-to-use interface gives your dea...",
+  "tags": [
+    "dealership-management",
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601567132/icons/dealervault.jpg",
+  "website": "https://www.dealervault.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "brimfinancial",
+  "title": "Brim Financial",
+  "subtitle": "Innovative. Digital. Massively Rewarding. The future of banking is now.",
+  "tags": [
+    "credit-cards",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406254/icons/brimfinancial.png",
+  "website": "https://brimfinancial.com/"
+}

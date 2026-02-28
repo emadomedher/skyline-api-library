@@ -1,0 +1,13 @@
+{
+  "id": "accolade",
+  "title": "Accolade",
+  "subtitle": "Reinvent the health and benefits experience",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075918/icons/accolade.png",
+  "website": "https://www.accolade.com/"
+}

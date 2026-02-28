@@ -1,0 +1,13 @@
+{
+  "id": "earcu",
+  "title": "eArcu",
+  "subtitle": "Market leading recruitment software for laptop, tablet and smart phone. Creative careers sites, candidate engagement,...",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630613915/icons/earcu.jpg",
+  "website": "https://www.earcu.com/"
+}

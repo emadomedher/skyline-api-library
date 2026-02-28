@@ -1,0 +1,13 @@
+{
+  "id": "launchrock",
+  "title": "Launchrock",
+  "subtitle": "A website builder dedicated to early customer acquisition. Publish a landing page in minutes and validate your startu...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720764/catalog/launchrock/icon128x128.jpg",
+  "website": "https://launchrock.com"
+}

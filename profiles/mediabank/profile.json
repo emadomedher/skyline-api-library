@@ -1,0 +1,13 @@
+{
+  "id": "mediabank",
+  "title": "Mediabank",
+  "subtitle": "Mediabank is a cloud-based toolbox with an extremely intuitive and user-friendly interface that allows you to access ...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435809/catalog/mediabank/icon128x128.png",
+  "website": "https://mediabank.me"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mailmigo",
+  "title": "MailMigo",
+  "subtitle": "MailMigo provide the essential features to make you an email marketing maestro.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720959/catalog/mailmigo/icon128x128.jpg",
+  "website": "https://mailmigo.com"
+}

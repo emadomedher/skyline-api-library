@@ -1,0 +1,14 @@
+{
+  "id": "paystand",
+  "title": "Paystand",
+  "subtitle": "Paystand cloud-based, payments-as-a-service platform brings the modern Internet to business payments to accept credit...",
+  "tags": [
+    "b2b-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583796479/catalog/paystand/icon128x128.png",
+  "website": "https://www.paystand.com/",
+  "docsUrl": "https://www.paystand.com/developers"
+}

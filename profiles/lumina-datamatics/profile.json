@@ -1,0 +1,13 @@
+{
+  "id": "lumina-datamatics",
+  "title": "Lumina Datamatics",
+  "subtitle": "Lumina Datamatics is one of the best online publishing service providers involved in developing eBooks, Retail Soluti...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435667/catalog/lumina-datamatics/icon128x128.png",
+  "website": "https://luminadatamatics.com"
+}

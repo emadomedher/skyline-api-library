@@ -1,0 +1,13 @@
+{
+  "id": "hotelscombined-be",
+  "title": "HotelsCombined",
+  "subtitle": "Vergelijk alle grote reiswebsites in een zoekopdracht om de beste hoteldeals te vinden bij HotelsCombined - bekroond ...",
+  "tags": [
+    "travel-meta-search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724225/icons/hotelscombined-be.png",
+  "website": "https://www.hotelscombined.be/"
+}

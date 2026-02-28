@@ -1,0 +1,13 @@
+{
+  "id": "bytedance",
+  "title": "ByteDance",
+  "subtitle": "ByteDance is a technology company operating a range of content platforms that inform, educate, entertain and inspire ...",
+  "tags": [
+    "content-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595000500/icons/bytedance.png",
+  "website": "https://bytedance.com/"
+}

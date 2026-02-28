@@ -1,0 +1,12 @@
+{
+  "id": "wise-agent-crm",
+  "title": "Wise Agent CRM",
+  "subtitle": "Wise Agent CRM helps Realtor's become pros by automating their leads, responses, appointments, and transactions.",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306503/catalog/wise-agent-crm/icon128x128.png"
+}

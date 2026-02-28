@@ -1,0 +1,13 @@
+{
+  "id": "gatherup",
+  "title": "GatherUp",
+  "subtitle": "GatherUp is an automated customer feedback and online review platform.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284524/catalog/gatherup/icon128x128.png",
+  "website": "https://gatherup.com"
+}

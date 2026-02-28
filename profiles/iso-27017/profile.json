@@ -1,0 +1,15 @@
+{
+  "id": "iso-27017",
+  "title": "ISO/IEC 27017",
+  "subtitle": "ISO/IEC 27017 API integration",
+  "tags": [
+    "compliance",
+    "information-standards",
+    "information-security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605089345/icons/iso-27017.jpg",
+  "website": "https://www.iso.org/isoiec-27017-information-security.html"
+}

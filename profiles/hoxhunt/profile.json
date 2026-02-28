@@ -1,0 +1,13 @@
+{
+  "id": "hoxhunt",
+  "title": "Hoxhunt",
+  "subtitle": "The next generation of security awareness is designed for employees and built for enterprises. Our industry-leading r...",
+  "tags": [
+    "security-awareness-training"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1698429679/icons/hoxhunt.png",
+  "website": "https://www.hoxhunt.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "flexie-crm",
+  "title": "Flexie CRM",
+  "subtitle": "Flexie CRM solution is built to help sales teams stay organized, nurture leads, close more deals, and improve overall...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538990/catalog/flexie-crm/icon128x128.png"
+}

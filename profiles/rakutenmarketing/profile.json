@@ -1,0 +1,13 @@
+{
+  "id": "rakutenmarketing",
+  "title": "Rakuten Marketing",
+  "subtitle": "Reconnect with customers by using the Rakuten Marketing Platform to deliver the right message when it matters. Contac...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578991287/catalog/rakutenmarketing/icon128x128.jpg",
+  "website": "https://rakutenmarketing.com/"
+}

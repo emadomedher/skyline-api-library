@@ -1,0 +1,14 @@
+{
+  "id": "traderepublic",
+  "title": "Trade Republic",
+  "subtitle": "Trade Republic is a mobile-only and commission-free broker that brings the opportunity to invest easily. The company ...",
+  "tags": [
+    "stock-trading",
+    "investing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587218296/catalog/traderepublic/icon128x128.jpg",
+  "website": "https://traderepublic.com/"
+}

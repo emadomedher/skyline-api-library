@@ -1,0 +1,16 @@
+{
+  "id": "securitytrails",
+  "title": "SecurityTrails",
+  "subtitle": "SecurityTrails allows you to search complete data for current and historical mapping of internet assets.",
+  "tags": [
+    "security",
+    "api",
+    "security-data"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572479683/catalog/securitytrails/icon128x128.jpg",
+  "website": "https://securitytrails.com/",
+  "docsUrl": "https://docs.securitytrails.com"
+}

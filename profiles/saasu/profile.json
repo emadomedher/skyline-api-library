@@ -1,0 +1,12 @@
+{
+  "id": "saasu",
+  "title": "Saasu",
+  "subtitle": "Fast, simple online accounting for small business that includes cashflow, invoicing, inventory, payroll and support o...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305944/catalog/saasu/icon128x128.png"
+}

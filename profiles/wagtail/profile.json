@@ -1,0 +1,13 @@
+{
+  "id": "wagtail",
+  "title": "Wagtail",
+  "subtitle": "Meet Wagtail, an open-source Django content management system built by Torchbox. It's free, beautiful, versatile and ...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554828001/catalog/wagtail/icon128x128.png",
+  "website": "https://wagtail.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jetpatch",
+  "title": "JetPatch",
+  "subtitle": "Take advantage of advanced automation capabilities, making it simple, repeatable, and reliable. Multi-OS, Enterprise,...",
+  "tags": [
+    "patch-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681771873/icons/jetpatch.jpg",
+  "website": "https://jetpatch.com/"
+}

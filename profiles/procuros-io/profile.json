@@ -1,0 +1,15 @@
+{
+  "id": "procuros-io",
+  "title": "Procuros",
+  "subtitle": "The new standard in B2B transactions: Procuros helps innovative businesses grow — by turning manual data exchange int...",
+  "tags": [
+    "b2b-payments",
+    "supplier-management",
+    "procure-to-pay"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667912235/icons/procuros-io.png",
+  "website": "https://procuros.io/"
+}

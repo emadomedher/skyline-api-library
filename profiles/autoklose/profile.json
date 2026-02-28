@@ -1,0 +1,12 @@
+{
+  "id": "autoklose",
+  "title": "Autoklose",
+  "subtitle": "Autoklose is a sales platform that automates email followup and outreach to boost your team’s productivity and perfor...",
+  "tags": [
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304431/catalog/autoklose/icon128x128.png"
+}

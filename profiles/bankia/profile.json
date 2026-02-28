@@ -1,0 +1,14 @@
+{
+  "id": "bankia",
+  "title": "Bankia",
+  "subtitle": "Bankia API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568494917/catalog/bankia/icon128x128.jpg",
+  "website": "https://www.bankia.com/en/",
+  "docsUrl": "https://market.apis-i.redsys.es/psd2/xs2a/nodos/bankia"
+}

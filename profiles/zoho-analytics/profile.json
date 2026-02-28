@@ -1,0 +1,12 @@
+{
+  "id": "zoho-analytics",
+  "title": "Zoho Analytics",
+  "subtitle": "Powerful online reporting and business intelligence service, with an intuitive drag-and-drop interface that enables i...",
+  "tags": [
+    "reports"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284665/catalog/zoho-analytics/icon128x128.png"
+}

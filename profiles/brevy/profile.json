@@ -1,0 +1,13 @@
+{
+  "id": "brevy",
+  "title": "Brevy",
+  "subtitle": "Turn your product into a collaborative canvas.",
+  "tags": [
+    "design-feedback"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615310771/icons/brevy.png",
+  "website": "https://brevy.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sourcify",
+  "title": "Sourcify",
+  "subtitle": "Sourcify: Product Sourcing Simplified",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268404/icons/sourcify.jpg",
+  "website": "https://sourcify.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kutxabank",
+  "title": "Kutxabank",
+  "subtitle": "Kutxabank is a Spanish bank founded and based in Bilbao. It was officially created on 1 January 2012 out of the merge...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623529063/icons/kutxabank.png",
+  "website": "https://portal.kutxabank.es/cs/Satellite/kb/es/particulares"
+}

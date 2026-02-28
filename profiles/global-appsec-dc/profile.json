@@ -1,0 +1,14 @@
+{
+  "id": "global-appsec-dc",
+  "title": "Global AppSec - DC",
+  "subtitle": "Global AppSec - DC is coming September 9-13th, 2019 to the Washington Marriott Wardman Park Hotel in nation’s capital...",
+  "tags": [
+    "security",
+    "event"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567128395/catalog/global-appsec-dc/icon128x128.png",
+  "website": "https://dc.globalappsec.org/"
+}

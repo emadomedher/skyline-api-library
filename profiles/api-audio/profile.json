@@ -1,0 +1,14 @@
+{
+  "id": "api-audio",
+  "title": "Api.audio",
+  "subtitle": "Build Audio Experiences With Code. Api.audio is an audio creation environment - by developers for developers.",
+  "tags": [
+    "audio-creation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628308096/icons/api-audio.png",
+  "website": "https://www.api.audio/",
+  "docsUrl": "https://docs.api.audio/docs"
+}

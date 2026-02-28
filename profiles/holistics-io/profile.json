@@ -1,0 +1,14 @@
+{
+  "id": "holistics-io",
+  "title": "Holistics",
+  "subtitle": "A new medium to align everyone in the organization around data, from high-level C suites, to product managers, to dat...",
+  "tags": [
+    "business-intelligence"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564958210/catalog/holistics-io/icon128x128.png",
+  "website": "https://holistics.io",
+  "docsUrl": "https://docs.holistics.io"
+}

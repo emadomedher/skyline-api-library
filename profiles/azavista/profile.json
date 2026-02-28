@@ -1,0 +1,13 @@
+{
+  "id": "azavista",
+  "title": "Azavista",
+  "subtitle": "Azavista API integration",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719078/catalog/azavista/icon128x128.jpg",
+  "website": "https://azavista.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sap-s4hana-cloud",
+  "title": "SAP S/4HANA Cloud",
+  "subtitle": "SAP S/4HANA Cloud is a next-generation, intelligent ERP business suite designed specifically for in-memory computing.",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630649584/icons/sap-s4hana-cloud.jpg",
+  "website": "https://www.sap.com/products/s4hana-erp.html"
+}

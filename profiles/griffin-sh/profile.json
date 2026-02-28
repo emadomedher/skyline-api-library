@@ -1,0 +1,14 @@
+{
+  "id": "griffin-sh",
+  "title": "Griffin",
+  "subtitle": "Welcome to the platform for your next financial product or service.",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605866604/icons/griffin-sh.jpg",
+  "website": "https://griffin.sh/",
+  "docsUrl": "https://docs.griffin.sh"
+}

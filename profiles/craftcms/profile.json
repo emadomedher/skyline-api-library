@@ -1,0 +1,16 @@
+{
+  "id": "craftcms",
+  "title": "CraftCMS",
+  "subtitle": "Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.",
+  "tags": [
+    "cms",
+    "open-source",
+    "cms-and-web-experience-management"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826194/catalog/craftcms/icon128x128.jpg",
+  "website": "https://craftcms.com",
+  "docsUrl": "https://craftcms.com/why-craft-for-developers"
+}

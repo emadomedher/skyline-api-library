@@ -1,0 +1,14 @@
+{
+  "id": "canny",
+  "title": "Canny",
+  "subtitle": "Canny is a user feedback tool that lets you keep track of all of your user feedback in one organized place.",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284469/catalog/canny/icon128x128.png",
+  "website": "https://canny.io/",
+  "docsUrl": "https://developers.canny.io/api-reference"
+}

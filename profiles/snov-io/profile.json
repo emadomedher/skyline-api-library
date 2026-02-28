@@ -1,0 +1,14 @@
+{
+  "id": "snov-io",
+  "title": "Snovio",
+  "subtitle": "With Snovio you can find emails, verify them and run your email campaigns within minutes. ✔Domain email search ✔Compa...",
+  "tags": [
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561423039/catalog/snov-io/icon128x128.jpg",
+  "website": "https://snov.io",
+  "docsUrl": "https://snov.io/api"
+}

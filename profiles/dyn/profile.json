@@ -1,0 +1,14 @@
+{
+  "id": "dyn",
+  "title": "Dyn",
+  "subtitle": "Web applications are the new standard for businesses. Ensure that your business is safe from cyber attacks, malicious...",
+  "tags": [
+    "dns"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577964315/catalog/dyn/icon128x128.jpg",
+  "website": "https://dyn.com/",
+  "docsUrl": "https://help.dyn.com/developers"
+}

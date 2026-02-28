@@ -1,0 +1,14 @@
+{
+  "id": "cashfree",
+  "title": "Cashfree",
+  "subtitle": "Payment Gateway India: Accept and Disburse Payments instantly with Cashfree's Payment Gateway & Payouts. We support N...",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606326380/icons/cashfree.jpg",
+  "website": "https://www.cashfree.com/",
+  "docsUrl": "https://docs.cashfree.com"
+}

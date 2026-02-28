@@ -1,0 +1,16 @@
+{
+  "id": "nextconomy-be",
+  "title": "NextConomy",
+  "subtitle": "Exploring the future of work and the freelance economy. News, knowledge and discussion (in Dutch, French and English).",
+  "tags": [
+    "hr",
+    "resources",
+    "news",
+    "non-software"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600433051/icons/nextconomy-be.jpg",
+  "website": "https://www.nextconomy.be/"
+}

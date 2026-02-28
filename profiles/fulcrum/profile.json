@@ -1,0 +1,13 @@
+{
+  "id": "fulcrum",
+  "title": "Fulcrum",
+  "subtitle": "Fulcrum is a mobile data collection tool that allows users to easily design custom forms and quickly conduct field da...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304994/catalog/fulcrum/icon128x128.png",
+  "website": "https://www.fulcrumapp.com/"
+}

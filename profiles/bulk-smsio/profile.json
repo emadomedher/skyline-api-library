@@ -1,0 +1,13 @@
+{
+  "id": "bulk-smsio",
+  "title": "Bulk-SMS.io",
+  "subtitle": "Bulk-SMS.io API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433491/catalog/bulk-smsio/icon128x128.png",
+  "website": "https://bulk-sms.io"
+}

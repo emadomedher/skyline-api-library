@@ -1,0 +1,14 @@
+{
+  "id": "amplecloud",
+  "title": "Ample Cloud",
+  "subtitle": "Launch applications without the need for coding or engineers. Purpose built API solutions designed to scale with your...",
+  "tags": [
+    "integrations-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656945166/icons/amplecloud.png",
+  "website": "https://www.amplecloud.com/",
+  "docsUrl": "https://www.amplecloud.com/docs"
+}

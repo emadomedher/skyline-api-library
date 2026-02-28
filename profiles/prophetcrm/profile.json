@@ -1,0 +1,13 @@
+{
+  "id": "prophetcrm",
+  "title": "ProphetCRM",
+  "subtitle": "ProphetCRM API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565807/catalog/prophetcrm/icon128x128.png",
+  "website": "https://prophetcrm.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "interakt",
+  "title": "Interakt",
+  "subtitle": "Interakt.co simplifies customer data analysis, marketing and support.\nOur integrated crm, email marketing and live ch...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305186/catalog/interakt/icon128x128.png",
+  "website": "https://interakt.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rapidionline",
+  "title": "RapidiOnline",
+  "subtitle": "Eliminate data double-entry with Microsoft and Salesforce data integration tools. Flexible, usable, informative. ",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946683/catalog/rapidionline/icon128x128.jpg",
+  "website": "https://rapidionline.com"
+}

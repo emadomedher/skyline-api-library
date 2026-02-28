@@ -1,0 +1,14 @@
+{
+  "id": "fastpaye",
+  "title": "fastPAYE",
+  "subtitle": "Offer your employees free access to just a little of their already earned wages early in a unique and completely diff...",
+  "tags": [
+    "payday",
+    "wage-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618977962/icons/fastpaye.png",
+  "website": "https://www.fastpaye.com/"
+}

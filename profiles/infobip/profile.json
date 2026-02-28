@@ -1,0 +1,12 @@
+{
+  "id": "infobip",
+  "title": "Infobip",
+  "subtitle": "Infobip is a multi-channel communications platform with SMS, voice, push, email, and chat functionality to cover all ...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305166/catalog/infobip/icon128x128.png"
+}

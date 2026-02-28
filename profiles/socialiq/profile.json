@@ -1,0 +1,13 @@
+{
+  "id": "socialiq",
+  "title": "Social.iQ",
+  "subtitle": "Social.iQ offers franchises and brands with multiple locations to have all their locations, customers, and social act...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722191/catalog/socialiq/icon128x128.png",
+  "website": "https://socialiqapp.com"
+}

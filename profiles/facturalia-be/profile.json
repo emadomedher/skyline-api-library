@@ -1,0 +1,13 @@
+{
+  "id": "facturalia-be",
+  "title": "Facturalia",
+  "subtitle": "Met Facturalia kan je heel gebruiksvriendelijk facturen en offertes maken, ze verzenden en de betalingen opvolgen. Id...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594081819/icons/facturalia-be.jpg",
+  "website": "https://www.facturalia.be/"
+}

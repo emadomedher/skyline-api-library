@@ -1,0 +1,13 @@
+{
+  "id": "help-scout",
+  "title": "Help Scout",
+  "subtitle": "Help Scout is the ideal small business help desk. You can deliver great email support and get setup in minutes, witho...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305106/catalog/help-scout/icon128x128.png",
+  "website": "https://www.helpscout.net/"
+}

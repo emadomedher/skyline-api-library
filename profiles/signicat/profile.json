@@ -1,0 +1,14 @@
+{
+  "id": "signicat",
+  "title": "Signicat",
+  "subtitle": "Signicat is a leading electronic identity services provider, and specializes in cross-border, cloud-based electronic ...",
+  "tags": [
+    "identity-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572617482/catalog/signicat/icon128x128.png",
+  "website": "https://www.signicat.com/",
+  "docsUrl": "https://developer.signicat.com"
+}

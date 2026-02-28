@@ -1,0 +1,13 @@
+{
+  "id": "gusto-wallet",
+  "title": "Gusto Wallet",
+  "subtitle": "If your employer uses Gusto, you get access to the free Gusto Wallet app. It's a smart new way to track, save, and ac...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601860079/icons/gusto-wallet.png",
+  "website": "https://gusto.com/wallet"
+}

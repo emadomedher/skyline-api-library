@@ -1,0 +1,15 @@
+{
+  "id": "clarifai",
+  "title": "Clarifai",
+  "subtitle": "Clarifai is using computer vision to enhance business strategy. Learn how here",
+  "tags": [
+    "computer-vision",
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562354382/catalog/clarifai/icon128x128.jpg",
+  "website": "https://clarifai.com",
+  "docsUrl": "https://www.clarifai.com/developer"
+}

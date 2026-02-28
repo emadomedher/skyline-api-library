@@ -1,0 +1,15 @@
+{
+  "id": "agaveapi",
+  "title": "Agave",
+  "subtitle": "Use Agave to connect construction software in minutes - project management, ERP, CRM, precon, and more.  Agave makes ...",
+  "tags": [
+    "construction-apis",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638280031/icons/agaveapi.jpg",
+  "website": "https://www.agaveapi.com/",
+  "docsUrl": "https://docs.agaveapi.com"
+}

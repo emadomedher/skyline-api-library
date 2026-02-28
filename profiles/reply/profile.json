@@ -1,0 +1,14 @@
+{
+  "id": "reply",
+  "title": "Reply",
+  "subtitle": "Reply is a multichannel sales engagement platform which automates personal email outreach, calls, and tasks, while Sa...",
+  "tags": [
+    "sales-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305862/catalog/reply/icon128x128.png",
+  "website": "https://reply.io",
+  "docsUrl": "https://apidocs.reply.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "availfinance-in",
+  "title": "Avail Finance",
+  "subtitle": "Your partner in improving the financial health of your workforce.",
+  "tags": [
+    "lending"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586262026/catalog/availfinance-in/icon128x128.jpg",
+  "website": "https://availfinance.in/"
+}

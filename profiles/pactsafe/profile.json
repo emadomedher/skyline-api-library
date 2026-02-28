@@ -1,0 +1,16 @@
+{
+  "id": "pactsafe",
+  "title": "PactSafe",
+  "subtitle": "Securely power legal agreements to scale with your business using PactSafe's comprehensive clickwrap agreement platform.",
+  "tags": [
+    "compliance",
+    "legal",
+    "consent-management"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577633813/catalog/pactsafe/icon128x128.jpg",
+  "website": "https://www.pactsafe.com/",
+  "docsUrl": "https://www.pactsafe.com/developers"
+}

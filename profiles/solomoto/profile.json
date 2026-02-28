@@ -1,0 +1,13 @@
+{
+  "id": "solomoto",
+  "title": "Solomoto",
+  "subtitle": "Solomoto API integration",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946559/catalog/solomoto/icon128x128.jpg",
+  "website": "https://solomoto.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "webtrends",
+  "title": "Webtrends",
+  "subtitle": "Webtrends API integration",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961959/catalog/webtrends/icon128x128.png",
+  "website": "https://webtrends.com"
+}

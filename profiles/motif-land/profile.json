@@ -1,0 +1,15 @@
+{
+  "id": "motif-land",
+  "title": "Motif",
+  "subtitle": "The coding environment geared for content, built on MDX/Markdoc and React.",
+  "tags": [
+    "notes",
+    "websites"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017273/icons/motif-land.jpg",
+  "website": "https://motif.land/",
+  "docsUrl": "https://motif.land/docs/basics/markdoc"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "revolut",
+  "title": "Revolut",
+  "subtitle": "Revolut API integration",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569632033/catalog/revolut/icon128x128.jpg",
+  "website": "https://www.revolut.com",
+  "docsUrl": "https://www.revolut.com/en-BE/open-api"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "srxp",
+  "title": "SRXP",
+  "subtitle": "Digitize your expense management process with the SRXP expense reporting software. SRXP enables businesses to digitiz...",
+  "tags": [
+    "expenses"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569370650/catalog/srxp/icon128x128.png",
+  "website": "https://www.srxp.com/",
+  "docsUrl": "https://portal.srxp.com/docs/getting-started.html"
+}

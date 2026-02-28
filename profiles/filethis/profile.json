@@ -1,0 +1,15 @@
+{
+  "id": "filethis",
+  "title": "FileThis",
+  "subtitle": "Eliminate time-consuming document submissions. Use the DAS to automatically fetch and aggregate W2s, 1099s, bank stat...",
+  "tags": [
+    "financial-document-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573360771/catalog/filethis/icon128x128.png",
+  "website": "https://filethis.com/",
+  "docsUrl": "https://filethis.com/developers"
+}

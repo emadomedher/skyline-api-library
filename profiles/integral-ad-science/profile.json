@@ -1,0 +1,13 @@
+{
+  "id": "integral-ad-science",
+  "title": "Integral Ad Science",
+  "subtitle": "Integral Ad Science API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963745/catalog/integral-ad-science/icon128x128.png",
+  "website": "https://integralads.com"
+}

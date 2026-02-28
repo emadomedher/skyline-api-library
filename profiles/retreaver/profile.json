@@ -1,0 +1,13 @@
+{
+  "id": "retreaver",
+  "title": "Retreaver",
+  "subtitle": "Retreaver offers customizable call tracking, attribution and routing services. Monitor your marketing campaigns and i...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721837/catalog/retreaver/icon128x128.jpg",
+  "website": "https://retreaver.com"
+}

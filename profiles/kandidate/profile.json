@@ -1,0 +1,13 @@
+{
+  "id": "kandidate",
+  "title": "Kandidate",
+  "subtitle": "Exclusive handpicked job matches from London's top tech startups in our personalised recruitment platform. Join our c...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805143/icons/kandidate.jpg",
+  "website": "https://www.kandidate.com/"
+}

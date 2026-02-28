@@ -1,0 +1,12 @@
+{
+  "id": "celon",
+  "title": "Celon",
+  "subtitle": "Celon ondersteunt organisaties, teams en afdelingen met Software-as-a-Service oplossingen voor project-, resource- en...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256903/catalog/celon/icon128x128.png"
+}

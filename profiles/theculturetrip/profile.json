@@ -1,0 +1,14 @@
+{
+  "id": "theculturetrip",
+  "title": "Culture Trip",
+  "subtitle": "Your essential travel companion. Book places to stay, hotels and things to do, hand-picked by us from the world’s bes...",
+  "tags": [
+    "booking-websites",
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641887371/icons/theculturetrip.jpg",
+  "website": "https://theculturetrip.com/"
+}

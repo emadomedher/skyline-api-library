@@ -1,0 +1,13 @@
+{
+  "id": "appian",
+  "title": "Appian",
+  "subtitle": "See how Appian, a leader in low-code development & BPM, has transformed the businesses of millions of users worldwide...",
+  "tags": [
+    "low-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569294879/catalog/appian/icon128x128.jpg",
+  "website": "https://www.appian.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zoho-payroll",
+  "title": "Zoho Payroll",
+  "subtitle": "Zoho Payroll is tax-compliant payroll software for India. Automate payroll calculations and pay your employees on tim...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476669/icons/zoho-payroll.webp",
+  "website": "https://www.zoho.com/in/payroll/"
+}

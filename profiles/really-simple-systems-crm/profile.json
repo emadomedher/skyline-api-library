@@ -1,0 +1,14 @@
+{
+  "id": "really-simple-systems-crm",
+  "title": "Really Simple Systems CRM",
+  "subtitle": "Really Simple Systems CRM provides everything that a small business needs to automate their sales, marketing and cust...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284589/catalog/really-simple-systems-crm/icon128x128.png",
+  "website": "https://www.reallysimplesystems.com/",
+  "docsUrl": "https://www.reallysimplesystems.com/crm-api"
+}

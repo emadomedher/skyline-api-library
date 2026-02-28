@@ -1,0 +1,15 @@
+{
+  "id": "fluentbit-io",
+  "title": "Fluent Bit",
+  "subtitle": "Fluent Bit API integration",
+  "tags": [
+    "logging",
+    "log-forwarders",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599685007/icons/fluentbit-io.jpg",
+  "website": "https://fluentbit.io/"
+}

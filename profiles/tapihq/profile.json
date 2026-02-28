@@ -1,0 +1,13 @@
+{
+  "id": "tapihq",
+  "title": "Tapi",
+  "subtitle": "Join leading property management companies already using Tapi to deliver a world-class property maintenance experienc...",
+  "tags": [
+    "property-maintenance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596921102/icons/tapihq.png",
+  "website": "https://www.tapihq.com"
+}

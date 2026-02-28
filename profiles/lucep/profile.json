@@ -1,0 +1,13 @@
+{
+  "id": "lucep",
+  "title": "Lucep",
+  "subtitle": "Your customers are looking for you, click to call them back in under 60 seconds with amazingly simple callback techno...",
+  "tags": [
+    "callback-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826854/catalog/lucep/icon128x128.png",
+  "website": "https://lucep.com"
+}

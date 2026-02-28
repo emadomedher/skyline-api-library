@@ -1,0 +1,15 @@
+{
+  "id": "partnerstack",
+  "title": "PartnerStack",
+  "subtitle": "PartnerStack is the new standard in partner and channel management. Automate program management and turn partnerships...",
+  "tags": [
+    "channel-ecosystem-management",
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284569/catalog/partnerstack/icon128x128.png",
+  "website": "https://partnerstack.com",
+  "docsUrl": "https://docs.partnerstack.com"
+}

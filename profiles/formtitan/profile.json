@@ -1,0 +1,12 @@
+{
+  "id": "formtitan",
+  "title": "FormTitan",
+  "subtitle": "FormTitan is an online form builder that allows you to easily create powerful forms without a single line of code.\nIm...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304977/catalog/formtitan/icon128x128.png"
+}

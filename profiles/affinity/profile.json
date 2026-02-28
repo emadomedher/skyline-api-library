@@ -1,0 +1,15 @@
+{
+  "id": "affinity",
+  "title": "Affinity",
+  "subtitle": "Affinity is a collective intelligence CRM, helping you keep track of the people and organizations in your network.",
+  "tags": [
+    "venture-capital-crm",
+    "vc"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306482/catalog/affinity/icon128x128.png",
+  "website": "https://www.affinity.co",
+  "docsUrl": "https://api-docs.affinity.co/"
+}

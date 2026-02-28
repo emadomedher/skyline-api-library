@@ -1,0 +1,13 @@
+{
+  "id": "zervant",
+  "title": "Zervant",
+  "subtitle": "Create, send and manage your invoices on the cloud with one simple tool! Zervant's invoicing software is free for up ...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624732824/icons/zervant.jpg",
+  "website": "https://www.zervant.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "socialvolt",
+  "title": "SocialVolt",
+  "subtitle": "SocialVolt is a social media management platform for the enterprise. Publish, moderate, listen and report across soci...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722217/catalog/socialvolt/icon128x128.jpg",
+  "website": "https://socialvolt.com"
+}

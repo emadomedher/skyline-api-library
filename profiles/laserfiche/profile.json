@@ -1,0 +1,14 @@
+{
+  "id": "laserfiche",
+  "title": "Laserfiche",
+  "subtitle": "Laserfiche content management, business process automation and data analytics deliver rapid ROI for your organization.",
+  "tags": [
+    "enterprise-content-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637963/icons/laserfiche.png",
+  "website": "https://www.laserfiche.com/",
+  "docsUrl": "https://developer.laserfiche.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "taxproper",
+  "title": "taxProper",
+  "subtitle": "TaxProper saves homeowners thousands on their property taxes. File your risk-free property tax appeal in under five m...",
+  "tags": [
+    "property-tax"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591640860/icons/taxproper.png",
+  "website": "https://taxproper.com/"
+}

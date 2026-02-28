@@ -1,0 +1,12 @@
+{
+  "id": "formsquash",
+  "title": "Formsquash",
+  "subtitle": "Formsquash is a form processing service with a dead-simple API. You point your form to us, we notify you every time a...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304978/catalog/formsquash/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "avature",
+  "title": "Avature",
+  "subtitle": "Avature's AI powered recruiting and talent management platform empowers the world's leading companies to attract, hir...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719070/catalog/avature/icon128x128.jpg",
+  "website": "https://avature.net"
+}

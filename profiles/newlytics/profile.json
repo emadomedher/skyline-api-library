@@ -1,0 +1,13 @@
+{
+  "id": "newlytics",
+  "title": "Newlytics",
+  "subtitle": "Newlytics is an easy to use marketing analytics platform for marketers and small businesses alike. Our software will ...",
+  "tags": [
+    "marketing-analytics-performance-&-attribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597050417/icons/newlytics.png",
+  "website": "https://newlytics.com"
+}

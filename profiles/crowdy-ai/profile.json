@@ -1,0 +1,14 @@
+{
+  "id": "crowdy-ai",
+  "title": "crowdy.ai",
+  "subtitle": "crowdy.ai combines all types of social proof into one easy-to-use platform that raises your conversion rate by turnin...",
+  "tags": [
+    "marketing-automation",
+    "social-proof"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581457168/catalog/crowdy-ai/icon128x128.png",
+  "website": "https://www.crowdy.ai/"
+}

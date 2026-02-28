@@ -1,0 +1,15 @@
+{
+  "id": "pachyderm",
+  "title": "Pachyderm",
+  "subtitle": "Pachyderm automates and scales the machine learning lifecycle while guaranteeing reproducibility",
+  "tags": [
+    "data-science",
+    "mlops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570907107/catalog/pachyderm/icon128x128.png",
+  "website": "https://pachyderm.com/",
+  "docsUrl": "https://docs.pachyderm.com"
+}

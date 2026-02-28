@@ -1,0 +1,12 @@
+{
+  "id": "novire",
+  "title": "Novire",
+  "subtitle": "Novire ondersteunt organisaties in de zorg- en welzijnssector, het onderwijs én in de zakelijke dienstverlening om pr...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256957/catalog/novire/icon128x128.jpg"
+}

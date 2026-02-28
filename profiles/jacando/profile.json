@@ -1,0 +1,13 @@
+{
+  "id": "jacando",
+  "title": "jacando",
+  "subtitle": "jacando ist eine Schweizer Cloud-Software, mit der Sie Zugriff auf alle Ihre HR-Daten haben – in einem Betriebssystem...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1691961336/icons/jacando.png",
+  "website": "https://www.jacando.com/"
+}

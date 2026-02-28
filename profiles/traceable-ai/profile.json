@@ -1,0 +1,17 @@
+{
+  "id": "traceable-ai",
+  "title": "Traceable",
+  "subtitle": "Traceable combines the power of end-to-end distributed tracing, cloud-native integrations, and advanced behavioral an...",
+  "tags": [
+    "code-security",
+    "api-security",
+    "compliance",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863255/icons/traceable-ai.png",
+  "website": "https://www.traceable.ai/",
+  "docsUrl": "https://docs.traceable.ai/"
+}

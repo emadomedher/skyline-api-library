@@ -1,0 +1,12 @@
+{
+  "id": "allmysms",
+  "title": "allmysms",
+  "subtitle": "Allmysms is a tool that lets you send SMS to your customers.",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304390/catalog/allmysms/icon128x128.png"
+}

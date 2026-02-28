@@ -1,0 +1,13 @@
+{
+  "id": "the-fish-tank",
+  "title": "The Fish Tank",
+  "subtitle": "The Fish Tank API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437930/catalog/the-fish-tank/icon128x128.png",
+  "website": "https://thefishtank.ca"
+}

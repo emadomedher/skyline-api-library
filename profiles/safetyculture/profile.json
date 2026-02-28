@@ -1,0 +1,12 @@
+{
+  "id": "safetyculture",
+  "title": "iAuditor by SafetyCulture",
+  "subtitle": "iAuditor is the world's most popular inspection checklist app. SafetyCulture is iAuditor's cloud based backup and man...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305944/catalog/safetyculture/icon128x128.png"
+}

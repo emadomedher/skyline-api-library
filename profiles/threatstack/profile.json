@@ -1,0 +1,14 @@
+{
+  "id": "threatstack",
+  "title": "Threat Stack",
+  "subtitle": "Threat Stack provides full stack cloud security observability and compliance for infrastructure and applications.",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574651628/catalog/threatstack/icon128x128.png",
+  "website": "https://www.threatstack.com/",
+  "docsUrl": "https://www.threatstack.com/technology/application-security"
+}

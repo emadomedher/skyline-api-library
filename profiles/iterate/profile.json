@@ -1,0 +1,12 @@
+{
+  "id": "iterate",
+  "title": "Iterate",
+  "subtitle": "Iterate is a survey tool that helps you get answers to everything you need to build better products and make better d...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305205/catalog/iterate/icon128x128.png"
+}

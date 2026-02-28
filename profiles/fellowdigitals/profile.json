@@ -1,0 +1,15 @@
+{
+  "id": "fellowdigitals",
+  "title": "Fellow Digitals",
+  "subtitle": "Fellow Digitals provides you with the most innovative workplace technology. Improve your training and internal commun...",
+  "tags": [
+    "lms",
+    "workplace"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801606/icons/fellowdigitals.jpg",
+  "website": "https://www.fellowdigitals.com/",
+  "docsUrl": "https://www.fellowdigitals.com/#"
+}

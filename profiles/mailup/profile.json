@@ -1,0 +1,13 @@
+{
+  "id": "mailup",
+  "title": "MailUp",
+  "subtitle": "MailUp is your complete email delivery solution. Send newsletters, create blog digests from RSS feeds, send automated...",
+  "tags": [
+    "drip-emails"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305373/catalog/mailup/icon128x128.png",
+  "website": "https://www.mailup.com/"
+}

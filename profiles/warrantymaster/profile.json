@@ -1,0 +1,13 @@
+{
+  "id": "warrantymaster",
+  "title": "Warranty Master",
+  "subtitle": "Warranty Master is the global leader in Asset Lifecycle Management. Monitor, manage and optimize your entire asset ba...",
+  "tags": [
+    "warranty-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579550554/catalog/warrantymaster/icon128x128.jpg",
+  "website": "https://warrantymaster.com/"
+}

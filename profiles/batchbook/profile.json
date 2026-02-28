@@ -1,0 +1,13 @@
+{
+  "id": "batchbook",
+  "title": "Batchbook",
+  "subtitle": "Batchbook is a social CRM. It has all the standard features of a CRM plus it can take in Twitter streams, Facebook up...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304470/catalog/batchbook/icon128x128.png",
+  "website": "https://batchbook.com/"
+}

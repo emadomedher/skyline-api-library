@@ -1,0 +1,13 @@
+{
+  "id": "rizzai",
+  "title": "Rizz",
+  "subtitle": "Rizz! puts world’s most powerful AI model into your iPhone keyboard to let you generate a customized, creative response.",
+  "tags": [
+    "ios-keyboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672785727/icons/rizzai.png",
+  "website": "https://rizzai.com/"
+}

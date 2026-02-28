@@ -1,0 +1,14 @@
+{
+  "id": "hourone-ai",
+  "title": "Hour One",
+  "subtitle": "Welcome to Hour One - the world's fastest growing AI video maker. We turn text to video to make learning & developmen...",
+  "tags": [
+    "video-generation",
+    "synthetic-video"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670446706/icons/hourone-ai.png",
+  "website": "https://hourone.ai/"
+}

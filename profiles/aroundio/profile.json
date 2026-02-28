@@ -1,0 +1,13 @@
+{
+  "id": "aroundio",
+  "title": "Around.io",
+  "subtitle": "Complete social media marketing tool for online sellers. Connect your E-commerce shop to promote your product listing...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947257/catalog/aroundio/icon128x128.png",
+  "website": "https://around.io"
+}

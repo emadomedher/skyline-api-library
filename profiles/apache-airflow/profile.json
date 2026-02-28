@@ -1,0 +1,14 @@
+{
+  "id": "apache-airflow",
+  "title": "The Apache Software Foundation",
+  "subtitle": "Platform created by the community to programmatically author, schedule and monitor workflows.",
+  "tags": [
+    "apache-airflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612288409/icons/apache-airflow.png",
+  "website": "https://airflow.apache.org/",
+  "docsUrl": "https://airflow.apache.org/docs"
+}

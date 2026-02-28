@@ -1,0 +1,13 @@
+{
+  "id": "selling-to-zebras",
+  "title": "Selling To Zebras",
+  "subtitle": "SellingToZebras provides sales tools and sales enablement software to  improve sales productivity and sales automation.\n",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946628/catalog/selling-to-zebras/icon128x128.jpg",
+  "website": "https://sellingtozebras.com"
+}

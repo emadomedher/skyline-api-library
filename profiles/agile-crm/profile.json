@@ -1,0 +1,14 @@
+{
+  "id": "agile-crm",
+  "title": "Agile CRM",
+  "subtitle": "Agile CRM Software is the best, easy, powerful yet affordable Customer Relationship Management (CRM) with sales and m...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456724/catalog/agile-crm/icon128x128.png",
+  "website": "https://www.agilecrm.com/",
+  "docsUrl": "https://www.agilecrm.com/edocs-and-proposals"
+}

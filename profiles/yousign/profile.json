@@ -1,0 +1,15 @@
+{
+  "id": "yousign",
+  "title": "Yousign",
+  "subtitle": "Discover Yousign: the easy to use, legally-binding eSignature solution for all your documents. Find out how it works ...",
+  "tags": [
+    "signatures"
+  ],
+  "category": "Other",
+  "specType": "swagger2",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609114318/icons/yousign.png",
+  "specUrl": "https://swagger.yousign.com/swagger.json",
+  "website": "https://yousign.com/",
+  "docsUrl": "https://dev.yousign.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "madkudu",
+  "title": "MadKudu",
+  "subtitle": "An easy tool to score your leads.",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305333/catalog/madkudu/icon128x128.png",
+  "website": "https://madkudu.com"
+}

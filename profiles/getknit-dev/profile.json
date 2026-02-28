@@ -1,0 +1,14 @@
+{
+  "id": "getknit-dev",
+  "title": "Knit",
+  "subtitle": "Fast track your integrations roadmap with the KNIT unified API. Webhooks based architecture, no data storage policy, ...",
+  "tags": [
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568750/icons/getknit-dev.png",
+  "website": "https://www.getknit.dev/",
+  "docsUrl": "https://developers.getknit.dev"
+}

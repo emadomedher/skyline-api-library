@@ -1,0 +1,13 @@
+{
+  "id": "merlinbusinesssoftware",
+  "title": "Merlin Business Software",
+  "subtitle": "Here at Merlin, we specialise in creating specialised business software that improves your processes and efficiency a...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582062008/catalog/merlinbusinesssoftware/icon128x128.jpg",
+  "website": "https://www.merlinbusinesssoftware.com/"
+}

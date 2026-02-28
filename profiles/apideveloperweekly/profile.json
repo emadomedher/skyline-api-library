@@ -1,0 +1,15 @@
+{
+  "id": "apideveloperweekly",
+  "title": "API Developer Weekly",
+  "subtitle": "API Developer Weekly - A free, hand-curated newsletter focused on APIs, microservices, and event-driven design",
+  "tags": [
+    "newsletters",
+    "resources"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614283845/icons/apideveloperweekly.png",
+  "website": "https://apideveloperweekly.com/",
+  "docsUrl": "https://apideveloperweekly.com"
+}

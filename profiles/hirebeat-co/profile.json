@@ -1,0 +1,13 @@
+{
+  "id": "hirebeat-co",
+  "title": "HireBeat",
+  "subtitle": "The world's easiest tool to hire the right people for the job in less time. We make hiring robots, so the recruiters ...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650533498/icons/hirebeat-co.jpg",
+  "website": "https://hirebeat.co/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rebilly",
+  "title": "Rebilly",
+  "subtitle": "Finally, subscription billing tools with the flexibility and control you need to grow your business.",
+  "tags": [
+    "subscription-billing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588161874/catalog/rebilly/icon128x128.png",
+  "website": "https://www.rebilly.com/",
+  "docsUrl": "https://docs.rebilly.com/docs/resources/rebilly-faqs"
+}

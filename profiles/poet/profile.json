@@ -1,0 +1,13 @@
+{
+  "id": "poet",
+  "title": "Po.et",
+  "subtitle": "Po.et is a set of decentralized protocols and applications focused on content ownership, discovery, and monetization ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827217/catalog/poet/icon128x128.jpg",
+  "website": "https://po.et"
+}

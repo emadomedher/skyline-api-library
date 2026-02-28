@@ -1,0 +1,14 @@
+{
+  "id": "alpha-sense",
+  "title": "AlphaSense",
+  "subtitle": "AlphaSense finds information on companies, data and themes from within millions of research documents in seconds, all...",
+  "tags": [
+    "market-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568765/icons/alpha-sense.jpg",
+  "website": "https://www.alpha-sense.com/",
+  "docsUrl": "https://www.alpha-sense.com/#"
+}

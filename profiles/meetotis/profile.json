@@ -1,0 +1,14 @@
+{
+  "id": "meetotis",
+  "title": "Otis AI",
+  "subtitle": "Otis is the first AI-powered virtual assistant that helps run and optimize your digital marketing cross-platform, at ...",
+  "tags": [
+    "digital-marketing",
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678907744/icons/meetotis.jpg",
+  "website": "https://meetotis.com/"
+}

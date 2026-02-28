@@ -1,0 +1,13 @@
+{
+  "id": "intellij-idea",
+  "title": "IntelliJ IDEA",
+  "subtitle": "IntelliJ IDEA is undoubtedly the top-choice IDE for software developers. It makes Java and Kotlin development a more ...",
+  "tags": [
+    "ide"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1698429675/icons/intellij-idea.jpg",
+  "website": "https://www.jetbrains.com/idea/"
+}

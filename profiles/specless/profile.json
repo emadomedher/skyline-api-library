@@ -1,0 +1,13 @@
+{
+  "id": "specless",
+  "title": "Specless",
+  "subtitle": "Specless API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775706/catalog/specless/icon128x128.png",
+  "website": "https://gospecless.com"
+}

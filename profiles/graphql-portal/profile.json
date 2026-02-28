@@ -1,0 +1,14 @@
+{
+  "id": "graphql-portal",
+  "title": "GraphQL Portal",
+  "subtitle": "With GraphQL Portal, you can connect any of your data-sources: REST APIs, databases, Salesforce, SAP, Oracle, Magento...",
+  "tags": [
+    "graphql-tooling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616783764/icons/graphql-portal.jpg",
+  "website": "https://www.graphql-portal.com/",
+  "docsUrl": "https://www.graphql-portal.com/graphql-developers-consulting"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vertify-inc",
+  "title": "Vertify Inc.",
+  "subtitle": "Vertify Enterprise Cloud data management & integration platform provides pre-built integrations between Marketing Aut...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946395/catalog/vertify-inc/icon128x128.jpg",
+  "website": "https://vertify.com"
+}

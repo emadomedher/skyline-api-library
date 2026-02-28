@@ -1,0 +1,14 @@
+{
+  "id": "lightspeedsystems",
+  "title": "Lightspeed Systems",
+  "subtitle": "Lightspeed Systems solutions are used in schools around the world for web filtering, device management, reporting, an...",
+  "tags": [
+    "online-learning",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615757965/icons/lightspeedsystems.png",
+  "website": "https://www.lightspeedsystems.com/"
+}

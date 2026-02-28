@@ -1,0 +1,13 @@
+{
+  "id": "gutensite",
+  "title": "Gutensite",
+  "subtitle": "Gutensite's CMS is part of a full-service ecosystem that will help you make a beautiful website with the flexibility ...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946956/catalog/gutensite/icon128x128.jpg",
+  "website": "https://gutensite.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "laravel-livewire",
+  "title": "Livewire",
+  "subtitle": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+  "tags": [
+    "web-frameworks",
+    "laravel"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594654719/icons/laravel-livewire.png",
+  "website": "https://laravel-livewire.com/",
+  "docsUrl": "https://laravel-livewire.com/docs/quickstart"
+}

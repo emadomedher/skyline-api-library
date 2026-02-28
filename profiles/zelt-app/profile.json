@@ -1,0 +1,13 @@
+{
+  "id": "zelt-app",
+  "title": "Zelt",
+  "subtitle": "Automate HR, IT and Finance from one people-centric platform. ",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677864025/icons/zelt-app.png",
+  "website": "https://www.zelt.app/"
+}

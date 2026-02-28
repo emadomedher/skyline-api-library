@@ -1,0 +1,15 @@
+{
+  "id": "restack-io",
+  "title": "Restack",
+  "subtitle": "Instantly run as many products as you want in your AWS account. Built for teams without DevOps.",
+  "tags": [
+    "open-source-deployment",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664975830/icons/restack-io.png",
+  "website": "https://www.restack.io/",
+  "docsUrl": "https://www.restack.io/docs/superset-on-kubernetes"
+}

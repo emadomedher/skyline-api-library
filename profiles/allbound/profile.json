@@ -1,0 +1,14 @@
+{
+  "id": "allbound",
+  "title": "Allbound",
+  "subtitle": "Allbound's PRM is a partner relationship and channel management solution that helps optimize your partner's lifecycle...",
+  "tags": [
+    "partner-relationship-management",
+    "channel-partner-and-local-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432928/catalog/allbound/icon128x128.png",
+  "website": "https://allbound.com"
+}

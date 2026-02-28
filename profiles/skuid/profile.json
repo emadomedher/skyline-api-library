@@ -1,0 +1,15 @@
+{
+  "id": "skuid",
+  "title": "Skuid",
+  "subtitle": "Skuid is a UI/UX toolkit for Salesforce that helps businesses build apps faster with less code. Put Salesforce data i...",
+  "tags": [
+    "application-development",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651772985/icons/skuid.jpg",
+  "website": "https://www.skuid.com/",
+  "docsUrl": "https://docs.skuid.com/latest/en/?__hstc=17958374.a1e7039177709cfddf5aa844b3847d59.1620923587327.1621002559157.1621007654959.6&__hssc=17958374.11.1621007654959&__hsfp=436891838"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "signal-app",
+  "title": "Signal Messenger",
+  "subtitle": "Say hello to a different messaging experience. An unexpected focus on privacy, combined with all of the features you ...",
+  "tags": [
+    "secure-messaging",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222451/icons/signal-app.jpg",
+  "website": "https://signal.org/",
+  "docsUrl": "https://signal.org/docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "doz",
+  "title": "Doz",
+  "subtitle": "DOZ provides a all-in-one Marketing software and vetted on-demand marketers to help you run and master your Online Ma...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947122/catalog/doz/icon128x128.png",
+  "website": "https://doz.com"
+}

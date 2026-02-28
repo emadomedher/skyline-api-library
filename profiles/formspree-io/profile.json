@@ -1,0 +1,13 @@
+{
+  "id": "formspree-io",
+  "title": "Formspree",
+  "subtitle": "Formspree is a form backend, API and email service for HTML forms. It is the simplest way to embed custom contact us ...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578584761/catalog/formspree-io/icon128x128.jpg",
+  "website": "https://formspree.io/"
+}

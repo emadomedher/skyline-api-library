@@ -1,0 +1,14 @@
+{
+  "id": "bytebase",
+  "title": "Bytebase",
+  "subtitle": "Open source, zero-config, dependency-free, web-based database schema change and version control for Developers and DBAs",
+  "tags": [
+    "database-versioning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627893126/icons/bytebase.png",
+  "website": "https://bytebase.com/",
+  "docsUrl": "https://docs.bytebase.com/?ref=bytebase.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zoweg-nl",
+  "title": "Zoweg.nl",
+  "subtitle": "Hotels en bungalows reserveren in Nederland, België en Duitsland. Profiteer van voordelige prijzen en leuke arrangeme...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641101/icons/zoweg-nl.png",
+  "website": "https://www.zoweg.nl/"
+}

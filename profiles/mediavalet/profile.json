@@ -1,0 +1,13 @@
+{
+  "id": "mediavalet",
+  "title": "Mediavalet",
+  "subtitle": "MediaValet helps marketing and creative teams manage, collaborate and share their digital assets, improving productiv...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721075/catalog/mediavalet/icon128x128.jpg",
+  "website": "https://mediavalet.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "knowify",
+  "title": "Knowify",
+  "subtitle": "Need an easy solution to manage your construction business? All your project data in one place. Take the best of a CR...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284544/catalog/knowify/icon128x128.png",
+  "website": "https://www.knowify.com/",
+  "docsUrl": "https://www.knowify.com/docs"
+}

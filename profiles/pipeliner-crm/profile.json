@@ -1,0 +1,13 @@
+{
+  "id": "pipeliner-crm",
+  "title": "Pipeliner CRM",
+  "subtitle": "The Best CRM, all About Sales! Sales enablement tool, a simple, winning formula. Focus on pipeline management, sales ...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827193/catalog/pipeliner-crm/icon128x128.jpg",
+  "website": "https://pipelinersales.com"
+}

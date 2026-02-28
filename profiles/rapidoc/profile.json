@@ -1,0 +1,15 @@
+{
+  "id": "rapidoc",
+  "title": "RapiDoc",
+  "subtitle": "RapiDoc is Web Component for viewing Swagger & OpenAPI Spec. Supports themes, styling and various rendering styles",
+  "tags": [
+    "developer-documentation",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612980683/icons/rapidoc.png",
+  "website": "https://mrin9.github.io/RapiDoc/",
+  "docsUrl": "https://help.github.com/pages"
+}

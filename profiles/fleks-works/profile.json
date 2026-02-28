@@ -1,0 +1,13 @@
+{
+  "id": "fleks-works",
+  "title": "Fleks Works",
+  "subtitle": "Wij zijn Fleks Works, personeelsplanning voor oproepkrachten, freelancers en zzp'ers | Kwaliteit begint met plannen!",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594636018/icons/fleks-works.png",
+  "website": "https://www.fleks.works/"
+}

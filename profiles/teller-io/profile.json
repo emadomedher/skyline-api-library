@@ -1,0 +1,14 @@
+{
+  "id": "teller-io",
+  "title": "Teller",
+  "subtitle": "The API for your bank account",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573404884/catalog/teller-io/icon128x128.jpg",
+  "website": "https://teller.io/",
+  "docsUrl": "https://teller.io/developer/dashboard"
+}

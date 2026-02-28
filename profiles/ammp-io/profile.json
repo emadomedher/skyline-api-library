@@ -1,0 +1,14 @@
+{
+  "id": "ammp-io",
+  "title": "AMMP Technologies",
+  "subtitle": "AMMP provides digital solutions for energy service companies in emerging markets. Our vendor-agnostic SaaS platform o...",
+  "tags": [
+    "remote-monitoring",
+    "renawable-energy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023428/icons/ammp-io.jpg",
+  "website": "https://www.ammp.io/"
+}

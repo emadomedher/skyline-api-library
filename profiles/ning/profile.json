@@ -1,0 +1,13 @@
+{
+  "id": "ning",
+  "title": "Ning",
+  "subtitle": "Ning lets you create your own social places on the web complete with forums, friends and more.",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056079/catalog/ning/icon128x128.png",
+  "website": "https://ning.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "komfo",
+  "title": "Komfo",
+  "subtitle": "Falcon is your social media marketing platform built on social analytics, community engagement and governance for Fac...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720714/catalog/komfo/icon128x128.jpg",
+  "website": "https://komfo.com"
+}

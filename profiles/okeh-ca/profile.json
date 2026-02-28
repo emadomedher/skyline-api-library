@@ -1,0 +1,14 @@
+{
+  "id": "okeh-ca",
+  "title": "OKEH",
+  "subtitle": "Simple appointment scheduling system, improve your scheduling method, get more free time and more happy customers.",
+  "tags": [
+    "appointment-scheduling",
+    "online-reservation-systems"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592728066/icons/okeh-ca.png",
+  "website": "https://okeh.ca/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "onedrive",
+  "title": "OneDrive",
+  "subtitle": "Microsoft OneDrive is a file hosting service and synchronization service operated by Microsoft as part of its web ver...",
+  "tags": [
+    "microsoft",
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305571/catalog/onedrive/icon128x128.png",
+  "website": "https://onedrive.live.com/",
+  "docsUrl": "https://developer.microsoft.com/en-gb/windows"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "camaleon-cms",
+  "title": "Camaleon CMS",
+  "subtitle": "Camaleon CMS API integration",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509876/catalog/camaleon-cms/icon128x128.jpg",
+  "website": "http://camaleon.tuzitio.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pangaeadata-ai",
+  "title": "Pangaea",
+  "subtitle": "Find & connect with more patients, at scale, for therapies, clinical trials and drug discovery studies.",
+  "tags": [
+    "nlp",
+    "patient-data"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215687/icons/pangaeadata-ai.jpg",
+  "website": "https://www.pangaeadata.ai/"
+}

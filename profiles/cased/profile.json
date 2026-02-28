@@ -1,0 +1,14 @@
+{
+  "id": "cased",
+  "title": "Cased",
+  "subtitle": "Cased API integration",
+  "tags": [
+    "compliance",
+    "audit-trails"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595523780/icons/cased.png",
+  "website": "https://cased.com/"
+}

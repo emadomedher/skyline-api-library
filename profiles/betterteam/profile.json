@@ -1,0 +1,14 @@
+{
+  "id": "betterteam",
+  "title": "Betterteam",
+  "subtitle": "Post jobs for free with one click to 100+ job sites including Indeed, Glassdoor, and ZipRecruiter. Start a free trial...",
+  "tags": [
+    "hiring",
+    "job-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215731/icons/betterteam.jpg",
+  "website": "https://www.betterteam.com/"
+}

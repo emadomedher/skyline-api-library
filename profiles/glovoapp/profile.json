@@ -1,0 +1,13 @@
+{
+  "id": "glovoapp",
+  "title": "Glovo",
+  "subtitle": "We bring whatever you want to your door! Order from any of our restaurants, or order anything you can think of. We'll...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573518492/catalog/glovoapp/icon128x128.jpg",
+  "website": "https://glovoapp.com/"
+}

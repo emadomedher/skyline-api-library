@@ -1,0 +1,17 @@
+{
+  "id": "sendinblue",
+  "title": "SendinBlue",
+  "subtitle": "Take your business to new heights with the complete all-in-one digital marketing toolbox that's built to scale and ad...",
+  "tags": [
+    "transactional-email",
+    "marketing",
+    "email-newsletters",
+    "drip-emails"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529477963/catalog/sendinblue/icon128x128.png",
+  "website": "https://www.sendinblue.com/",
+  "docsUrl": "https://developers.sendinblue.com/docs"
+}

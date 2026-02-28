@@ -1,0 +1,13 @@
+{
+  "id": "nextravel",
+  "title": "NexTravel",
+  "subtitle": "Save time and money with NexTravel's corporate travel management software - the simplest travel booking and managemen...",
+  "tags": [
+    "business-travel-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577180104/catalog/nextravel/icon128x128.png",
+  "website": "https://www.nextravel.com/"
+}

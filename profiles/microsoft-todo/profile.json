@@ -1,0 +1,14 @@
+{
+  "id": "microsoft-todo",
+  "title": "Microsoft To-Do",
+  "subtitle": "Microsoft To-Do is an intelligent task management app that makes it easy to plan and manage your day. With its intell...",
+  "tags": [
+    "todo-lists",
+    "microsoft"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056053/catalog/microsoft-todo/icon128x128.png",
+  "website": "https://todo.microsoft.com/en-us"
+}

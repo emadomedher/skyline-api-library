@@ -1,0 +1,13 @@
+{
+  "id": "endgame-io",
+  "title": "Endgame",
+  "subtitle": "Endgame lets you connect the dots between user behavior and sales opportunities, without expensive data scientists or...",
+  "tags": [
+    "product-led-sales"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627053284/icons/endgame-io.jpg",
+  "website": "https://www.endgame.io/"
+}

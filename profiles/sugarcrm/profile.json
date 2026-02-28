@@ -1,0 +1,13 @@
+{
+  "id": "sugarcrm",
+  "title": "SugarCRM",
+  "subtitle": "Manage your sales, marketing, and customer support better with SugarCRM's online CRM software.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056503/catalog/sugarcrm/icon128x128.png",
+  "website": "https://www.sugarcrm.com/"
+}

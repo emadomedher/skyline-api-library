@@ -1,0 +1,13 @@
+{
+  "id": "neeva",
+  "title": "Neeva",
+  "subtitle": "Did you know 40% of search results are ads? Created by ex-Google execs, Neeva only shows you real results. No ads or ...",
+  "tags": [
+    "search-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628276486/icons/neeva.jpg",
+  "website": "https://neeva.com/"
+}

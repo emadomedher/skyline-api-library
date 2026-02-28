@@ -1,0 +1,12 @@
+{
+  "id": "kwcommand",
+  "title": "Keller Williams Command",
+  "subtitle": "Keller Williams Command is a dashboard that allows you to optimize, manage, and run your business with simplicity and...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378795/catalog/kwcommand/icon128x128.png"
+}

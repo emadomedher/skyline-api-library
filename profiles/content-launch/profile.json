@@ -1,0 +1,13 @@
+{
+  "id": "content-launch",
+  "title": "Content Launch",
+  "subtitle": "Content Launch API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623252685/icons/content-launch.png",
+  "website": "https://contentlaunch.com"
+}

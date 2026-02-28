@@ -1,0 +1,13 @@
+{
+  "id": "tymely-ai",
+  "title": "Tymely",
+  "subtitle": "Tymely API integration",
+  "tags": [
+    "ecommerce-customer-support"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674498524/icons/tymely-ai.png",
+  "website": "https://www.tymely.ai/"
+}

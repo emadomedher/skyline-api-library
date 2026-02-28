@@ -1,0 +1,14 @@
+{
+  "id": "gitstart",
+  "title": "GitStart",
+  "subtitle": "GitStart picks up tasks from your backlog, gets them done through hundreds of devs globally to find the best match fo...",
+  "tags": [
+    "recruitment",
+    "developers"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566603523/catalog/gitstart/icon128x128.jpg",
+  "website": "https://www.gitstart.com/"
+}

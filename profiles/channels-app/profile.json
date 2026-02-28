@@ -1,0 +1,14 @@
+{
+  "id": "channels-app",
+  "title": "Channels",
+  "subtitle": "Channels is the phone system built to power up your customer service. Put an end to interview-like customer support p...",
+  "tags": [
+    "customer-service",
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603913221/icons/channels-app.png",
+  "website": "https://www.channels.app/"
+}

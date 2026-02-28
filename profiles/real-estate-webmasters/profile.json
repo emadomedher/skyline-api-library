@@ -1,0 +1,12 @@
+{
+  "id": "real-estate-webmasters",
+  "title": "Real Estate Webmasters",
+  "subtitle": "Real Estate Webmasters is a real estate Software-as-a-Service CRM.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284588/catalog/real-estate-webmasters/icon128x128.png"
+}

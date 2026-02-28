@@ -1,0 +1,13 @@
+{
+  "id": "gorilla-corporation",
+  "title": "Gorilla Corporation",
+  "subtitle": "Gorilla Corporation API integration",
+  "tags": [
+    "channel-partner-&-local-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434840/catalog/gorilla-corporation/icon128x128.png",
+  "website": "https://gorillaict.com"
+}

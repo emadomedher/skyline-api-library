@@ -1,0 +1,15 @@
+{
+  "id": "callpage",
+  "title": "CallPage",
+  "subtitle": "Gain 75% more calls from your customers | CallPage",
+  "tags": [
+    "callback-software",
+    "sales-enablement",
+    "lead-capture"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561101119/catalog/callpage/icon128x128.jpg",
+  "website": "https://callpage.io"
+}

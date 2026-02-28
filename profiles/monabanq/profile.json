@@ -1,0 +1,14 @@
+{
+  "id": "monabanq",
+  "title": "Monabanq",
+  "subtitle": "Monabanq is a French online bank founded in 2006 and based in Villeneuve-d'Ascq, in the north of France in the Lille ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573868832/catalog/monabanq/icon128x128.jpg",
+  "website": "https://www.monabanq.com/",
+  "docsUrl": "https://www.monabanq.com/oauth2/fr/devportal/index.html"
+}

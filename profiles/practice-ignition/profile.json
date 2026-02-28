@@ -1,0 +1,15 @@
+{
+  "id": "practice-ignition",
+  "title": "Practice Ignition",
+  "subtitle": "Practice Ignition is everything you need to create winning proposals, get paid and manage your growing client base.",
+  "tags": [
+    "proposals-&-invoices",
+    "payment-processing",
+    "management-tools"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305728/catalog/practice-ignition/icon128x128.png",
+  "website": "https://www.practiceignition.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mandrill",
+  "title": "Mandrill",
+  "subtitle": "Mandrill is simple, powerful transactional email from the same people that brought you Mailchimp.",
+  "tags": [
+    "transactional-email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305386/catalog/mandrill/icon128x128.png",
+  "website": "https://mandrill.com/"
+}

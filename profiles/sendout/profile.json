@@ -1,0 +1,13 @@
+{
+  "id": "sendout",
+  "title": "SendOut",
+  "subtitle": "The domain name sendout.io is for sale. Make an offer or buy it now at a set price. Undeveloped keeps you safe.",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946620/catalog/sendout/icon128x128.jpg",
+  "website": "https://sendout.io"
+}

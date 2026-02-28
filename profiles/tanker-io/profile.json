@@ -1,0 +1,15 @@
+{
+  "id": "tanker-io",
+  "title": "Tanker",
+  "subtitle": "Embed Tanker SDK into your app to add collaborative end-to-end encryption in a few lines of code.",
+  "tags": [
+    "end-to-end-encryption",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615053304/icons/tanker-io.jpg",
+  "website": "https://tanker.io/",
+  "docsUrl": "https://docs.tanker.io/latest"
+}

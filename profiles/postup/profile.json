@@ -1,0 +1,13 @@
+{
+  "id": "postup",
+  "title": "PostUp",
+  "subtitle": "The email service provider and omnichannel engagement platform for digital publishing and media. Learn how publishers...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721564/catalog/postup/icon128x128.png",
+  "website": "https://postup.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "simple-io",
+  "title": "Simple",
+  "subtitle": "Simple is marketing resource managment software that helps CMOs and teams gain more agility, insights and control to ...",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573437316/catalog/simple-io/icon128x128.png",
+  "website": "http://simple.io"
+}

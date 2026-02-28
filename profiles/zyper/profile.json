@@ -1,0 +1,13 @@
+{
+  "id": "zyper",
+  "title": "Zyper",
+  "subtitle": "Zyper helps brands connect with their fans to drive engagement, insights and sales. Find out what Zyper can do for yo...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438678/catalog/zyper/icon128x128.png",
+  "website": "https://zyper.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "indicina-co",
+  "title": "Indicina",
+  "subtitle": "Indicina builds products using Open Banking so credit providers can approve more people; helping them make instant cr...",
+  "tags": [
+    "credit-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656283269/icons/indicina-co.jpg",
+  "website": "https://indicina.co/",
+  "docsUrl": "https://indicina.co/developers"
+}

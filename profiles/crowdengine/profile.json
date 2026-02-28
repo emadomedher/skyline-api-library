@@ -1,0 +1,14 @@
+{
+  "id": "crowdengine",
+  "title": "CrowdEngine",
+  "subtitle": "Raise Capital, Manage Investors, Make Life Easy. The most powerful White Label Equity Crowdfunding and Investor Manag...",
+  "tags": [
+    "investor-management",
+    "fundraising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571121295/catalog/crowdengine/icon128x128.png",
+  "website": "https://crowdengine.com/"
+}

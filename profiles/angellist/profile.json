@@ -1,0 +1,14 @@
+{
+  "id": "angellist",
+  "title": "AngelList",
+  "subtitle": "AngelList is where the world meets startups. Find a great startup job, invest in a startup, or raise money",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304409/catalog/angellist/icon128x128.png",
+  "website": "https://angel.co/",
+  "docsUrl": "https://angel.co/developer/jobs"
+}

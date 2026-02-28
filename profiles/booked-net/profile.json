@@ -1,0 +1,14 @@
+{
+  "id": "booked-net",
+  "title": "Booked.net",
+  "subtitle": "Need a place to stay? We offer plenty! Over 1,4M worldwide properties from 50+ reliable suppliers GUARANTEE unbeatabl...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448056/icons/booked-net.jpg",
+  "website": "https://www.booked.net/"
+}

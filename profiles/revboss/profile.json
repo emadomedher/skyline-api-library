@@ -1,0 +1,12 @@
+{
+  "id": "revboss",
+  "title": "RevBoss",
+  "subtitle": "RevBoss is a simple tool to help sales teams to find prospects, build pipeline, and grow faster.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305888/catalog/revboss/icon128x128.png"
+}

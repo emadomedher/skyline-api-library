@@ -1,0 +1,13 @@
+{
+  "id": "merkle",
+  "title": "Merkle",
+  "subtitle": "Build relationships with people you know. Leverage big data to make people-based marketing a reality for your brand.",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721112/catalog/merkle/icon128x128.jpg",
+  "website": "https://merkleinc.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cutt-ly",
+  "title": "Cuttly",
+  "subtitle": "Free custom URL Shortener and branded URLs with advanced links tracking and Link Management Platform & API. Shorten a...",
+  "tags": [
+    "url-shorteners"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567068047/catalog/cutt-ly/icon128x128.jpg",
+  "website": "https://cutt.ly/",
+  "docsUrl": "https://cutt.ly/api-documentation/cuttly-links-api"
+}

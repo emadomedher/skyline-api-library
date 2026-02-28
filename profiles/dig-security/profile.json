@@ -1,0 +1,13 @@
+{
+  "id": "dig-security",
+  "title": "Dig Security",
+  "subtitle": "Discover, classify, protect, and govern your cloud data with the first Data Security Posture Management (DSPM) and Da...",
+  "tags": [
+    "data-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686954363/icons/dig-security.jpg",
+  "website": "https://www.dig.security/"
+}

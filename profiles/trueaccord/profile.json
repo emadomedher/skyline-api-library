@@ -1,0 +1,14 @@
+{
+  "id": "trueaccord",
+  "title": "TrueAccord",
+  "subtitle": "TrueAccord is a digital debt collection agency that is reinventing the collections experience. Help customers resolve...",
+  "tags": [
+    "debt-collection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612494649/icons/trueaccord.jpg",
+  "website": "https://www.trueaccord.com/",
+  "docsUrl": "https://www.trueaccord.com/resources-api-docs"
+}

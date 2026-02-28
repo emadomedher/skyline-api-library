@@ -1,0 +1,15 @@
+{
+  "id": "truphone",
+  "title": "Truphone",
+  "subtitle": "We believe that connectivity can be easier, smarter and more efficient. Since 2006, we have built state of the art SI...",
+  "tags": [
+    "esim",
+    "mobile-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892855/catalog/truphone/icon128x128.jpg",
+  "website": "https://www.truphone.com/",
+  "docsUrl": "https://www.truphone.com/iot-solutions/docs-login"
+}

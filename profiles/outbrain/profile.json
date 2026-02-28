@@ -1,0 +1,13 @@
+{
+  "id": "outbrain",
+  "title": "Outbrain",
+  "subtitle": "Outbrain API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963412/catalog/outbrain/icon128x128.png",
+  "website": "https://outbrain.com"
+}

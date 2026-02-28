@@ -1,0 +1,13 @@
+{
+  "id": "helphub-io",
+  "title": "HelpHub",
+  "subtitle": "An affordable, hosted knowledge base that looks great and just works right out of the box.",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606447629/icons/helphub-io.png",
+  "website": "https://www.helphub.io/"
+}

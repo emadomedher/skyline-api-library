@@ -1,0 +1,15 @@
+{
+  "id": "accelevents",
+  "title": "Accelevents",
+  "subtitle": "Sell more tickets to your event or raise more money for your fundraising using our easy to use and affordable event t...",
+  "tags": [
+    "event-management",
+    "virtual-events"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678809685/icons/accelevents.jpg",
+  "website": "https://www.accelevents.com/",
+  "docsUrl": "https://developer.accelevents.com/"
+}

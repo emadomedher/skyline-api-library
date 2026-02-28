@@ -1,0 +1,13 @@
+{
+  "id": "taxtaker",
+  "title": "TaxTaker",
+  "subtitle": "TaxTaker helps startups extend their runway through government incentives with R&D Tax Credits and Employee Retention...",
+  "tags": [
+    "randd-tax-credits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568735/icons/taxtaker.jpg",
+  "website": "https://www.taxtaker.com/"
+}

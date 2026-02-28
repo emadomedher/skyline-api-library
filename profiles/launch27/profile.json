@@ -1,0 +1,13 @@
+{
+  "id": "launch27",
+  "title": "Launch27",
+  "subtitle": "Launch27 is an online booking software for local service businesses.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305262/catalog/launch27/icon128x128.png",
+  "website": "https://www.launch27.com/"
+}

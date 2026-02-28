@@ -1,0 +1,14 @@
+{
+  "id": "adshot-io",
+  "title": "Adshot.io",
+  "subtitle": "Campaigns for gaming influencers and brands made easy. Trusted by over 2.000 authenticated gaming influencers on Twit...",
+  "tags": [
+    "gaming",
+    "advertising"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578307454/catalog/adshot-io/icon128x128.jpg",
+  "website": "https://adshot.io/"
+}

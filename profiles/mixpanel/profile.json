@@ -1,0 +1,14 @@
+{
+  "id": "mixpanel",
+  "title": "Mixpanel",
+  "subtitle": "Mixpanel provides product analytics for understanding user behavior in apps & websites. Build better products faster ...",
+  "tags": [
+    "analytics",
+    "hosting"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613629350/icons/mixpanel.jpg",
+  "website": "https://mixpanel.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "nuedusec",
+  "title": "nuedusec",
+  "subtitle": "Protect Your school or campus network devices with NuEduSec Cloud Security solution. Try for Free Now!",
+  "tags": [
+    "online-safety",
+    "schools",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578048743/catalog/nuedusec/icon128x128.jpg",
+  "website": "https://www.nuedusec.com/"
+}

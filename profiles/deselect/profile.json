@@ -1,0 +1,13 @@
+{
+  "id": "deselect",
+  "title": "DESelect",
+  "subtitle": "DESelect Salesforce Marketing Cloud solutions save you 52% time on data management and helps launch campaigns 23% fas...",
+  "tags": [
+    "customer-data-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627767086/icons/deselect.jpg",
+  "website": "https://deselect.com/"
+}

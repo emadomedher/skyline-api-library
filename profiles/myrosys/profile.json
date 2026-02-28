@@ -1,0 +1,13 @@
+{
+  "id": "myrosys",
+  "title": "myRosys",
+  "subtitle": "myRosys is a social media management platform that enhances social reach & engagement & helps to monitor Social Media...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721206/catalog/myrosys/icon128x128.jpg",
+  "website": "https://myrosys.com"
+}

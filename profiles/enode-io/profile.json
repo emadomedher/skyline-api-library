@@ -1,0 +1,16 @@
+{
+  "id": "enode-io",
+  "title": "Enode",
+  "subtitle": "Enode allows energy apps to connect to EVs, solar panels, batteries and other smart energy hardware - all through a s...",
+  "tags": [
+    "ev",
+    "energy-apis",
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667912238/icons/enode-io.jpg",
+  "website": "https://enode.io/",
+  "docsUrl": "https://developers.enode.io/docs/getting-started/make-your-first-api-call"
+}

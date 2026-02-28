@@ -1,0 +1,14 @@
+{
+  "id": "roger-ai",
+  "title": "Roger",
+  "subtitle": "Roger is designed to give you and your team time back by getting all the boring daily financial work done through aut...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569691782/catalog/roger-ai/icon128x128.png",
+  "website": "https://www.roger.ai/",
+  "docsUrl": "https://www.roger.ai/#"
+}

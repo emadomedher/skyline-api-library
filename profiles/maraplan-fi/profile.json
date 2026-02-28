@@ -1,0 +1,13 @@
+{
+  "id": "maraplan-fi",
+  "title": "MaraPlan",
+  "subtitle": "MaraPlan Pro työvuorosuunnitteluohjelma tuo tehoa henkilöresurssointiin. Selainpohjaisen MaraPlan Pron avulla työvuor...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686603001/icons/maraplan-fi.png",
+  "website": "https://maraplan.fi/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "handsontable",
+  "title": "Handsontable",
+  "subtitle": "JavaScript data grid that looks and feels like a spreadsheet. Works with React, Angular and Vue.",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628557330/icons/handsontable.jpg",
+  "website": "https://handsontable.com/",
+  "docsUrl": "https://handsontable.com/docs"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ipdata-co",
+  "title": "Ipdata",
+  "subtitle": "Lookup the location of any IP Address with ipdata's IP Geolocation API. ipdata is fast, accurate and is used by 20,00...",
+  "tags": [
+    "ip-data-api",
+    "geolocation",
+    "api"
+  ],
+  "category": "Maps & Geolocation",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793917/icons/ipdata-co.jpg",
+  "website": "https://ipdata.co/",
+  "docsUrl": "https://docs.ipdata.co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pixteller",
+  "title": "PixTeller",
+  "subtitle": "Easy-to-Use Design & Animation Tool to Make: Social Media Graphics, Posters, Banners, Flyers, Covers & Headers, Logos...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827202/catalog/pixteller/icon128x128.jpg",
+  "website": "https://pixteller.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "metrilo",
+  "title": "Metrilo",
+  "subtitle": "Ecommerce Analytics and behaviour-driven customer engagement tools to help you make confident growth decisions faster...",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579130031/catalog/metrilo/icon128x128.png",
+  "website": "https://metrilo.com"
+}

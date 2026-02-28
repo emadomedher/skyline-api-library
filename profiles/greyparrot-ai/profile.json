@@ -1,0 +1,13 @@
+{
+  "id": "greyparrot-ai",
+  "title": "Greyparrot",
+  "subtitle": "AI-based computer vision solutions to power next generation robotics and smart systems for the recycling and waste ma...",
+  "tags": [
+    "waste-recognition"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590745683/catalog/greyparrot-ai/icon128x128.png",
+  "website": "https://greyparrot.ai/"
+}

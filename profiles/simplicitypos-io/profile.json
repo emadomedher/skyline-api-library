@@ -1,0 +1,14 @@
+{
+  "id": "simplicitypos-io",
+  "title": "SimplicityPOS",
+  "subtitle": "Link to hospitality POS systems through a single cloud-based interface to embrace real-time analytics, mobile payment...",
+  "tags": [
+    "pos-api",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634680406/icons/simplicitypos-io.png",
+  "website": "https://simplicitypos.io/"
+}

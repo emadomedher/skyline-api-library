@@ -1,0 +1,13 @@
+{
+  "id": "allvoices-co",
+  "title": "AllVoices",
+  "subtitle": "Send anonymous company feedback. Report harassment, bias or culture issues as a current or former employee, vendor or...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581132485/catalog/allvoices-co/icon128x128.jpg",
+  "website": "https://www.allvoices.co/"
+}

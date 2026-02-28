@@ -1,0 +1,13 @@
+{
+  "id": "meetwonka",
+  "title": "Meet Wonka",
+  "subtitle": "Wonka is dedicated to revolutionising the European AI landscape by providing a comprehensive AI platform for business...",
+  "tags": [
+    "generative-ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686833948/icons/meetwonka.png",
+  "website": "https://www.meetwonka.com/"
+}

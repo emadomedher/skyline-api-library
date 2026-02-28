@@ -1,0 +1,13 @@
+{
+  "id": "socio-events",
+  "title": "Socio",
+  "subtitle": "Intuitive, powerful event apps and lead retrieval solutions that optimize events and boost ROI for organizers, attend...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564681924/catalog/socio-events/icon128x128.png",
+  "website": "https://socio.events"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "smync",
+  "title": "Smync",
+  "subtitle": "Smync is The Social Brand Advocacy Platform. Our technology identifies, activates and amplifies real advocates for re...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722160/catalog/smync/icon128x128.png",
+  "website": "https://smync.com"
+}

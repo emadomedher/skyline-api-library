@@ -1,0 +1,13 @@
+{
+  "id": "leadslive",
+  "title": "LeadsLive",
+  "subtitle": "LeadsLive API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946860/catalog/leadslive/icon128x128.jpg",
+  "website": "https://leadslive.io"
+}

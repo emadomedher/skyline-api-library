@@ -1,0 +1,13 @@
+{
+  "id": "screen6",
+  "title": "Screen6",
+  "subtitle": "Screen6 API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437167/catalog/screen6/icon128x128.png",
+  "website": "https://s6.io"
+}

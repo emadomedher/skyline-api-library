@@ -1,0 +1,13 @@
+{
+  "id": "helm-sh",
+  "title": "Helm.sh",
+  "subtitle": "Helm.sh API integration",
+  "tags": [
+    "container-orchestration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547700865/catalog/helm-sh/icon128x128.png",
+  "website": "https://helm.sh/"
+}

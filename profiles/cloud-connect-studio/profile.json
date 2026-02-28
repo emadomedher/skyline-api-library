@@ -1,0 +1,12 @@
+{
+  "id": "cloud-connect-studio",
+  "title": "Cloud Connect Studio",
+  "subtitle": "This connector will be used to integrate with Fuji Xerox Cloud Connect Studio solution. This connector will be used a...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264770/catalog/cloud-connect-studio/icon128x128.png"
+}

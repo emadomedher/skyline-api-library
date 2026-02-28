@@ -1,0 +1,13 @@
+{
+  "id": "podiant-co",
+  "title": "Podiant",
+  "subtitle": "Podcast hosting, distribution, analytics, production and consultancy based in the UK.",
+  "tags": [
+    "podcasting"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613989198/icons/podiant-co.jpg",
+  "website": "https://podiant.co/"
+}

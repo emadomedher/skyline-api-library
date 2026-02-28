@@ -1,0 +1,13 @@
+{
+  "id": "v-key",
+  "title": "V-Key",
+  "subtitle": "V-Key is a global leader in software based digital security used by banks, governments and payment gateways. Contact ...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589112308/catalog/v-key/icon128x128.jpg",
+  "website": "https://www.v-key.com/"
+}

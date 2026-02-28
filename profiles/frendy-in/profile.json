@@ -1,0 +1,13 @@
+{
+  "id": "frendy-in",
+  "title": "Frendy",
+  "subtitle": "Frendy is a social ecommerce shopping app where you can shop from categories like – Fashion, Beauty, Mobile accessori...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582233366/catalog/frendy-in/icon128x128.jpg",
+  "website": "https://frendy.in/"
+}

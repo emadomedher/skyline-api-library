@@ -1,0 +1,15 @@
+{
+  "id": "bossinsights",
+  "title": "Boss Insights",
+  "subtitle": "A secure & powerful way for business lenders to access their customers' financial data - Quickbooks, Stripe, Salesfor...",
+  "tags": [
+    "accounting-data",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631758595/icons/bossinsights.jpg",
+  "website": "https://bossinsights.com/",
+  "docsUrl": "https://bossinsights.com/developers"
+}

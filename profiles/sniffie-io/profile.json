@@ -1,0 +1,14 @@
+{
+  "id": "sniffie-io",
+  "title": "Sniffie",
+  "subtitle": "Secure profitable product pricing by making it data driven with Sniffie. The easiest dynamic product pricing tool for...",
+  "tags": [
+    "dynamic-product-pricing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659049688/icons/sniffie-io.jpg",
+  "website": "https://www.sniffie.io/",
+  "docsUrl": "https://www.sniffie.io/customers-and-results"
+}

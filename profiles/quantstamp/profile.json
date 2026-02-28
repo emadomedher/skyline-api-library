@@ -1,0 +1,14 @@
+{
+  "id": "quantstamp",
+  "title": "Quantstamp",
+  "subtitle": "Quantstamp is a trusted leader in blockchain security and delivers end-to-end blockchain solutions for the world’s la...",
+  "tags": [
+    "blockchain-security",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602009487/icons/quantstamp.jpg",
+  "website": "https://quantstamp.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "raisin",
+  "title": "Raisin",
+  "subtitle": "Top term deposits from across Europe ➤ Open your account at raisin.com and benefit from top term deposit 100% insured...",
+  "tags": [
+    "lending",
+    "savings",
+    "investments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567033148/catalog/raisin/icon128x128.jpg",
+  "website": "https://www.raisin.com/"
+}

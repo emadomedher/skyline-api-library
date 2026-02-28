@@ -1,0 +1,13 @@
+{
+  "id": "genei-io",
+  "title": "genei",
+  "subtitle": "genei is a intelligent research tool enabling you to improve productivity by using a custom AI algorithm to summarise...",
+  "tags": [
+    "summarization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672855785/icons/genei-io.png",
+  "website": "https://www.genei.io/"
+}

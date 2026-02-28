@@ -1,0 +1,13 @@
+{
+  "id": "act-threesixfive",
+  "title": "Act! 365",
+  "subtitle": "Act! 365 is a sales pipeline and marketing App designed to help businesses close more deals, find new leads, and grow...",
+  "tags": [
+    "contacts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284429/catalog/act-threesixfive/icon128x128.png",
+  "website": "https://www.act365.com/"
+}

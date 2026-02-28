@@ -1,0 +1,13 @@
+{
+  "id": "intercom-surveys",
+  "title": "Intercom Surveys",
+  "subtitle": "Let in-context customer surveys take your business to the next level. From nurture campaigns to onboarding experience...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648078588/icons/intercom-surveys.png",
+  "website": "https://www.intercom.com/surveys/"
+}

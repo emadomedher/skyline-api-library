@@ -1,0 +1,13 @@
+{
+  "id": "tweetninja-io",
+  "title": "Tweet Ninja",
+  "subtitle": "Use TweetNinja to get more followers, engage with influencers and boost your Twitter engagement - on autopilot",
+  "tags": [
+    "social-media"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581637788/catalog/tweetninja-io/icon128x128.png",
+  "website": "https://www.tweetninja.io/"
+}

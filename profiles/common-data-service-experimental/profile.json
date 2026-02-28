@@ -1,0 +1,12 @@
+{
+  "id": "common-data-service-experimental",
+  "title": "Common Data Service (experimental)",
+  "subtitle": "Provides access to the org-based database on the Microsoft Common Data Service.  This experimental connector adds sup...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264774/catalog/common-data-service-experimental/icon128x128.png"
+}

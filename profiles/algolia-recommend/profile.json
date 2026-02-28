@@ -1,0 +1,15 @@
+{
+  "id": "algolia-recommend",
+  "title": "Algolia Recommend",
+  "subtitle": "6 Lines of code to build a personalized ecommerce recommendation module. Create better UX and drive conversion. Learn...",
+  "tags": [
+    "product-recommendations",
+    "ecommerce-recommendation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625467185/icons/algolia-recommend.jpg",
+  "website": "https://www.algolia.com/products/recommendations/",
+  "docsUrl": "https://www.algolia.com/doc/rest-api/recommend/"
+}

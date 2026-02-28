@@ -1,0 +1,14 @@
+{
+  "id": "zapier-email",
+  "title": "Email by Zapier",
+  "subtitle": "Send and receive email via a custom Zapier email address at <code>zapiermail.com</code>. This is great for triggering...",
+  "tags": [
+    "zapier-tools",
+    "email"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546849165/catalog/zapier-email/icon128x128.png",
+  "website": "https://zapier.com/"
+}

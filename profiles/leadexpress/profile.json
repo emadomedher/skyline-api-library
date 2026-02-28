@@ -1,0 +1,12 @@
+{
+  "id": "leadexpress",
+  "title": "LeadExpress",
+  "subtitle": "LeadExpress transforms your website visitors into quality leads!",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284548/catalog/leadexpress/icon128x128.png"
+}

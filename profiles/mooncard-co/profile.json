@@ -1,0 +1,14 @@
+{
+  "id": "mooncard-co",
+  "title": "Mooncard",
+  "subtitle": "Mooncard élimine les notes de frais en automatisant leur traitement !",
+  "tags": [
+    "expense-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567242294/catalog/mooncard-co/icon128x128.jpg",
+  "website": "https://www.mooncard.co/"
+}

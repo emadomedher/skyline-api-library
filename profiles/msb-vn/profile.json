@@ -1,0 +1,13 @@
+{
+  "id": "msb-vn",
+  "title": "Maritime Bank (MSB)",
+  "subtitle": "Vietnam Maritime Commercial Joint Stock Bank (Maritime Bank) was established in 1991. The current charter capital of ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597482071/icons/msb-vn.jpg",
+  "website": "https://www.msb.com.vn/"
+}

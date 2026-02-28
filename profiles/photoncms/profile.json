@@ -1,0 +1,13 @@
+{
+  "id": "photoncms",
+  "title": "Photon CMS",
+  "subtitle": "Photon CMS Inc. builds enterprise-level websites and applications using the acclaimed Photon headless Content Managem...",
+  "tags": [
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476462/icons/photoncms.jpg",
+  "website": "https://photoncms.com/"
+}

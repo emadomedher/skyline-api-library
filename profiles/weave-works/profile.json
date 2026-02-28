@@ -1,0 +1,15 @@
+{
+  "id": "weave-works",
+  "title": "Weaveworks",
+  "subtitle": "Weaveworks makes Kubernetes management easy. The leader in cloud native and reliability with GitOps.",
+  "tags": [
+    "kubernetes",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592727599/icons/weave-works.png",
+  "website": "https://www.weave.works/",
+  "docsUrl": "https://www.weave.works/docs"
+}

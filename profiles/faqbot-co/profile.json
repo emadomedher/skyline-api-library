@@ -1,0 +1,13 @@
+{
+  "id": "faqbot-co",
+  "title": "Faqbot",
+  "subtitle": "Faqbot is an AI powered chatbot for customer support. We turn FAQ content into a helper bot. Scale and automate your ...",
+  "tags": [
+    "knowledge-base"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573231967/catalog/faqbot-co/icon128x128.jpg",
+  "website": "https://www.faqbot.co/"
+}

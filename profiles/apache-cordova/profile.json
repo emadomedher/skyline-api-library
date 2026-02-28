@@ -1,0 +1,13 @@
+{
+  "id": "apache-cordova",
+  "title": "Apache Cordova",
+  "subtitle": " ",
+  "tags": [
+    "mobile-development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572956952/catalog/apache-cordova/icon128x128.png",
+  "website": "https://cordova.apache.org/"
+}

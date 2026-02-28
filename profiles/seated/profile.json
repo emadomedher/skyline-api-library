@@ -1,0 +1,13 @@
+{
+  "id": "seated",
+  "title": "Seated",
+  "subtitle": "Seated API integration",
+  "tags": [
+    "event-ticketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649664810/icons/seated.jpg",
+  "website": "https://www.seated.com/"
+}

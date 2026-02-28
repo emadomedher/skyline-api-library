@@ -1,0 +1,13 @@
+{
+  "id": "ellucian",
+  "title": "Ellucian",
+  "subtitle": "Ellucian's technology solutions are designed for the modern student specifically to meet the needs of higher educatio...",
+  "tags": [
+    "higher-education"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821136/catalog/ellucian/icon128x128.jpg",
+  "website": "https://www.ellucian.com/"
+}

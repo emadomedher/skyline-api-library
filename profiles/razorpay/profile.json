@@ -1,0 +1,14 @@
+{
+  "id": "razorpay",
+  "title": "Razorpay",
+  "subtitle": "Payment Gateway for India: Start Accepting Payments Instantly with Razorpay's Free Payment Gateway. Supports Netbanki...",
+  "tags": [
+    "payment-gateways"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572573162/catalog/razorpay/icon128x128.jpg",
+  "website": "https://razorpay.com/",
+  "docsUrl": "https://razorpay.com/docs"
+}

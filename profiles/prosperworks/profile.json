@@ -1,0 +1,13 @@
+{
+  "id": "prosperworks",
+  "title": "Prosperworks",
+  "subtitle": "Prosperworks API integration",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456756/catalog/prosperworks/icon128x128.png",
+  "website": "https://www.copper.com/"
+}

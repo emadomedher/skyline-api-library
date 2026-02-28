@@ -1,0 +1,15 @@
+{
+  "id": "getcombine",
+  "title": "Combine",
+  "subtitle": "A mobile app that lets you control your money everywhere",
+  "tags": [
+    "personal-finance-management",
+    "fintech",
+    "multi-account-aggregation-apps"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613081061/icons/getcombine.jpg",
+  "website": "https://getcombine.com/"
+}

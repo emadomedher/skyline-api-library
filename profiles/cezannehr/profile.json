@@ -1,0 +1,14 @@
+{
+  "id": "cezannehr",
+  "title": "Cezanne HR",
+  "subtitle": "HR software is designed to streamline HR processes, provide better HR insight, improve employee engagement and reduce...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805173/icons/cezannehr.png",
+  "website": "https://cezannehr.com/",
+  "docsUrl": "https://api.cezannehr.com/?version=latest"
+}

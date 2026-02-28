@@ -1,0 +1,13 @@
+{
+  "id": "alterapayroll",
+  "title": "Altera Payroll & Insurance",
+  "subtitle": "Altera Payment Solutions provides integrated payroll & payment functionality along with taxes, human resource admin &...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753788/icons/alterapayroll.png",
+  "website": "https://alterapayroll.com/"
+}

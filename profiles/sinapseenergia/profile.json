@@ -1,0 +1,14 @@
+{
+  "id": "sinapseenergia",
+  "title": "Sinapse Energia",
+  "subtitle": "Sinapse Energia API integration",
+  "tags": [
+    "energy",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616274169/icons/sinapseenergia.jpg",
+  "website": "http://www.sinapseenergia.com/"
+}

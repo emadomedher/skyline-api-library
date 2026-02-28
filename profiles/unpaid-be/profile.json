@@ -1,0 +1,15 @@
+{
+  "id": "unpaid-be",
+  "title": "Unpaid",
+  "subtitle": "Vorder uw onbetaalde facturen in met een minimum aan kosten en inspanningen via Unpaid, You've earned it!",
+  "tags": [
+    "dunning",
+    "invoicing",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565279386/catalog/unpaid-be/icon128x128.png",
+  "website": "https://unpaid.be"
+}

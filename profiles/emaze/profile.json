@@ -1,0 +1,13 @@
+{
+  "id": "emaze",
+  "title": "emaze",
+  "subtitle": "Emaze is the next generation of online content creation. Choose from hundreds of templates to create customized prese...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826357/catalog/emaze/icon128x128.jpg",
+  "website": "https://emaze.com"
+}

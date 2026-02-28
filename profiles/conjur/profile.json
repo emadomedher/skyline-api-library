@@ -1,0 +1,16 @@
+{
+  "id": "conjur",
+  "title": "Conjur",
+  "subtitle": "Secrets management made simple with programmable open source interface that securely authenticates, controls and audi...",
+  "tags": [
+    "devops-security",
+    "secrets-management",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623450069/icons/conjur.png",
+  "website": "https://www.conjur.org/",
+  "docsUrl": "https://docs.conjur.org/latest/en/content/resources/_topnav/cc_home.htm"
+}

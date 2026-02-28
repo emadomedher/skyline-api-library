@@ -1,0 +1,13 @@
+{
+  "id": "epos-now",
+  "title": "Epos Now",
+  "subtitle": "Grow and manage your business in the cloud with the Epos Now point-of-sale platform. Harness powerful reporting, inve...",
+  "tags": [
+    "payment-processing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304856/catalog/epos-now/icon128x128.png",
+  "website": "https://www.eposnow.com"
+}

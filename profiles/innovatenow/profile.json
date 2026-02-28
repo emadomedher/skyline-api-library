@@ -1,0 +1,13 @@
+{
+  "id": "innovatenow",
+  "title": "InnovateNow",
+  "subtitle": "InnovateNow API integration",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946915/catalog/innovatenow/icon128x128.jpg",
+  "website": "https://innovatenow.co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "apple-push-notifications",
+  "title": "Apple Push Notifications",
+  "subtitle": "Apple Push Notification service is a platform notification service created by Apple Inc. that enables third party app...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569446924/catalog/apple-push-notifications/icon128x128.png",
+  "website": "https://developer.apple.com/notifications/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wikipixel",
+  "title": "Wikipixel",
+  "subtitle": "Start managing your digital content and brand assets with Wikipixel cloud platform.",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722913/catalog/wikipixel/icon128x128.png",
+  "website": "https://wikipixel.com"
+}

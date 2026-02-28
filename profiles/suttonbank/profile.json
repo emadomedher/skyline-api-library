@@ -1,0 +1,14 @@
+{
+  "id": "suttonbank",
+  "title": "Sutton Bank",
+  "subtitle": "At Sutton Bank we strive to help our customers reach their financial goals while aiming to be the top bank of choice ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616014218/icons/suttonbank.png",
+  "website": "https://www.suttonbank.com/",
+  "docsUrl": "https://play.google.com/store/apps/developer?id=sutton+bank"
+}

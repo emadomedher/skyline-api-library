@@ -1,0 +1,13 @@
+{
+  "id": "revenuejump",
+  "title": "RevenueJump",
+  "subtitle": "Want more referrals, 5-star reviews, and better employees? Come check out RevenueJump and we'll show you how we make ...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946671/catalog/revenuejump/icon128x128.png",
+  "website": "https://revenuejump.com"
+}

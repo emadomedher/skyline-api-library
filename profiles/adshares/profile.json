@@ -1,0 +1,14 @@
+{
+  "id": "adshares",
+  "title": "AdShares",
+  "subtitle": "AdShares API integration",
+  "tags": [
+    "display-and-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432824/catalog/adshares/icon128x128.png",
+  "website": "https://adshares.net",
+  "docsUrl": "https://adshares.net/docs/esc_whitepaper.pdf"
+}

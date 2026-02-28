@@ -1,0 +1,13 @@
+{
+  "id": "culture-ai",
+  "title": "CultureAI",
+  "subtitle": "Measure and improve human cyber risks and security behaviours to prevent security incidents. Go beyond security aware...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647089125/icons/culture-ai.png",
+  "website": "https://culture.ai/"
+}

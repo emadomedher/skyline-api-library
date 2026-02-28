@@ -1,0 +1,13 @@
+{
+  "id": "pageproofer",
+  "title": "PageProofer",
+  "subtitle": "The easiset way for your team and clients to leave feedback during website development. Share, comment and track in t...",
+  "tags": [
+    "bug-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578578381/catalog/pageproofer/icon128x128.png",
+  "website": "https://pageproofer.com/"
+}

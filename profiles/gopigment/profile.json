@@ -1,0 +1,14 @@
+{
+  "id": "gopigment",
+  "title": "Pigment",
+  "subtitle": "The all-in-one business planning platform for finance and revenue teams to plan & forecast your business in real-time...",
+  "tags": [
+    "financial-forecasting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1651773032/icons/gopigment.jpg",
+  "website": "https://www.gopigment.com/",
+  "docsUrl": "https://community.gopigment.com/documentation-79"
+}

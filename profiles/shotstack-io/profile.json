@@ -1,0 +1,14 @@
+{
+  "id": "shotstack-io",
+  "title": "Shotstack",
+  "subtitle": "Edit, automate and personalise videos, at scale, in the cloud, using the Shotstack video editing API",
+  "tags": [
+    "video-editing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222452/icons/shotstack-io.png",
+  "website": "https://shotstack.io/",
+  "docsUrl": "https://shotstack.io/#"
+}

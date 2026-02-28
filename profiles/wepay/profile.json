@@ -1,0 +1,14 @@
+{
+  "id": "wepay",
+  "title": "WePay",
+  "subtitle": "WePay is an integrated payments provider for SaaS and crowdfunding platforms. Grow your revenue without friction or f...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562627591/catalog/wepay/icon128x128.jpg",
+  "website": "https://wepay.com",
+  "docsUrl": "https://developer.wepay.com"
+}

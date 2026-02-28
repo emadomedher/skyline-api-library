@@ -1,0 +1,13 @@
+{
+  "id": "hubspot-operations-hub",
+  "title": "HubSpot Operations Hub",
+  "subtitle": "With Operations Hub, you can connect all your apps, sync customer data, and automate business processes to keep your ...",
+  "tags": [
+    "data-synchronization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619152219/icons/hubspot-operations-hub.png",
+  "website": "https://www.hubspot.com/products/operations"
+}

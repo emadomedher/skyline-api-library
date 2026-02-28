@@ -1,0 +1,13 @@
+{
+  "id": "kodezi",
+  "title": "Kodezi",
+  "subtitle": "Kodezi API integration",
+  "tags": [
+    "coding-assistants"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646907564/icons/kodezi.jpg",
+  "website": "https://www.kodezi.com/"
+}

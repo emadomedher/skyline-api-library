@@ -1,0 +1,14 @@
+{
+  "id": "vive",
+  "title": "HTC VIVE",
+  "subtitle": "VIVE is a first-of-its-kind virtual reality system. Let yourself be visually, physically and emotionally amazed by ne...",
+  "tags": [
+    "vr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630510647/icons/vive.png",
+  "website": "https://www.vive.com/",
+  "docsUrl": "https://developer.viveport.com"
+}

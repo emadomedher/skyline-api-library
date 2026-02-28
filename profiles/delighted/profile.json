@@ -1,0 +1,13 @@
+{
+  "id": "delighted",
+  "title": "Delighted",
+  "subtitle": "Delighted is the easiest and most beautiful way to measure customer happiness.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304745/catalog/delighted/icon128x128.png",
+  "website": "https://delighted.com"
+}

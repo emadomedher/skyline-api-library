@@ -1,0 +1,15 @@
+{
+  "id": "termly-io",
+  "title": "Termly",
+  "subtitle": "Safeguard your business with our FREE legal policy generators and GDPR cookie consent manager! Get the compliance sol...",
+  "tags": [
+    "compliance",
+    "privacy",
+    "consent-management-platform"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587639259/catalog/termly-io/icon128x128.jpg",
+  "website": "https://termly.io/"
+}

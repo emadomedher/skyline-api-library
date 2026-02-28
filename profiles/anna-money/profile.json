@@ -1,0 +1,15 @@
+{
+  "id": "anna-money",
+  "title": "ANNA Money",
+  "subtitle": "The mobile business account that does your invoices, estimates tax owed and reminds you of tax deadlines.",
+  "tags": [
+    "challenger-banks",
+    "invoicing",
+    "expense-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581062140/catalog/anna-money/icon128x128.jpg",
+  "website": "https://anna.money/"
+}

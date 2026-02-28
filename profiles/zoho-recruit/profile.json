@@ -1,0 +1,13 @@
+{
+  "id": "zoho-recruit",
+  "title": "Zoho Recruit",
+  "subtitle": "The all-in-one applicant tracking system for the modern recruiter. Share your job openings with the world! Publish jo...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306619/catalog/zoho-recruit/icon128x128.png",
+  "website": "https://www.zoho.com/recruit/"
+}

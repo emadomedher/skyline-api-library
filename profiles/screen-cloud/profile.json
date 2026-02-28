@@ -1,0 +1,14 @@
+{
+  "id": "screen-cloud",
+  "title": "ScreenCloud",
+  "subtitle": "ScreenCloud is simple digital signage software for any screen. Easily display whatever's important to your business o...",
+  "tags": [
+    "digital-signage"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573666274/catalog/screen-cloud/icon128x128.jpg",
+  "website": "https://screen.cloud",
+  "docsUrl": "https://developer.screen.cloud"
+}

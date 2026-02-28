@@ -1,0 +1,13 @@
+{
+  "id": "chatdesk",
+  "title": "Chatdesk",
+  "subtitle": "Chatdesk creates software that help companies deliver better customer support, drive sales growth and scale efficiently",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634600657/icons/chatdesk.jpg",
+  "website": "https://www.chatdesk.com/"
+}

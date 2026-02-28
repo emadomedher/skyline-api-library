@@ -1,0 +1,16 @@
+{
+  "id": "strattic",
+  "title": "Strattic",
+  "subtitle": "Headless and static WordPress has never been easier: host WordPress on Strattic and get a fast, secure and scalable h...",
+  "tags": [
+    "static-site-hosting",
+    "wordpress-hosting",
+    "jamstack"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638775790/icons/strattic.jpg",
+  "website": "https://www.strattic.com/",
+  "docsUrl": "https://www.strattic.com/#"
+}

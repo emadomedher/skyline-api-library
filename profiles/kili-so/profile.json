@@ -1,0 +1,13 @@
+{
+  "id": "kili-so",
+  "title": "Kili",
+  "subtitle": "Your customer support companion",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678635451/icons/kili-so.png",
+  "website": "https://www.kili.so/"
+}

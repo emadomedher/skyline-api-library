@@ -1,0 +1,14 @@
+{
+  "id": "every-io",
+  "title": "Every",
+  "subtitle": "We run your finance and HR so you can run your startup.",
+  "tags": [
+    "payroll",
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685841952/icons/every-io.png",
+  "website": "https://www.every.io/"
+}

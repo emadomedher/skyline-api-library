@@ -1,0 +1,13 @@
+{
+  "id": "workshare",
+  "title": "Workshare",
+  "subtitle": "Document comparison is fast and accurate with Workshare. Compare files, clean sensitive metadata and collaborate secu...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946346/catalog/workshare/icon128x128.jpg",
+  "website": "https://workshare.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sftp",
+  "title": "SFTP",
+  "subtitle": "SFTP (SSH File Transfer Protocol) is a network protocol that provides file access, file transfer, and file management...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264841/catalog/sftp/icon128x128.png"
+}

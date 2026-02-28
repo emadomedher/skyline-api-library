@@ -1,0 +1,14 @@
+{
+  "id": "chatwerk-de",
+  "title": "Chatwerk",
+  "subtitle": "ChatWerk ist deine alle Messenger App für Leads und Bestandskunden. WhatsApp Business, Webchat, Facebook Messenger un...",
+  "tags": [
+    "unified-inbox",
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660241651/icons/chatwerk-de.png",
+  "website": "https://chatwerk.de/"
+}

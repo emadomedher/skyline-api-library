@@ -1,0 +1,15 @@
+{
+  "id": "doshii-io",
+  "title": "Doshii",
+  "subtitle": "Doshii API integration",
+  "tags": [
+    "venue-management",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599025776/icons/doshii-io.jpg",
+  "website": "https://doshii.io/",
+  "docsUrl": "https://doshii.io/app-developers"
+}

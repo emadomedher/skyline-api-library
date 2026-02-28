@@ -1,0 +1,13 @@
+{
+  "id": "rare-bits",
+  "title": "Rare bits",
+  "subtitle": "Rare bits API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962520/catalog/rare-bits/icon128x128.png",
+  "website": "https://rarebits.io"
+}

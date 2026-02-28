@@ -1,0 +1,14 @@
+{
+  "id": "run-ai",
+  "title": "Run:AI",
+  "subtitle": "The world’s first AI virtualization layer for deep learning training models. By abstracting workloads from underlying...",
+  "tags": [
+    "virtualization",
+    "kubernetes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588859510/catalog/run-ai/icon128x128.jpg",
+  "website": "https://www.run.ai/"
+}

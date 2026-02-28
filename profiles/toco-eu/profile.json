@@ -1,0 +1,13 @@
+{
+  "id": "toco-eu",
+  "title": "Toco",
+  "subtitle": "The financial compass that keeps you on track",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605373414/icons/toco-eu.png",
+  "website": "https://toco.eu"
+}

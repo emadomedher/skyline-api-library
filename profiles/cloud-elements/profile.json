@@ -1,0 +1,14 @@
+{
+  "id": "cloud-elements",
+  "title": "Cloud Elements",
+  "subtitle": "Cloud Elements is the leading API integration platform for SaaS app providers and the digital enterprise. Turn integr...",
+  "tags": [
+    "ipaas-clouddata-integration-and-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719486/catalog/cloud-elements/icon128x128.jpg",
+  "website": "https://cloud-elements.com",
+  "docsUrl": "https://docs.cloud-elements.com/home"
+}

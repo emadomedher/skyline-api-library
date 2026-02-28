@@ -1,0 +1,13 @@
+{
+  "id": "nextbee",
+  "title": "Nextbee",
+  "subtitle": "Feature rich technology platform backed by data insights and years of implementation experience",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436120/catalog/nextbee/icon128x128.png",
+  "website": "https://info.nextbee.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kandy-io",
+  "title": "Kandy",
+  "subtitle": "Kandy Integrate cloud based voice, video, messaging, chat and collaboration into any app, service or business process.",
+  "tags": [
+    "cpaas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599335532/icons/kandy-io.png",
+  "website": "https://www.kandy.io/",
+  "docsUrl": "https://www.kandy.io/company/developer-portal"
+}

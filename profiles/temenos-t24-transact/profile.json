@@ -1,0 +1,15 @@
+{
+  "id": "temenos-t24-transact",
+  "title": "Temenos T24 Transact",
+  "subtitle": "The world's best-selling, most functionally rich core banking software product used by over 700 banks in all sectors ...",
+  "tags": [
+    "fintech",
+    "core-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574828757/catalog/temenos-t24-transact/icon128x128.jpg",
+  "website": "https://www.temenos.com/products/t24-transact/",
+  "docsUrl": "https://www.temenos.com/community/temenos-developer-community"
+}

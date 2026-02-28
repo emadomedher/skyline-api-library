@@ -1,0 +1,13 @@
+{
+  "id": "whatcounts",
+  "title": "WhatCounts",
+  "subtitle": "WhatCounts has built the best email marketing software out there… and we help you use it. See results with our awesom...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946364/catalog/whatcounts/icon128x128.jpg",
+  "website": "https://whatcounts.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "shr-global-windsurfer",
+  "title": "Windsurfer",
+  "subtitle": "Best hotel CRS! SHR's Windsurfer CRS Enterprise brings a fresh look and feel geared towards hotel groups and chains t...",
+  "tags": [
+    "central-reservation-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751541/icons/shr-global-windsurfer.jpg",
+  "website": "https://shr.global/windsurfer-crs-enterprise/"
+}

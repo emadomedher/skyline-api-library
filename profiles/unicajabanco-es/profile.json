@@ -1,0 +1,13 @@
+{
+  "id": "unicajabanco-es",
+  "title": "Unicaja Banco",
+  "subtitle": "Discover Unicaja Banco's Online Banking for individuals. Enjoy all the benefits and support it offers you.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605266456/icons/unicajabanco-es.jpg",
+  "website": "https://www.unicajabanco.es"
+}

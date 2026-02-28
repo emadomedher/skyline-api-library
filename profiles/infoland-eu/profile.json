@@ -1,0 +1,14 @@
+{
+  "id": "infoland-eu",
+  "title": "Infoland",
+  "subtitle": "Infoland start with identifying actions and we end with capturing them. We do this with the help of our professionals...",
+  "tags": [
+    "quality-management-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620675169/icons/infoland-eu.jpg",
+  "website": "https://www.infoland.eu/",
+  "docsUrl": "https://www.infoland.nl/zenya-api/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mydays",
+  "title": "mydays",
+  "subtitle": "TOP Erlebnisgeschenke: Über 12.500 Geschenkideen | Jetzt kaufen - Geschenk jederzeit einfach selbst ausdrucken!",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557151301/catalog/mydays/icon128x128.jpg",
+  "website": "https://mydays.de"
+}

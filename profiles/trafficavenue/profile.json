@@ -1,0 +1,13 @@
+{
+  "id": "trafficavenue",
+  "title": "TrafficAvenue",
+  "subtitle": "TrafficAvenue API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438039/catalog/trafficavenue/icon128x128.png",
+  "website": "https://TrafficAvenue.net"
+}

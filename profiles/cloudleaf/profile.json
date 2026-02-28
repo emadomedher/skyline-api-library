@@ -1,0 +1,13 @@
+{
+  "id": "cloudleaf",
+  "title": "Cloudleaf",
+  "subtitle": "Cloudleaf API integration",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629140715/icons/cloudleaf.jpg",
+  "website": "https://www.cloudleaf.com/"
+}

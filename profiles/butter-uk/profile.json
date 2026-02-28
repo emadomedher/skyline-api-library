@@ -1,0 +1,14 @@
+{
+  "id": "butter-uk",
+  "title": "Butter.co.uk",
+  "subtitle": "Download the Butter™ app now! Shop all your favourite online stores & spread the cost from 0% APR | Travel | Fashion ...",
+  "tags": [
+    "buy-now-pay-later",
+    "embedded-bnpl"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617202634/icons/butter-uk.png",
+  "website": "https://butter.co.uk/"
+}

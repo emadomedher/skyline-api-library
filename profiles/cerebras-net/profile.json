@@ -1,0 +1,14 @@
+{
+  "id": "cerebras-net",
+  "title": "Cerebras Systems",
+  "subtitle": "Cerebras Systems API integration",
+  "tags": [
+    "processors",
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641096120/icons/cerebras-net.jpg",
+  "website": "https://cerebras.net/"
+}

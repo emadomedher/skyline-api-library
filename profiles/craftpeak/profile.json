@@ -1,0 +1,13 @@
+{
+  "id": "craftpeak",
+  "title": "Craftpeak",
+  "subtitle": "Craftpeak helps the best breweries excel with powerful e-commerce capabilities, stunning websites, and ongoing suppor...",
+  "tags": [
+    "craft-brewery-ecommerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614627361/icons/craftpeak.jpg",
+  "website": "https://craftpeak.com/"
+}

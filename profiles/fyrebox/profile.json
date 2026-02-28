@@ -1,0 +1,13 @@
+{
+  "id": "fyrebox",
+  "title": "Fyrebox",
+  "subtitle": "Fyrebox makes it easy to create customised interactive quizzes to collect leads for your business.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305000/catalog/fyrebox/icon128x128.png",
+  "website": "https://fyrebox.com"
+}

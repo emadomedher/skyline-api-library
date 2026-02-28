@@ -1,0 +1,15 @@
+{
+  "id": "conversionomics",
+  "title": "Conversionomics",
+  "subtitle": "Conversionomics provides marketing analysts with a fast way to integrate multiple data sources & build unified datase...",
+  "tags": [
+    "data-integration",
+    "advertising"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609010925/icons/conversionomics.png",
+  "website": "https://conversionomics.com/",
+  "docsUrl": "https://docs.google.com/document/d/1ulw3tw6ocmmg7r-mgxirwbfuhvdon8i7md4oieterb0/edit#bookmark=id.3j2qqm3"
+}

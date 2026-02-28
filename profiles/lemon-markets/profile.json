@@ -1,0 +1,14 @@
+{
+  "id": "lemon-markets",
+  "title": "lemon.markets",
+  "subtitle": "Stock market trading via one simple API. Including Historic & Real-Time market data for over 6500 Stocks & ETFs. Buil...",
+  "tags": [
+    "stock-trading-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649154599/icons/lemon-markets.jpg",
+  "website": "https://www.lemon.markets/",
+  "docsUrl": "https://docs.lemon.markets"
+}

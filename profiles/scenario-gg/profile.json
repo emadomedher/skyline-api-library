@@ -1,0 +1,14 @@
+{
+  "id": "scenario-gg",
+  "title": "Scenario",
+  "subtitle": "Unlock the power of AI-generated gaming assets with Scenario. Generate engaging content quickly and easily to save ti...",
+  "tags": [
+    "game-development"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677431117/icons/scenario-gg.jpg",
+  "website": "https://www.scenario.gg/",
+  "docsUrl": "https://www.notion.so/vimalanvijay/inflow-doc-beta-v1-0-4f1efa92bc14426cb4dc10d3134d2687"
+}

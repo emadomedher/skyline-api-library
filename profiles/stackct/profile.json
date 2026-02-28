@@ -1,0 +1,15 @@
+{
+  "id": "stackct",
+  "title": "STACK Construction Technologies",
+  "subtitle": "STACK Estimating from STACK Construction Technologies is a cloud-based on-screen takeoff and estimating tool for prof...",
+  "tags": [
+    "construction",
+    "preconstruction",
+    "estimation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575432068/catalog/stackct/icon128x128.jpg",
+  "website": "https://www.stackct.com/"
+}

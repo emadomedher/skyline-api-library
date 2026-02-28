@@ -1,0 +1,13 @@
+{
+  "id": "aidexa-it",
+  "title": "AideXa",
+  "subtitle": "Aidexa is a simple, AI-powered and data-driven challenger bank. It’s new brand combines “AI” and “Idea” into a fintec...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605123825/icons/aidexa-it.jpg",
+  "website": "https://www.aidexa.it/"
+}

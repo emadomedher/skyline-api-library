@@ -1,0 +1,14 @@
+{
+  "id": "cryptio-co",
+  "title": "Cryptio",
+  "subtitle": "Enterprise-grade accounting, audit and tax software for your digital assets. Transform DeFi, custody, wallet and exch...",
+  "tags": [
+    "accounting",
+    "crypto"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017234/icons/cryptio-co.jpg",
+  "website": "https://cryptio.co/"
+}

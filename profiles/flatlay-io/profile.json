@@ -1,0 +1,13 @@
+{
+  "id": "flatlay-io",
+  "title": "FLATLAY",
+  "subtitle": "\tThe visual storytelling platform bridging content, community & commerce. Turn every post into a digital storefront. ...",
+  "tags": [
+    "social-commerce"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738463/catalog/flatlay-io/icon128x128.jpg",
+  "website": "https://flatlay.io/"
+}

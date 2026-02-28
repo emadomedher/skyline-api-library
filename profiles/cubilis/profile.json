@@ -1,0 +1,14 @@
+{
+  "id": "cubilis",
+  "title": "Cubilis Software",
+  "subtitle": "Save time and administration with Cubilis Channel Manager. Offer your rooms to millions of users using the commission...",
+  "tags": [
+    "hotel",
+    "hospitality"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610136294/icons/cubilis.jpg",
+  "website": "https://www.cubilis.com/"
+}

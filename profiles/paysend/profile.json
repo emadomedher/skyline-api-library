@@ -1,0 +1,14 @@
+{
+  "id": "paysend",
+  "title": "Paysend",
+  "subtitle": "Send money from Belgium to the United Kingdom quickly &amp; securely to any Mastercard cards or bank accounts*. Payse...",
+  "tags": [
+    "fx-payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414462/icons/paysend.jpg",
+  "website": "https://paysend.com/",
+  "docsUrl": "https://cdn.paysend.com/web/docs/certificate_pci_dss_en.pdf"
+}

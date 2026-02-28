@@ -1,0 +1,13 @@
+{
+  "id": "speakap",
+  "title": "Speakap",
+  "subtitle": "Your centralized, internal communication hub to connect, train, and engage your dispersed workforce when it matters t...",
+  "tags": [
+    "employee-communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595339382/icons/speakap.jpg",
+  "website": "https://www.speakap.com/"
+}

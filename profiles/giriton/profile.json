@@ -1,0 +1,16 @@
+{
+  "id": "giriton",
+  "title": "Attendance GIRITON",
+  "subtitle": "Fast identification with chip, PIN, biometry. Employee attendance, Business trips, Requests (Vacation, ...), Shift Pl...",
+  "tags": [
+    "attendance",
+    "employee-attendance",
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569663356/catalog/giriton/icon128x128.png",
+  "website": "https://giriton.com",
+  "docsUrl": "https://giriton.com/en#section-references"
+}

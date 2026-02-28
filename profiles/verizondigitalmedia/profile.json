@@ -1,0 +1,14 @@
+{
+  "id": "verizondigitalmedia",
+  "title": "Verizon Digital Media Services",
+  "subtitle": "The Verizon Media Platform helps digital media companies improve the efficiency and simplicity of managing video stre...",
+  "tags": [
+    "content-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869857/icons/verizondigitalmedia.jpg",
+  "website": "https://www.verizondigitalmedia.com/",
+  "docsUrl": "https://info.verizondigitalmedia.com/l/147071/2021-01-06/b25fp7"
+}

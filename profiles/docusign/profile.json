@@ -1,0 +1,15 @@
+{
+  "id": "docusign",
+  "title": "DocuSign",
+  "subtitle": "Why settle for less? Get the security, mobility, reliability, and ease of use you need to digitally transform your bu...",
+  "tags": [
+    "signatures",
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623092124/icons/docusign.png",
+  "website": "https://www.docusign.com/",
+  "docsUrl": "https://developers.docusign.com"
+}

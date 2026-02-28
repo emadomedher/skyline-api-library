@@ -1,0 +1,16 @@
+{
+  "id": "proactive-software",
+  "title": "ProActive",
+  "subtitle": "Factuurverwerking, inkoop, contract management, een administratie voor kleinschalige uitgaven, onkostendeclaraties en...",
+  "tags": [
+    "accounting",
+    "invoicing",
+    "expenses",
+    "fintech"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565344996/catalog/proactive-software/icon128x128.png",
+  "website": "https://proactive-software.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pact-io",
+  "title": "Pact Foundation",
+  "subtitle": "Fast, easy and reliable testing for integrating web apps, APIs and microservices",
+  "tags": [
+    "integration-testing",
+    "testing",
+    "open-source"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607660000/icons/pact-io.png",
+  "website": "https://pact.io/",
+  "docsUrl": "https://docs.pact.io"
+}

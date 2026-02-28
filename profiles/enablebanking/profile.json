@@ -1,0 +1,15 @@
+{
+  "id": "enablebanking",
+  "title": "Enable Banking",
+  "subtitle": "enable:Banking SDK makes it easy to use Open Banking APIs provided by European banks under PSD2 regulation. The aggre...",
+  "tags": [
+    "banking-api-aggregators",
+    "open-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588615819/catalog/enablebanking/icon128x128.png",
+  "website": "https://enablebanking.com/",
+  "docsUrl": "https://enablebanking.com/docs/sdk"
+}

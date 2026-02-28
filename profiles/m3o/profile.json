@@ -1,0 +1,15 @@
+{
+  "id": "m3o",
+  "title": "M3O",
+  "subtitle": "M3O is an AWS alternative for the Next generation of developers. Consume public APIs as simpler programmable building...",
+  "tags": [
+    "cloud-service-providers",
+    "api-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625134789/icons/m3o.jpg",
+  "website": "https://m3o.com/",
+  "docsUrl": "https://m3o.com/evchargers/api#referencedata"
+}

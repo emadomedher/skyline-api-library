@@ -1,0 +1,14 @@
+{
+  "id": "getzingdata",
+  "title": "Zing Data",
+  "subtitle": "Zing Data makes hard questions easy by putting data at your fingertips. With visual mobile-first access to data, anyb...",
+  "tags": [
+    "data-visualization"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637251124/icons/getzingdata.jpg",
+  "website": "https://www.getzingdata.com/",
+  "docsUrl": "https://docs.getzingdata.com/docs"
+}

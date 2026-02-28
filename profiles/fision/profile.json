@@ -1,0 +1,14 @@
+{
+  "id": "fision",
+  "title": "Fision",
+  "subtitle": "Home",
+  "tags": [
+    "channel-learning-and-readiness",
+    "sales-automation-enablement-and-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434628/catalog/fision/icon128x128.png",
+  "website": "https://fisiononline.com"
+}

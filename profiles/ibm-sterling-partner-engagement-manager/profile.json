@@ -1,0 +1,14 @@
+{
+  "id": "ibm-sterling-partner-engagement-manager",
+  "title": "IBM Sterling Partner Engagement Manager",
+  "subtitle": "IBM Sterling Partner Engagement Manager enables efficient, automated trading partner onboarding, shortening processin...",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594230627/icons/ibm-sterling-partner-engagement-manager.png",
+  "website": "https://www.ibm.com/products/partner-engagement-manager",
+  "docsUrl": "https://developer.ibm.com/tutorials/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/"
+}

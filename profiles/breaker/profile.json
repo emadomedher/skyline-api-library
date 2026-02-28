@@ -1,0 +1,13 @@
+{
+  "id": "breaker",
+  "title": "Breaker",
+  "subtitle": "Break free with more content that can’t be found anywhere else. Everything from films and music to podcasts and art.",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719241/catalog/breaker/icon128x128.png",
+  "website": "https://breaker.io"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "stockly-ai",
+  "title": "Stockly",
+  "subtitle": "Outsmarting Out-of-stocks Together We connect e-commerce websites with a global inventory so that they never run out-...",
+  "tags": [
+    "ecommerce",
+    "stock-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617283004/icons/stockly-ai.png",
+  "website": "https://stockly.ai/",
+  "docsUrl": "https://api-packaging--prod.stockly.tech"
+}

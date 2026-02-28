@@ -1,0 +1,15 @@
+{
+  "id": "woocommerce",
+  "title": "WooCommerce",
+  "subtitle": "WooCommerce is a WordPress eCommerce plugin that transforms your WordPress website into a fully featured eCommerce st...",
+  "tags": [
+    "wordpress",
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456157/catalog/woocommerce/icon128x128.png",
+  "website": "https://woocommerce.com/",
+  "docsUrl": "https://woocommerce.com/document/woocommerce-rest-api/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ourcityapps",
+  "title": "ONZE STAD APP",
+  "subtitle": "The platform for mobile communication in your city! A platform maintained by the local government, merchants, associa...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567089253/catalog/ourcityapps/icon128x128.jpg",
+  "website": "https://ourcityapps.com"
+}

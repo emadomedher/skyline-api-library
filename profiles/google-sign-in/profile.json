@@ -1,0 +1,14 @@
+{
+  "id": "google-sign-in",
+  "title": "Google Sign-In",
+  "subtitle": "Get users into your apps quickly and securely, using a registration system they already use and trust -- their Google...",
+  "tags": [
+    "identity",
+    "sso"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669491/icons/google-sign-in.png",
+  "website": "https://developers.google.com/identity/sign-in/web"
+}

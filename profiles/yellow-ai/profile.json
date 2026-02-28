@@ -1,0 +1,13 @@
+{
+  "id": "yellow-ai",
+  "title": "yellow.ai",
+  "subtitle": "yellow.ai is a leading CX Automation Platform helping businesses to build chatbots and voicebots to automate support,...",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628203177/icons/yellow-ai.jpg",
+  "website": "https://yellow.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "perfectviewcrm-nl",
+  "title": "PerfectViewcrm.nl",
+  "subtitle": "PerfectView CRM Online is hét Nederlandse Online CRM Systeem. Start direct 14 dagen gratis. Ruim 17.000 tevreden gebr...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509301/catalog/perfectviewcrm-nl/icon128x128.png",
+  "website": "https://www.perfectviewcrm.nl/"
+}

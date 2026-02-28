@@ -1,0 +1,13 @@
+{
+  "id": "newswhip",
+  "title": "NewsWhip",
+  "subtitle": "Understand what social media content resonates with audiences. Centralize your social media monitoring and analytics ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721252/catalog/newswhip/icon128x128.jpg",
+  "website": "https://newswhip.com"
+}

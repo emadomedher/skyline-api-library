@@ -1,0 +1,14 @@
+{
+  "id": "turbot",
+  "title": "Turbot",
+  "subtitle": "Turbot's guardrails deliver automated operational, cloud security and cloud compliance controls of AWS deployments an...",
+  "tags": [
+    "cloud-governance",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582611999/catalog/turbot/icon128x128.jpg",
+  "website": "https://turbot.com/"
+}

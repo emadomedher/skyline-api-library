@@ -1,0 +1,15 @@
+{
+  "id": "growthbook-io",
+  "title": "Growth Book",
+  "subtitle": "GrowthBook is an open source experimentation platform that gives any company the power of a customized A/B testing so...",
+  "tags": [
+    "a/b-testing",
+    "open-source"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635691257/icons/growthbook-io.png",
+  "website": "https://www.growthbook.io/",
+  "docsUrl": "https://docs.growthbook.io"
+}

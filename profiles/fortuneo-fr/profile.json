@@ -1,0 +1,13 @@
+{
+  "id": "fortuneo-fr",
+  "title": "Fortuneo",
+  "subtitle": "Fortuneo Banque is a French online bank founded in 2000, trademark of Arkéa Direct Bank, a subsidiary of the Arkéa gr...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592569012/icons/fortuneo-fr.jpg",
+  "website": "https://www.fortuneo.fr/"
+}

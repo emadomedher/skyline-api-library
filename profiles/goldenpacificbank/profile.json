@@ -1,0 +1,13 @@
+{
+  "id": "goldenpacificbank",
+  "title": "Golden Pacific Bank",
+  "subtitle": "Golden Pacific Bancorp, Inc. is a bank holding company with consolidated assets of approximately $150 million.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615388550/icons/goldenpacificbank.png",
+  "website": "https://www.goldenpacificbank.com/"
+}

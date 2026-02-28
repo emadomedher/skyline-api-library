@@ -1,0 +1,12 @@
+{
+  "id": "tookan",
+  "title": "Tookan",
+  "subtitle": "Schedule, dispatch and track your fleet with an intuitive & powerful on-demand delivery management platform.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306356/catalog/tookan/icon128x128.png"
+}

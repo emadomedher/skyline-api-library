@@ -1,0 +1,13 @@
+{
+  "id": "sway-group",
+  "title": "Sway Group",
+  "subtitle": "Sway Group API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946508/catalog/sway-group/icon128x128.jpg",
+  "website": "https://swaygroupllc.com"
+}

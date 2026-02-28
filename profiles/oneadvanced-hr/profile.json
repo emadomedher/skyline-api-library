@@ -1,0 +1,14 @@
+{
+  "id": "oneadvanced-hr",
+  "title": "Advanced HR",
+  "subtitle": "Our easy to use HR software ensures HR teams have access to reliable people data, automated processes and simple self...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1677864048/icons/oneadvanced-hr.jpg",
+  "website": "https://www.oneadvanced.com/products/advanced-hr/",
+  "docsUrl": "https://www.oneadvanced.com/products/netdocuments"
+}

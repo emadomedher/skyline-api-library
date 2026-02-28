@@ -1,0 +1,13 @@
+{
+  "id": "landr",
+  "title": "LANDR Audio",
+  "subtitle": "LANDR is online music software for creators: music mastering, digital music distribution, rent-to-own plugins, free s...",
+  "tags": [
+    "music-production"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584054454/catalog/landr/icon128x128.jpg",
+  "website": "https://www.landr.com/"
+}

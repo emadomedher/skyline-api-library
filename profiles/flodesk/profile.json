@@ -1,0 +1,13 @@
+{
+  "id": "flodesk",
+  "title": "Flodesk",
+  "subtitle": "Beginners and experts use Flodesk to create stunning campaigns that grow their business. Meet the most intuitive way ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639854709/icons/flodesk.png",
+  "website": "https://flodesk.com/"
+}

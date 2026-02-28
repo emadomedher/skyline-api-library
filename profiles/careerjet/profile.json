@@ -1,0 +1,13 @@
+{
+  "id": "careerjet",
+  "title": "Careerjet",
+  "subtitle": "Careerjet.com - jobs search engine for the US. Search jobs from more than ten thousands of web sites",
+  "tags": [
+    "job-boards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636231812/icons/careerjet.png",
+  "website": "https://www.careerjet.com/"
+}

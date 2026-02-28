@@ -1,0 +1,13 @@
+{
+  "id": "scribe",
+  "title": "Scribe",
+  "subtitle": "Scribe, data integration software platforms offering cloud-based integration and on-premise tools and solutions.",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827517/catalog/scribe/icon128x128.jpg",
+  "website": "https://scribesoft.com"
+}

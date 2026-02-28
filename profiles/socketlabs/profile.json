@@ -1,0 +1,13 @@
+{
+  "id": "socketlabs",
+  "title": "SocketLabs",
+  "subtitle": "SocketLabs offers trusted, easy-to-use email delivery solutions, in-depth analytics, and easy integration! Get starte...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722226/catalog/socketlabs/icon128x128.jpg",
+  "website": "https://socketlabs.com"
+}

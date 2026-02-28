@@ -1,0 +1,13 @@
+{
+  "id": "marketplace",
+  "title": "Amazon",
+  "subtitle": "Amazon API integration",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680207399/icons/marketplace.jpg",
+  "website": "https://www.amazon.com/Marketplace"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "natterbox",
+  "title": "Natterbox",
+  "subtitle": "Natterbox API integration",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574179162/catalog/natterbox/icon128x128.jpg",
+  "website": "https://www.natterbox.com/"
+}

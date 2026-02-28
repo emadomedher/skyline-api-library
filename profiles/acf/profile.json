@@ -1,0 +1,14 @@
+{
+  "id": "acf",
+  "title": "ACF",
+  "subtitle": "Customise WordPress with powerful, professional and intuitive fields",
+  "tags": [
+    "wordpress"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560465301/catalog/acf/icon128x128.png",
+  "website": "https://advancedcustomfields.com",
+  "docsUrl": "https://www.advancedcustomfields.com/resources"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "fermyon",
+  "title": "Fermyon",
+  "subtitle": "Fermyon API integration",
+  "tags": [
+    "cloud-computing"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421403/icons/fermyon.jpg",
+  "website": "https://www.fermyon.com/",
+  "docsUrl": "https://www.digitalocean.com/try/developer-brand-r"
+}

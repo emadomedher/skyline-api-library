@@ -1,0 +1,13 @@
+{
+  "id": "cfsb",
+  "title": "Community Federal Savings Bank",
+  "subtitle": "Based in New York, CFSB offers a range of online banking services with no fee ATM, nationwide and easy to reach custo...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596753115/icons/cfsb.png",
+  "website": "https://www.cfsb.com/"
+}

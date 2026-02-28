@@ -1,0 +1,13 @@
+{
+  "id": "pennylane-tech",
+  "title": "Pennylane",
+  "subtitle": "Pennylane API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610129705/icons/pennylane-tech.jpg",
+  "website": "https://www.pennylane.tech/"
+}

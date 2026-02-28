@@ -1,0 +1,13 @@
+{
+  "id": "leadsquared",
+  "title": "LeadSquared",
+  "subtitle": "LeadSquared is a marketing automation and CRM solution that helps small to medium-sized businesses drive revenue by a...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305290/catalog/leadsquared/icon128x128.png",
+  "website": "https://leadsquared.com"
+}

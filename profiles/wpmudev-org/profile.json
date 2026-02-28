@@ -1,0 +1,14 @@
+{
+  "id": "wpmudev-org",
+  "title": "WPMU DEV",
+  "subtitle": "Everything you need for WordPress! Super-powered Hosting, 24/7 Live Support, Site Management tools, and Premium Plugins.",
+  "tags": [
+    "wordpress-hosting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572476101/catalog/wpmudev-org/icon128x128.png",
+  "website": "https://www.wpmudev.org/",
+  "docsUrl": "https://premium.wpmudev.org/docs"
+}

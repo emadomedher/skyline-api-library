@@ -1,0 +1,13 @@
+{
+  "id": "odysseeservice",
+  "title": "Odyssee Service",
+  "subtitle": "Odyssee Service is the field service management software to automate all your service activities in one solution. Try...",
+  "tags": [
+    "field-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576889944/catalog/odysseeservice/icon128x128.jpg",
+  "website": "https://odysseeservice.com/"
+}

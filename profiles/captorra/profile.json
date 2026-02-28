@@ -1,0 +1,14 @@
+{
+  "id": "captorra",
+  "title": "Captorra",
+  "subtitle": "Captorra API integration",
+  "tags": [
+    "case-intake",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593792191/icons/captorra.jpg",
+  "website": "https://www.captorra.com/"
+}

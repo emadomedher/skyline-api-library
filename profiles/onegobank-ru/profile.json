@@ -1,0 +1,13 @@
+{
+  "id": "onegobank-ru",
+  "title": "Onego Bank",
+  "subtitle": "PJSC Petrozavodsk Municipal Commercial Bank Onego is a small financial institution from Petrozavodsk (Republic of Kar...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605136336/icons/onegobank-ru.jpg",
+  "website": "https://www.onegobank.ru/"
+}

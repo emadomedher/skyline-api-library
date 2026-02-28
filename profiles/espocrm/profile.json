@@ -1,0 +1,13 @@
+{
+  "id": "espocrm",
+  "title": "EspoCRM",
+  "subtitle": "EspoCRM is an Open Source CRM (Customer Relationship Management) software that allows you to see, enter and evaluate ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178320/catalog/espocrm/icon128x128.png",
+  "website": "https://espocrm.com"
+}

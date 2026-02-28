@@ -1,0 +1,14 @@
+{
+  "id": "clever",
+  "title": "Clever",
+  "subtitle": "Clever brings all K12 applications into one secure portal and provide single sign-on for everyone in the district.",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579037026/catalog/clever/icon128x128.jpg",
+  "website": "https://clever.com",
+  "docsUrl": "https://dev.clever.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "akamai-mpulse",
+  "title": "Akamai mPulse",
+  "subtitle": "Corrigez les problèmes de performances et améliorez l'expérience des utilisateurs grâce à la surveillance des perform...",
+  "tags": [
+    "real-user-monitoring",
+    "website-performance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573855361/catalog/akamai-mpulse/icon128x128.jpg",
+  "website": "https://www.akamai.com/us/en/products/performance/mpulse-real-user-monitoring.jsp",
+  "docsUrl": "https://learn.akamai.com"
+}

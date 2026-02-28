@@ -1,0 +1,14 @@
+{
+  "id": "eztexting",
+  "title": "EZ Texting",
+  "subtitle": "Want to send a mass text, enable text-to-landline, or launch an SMS marketing campaign? EZ Texting has you covered. S...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178321/catalog/eztexting/icon128x128.png",
+  "website": "https://www.eztexting.com/",
+  "docsUrl": "https://www.eztexting.com/developers"
+}

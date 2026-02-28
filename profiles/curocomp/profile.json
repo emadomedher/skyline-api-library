@@ -1,0 +1,13 @@
+{
+  "id": "curocomp",
+  "title": "Curo",
+  "subtitle": "CURO is a compensation specialist. Our software enables organizations to drive business performance while ensuring pa...",
+  "tags": [
+    "employee-compensation-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302484/icons/curocomp.jpg",
+  "website": "https://curocomp.com/"
+}

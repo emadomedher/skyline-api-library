@@ -1,0 +1,13 @@
+{
+  "id": "continualiq",
+  "title": "CONTINUAL IQ",
+  "subtitle": "CONTINUAL IQ API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327377/icons/continualiq.jpg",
+  "website": "https://continualiq.com"
+}

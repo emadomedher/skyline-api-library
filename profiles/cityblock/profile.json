@@ -1,0 +1,14 @@
+{
+  "id": "cityblock",
+  "title": "Cityblock Health",
+  "subtitle": "We're a group of people bringing better care, rooted in our own communities, so we can all live healthier lives.",
+  "tags": [
+    "healthcare",
+    "insurtech"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607953949/icons/cityblock.jpg",
+  "website": "https://www.cityblock.com/"
+}

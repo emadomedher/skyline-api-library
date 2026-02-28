@@ -1,0 +1,14 @@
+{
+  "id": "media-io",
+  "title": "Media.io",
+  "subtitle": "Use Media.io free online tools to edit, convert, or compress video/audio/image files in 3 easy steps. Its video edito...",
+  "tags": [
+    "video-editing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674596377/icons/media-io.jpg",
+  "website": "https://www.media.io/",
+  "docsUrl": "https://developer.media.io/api-introduction.html"
+}

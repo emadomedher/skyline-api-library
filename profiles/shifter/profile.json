@@ -1,0 +1,12 @@
+{
+  "id": "shifter",
+  "title": "Shifter",
+  "subtitle": "Integreer de personeelsplanning en tijdsregistratie van shifter met de personeels- en salarisadministratie van Nmbrs®...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256974/catalog/shifter/icon128x128.png"
+}

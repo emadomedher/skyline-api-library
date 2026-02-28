@@ -1,0 +1,13 @@
+{
+  "id": "peopleinc-nl",
+  "title": "People",
+  "subtitle": "Betere personeelsprocessen met een compleet HRM-systeem, tijdregistratie, het uitbesteden van de salarisadministratie...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568741/icons/peopleinc-nl.png",
+  "website": "https://www.peopleinc.nl/"
+}

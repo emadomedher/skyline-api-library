@@ -1,0 +1,13 @@
+{
+  "id": "azure-app-service",
+  "title": "Azure App Service",
+  "subtitle": "Azure Web Apps enables you to build and host web applications in the programming language of your choice without mana...",
+  "tags": [
+    "hosting"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573783072/catalog/azure-app-service/icon128x128.jpg",
+  "website": "https://azure.microsoft.com/en-us/services/app-service/"
+}

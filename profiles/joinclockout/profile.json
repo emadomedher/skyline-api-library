@@ -1,0 +1,13 @@
+{
+  "id": "joinclockout",
+  "title": "Clockout",
+  "subtitle": "Pay your employees everyday with Clockout. We are a Restaurant Technology company looking to disrupt the bi-weekly pa...",
+  "tags": [
+    "employee-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658250620/icons/joinclockout.png",
+  "website": "https://www.joinclockout.com/"
+}

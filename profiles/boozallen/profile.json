@@ -1,0 +1,14 @@
+{
+  "id": "boozallen",
+  "title": "Booz Allen Hamilton",
+  "subtitle": "Booz Allen Hamilton has been at the forefront of strategy, technology, and engineering for more than 100 years. Booz ...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594249021/icons/boozallen.png",
+  "website": "https://boozallen.com",
+  "docsUrl": "https://www.boozallen.com/tools/forms/preference-center.html"
+}

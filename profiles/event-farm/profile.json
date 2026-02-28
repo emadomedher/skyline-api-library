@@ -1,0 +1,13 @@
+{
+  "id": "event-farm",
+  "title": "Event Farm",
+  "subtitle": "Event Farm is an enterprise event marketing platform: invitation & digital activation designed to promote and engage ...",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304871/catalog/event-farm/icon128x128.png",
+  "website": "https://eventfarm.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sensible-so",
+  "title": "Sensible",
+  "subtitle": "Fast & flexible data extraction from documents. Onboard documents in minutes with a single sample. Extract data in se...",
+  "tags": [
+    "document-extraction"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152917/icons/sensible-so.jpg",
+  "website": "https://www.sensible.so/",
+  "docsUrl": "https://docs.sensible.so/docs"
+}

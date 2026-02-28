@@ -1,0 +1,14 @@
+{
+  "id": "mailtrap-io",
+  "title": "Mailtrap",
+  "subtitle": "Mailtrap is a fake SMTP server for development teams to test, view and share emails sent from the development and sta...",
+  "tags": [
+    "email",
+    "testing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441093/catalog/mailtrap-io/icon128x128.png",
+  "website": "https://mailtrap.io/"
+}

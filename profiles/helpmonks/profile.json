@@ -1,0 +1,13 @@
+{
+  "id": "helpmonks",
+  "title": "Helpmonks",
+  "subtitle": "Blog posts about Helpmonks - the collaborate shared inbox platform - and Razuna - the open source digital asset manag...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720341/catalog/helpmonks/icon128x128.png",
+  "website": "https://helpmonks.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "lattice",
+  "title": "Lattice",
+  "subtitle": "Lattice is the people management platform that empowers people leaders to build engaged, high-performing teams, inspi...",
+  "tags": [
+    "performance-management",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571567205/catalog/lattice/icon128x128.png",
+  "website": "https://lattice.com",
+  "docsUrl": "https://developers.lattice.com/reference/introduction"
+}

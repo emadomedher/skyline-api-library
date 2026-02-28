@@ -1,0 +1,14 @@
+{
+  "id": "beamer",
+  "title": "Beamer",
+  "subtitle": "Announce new features, latest updates, important news and more with an out of the box notification center and changel...",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304477/catalog/beamer/icon128x128.png",
+  "website": "https://www.getbeamer.com",
+  "docsUrl": "https://www.getbeamer.com/api"
+}

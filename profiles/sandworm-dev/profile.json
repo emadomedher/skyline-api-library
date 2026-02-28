@@ -1,0 +1,15 @@
+{
+  "id": "sandworm-dev",
+  "title": "Sandworm",
+  "subtitle": "Open source tools for securing JavaScript  Audit for vulnerabilities and license issues, and enforce compliance. Gu...",
+  "tags": [
+    "vulnerability-scanner",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1680207382/icons/sandworm-dev.jpg",
+  "website": "https://sandworm.dev/",
+  "docsUrl": "https://docs.sandworm.dev"
+}

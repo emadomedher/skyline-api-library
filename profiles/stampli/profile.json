@@ -1,0 +1,14 @@
+{
+  "id": "stampli",
+  "title": "Stampli",
+  "subtitle": "Stampli’s accounts payable software and AP automation platform provides complete control of your invoice management a...",
+  "tags": [
+    "accounting",
+    "invoicing"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572473885/catalog/stampli/icon128x128.jpg",
+  "website": "https://www.stampli.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "maif-fr",
+  "title": "MAIF",
+  "subtitle": "Découvrez nos offres d'assurance auto, moto, habitation, santé, prévoyance et épargne. Simulation de prix et devis gr...",
+  "tags": [
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261128/icons/maif-fr.jpg",
+  "website": "https://www.maif.fr/"
+}

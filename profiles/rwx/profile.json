@@ -1,0 +1,14 @@
+{
+  "id": "rwx",
+  "title": "rwx",
+  "subtitle": "rwx researches and develops highly productive software architecture for building large scale business applications.",
+  "tags": [
+    "engineering-productivity"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1665485108/icons/rwx.jpg",
+  "website": "https://www.rwx.com/",
+  "docsUrl": "https://www.rwx.com/docs"
+}

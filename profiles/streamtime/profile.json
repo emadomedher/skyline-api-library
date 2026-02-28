@@ -1,0 +1,15 @@
+{
+  "id": "streamtime",
+  "title": "Streamtime",
+  "subtitle": "Intuitive project management, time tracking with auto-populated to-do lists, deep analytics, team scheduling and much...",
+  "tags": [
+    "time-tracking",
+    "scheduling",
+    "project-management"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306201/catalog/streamtime/icon128x128.png",
+  "website": "https://streamtime.net/"
+}

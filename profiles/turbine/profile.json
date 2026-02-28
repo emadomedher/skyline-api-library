@@ -1,0 +1,12 @@
+{
+  "id": "turbine",
+  "title": "Turbine",
+  "subtitle": "Turbine makes it easy to create, review and manage purchase orders online or on your smartphone. Get control of your ...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535539032/catalog/turbine/icon128x128.png"
+}

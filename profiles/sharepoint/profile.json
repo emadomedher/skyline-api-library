@@ -1,0 +1,14 @@
+{
+  "id": "sharepoint",
+  "title": "SharePoint",
+  "subtitle": "SharePoint is business collaboration software that helps simplify content management, search, business intelligence. ...",
+  "tags": [
+    "team-collaboration",
+    "microsoft"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753689/icons/sharepoint.png",
+  "website": "https://products.office.com"
+}

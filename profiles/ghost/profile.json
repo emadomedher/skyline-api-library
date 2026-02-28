@@ -1,0 +1,14 @@
+{
+  "id": "ghost",
+  "title": "Ghost",
+  "subtitle": "The world's most popular modern publishing platform for creating a new media platform. Used by Apple, SkyNews, Buffer...",
+  "tags": [
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305014/catalog/ghost/icon128x128.png",
+  "website": "https://ghost.org/",
+  "docsUrl": "https://ghost.org/docs"
+}

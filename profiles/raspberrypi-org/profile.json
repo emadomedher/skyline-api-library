@@ -1,0 +1,14 @@
+{
+  "id": "raspberrypi-org",
+  "title": "Raspberry Pi Foundation",
+  "subtitle": "Raspberry Pi Foundation API integration",
+  "tags": [
+    "iot"
+  ],
+  "category": "IoT",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075875/icons/raspberrypi-org.jpg",
+  "website": "https://www.raspberrypi.org/",
+  "docsUrl": "https://www.raspberrypi.org/documentation"
+}

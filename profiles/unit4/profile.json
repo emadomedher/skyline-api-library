@@ -1,0 +1,13 @@
+{
+  "id": "unit4",
+  "title": "Unit4",
+  "subtitle": "Unit4 Business Software creates, delivers and supports adaptable business software worldwide, delivered via the cloud...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256984/catalog/unit4/icon128x128.jpg",
+  "website": "https://www.unit4.com/"
+}

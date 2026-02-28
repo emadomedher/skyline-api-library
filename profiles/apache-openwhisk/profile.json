@@ -1,0 +1,15 @@
+{
+  "id": "apache-openwhisk",
+  "title": "Apache OpenWhisk",
+  "subtitle": "Apache OpenWhisk API integration",
+  "tags": [
+    "developer-tools",
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1558091058/catalog/apache-openwhisk/icon128x128.jpg",
+  "website": "https://apache.org",
+  "docsUrl": "https://openwhisk.apache.org/documentation.html"
+}

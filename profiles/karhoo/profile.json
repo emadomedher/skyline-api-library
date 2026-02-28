@@ -1,0 +1,14 @@
+{
+  "id": "karhoo",
+  "title": "Karhoo",
+  "subtitle": "We’ve developed the most comprehensive platform allowing travellers to hail and book taxi rides from their preferred ...",
+  "tags": [
+    "mobility"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614268984/icons/karhoo.jpg",
+  "website": "https://www.karhoo.com/",
+  "docsUrl": "https://developer.karhoo.com/docs/demand-introduction"
+}

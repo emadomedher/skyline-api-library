@@ -1,0 +1,13 @@
+{
+  "id": "tonikbank",
+  "title": "TONIK",
+  "subtitle": "TONIK is a customer obsessed fintech company",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589115392/catalog/tonikbank/icon128x128.jpg",
+  "website": "https://www.tonikbank.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "tigris-nl",
+  "title": "Tigris",
+  "subtitle": "De beste uitzendsoftware ontwikkeld op het meest krachtige CRM ter wereld: Salesforce. Één integrale oplossing voor j...",
+  "tags": [
+    "flex-workers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600449432/icons/tigris-nl.png",
+  "website": "https://www.tigris.nl/"
+}

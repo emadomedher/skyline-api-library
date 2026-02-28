@@ -1,0 +1,14 @@
+{
+  "id": "asset-vault",
+  "title": "AssetVault",
+  "subtitle": "AssetVault API integration",
+  "tags": [
+    "asset-management",
+    "physical-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570999823/catalog/asset-vault/icon128x128.jpg",
+  "website": "https://www.asset-vault.com/"
+}

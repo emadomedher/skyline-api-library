@@ -1,0 +1,13 @@
+{
+  "id": "erpisto-crm",
+  "title": "Erpisto CRM",
+  "subtitle": "Manage your entire Inventory with Erpisto's #1 ERP Software designed specially for saudi-arabia to cater all your CRM...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719948/catalog/erpisto-crm/icon128x128.png",
+  "website": "https://erpisto.com"
+}

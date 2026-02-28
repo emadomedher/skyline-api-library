@@ -1,0 +1,14 @@
+{
+  "id": "ecwid",
+  "title": "Ecwid",
+  "subtitle": "Ecwid Ecommerce Shopping Cart is Fast and Easy to Use! Set up your free online store for WordPress, Drupal, Facebook ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304835/catalog/ecwid/icon128x128.png",
+  "website": "https://www.ecwid.com/",
+  "docsUrl": "https://api-docs.ecwid.com/reference/overview"
+}

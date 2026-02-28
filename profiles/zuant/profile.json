@@ -1,0 +1,13 @@
+{
+  "id": "zuant",
+  "title": "Zuant",
+  "subtitle": "By bringing your lead capture forms and marketing media into a digital \nformat, Zuant gives your team everything they...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946300/catalog/zuant/icon128x128.jpg",
+  "website": "https://zuant.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mobidonia",
+  "title": "Mobidonia",
+  "subtitle": "CodeLess Solutions. A team of three developers and one designer whose goal is to provide you with solutions that requ...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721157/catalog/mobidonia/icon128x128.jpg",
+  "website": "https://mobidonia.com"
+}

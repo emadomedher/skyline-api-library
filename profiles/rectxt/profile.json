@@ -1,0 +1,13 @@
+{
+  "id": "rectxt",
+  "title": "Rectxt",
+  "subtitle": "Text with candidates directly from your favorite website or ATS | Transparent pricing & flexible monthly plans | Star...",
+  "tags": [
+    "text-recruiting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650414370/icons/rectxt.png",
+  "website": "https://www.rectxt.com/"
+}

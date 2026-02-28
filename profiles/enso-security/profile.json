@@ -1,0 +1,13 @@
+{
+  "id": "enso-security",
+  "title": "Enso Security",
+  "subtitle": "Application Security Management platform | With Enso security teams can gain complete visibility and coordinate the t...",
+  "tags": [
+    "application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015087/icons/enso-security.jpg",
+  "website": "https://enso.security/"
+}

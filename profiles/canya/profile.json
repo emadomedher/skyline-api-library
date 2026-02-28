@@ -1,0 +1,13 @@
+{
+  "id": "canya",
+  "title": "Canya",
+  "subtitle": "CanWork is a global platform used to hire affordable, quality freelancers from around the globe to do the work you ne...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947219/catalog/canya/icon128x128.jpg",
+  "website": "https://canya.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "cats",
+  "title": "CATS",
+  "subtitle": "CATS is the next generation of applicant tracking software. Automated recruiting in a fully customizable and easy-to-...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719371/catalog/cats/icon128x128.jpg",
+  "website": "https://catsone.com"
+}

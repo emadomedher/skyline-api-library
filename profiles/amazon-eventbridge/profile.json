@@ -1,0 +1,15 @@
+{
+  "id": "amazon-eventbridge",
+  "title": "Amazon EventBridge",
+  "subtitle": "Amazon EventBridge is a serverless event bus that ingests data from your own apps, SaaS apps and AWS services and rou...",
+  "tags": [
+    "event-bus",
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599873742/icons/amazon-eventbridge.jpg",
+  "website": "https://aws.amazon.com/eventbridge/",
+  "docsUrl": "https://docs.aws.amazon.com/eventbridge/index.html"
+}

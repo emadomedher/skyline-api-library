@@ -1,0 +1,13 @@
+{
+  "id": "sidecar",
+  "title": "Sidecar",
+  "subtitle": "Sidecar API integration",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437331/catalog/sidecar/icon128x128.png",
+  "website": "https://hello.getsidecar.com"
+}

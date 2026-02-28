@@ -1,0 +1,14 @@
+{
+  "id": "fixflo",
+  "title": "Fixflo",
+  "subtitle": "Fixflo is the UK's market-leading lettings, block and commercial repairs and maintenance management software, making ...",
+  "tags": [
+    "repairs-management",
+    "maintenance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594302479/icons/fixflo.jpg",
+  "website": "https://www.fixflo.com/"
+}

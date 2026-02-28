@@ -1,0 +1,13 @@
+{
+  "id": "strikebase",
+  "title": "Strikebase",
+  "subtitle": "Zala puts everything you need to get work done in one place. It's free to use and easy to get started. Signup for fre...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722369/catalog/strikebase/icon128x128.jpg",
+  "website": "https://strikebase.com"
+}

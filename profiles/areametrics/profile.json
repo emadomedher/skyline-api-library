@@ -1,0 +1,15 @@
+{
+  "id": "areametrics",
+  "title": "AreaMetrics",
+  "subtitle": "Personalizing the World Around You",
+  "tags": [
+    "geo-location-data",
+    "location-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597247287/icons/areametrics.png",
+  "website": "https://areametrics.com/",
+  "docsUrl": "https://areametrics.com/documentation"
+}

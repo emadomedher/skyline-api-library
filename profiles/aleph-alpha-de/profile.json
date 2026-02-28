@@ -1,0 +1,13 @@
+{
+  "id": "aleph-alpha-de",
+  "title": "Aleph Alpha",
+  "subtitle": "Aleph Alpha’s mission is to enable the accessibility, usability and integration of large, European multilanguage and ...",
+  "tags": [
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640842545/icons/aleph-alpha-de.jpg",
+  "website": "https://aleph-alpha.de/"
+}

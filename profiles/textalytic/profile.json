@@ -1,0 +1,14 @@
+{
+  "id": "textalytic",
+  "title": "Textalytic",
+  "subtitle": "Text analysis and natural language processing that handles pre-processing, analyzing, and visualization in an easy to...",
+  "tags": [
+    "nlp",
+    "text-analysis"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605533745/icons/textalytic.jpg",
+  "website": "https://www.textalytic.com/"
+}

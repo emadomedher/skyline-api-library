@@ -1,0 +1,14 @@
+{
+  "id": "berbix",
+  "title": "Berbix",
+  "subtitle": "Instant identity verification with Berbix combines a biometric scan of a user's face with data extracted from the hum...",
+  "tags": [
+    "identity-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655763650/icons/berbix.jpg",
+  "website": "https://www.berbix.com/",
+  "docsUrl": "https://docs.berbix.com/docs"
+}

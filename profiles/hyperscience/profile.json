@@ -1,0 +1,14 @@
+{
+  "id": "hyperscience",
+  "title": "Hyperscience",
+  "subtitle": "Discover the world's first Software-Defined, Input-to-Outcome Automation Platform used by the Global 2000s and govern...",
+  "tags": [
+    "document-processing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615512023/icons/hyperscience.jpg",
+  "website": "https://hyperscience.com/",
+  "docsUrl": "https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html"
+}

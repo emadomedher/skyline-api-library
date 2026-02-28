@@ -1,0 +1,14 @@
+{
+  "id": "appsignal",
+  "title": "AppSignal",
+  "subtitle": "AppSignal APM offers error tracking, performance monitoring, dashboards, host metrics, and alerts. Built or Ruby, Rub...",
+  "tags": [
+    "apm"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611872612/icons/appsignal.jpg",
+  "website": "https://appsignal.com/",
+  "docsUrl": "http://docs.appsignal.com"
+}

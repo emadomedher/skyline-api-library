@@ -1,0 +1,13 @@
+{
+  "id": "wazoku",
+  "title": "Wazoku",
+  "subtitle": "Where Innovation Works",
+  "tags": [
+    "innovation-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152901/icons/wazoku.png",
+  "website": "https://www.wazoku.com/"
+}

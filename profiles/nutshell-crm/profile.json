@@ -1,0 +1,13 @@
+{
+  "id": "nutshell-crm",
+  "title": "Nutshell CRM",
+  "subtitle": "Nutshell is an affordable, easy-to-use CRM that helps small-business sales teams win more deals.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305547/catalog/nutshell-crm/icon128x128.png",
+  "website": "https://www.nutshell.com/"
+}

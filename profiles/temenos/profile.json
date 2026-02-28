@@ -1,0 +1,15 @@
+{
+  "id": "temenos",
+  "title": "Temenos",
+  "subtitle": "Temenos provides software to financial institutions, of any size, anywhere in the world. Our clients are the most pro...",
+  "tags": [
+    "fintech",
+    "core-banking"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574828759/catalog/temenos/icon128x128.jpg",
+  "website": "https://www.temenos.com/",
+  "docsUrl": "https://www.temenos.com/community/temenos-developer-community"
+}

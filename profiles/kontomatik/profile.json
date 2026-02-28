@@ -1,0 +1,14 @@
+{
+  "id": "kontomatik",
+  "title": "Kontomatik",
+  "subtitle": "With aggregated financial data from Kontomatik, you can obtain raw banking data. With Kontomatik add-ons, you can ana...",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606506295/icons/kontomatik.png",
+  "website": "https://www.kontomatik.com/",
+  "docsUrl": "https://developer.kontomatik.com"
+}

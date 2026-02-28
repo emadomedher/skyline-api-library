@@ -1,0 +1,14 @@
+{
+  "id": "recruitcrm-io",
+  "title": "Recruit CRM",
+  "subtitle": "Recruit CRM is an Applicant Tracking System. Recruit CRM is used in over 60 countries and has powerful features like ...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650753699/icons/recruitcrm-io.jpg",
+  "website": "https://recruitcrm.io/",
+  "docsUrl": "https://docs.recruitcrm.io/docs/rcrm-api-reference"
+}

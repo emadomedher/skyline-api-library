@@ -1,0 +1,16 @@
+{
+  "id": "opsramp",
+  "title": "OpsRamp",
+  "subtitle": "OpsRamp's service-centric AIOps platform provides hybrid IT asset discovery, multi-cloud infrastructure monitoring an...",
+  "tags": [
+    "enterprise-it-management-suites",
+    "aiops",
+    "devops",
+    "it-operations-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593641945/icons/opsramp.jpg",
+  "website": "https://www.opsramp.com/"
+}

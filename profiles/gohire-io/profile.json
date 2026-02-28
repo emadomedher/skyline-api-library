@@ -1,0 +1,13 @@
+{
+  "id": "gohire-io",
+  "title": "GoHire",
+  "subtitle": "Powerful Applicant Tracking System and Recruiting Software loved by 2500+ companies across the world. We help you eas...",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215710/icons/gohire-io.png",
+  "website": "https://gohire.io/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "credit-mutuel",
+  "title": "Crédit Mutuel",
+  "subtitle": "Crédit Mutuel API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568569725/catalog/credit-mutuel/icon128x128.jpg",
+  "website": "https://www.creditmutuel.fr/",
+  "docsUrl": "https://www.creditmutuel.fr/oauth2/en/devportal/stetpsd2-spec.html"
+}

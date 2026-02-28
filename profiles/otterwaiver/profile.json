@@ -1,0 +1,14 @@
+{
+  "id": "otterwaiver",
+  "title": "Otter Waiver",
+  "subtitle": "Digital Waivers can be signed remotely and online from any device. Works offline & online. Speed up operations. Secur...",
+  "tags": [
+    "outdoor-sports",
+    "waiver"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634680414/icons/otterwaiver.jpg",
+  "website": "https://otterwaiver.com/"
+}

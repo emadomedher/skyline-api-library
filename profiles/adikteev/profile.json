@@ -1,0 +1,13 @@
+{
+  "id": "adikteev",
+  "title": "Adikteev",
+  "subtitle": "The App Retargeting Specialist",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432786/catalog/adikteev/icon128x128.png",
+  "website": "https://adikteev.com"
+}

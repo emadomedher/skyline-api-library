@@ -1,0 +1,14 @@
+{
+  "id": "wistia",
+  "title": "Wistia",
+  "subtitle": "Wistia provides simple software for creating, managing, and sharing videos for business. With a customizable player, ...",
+  "tags": [
+    "video-cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306504/catalog/wistia/icon128x128.png",
+  "website": "https://wistia.com/",
+  "docsUrl": "https://wistia.com/support/developers"
+}

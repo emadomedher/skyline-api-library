@@ -1,0 +1,14 @@
+{
+  "id": "merkely",
+  "title": "Merkely",
+  "subtitle": "Continuous Compliance for DevOps teams. The world runs on software. Deliver the most critical applications quickly an...",
+  "tags": [
+    "continuous-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636406236/icons/merkely.jpg",
+  "website": "https://www.merkely.com/",
+  "docsUrl": "https://www.merkely.com/#"
+}

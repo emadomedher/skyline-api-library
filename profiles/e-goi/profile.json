@@ -1,0 +1,14 @@
+{
+  "id": "e-goi",
+  "title": "e-goi",
+  "subtitle": "Email Marketing and Automation Software! Create and send newsletters. Free Templates. Send SMS & VOICE Messages, Push...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304825/catalog/e-goi/icon128x128.png",
+  "website": "https://www.e-goi.com/",
+  "docsUrl": "https://api-docs.e-goi.com"
+}

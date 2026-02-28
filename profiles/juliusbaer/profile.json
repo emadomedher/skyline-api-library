@@ -1,0 +1,13 @@
+{
+  "id": "juliusbaer",
+  "title": "Julius Baer",
+  "subtitle": "Julius Bär Group AG, known alternatively as Julius Baer Group Ltd., is a small to medium sized generalist private ban...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608034333/icons/juliusbaer.jpg",
+  "website": "https://www.juliusbaer.com/international/en/"
+}

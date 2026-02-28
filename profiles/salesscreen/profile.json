@@ -1,0 +1,13 @@
+{
+  "id": "salesscreen",
+  "title": "SalesScreen",
+  "subtitle": "SalesScreen helps teams to be more focused, motivated and productive with leaderboards, live competitions, milestones...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827487/catalog/salesscreen/icon128x128.jpg",
+  "website": "https://salesscreen.com"
+}

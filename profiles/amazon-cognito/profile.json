@@ -1,0 +1,15 @@
+{
+  "id": "amazon-cognito",
+  "title": "Amazon Cognito",
+  "subtitle": "Amazon Cognito API integration",
+  "tags": [
+    "identity",
+    "developer-tools"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602966195/icons/amazon-cognito.jpg",
+  "website": "https://aws.amazon.com/cognito/",
+  "docsUrl": "https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?nc2=h_ct&src=default"
+}

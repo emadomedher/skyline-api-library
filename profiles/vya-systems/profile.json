@@ -1,0 +1,13 @@
+{
+  "id": "vya-systems",
+  "title": "Vya Systems",
+  "subtitle": "Vya Systems API integration",
+  "tags": [
+    "channel-partner-&-local-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438379/catalog/vya-systems/icon128x128.png",
+  "website": "https://vyasystems.com"
+}

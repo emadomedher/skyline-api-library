@@ -1,0 +1,13 @@
+{
+  "id": "oxid-esales",
+  "title": "OXID eSales",
+  "subtitle": "Gehören Sie mit dem OXID Shopsystem zu den besten Onlineshops ✓ 15 Jahre Erfahrung im B2C & B2B E-Commerce ✓ ERP-Anbi...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565018107/catalog/oxid-esales/icon128x128.jpg",
+  "website": "https://oxid-esales.com"
+}

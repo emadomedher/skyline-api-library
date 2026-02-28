@@ -1,0 +1,14 @@
+{
+  "id": "elastic",
+  "title": "Elastic",
+  "subtitle": "We're the creators of the Elastic (ELK) Stack -- Elasticsearch, Kibana, Beats, and Logstash. Securely and reliably se...",
+  "tags": [
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963971/catalog/elastic/icon128x128.png",
+  "website": "https://elastic.co",
+  "docsUrl": "https://www.elastic.co/guide"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cj",
+  "title": "CJ Affiliate",
+  "subtitle": "Thrive with CJ Affiliate—the world's largest and most established affiliate marketing network designed to help you ac...",
+  "tags": [
+    "affiliate-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415415/catalog/cj/icon128x128.png",
+  "website": "https://www.cj.com/",
+  "docsUrl": "https://developers.cj.com"
+}

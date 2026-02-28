@@ -1,0 +1,13 @@
+{
+  "id": "cognizant",
+  "title": "Cognizant",
+  "subtitle": "Cognizant API integration",
+  "tags": [
+    "channel-partner-&-local-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433821/catalog/cognizant/icon128x128.png",
+  "website": "https://cognizant.com"
+}

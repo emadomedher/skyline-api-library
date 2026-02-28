@@ -1,0 +1,16 @@
+{
+  "id": "graphql-mesh",
+  "title": "GraphQL Mesh",
+  "subtitle": "GraphQL Mesh API integration",
+  "tags": [
+    "graphql",
+    "api",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598560901/icons/graphql-mesh.svg",
+  "website": "https://graphql-mesh.com/",
+  "docsUrl": "https://graphql-mesh.com/docs/getting-started/introduction"
+}

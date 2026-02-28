@@ -1,0 +1,14 @@
+{
+  "id": "numverify",
+  "title": "Numverify",
+  "subtitle": "Free, powerful JSON API offering international and national phone number validation and carrier, location and line ty...",
+  "tags": [
+    "verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562008545/catalog/numverify/icon128x128.png",
+  "website": "https://numverify.com/",
+  "docsUrl": "https://numverify.com/documentation"
+}

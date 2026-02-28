@@ -1,0 +1,14 @@
+{
+  "id": "salesmate",
+  "title": "Salesmate",
+  "subtitle": "Salesmate is an All-in-one Sales Management, Automation, and Acceleration Software for Teams of All Sizes & Shapes.",
+  "tags": [
+    "management-tools",
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305972/catalog/salesmate/icon128x128.png",
+  "website": "https://salesmate.io"
+}

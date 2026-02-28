@@ -1,0 +1,13 @@
+{
+  "id": "realync",
+  "title": "Realync",
+  "subtitle": "Multifamily's enterprise video leasing & engagement platform that instantly connects leasing professionals and prospe...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601496815/icons/realync.png",
+  "website": "https://www.realync.com/"
+}

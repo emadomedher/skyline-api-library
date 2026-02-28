@@ -1,0 +1,14 @@
+{
+  "id": "altruist",
+  "title": "Altruist",
+  "subtitle": "An all-in-one financial advisor platform that helps (human) advisors give clients a delightful experience with their ...",
+  "tags": [
+    "financial-advisor",
+    "investment-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1665485115/icons/altruist.jpg",
+  "website": "https://altruist.com/"
+}

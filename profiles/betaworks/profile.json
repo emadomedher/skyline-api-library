@@ -1,0 +1,14 @@
+{
+  "id": "betaworks",
+  "title": "Betaworks",
+  "subtitle": "Betaworks is a start-up studio based in New York that make essential products that thoughtfully combine art and science.",
+  "tags": [
+    "accelerators",
+    "venture-studios"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585655831/catalog/betaworks/icon128x128.png",
+  "website": "https://betaworks.com/"
+}

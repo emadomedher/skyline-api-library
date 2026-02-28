@@ -1,0 +1,13 @@
+{
+  "id": "ukit",
+  "title": "Ukit",
+  "subtitle": "How to create a website? The uKit website builder is an easy and effective way to create a functional business websit...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722616/catalog/ukit/icon128x128.jpg",
+  "website": "https://ukit.com"
+}

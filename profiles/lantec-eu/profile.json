@@ -1,0 +1,15 @@
+{
+  "id": "lantec-eu",
+  "title": "Lantec",
+  "subtitle": "Our Services        \nPremier Deployment And Support\nLantec is a premier IT deployment and support organisation, for P...",
+  "tags": [
+    "it-deployment",
+    "services",
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599521407/icons/lantec-eu.jpg",
+  "website": "https://www.lantec.eu.com/"
+}

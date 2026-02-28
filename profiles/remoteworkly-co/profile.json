@@ -1,0 +1,13 @@
+{
+  "id": "remoteworkly-co",
+  "title": "RemoteWorkly - Async Video Messaging",
+  "subtitle": "End unwanted meetings, stay productive and connected. Async video meetings with auto transcriptions. Create conversat...",
+  "tags": [
+    "async-video-meetings"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605136334/icons/remoteworkly-co.png",
+  "website": "https://www.remoteworkly.co/"
+}

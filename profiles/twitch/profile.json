@@ -1,0 +1,15 @@
+{
+  "id": "twitch",
+  "title": "Twitch",
+  "subtitle": "Twitch is the world’s leading live streaming platform for gamers and the things we love. Watch and chat now with mill...",
+  "tags": [
+    "video",
+    "gaming"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284645/catalog/twitch/icon128x128.png",
+  "website": "https://www.twitch.tv/",
+  "docsUrl": "https://dev.twitch.tv/"
+}

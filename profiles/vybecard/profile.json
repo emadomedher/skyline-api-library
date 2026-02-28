@@ -1,0 +1,13 @@
+{
+  "id": "vybecard",
+  "title": "Vybe",
+  "subtitle": "The startup Vybe, a neobank for young people, claims more than 900000 registered users on its site and 170000 pre-ord...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598870923/icons/vybecard.jpg",
+  "website": "https://vybecard.com/"
+}

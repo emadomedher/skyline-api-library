@@ -1,0 +1,13 @@
+{
+  "id": "citygro",
+  "title": "Citygro",
+  "subtitle": "CityGro offers customer retention marketing software that helps businesses bring customers back through a suite of cu...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719435/catalog/citygro/icon128x128.jpg",
+  "website": "https://citygro.com"
+}

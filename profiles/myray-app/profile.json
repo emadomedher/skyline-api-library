@@ -1,0 +1,15 @@
+{
+  "id": "myray-app",
+  "title": "Ray",
+  "subtitle": "Debug with Ray to fix problems faster",
+  "tags": [
+    "debugging",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610365782/icons/myray-app.jpg",
+  "website": "https://myray.app/",
+  "docsUrl": "https://spatie.be/docs/ray"
+}

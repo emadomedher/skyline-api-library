@@ -1,0 +1,14 @@
+{
+  "id": "smallcase",
+  "title": "smallcase",
+  "subtitle": "smallcases are portfolios of stocks or ETFs created by India's top financial experts. Trusted by 25 lakh+ investors.",
+  "tags": [
+    "stock-investing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471933/icons/smallcase.jpg",
+  "website": "https://www.smallcase.com/",
+  "docsUrl": "https://play.google.com/store/apps/developer?id=invest19+technologies"
+}

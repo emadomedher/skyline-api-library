@@ -1,0 +1,13 @@
+{
+  "id": "numnum-be",
+  "title": "Num•Num",
+  "subtitle": "Maak niet langer uw facturen in Word of Excel. Met Num•Num maak je snel en eenvoudig professionele facturen op.",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644513006/icons/numnum-be.png",
+  "website": "https://www.numnum.be/"
+}

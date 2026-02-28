@@ -1,0 +1,14 @@
+{
+  "id": "whaly-io",
+  "title": "Whaly",
+  "subtitle": "Whaly is an integrated business intelligence platform that covers multiple functions of your data stack. Our user-fri...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909503/icons/whaly-io.png",
+  "website": "https://whaly.io/",
+  "docsUrl": "https://docs.whaly.io"
+}

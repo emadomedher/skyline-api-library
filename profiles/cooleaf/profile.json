@@ -1,0 +1,13 @@
+{
+  "id": "cooleaf",
+  "title": "cooleaf",
+  "subtitle": "Cooleaf is a campaign-based performance incentive platform that helps leaders achieve better business results.",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719608/catalog/cooleaf/icon128x128.png",
+  "website": "https://cooleaf.com"
+}

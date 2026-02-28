@@ -1,0 +1,14 @@
+{
+  "id": "attach",
+  "title": "Attach",
+  "subtitle": "Attach is a sales engagement tool that lets you manage, track and control the sales collateral you share.",
+  "tags": [
+    "documents",
+    "crm"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304429/catalog/attach/icon128x128.png",
+  "website": "https://attach.io"
+}

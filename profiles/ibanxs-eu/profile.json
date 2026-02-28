@@ -1,0 +1,14 @@
+{
+  "id": "ibanxs-eu",
+  "title": "ibanXS",
+  "subtitle": "ibanXS API integration",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611608588/icons/ibanxs-eu.jpg",
+  "website": "https://ibanxs.eu/",
+  "docsUrl": "https://ibanxs.eu/get-started"
+}

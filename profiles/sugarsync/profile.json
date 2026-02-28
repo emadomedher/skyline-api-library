@@ -1,0 +1,14 @@
+{
+  "id": "sugarsync",
+  "title": "SugarSync",
+  "subtitle": "SugarSync is a cloud file sharing, file sync and online backup service that is simple, powerful and easy to use. Unli...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306216/catalog/sugarsync/icon128x128.png",
+  "website": "https://www1.sugarsync.com/",
+  "docsUrl": "https://www1.sugarsync.com/developer"
+}

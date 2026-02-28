@@ -1,0 +1,14 @@
+{
+  "id": "intelisys",
+  "title": "Intelisys",
+  "subtitle": "Intelisys accelerates the future of IT by providing access to the hardware, software and services business need to su...",
+  "tags": [
+    "it-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642215068/icons/intelisys.jpg",
+  "website": "https://intelisys.com/",
+  "docsUrl": "https://intelisys.com/#"
+}

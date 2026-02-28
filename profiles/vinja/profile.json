@@ -1,0 +1,13 @@
+{
+  "id": "vinja",
+  "title": "Vinja",
+  "subtitle": "Vinja API integration",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722748/catalog/vinja/icon128x128.png",
+  "website": "https://b2b.vinjavideo.com"
+}

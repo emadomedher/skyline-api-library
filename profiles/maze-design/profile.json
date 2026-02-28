@@ -1,0 +1,14 @@
+{
+  "id": "maze-design",
+  "title": "Maze",
+  "subtitle": "Maze is a user testing and usability research platform that turns your prototype into actionable insights from real u...",
+  "tags": [
+    "design",
+    "user-testing"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579607008/catalog/maze-design/icon128x128.jpg",
+  "website": "https://maze.design/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "eulerhermes",
+  "title": "Euler Hermes",
+  "subtitle": "For more than 100 years, we’ve helped businesses grow thanks to our unique predictive analytics and business intellig...",
+  "tags": [
+    "trade-credit-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625937196/icons/eulerhermes.jpg",
+  "website": "https://www.eulerhermes.com/en_global/discover-euler-hermes.html"
+}

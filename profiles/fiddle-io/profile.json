@@ -1,0 +1,13 @@
+{
+  "id": "fiddle-io",
+  "title": "Fiddle.io",
+  "subtitle": "Grow your business, while we keep track of your stuff. Fiddle allows you to see all of your physical products in one ...",
+  "tags": [
+    "inventory-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597669494/icons/fiddle-io.jpg",
+  "website": "https://fiddle.io/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "universal-windows-platform",
+  "title": "Universal Windows Platform",
+  "subtitle": "The Universal Windows Platform (UWP) lets you build apps for any Windows device—PCs, Xbox One, HoloLens, and more—and...",
+  "tags": [
+    "cross-platfrom-frameworks",
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604326884/icons/universal-windows-platform.png",
+  "website": "https://docs.microsoft.com/en-us/windows/uwp/",
+  "docsUrl": "https://docs.microsoft.com/en-us/windows/uwp/#main"
+}

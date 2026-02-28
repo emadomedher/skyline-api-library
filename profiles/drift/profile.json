@@ -1,0 +1,15 @@
+{
+  "id": "drift",
+  "title": "Drift",
+  "subtitle": "Drift is the leading conversational marketing platform. With Drift on your website, you can turn your traffic into qu...",
+  "tags": [
+    "customer-support",
+    "live-chat"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304809/catalog/drift/icon128x128.png",
+  "website": "https://www.drift.com/",
+  "docsUrl": "https://help.drift.com"
+}

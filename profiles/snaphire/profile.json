@@ -1,0 +1,13 @@
+{
+  "id": "snaphire",
+  "title": "SnapHire",
+  "subtitle": "SnapHire: A best of breed Applicant Tracking System.",
+  "tags": [
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631604118/icons/snaphire.png",
+  "website": "https://www.snaphire.com/"
+}

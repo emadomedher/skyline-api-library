@@ -1,0 +1,12 @@
+{
+  "id": "zipzappo",
+  "title": "Zipzappo",
+  "subtitle": "ZipZappo allows you to send personalized emails, SMS messages, or calls to your prospects.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306585/catalog/zipzappo/icon128x128.png"
+}

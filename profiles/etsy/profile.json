@@ -1,0 +1,13 @@
+{
+  "id": "etsy",
+  "title": "Etsy",
+  "subtitle": "Etsy is a store that makes it easy to buy and sell handmade, vintage or uniquely manufactured goods online!",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055870/catalog/etsy/icon128x128.png",
+  "website": "https://etsy.com"
+}

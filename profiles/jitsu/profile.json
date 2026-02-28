@@ -1,0 +1,16 @@
+{
+  "id": "jitsu",
+  "title": "Jitsu",
+  "subtitle": "Use Jitsu to captures data from your web apps, mobile apps, physical devices, and our SaaS integrators to pull data f...",
+  "tags": [
+    "event-tracking",
+    "data-integration",
+    "open-source"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632258393/icons/jitsu.png",
+  "website": "https://jitsu.com/",
+  "docsUrl": "https://docs.eventnative.dev"
+}

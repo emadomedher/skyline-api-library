@@ -1,0 +1,16 @@
+{
+  "id": "magtek",
+  "title": "MagTek",
+  "subtitle": "MagTek protects data and prevents fraud in electronic transactions. Call 1-800-788-6835 to learn more about our secur...",
+  "tags": [
+    "payments",
+    "card-readers",
+    "payments-hardware"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571962505/catalog/magtek/icon128x128.jpg",
+  "website": "https://www.magtek.com/",
+  "docsUrl": "https://www.magtek.com/services/magneflex"
+}

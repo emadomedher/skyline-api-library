@@ -1,0 +1,13 @@
+{
+  "id": "meetcocoon",
+  "title": "Cocoon",
+  "subtitle": "Cocoon is an employee leave management platform designed to address every type of employee leave and empower companie...",
+  "tags": [
+    "employee-leave"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632954389/icons/meetcocoon.png",
+  "website": "https://www.meetcocoon.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "grammarly",
+  "title": "Grammarly",
+  "subtitle": "Millions trust Grammarly’s free writing app to make their messages, documents, and posts clear, mistake-free, and eff...",
+  "tags": [
+    "ai-writing-assistant"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826532/catalog/grammarly/icon128x128.jpg",
+  "website": "https://grammarly.com",
+  "docsUrl": "https://developer.grammarly.com/docs"
+}

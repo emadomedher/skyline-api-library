@@ -1,0 +1,14 @@
+{
+  "id": "twilio-engage",
+  "title": "Twilio Engage",
+  "subtitle": "Twilio Engage empowers marketers to build and optimize hyper-personalized marketing campaigns on every channel for cu...",
+  "tags": [
+    "marketing-automation",
+    "cdp"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634779668/icons/twilio-engage.png",
+  "website": "https://segment.com/product/twilio-engage"
+}

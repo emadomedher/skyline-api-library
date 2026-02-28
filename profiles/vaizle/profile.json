@@ -1,0 +1,13 @@
+{
+  "id": "vaizle",
+  "title": "Vaizle",
+  "subtitle": "Vaizle is a social media analytics tool that makes social media analytics simple for marketers with actionable insights.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946414/catalog/vaizle/icon128x128.jpg",
+  "website": "https://vaizle.com"
+}

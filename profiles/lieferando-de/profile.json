@@ -1,0 +1,13 @@
+{
+  "id": "lieferando-de",
+  "title": "Lieferando.de",
+  "subtitle": "Einfach Essen bestellen in ganz Deutschland via Lieferando.de! Heute Lust auf Pizza, Sushi, Chinesisch oder Vegetaris...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576169013/catalog/lieferando-de/icon128x128.png",
+  "website": "https://www.lieferando.de/"
+}

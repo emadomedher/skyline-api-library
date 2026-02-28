@@ -1,0 +1,13 @@
+{
+  "id": "kenjo-io",
+  "title": "Kenjo",
+  "subtitle": "All-in-one human resources (HR) software created for SMEs that need to optimise their processes. Click to find out more!",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602809332/icons/kenjo-io.png",
+  "website": "https://www.kenjo.io/"
+}

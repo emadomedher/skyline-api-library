@@ -1,0 +1,14 @@
+{
+  "id": "iqmetrix",
+  "title": "iQmetrix",
+  "subtitle": "iQmetrix delivers integrated POS, retail management, and software solutions to help wireless, repair, and specialty r...",
+  "tags": [
+    "pos",
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601496822/icons/iqmetrix.jpg",
+  "website": "https://www.iqmetrix.com/"
+}

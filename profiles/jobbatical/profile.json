@@ -1,0 +1,14 @@
+{
+  "id": "jobbatical",
+  "title": "Jobbatical",
+  "subtitle": "Jobbatical takes care of the entire relocation process for you. Just sit back and relax.",
+  "tags": [
+    "immigration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805145/icons/jobbatical.jpg",
+  "website": "https://jobbatical.com/",
+  "docsUrl": "https://jobbatical.com/#"
+}

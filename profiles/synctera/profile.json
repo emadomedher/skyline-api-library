@@ -1,0 +1,13 @@
+{
+  "id": "synctera",
+  "title": "Synctera",
+  "subtitle": "Let’s close the gap between community banks and FinTechs. Empowering you with fast, secure, and scalable partnership ...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607838418/icons/synctera.jpg",
+  "website": "https://www.synctera.com/"
+}

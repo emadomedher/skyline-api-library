@@ -1,0 +1,16 @@
+{
+  "id": "evenfinancial",
+  "title": "Even Financial",
+  "subtitle": "Connect your consumers to personalized products at the right time with the definitive search, comparison and recommen...",
+  "tags": [
+    "financial-services-api",
+    "api",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567369111/catalog/evenfinancial/icon128x128.jpg",
+  "website": "https://evenfinancial.com/",
+  "docsUrl": "https://evenfinancial.com/developers"
+}

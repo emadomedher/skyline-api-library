@@ -1,0 +1,14 @@
+{
+  "id": "otta",
+  "title": "Otta",
+  "subtitle": "Otta matches you to jobs that fit your preferences. Discover roles at the most interesting startups and tech brands i...",
+  "tags": [
+    "recruiting",
+    "job-boards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611123669/icons/otta.png",
+  "website": "https://otta.com/"
+}

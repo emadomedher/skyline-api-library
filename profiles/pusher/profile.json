@@ -1,0 +1,14 @@
+{
+  "id": "pusher",
+  "title": "Pusher",
+  "subtitle": "Pusher empowers developers with APIs to create collaboration & communication features in their web and mobile apps.",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605141419/icons/pusher.jpg",
+  "website": "https://pusher.com/",
+  "docsUrl": "https://pusher.com/docs"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "purpledotprice",
+  "title": "Purple Dot",
+  "subtitle": "Purple Dot e-commerce plugin lets you sell sooner to shoppers who are willing to wait. Bring products to market faste...",
+  "tags": [
+    "retail",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604708209/icons/purpledotprice.jpg",
+  "website": "https://www.purpledotprice.com/",
+  "docsUrl": "https://www.purpledotprice.com/docs"
+}

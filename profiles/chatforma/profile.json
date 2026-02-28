@@ -1,0 +1,12 @@
+{
+  "id": "chatforma",
+  "title": "Chatforma",
+  "subtitle": "Chatforma is messenger marketing platform that lets you build chatbots and automated messenger sales with no coding.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284471/catalog/chatforma/icon128x128.png"
+}

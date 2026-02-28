@@ -1,0 +1,15 @@
+{
+  "id": "m1finance",
+  "title": "M1 Finance",
+  "subtitle": "M1 Finance API integration",
+  "tags": [
+    "investing",
+    "fintech",
+    "personal-finance-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591898026/icons/m1finance.png",
+  "website": "https://www.m1finance.com/"
+}

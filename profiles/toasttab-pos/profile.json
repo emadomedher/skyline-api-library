@@ -1,0 +1,14 @@
+{
+  "id": "toasttab-pos",
+  "title": "Toast",
+  "subtitle": "Toast is a restaurant point of sale and management system that helps restaurants improve\noperations, increase sales a...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573171231/catalog/toasttab-pos/icon128x128.png",
+  "website": "https://pos.toasttab.com/",
+  "docsUrl": "https://dev.toasttab.com/"
+}

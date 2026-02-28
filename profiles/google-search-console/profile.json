@@ -1,0 +1,13 @@
+{
+  "id": "google-search-console",
+  "title": "Google Search Console",
+  "subtitle": "Google Search Console is a free service offered by Google that helps you monitor, maintain, and troubleshoot your sit...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582634841/catalog/google-search-console/icon128x128.png",
+  "website": "https://search.google.com/search-console"
+}

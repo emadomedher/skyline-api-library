@@ -1,0 +1,12 @@
+{
+  "id": "crm-connector",
+  "title": "CRM Connector",
+  "subtitle": "CRM Connector is a cloud based CRM and marketing automation platform offering robust automation and sales tools for s...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284488/catalog/crm-connector/icon128x128.png"
+}

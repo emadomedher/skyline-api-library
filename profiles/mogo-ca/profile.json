@@ -1,0 +1,14 @@
+{
+  "id": "mogo-ca",
+  "title": "Mogo",
+  "subtitle": "Mogo provides knowledge and products to help Canadians reach their financial best with free monthly credit scores, id...",
+  "tags": [
+    "challenger-banks",
+    "credit-scores"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583910852/catalog/mogo-ca/icon128x128.jpg",
+  "website": "https://www.mogo.ca/"
+}

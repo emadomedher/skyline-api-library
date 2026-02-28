@@ -1,0 +1,13 @@
+{
+  "id": "workpilot-io",
+  "title": "WorkPilot",
+  "subtitle": "WorkPilot makes it easy to centralise team training, staff onboarding, processes & SOPs within one easy to use platfo...",
+  "tags": [
+    "employee-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644889662/icons/workpilot-io.jpg",
+  "website": "https://www.workpilot.io/"
+}

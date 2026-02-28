@@ -1,0 +1,14 @@
+{
+  "id": "butterfly-ai",
+  "title": "Butterfly",
+  "subtitle": "Butterfly API integration",
+  "tags": [
+    "performance-management",
+    "employee-feedback"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574093788/catalog/butterfly-ai/icon128x128.jpg",
+  "website": "https://www.butterfly.ai/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "image-relay",
+  "title": "Image Relay",
+  "subtitle": "The Digital Asset Management system designed with your time in mind. Upload, organize, and distribute your files from...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305158/catalog/image-relay/icon128x128.png"
+}

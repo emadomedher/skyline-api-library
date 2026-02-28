@@ -1,0 +1,13 @@
+{
+  "id": "tenfold",
+  "title": "Tenfold",
+  "subtitle": "Tenfold hilft Unternehmen, bessere Kundengespräche zu führen. Setzen Sie Kundeninformationen jederzeit und in Echtzei...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946482/catalog/tenfold/icon128x128.png",
+  "website": "https://tenfold.com"
+}

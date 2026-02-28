@@ -1,0 +1,13 @@
+{
+  "id": "junaricrm",
+  "title": "junariCRM",
+  "subtitle": "The company behind the world-class JunariCRM+ system from their base in Colchester, Essex, UK.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720625/catalog/junaricrm/icon128x128.png",
+  "website": "https://junaricrmplus.com"
+}

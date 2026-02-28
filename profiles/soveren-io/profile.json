@@ -1,0 +1,15 @@
+{
+  "id": "soveren-io",
+  "title": "Soveren",
+  "subtitle": "Soveren helps engineering and security teams protect personal data while keeping things simple",
+  "tags": [
+    "data-privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638231413/icons/soveren-io.png",
+  "website": "https://soveren.io/",
+  "docsUrl": "https://docs.soveren.io"
+}

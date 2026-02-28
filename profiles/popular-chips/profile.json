@@ -1,0 +1,13 @@
+{
+  "id": "popular-chips",
+  "title": "Popular Chips",
+  "subtitle": "Worldwide Influencer Management Solution for brands and agencies. Manage and keep track of your Influencers and your ...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721556/catalog/popular-chips/icon128x128.png",
+  "website": "https://popularchips.com"
+}

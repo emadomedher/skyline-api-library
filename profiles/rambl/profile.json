@@ -1,0 +1,13 @@
+{
+  "id": "rambl",
+  "title": "Rambl",
+  "subtitle": "Rambl is designed for inside sales teams. Reps love Rambl because it's the fastest way to place and log sales calls t...",
+  "tags": [
+    "call-analytics-&-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721708/catalog/rambl/icon128x128.jpg",
+  "website": "https://rambl.ai"
+}

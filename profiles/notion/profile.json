@@ -1,0 +1,17 @@
+{
+  "id": "notion",
+  "title": "Notion",
+  "subtitle": "A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team",
+  "tags": [
+    "notes",
+    "spreadsheets"
+  ],
+  "category": "Project Management",
+  "specType": "openapi",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557444810/catalog/notion/icon128x128.jpg",
+  "specUrl": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/scripts/notion-openapi.json",
+  "baseUrl": "https://api.notion.com",
+  "website": "https://notion.so",
+  "docsUrl": "https://developers.notion.com/"
+}

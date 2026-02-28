@@ -1,0 +1,13 @@
+{
+  "id": "telstra-au",
+  "title": "Telstra",
+  "subtitle": "Join Australia's largest mobile network, view our plans for NBN broadband internet, mobile phones, 5G & on demand str...",
+  "tags": [
+    "telcos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606172688/icons/telstra-au.jpg",
+  "website": "https://www.telstra.com.au/"
+}

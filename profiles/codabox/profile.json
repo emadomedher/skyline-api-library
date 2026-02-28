@@ -1,0 +1,13 @@
+{
+  "id": "codabox",
+  "title": "CodaBox",
+  "subtitle": "CodaBox in dienst van de fiduciaires: dematerialiseer uw bankuittreksels, uw sociale documenten en de verkoopsfacture...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562929881/catalog/codabox/icon128x128.png",
+  "website": "https://codabox.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nice",
+  "title": "NICE",
+  "subtitle": "Customer Experience Software – NICE CXone delivers CXI: seamless experiences across the entire customer journey for t...",
+  "tags": [
+    "call-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642409778/icons/nice.jpg",
+  "website": "https://www.nice.com/",
+  "docsUrl": "https://developer.niceincontact.com"
+}

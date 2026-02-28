@@ -1,0 +1,14 @@
+{
+  "id": "sentinelone",
+  "title": "SentinelOne",
+  "subtitle": "Endpoint security software that defends every endpoint against every type of attack, at every stage in the threat lif...",
+  "tags": [
+    "endpoint-protection-platform",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582494226/catalog/sentinelone/icon128x128.png",
+  "website": "https://www.sentinelone.com/"
+}

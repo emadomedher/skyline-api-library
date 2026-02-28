@@ -1,0 +1,13 @@
+{
+  "id": "seersco",
+  "title": "Seers",
+  "subtitle": "Seers is the world's leading Privacy and Consent Management platform used by thousands of companies. Helping to compl...",
+  "tags": [
+    "consent-management-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591878923/icons/seersco.png",
+  "website": "https://seersco.com/"
+}

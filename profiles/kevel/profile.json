@@ -1,0 +1,14 @@
+{
+  "id": "kevel",
+  "title": "Kevel",
+  "subtitle": "Build your own ad server in weeks with Kevel. With our ad server APIs you can build custom ad platforms for sponsored...",
+  "tags": [
+    "ad-servers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641977831/icons/kevel.jpg",
+  "website": "https://www.kevel.com/",
+  "docsUrl": "https://www.kevel.com/quickstart"
+}

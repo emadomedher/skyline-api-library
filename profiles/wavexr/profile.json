@@ -1,0 +1,13 @@
+{
+  "id": "wavexr",
+  "title": "Wave",
+  "subtitle": "Wave is an entertainment technology company and creator of the world’s first multi-channel virtual entertainment plat...",
+  "tags": [
+    "vr"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592559690/icons/wavexr.jpg",
+  "website": "https://wavexr.com/"
+}

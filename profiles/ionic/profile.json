@@ -1,0 +1,13 @@
+{
+  "id": "ionic",
+  "title": "ionic",
+  "subtitle": "Ionic is the app development platform for web developers. Build amazing cross platform mobile, web, and desktop apps ...",
+  "tags": [
+    "mobile-apps"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720553/catalog/ionic/icon128x128.jpg",
+  "website": "https://ionicframework.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "360insights",
+  "title": "360insights",
+  "subtitle": "Manage all your channel incentives on one platform including SPIFFs, Rebates, CO-OP Advertising and MDF, Sell-Through...",
+  "tags": [
+    "channel-incentives-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573783075/catalog/360insights/icon128x128.jpg",
+  "website": "https://360insights.com/"
+}

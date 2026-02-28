@@ -1,0 +1,13 @@
+{
+  "id": "nibc",
+  "title": "NIBC Bank",
+  "subtitle": "NIBC focuses on its clients’ decisive financial moments and provides tailor-made solutions like debt, mezzanine, equi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591117840/icons/nibc.jpg",
+  "website": "https://www.nibc.com/"
+}

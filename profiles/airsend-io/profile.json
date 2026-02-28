@@ -1,0 +1,13 @@
+{
+  "id": "airsend-io",
+  "title": "AirSend",
+  "subtitle": "A digital workspace for professionals to have conversations, share files, and complete tasks, AirSend has everything ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587311415/catalog/airsend-io/icon128x128.png",
+  "website": "https://www.airsend.io/"
+}

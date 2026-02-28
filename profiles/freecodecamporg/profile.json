@@ -1,0 +1,13 @@
+{
+  "id": "freecodecamporg",
+  "title": "freeCodeCamp.org",
+  "subtitle": "Learn to Code — For Free",
+  "tags": [
+    "courses"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623450067/icons/freecodecamporg.png",
+  "website": "https://www.freecodecamp.org/"
+}

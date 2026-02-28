@@ -1,0 +1,14 @@
+{
+  "id": "jacada",
+  "title": "Jacada",
+  "subtitle": "Hyperautomate your CX to beat your competition. Why rip & replace your CX stack when you don't need to? Harmonize & e...",
+  "tags": [
+    "customer-service",
+    "call-center"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597145923/icons/jacada.jpg",
+  "website": "https://www.jacada.com/"
+}

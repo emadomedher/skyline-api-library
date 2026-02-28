@@ -1,0 +1,13 @@
+{
+  "id": "helicone-ai",
+  "title": "Helicone",
+  "subtitle": "Monitoring your GPT-3 and GPT-4 usage and costs shouldn't be a hassle. With Helicone, you can focus on building your ...",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681469080/icons/helicone-ai.png",
+  "website": "https://www.helicone.ai/"
+}

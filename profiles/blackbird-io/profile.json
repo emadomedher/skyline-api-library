@@ -1,0 +1,14 @@
+{
+  "id": "blackbird-io",
+  "title": "Blackbird",
+  "subtitle": "The magic of citizen automation. The power of no-code/low-code.",
+  "tags": [
+    "localization",
+    "ipaas"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648506866/icons/blackbird-io.png",
+  "website": "https://www.blackbird.io/"
+}

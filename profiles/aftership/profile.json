@@ -1,0 +1,14 @@
+{
+  "id": "aftership",
+  "title": "AfterShip",
+  "subtitle": "AfterShip is an automated tracking solution and API for eCommerce. Support tracking 605 international couriers worldw...",
+  "tags": [
+    "shipment-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573130951/catalog/aftership/icon128x128.png",
+  "website": "https://www.aftership.com/",
+  "docsUrl": "https://docs.aftership.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cyanite-ai",
+  "title": "Cyanite.ai",
+  "subtitle": "Innovative AI technology for music that enables music tagging, similarity search, recommendation engine and more.",
+  "tags": [
+    "music-search-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648597385/icons/cyanite-ai.jpg",
+  "website": "https://cyanite.ai/",
+  "docsUrl": "https://api-docs.cyanite.ai"
+}

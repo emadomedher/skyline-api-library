@@ -1,0 +1,14 @@
+{
+  "id": "fivestars",
+  "title": "FiveStars",
+  "subtitle": "Fivestars is an all-in-one payments and marketing platform that combines easy-to-use technology, customizable rewards...",
+  "tags": [
+    "advocacy-loyalty-and-referrals",
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947002/catalog/fivestars/icon128x128.jpg",
+  "website": "https://fivestars.com"
+}

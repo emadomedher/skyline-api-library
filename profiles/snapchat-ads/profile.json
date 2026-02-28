@@ -1,0 +1,13 @@
+{
+  "id": "snapchat-ads",
+  "title": "Snapchat Ads",
+  "subtitle": "Reach an engaged audience with Snapchat Ads for Business, a mobile advertising platform for achieving your business g...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581089647/catalog/snapchat-ads/icon128x128.jpg",
+  "website": "https://forbusiness.snapchat.com/"
+}

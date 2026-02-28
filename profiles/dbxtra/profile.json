@@ -1,0 +1,13 @@
+{
+  "id": "dbxtra",
+  "title": "DBXtra",
+  "subtitle": "DBxtra – Software for Reporting. Design Web Reports and Dashboards in Minutes not Hours!",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434134/catalog/dbxtra/icon128x128.png",
+  "website": "https://dbxtra.com"
+}

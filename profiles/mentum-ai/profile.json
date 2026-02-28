@@ -1,0 +1,13 @@
+{
+  "id": "mentum-ai",
+  "title": "Mentum.ai",
+  "subtitle": "Write content 50x faster with AI. With just one click, you can create Ads Copy, Blog Content, Emails, Product Descrip...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667520211/icons/mentum-ai.jpg",
+  "website": "https://www.mentum.ai/"
+}

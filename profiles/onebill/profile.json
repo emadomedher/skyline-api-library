@@ -1,0 +1,12 @@
+{
+  "id": "onebill",
+  "title": "OneBill",
+  "subtitle": "OneBill is a billing and subscription management platform for businesses offering a range of products/services based ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284566/catalog/onebill/icon128x128.png"
+}

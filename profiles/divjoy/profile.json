@@ -1,0 +1,14 @@
+{
+  "id": "divjoy",
+  "title": "Divjoy",
+  "subtitle": "Divjoy helps you create the perfect codebase and UI for your next React project.",
+  "tags": [
+    "code-generation",
+    "react"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572111985/catalog/divjoy/icon128x128.jpg",
+  "website": "https://divjoy.com/"
+}

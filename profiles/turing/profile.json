@@ -1,0 +1,14 @@
+{
+  "id": "turing",
+  "title": "Turing",
+  "subtitle": "Turing enables start-ups, businesses, and organizations to hire Elite Pre-vetted Software Engineers. Find quality tal...",
+  "tags": [
+    "remote-hiring",
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598439598/icons/turing.jpg",
+  "website": "https://turing.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "sms-partner",
+  "title": "SMS Partner",
+  "subtitle": "The \"SMS Partner\" module proposes to effect SMS mailings automatically. You create your account, you integrate your a...",
+  "tags": [
+    "phone-&-sms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306125/catalog/sms-partner/icon128x128.png"
+}

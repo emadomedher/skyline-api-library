@@ -1,0 +1,13 @@
+{
+  "id": "fromdoppler",
+  "title": "Doppler",
+  "subtitle": "Doppler is an email marketing tool that allows you to reach your clients in a simple, fast and effective way.",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304801/catalog/doppler/icon128x128.png",
+  "website": "https://fromdoppler.com"
+}

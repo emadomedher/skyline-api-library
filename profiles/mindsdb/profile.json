@@ -1,0 +1,16 @@
+{
+  "id": "mindsdb",
+  "title": "MindsDB",
+  "subtitle": "Make predictions from tables inside your database, then visualize them in your BI tool or App, all using standard SQL.",
+  "tags": [
+    "ai",
+    "open-source",
+    "databases"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667856380/icons/mindsdb.jpg",
+  "website": "https://mindsdb.com/",
+  "docsUrl": "https://docs.mindsdb.com"
+}

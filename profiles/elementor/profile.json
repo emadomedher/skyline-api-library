@@ -1,0 +1,14 @@
+{
+  "id": "elementor",
+  "title": "Elementor",
+  "subtitle": "Elementor is the best WordPress Page Builder, with over 2,000,000 active installs. Create beautiful websites using a ...",
+  "tags": [
+    "wordpress"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560464236/catalog/elementor/icon128x128.png",
+  "website": "https://elementor.com",
+  "docsUrl": "https://developers.elementor.com"
+}

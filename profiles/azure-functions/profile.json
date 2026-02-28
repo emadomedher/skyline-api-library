@@ -1,0 +1,12 @@
+{
+  "id": "azure-functions",
+  "title": "Azure Functions",
+  "subtitle": "Azure Functions API integration",
+  "tags": [
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574004773/catalog/azure-functions/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ing-diba",
+  "title": "ING DiBa",
+  "subtitle": "ING-DiBa AG is located in Frankfurt am Main, Hessen, Germany and is part of the Banks & Credit Unions Industry.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606090618/icons/ing-diba.png",
+  "website": "https://www.ing.de/"
+}

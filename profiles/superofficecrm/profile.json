@@ -1,0 +1,12 @@
+{
+  "id": "superofficecrm",
+  "title": "SuperOffice CRM",
+  "subtitle": "SuperOffice CRM software helps businesses collaborate internally and improve their sales, marketing and service proce...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284626/catalog/superofficecrm/icon128x128.jpg"
+}

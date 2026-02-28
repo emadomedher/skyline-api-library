@@ -1,0 +1,13 @@
+{
+  "id": "middlesexfederal",
+  "title": "Middlesex Federal Savings",
+  "subtitle": "Middlesex Federal Savings, F.A. operates as a full services bank and is the 81st largest bank in the state of Massach...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602115143/icons/middlesexfederal.jpg",
+  "website": "https://www.middlesexfederal.com/"
+}

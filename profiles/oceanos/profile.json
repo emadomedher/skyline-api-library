@@ -1,0 +1,13 @@
+{
+  "id": "oceanos",
+  "title": "Oceanos",
+  "subtitle": "Need to take your contact list building to the next level? Visit Oceanos to learn more about our management services.",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946766/catalog/oceanos/icon128x128.jpg",
+  "website": "https://oceanosinc.com"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ininbox",
+  "title": "INinbox",
+  "subtitle": "INinbox is a well known email marketing software and service. Create, send & track html or plain email newsletters an...",
+  "tags": [
+    "email-newsletters"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305164/catalog/ininbox/icon128x128.png"
+}

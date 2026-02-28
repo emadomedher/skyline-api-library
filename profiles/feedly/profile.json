@@ -1,0 +1,13 @@
+{
+  "id": "feedly",
+  "title": "Feedly",
+  "subtitle": "The best way to follow your favorite blogs, news sites, YouTube shows, podcasts, tumblr blogs, magazines, eBay listin...",
+  "tags": [
+    "social"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304903/catalog/feedly/icon128x128.png",
+  "website": "https://feedly.com/"
+}

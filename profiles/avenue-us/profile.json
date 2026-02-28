@@ -1,0 +1,13 @@
+{
+  "id": "avenue-us",
+  "title": "Avenue Securities",
+  "subtitle": "You will be amazed how becoming an international investor with Avenue Securities is simple, fast and secure. Invest i...",
+  "tags": [
+    "financial-exchanges"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595242441/icons/avenue-us.jpg",
+  "website": "https://www.avenue.us/"
+}

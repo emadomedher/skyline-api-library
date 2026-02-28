@@ -1,0 +1,13 @@
+{
+  "id": "pega",
+  "title": "Pega",
+  "subtitle": "Explore business solutions from the leader in software for customer engagement and digital process automation, built ...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721444/catalog/pega/icon128x128.jpg",
+  "website": "https://pega.com"
+}

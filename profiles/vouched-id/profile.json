@@ -1,0 +1,13 @@
+{
+  "id": "vouched-id",
+  "title": "Vouched",
+  "subtitle": "A fast, easy and accurate way to see and instantly verify your customers and contractors.",
+  "tags": [
+    "identity-verification"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600802222/icons/vouched-id.jpg",
+  "website": "https://www.vouched.id/"
+}

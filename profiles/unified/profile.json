@@ -1,0 +1,13 @@
+{
+  "id": "unified",
+  "title": "Unified",
+  "subtitle": "Unified delivers software & services to connect marketing data sets and optimize investments. Find out more about our...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722622/catalog/unified/icon128x128.png",
+  "website": "https://Unified.com"
+}

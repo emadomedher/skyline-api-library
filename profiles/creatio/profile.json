@@ -1,0 +1,14 @@
+{
+  "id": "creatio",
+  "title": "Creatio",
+  "subtitle": "Award winning BPM CRM system for marketing, sales and service to manage business processes across the entire customer...",
+  "tags": [
+    "partner-relationship-management",
+    "bpm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583314266/catalog/creatio/icon128x128.png",
+  "website": "https://www.creatio.com/"
+}

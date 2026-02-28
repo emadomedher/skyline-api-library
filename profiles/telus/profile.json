@@ -1,0 +1,12 @@
+{
+  "id": "telus",
+  "title": "TELUS Business Connect",
+  "subtitle": "TELUS Business Connect API integration",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561378800/catalog/telus/icon128x128.png"
+}

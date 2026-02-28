@@ -1,0 +1,13 @@
+{
+  "id": "heyteam",
+  "title": "HeyTeam",
+  "subtitle": "Create personalised, engaging, and comprehensive onboarding programs for your new employees.",
+  "tags": [
+    "employee-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559374436/catalog/heyteam/icon128x128.jpg",
+  "website": "https://heyteam.com"
+}

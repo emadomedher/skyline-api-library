@@ -1,0 +1,14 @@
+{
+  "id": "hevodata",
+  "title": "Hevo",
+  "subtitle": "Load data from 100+ Integrations across Databases, SaaS Apps, Cloud Storage, SDKs & Streaming Services to your Data W...",
+  "tags": [
+    "data-pipelines",
+    "etl"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591247893/icons/hevodata.jpg",
+  "website": "https://hevodata.com/"
+}

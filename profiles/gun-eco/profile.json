@@ -1,0 +1,15 @@
+{
+  "id": "gun-eco",
+  "title": "GUN",
+  "subtitle": "GUN is a distributed, offline-first, realtime graph database engine with built-in encryption.",
+  "tags": [
+    "decentralized-databases",
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620196001/icons/gun-eco.jpg",
+  "website": "https://gun.eco/",
+  "docsUrl": "https://gun.eco/docs"
+}

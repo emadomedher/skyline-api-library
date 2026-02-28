@@ -1,0 +1,14 @@
+{
+  "id": "billshark",
+  "title": "BILLSHARK",
+  "subtitle": "Ready to lower your cable/internet/phone bill? Insurance? Subscriptions? Let Billshark do the work for you. Find out ...",
+  "tags": [
+    "bill-reduction-services",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591694441/icons/billshark.jpg",
+  "website": "https://www.billshark.com/"
+}

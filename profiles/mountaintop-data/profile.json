@@ -1,0 +1,13 @@
+{
+  "id": "mountaintop-data",
+  "title": "MountainTop Data",
+  "subtitle": "MountainTop Data API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963540/catalog/mountaintop-data/icon128x128.png",
+  "website": "https://mountaintopdata.com"
+}

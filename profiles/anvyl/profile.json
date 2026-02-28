@@ -1,0 +1,13 @@
+{
+  "id": "anvyl",
+  "title": "Anvyl Production Management",
+  "subtitle": "Anvyl's production management software allows you to centralize data, automate processes, and facilitate collaboratio...",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1633532408/icons/anvyl.png",
+  "website": "https://anvyl.com/"
+}

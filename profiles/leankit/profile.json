@@ -1,0 +1,13 @@
+{
+  "id": "leankit",
+  "title": "Leankit",
+  "subtitle": "Helping teams work together to deliver customer value, faster.",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264801/catalog/leankit/icon128x128.png",
+  "website": "https://leankit.com"
+}

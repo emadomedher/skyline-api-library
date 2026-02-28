@@ -1,0 +1,13 @@
+{
+  "id": "adcreative-ai",
+  "title": "AdCreative.ai",
+  "subtitle": "Artificial Intelligence powered ad creative and banner generator for better conversion rates.",
+  "tags": [
+    "ad-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671780909/icons/adcreative-ai.png",
+  "website": "https://www.adcreative.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "reviewr-ai",
+  "title": "reviewr",
+  "subtitle": "Reviews are everywhere. We connect the dots. reviewr.ai crawls the internet for product reviews and provides AI-power...",
+  "tags": [
+    "review-aggregation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621448651/icons/reviewr-ai.jpg",
+  "website": "https://www.reviewr.ai/"
+}

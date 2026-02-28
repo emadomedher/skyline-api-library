@@ -1,0 +1,13 @@
+{
+  "id": "junction-ai",
+  "title": "Junction AI",
+  "subtitle": "Save up to 90% of your time & cost optimizing ads. Test & predict creative concepts on images, copy & video for succe...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587738456/catalog/junction-ai/icon128x128.jpg",
+  "website": "https://junction.ai/"
+}

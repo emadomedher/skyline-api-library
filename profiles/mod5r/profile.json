@@ -1,0 +1,13 @@
+{
+  "id": "mod5r",
+  "title": "Mod5r",
+  "subtitle": "Mod5r is the fintech company in Saudi Arabia. Introducing actual, a local-first finance tool that treatsyou like a pr...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630667277/icons/mod5r.png",
+  "website": "https://mod5r.com/"
+}

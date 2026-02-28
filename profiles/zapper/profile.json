@@ -1,0 +1,14 @@
+{
+  "id": "zapper",
+  "title": "Zapper",
+  "subtitle": "Zapper is a mobile payment, customer loyalty and rewards platform. Get to know your customers better each time they p...",
+  "tags": [
+    "mobile-wallets",
+    "contactless-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612736050/icons/zapper.jpg",
+  "website": "https://www.zapper.com/"
+}

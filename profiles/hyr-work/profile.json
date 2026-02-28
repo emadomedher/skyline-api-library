@@ -1,0 +1,13 @@
+{
+  "id": "hyr-work",
+  "title": "Hyr",
+  "subtitle": "Hyr connects traditional businesses and amazing pros, when they need each other. Welcome to the new labour economy.",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578917422/catalog/hyr-work/icon128x128.jpg",
+  "website": "https://hyr.work/"
+}

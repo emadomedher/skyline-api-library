@@ -1,0 +1,13 @@
+{
+  "id": "mealme-ai",
+  "title": "MealMe",
+  "subtitle": "Sign up for our Food Delivery API, Grocery Ordering API, Restaurant Ordering API, Menu API, Food Search API, and more...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669152906/icons/mealme-ai.png",
+  "website": "https://www.mealme.ai/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "charley",
+  "title": "Charley",
+  "subtitle": "Just another Charley site",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433668/catalog/charley/icon128x128.png",
+  "website": "https://charley.io"
+}

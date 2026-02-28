@@ -1,0 +1,14 @@
+{
+  "id": "payvyne",
+  "title": "Vyne",
+  "subtitle": "Payments perfected. A full-stack payment solution which empowers merchants with faster, safer, seamless experiences.",
+  "tags": [
+    "open-banking-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632537550/icons/payvyne.jpg",
+  "website": "https://www.payvyne.com/",
+  "docsUrl": "https://www.payvyne.com"
+}

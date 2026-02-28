@@ -1,0 +1,13 @@
+{
+  "id": "bigcontacts",
+  "title": "BigContacts",
+  "subtitle": "The best CRM and email marketing app for small businesses in 2019. We provide simple tools that capture more leads, c...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178357/catalog/bigcontacts/icon128x128.png",
+  "website": "https://bigcontacts.com"
+}

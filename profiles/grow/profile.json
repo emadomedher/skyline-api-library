@@ -1,0 +1,13 @@
+{
+  "id": "grow",
+  "title": "Grow",
+  "subtitle": "Grow is a custom business intelligence software that helps companies accelerate their growth by aligning and engaging...",
+  "tags": [
+    "dashboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284528/catalog/grow/icon128x128.png",
+  "website": "https://grow.com"
+}

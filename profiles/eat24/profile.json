@@ -1,0 +1,13 @@
+{
+  "id": "eat24",
+  "title": "Eat24",
+  "subtitle": "Hungry for food delivery? Order Eat24 today. Browse the best local restaurants, delivery menus, ratings and reviews, ...",
+  "tags": [
+    "food-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566602446/catalog/eat24/icon128x128.jpg",
+  "website": "https://www.eat24.com/"
+}

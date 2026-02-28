@@ -1,0 +1,13 @@
+{
+  "id": "bluevine",
+  "title": "BlueVine",
+  "subtitle": "Need fast funding for your business? BlueVine offers flexible business line of credit, invoice factoring, and term lo...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589508680/catalog/bluevine/icon128x128.jpg",
+  "website": "https://www.bluevine.com/"
+}

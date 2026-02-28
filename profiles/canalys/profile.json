@@ -1,0 +1,13 @@
+{
+  "id": "canalys",
+  "title": "Canalys",
+  "subtitle": "We deliver channels and tech analysis, data and events that ensure your business overachieves.",
+  "tags": [
+    "channel-data-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595327395/icons/canalys.jpg",
+  "website": "https://canalys.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "vendavo",
+  "title": "Vendavo",
+  "subtitle": "Powerful pricing B2B software for margin and profit optimization to help the Fortune 500 drive corporate performance ...",
+  "tags": [
+    "channel-finance-pricing-and-inventory"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946402/catalog/vendavo/icon128x128.jpg",
+  "website": "https://vendavo.com"
+}

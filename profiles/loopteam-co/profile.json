@@ -1,0 +1,14 @@
+{
+  "id": "loopteam-co",
+  "title": "Loop Team",
+  "subtitle": "A virtual office for distributed teams: fast video communication, team presence, and live meeting highlights. Keep yo...",
+  "tags": [
+    "virtual-office",
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598958138/icons/loopteam-co.jpg",
+  "website": "https://loopteam.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "conferize",
+  "title": "Conferize",
+  "subtitle": "We're a set of beautifully obvious tools that bring your events to life.",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964149/catalog/conferize/icon128x128.png",
+  "website": "https://conferize.com"
+}

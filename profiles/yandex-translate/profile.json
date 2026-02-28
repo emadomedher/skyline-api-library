@@ -1,0 +1,14 @@
+{
+  "id": "yandex-translate",
+  "title": "Yandex Translate",
+  "subtitle": "Free online translation from French, Russian, Spanish, German, Italian and a number of other languages into English a...",
+  "tags": [
+    "translation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599487331/icons/yandex-translate.jpg",
+  "website": "https://translate.yandex.com/",
+  "docsUrl": "https://translate.yandex.com/developers"
+}

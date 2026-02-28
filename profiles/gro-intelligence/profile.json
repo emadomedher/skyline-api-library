@@ -1,0 +1,14 @@
+{
+  "id": "gro-intelligence",
+  "title": "Gro Intelligence",
+  "subtitle": "Our system is curated by human intelligence and scaled by artificial intelligence to give you the honest answer to wh...",
+  "tags": [
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660381/icons/gro-intelligence.jpg",
+  "website": "https://gro-intelligence.com/",
+  "docsUrl": "https://docs.google.com/forms/d/10tmwreadrkxvcj1ri0wuja9t738glkeezd9cqo7se8o/viewform?edit_requested=true"
+}

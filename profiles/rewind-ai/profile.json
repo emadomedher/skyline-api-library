@@ -1,0 +1,14 @@
+{
+  "id": "rewind-ai",
+  "title": "Rewind AI",
+  "subtitle": "What if you had perfect memory? Search or ask Rewind about anything you've seen, said, or heard.",
+  "tags": [
+    "notes",
+    "productivity"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681847248/icons/rewind-ai.jpg",
+  "website": "https://www.rewind.ai/"
+}

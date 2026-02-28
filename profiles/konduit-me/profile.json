@@ -1,0 +1,13 @@
+{
+  "id": "konduit-me",
+  "title": "Konduit",
+  "subtitle": "Konduit’s technology solutions unlock the full value of digital video to bridge the gaps between advertisers, publish...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268417/icons/konduit-me.png",
+  "website": "https://konduit.me"
+}

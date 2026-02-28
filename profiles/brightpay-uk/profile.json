@@ -1,0 +1,14 @@
+{
+  "id": "brightpay-uk",
+  "title": "BrightPay UK",
+  "subtitle": "Payroll software with unlimited employees & free support. RTI compliant & HMRC recognised. Free Auto Enrolment & Pays...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598255903/icons/brightpay-uk.png",
+  "website": "https://www.brightpay.co.uk/",
+  "docsUrl": "https://www.brightpay.co.uk/docs"
+}

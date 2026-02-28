@@ -1,0 +1,13 @@
+{
+  "id": "conjura",
+  "title": "Conjura",
+  "subtitle": "The Conjura platform provides customer analytics to drive business performance and growth. We help Ecommerce, Subscri...",
+  "tags": [
+    "data-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622146249/icons/conjura.jpg",
+  "website": "https://conjura.com/"
+}

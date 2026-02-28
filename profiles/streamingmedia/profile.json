@@ -1,0 +1,13 @@
+{
+  "id": "streamingmedia",
+  "title": "Streaming Media",
+  "subtitle": "StreamingMedia.com is the #1 destination for professionals seeking streaming and online video industry news, informat...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268402/icons/streamingmedia.jpg",
+  "website": "https://streamingmedia.com"
+}

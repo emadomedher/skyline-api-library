@@ -1,0 +1,16 @@
+{
+  "id": "solace",
+  "title": "Solace",
+  "subtitle": "Solace PubSub+ is the only unified advanced event broker that enables an event mesh and supports pub/sub, queuing, re...",
+  "tags": [
+    "event-streaming",
+    "realtime-messaging",
+    "notfications"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599635077/icons/solace.jpg",
+  "website": "https://solace.com/",
+  "docsUrl": "https://solace.com/blog/category/developers"
+}

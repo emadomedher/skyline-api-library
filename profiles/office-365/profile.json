@@ -1,0 +1,15 @@
+{
+  "id": "office-365",
+  "title": "Microsoft Office 365",
+  "subtitle": "Collaborate for free with online versions of Microsoft Word, PowerPoint, Excel, and OneNote. Save documents, spreadsh...",
+  "tags": [
+    "documents",
+    "collaboration",
+    "office-suites"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456094/catalog/office-365/icon128x128.png",
+  "website": "https://www.office.com/"
+}

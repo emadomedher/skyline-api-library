@@ -1,0 +1,14 @@
+{
+  "id": "bit-ai",
+  "title": "Bit.ai",
+  "subtitle": "Bit is a smart real-time document collaboration and note taking software for teams. Use it for team knowledge sharing...",
+  "tags": [
+    "document-collaboration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572439928/catalog/bit-ai/icon128x128.jpg",
+  "website": "https://bit.ai/",
+  "docsUrl": "https://bit.ai/templates/process-documentation-template"
+}

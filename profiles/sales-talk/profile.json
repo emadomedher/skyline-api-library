@@ -1,0 +1,13 @@
+{
+  "id": "sales-talk",
+  "title": "Sales Talk",
+  "subtitle": "Sales enablement software that is making sales processes more efficient and effective. We’ve redefined and refined th...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721909/catalog/sales-talk/icon128x128.jpg",
+  "website": "https://getsalestalk.com"
+}

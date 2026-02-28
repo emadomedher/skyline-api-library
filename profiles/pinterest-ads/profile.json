@@ -1,0 +1,13 @@
+{
+  "id": "pinterest-ads",
+  "title": "Pinterest Ads",
+  "subtitle": "Build your brand with Pinterest marketing. Increase your sales, traffic & amplify your audience engagement. Get disco...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581089650/catalog/pinterest-ads/icon128x128.png",
+  "website": "https://business.pinterest.com/"
+}

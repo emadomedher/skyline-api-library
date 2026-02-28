@@ -1,0 +1,14 @@
+{
+  "id": "apache-maven",
+  "title": "Maven",
+  "subtitle": "Maven API integration",
+  "tags": [
+    "development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559930659/catalog/apache-maven/icon128x128.jpg",
+  "website": "https://maven.apache.org/",
+  "docsUrl": "https://maven.apache.org/plugin-developers/index.html"
+}

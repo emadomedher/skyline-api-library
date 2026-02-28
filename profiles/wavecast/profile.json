@@ -1,0 +1,13 @@
+{
+  "id": "wavecast",
+  "title": "Wavecast",
+  "subtitle": "Wavecast is a leading provider of webinar, live stream and content marketing solutions for publishers, event organise...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597079691/icons/wavecast.png",
+  "website": "https://wavecast.co"
+}

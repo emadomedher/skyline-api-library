@@ -1,0 +1,12 @@
+{
+  "id": "bot",
+  "title": "Bot",
+  "subtitle": "Bot service allows sending and receiving messages through the Microsoft Bot Framework.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264765/catalog/bot/icon128x128.png"
+}

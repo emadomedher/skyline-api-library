@@ -1,0 +1,13 @@
+{
+  "id": "hulu",
+  "title": "Hulu",
+  "subtitle": "Watch TV shows and movies online. Stream TV episodes of South Park, Empire, SNL, Modern Family and popular movies on ...",
+  "tags": [
+    "streaming-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588108014/catalog/hulu/icon128x128.jpg",
+  "website": "https://www.hulu.com/"
+}

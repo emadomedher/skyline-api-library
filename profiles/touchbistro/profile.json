@@ -1,0 +1,13 @@
+{
+  "id": "touchbistro",
+  "title": "TouchBistro",
+  "subtitle": "TouchBistro is the award-winning restaurant POS system built for restaurant people, by restaurant people. Increase sa...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567870231/catalog/touchbistro/icon128x128.jpg",
+  "website": "https://www.touchbistro.com/"
+}

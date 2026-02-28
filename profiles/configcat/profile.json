@@ -1,0 +1,14 @@
+{
+  "id": "configcat",
+  "title": "ConfigCat",
+  "subtitle": "Fixed prices. Unlimited Team Members. 10-minutes trainable. Clear documentation. Awesome tech support. Forever free p...",
+  "tags": [
+    "feature-flag"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663909647/icons/configcat.png",
+  "website": "https://configcat.com/",
+  "docsUrl": "https://api.configcat.com/docs"
+}

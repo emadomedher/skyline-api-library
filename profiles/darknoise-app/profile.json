@@ -1,0 +1,14 @@
+{
+  "id": "darknoise-app",
+  "title": "Dark Noise",
+  "subtitle": "Simple. Fast. White noise, refined. For iPhone and iPad.",
+  "tags": [
+    "music",
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588466573/catalog/darknoise-app/icon128x128.jpg",
+  "website": "https://darknoise.app/"
+}

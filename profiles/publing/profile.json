@@ -1,0 +1,13 @@
+{
+  "id": "publing",
+  "title": "Publing",
+  "subtitle": "Publing is a social media marketing tool collects posts from most popular social media platforms and displays posts a...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946698/catalog/publing/icon128x128.jpg",
+  "website": "https://publing.co"
+}

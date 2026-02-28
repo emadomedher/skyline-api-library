@@ -1,0 +1,15 @@
+{
+  "id": "blockchain-com",
+  "title": "Blockchain",
+  "subtitle": "Blockchain.com is the most popular place to securely buy, store, and trade Bitcoin, Ethereum, and other top cryptocur...",
+  "tags": [
+    "crypto",
+    "blockchain",
+    "crypto-exchanges"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593626336/icons/blockchain-com.png",
+  "website": "https://www.blockchain.com/"
+}

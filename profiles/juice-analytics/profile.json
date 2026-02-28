@@ -1,0 +1,13 @@
+{
+  "id": "juice-analytics",
+  "title": "Juice Analytics",
+  "subtitle": "Juice helps you build revenue generating, time-saving data products and \nvisualizations with our Juicebox platform an...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720615/catalog/juice-analytics/icon128x128.jpg",
+  "website": "https://juiceanalytics.com"
+}

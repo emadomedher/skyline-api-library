@@ -1,0 +1,13 @@
+{
+  "id": "lightyear-one",
+  "title": "Lightyear",
+  "subtitle": "Lightyear Zero is a Long-Range Solar Car Designed & Engineered by Lightyear in The Netherlands. Designed for Independ...",
+  "tags": [
+    "automotive"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667746903/icons/lightyear-one.jpg",
+  "website": "https://lightyear.one/"
+}

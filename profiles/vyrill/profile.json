@@ -1,0 +1,13 @@
+{
+  "id": "vyrill",
+  "title": "Vyrill",
+  "subtitle": "Hello World",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569010507/catalog/vyrill/icon128x128.png",
+  "website": "https://vyrill.com"
+}

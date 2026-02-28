@@ -1,0 +1,14 @@
+{
+  "id": "workwithdata",
+  "title": "Work With Data",
+  "subtitle": "Explore data in all its forms on 4M+ topics and entities - backed by our knowledge graph combining numerous reliable ...",
+  "tags": [
+    "open-data",
+    "datasets"
+  ],
+  "category": "Open Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471920/icons/workwithdata.jpg",
+  "website": "https://workwithdata.com/"
+}

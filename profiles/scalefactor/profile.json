@@ -1,0 +1,15 @@
+{
+  "id": "scalefactor",
+  "title": "ScaleFactor",
+  "subtitle": "Manage your business' accounting, tax, and finance in just a few minutes a week. ScaleFactor saves you time and money...",
+  "tags": [
+    "accounting",
+    "invoicing",
+    "fintech"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565647333/catalog/scalefactor/icon128x128.jpg",
+  "website": "https://scalefactor.com"
+}

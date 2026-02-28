@@ -1,0 +1,15 @@
+{
+  "id": "roundups-org",
+  "title": "Roundups",
+  "subtitle": "Roundups API integration",
+  "tags": [
+    "donations",
+    "charity",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587324899/catalog/roundups-org/icon128x128.png",
+  "website": "https://www.roundups.org/"
+}

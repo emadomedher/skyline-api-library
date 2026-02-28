@@ -1,0 +1,14 @@
+{
+  "id": "flagsmith",
+  "title": "Flagsmith",
+  "subtitle": "Flagsmith makes it easy to create and manage features flags. Use our hosted API, deploy to your own private cloud, or...",
+  "tags": [
+    "feature-flags"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1620723839/icons/flagsmith.jpg",
+  "website": "https://flagsmith.com/",
+  "docsUrl": "https://docs.flagsmith.com"
+}

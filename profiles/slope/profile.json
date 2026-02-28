@@ -1,0 +1,13 @@
+{
+  "id": "slope",
+  "title": "Slope",
+  "subtitle": "Slope makes it easy for teams to plan, track, and collaborate on marketing and creative projects.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946580/catalog/slope/icon128x128.jpg",
+  "website": "https://goslope.com"
+}

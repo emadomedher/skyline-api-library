@@ -1,0 +1,14 @@
+{
+  "id": "usestir",
+  "title": "Stir",
+  "subtitle": "Stir is the financial studio for collaborating, splitting, and managing your money and metrics all in one place.",
+  "tags": [
+    "creators",
+    "money-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638671557/icons/usestir.jpg",
+  "website": "https://www.usestir.com/"
+}

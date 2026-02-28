@@ -1,0 +1,13 @@
+{
+  "id": "orangescrum",
+  "title": "OrangeScrum",
+  "subtitle": "Orangescrum is awesome Project Management software and Task Management tool to organize projects, team, task and docu...",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946736/catalog/orangescrum/icon128x128.jpg",
+  "website": "https://orangescrum.com"
+}

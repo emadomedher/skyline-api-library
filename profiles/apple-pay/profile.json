@@ -1,0 +1,13 @@
+{
+  "id": "apple-pay",
+  "title": "Apple Pay",
+  "subtitle": "Apple Pay API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567840296/catalog/apple-pay/icon128x128.png",
+  "website": "https://www.apple.com/apple-pay/"
+}

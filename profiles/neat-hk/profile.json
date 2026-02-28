@@ -1,0 +1,14 @@
+{
+  "id": "neat-hk",
+  "title": "Neat",
+  "subtitle": "Better than a bank. A modern business account for startups & SMEs. Get dedicated payment instructions, and all the to...",
+  "tags": [
+    "fintech",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563392627/catalog/neat-hk/icon128x128.jpg",
+  "website": "https://neat.hk"
+}

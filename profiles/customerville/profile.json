@@ -1,0 +1,13 @@
+{
+  "id": "customerville",
+  "title": "Customerville",
+  "subtitle": "Customerville is the unique Customer Experience platform that excites customers to share feedback and inspires employ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947178/catalog/customerville/icon128x128.jpg",
+  "website": "https://customerville.com"
+}

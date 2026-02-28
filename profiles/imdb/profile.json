@@ -1,0 +1,15 @@
+{
+  "id": "imdb",
+  "title": "IMDb",
+  "subtitle": "IMDb is the world's most popular and authoritative source for movie, TV and celebrity content. Find ratings and revie...",
+  "tags": [
+    "movie-database",
+    "professional-networks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660775635/icons/imdb.jpg",
+  "website": "https://www.imdb.com/",
+  "docsUrl": "https://developer.imdb.com/"
+}

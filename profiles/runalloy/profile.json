@@ -1,0 +1,13 @@
+{
+  "id": "runalloy",
+  "title": "Alloy Automation",
+  "subtitle": "Alloy Automation API integration",
+  "tags": [
+    "ecommerce-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610260538/icons/runalloy.jpg",
+  "website": "https://runalloy.com/"
+}

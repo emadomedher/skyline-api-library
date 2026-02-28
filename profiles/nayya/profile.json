@@ -1,0 +1,14 @@
+{
+  "id": "nayya",
+  "title": "Nayya",
+  "subtitle": "Unlock the power of benefits and join leading employers, brokers, carriers and partners who use Nayya to personalize ...",
+  "tags": [
+    "employee-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639854693/icons/nayya.jpg",
+  "website": "https://nayya.com/",
+  "docsUrl": "https://docs.google.com/document/d/1x4pecew3yvj6pmtwxkuz9mknttweq6yh/edit#heading=h.1ksv4uv"
+}

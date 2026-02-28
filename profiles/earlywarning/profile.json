@@ -1,0 +1,13 @@
+{
+  "id": "earlywarning",
+  "title": "Early Warning",
+  "subtitle": "For almost 3 decades, our identity, authentication and payment solutions have empowered financial institutions to mak...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1625450246/icons/earlywarning.png",
+  "website": "https://www.earlywarning.com/"
+}

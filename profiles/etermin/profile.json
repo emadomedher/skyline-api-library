@@ -1,0 +1,12 @@
+{
+  "id": "etermin",
+  "title": "eTermin",
+  "subtitle": "eTermin allows your customers to access all available appointments online and book one directly - 7 days a week, arou...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284511/catalog/etermin/icon128x128.png"
+}

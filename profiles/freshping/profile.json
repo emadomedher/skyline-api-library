@@ -1,0 +1,13 @@
+{
+  "id": "freshping",
+  "title": "Freshping",
+  "subtitle": "Freshping is an uptime monitoring and status pages tool. You can monitor 50 URLs at 1-minute intervals and get alerts...",
+  "tags": [
+    "server-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284522/catalog/freshping/icon128x128.png",
+  "website": "https://zapier.com/apps/freshping/integrations"
+}

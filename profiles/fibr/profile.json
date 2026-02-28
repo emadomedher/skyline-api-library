@@ -1,0 +1,13 @@
+{
+  "id": "fibr",
+  "title": "FIBR",
+  "subtitle": "At FIBR we are committed to creating faster, fairer and more flexible financing solutions for small to medium busines...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215715/icons/fibr.png",
+  "website": "https://fibr.com/"
+}

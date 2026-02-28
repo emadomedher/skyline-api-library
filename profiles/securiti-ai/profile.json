@@ -1,0 +1,14 @@
+{
+  "id": "securiti-ai",
+  "title": "Securiti.ai",
+  "subtitle": "SECURITI.ai is an innovator of AI-Powered cybersecurity and data protection solutions. It’s product suite, PRIVACI.ai...",
+  "tags": [
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565490491/catalog/securiti-ai/icon128x128.jpg",
+  "website": "https://www.securiti.ai/"
+}

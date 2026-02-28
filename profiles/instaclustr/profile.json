@@ -1,0 +1,14 @@
+{
+  "id": "instaclustr",
+  "title": "Instaclustr",
+  "subtitle": "Managed and supported open source solutions for Apache Cassandra, Apache Kafka, Elasticsearch & Redis",
+  "tags": [
+    "database-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607838426/icons/instaclustr.jpg",
+  "website": "https://www.instaclustr.com/",
+  "docsUrl": "https://www.instaclustr.com/support/documentation"
+}

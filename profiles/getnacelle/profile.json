@@ -1,0 +1,15 @@
+{
+  "id": "getnacelle",
+  "title": "nacelle",
+  "subtitle": "Supercharge the customer buying experience with a Nacelle PWA and watch conversion rates and AOV skyrocket on your Sh...",
+  "tags": [
+    "headless-commerce",
+    "jamstack"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610512525/icons/getnacelle.png",
+  "website": "https://getnacelle.com/",
+  "docsUrl": "https://docs.getnacelle.com"
+}

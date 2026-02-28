@@ -1,0 +1,13 @@
+{
+  "id": "loxo-co",
+  "title": "Loxo",
+  "subtitle": "Say goodbye to separate ATS, CRM, outbound recruitment, data & sourcing tools with Loxo. Become a hiring machine.",
+  "tags": [
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683569106/icons/loxo-co.png",
+  "website": "https://loxo.co/"
+}

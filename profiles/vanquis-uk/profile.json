@@ -1,0 +1,14 @@
+{
+  "id": "vanquis-uk",
+  "title": "Vanquis Bank",
+  "subtitle": "Vanquis Bank is a subsidiary of the Provident Financial Group. Established in 2007, it offers credit building credit ...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602154381/icons/vanquis-uk.png",
+  "website": "https://www.vanquis.co.uk/",
+  "docsUrl": "https://www.vanquis.co.uk/developer-portal"
+}

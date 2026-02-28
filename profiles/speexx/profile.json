@@ -1,0 +1,13 @@
+{
+  "id": "speexx",
+  "title": "Speexx",
+  "subtitle": "Award-winning mobile and online language training, skills and needs assessment, and performance support for the digit...",
+  "tags": [
+    "skills-assessment"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641943768/icons/speexx.png",
+  "website": "https://www.speexx.com/"
+}

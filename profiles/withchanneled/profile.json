@@ -1,0 +1,13 @@
+{
+  "id": "withchanneled",
+  "title": "Channeled",
+  "subtitle": "Channeled is a unified team inbox in Slack for relationship-focused B2B companies to support their customers. Current...",
+  "tags": [
+    "customer-success"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667746894/icons/withchanneled.png",
+  "website": "https://withchanneled.com/"
+}

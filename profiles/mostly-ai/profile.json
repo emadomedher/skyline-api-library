@@ -1,0 +1,15 @@
+{
+  "id": "mostly-ai",
+  "title": "Mostly AI",
+  "subtitle": "information-preserving big data anonymization taken to the next level - by simulating realistic & representative synt...",
+  "tags": [
+    "synthetic-data",
+    "privacy",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687026217/icons/mostly-ai.jpg",
+  "website": "https://mostly.ai/"
+}

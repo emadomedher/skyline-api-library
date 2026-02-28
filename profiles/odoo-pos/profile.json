@@ -1,0 +1,13 @@
+{
+  "id": "odoo-pos",
+  "title": "Odoo POS",
+  "subtitle": "Set up the Odoo Point of Sales in mere minutes and manage all your activities. It's compatible with any device and wo...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634680416/icons/odoo-pos.jpg",
+  "website": "https://www.odoo.com/app/point-of-sale-shop"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "semasio",
+  "title": "Semasio",
+  "subtitle": "The days of “black box” targeting platforms are ending – gain complete control, transparency and ownership of your cu...",
+  "tags": [
+    "targeting",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581466112/catalog/semasio/icon128x128.jpg",
+  "website": "https://www.semasio.com/"
+}

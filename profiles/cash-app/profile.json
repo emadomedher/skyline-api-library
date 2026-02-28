@@ -1,0 +1,14 @@
+{
+  "id": "cash-app",
+  "title": "Cash App",
+  "subtitle": "The #1 finance app in the App Store. Send money for free. Invest in stocks or bitcoin with as little as $1. Get paid ...",
+  "tags": [
+    "payment-apps",
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597878312/icons/cash-app.png",
+  "website": "https://cash.app/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "twinesocial",
+  "title": "TwineSocial",
+  "subtitle": "Create, customize, and maintain social media hubs for websites, hashtag campaigns, and more. Aggregate posts from any...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722605/catalog/twinesocial/icon128x128.jpg",
+  "website": "https://twinesocial.com"
+}

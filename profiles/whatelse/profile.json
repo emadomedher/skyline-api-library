@@ -1,0 +1,14 @@
+{
+  "id": "whatelse",
+  "title": "WhatElse",
+  "subtitle": "Enterprise Productivity Solution",
+  "tags": [
+    "enterprise-productivity",
+    "recruitment"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861269/catalog/whatelse/icon128x128.png",
+  "website": "https://www.whatelse.io"
+}

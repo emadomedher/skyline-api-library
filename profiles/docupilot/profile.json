@@ -1,0 +1,12 @@
+{
+  "id": "docupilot",
+  "title": "Docupilot",
+  "subtitle": "Docupilot is a document automation tool to generate PDFs, DOCX files, contracts, invoices and more with data from onl...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284498/catalog/docupilot/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "superb-ai",
+  "title": "Superb AI",
+  "subtitle": "Automate data preparation, label and manage images and videos, and find annotation services with one training data pl...",
+  "tags": [
+    "data-labeling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698397/icons/superb-ai.jpg",
+  "website": "https://www.superb-ai.com/",
+  "docsUrl": "https://docs.superb-ai.com"
+}

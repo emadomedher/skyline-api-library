@@ -1,0 +1,13 @@
+{
+  "id": "tillikassa-nl",
+  "title": "Tilli Kassa",
+  "subtitle": "Tilli is het horeca kassa systeem ontworpen voor en door de horecabranche. Tilli software is een investering die zorg...",
+  "tags": [
+    "pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641114/icons/tillikassa-nl.jpg",
+  "website": "https://tillikassa.nl/"
+}

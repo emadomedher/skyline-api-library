@@ -1,0 +1,13 @@
+{
+  "id": "sap-erp",
+  "title": "SAP ERP",
+  "subtitle": "SAP ERP API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575432999/catalog/sap-erp/icon128x128.png",
+  "website": "https://www.sap.com/products/erp.html"
+}

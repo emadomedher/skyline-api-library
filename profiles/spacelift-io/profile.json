@@ -1,0 +1,15 @@
+{
+  "id": "spacelift-io",
+  "title": "Spacelift",
+  "subtitle": "Spacelift API integration",
+  "tags": [
+    "terraform-management",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604671327/icons/spacelift-io.png",
+  "website": "https://spacelift.io/",
+  "docsUrl": "https://docs.spacelift.io"
+}

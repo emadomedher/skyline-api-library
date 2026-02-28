@@ -1,0 +1,13 @@
+{
+  "id": "bittiq",
+  "title": "Bittiq",
+  "subtitle": "Bittiq creates smart solutions based on data to provide more relevant interactions between companies and their users.\n",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572121413/catalog/bittiq/icon128x128.jpg",
+  "website": "https://bittiq.com/"
+}

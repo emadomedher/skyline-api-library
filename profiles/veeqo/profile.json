@@ -1,0 +1,12 @@
+{
+  "id": "veeqo",
+  "title": "Veeqo",
+  "subtitle": "Veeqo is a complete solution for multichannel retailers; keep inventory levels accurate, streamline operations and sh...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306426/catalog/veeqo/icon128x128.png"
+}

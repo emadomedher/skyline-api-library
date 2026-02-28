@@ -1,0 +1,13 @@
+{
+  "id": "gigasheet",
+  "title": "Gigasheet",
+  "subtitle": "Is your LOG, JSON, or CSV too big for Excel? No installation, infrastructure, or configuration required. Gigasheet's ...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655017217/icons/gigasheet.jpg",
+  "website": "https://www.gigasheet.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "trendmicro",
+  "title": "Trend Micro",
+  "subtitle": "Trend Micro is the global leader in enterprise data security and cybersecurity solutions for businesses, data centers...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567189743/catalog/trendmicro/icon128x128.png",
+  "website": "https://www.trendmicro.com"
+}

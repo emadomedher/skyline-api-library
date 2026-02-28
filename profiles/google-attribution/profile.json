@@ -1,0 +1,13 @@
+{
+  "id": "google-attribution",
+  "title": "Google Attribution",
+  "subtitle": "Google Attribution API integration",
+  "tags": [
+    "attribution"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578240436/catalog/google-attribution/icon128x128.jpg",
+  "website": "https://www.google.com/analytics/attribution"
+}

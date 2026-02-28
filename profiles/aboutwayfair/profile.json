@@ -1,0 +1,13 @@
+{
+  "id": "aboutwayfair",
+  "title": "WayfairAtWork",
+  "subtitle": "Read more about Wayfair's mission, values, leadership, sustainability commitments, DEI, corporate responsibilities, c...",
+  "tags": [
+    "home-retailers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652666992/icons/aboutwayfair.jpg",
+  "website": "https://www.aboutwayfair.com/"
+}

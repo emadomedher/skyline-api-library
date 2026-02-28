@@ -1,0 +1,14 @@
+{
+  "id": "hinge-co",
+  "title": "Hinge",
+  "subtitle": "Designed to be deleted.",
+  "tags": [
+    "dating",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612239229/icons/hinge-co.jpg",
+  "website": "https://hinge.co/"
+}

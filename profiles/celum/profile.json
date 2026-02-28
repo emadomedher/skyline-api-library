@@ -1,0 +1,13 @@
+{
+  "id": "celum",
+  "title": "Celum",
+  "subtitle": "CELUM provides the foundation for the creation, administration, distribution and monetization of content. ✓ Over 800 ...",
+  "tags": [
+    "dam-&-mrm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826026/catalog/celum/icon128x128.jpg",
+  "website": "https://celum.com"
+}

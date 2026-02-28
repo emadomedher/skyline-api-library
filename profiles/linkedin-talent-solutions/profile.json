@@ -1,0 +1,14 @@
+{
+  "id": "linkedin-talent-solutions",
+  "title": "LinkedIn Talent Solutions",
+  "subtitle": "Post jobs, source talent, build your employer brand, and develop the employees you have.",
+  "tags": [
+    "job-advertising",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571567204/catalog/linkedIn-talent-solutions/icon128x128.jpg",
+  "website": "https://business.linkedin.com/talent-solutions"
+}

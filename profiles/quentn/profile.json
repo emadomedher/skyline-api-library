@@ -1,0 +1,12 @@
+{
+  "id": "quentn",
+  "title": "Quentn",
+  "subtitle": "Quentn is a marketing automation tool that helps you to create and organize marketing processes.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284585/catalog/quentn/icon128x128.jpg"
+}

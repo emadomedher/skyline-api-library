@@ -1,0 +1,14 @@
+{
+  "id": "paperlesspost",
+  "title": "Paperless Post",
+  "subtitle": "Customize online Card invitations, Flyers, and greetings that reflect your personal style—for weddings, holidays, bir...",
+  "tags": [
+    "email-marketing",
+    "direct-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1668637951/icons/paperlesspost.jpg",
+  "website": "https://www.paperlesspost.com/"
+}

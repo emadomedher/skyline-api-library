@@ -1,0 +1,13 @@
+{
+  "id": "yieldbot",
+  "title": "Yieldbot",
+  "subtitle": "Yieldbot API integration",
+  "tags": [
+    "display-&-programmatic-advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438589/catalog/yieldbot/icon128x128.png",
+  "website": "https://yieldbot.com"
+}

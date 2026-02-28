@@ -1,0 +1,14 @@
+{
+  "id": "simpplr",
+  "title": "Simpplr",
+  "subtitle": "Transform internal communications with an intranet software. Learn how Simpplr connects and engages employees to boos...",
+  "tags": [
+    "employee-communication"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657034792/icons/simpplr.png",
+  "website": "https://www.simpplr.com/",
+  "docsUrl": "https://www.simpplr.com/cookie-preference-center"
+}

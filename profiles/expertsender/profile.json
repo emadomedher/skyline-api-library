@@ -1,0 +1,13 @@
+{
+  "id": "expertsender",
+  "title": "ExpertSender",
+  "subtitle": "ExpertSender delivers customers multichannel messaging solutions via the email, SMS & web channels. We are responsibl...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775105/catalog/expertsender/icon128x128.jpg",
+  "website": "https://expertsender.com"
+}

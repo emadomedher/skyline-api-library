@@ -1,0 +1,13 @@
+{
+  "id": "wyzebulb",
+  "title": "Wyzebulb",
+  "subtitle": "Connect your cloud applications in minutes. Automate your workflow. Run email and SMS\n          Marketing campaigns. ...",
+  "tags": [
+    "ipaas-cloud/data-integration-&-tag-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722943/catalog/wyzebulb/icon128x128.jpg",
+  "website": "https://wyzebulb.com"
+}

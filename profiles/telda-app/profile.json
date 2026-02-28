@@ -1,0 +1,13 @@
+{
+  "id": "telda-app",
+  "title": "Telda",
+  "subtitle": "Telda is a financial brand in the MENA region built for Millennials and GenZ to take the pain out of payment experien...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621289659/icons/telda-app.jpg",
+  "website": "https://telda.app/"
+}

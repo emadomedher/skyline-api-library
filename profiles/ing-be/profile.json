@@ -1,0 +1,13 @@
+{
+  "id": "ing-be",
+  "title": "ING Belgium",
+  "subtitle": "ING Belgium API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562928059/catalog/ing-be/icon128x128.jpg",
+  "website": "https://ing.be"
+}

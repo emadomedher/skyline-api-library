@@ -1,0 +1,13 @@
+{
+  "id": "assetnote-io",
+  "title": "Assetnote",
+  "subtitle": "Assetnote API integration",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641805181/icons/assetnote-io.jpg",
+  "website": "https://assetnote.io/"
+}

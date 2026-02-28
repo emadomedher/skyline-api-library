@@ -1,0 +1,15 @@
+{
+  "id": "sdworx",
+  "title": "SD Worx",
+  "subtitle": "SD Worx delivers people solutions across the entire employee lifecycle, from payroll and HR solutions to attracting a...",
+  "tags": [
+    "payroll-providers",
+    "workforce-management",
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637801613/icons/sdworx.jpg",
+  "website": "https://www.sdworx.com/"
+}

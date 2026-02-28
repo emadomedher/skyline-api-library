@@ -1,0 +1,13 @@
+{
+  "id": "seoprofiler",
+  "title": "SEOprofiler",
+  "subtitle": "SEOprofiler API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565843/catalog/seoprofiler/icon128x128.png",
+  "website": "https://seoprofiler.com"
+}

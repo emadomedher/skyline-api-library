@@ -1,0 +1,13 @@
+{
+  "id": "accredible",
+  "title": "Accredible",
+  "subtitle": "Easily create and manage digital certificates & open badges for your events or courses. Let your alumni market your o...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304338/catalog/accredible/icon128x128.png",
+  "website": "https://www.accredible.com"
+}

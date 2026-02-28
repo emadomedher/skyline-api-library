@@ -1,0 +1,15 @@
+{
+  "id": "boost-ai",
+  "title": "boost.ai",
+  "subtitle": "Conversational AI platform for customer service in enterprise-level \ncompanies. Specializing in banking, insurance an...",
+  "tags": [
+    "live-chat",
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606682568/icons/boost-ai.jpg",
+  "website": "https://www.boost.ai/",
+  "docsUrl": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage"
+}

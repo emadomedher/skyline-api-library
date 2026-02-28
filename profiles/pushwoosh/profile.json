@@ -1,0 +1,14 @@
+{
+  "id": "pushwoosh",
+  "title": "Pushwoosh",
+  "subtitle": "Cross-platform push notifications with Pushwoosh!",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305799/catalog/pushwoosh/icon128x128.png",
+  "website": "https://pushwoosh.com",
+  "docsUrl": "https://www.pushwoosh.com/resources"
+}

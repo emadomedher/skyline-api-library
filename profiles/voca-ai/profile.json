@@ -1,0 +1,13 @@
+{
+  "id": "voca-ai",
+  "title": "Voca.ai",
+  "subtitle": "Voca Powers Contact Centers with Voice AI Virtual Agents which Sound and Interact like Human Agents. Best-in-Class Te...",
+  "tags": [
+    "voice-ai-agents"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605187012/icons/voca-ai.jpg",
+  "website": "https://voca.ai/"
+}

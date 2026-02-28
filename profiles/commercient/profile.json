@@ -1,0 +1,15 @@
+{
+  "id": "commercient",
+  "title": "Commercient",
+  "subtitle": "Commercient provides businesses with fast and flexible ERP & CRM integration apps that provide a 360-degree view of y...",
+  "tags": [
+    "data-integration",
+    "salesforce"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586779856/catalog/commercient/icon128x128.jpg",
+  "website": "https://www.commercient.com/",
+  "docsUrl": "https://www.commercient.com/partner/developers-program"
+}

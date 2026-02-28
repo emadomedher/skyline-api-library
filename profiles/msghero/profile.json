@@ -1,0 +1,12 @@
+{
+  "id": "msghero",
+  "title": "MSGHero",
+  "subtitle": "MSGHero is an all-in-one Facebook Messenger marketing platform that allows you to set up a chatbot for your business ...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284559/catalog/msghero/icon128x128.png"
+}

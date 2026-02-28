@@ -1,0 +1,13 @@
+{
+  "id": "oyster-io",
+  "title": "Oyster Financial",
+  "subtitle": "Oyster is a Neo Bank serving the needs of Freelancers and Small to Medium Business.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599337881/icons/oyster-io.png",
+  "website": "https://oyster.io/"
+}

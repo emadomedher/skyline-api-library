@@ -1,0 +1,15 @@
+{
+  "id": "hummingbird-co",
+  "title": "Hummingbird",
+  "subtitle": "Hummingbird is a modern platform for managing compliance teams. We make compliance investigations agile, lightweight,...",
+  "tags": [
+    "compliance",
+    "aml",
+    "kyc"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595447212/icons/hummingbird-co.jpg",
+  "website": "https://hummingbird.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "apple-search-ads",
+  "title": "Apple Search Ads",
+  "subtitle": "Learn how Apple Search Ads helps people discover your app on the App Store. It’s the efficient and easy way to be see...",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599635090/icons/apple-search-ads.jpg",
+  "website": "https://searchads.apple.com/"
+}

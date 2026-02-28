@@ -1,0 +1,13 @@
+{
+  "id": "cvent",
+  "title": "Cvent",
+  "subtitle": "Cvent is a modern online management product for event, survey, and email marketing management.",
+  "tags": [
+    "event-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719691/catalog/cvent/icon128x128.jpg",
+  "website": "https://cvent.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bench-co",
+  "title": "Bench Accounting",
+  "subtitle": "Bench pairs you with a team of professional bookkeepers to do your bookkeeping, leaving you to run your business. Lea...",
+  "tags": [
+    "accounting",
+    "bookkeeping"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581634307/catalog/bench-co/icon128x128.png",
+  "website": "https://bench.co/"
+}

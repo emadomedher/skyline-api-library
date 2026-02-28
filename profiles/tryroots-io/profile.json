@@ -1,0 +1,14 @@
+{
+  "id": "tryroots-io",
+  "title": "Roots",
+  "subtitle": "Build a stronger company culture, increase team collaboration, and reduce burnout through seamless HR Slack plugins d...",
+  "tags": [
+    "hr-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642244349/icons/tryroots-io.png",
+  "website": "https://www.tryroots.io/",
+  "docsUrl": "https://www.tryroots.io/docs/terms-of-use"
+}

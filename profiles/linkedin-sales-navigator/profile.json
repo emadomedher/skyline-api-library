@@ -1,0 +1,15 @@
+{
+  "id": "linkedin-sales-navigator",
+  "title": "LinkedIn Sales Navigator",
+  "subtitle": "LinkedIn Sales Navigator makes social selling easy with sales tools that focus on helping you find the right prospect...",
+  "tags": [
+    "prospection",
+    "sales",
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604206054/icons/linkedin-sales-navigator.jpg",
+  "website": "https://business.linkedin.com/sales-solutions/sales-navigator"
+}

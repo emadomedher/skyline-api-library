@@ -1,0 +1,13 @@
+{
+  "id": "outgrow",
+  "title": "Outgrow",
+  "subtitle": "Outgrow is an interactive marketing enablement platform that introduces marketers to a new era of marketing with inte...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305611/catalog/outgrow/icon128x128.png",
+  "website": "https://outgrow.co/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pfl",
+  "title": "PFL",
+  "subtitle": "PFL API integration",
+  "tags": [
+    "abm"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436433/catalog/pfl/icon128x128.png",
+  "website": "https://pfl.com"
+}

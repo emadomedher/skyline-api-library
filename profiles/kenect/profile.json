@@ -1,0 +1,14 @@
+{
+  "id": "kenect",
+  "title": "Kennect",
+  "subtitle": "\"Convert your existing business phone line to a text-enabled line and improve customer experience, generate new leads...",
+  "tags": [
+    "reputation-management",
+    "text-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670332930/icons/kenect.png",
+  "website": "https://www.kenect.com/"
+}

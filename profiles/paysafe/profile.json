@@ -1,0 +1,13 @@
+{
+  "id": "paysafe",
+  "title": "Paysafe Group",
+  "subtitle": "Plug into Paysafe | We provide simple and secure payment solutions to businesses of all sizes around the world. Our i...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582233362/catalog/paysafe/icon128x128.png",
+  "website": "https://www.paysafe.com/"
+}

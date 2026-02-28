@@ -1,0 +1,14 @@
+{
+  "id": "vectera",
+  "title": "Vectera",
+  "subtitle": "Vectera is the tool for distance collaboration through video, whiteboards, screen share and chat. It works in your br...",
+  "tags": [
+    "video-conferencing"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578410746/catalog/vectera/icon128x128.png",
+  "website": "https://www.vectera.com/",
+  "docsUrl": "https://www.vectera.com/reference/"
+}

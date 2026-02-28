@@ -1,0 +1,13 @@
+{
+  "id": "usesuperflow",
+  "title": "Superflow",
+  "subtitle": "Easily annotate and collaborate on live websites with Superflow. Cut review cycles by 40% and create products that yo...",
+  "tags": [
+    "website-review"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679697451/icons/usesuperflow.jpg",
+  "website": "https://www.usesuperflow.com/"
+}

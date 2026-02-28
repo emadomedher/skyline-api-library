@@ -1,0 +1,13 @@
+{
+  "id": "evoliz",
+  "title": "Evoliz",
+  "subtitle": "Devis Facture en ligne > Inscription GRATUITE ! Logiciel de facturation en ligne et gestion commerciale en ligne SaaS...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592727618/icons/evoliz.jpg",
+  "website": "https://www.evoliz.com/"
+}

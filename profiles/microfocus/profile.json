@@ -1,0 +1,15 @@
+{
+  "id": "microfocus",
+  "title": "Micro Focus",
+  "subtitle": "Micro Focus transforms your digital business with enterprise application software across DevOps, Hybrid IT Management...",
+  "tags": [
+    "devops",
+    "it-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576503249/catalog/microfocus/icon128x128.jpg",
+  "website": "https://www.microfocus.com/",
+  "docsUrl": "https://www.microfocus.com/en-us/products/uft-developer/overview"
+}

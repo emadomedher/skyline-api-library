@@ -1,0 +1,14 @@
+{
+  "id": "hotdocs",
+  "title": "HotDocs",
+  "subtitle": "HotDocs document automation software helps reduce risk & save time by aiding in the creation, generation, assembly & ...",
+  "tags": [
+    "document-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623092123/icons/hotdocs.png",
+  "website": "https://www.hotdocs.com/",
+  "docsUrl": "https://www.hotdocs.com/services/smb"
+}

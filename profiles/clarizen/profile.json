@@ -1,0 +1,13 @@
+{
+  "id": "clarizen",
+  "title": "Clarizen",
+  "subtitle": "Project management software that lets you manage work, automate processes and collaborate across the enterprise—all f...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719448/catalog/clarizen/icon128x128.jpg",
+  "website": "https://clarizen.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sorare",
+  "title": "Sorare",
+  "subtitle": "Sorare API integration",
+  "tags": [
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615869863/icons/sorare.jpg",
+  "website": "https://sorare.com/",
+  "docsUrl": "https://github.com/sorare/api"
+}

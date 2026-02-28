@@ -1,0 +1,13 @@
+{
+  "id": "mindstamp",
+  "title": "Mindstamp",
+  "subtitle": "Mindstamp helps you engage and educate your viewers by adding notes, pop-up questions, and CTAs to any video in just ...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946821/catalog/mindstamp/icon128x128.jpg",
+  "website": "https://mindstamp.io"
+}

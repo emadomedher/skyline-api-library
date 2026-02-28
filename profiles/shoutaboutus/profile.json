@@ -1,0 +1,13 @@
+{
+  "id": "shoutaboutus",
+  "title": "ShoutAboutUs",
+  "subtitle": "Shout About Us helps your business generate, listen and respond to online reviews. Our easy-to-use online review mana...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722059/catalog/shoutaboutus/icon128x128.jpg",
+  "website": "https://shoutaboutus.com"
+}

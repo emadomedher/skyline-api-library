@@ -1,0 +1,13 @@
+{
+  "id": "replybutton",
+  "title": "Replybutton",
+  "subtitle": "Personalized outreach emailing, increase revenue, save time, hire faster, save email templates, send later, track ope...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721814/catalog/replybutton/icon128x128.jpg",
+  "website": "https://replybutton.com"
+}

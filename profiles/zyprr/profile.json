@@ -1,0 +1,13 @@
+{
+  "id": "zyprr",
+  "title": "Zyprr",
+  "subtitle": "Zyprr is a highly customizable business process platform which fully integrates all customer touch-points, giving you...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554723025/catalog/zyprr/icon128x128.jpg",
+  "website": "https://zyprr.com"
+}

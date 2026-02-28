@@ -1,0 +1,16 @@
+{
+  "id": "snap-hr",
+  "title": "Snap.hr",
+  "subtitle": "We connect great developers with the best handpicked startups.",
+  "tags": [
+    "job-board",
+    "software-engineering",
+    "hiring",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566728699/catalog/snap-hr/icon128x128.jpg",
+  "website": "https://snap.hr/"
+}

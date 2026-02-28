@@ -1,0 +1,14 @@
+{
+  "id": "paiyroll",
+  "title": "paiyroll®",
+  "subtitle": "Automated payroll for daily or on-demand pay.",
+  "tags": [
+    "payroll-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638823292/icons/paiyroll.png",
+  "website": "https://paiyroll.com/",
+  "docsUrl": "https://www.gov.uk/government/collections/real-time-information-online-internet-submissions-support-for-software-developers"
+}

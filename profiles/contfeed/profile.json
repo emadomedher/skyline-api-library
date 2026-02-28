@@ -1,0 +1,13 @@
+{
+  "id": "contfeed",
+  "title": "Contfeed",
+  "subtitle": "Display User Generated Social Content (UGC) Anywhere in Seconds",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826170/catalog/contfeed/icon128x128.jpg",
+  "website": "https://contfeed.com"
+}

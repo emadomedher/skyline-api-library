@@ -1,0 +1,13 @@
+{
+  "id": "clearfacts-be",
+  "title": "ClearFacts",
+  "subtitle": "De boekhouding digitaliseren is een win-win voor boekhouder en klant. Maakt u tijd voor wat er echt toe doet. Ontdek ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562928986/catalog/clearfacts-be/icon128x128.png",
+  "website": "https://clearfacts.be"
+}

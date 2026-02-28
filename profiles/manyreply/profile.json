@@ -1,0 +1,13 @@
+{
+  "id": "manyreply",
+  "title": "Manyreply",
+  "subtitle": "Manyreply helps you write better emails by generating personalized icebreakers using AI that generates more responses",
+  "tags": [
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687114022/icons/manyreply.jpg",
+  "website": "https://www.manyreply.com/"
+}

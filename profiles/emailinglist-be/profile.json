@@ -1,0 +1,13 @@
+{
+  "id": "emailinglist-be",
+  "title": "E-mailinglist by Stardekk",
+  "subtitle": "Send out e-mailings simple and fast to your guests with E-mailinglist. The e-mail marketing tool for the hospitality ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612634789/icons/emailinglist-be.jpg",
+  "website": "https://www.emailinglist.be/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "talentlms",
+  "title": "TalentLMS",
+  "subtitle": "Move your training online with TalentLMS. A cloud-based learning platform ideal for creating online courses and shari...",
+  "tags": [
+    "channel-learning-and-readiness",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306259/catalog/talentlms/icon128x128.png",
+  "website": "https://www.talentlms.com/index"
+}

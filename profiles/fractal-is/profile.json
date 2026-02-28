@@ -1,0 +1,15 @@
+{
+  "id": "fractal-is",
+  "title": "Fractal",
+  "subtitle": "Fractal API integration",
+  "tags": [
+    "nft-marketplaces",
+    "gaming",
+    "defi"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652055332/icons/fractal-is.jpg",
+  "website": "https://www.fractal.is/"
+}

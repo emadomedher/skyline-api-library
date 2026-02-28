@@ -1,0 +1,13 @@
+{
+  "id": "and-co",
+  "title": "AND CO",
+  "subtitle": "AND CO is freelancing software that helps you run your business from proposal to payment.",
+  "tags": [
+    "proposals-&-invoices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304399/catalog/and-co/icon128x128.png",
+  "website": "https://www.and.co/"
+}

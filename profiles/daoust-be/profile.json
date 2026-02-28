@@ -1,0 +1,13 @@
+{
+  "id": "daoust-be",
+  "title": "Daoust",
+  "subtitle": "Welcome to the Family",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600433061/icons/daoust-be.jpg",
+  "website": "https://www.daoust.be/"
+}

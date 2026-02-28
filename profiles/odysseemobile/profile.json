@@ -1,0 +1,14 @@
+{
+  "id": "odysseemobile",
+  "title": "Odyssee",
+  "subtitle": "Odyssee API integration",
+  "tags": [
+    "field-service",
+    "field-mobility"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576775455/catalog/odysseemobile/icon128x128.png",
+  "website": "http://odysseemobile.com/"
+}

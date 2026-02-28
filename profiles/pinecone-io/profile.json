@@ -1,0 +1,14 @@
+{
+  "id": "pinecone-io",
+  "title": "Pinecone",
+  "subtitle": "The #1 vector database. Search through billions of items for similar matches to any object, in milliseconds. It’s the...",
+  "tags": [
+    "vector-search"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676620595/icons/pinecone-io.png",
+  "website": "https://www.pinecone.io/",
+  "docsUrl": "https://www.pinecone.io/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sentry",
+  "title": "Sentry",
+  "subtitle": "Self-hosted and cloud-based error monitoring that helps software teams discover, triage, and prioritize errors in rea...",
+  "tags": [
+    "performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439339/catalog/sentry/icon128x128.svg",
+  "website": "https://sentry.io/",
+  "docsUrl": "https://docs.sentry.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aodocs",
+  "title": "AODocs",
+  "subtitle": "A cloud content services platform designed to modernize the way you work. Sign up for a free trial to find out more.",
+  "tags": [
+    "document-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587571546/catalog/aodocs/icon128x128.jpg",
+  "website": "https://www.aodocs.com/"
+}

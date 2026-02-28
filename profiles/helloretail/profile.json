@@ -1,0 +1,14 @@
+{
+  "id": "helloretail",
+  "title": "Hello Retail",
+  "subtitle": "Our products create a unique personalized customer experience for every online merchant through intelligent AI-based ...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215706/icons/helloretail.jpg",
+  "website": "https://helloretail.com/",
+  "docsUrl": "https://helloretail.com/docs#"
+}

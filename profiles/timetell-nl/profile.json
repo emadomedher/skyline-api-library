@@ -1,0 +1,13 @@
+{
+  "id": "timetell-nl",
+  "title": "TimeTell",
+  "subtitle": "Gebruiksvriendelijke softwareoplossing voor tijdregistratie, declaratie en/of planning? Kies voor TimeTell; betrouwba...",
+  "tags": [
+    "time-registration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611339818/icons/timetell-nl.png",
+  "website": "https://www.timetell.nl/"
+}

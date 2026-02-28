@@ -1,0 +1,13 @@
+{
+  "id": "kentik",
+  "title": "Kentik",
+  "subtitle": "Kentik is the network intelligence platform for observability, performance and security. Kentik powers up network tea...",
+  "tags": [
+    "network-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613476116/icons/kentik.png",
+  "website": "https://www.kentik.com/"
+}

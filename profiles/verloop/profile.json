@@ -1,0 +1,13 @@
+{
+  "id": "verloop",
+  "title": "Verloop",
+  "subtitle": "Verloop is an AI-powered, smart conversational marketing and sales platform.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306427/catalog/verloop/icon128x128.png",
+  "website": "https://verloop.io"
+}

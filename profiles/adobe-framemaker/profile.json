@@ -1,0 +1,14 @@
+{
+  "id": "adobe-framemaker",
+  "title": "Adobe FrameMaker",
+  "subtitle": "Students and teachers are eligible for over 60% discount on Adobe Creative Cloud. Get access to Photoshop, Illustrato...",
+  "tags": [
+    "desktop-publishing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579796796/catalog/adobe-framemaker/icon128x128.png",
+  "website": "https://www.adobe.com/products/framemaker.html",
+  "docsUrl": "https://www.adobe.com/products/xml-documentation-for-experience-manager.html"
+}

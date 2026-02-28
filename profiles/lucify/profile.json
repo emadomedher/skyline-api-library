@@ -1,0 +1,13 @@
+{
+  "id": "lucify",
+  "title": "Lucify",
+  "subtitle": "Lucify helps organisations visualize, understand, and communicate important data and models.",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720920/catalog/lucify/icon128x128.jpg",
+  "website": "https://lucify.com"
+}

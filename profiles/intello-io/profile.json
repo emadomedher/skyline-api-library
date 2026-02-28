@@ -1,0 +1,13 @@
+{
+  "id": "intello-io",
+  "title": "Intello",
+  "subtitle": "Intello SaaS and Software Operations Management platform with usage, onboarding, security and compliance, and license...",
+  "tags": [
+    "saas-management-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575235223/catalog/intello-io/icon128x128.png",
+  "website": "https://www.intello.io/"
+}

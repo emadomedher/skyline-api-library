@@ -1,0 +1,13 @@
+{
+  "id": "8seconds",
+  "title": "8Seconds",
+  "subtitle": "Multivariate testing for email marketing ",
+  "tags": [
+    "optimization-personalization-and-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432680/catalog/8seconds/icon128x128.png",
+  "website": "https://8seconds.net"
+}

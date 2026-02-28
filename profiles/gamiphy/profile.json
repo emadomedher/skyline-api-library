@@ -1,0 +1,13 @@
+{
+  "id": "gamiphy",
+  "title": "Gamiphy",
+  "subtitle": "Gamiphy is a leading gamification company trusted by many brands to transform e-commerce sites with, custom games, qu...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720189/catalog/gamiphy/icon128x128.png",
+  "website": "https://gamiphy.co"
+}

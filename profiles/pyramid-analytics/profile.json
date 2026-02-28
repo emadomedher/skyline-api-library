@@ -1,0 +1,13 @@
+{
+  "id": "pyramid-analytics",
+  "title": "Pyramid Analytics",
+  "subtitle": "Pyramid Analytics API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962549/catalog/pyramid-analytics/icon128x128.png",
+  "website": "https://pyramidanalytics.com"
+}

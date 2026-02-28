@@ -1,0 +1,13 @@
+{
+  "id": "pubble",
+  "title": "Pubble",
+  "subtitle": "Live Chat with your customers. Try Pubble's real-time messaging to drive customer engagement. Free for 30 days!",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721621/catalog/pubble/icon128x128.jpg",
+  "website": "https://pubble.io"
+}

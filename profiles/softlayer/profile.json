@@ -1,0 +1,14 @@
+{
+  "id": "softlayer",
+  "title": "SoftLayer",
+  "subtitle": "SoftLayer is built to give you the highest performing cloud infrastructure available. One platform that integrates an...",
+  "tags": [
+    "cloud-providers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569663353/catalog/softlayer/icon128x128.png",
+  "website": "https://www.softlayer.com/",
+  "docsUrl": "https://www.softlayer.com/developers"
+}

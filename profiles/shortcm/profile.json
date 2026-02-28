@@ -1,0 +1,12 @@
+{
+  "id": "shortcm",
+  "title": "Short.cm",
+  "subtitle": "Short.cm is a white label link shortener, which allows you to create short links on your own domain.",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306079/catalog/shortcm/icon128x128.png"
+}

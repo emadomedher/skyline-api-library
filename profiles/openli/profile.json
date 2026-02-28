@@ -1,0 +1,14 @@
+{
+  "id": "openli",
+  "title": "Openli",
+  "subtitle": "Get control of your data processors, keep your DPAs up to date & generate your record of processing activities. Build...",
+  "tags": [
+    "data-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686735635/icons/openli.jpg",
+  "website": "https://openli.com/",
+  "docsUrl": "https://docs.openli.com/docs/documentation/legal-monster-api"
+}

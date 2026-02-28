@@ -1,0 +1,14 @@
+{
+  "id": "antwerphotelassociation-be",
+  "title": "Antwerp Hotel Association",
+  "subtitle": "We hebben als doel de hotels te vertegenwoordigen en een toegevoegde waarde te bieden aan de bestemming Antwerpen. ",
+  "tags": [
+    "portal-bookers",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448073/icons/antwerphotelassociation-be.png",
+  "website": "https://www.antwerphotelassociation.be/"
+}

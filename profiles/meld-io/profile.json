@@ -1,0 +1,14 @@
+{
+  "id": "meld-io",
+  "title": "Meld",
+  "subtitle": "Meld API integration",
+  "tags": [
+    "unified-apis",
+    "fintech"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652394989/icons/meld-io.png",
+  "website": "https://www.meld.io/"
+}

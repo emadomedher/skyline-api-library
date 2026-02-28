@@ -1,0 +1,13 @@
+{
+  "id": "cashaca-be",
+  "title": "Cashaca",
+  "subtitle": "Cashaca is een eenvoudig boekhoudpakket gericht op zelfstandigen in hoofd- en bijberoep",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583982049/catalog/cashaca-be/icon128x128.jpg",
+  "website": "https://www.cashaca.be/"
+}

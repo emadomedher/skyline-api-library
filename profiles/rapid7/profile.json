@@ -1,0 +1,14 @@
+{
+  "id": "rapid7",
+  "title": "Rapid7",
+  "subtitle": "Rapid7 powers the practice of SecOps by delivering shared visibility, analytics, and automation to unite security, IT...",
+  "tags": [
+    "application-security",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567217483/catalog/rapid7/icon128x128.jpg",
+  "website": "https://www.rapid7.com"
+}

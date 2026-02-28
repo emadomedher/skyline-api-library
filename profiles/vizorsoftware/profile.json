@@ -1,0 +1,13 @@
+{
+  "id": "vizorsoftware",
+  "title": "Vizor Software",
+  "subtitle": "The leader in enterprise supervisory solutions for Financial Supervisors and cross-border information exchange for Ta...",
+  "tags": [
+    "tax"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1572211119/catalog/vizorsoftware/icon128x128.png",
+  "website": "https://www.vizorsoftware.com/"
+}

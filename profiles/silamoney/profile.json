@@ -1,0 +1,14 @@
+{
+  "id": "silamoney",
+  "title": "Sila",
+  "subtitle": "Sila offers a complete ACH Payments, KYC & Digital Wallet API solution for developers.",
+  "tags": [
+    "ach-payments-api",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586699471/catalog/silamoney/icon128x128.jpg",
+  "website": "https://silamoney.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "inkforall",
+  "title": "INK",
+  "subtitle": "INK API integration",
+  "tags": [
+    "writing-assistants",
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588809642/catalog/inkforall/icon128x128.jpg",
+  "website": "https://inkforall.com/"
+}

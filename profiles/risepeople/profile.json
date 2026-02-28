@@ -1,0 +1,14 @@
+{
+  "id": "risepeople",
+  "title": "Rise People",
+  "subtitle": "Unify your HR, benefits, payroll, time off and more so you can focus on what really matters—your people. Canada's onl...",
+  "tags": [
+    "hr",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595242422/icons/risepeople.jpg",
+  "website": "https://risepeople.com/"
+}

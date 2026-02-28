@@ -1,0 +1,13 @@
+{
+  "id": "zynlobank",
+  "title": "ZYNLO Bank",
+  "subtitle": "ZYNLO Bank is a new kind of banking. This is mobile, high-interest banking with a spare change savings account. Think...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628455948/icons/zynlobank.jpg",
+  "website": "https://zynlobank.com/"
+}

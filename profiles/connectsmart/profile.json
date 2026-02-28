@@ -1,0 +1,13 @@
+{
+  "id": "connectsmart",
+  "title": "ConnectSMART",
+  "subtitle": "Need a better way to see your metrics? Manage your MSP business with ConnectSMART SP. This single solution makes your...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570801299/catalog/connectsmart/icon128x128.png",
+  "website": "https://www.connectsmart.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "luminoso-technologies",
+  "title": "Luminoso Technologies",
+  "subtitle": "Luminoso Technologies API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435669/catalog/luminoso-technologies/icon128x128.png",
+  "website": "https://luminoso.com"
+}

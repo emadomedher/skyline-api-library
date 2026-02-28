@@ -1,0 +1,14 @@
+{
+  "id": "hr-my",
+  "title": "MY HR",
+  "subtitle": "Free online HR, Leave Management, Time Clock & Attendance, Expense Claim, Payroll, Document Workflow system. FREE For...",
+  "tags": [
+    "employee-management",
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1657476747/icons/hr-my.png",
+  "website": "https://hr.my/"
+}

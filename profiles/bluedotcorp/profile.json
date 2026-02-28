@@ -1,0 +1,13 @@
+{
+  "id": "bluedotcorp",
+  "title": "Bluedot-Group",
+  "subtitle": "Blue dot helps you connect the dots to complete each employee’s transactional story, reaching beyond tax compliance i...",
+  "tags": [
+    "tax-compliance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222467/icons/bluedotcorp.png",
+  "website": "https://www.bluedotcorp.com/"
+}

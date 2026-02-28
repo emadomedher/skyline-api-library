@@ -1,0 +1,13 @@
+{
+  "id": "bemyeyes",
+  "title": "Be My Eyes",
+  "subtitle": "Whether you need a pair of sharp eyes or have some sight to lend, Be My Eyes is a simple, free tool to help people se...",
+  "tags": [
+    "visual-assistance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1678817262/icons/bemyeyes.png",
+  "website": "https://www.bemyeyes.com/"
+}

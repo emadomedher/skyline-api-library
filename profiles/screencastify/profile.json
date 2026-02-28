@@ -1,0 +1,13 @@
+{
+  "id": "screencastify",
+  "title": "Screencastify",
+  "subtitle": "Screencastify is the leading screen recorder for Chrome. Install the extension to record, edit, share videos, and cre...",
+  "tags": [
+    "video-creation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760574/icons/screencastify.jpg",
+  "website": "https://www.screencastify.com/"
+}

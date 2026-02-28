@@ -1,0 +1,14 @@
+{
+  "id": "razer",
+  "title": "Razer",
+  "subtitle": "Razer is the world leader in high-performance gaming hardware, software and systems. We live by our motto: For Gamers...",
+  "tags": [
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608034328/icons/razer.jpg",
+  "website": "https://www.razer.com/",
+  "docsUrl": "https://merchant.razer.com/v3/docs/"
+}

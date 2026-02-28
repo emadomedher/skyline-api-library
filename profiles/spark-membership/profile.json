@@ -1,0 +1,13 @@
+{
+  "id": "spark-membership",
+  "title": "Spark Membership",
+  "subtitle": "Spark Membership is an online CRM and marketing automation platform for Martial Arts, Kickboxing, Gyms and MMA studios.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830031/catalog/spark-membership/icon128x128.png",
+  "website": "https://sparkmembership.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "changehub-io",
+  "title": "Changehub",
+  "subtitle": "The collaborative change log",
+  "tags": [
+    "changelogs"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595961350/icons/changehub-io.png",
+  "website": "https://changehub.io/",
+  "docsUrl": "https://changehub.io/docs"
+}

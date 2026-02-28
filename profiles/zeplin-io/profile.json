@@ -1,0 +1,13 @@
+{
+  "id": "zeplin-io",
+  "title": "Zeplin",
+  "subtitle": "Connected space for product teams. Handoff designs and styleguides with accurate specs, assets, code snippets—automat...",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564833565/catalog/zeplin-io/icon128x128.png",
+  "website": "https://zeplin.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "lyon-ph",
+  "title": "Lyon",
+  "subtitle": "Create your online school with no complicated and expensive set-ups. Within minutes of making your account, create an...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627283671/icons/lyon-ph.png",
+  "website": "https://lyon.com.ph/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adaction-interactive",
+  "title": "AdAction Interactive",
+  "subtitle": "AdAction is the premier full-service mobile app marketing ad platform that delivers over 8 million monthly installs f...",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432725/catalog/adaction-interactive/icon128x128.png",
+  "website": "https://adaction.mobi"
+}

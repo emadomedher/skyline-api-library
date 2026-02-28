@@ -1,0 +1,12 @@
+{
+  "id": "google-glass",
+  "title": "Google Glass",
+  "subtitle": "Google Glass is a wearable computer with an optical head-mounted display. Google Glass displays information in a smar...",
+  "tags": [
+    "devices"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305044/catalog/google-glass/icon128x128.png"
+}

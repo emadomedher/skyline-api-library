@@ -1,0 +1,13 @@
+{
+  "id": "tradecore",
+  "title": "Tradecore",
+  "subtitle": "Broker IQ is an innovative, cloud-based solution for startup and existing brokers that helps you operate and grow you...",
+  "tags": [
+    "broker-management-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569927366/catalog/tradecore/icon128x128.png",
+  "website": "https://tradecore.com/"
+}

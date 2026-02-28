@@ -1,0 +1,13 @@
+{
+  "id": "activetrail",
+  "title": "ActiveTrail",
+  "subtitle": "Marketing Automation Platform by ActiveTrail - every Marketing Automation tool you might need in the world's leading ...",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304365/catalog/activetrail/icon128x128.png",
+  "website": "https://www.activetrail.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "getconflux",
+  "title": "Conflux",
+  "subtitle": "Prioritise, manage and track your customer feedback with Conflux.",
+  "tags": [
+    "enterprise-feedback-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570197434/catalog/getconflux/icon128x128.jpg",
+  "website": "https://getconflux.com/"
+}

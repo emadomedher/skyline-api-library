@@ -1,0 +1,13 @@
+{
+  "id": "arkadium",
+  "title": "Arkadium",
+  "subtitle": "Arkadium provides publishers & brands interactive, brand-safe content that keeps users on your site while building en...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947256/catalog/arkadium/icon128x128.jpg",
+  "website": "https://arkadium.com"
+}

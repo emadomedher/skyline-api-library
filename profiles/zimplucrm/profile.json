@@ -1,0 +1,13 @@
+{
+  "id": "zimplucrm",
+  "title": "ZimpluCRM",
+  "subtitle": "Zimplu este Solutia CRM Online usor de folosit pentru Vanzari Automate.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961860/catalog/zimplucrm/icon128x128.png",
+  "website": "https://zimplu.com"
+}

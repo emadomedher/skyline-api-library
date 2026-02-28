@@ -1,0 +1,12 @@
+{
+  "id": "egnyte",
+  "title": "Egnyte",
+  "subtitle": "Egnyte enables users to easily and securely share files on-premises and in the cloud. Egnyte’s award-winning platform...",
+  "tags": [
+    "files"
+  ],
+  "category": "Storage",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304843/catalog/egnyte/icon128x128.png"
+}

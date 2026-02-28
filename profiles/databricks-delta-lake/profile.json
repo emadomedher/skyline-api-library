@@ -1,0 +1,13 @@
+{
+  "id": "databricks-delta-lake",
+  "title": "Delta Lake",
+  "subtitle": "Delta Lake brings reliability, performance, and lifecycle management to data lakes. No more malformed data ingestion,...",
+  "tags": [
+    "data-lakes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582612013/catalog/databricks-delta-lake/icon128x128.png",
+  "website": "https://databricks.com/product/delta-lake-on-databricks"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "visma",
+  "title": "Visma",
+  "subtitle": "Visma is a leading European supplier of business-critical software to companies of all sizes, organisations and the p...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582907274/catalog/visma/icon128x128.jpg",
+  "website": "https://www.visma.com/",
+  "docsUrl": "https://developer.visma.com/"
+}

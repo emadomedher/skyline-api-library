@@ -1,0 +1,14 @@
+{
+  "id": "prepaidfinancialservices",
+  "title": "Prepaid Financial Services",
+  "subtitle": "Innovative payment solutions for businesses and consumers. Multi-award winning prepaid product provider, e-money issu...",
+  "tags": [
+    "payments",
+    "card-issuing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590770303/catalog/prepaidfinancialservices/icon128x128.jpg",
+  "website": "https://prepaidfinancialservices.com/"
+}

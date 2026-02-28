@@ -1,0 +1,13 @@
+{
+  "id": "statsilk",
+  "title": "StatSilk",
+  "subtitle": "Create interactive maps and charts using the award-winning, cross-platform StatPlanet software",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946528/catalog/statsilk/icon128x128.jpg",
+  "website": "https://statsilk.com"
+}

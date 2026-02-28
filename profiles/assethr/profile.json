@@ -1,0 +1,13 @@
+{
+  "id": "assethr",
+  "title": "Asset HR",
+  "subtitle": "We are a family-owned human capital management firm offering HR resources, training and support for organizations. As...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622762262/icons/assethr.jpg",
+  "website": "https://assethr.com/"
+}

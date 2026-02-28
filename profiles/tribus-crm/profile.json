@@ -1,0 +1,13 @@
+{
+  "id": "tribus-crm",
+  "title": "TRIBUS CRM",
+  "subtitle": "TRIBUS builds custom platforms to help Real Estate brokerages best engage with their clients, agents and staff.",
+  "tags": [
+    "real-estate",
+    "crm"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306378/catalog/tribus-crm/icon128x128.png"
+}

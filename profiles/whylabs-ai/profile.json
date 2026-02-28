@@ -1,0 +1,14 @@
+{
+  "id": "whylabs-ai",
+  "title": "WhyLabs",
+  "subtitle": "Enable MLOps with cloud-agnostic model monitoring and data monitoring via the WhyLabs AI Observability Platform. Supp...",
+  "tags": [
+    "llm-ops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686833940/icons/whylabs-ai.png",
+  "website": "https://whylabs.ai/",
+  "docsUrl": "https://docs.whylabs.ai"
+}

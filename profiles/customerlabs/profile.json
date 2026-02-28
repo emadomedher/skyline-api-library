@@ -1,0 +1,13 @@
+{
+  "id": "customerlabs",
+  "title": "CustomerLabs",
+  "subtitle": "CustomerLabs Action Recorder helps you track website without writing code and unify customer data across all marketin...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284489/catalog/customerlabs/icon128x128.jpg",
+  "website": "https://customerlabs.co"
+}

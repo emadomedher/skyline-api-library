@@ -1,0 +1,13 @@
+{
+  "id": "boombox",
+  "title": "Boombox",
+  "subtitle": "Boombox makes it easy to create attractive, mobile-compatible web sites. Simply choose a theme and start entering con...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825920/catalog/boombox/icon128x128.png",
+  "website": "https://boomboxhq.com"
+}

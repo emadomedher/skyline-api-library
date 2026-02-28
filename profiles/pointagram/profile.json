@@ -1,0 +1,12 @@
+{
+  "id": "pointagram",
+  "title": "Pointagram",
+  "subtitle": "Pointagram is a free gamification tool that helps motivate teams and individuals in any organization or private group...",
+  "tags": [
+    "dashboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305715/catalog/pointagram/icon128x128.png"
+}

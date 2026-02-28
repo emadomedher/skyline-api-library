@@ -1,0 +1,13 @@
+{
+  "id": "satismeter",
+  "title": "SatisMeter",
+  "subtitle": "SatisMeter is NPS feedback tool that helps you keep your customers happy.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305988/catalog/satismeter/icon128x128.png",
+  "website": "https://satismeter.com"
+}

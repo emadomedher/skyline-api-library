@@ -1,0 +1,13 @@
+{
+  "id": "getachoo",
+  "title": "Achoo Influencer Platform",
+  "subtitle": "Achoo is your influencer marketing platform built for effortless influencer discovery, relationship management, campa...",
+  "tags": [
+    "influencer-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588039284/catalog/getachoo/icon128x128.png",
+  "website": "https://www.getachoo.com/"
+}

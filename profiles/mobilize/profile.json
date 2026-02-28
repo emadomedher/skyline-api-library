@@ -1,0 +1,13 @@
+{
+  "id": "mobilize",
+  "title": "Mobilize",
+  "subtitle": "Mobilize is a modern membership community platform for membership-based organizations that's purpose-built for engagi...",
+  "tags": [
+    "community-&-reviews"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721151/catalog/mobilize/icon128x128.jpg",
+  "website": "https://mobilize.io"
+}

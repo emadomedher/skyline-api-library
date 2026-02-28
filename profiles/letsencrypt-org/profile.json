@@ -1,0 +1,14 @@
+{
+  "id": "letsencrypt-org",
+  "title": "Let's Encrypt",
+  "subtitle": "  Let&rsquo;s&nbsp;Encrypt is a free, automated, and open certificate\n  authority brought to you by the non-profit <a...",
+  "tags": [
+    "ssl-certificates"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569659393/catalog/letsencrypt-org/icon128x128.jpg",
+  "website": "https://letsencrypt.org/",
+  "docsUrl": "https://letsencrypt.org/docs"
+}

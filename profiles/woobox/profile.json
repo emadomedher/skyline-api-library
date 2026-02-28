@@ -1,0 +1,13 @@
+{
+  "id": "woobox",
+  "title": "Woobox",
+  "subtitle": "Woobox is a page builder to create forms, hashtag contests, giveaways, polls, coupons, & quizzes for leads, email sig...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306606/catalog/woobox/icon128x128.png",
+  "website": "https://woobox.com"
+}

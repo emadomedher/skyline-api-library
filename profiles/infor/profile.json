@@ -1,0 +1,13 @@
+{
+  "id": "infor",
+  "title": "Infor",
+  "subtitle": "Infor is a global software company that builds SMB and Enterprise ERP software cloud products for industries includin...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435118/catalog/infor/icon128x128.png",
+  "website": "https://infor.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "moonpay-io",
+  "title": "MoonPay",
+  "subtitle": "MoonPay is the new standard for fiat to crypto. We are a marketplace between crypto exchanges and users, facilitating...",
+  "tags": [
+    "crypto-exchanges",
+    "credit-cards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602009494/icons/moonpay-io.png",
+  "website": "https://www.moonpay.io/"
+}

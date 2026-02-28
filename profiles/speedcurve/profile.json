@@ -1,0 +1,14 @@
+{
+  "id": "speedcurve",
+  "title": "SpeedCurve",
+  "subtitle": "Monitor the front-end performance and build of your website. Compare yourself to others and beat the competition. Sta...",
+  "tags": [
+    "real-user-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1624549750/icons/speedcurve.jpg",
+  "website": "https://speedcurve.com/",
+  "docsUrl": "https://docs.intercom.com/pricing-privacy-and-terms/data-protection/how-intercom-complies-with-gdpr"
+}

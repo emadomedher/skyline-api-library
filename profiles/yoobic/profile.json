@@ -1,0 +1,14 @@
+{
+  "id": "yoobic",
+  "title": "YOOBIC",
+  "subtitle": "Optimize all aspects of your physical locations, from operations to employee effectiveness, to deliver the most irres...",
+  "tags": [
+    "customer-experience",
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582062002/catalog/yoobic/icon128x128.jpg",
+  "website": "https://yoobic.com/"
+}

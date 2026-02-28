@@ -1,0 +1,13 @@
+{
+  "id": "oneadvanced",
+  "title": "Advanced",
+  "subtitle": "At Advanced, we pride ourselves on supporting millions of people across the UK by delivering exceptional enterprise a...",
+  "tags": [
+    "amazon-web-services-channel-partners"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634051165/icons/oneadvanced.jpg",
+  "website": "https://www.oneadvanced.com/"
+}

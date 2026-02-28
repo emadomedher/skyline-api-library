@@ -1,0 +1,14 @@
+{
+  "id": "nachonacho",
+  "title": "NachoNacho",
+  "subtitle": "The latest and greatest software tools that help you and your team do amazing things better, together.",
+  "tags": [
+    "saas-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649664844/icons/nachonacho.jpg",
+  "website": "https://nachonacho.com/",
+  "docsUrl": "https://nachonacho.com/product/aws"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "abnamro-grip",
+  "title": "Grip app",
+  "subtitle": "Grip zet al uw inkomsten en uitgaven automatisch in handige categorieën. Zo houdt u grip op uw geld. Lees meer over d...",
+  "tags": [
+    "fintech",
+    "mobile",
+    "pfm"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567037733/catalog/abnamro-grip/icon128x128.webp",
+  "website": "https://www.abnamro.nl/nl/prive/internet-en-mobiel/apps/grip/index.html"
+}

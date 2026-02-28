@@ -1,0 +1,14 @@
+{
+  "id": "persistent",
+  "title": "Persistent Systems",
+  "subtitle": "Persistent Systems builds automation softwares that drives the businesses of our customers. We provide digital soluti...",
+  "tags": [
+    "technology-services",
+    "consultancy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590286205/catalog/persistent/icon128x128.png",
+  "website": "https://www.persistent.com/"
+}

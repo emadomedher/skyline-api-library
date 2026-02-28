@@ -1,0 +1,15 @@
+{
+  "id": "cubicl-io",
+  "title": "Cubicl",
+  "subtitle": "Task and project management, team collaboration, CRM. All in one platform thanks to Cubicl Task Management App. Best ...",
+  "tags": [
+    "task-management",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652666959/icons/cubicl-io.jpg",
+  "website": "https://cubicl.io/",
+  "docsUrl": "https://docs.google.com/presentation/d/1fez8sgrkr4h3qovydgldwosow1q_xrdlbzlpvsep3vy/edit?usp=sharing"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "helpsiteio",
+  "title": "HelpSite.io",
+  "subtitle": "HelpSite is easy-to-use hosted knowledge base software for creating an awesome support & FAQ site for your business. ...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775169/catalog/helpsiteio/icon128x128.jpg",
+  "website": "https://HelpSite.io"
+}

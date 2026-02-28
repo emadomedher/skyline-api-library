@@ -1,0 +1,14 @@
+{
+  "id": "federalbank-in",
+  "title": "Federal Bank",
+  "subtitle": "Federal Bank is a pioneer in the banking sector in India by being the first bank to digitalize all its branches in th...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621695217/icons/federalbank-in.jpg",
+  "website": "https://www.federalbank.co.in/",
+  "docsUrl": "https://developer.federalbank.co.in/fedbnkdev/dev/"
+}

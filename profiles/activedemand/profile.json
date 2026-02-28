@@ -1,0 +1,13 @@
+{
+  "id": "activedemand",
+  "title": "ActiveDEMAND",
+  "subtitle": "The essential agency marketing automation tool for growing businesses. You have an awesome business but no marketing ...",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304350/catalog/activedemand/icon128x128.png",
+  "website": "https://www.activedemand.com/"
+}

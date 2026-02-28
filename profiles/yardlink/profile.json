@@ -1,0 +1,13 @@
+{
+  "id": "yardlink",
+  "title": "YardLink",
+  "subtitle": "Hire tool & plant equipment on YardLink. With our online booking process and upfront pricing, plant hire couldn't be ...",
+  "tags": [
+    "construction-rental"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746571/icons/yardlink.jpg",
+  "website": "https://yardlink.com/"
+}

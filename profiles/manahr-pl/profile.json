@@ -1,0 +1,13 @@
+{
+  "id": "manahr-pl",
+  "title": "manaHR",
+  "subtitle": "Raporty Płacowe, systemy wynagradzania, wskaźniki HR, analizy specjalne, doradztwo. Raporty regionalne, branżowe, ben...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645810135/icons/manahr-pl.png",
+  "website": "https://www.manahr.pl/en/"
+}

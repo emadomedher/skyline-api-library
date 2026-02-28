@@ -1,0 +1,14 @@
+{
+  "id": "glean",
+  "title": "Glean",
+  "subtitle": "Glean is the work assistant and enterprise search solution for today’s teams. Search across all your company's apps t...",
+  "tags": [
+    "knowledge-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676341204/icons/glean.jpg",
+  "website": "https://www.glean.com/",
+  "docsUrl": "https://www.glean.com/connectors/pagerduty"
+}

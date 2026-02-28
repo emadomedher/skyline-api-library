@@ -1,0 +1,14 @@
+{
+  "id": "tribyl",
+  "title": "Tribyl",
+  "subtitle": "CRMs keep track of wins and losses. Tribyl is a Customer Journey Platform that uses A.I. to capture ‘tribal knowledge...",
+  "tags": [
+    "sales-productivity",
+    "customer-journeys"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574213563/catalog/tribyl/icon128x128.png",
+  "website": "https://www.tribyl.com/"
+}

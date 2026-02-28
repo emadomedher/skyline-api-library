@@ -1,0 +1,14 @@
+{
+  "id": "klipfolio",
+  "title": "Klipfolio",
+  "subtitle": "Klipfolio makes it easy and affordable to build and share real-time dashboards. We connect to 400+ data sources and h...",
+  "tags": [
+    "dashboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305253/catalog/klipfolio/icon128x128.png",
+  "website": "https://klipfolio.com",
+  "docsUrl": "https://apidocs.klipfolio.com/reference/getting-started"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "apartments-com",
+  "title": "Apartments.com",
+  "subtitle": "Find apartments, homes and condos for rent in your area. Compare up to date rates and availability, HD videos, high r...",
+  "tags": [
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1652943022/icons/apartments-com.jpg",
+  "website": "https://www.apartments.com/"
+}

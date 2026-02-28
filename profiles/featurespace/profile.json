@@ -1,0 +1,15 @@
+{
+  "id": "featurespace",
+  "title": "Featurespace",
+  "subtitle": "World's leading provider of Adaptive Behavioural Analytics technology",
+  "tags": [
+    "fraud-management",
+    "risk-management",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567118040/catalog/featurespace/icon128x128.jpg",
+  "website": "https://www.featurespace.com/"
+}

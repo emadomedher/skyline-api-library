@@ -1,0 +1,14 @@
+{
+  "id": "dashdash",
+  "title": "dashdash",
+  "subtitle": "dashdash is the spreadsheet that does more. Much more. Find companies and people. Send email and Slack alerts. Automa...",
+  "tags": [
+    "low-code",
+    "spreadsheets"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566555746/catalog/dashdash/icon128x128.jpg",
+  "website": "https://dashdash.com/"
+}

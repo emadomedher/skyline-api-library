@@ -1,0 +1,13 @@
+{
+  "id": "pathwayport",
+  "title": "Pathway Automated Insurance Communication",
+  "subtitle": "Helping small and mid-size insurance brokers increase revenue and grow their customer base using the power of automat...",
+  "tags": [
+    "insurance"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1580226693/catalog/pathwayport/icon128x128.png",
+  "website": "https://www.pathwayport.com/"
+}

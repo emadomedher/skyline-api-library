@@ -1,0 +1,14 @@
+{
+  "id": "agility",
+  "title": "Agility CMS",
+  "subtitle": "Agility CMS is the only all-in-one Headless CMS with Page Management and Ecommerce built-in.",
+  "tags": [
+    "cms-and-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825740/catalog/agility/icon128x128.jpg",
+  "website": "https://agilitycms.com",
+  "docsUrl": "https://agilitycms.com/product/for-developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "shoppinggives",
+  "title": "ShoppingGives",
+  "subtitle": "Charitable giving is made easy on ShoppingGives! Shop at your favorite store and raise money for the charity of your ...",
+  "tags": [
+    "ecommerce",
+    "social-impact"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619145268/icons/shoppinggives.jpg",
+  "website": "https://shoppinggives.com/"
+}

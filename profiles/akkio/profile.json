@@ -1,0 +1,15 @@
+{
+  "id": "akkio",
+  "title": "Akkio",
+  "subtitle": "Use your data to predict the future. Akkio is an easy-to-use, scalable, and affordable no-code AI platform for real-t...",
+  "tags": [
+    "machine-learning",
+    "predictive-analytics"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672640282/icons/akkio.jpg",
+  "website": "https://www.akkio.com/",
+  "docsUrl": "https://docs.akkio.com"
+}

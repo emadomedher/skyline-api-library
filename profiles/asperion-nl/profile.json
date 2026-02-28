@@ -1,0 +1,13 @@
+{
+  "id": "asperion-nl",
+  "title": "Asperion",
+  "subtitle": "Online Boekhouden met Asperion. Ontdek de voordelen van online boekhouden en probeer 30 dagen gratis. Werk online in ...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569370662/catalog/asperion-nl/icon128x128.png",
+  "website": "https://www.asperion.nl/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rakuten",
+  "title": "Rakuten",
+  "subtitle": "Rakuten’s Americas Regional headquarters in Silicon Valley, US, one of the word’s leading internet services companies...",
+  "tags": [
+    "search-&-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436801/catalog/rakuten/icon128x128.png",
+  "website": "https://rakuten.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "kynection-au",
+  "title": "Kynection",
+  "subtitle": "Our team of technology consultants and developers have been responsible for many breakthroughs in the transport and w...",
+  "tags": [
+    "transport",
+    "workplace-mobility"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630350453/icons/kynection-au.png",
+  "website": "https://www.kynection.com.au/"
+}

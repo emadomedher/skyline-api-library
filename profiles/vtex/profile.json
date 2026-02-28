@@ -1,0 +1,14 @@
+{
+  "id": "vtex",
+  "title": "VTEX",
+  "subtitle": "VTEX API integration",
+  "tags": [
+    "ecommerce-platforms-and-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438370/catalog/vtex/icon128x128.png",
+  "website": "https://vtex.com",
+  "docsUrl": "https://help.vtex.com/developer-docs"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rcteambuilder",
+  "title": "RC teambuilder",
+  "subtitle": "RC teambuilder, AI based Talent Management, to recruit, onboard, manage, and develop the skills of your workforce.",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421350/icons/rcteambuilder.png",
+  "website": "https://rcteambuilder.com/"
+}

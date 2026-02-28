@@ -1,0 +1,13 @@
+{
+  "id": "please",
+  "title": "Please",
+  "subtitle": "Please API integration",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963359/catalog/please/icon128x128.png",
+  "website": "https://pleasenetworks.com"
+}

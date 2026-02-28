@@ -1,0 +1,13 @@
+{
+  "id": "gocanvas",
+  "title": "GoCanvas",
+  "subtitle": "Built just for your business, GoCanvas has thousands of mobile form apps to help you save time and money on data coll...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305025/catalog/gocanvas/icon128x128.png",
+  "website": "https://www.gocanvas.com/"
+}

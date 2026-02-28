@@ -1,0 +1,15 @@
+{
+  "id": "charisma-ai",
+  "title": "Charisma",
+  "subtitle": "charisma.ai is a storytelling platform that is creating the next generation of interactive stories for any platform -...",
+  "tags": [
+    "interactive-stories",
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613277207/icons/charisma-ai.jpg",
+  "website": "https://charisma.ai/",
+  "docsUrl": "https://charisma.ai/docs"
+}

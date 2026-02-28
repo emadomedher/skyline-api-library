@@ -1,0 +1,15 @@
+{
+  "id": "taloflow-ai",
+  "title": "Taloflow",
+  "subtitle": "Taloflow analyzes data about your cloud architecture and business requirements to match you with the cloud tooling th...",
+  "tags": [
+    "vendor-selection",
+    "cloud-cost-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1613081052/icons/taloflow-ai.jpg",
+  "website": "https://www.taloflow.ai/",
+  "docsUrl": "https://docs.taloflow.ai"
+}

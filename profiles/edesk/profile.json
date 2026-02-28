@@ -1,0 +1,14 @@
+{
+  "id": "edesk",
+  "title": "eDesk",
+  "subtitle": "eDesk's ecommerce customer service software combines all your customer interactions and order data into easy to manag...",
+  "tags": [
+    "ecommerce-customer-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1629251040/icons/edesk.jpg",
+  "website": "https://www.edesk.com/",
+  "docsUrl": "https://developers.edesk.com/reference"
+}

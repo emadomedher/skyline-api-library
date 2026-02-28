@@ -1,0 +1,15 @@
+{
+  "id": "groww-in",
+  "title": "Groww",
+  "subtitle": "Start Online Investing in Stocks and Direct Mutual Funds with India's Leading Investment and Trading Platform - Groww...",
+  "tags": [
+    "investing",
+    "fntech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599751830/icons/groww-in.jpg",
+  "website": "https://groww.in/",
+  "docsUrl": "https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes"
+}

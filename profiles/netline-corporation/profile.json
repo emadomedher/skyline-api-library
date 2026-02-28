@@ -1,0 +1,13 @@
+{
+  "id": "netline-corporation",
+  "title": "Netline Corporation",
+  "subtitle": "Netline Corporation API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963517/catalog/netline-corporation/icon128x128.png",
+  "website": "https://NetLine.com"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "popcorn",
+  "title": "Popcorn",
+  "subtitle": "Lets face it, when you are sending Email Marketing you do it for one reason - to Drive Sales! Helping you Convert you...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436549/catalog/popcorn/icon128x128.png",
+  "website": "https://popcorn.email"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "commbox-io",
+  "title": "CommBox",
+  "subtitle": "CommBox (Formerly BumpYard) is an all-in-one customer support & messaging platform. CommBox designed to create an eff...",
+  "tags": [
+    "customer-support",
+    "messaging"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606142365/icons/commbox-io.jpg",
+  "website": "https://www.commbox.io/",
+  "docsUrl": "https://www.commbox.io/developer-center"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "simpleanalytics",
+  "title": "Simple Analytics",
+  "subtitle": "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface,...",
+  "tags": [
+    "analytics",
+    "privacy"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567061451/catalog/simpleanalytics/icon128x128.png",
+  "website": "https://simpleanalytics.com",
+  "docsUrl": "https://docs.simpleanalytics.com/"
+}

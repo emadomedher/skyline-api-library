@@ -1,0 +1,13 @@
+{
+  "id": "closeriq",
+  "title": "CloserIQ",
+  "subtitle": "CloserIQ connects top talent to amazing startups. We help innovative companies in NYC, Boston, and SF recruit top sal...",
+  "tags": [
+    "recruitment-agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793922/icons/closeriq.png",
+  "website": "https://www.closeriq.com/"
+}

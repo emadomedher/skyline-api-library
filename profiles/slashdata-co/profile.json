@@ -1,0 +1,15 @@
+{
+  "id": "slashdata-co",
+  "title": "SlashData",
+  "subtitle": "SlashData is the leading analyst firm in the developer economy, tracking global software developer trends via the lar...",
+  "tags": [
+    "developer-community-data",
+    "analysts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793914/icons/slashdata-co.jpg",
+  "website": "https://www.slashdata.co/",
+  "docsUrl": "https://www.slashdata.co/developer-research"
+}

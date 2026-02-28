@@ -1,0 +1,14 @@
+{
+  "id": "basistheory",
+  "title": "Basis Theory",
+  "subtitle": "The tokenization API to build secure and compliant applications in minutes.",
+  "tags": [
+    "tokenization-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630252653/icons/basistheory.png",
+  "website": "https://basistheory.com/",
+  "docsUrl": "https://docs.basistheory.com"
+}

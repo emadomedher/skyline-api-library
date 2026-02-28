@@ -1,0 +1,14 @@
+{
+  "id": "bionic-uk",
+  "title": "Bionic",
+  "subtitle": "Be a Bionic business.Our tech-enabled experts will help you find the right deals on your business essentials - energy...",
+  "tags": [
+    "bill-switching",
+    "energy-switching"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592321649/icons/bionic-uk.jpg",
+  "website": "https://bionic.co.uk/"
+}

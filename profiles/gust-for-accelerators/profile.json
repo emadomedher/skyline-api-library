@@ -1,0 +1,12 @@
+{
+  "id": "gust-for-accelerators",
+  "title": "Gust",
+  "subtitle": "Gust is the world’s largest network connecting the early stage ecosystem, with tools for founders, accelerators, and ...",
+  "tags": [
+    "dashboards"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305085/catalog/gust-for-accelerators/icon128x128.png"
+}

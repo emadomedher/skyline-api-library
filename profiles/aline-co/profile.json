@@ -1,0 +1,13 @@
+{
+  "id": "aline-co",
+  "title": "Aline",
+  "subtitle": "A tool for modern organizations to digitally transform their contract processes.",
+  "tags": [
+    "contract-lifecycle-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1684211514/icons/aline-co.jpg",
+  "website": "https://www.aline.co/"
+}

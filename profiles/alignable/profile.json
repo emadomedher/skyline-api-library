@@ -1,0 +1,14 @@
+{
+  "id": "alignable",
+  "title": "Alignable",
+  "subtitle": "Alignable is where small business owners build trusted relationships and generate referrals. Join for free and increa...",
+  "tags": [
+    "referral-networks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639600149/icons/alignable.jpg",
+  "website": "https://www.alignable.com/",
+  "docsUrl": "https://www.alignable.com/forum/what-should-i-look-for-when-hiring-a-web-designer-developer"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "perplexity-ai",
+  "title": "Perplexity",
+  "subtitle": "Perplexity Ask is powered by large language models (OpenAI API) and search engines. Accuracy is limited by search res...",
+  "tags": [
+    "search-engines"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1672879312/icons/perplexity-ai.jpg",
+  "website": "https://www.perplexity.ai/"
+}

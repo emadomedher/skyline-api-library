@@ -1,0 +1,14 @@
+{
+  "id": "zapier-delay",
+  "title": "Delay by Zapier",
+  "subtitle": "Put your Actions on hold for a specified amount of time before sending data to another app. You can set up scheduled ...",
+  "tags": [
+    "zapier-tools",
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1546809800/catalog/zapier-delay/icon128x128.png",
+  "website": "https://zapier.com/"
+}

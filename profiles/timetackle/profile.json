@@ -1,0 +1,13 @@
+{
+  "id": "timetackle",
+  "title": "Tackle",
+  "subtitle": "export google calendar to excel and discover the new way of getting insight from your calendar data. Maximize your wo...",
+  "tags": [
+    "calendar-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659049674/icons/timetackle.png",
+  "website": "https://www.timetackle.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "inbenta-chatbots",
+  "title": "Inbenta Chatbots",
+  "subtitle": "Inbenta is a global leader in AI and NLU for Enterprise Search, Ecommerce Search, Chatbots, Support Ticketing, and Kn...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720442/catalog/inbenta-chatbots/icon128x128.jpg",
+  "website": "https://inbenta.com"
+}

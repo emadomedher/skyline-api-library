@@ -1,0 +1,13 @@
+{
+  "id": "clearfind",
+  "title": "Clearfind",
+  "subtitle": "Clearfind is the only product that analyzes millions of data points on the software you've bought to help you optimiz...",
+  "tags": [
+    "saas-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605187019/icons/clearfind.png",
+  "website": "https://home.clearfind.com/"
+}

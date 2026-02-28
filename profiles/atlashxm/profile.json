@@ -1,0 +1,13 @@
+{
+  "id": "atlashxm",
+  "title": "Atlas",
+  "subtitle": "The Atlas HXM platform and our global EOR experts can help you expand, onboard, manage, and pay remote teams with ful...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663082131/icons/atlashxm.jpg",
+  "website": "https://www.atlashxm.com/"
+}

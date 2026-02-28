@@ -1,0 +1,13 @@
+{
+  "id": "proposable",
+  "title": "Proposable",
+  "subtitle": "Are you in need of proposal software to make your sales process more efficient? Proposable has you covered.",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827272/catalog/proposable/icon128x128.jpg",
+  "website": "https://proposable.com"
+}

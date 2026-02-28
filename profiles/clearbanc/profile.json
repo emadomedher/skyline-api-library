@@ -1,0 +1,14 @@
+{
+  "id": "clearbanc",
+  "title": "Clearbanc",
+  "subtitle": "Clearbanc is the fastest, most affordable way for founders to fund their business.",
+  "tags": [
+    "lending",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586892878/catalog/clearbanc/icon128x128.jpg",
+  "website": "https://clearbanc.com/"
+}

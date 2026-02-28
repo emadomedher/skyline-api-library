@@ -1,0 +1,15 @@
+{
+  "id": "iconomi",
+  "title": "ICONOMI",
+  "subtitle": "The ICONOMI platform makes it easy to buy & sell leading cryptocurrencies such as bitcoin, ethereum, and others. You ...",
+  "tags": [
+    "crypto-investing",
+    "fund-management-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590770312/catalog/iconomi/icon128x128.jpg",
+  "website": "https://www.iconomi.com/",
+  "docsUrl": "https://www.iconomi.com/api-docs"
+}

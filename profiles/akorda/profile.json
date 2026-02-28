@@ -1,0 +1,13 @@
+{
+  "id": "akorda",
+  "title": "Akorda",
+  "subtitle": "Akorda accelerates the contracting process by providing automated analysis, streamlined workflows and standardized co...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268437/icons/akorda.jpg",
+  "website": "https://akorda.com"
+}

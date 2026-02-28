@@ -1,0 +1,13 @@
+{
+  "id": "balancepointhcm",
+  "title": "Balance Point",
+  "subtitle": "Human Capital Management",
+  "tags": [
+    "hcm"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622762261/icons/balancepointhcm.jpg",
+  "website": "https://balancepointhcm.com/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mashapp",
+  "title": "MashApp",
+  "subtitle": "MashApp allows you to automatically track your marketing campaigns and sales results in a calendar.",
+  "tags": [
+    "calendar"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056032/catalog/mashapp/icon128x128.png"
+}

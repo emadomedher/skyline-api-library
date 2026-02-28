@@ -1,0 +1,14 @@
+{
+  "id": "bancontactpayconiq",
+  "title": "Bancontact Payconiq Company",
+  "subtitle": "Quick, efficient and safe payment solutions for private and professional use: that’s what Bancontact Payconiq Company...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566907126/catalog/bancontactpayconiq/icon128x128.png",
+  "website": "https://www.bancontactpayconiq.com",
+  "docsUrl": "https://www.bancontactpayconiq.com/en#"
+}

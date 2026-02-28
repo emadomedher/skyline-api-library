@@ -1,0 +1,14 @@
+{
+  "id": "searchnode",
+  "title": "SearchNode",
+  "subtitle": "SearchNode is the ultimate search solution for medium-big eCommerce companies, who want to optimize their site search...",
+  "tags": [
+    "search",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612019579/icons/searchnode.png",
+  "website": "https://searchnode.com/"
+}

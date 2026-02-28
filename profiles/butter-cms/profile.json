@@ -1,0 +1,13 @@
+{
+  "id": "butter-cms",
+  "title": "Butter CMS",
+  "subtitle": "Add a blog or CMS to your website in minutes. ButterCMS is a headless CMS and blogging platform built for developers.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825974/catalog/butter-cms/icon128x128.jpg",
+  "website": "https://buttercms.com"
+}

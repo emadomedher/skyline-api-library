@@ -1,0 +1,15 @@
+{
+  "id": "salesproof-co",
+  "title": "Salesproof",
+  "subtitle": "Close more deals and reduce sales cycles by creating amazing customer stories",
+  "tags": [
+    "sales",
+    "video",
+    "knowledge-bases"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578476213/catalog/salesproof-co/icon128x128.png",
+  "website": "https://salesproof.co/"
+}

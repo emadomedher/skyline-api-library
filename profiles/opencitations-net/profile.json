@@ -1,0 +1,15 @@
+{
+  "id": "opencitations-net",
+  "title": "OpenCitations",
+  "subtitle": "OpenCitations API integration",
+  "tags": [
+    "open-data",
+    "citation-data"
+  ],
+  "category": "Open Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628557317/icons/opencitations-net.jpg",
+  "website": "https://opencitations.net/",
+  "docsUrl": "https://opencitations.net/index/coci/api/v1#description"
+}

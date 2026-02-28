@@ -1,0 +1,13 @@
+{
+  "id": "ally-hub",
+  "title": "Ally Hub",
+  "subtitle": "Sellead is a tool that simplifies the administration process of companies dealing with international travel education...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829014/catalog/ally-hub/icon128x128.png",
+  "website": "https://ally-hub.com"
+}

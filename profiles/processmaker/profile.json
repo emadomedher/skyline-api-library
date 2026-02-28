@@ -1,0 +1,13 @@
+{
+  "id": "processmaker",
+  "title": "ProcessMaker",
+  "subtitle": "ProcessMaker is an easy to use BPM and workflow software solution. It is used to design, automate, and deploy busines...",
+  "tags": [
+    "projects-&-workflow"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721588/catalog/processmaker/icon128x128.jpg",
+  "website": "https://processmaker.com"
+}

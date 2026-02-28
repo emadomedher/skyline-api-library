@@ -1,0 +1,14 @@
+{
+  "id": "teamworkcom",
+  "title": "Teamwork",
+  "subtitle": "Teamwork creates tools which, when used together, make teams efficient, organized and happy. Learn more about Teamwor...",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946490/catalog/teamworkcom/icon128x128.png",
+  "website": "https://teamwork.com",
+  "docsUrl": "https://developer.teamwork.com"
+}

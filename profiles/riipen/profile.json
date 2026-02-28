@@ -1,0 +1,14 @@
+{
+  "id": "riipen",
+  "title": "Riipen",
+  "subtitle": "Connecting students, companies and educators through meaningful project-based learning",
+  "tags": [
+    "education",
+    "students"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569285749/catalog/riipen/icon128x128.jpg",
+  "website": "https://riipen.com/"
+}

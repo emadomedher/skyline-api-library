@@ -1,0 +1,13 @@
+{
+  "id": "usetiful",
+  "title": "Usetiful",
+  "subtitle": "Usetiful’s Digital Adoption Platform enhances your digital product with product tours, smart tips, or notifications.",
+  "tags": [
+    "user-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1588622055/catalog/usetiful/icon128x128.png",
+  "website": "https://www.usetiful.com/"
+}

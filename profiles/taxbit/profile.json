@@ -1,0 +1,13 @@
+{
+  "id": "taxbit",
+  "title": "TaxBit",
+  "subtitle": "Free crypto tax forms for individuals. Form 1099 solutions for institutions. The first-ever Big Four-grade ERP soluti...",
+  "tags": [
+    "crypto-accounting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1660740230/icons/taxbit.png",
+  "website": "https://taxbit.com/"
+}

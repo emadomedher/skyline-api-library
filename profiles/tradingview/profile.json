@@ -1,0 +1,14 @@
+{
+  "id": "tradingview",
+  "title": "TradingView",
+  "subtitle": "Live quotes, stock charts and expert trading ideas. TradingView is a social network for traders and investors on Stoc...",
+  "tags": [
+    "stock-trading"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589496315/catalog/tradingview/icon128x128.png",
+  "website": "https://www.tradingview.com/",
+  "docsUrl": "https://www.tradingview.com/pine-script-docs/en/v4/Introduction.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "metric-insights",
+  "title": "Metric Insights",
+  "subtitle": "Metric Insights API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435857/catalog/metric-insights/icon128x128.png",
+  "website": "https://metricinsights.com"
+}

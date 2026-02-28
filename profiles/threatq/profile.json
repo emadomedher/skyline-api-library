@@ -1,0 +1,13 @@
+{
+  "id": "threatq",
+  "title": "ThreatQuotient",
+  "subtitle": "ThreatQuotient is the only threat intelligence platform designed to accelerate security operations through context, p...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075862/icons/threatq.png",
+  "website": "https://www.threatq.com/"
+}

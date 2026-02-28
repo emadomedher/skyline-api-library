@@ -1,0 +1,15 @@
+{
+  "id": "openerp",
+  "title": "OpenERP",
+  "subtitle": "OpenERP is an open source suite of enterprise apps that work together, letting you manage your CRM, eCommerce, Conten...",
+  "tags": [
+    "e-commerce",
+    "crm",
+    "accounting"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305594/catalog/openerp/icon128x128.png",
+  "website": "https://www.odoo.com/page/download"
+}

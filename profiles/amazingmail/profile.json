@@ -1,0 +1,13 @@
+{
+  "id": "amazingmail",
+  "title": "AmazingMail",
+  "subtitle": "AmazingMail API integration",
+  "tags": [
+    "print"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964336/catalog/amazingmail/icon128x128.png",
+  "website": "https://AmazingMail.com"
+}

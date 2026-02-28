@@ -1,0 +1,13 @@
+{
+  "id": "rows",
+  "title": "Rows",
+  "subtitle": "Combine the power of a spreadsheet with built-in integrations from your business apps. Automate workflows and build t...",
+  "tags": [
+    "spreadsheets"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611339822/icons/rows.jpg",
+  "website": "https://rows.com/"
+}

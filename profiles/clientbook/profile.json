@@ -1,0 +1,13 @@
+{
+  "id": "clientbook",
+  "title": "Clientbook",
+  "subtitle": "Mobile client management solution built specifically for the unique challenges and experiences of retail.",
+  "tags": [
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1655078895/icons/clientbook.jpg",
+  "website": "https://www.clientbook.com/"
+}

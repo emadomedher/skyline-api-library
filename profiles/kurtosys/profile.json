@@ -1,0 +1,13 @@
+{
+  "id": "kurtosys",
+  "title": "Kurtosys",
+  "subtitle": "A unique, secure platform to manage all of your financial data, documents, websites and content. Trusted by the world...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826759/catalog/kurtosys/icon128x128.png",
+  "website": "https://kurtosys.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "swagger-ui",
+  "title": "Swagger UI",
+  "subtitle": "The Swagger framework is supported by a set of core tools for designing, building, and documenting RESTful APIs. All ...",
+  "tags": [
+    "open-source",
+    "api",
+    "api-documentation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1568494907/catalog/swagger-ui/icon128x128.jpg",
+  "website": "https://swagger.io/tools/swagger-ui/",
+  "docsUrl": "https://swagger.io/docs"
+}

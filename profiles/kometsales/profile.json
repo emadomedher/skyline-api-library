@@ -1,0 +1,14 @@
+{
+  "id": "kometsales",
+  "title": "Komet Sales",
+  "subtitle": "Komet is a web-based solution designed for the floral industry that gives you the necessary tools to automate procure...",
+  "tags": [
+    "florist"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674766865/icons/kometsales.jpg",
+  "website": "https://www.kometsales.com/",
+  "docsUrl": "https://kometsales.atlassian.net/wiki/spaces/apidocs/overview"
+}

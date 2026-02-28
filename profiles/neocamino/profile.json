@@ -1,0 +1,14 @@
+{
+  "id": "neocamino",
+  "title": "neocamino",
+  "subtitle": "1200+ entreprises accompagnées depuis 2012. Nous mettons le numérique au cœur du développement des TPE et PME. Faites...",
+  "tags": [
+    "agencies"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599064700/icons/neocamino.png",
+  "website": "https://www.neocamino.com/",
+  "docsUrl": "https://www.neocamino.com/referencement-naturel"
+}

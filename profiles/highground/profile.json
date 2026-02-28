@@ -1,0 +1,13 @@
+{
+  "id": "highground",
+  "title": "HighGround",
+  "subtitle": "Kazoo is an HR software solution combining employee engagement, performance management, recognition and rewards, empl...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946946/catalog/highground/icon128x128.png",
+  "website": "https://highground.com"
+}

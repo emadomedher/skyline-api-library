@@ -1,0 +1,13 @@
+{
+  "id": "advisorengine",
+  "title": "AdvisorEngine",
+  "subtitle": "AdvisorEngine offers one integrated platform built on Robo Advisor technology to manage your firm",
+  "tags": [
+    "wealth-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589208749/catalog/advisorengine/icon128x128.jpg",
+  "website": "https://www.advisorengine.com/"
+}

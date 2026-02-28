@@ -1,0 +1,14 @@
+{
+  "id": "swile-co",
+  "title": "Swile",
+  "subtitle": "Swile, c’est une carte titres-resto simple, flexible et moderne associée à une application entièrement dédiée à la vi...",
+  "tags": [
+    "employee-benefits",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593006389/icons/swile-co.jpg",
+  "website": "https://www.swile.co/"
+}

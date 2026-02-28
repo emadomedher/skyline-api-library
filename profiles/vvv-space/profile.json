@@ -1,0 +1,13 @@
+{
+  "id": "vvv-space",
+  "title": "VSpace",
+  "subtitle": "With VSpace you can create desktop-like spaces with important and useful links so you and your teammates don’t waste ...",
+  "tags": [
+    "productivity"
+  ],
+  "category": "Productivity",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595706285/icons/vvv-space.jpg",
+  "website": "https://vvv.space/"
+}

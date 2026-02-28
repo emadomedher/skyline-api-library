@@ -1,0 +1,14 @@
+{
+  "id": "magna-so",
+  "title": "Magna",
+  "subtitle": "Magna API integration",
+  "tags": [
+    "compensation-management",
+    "token-distribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663543887/icons/magna-so.png",
+  "website": "https://www.magna.so/"
+}

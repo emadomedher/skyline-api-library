@@ -1,0 +1,13 @@
+{
+  "id": "taprecruit-co",
+  "title": "TapRecruit",
+  "subtitle": "Augmented writing to help teams write job descriptions that are inclusive to candidates from every background. Recrui...",
+  "tags": [
+    "job-description"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610070915/icons/taprecruit-co.png",
+  "website": "https://taprecruit.co/"
+}

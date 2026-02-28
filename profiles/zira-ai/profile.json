@@ -1,0 +1,15 @@
+{
+  "id": "zira-ai",
+  "title": "Zira",
+  "subtitle": "Zira creates perfectly optimized schedules at the push of a button. The first true workforce automation software solu...",
+  "tags": [
+    "workforce-management",
+    "employee-scheduling",
+    "shift-scheduling"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586894459/catalog/zira-ai/icon128x128.jpg",
+  "website": "https://www.zira.ai/"
+}

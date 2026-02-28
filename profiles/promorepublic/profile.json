@@ -1,0 +1,13 @@
+{
+  "id": "promorepublic",
+  "title": "PromoRepublic",
+  "subtitle": "Social media management platform with a set of tools to manage multiple accounts, create marketing content, schedule ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721597/catalog/promorepublic/icon128x128.jpg",
+  "website": "https://promorepublic.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "currencycloud",
+  "title": "Currencycloud",
+  "subtitle": "Currencycloud API integration",
+  "tags": [
+    "cross-border-payments",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569892398/catalog/currencycloud/icon128x128.jpg",
+  "website": "https://www.currencycloud.com/",
+  "docsUrl": "https://developer.currencycloud.com"
+}

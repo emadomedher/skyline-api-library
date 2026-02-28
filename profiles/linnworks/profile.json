@@ -1,0 +1,14 @@
+{
+  "id": "linnworks",
+  "title": "Linnworks",
+  "subtitle": "Linnworks is an eCommerce platform that helps online retailers automate key processes, reduce costs and grow their bu...",
+  "tags": [
+    "order-management"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597046861/icons/linnworks.jpg",
+  "website": "https://www.linnworks.com/",
+  "docsUrl": "https://www.linnworks.com/support"
+}

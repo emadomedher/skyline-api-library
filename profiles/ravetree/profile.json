@@ -1,0 +1,13 @@
+{
+  "id": "ravetree",
+  "title": "Ravetree",
+  "subtitle": "Ravetree is a software platform that simplifies how project driven organizations work and communicate.",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436835/catalog/ravetree/icon128x128.png",
+  "website": "https://ravetree.com"
+}

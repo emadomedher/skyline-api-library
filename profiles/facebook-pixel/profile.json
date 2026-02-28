@@ -1,0 +1,12 @@
+{
+  "id": "facebook-pixel",
+  "title": "Facebook Pixel",
+  "subtitle": "Facebook Pixel API integration",
+  "tags": [
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439183/catalog/facebook-pixel/icon128x128.svg"
+}

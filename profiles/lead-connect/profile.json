@@ -1,0 +1,13 @@
+{
+  "id": "lead-connect",
+  "title": "Lead Connect",
+  "subtitle": "Automate your outbound efforts on Linkedin. Let Lead Connect be your Virtual assistant following up on your behalf. S...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435456/catalog/lead-connect/icon128x128.png",
+  "website": "https://leadconnect.io"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "staffology-uk",
+  "title": "Staffology",
+  "subtitle": "Staffology is an HMRC-recognised, UK cloud payroll software. Experience automation and seamless integration with othe...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639701438/icons/staffology-uk.jpg",
+  "website": "https://www.staffology.co.uk/",
+  "docsUrl": "https://www.staffology.co.uk/api/docs"
+}

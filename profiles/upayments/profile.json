@@ -1,0 +1,14 @@
+{
+  "id": "upayments",
+  "title": "UPayments",
+  "subtitle": "Online payment solutions designed to help businesses grow. Start accepting credit and local debit cards online faster...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093461/icons/upayments.jpg",
+  "website": "https://upayments.com/en/",
+  "docsUrl": "https://upayments.com/en/uinterface"
+}

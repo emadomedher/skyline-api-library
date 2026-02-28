@@ -1,0 +1,13 @@
+{
+  "id": "klear",
+  "title": "Klear",
+  "subtitle": "Klear is an influencer marketing platform that helps brands build, scale and measure influencer campaigns.",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720702/catalog/klear/icon128x128.png",
+  "website": "https://klear.com"
+}

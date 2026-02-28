@@ -1,0 +1,13 @@
+{
+  "id": "pixelsilk",
+  "title": "PixelSilk",
+  "subtitle": "Use Pixelsilk multisite CMS and simplify managing and maintaining tens or hundreds of sites.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827200/catalog/pixelsilk/icon128x128.png",
+  "website": "https://pixelsilk.com"
+}

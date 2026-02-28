@@ -1,0 +1,13 @@
+{
+  "id": "onesignal",
+  "title": "OneSignal",
+  "subtitle": "OneSignal is a simple and smart service that send push notifications across all platforms. OneSignal features reliabl...",
+  "tags": [
+    "push-notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305592/catalog/onesignal/icon128x128.png",
+  "website": "https://onesignal.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "oracle-marketing-cloud",
+  "title": "Oracle Marketing Cloud",
+  "subtitle": "Oracle Marketing Cloud API integration",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562804220/catalog/oracle-marketing-cloud/icon128x128.jpg",
+  "website": "https://oracle.com",
+  "docsUrl": "https://docs.oracle.com/en"
+}

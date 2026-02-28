@@ -1,0 +1,17 @@
+{
+  "id": "jovo-tech",
+  "title": "Jovo",
+  "subtitle": "Jovo is the most popular development framework for voice, including platforms like Alexa, Google Assistant, mobile ap...",
+  "tags": [
+    "voice-apps",
+    "developer-tools",
+    "open-source",
+    "bots"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638231424/icons/jovo-tech.jpg",
+  "website": "https://www.jovo.tech/",
+  "docsUrl": "https://www.jovo.tech/docs"
+}

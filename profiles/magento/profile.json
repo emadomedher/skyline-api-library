@@ -1,0 +1,13 @@
+{
+  "id": "magento",
+  "title": "Magento",
+  "subtitle": "Magento is the premier open source e-commerce app used by millions of customers each and every day.",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056017/catalog/magento/icon128x128.png",
+  "website": "https://magento.com/"
+}

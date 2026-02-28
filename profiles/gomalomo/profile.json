@@ -1,0 +1,14 @@
+{
+  "id": "gomalomo",
+  "title": "Malomo",
+  "subtitle": "Malomo API integration",
+  "tags": [
+    "order-tracking",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601893613/icons/gomalomo.png",
+  "website": "https://gomalomo.com/"
+}

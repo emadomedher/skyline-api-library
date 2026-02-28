@@ -1,0 +1,12 @@
+{
+  "id": "loresome",
+  "title": "Loresome",
+  "subtitle": "Loresome is a productivity tool that uses a self-playing game at the motivation driver.",
+  "tags": [
+    "gaming"
+  ],
+  "category": "Gaming",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829986/catalog/loresome/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "acqueon",
+  "title": "Acqueon",
+  "subtitle": "Acqueon offers omnichannel campaign management software for sales, service, and collections. Acqueon uses Predictive ...",
+  "tags": [
+    "auto-dialer",
+    "campaign-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630869017/icons/acqueon.jpg",
+  "website": "https://www.acqueon.com/"
+}

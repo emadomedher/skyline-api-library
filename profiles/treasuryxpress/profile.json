@@ -1,0 +1,13 @@
+{
+  "id": "treasuryxpress",
+  "title": "TreasuryXpress",
+  "subtitle": "Learn about our treasury management software for managing cash flow . Get a demo of Bottomline TreasuryXpress, and le...",
+  "tags": [
+    "treasury-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611872588/icons/treasuryxpress.jpg",
+  "website": "https://treasuryxpress.com/"
+}

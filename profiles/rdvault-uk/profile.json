@@ -1,0 +1,13 @@
+{
+  "id": "rdvault-uk",
+  "title": "RDvault",
+  "subtitle": "RDvault gives companies across the UK a 100% successful, supported and fast solution to claim their R&D tax credits f...",
+  "tags": [
+    "r&d-tax-credits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644512993/icons/rdvault-uk.jpg",
+  "website": "https://rdvault.co.uk/"
+}

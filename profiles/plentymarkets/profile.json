@@ -1,0 +1,13 @@
+{
+  "id": "plentymarkets",
+  "title": "PlentyMarkets",
+  "subtitle": "PlentyMarkets API integration",
+  "tags": [
+    "ecommerce-platforms-&-carts"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963358/catalog/plentymarkets/icon128x128.png",
+  "website": "https://plentymarkets.co.uk"
+}

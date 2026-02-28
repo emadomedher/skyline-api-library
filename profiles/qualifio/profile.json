@@ -1,0 +1,13 @@
+{
+  "id": "qualifio",
+  "title": "Qualifio",
+  "subtitle": "Qualifio is Europe's leading online platform to engage digital audiences and collect data by creating and publishing ...",
+  "tags": [
+    "interactive-content"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721674/catalog/qualifio/icon128x128.jpg",
+  "website": "https://qualifio.com"
+}

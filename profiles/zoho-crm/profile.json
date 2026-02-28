@@ -1,0 +1,14 @@
+{
+  "id": "zoho-crm",
+  "title": "Zoho CRM",
+  "subtitle": "Zoho CRM is an online Sales CRM software that manages your sales, marketing and support in one CRM platform. Rated Th...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456151/catalog/zoho-crm/icon128x128.png",
+  "website": "https://www.zoho.com/crm/",
+  "docsUrl": "https://www.zoho.com/crm/developer/docs/api/v2/"
+}

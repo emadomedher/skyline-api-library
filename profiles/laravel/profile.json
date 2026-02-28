@@ -1,0 +1,16 @@
+{
+  "id": "laravel",
+  "title": "Laravel",
+  "subtitle": "Laravel API integration",
+  "tags": [
+    "php",
+    "developers",
+    "programming-framework"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566914131/catalog/laravel/icon128x128.svg",
+  "website": "https://laravel.com/",
+  "docsUrl": "https://laravel.com/docs"
+}

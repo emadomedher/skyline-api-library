@@ -1,0 +1,13 @@
+{
+  "id": "zonka-feedback",
+  "title": "Zonka Feedback",
+  "subtitle": "Zonka Feedback is a multi-channel customer feedback management and survey app on iPad & Android Tablets, Web, Emails ...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306620/catalog/zonka-feedback/icon128x128.png",
+  "website": "https://zonkafeedback.com"
+}

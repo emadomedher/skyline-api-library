@@ -1,0 +1,13 @@
+{
+  "id": "predictive-response",
+  "title": "Predictive Response",
+  "subtitle": "Predictive Response provides marketing & engagement automation for the Salesforce® platform. Predictive Marketing aut...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721571/catalog/predictive-response/icon128x128.jpg",
+  "website": "https://predictiveresponse.com"
+}

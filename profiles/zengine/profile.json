@@ -1,0 +1,13 @@
+{
+  "id": "zengine",
+  "title": "Zengine",
+  "subtitle": "Zengine is a cloud-based platform that empowers a non-technical person to quickly build custom business applications....",
+  "tags": [
+    "app-builder"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531056556/catalog/zengine/icon128x128.png",
+  "website": "https://www.wizehive.com/zengine"
+}

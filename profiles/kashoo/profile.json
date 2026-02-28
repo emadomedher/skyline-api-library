@@ -1,0 +1,13 @@
+{
+  "id": "kashoo",
+  "title": "Kashoo",
+  "subtitle": "Kashoo is small business accounting software you can use to create invoices, track bills and expenses, manage vendors...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1548122136/catalog/kashoo/icon128x128.png",
+  "website": "https://kashoo.com/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "apimetrics-io",
+  "title": "APImetrics",
+  "subtitle": "API monitoring, testing & security from APImetrics #1 API Intelligence Platform for developers, providers, consumers,...",
+  "tags": [
+    "api-testing",
+    "api-monitoring",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596693065/icons/apimetrics-io.jpg",
+  "website": "https://apimetrics.io/",
+  "docsUrl": "https://apimetrics.io/solutions/partners-developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tryspecter",
+  "title": "Specter",
+  "subtitle": "Specter tracks 17 million companies worldwide to help you identify tomorrow’s opportunities, today.",
+  "tags": [
+    "lead-databases",
+    "data"
+  ],
+  "category": "Data",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571856228/catalog/tryspecter/icon128x128.jpg",
+  "website": "https://tryspecter.com/"
+}

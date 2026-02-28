@@ -1,0 +1,12 @@
+{
+  "id": "confluence",
+  "title": "Confluence",
+  "subtitle": "Confluence is where you create, organize and discuss work with your team. Confluence Cloud and Server 5.5+ are suppor...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055852/catalog/confluence/icon128x128.png"
+}

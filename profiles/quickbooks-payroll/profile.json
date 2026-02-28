@@ -1,0 +1,13 @@
+{
+  "id": "quickbooks-payroll",
+  "title": "Intuit Payroll",
+  "subtitle": "Intuit's QuickBooks Payroll software makes running payroll for small businesses easy and stress-free. This effortless...",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594636014/icons/quickbooks-payroll.jpg",
+  "website": "https://quickbooks.intuit.com/payroll/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "adgoji",
+  "title": "Adgoji",
+  "subtitle": "If you advertise your business online, things are about to change. We are \ngiving power back to you, the advertiser.",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964420/catalog/adgoji/icon128x128.png",
+  "website": "https://adgoji.com"
+}

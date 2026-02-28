@@ -1,0 +1,14 @@
+{
+  "id": "adstream",
+  "title": "Adstream",
+  "subtitle": "Adstream's powerful advertising platform helps brands and agencies manage the creation, optimization, storage and del...",
+  "tags": [
+    "digital-asset-management"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594075916/icons/adstream.jpg",
+  "website": "https://www.adstream.com/",
+  "docsUrl": "https://www.adstream.com/documentation/broadcast-check-settings"
+}

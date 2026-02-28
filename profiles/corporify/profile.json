@@ -1,0 +1,14 @@
+{
+  "id": "corporify",
+  "title": "Corporify",
+  "subtitle": "Corporify, Digital Legal Entity Management & Corporate Housekeeping platform. Discover our solutions for Legal Counse...",
+  "tags": [
+    "legal-entity-management",
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638169962/icons/corporify.jpg",
+  "website": "https://www.corporify.com/"
+}

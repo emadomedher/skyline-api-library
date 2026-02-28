@@ -1,0 +1,15 @@
+{
+  "id": "payconiq-be",
+  "title": "Payconiq by Bancontact",
+  "subtitle": "Bancontact and Payconiq joined their forces. ",
+  "tags": [
+    "p2p-payments",
+    "mobile-payments"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566949352/catalog/payconiq-be/icon128x128.jpg",
+  "website": "https://www.payconiq.be",
+  "docsUrl": "https://www.payconiq.be/en#"
+}

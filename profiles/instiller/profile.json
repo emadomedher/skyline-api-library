@@ -1,0 +1,13 @@
+{
+  "id": "instiller",
+  "title": "Instiller",
+  "subtitle": "Instiller is the only email marketing solution designed specifically for agencies and includes all the tools and feat...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946909/catalog/instiller/icon128x128.png",
+  "website": "https://instiller.co.uk"
+}

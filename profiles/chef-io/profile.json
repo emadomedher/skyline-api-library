@@ -1,0 +1,14 @@
+{
+  "id": "chef-io",
+  "title": "Chef",
+  "subtitle": "Automation for all of your technology. Overcome the complexity and rapidly ship your infrastructure and apps anywhere...",
+  "tags": [
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565163192/catalog/chef-io/icon128x128.png",
+  "website": "https://chef.io",
+  "docsUrl": "https://docs.chef.io"
+}

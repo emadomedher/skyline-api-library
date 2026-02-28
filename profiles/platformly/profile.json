@@ -1,0 +1,12 @@
+{
+  "id": "platformly",
+  "title": "Platform.ly",
+  "subtitle": "Platformly is your marketing automation platform that empowers you to engage your audience at every step of their jou...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284574/catalog/platformly/icon128x128.png"
+}

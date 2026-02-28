@@ -1,0 +1,13 @@
+{
+  "id": "sage-bob",
+  "title": "Sage BOB",
+  "subtitle": "Sage BOB API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576160116/catalog/sage-bob/icon128x128.png",
+  "website": "https://www.sage.com/nl-be/producten/sage-bob/"
+}

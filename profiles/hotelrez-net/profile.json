@@ -1,0 +1,14 @@
+{
+  "id": "hotelrez-net",
+  "title": "HotelREZ",
+  "subtitle": "HotelREZ provides hotel representation services including distribution, sales & marketing to over 1,500 independent h...",
+  "tags": [
+    "global-distribution-channels",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612724226/icons/hotelrez-net.png",
+  "website": "https://www.hotelrez.net/"
+}

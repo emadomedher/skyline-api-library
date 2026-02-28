@@ -1,0 +1,15 @@
+{
+  "id": "algorithmia",
+  "title": "Algorithmia",
+  "subtitle": "Algorithmia makes applications smarter, by building a community around algorithm development, where state of the art ...",
+  "tags": [
+    "machine-learning",
+    "ai"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562354014/catalog/algorithmia/icon128x128.png",
+  "website": "https://algorithmia.com",
+  "docsUrl": "https://algorithmia.com/developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "arpari",
+  "title": "Arpari",
+  "subtitle": "Treasury management built for commercial real estate. Seamlessly and securely manage your financial workflows from a ...",
+  "tags": [
+    "treasury-management",
+    "commercial-real-estate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664247020/icons/arpari.jpg",
+  "website": "https://www.arpari.com/"
+}

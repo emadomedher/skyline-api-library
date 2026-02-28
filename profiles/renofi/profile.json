@@ -1,0 +1,13 @@
+{
+  "id": "renofi",
+  "title": "RenoFi",
+  "subtitle": "RenoFi is the smartest way to find home renovation loans! From understanding the jargon to finding lenders, RenoFi is...",
+  "tags": [
+    "home-renovation-loans"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593103255/icons/renofi.jpg",
+  "website": "https://www.renofi.com/"
+}

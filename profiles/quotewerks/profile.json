@@ -1,0 +1,13 @@
+{
+  "id": "quotewerks",
+  "title": "QuoteWerks",
+  "subtitle": "Create professional quotes & proposals in minutes with QuoteWerks® - The Number 1 Integrated quoting software solutio...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827337/catalog/quotewerks/icon128x128.jpg",
+  "website": "https://quotewerks.com"
+}

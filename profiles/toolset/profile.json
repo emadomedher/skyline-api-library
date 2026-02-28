@@ -1,0 +1,14 @@
+{
+  "id": "toolset",
+  "title": "Toolset",
+  "subtitle": "Posts and pages aren’t enough for every site. When you need more, Toolset is the answer. Toolset lets you build your ...",
+  "tags": [
+    "wordpress"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560467406/catalog/toolset/icon128x128.jpg",
+  "website": "https://toolset.com",
+  "docsUrl": "https://toolset.com/documentation"
+}

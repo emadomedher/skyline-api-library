@@ -1,0 +1,14 @@
+{
+  "id": "advanced-web-ranking",
+  "title": "Advanced Web Ranking",
+  "subtitle": "Advanced Web Ranking provides fresh daily, weekly or on demand geo-located rankings. Tailored for agencies and in-hou...",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555964395/catalog/advanced-web-ranking/icon128x128.png",
+  "website": "https://advancedwebranking.com",
+  "docsUrl": "https://www.advancedwebranking.com/developer-api.html"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hellonext-co",
+  "title": "hellonext.co",
+  "subtitle": "Feature voting tool and feedback management software to help you build better SaaS products. You can use it to collec...",
+  "tags": [
+    "enterprise-feedback-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597079056/icons/hellonext-co.jpg",
+  "website": "https://hellonext.co/"
+}

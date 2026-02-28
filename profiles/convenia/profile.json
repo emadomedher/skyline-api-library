@@ -1,0 +1,12 @@
+{
+  "id": "convenia",
+  "title": "Convenia",
+  "subtitle": "Convenia is a cloud people management software for small business that increase its efficiency and eliminating operat...",
+  "tags": [
+    "human-resources-(hr)"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304685/catalog/convenia/icon128x128.png"
+}

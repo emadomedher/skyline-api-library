@@ -1,0 +1,13 @@
+{
+  "id": "procezo",
+  "title": "Procezo",
+  "subtitle": "Say good bye to expensive task management tools. Procezo is a free for life digital workspace.",
+  "tags": [
+    "task-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585302842/catalog/procezo/icon128x128.jpg",
+  "website": "https://procezo.com/"
+}

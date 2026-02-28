@@ -1,0 +1,15 @@
+{
+  "id": "anura-io",
+  "title": "Anura",
+  "subtitle": "Anura is an ad fraud detection solution for marketers to maximize digital campaign performance.",
+  "tags": [
+    "ad-fraud-prevention",
+    "advertising"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571415417/catalog/anura-io/icon128x128.jpg",
+  "website": "https://www.anura.io/",
+  "docsUrl": "https://docs.anura.io"
+}

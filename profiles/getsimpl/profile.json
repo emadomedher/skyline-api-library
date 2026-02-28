@@ -1,0 +1,13 @@
+{
+  "id": "getsimpl",
+  "title": "Simpl",
+  "subtitle": "Simpl provides the convenience of an online khata connected to 5500+ merchants. Buy anything on the internet with 1 t...",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637114192/icons/getsimpl.jpg",
+  "website": "https://getsimpl.com/"
+}

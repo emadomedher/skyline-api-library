@@ -1,0 +1,13 @@
+{
+  "id": "simplepay-ca",
+  "title": "SimplePay",
+  "subtitle": "SimplePay API integration",
+  "tags": [
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635814180/icons/simplepay-ca.png",
+  "website": "https://www.simplepay.ca/"
+}

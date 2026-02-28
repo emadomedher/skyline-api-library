@@ -1,0 +1,12 @@
+{
+  "id": "sonix",
+  "title": "Sonix",
+  "subtitle": "Sonix is an automated transcription service. We quickly and accurately convert audio and video files to text. We also...",
+  "tags": [
+    "video"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284615/catalog/sonix/icon128x128.png"
+}

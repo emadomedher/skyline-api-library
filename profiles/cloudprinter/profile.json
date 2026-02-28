@@ -1,0 +1,14 @@
+{
+  "id": "cloudprinter",
+  "title": "Cloudprinter",
+  "subtitle": "Cloudprinter the world's leading print on demand platform with +5000 products in +170 countries. Powered by API autom...",
+  "tags": [
+    "print-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1658254782/icons/cloudprinter.png",
+  "website": "https://www.cloudprinter.com/",
+  "docsUrl": "https://docs.cloudprinter.com/client"
+}

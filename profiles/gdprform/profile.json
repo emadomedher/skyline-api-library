@@ -1,0 +1,15 @@
+{
+  "id": "gdprform",
+  "title": "GDPR Form",
+  "subtitle": "Simplify Data Subject Access Requests",
+  "tags": [
+    "legal",
+    "gdpr",
+    "privacy"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578861291/catalog/gdprform/icon128x128.png",
+  "website": "https://gdprform.io"
+}

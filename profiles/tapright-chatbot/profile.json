@@ -1,0 +1,13 @@
+{
+  "id": "tapright-chatbot",
+  "title": "TapRight Chatbot",
+  "subtitle": "TapRight Chatbot helps you automate chat conversations in Facebook Messenger.",
+  "tags": [
+    "social-media-management",
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306264/catalog/tapright-chatbot/icon128x128.png"
+}

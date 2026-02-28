@@ -1,0 +1,15 @@
+{
+  "id": "unveel-io",
+  "title": "Unveel",
+  "subtitle": "Get real-time income and work history data for any user in a single click. Let your users share their income and work...",
+  "tags": [
+    "payroll-apis",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637880429/icons/unveel-io.png",
+  "website": "https://www.unveel.io/",
+  "docsUrl": "https://docs.unveel.io"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "appointy",
+  "title": "Appointy",
+  "subtitle": "Appointy is an online scheduling system that automates booking, payments and reminders. It allows customers to view r...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304417/catalog/appointy/icon128x128.png",
+  "website": "https://www.appointy.com/"
+}

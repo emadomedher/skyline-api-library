@@ -1,0 +1,13 @@
+{
+  "id": "zynbit",
+  "title": "ZynBit",
+  "subtitle": "ZynBit helps everyone in the organization using Saleforce be more productive, close more sales and boost adoption. Al...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554723019/catalog/zynbit/icon128x128.png",
+  "website": "https://zynbit.com"
+}

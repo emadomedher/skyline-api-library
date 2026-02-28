@@ -1,0 +1,13 @@
+{
+  "id": "fingoal",
+  "title": "FinGoal",
+  "subtitle": "FinGoal build tools for Banks, Credit Unions, and FinTech developers that analyze consumer credit and debit card tran...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594863278/icons/fingoal.png",
+  "website": "https://www.fingoal.com/"
+}

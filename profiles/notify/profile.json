@@ -1,0 +1,13 @@
+{
+  "id": "notify",
+  "title": "Notify ",
+  "subtitle": "Whenever your Startup gets mentioned on Twitter, Facebook, Instagram, Youtube, Google+, Blogs, Forums, News, Reddit, ...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721283/catalog/notify/icon128x128.png",
+  "website": "https://notify.ly"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "whatrunswhere",
+  "title": "WhatRunsWhere",
+  "subtitle": "WhatRunsWhere API integration",
+  "tags": [
+    "audience/marketing-data-&-data-enhancement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563061167/catalog/whatrunswhere/icon128x128.png",
+  "website": "https://whatrunswhere.com"
+}

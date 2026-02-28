@@ -1,0 +1,14 @@
+{
+  "id": "skaled",
+  "title": "Skaled",
+  "subtitle": "Skaled accelerates the growth of emerging and enterprise companies by bringing in Sales Leadership, Operations, and E...",
+  "tags": [
+    "sales-consultancy",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621468215/icons/skaled.png",
+  "website": "https://skaled.com/"
+}

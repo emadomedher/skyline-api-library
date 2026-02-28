@@ -1,0 +1,15 @@
+{
+  "id": "logit-io",
+  "title": "Logit.io",
+  "subtitle": "Spin up hosted, secure, isolated and auto scaling ELK stacks. Centralised logging and metrics, ISO27001 certified ELK...",
+  "tags": [
+    "elk",
+    "logging"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584144653/catalog/logit-io/icon128x128.jpg",
+  "website": "https://logit.io/",
+  "docsUrl": "https://logit.io/blog/post/the-best-ways-to-learn-java-recommended-tutorials"
+}

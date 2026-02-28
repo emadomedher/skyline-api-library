@@ -1,0 +1,14 @@
+{
+  "id": "getflow",
+  "title": "Flow",
+  "subtitle": "Flow is an all-in-one tool that unleashes your team’s potential. It brings together your tasks, projects, timelines, ...",
+  "tags": [
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1615931279/icons/getflow.jpg",
+  "website": "https://www.getflow.com/",
+  "docsUrl": "https://developer.getflow.com"
+}

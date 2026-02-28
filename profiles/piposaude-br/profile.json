@@ -1,0 +1,13 @@
+{
+  "id": "piposaude-br",
+  "title": "piposaude",
+  "subtitle": "Uma nova forma de contratar e gerir planos de saúde para empresas e startups",
+  "tags": [
+    "healthcare-benefits"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261117/icons/piposaude-br.png",
+  "website": "https://www.piposaude.com.br/"
+}

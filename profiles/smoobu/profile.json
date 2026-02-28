@@ -1,0 +1,14 @@
+{
+  "id": "smoobu",
+  "title": "Smoobu",
+  "subtitle": "Software for Vacation Rental. Channel Manager, PMS, Booking Engine, Website, Communications, Check-in Online, Guest G...",
+  "tags": [
+    "property-management-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664384476/icons/smoobu.png",
+  "website": "https://www.smoobu.com/",
+  "docsUrl": "https://docs.smoobu.com"
+}

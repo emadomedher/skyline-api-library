@@ -1,0 +1,14 @@
+{
+  "id": "legaler",
+  "title": "legaler",
+  "subtitle": "Legaler offers free tools to help you schedule, host and archive online meetings securely in your browser with end-to...",
+  "tags": [
+    "legal",
+    "blockchain"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585407203/catalog/legaler/icon128x128.jpg",
+  "website": "https://legaler.com/"
+}

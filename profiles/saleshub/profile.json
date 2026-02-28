@@ -1,0 +1,13 @@
+{
+  "id": "saleshub",
+  "title": "SalesHub",
+  "subtitle": "Square 2 Canada (Formerly SalesHub) is a Diamond Certified HubSpot Partner focused on revenue growth with our scienti...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554827477/catalog/saleshub/icon128x128.jpg",
+  "website": "https://saleshub.ca"
+}

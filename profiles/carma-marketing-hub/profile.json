@@ -1,0 +1,12 @@
+{
+  "id": "carma-marketing-hub",
+  "title": "Carma Marketing Hub",
+  "subtitle": "Carma Marketing Hub is a platform made for enterprise marketers to create, send and track digital 1:1 communication. ...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304579/catalog/carma-marketing-hub/icon128x128.png"
+}

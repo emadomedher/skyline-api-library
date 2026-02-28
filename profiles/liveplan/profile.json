@@ -1,0 +1,13 @@
+{
+  "id": "liveplan",
+  "title": "LivePlan",
+  "subtitle": "Over 750,000 small businesses use LivePlan for business planning, forecasting and financial management. Sign up for L...",
+  "tags": [
+    "business-plan"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578957953/catalog/liveplan/icon128x128.jpg",
+  "website": "https://www.liveplan.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "priorilegal",
+  "title": "Priori",
+  "subtitle": "Find the right attorney for your next legal project.",
+  "tags": [
+    "legaltech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015079/icons/priorilegal.jpg",
+  "website": "https://www.priorilegal.com/"
+}

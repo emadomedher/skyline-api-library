@@ -1,0 +1,12 @@
+{
+  "id": "sagelive",
+  "title": "Sage Financials (formerly Sage Live)",
+  "subtitle": "Sage Financials (formerly Sage Live) API integration",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178310/catalog/sagelive/icon128x128.jpg"
+}

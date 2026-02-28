@@ -1,0 +1,14 @@
+{
+  "id": "securecodewarrior",
+  "title": "Secure Code Warrior",
+  "subtitle": "Secure your code from the start with gamified, scalable online secure coding training for software developers.",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567129485/catalog/securecodewarrior/icon128x128.png",
+  "website": "https://securecodewarrior.com",
+  "docsUrl": "https://portal.securecodewarrior.com/#/learning-resources"
+}

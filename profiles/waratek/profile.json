@@ -1,0 +1,14 @@
+{
+  "id": "waratek",
+  "title": "Waratek",
+  "subtitle": "Warateks Application Security Management Platform provides runtime security offering accurate, fast and effective rea...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567129477/catalog/waratek/icon128x128.png",
+  "website": "https://www.waratek.com",
+  "docsUrl": "https://www.waratek.com/media/documentation"
+}

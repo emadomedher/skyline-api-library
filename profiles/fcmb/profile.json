@@ -1,0 +1,13 @@
+{
+  "id": "fcmb",
+  "title": "First City Monument Bank (FCMB)",
+  "subtitle": "First City Monument Bank Ltd is a banking group, headquartered in Lagos. As of December 2019, the bank's total assets...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602793918/icons/fcmb.png",
+  "website": "https://www.fcmb.com/"
+}

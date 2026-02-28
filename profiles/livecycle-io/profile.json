@@ -1,0 +1,14 @@
+{
+  "id": "livecycle-io",
+  "title": "livecycle",
+  "subtitle": "Livecycle turns your PRs into collaborative deployment previews so you can \"get your ship together\" with the team.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637639867/icons/livecycle-io.png",
+  "website": "https://livecycle.io/",
+  "docsUrl": "https://docs.livecycle.io"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "street-text",
+  "title": "StreetText",
+  "subtitle": "Lead generation funnel automation + flexible smart forms.",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306209/catalog/street-text/icon128x128.png"
+}

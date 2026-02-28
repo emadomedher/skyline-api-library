@@ -1,0 +1,12 @@
+{
+  "id": "oneblink",
+  "title": "OneBlink",
+  "subtitle": "OneBlink empowers business users to create and deploy digital forms for enterprise and government organisations as we...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264822/catalog/oneblink/icon128x128.png"
+}

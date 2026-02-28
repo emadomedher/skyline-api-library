@@ -1,0 +1,14 @@
+{
+  "id": "shopify-chat",
+  "title": "Shopify Chat",
+  "subtitle": "Use the power of live chat to grow your business",
+  "tags": [
+    "live-chat",
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456131/catalog/shopify/icon128x128.png",
+  "website": "https://apps.shopify.com/chat"
+}

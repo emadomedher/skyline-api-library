@@ -1,0 +1,14 @@
+{
+  "id": "smaily",
+  "title": "Smaily",
+  "subtitle": "Smaily is different. We’ll give you the most easy to use tool to send beautiful newsletters. For everything else we h...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1634051160/icons/smaily.jpg",
+  "website": "https://smaily.com/",
+  "docsUrl": "https://smaily.com/help/api"
+}

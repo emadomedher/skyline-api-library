@@ -1,0 +1,13 @@
+{
+  "id": "moneymonk-nl",
+  "title": "MoneyMonk",
+  "subtitle": "Alles-in-één online boekhouden voor ZZP\\'ers. ✓ Telefonische ondersteuning ✓ Uren ✓ Ritten ✓ Facturatie ✓ Bonnen ✓ Bt...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563058035/catalog/moneymonk-nl/icon128x128.png",
+  "website": "https://moneymonk.nl"
+}

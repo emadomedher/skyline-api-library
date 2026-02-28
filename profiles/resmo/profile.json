@@ -1,0 +1,14 @@
+{
+  "id": "resmo",
+  "title": "Resmo",
+  "subtitle": "Resmo closes the gap between DevOps and SecOps teams with complete visibility and security for all Cloud and SaaS ass...",
+  "tags": [
+    "cloud-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1667945487/icons/resmo.jpg",
+  "website": "https://www.resmo.com/",
+  "docsUrl": "https://docs.resmo.com"
+}

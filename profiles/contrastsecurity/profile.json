@@ -1,0 +1,14 @@
+{
+  "id": "contrastsecurity",
+  "title": "Contrast Security",
+  "subtitle": "With Contrast your applications automatically detect and fix vulnerabilities, identify attacks, and defend themselves.",
+  "tags": [
+    "application-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565230343/catalog/contrastsecurity/icon128x128.png",
+  "website": "https://contrastsecurity.com",
+  "docsUrl": "https://api.contrastsecurity.com"
+}

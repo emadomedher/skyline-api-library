@@ -1,0 +1,14 @@
+{
+  "id": "datocms",
+  "title": "DatoCMS",
+  "subtitle": "Discover DatoCMS, our API-based administrative area for websites of any size.  Go Headless with your CMS!",
+  "tags": [
+    "headless-cms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574004766/catalog/datocms/icon128x128.jpg",
+  "website": "https://www.datocms.com/",
+  "docsUrl": "https://www.datocms.com/docs"
+}

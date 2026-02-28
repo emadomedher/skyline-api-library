@@ -1,0 +1,13 @@
+{
+  "id": "connecteam",
+  "title": "Connecteam",
+  "subtitle": "Connecteam's employee app is powerful, easy to use and affordable like no other. Designed and built especially for no...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947193/catalog/connecteam/icon128x128.jpg",
+  "website": "https://connecteam.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rayvision",
+  "title": "RAYVISION",
+  "subtitle": "深圳市瑞云科技有限公司是国内领先的云计算服务提供商,全国统一品牌“RAYVISION”,旗下包含Renderbus亚洲最大的云渲染农场,更高效的VIVUE.io审片协作平台,领先的数据传输核心技术RaySync镭速传输解决方案三大品牌...",
+  "tags": [
+    "cloud-rendering",
+    "cloud-render-farms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612119284/icons/rayvision.jpg",
+  "website": "https://www.rayvision.com/"
+}

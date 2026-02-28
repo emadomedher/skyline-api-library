@@ -1,0 +1,13 @@
+{
+  "id": "commissionly",
+  "title": "Commissionly",
+  "subtitle": "Commissionly is the first cloud based Saas sales commission software focused solely on the small to medium business s...",
+  "tags": [
+    "budgeting-&-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433851/catalog/commissionly/icon128x128.png",
+  "website": "https://commissionly.io"
+}

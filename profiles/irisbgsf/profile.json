@@ -1,0 +1,13 @@
+{
+  "id": "irisbgsf",
+  "title": "Iris Solutions",
+  "subtitle": "Iris Solutions is the first bulgarian TPP offering account information and payment initiation services. Iris Solution...",
+  "tags": [
+    "bank-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1622433612/icons/irisbgsf.jpg",
+  "website": "https://en.irisbgsf.com/"
+}

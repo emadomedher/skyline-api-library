@@ -1,0 +1,14 @@
+{
+  "id": "goodhire",
+  "title": "GoodHire",
+  "subtitle": "GoodHire’s FCRA-compliant pre-employment background checks for companies help ensure a safe and secure workplace for ...",
+  "tags": [
+    "background-checks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592559697/icons/goodhire.jpg",
+  "website": "https://www.goodhire.com/",
+  "docsUrl": "https://help.goodhire.com/docs/candidate"
+}

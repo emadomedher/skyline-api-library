@@ -1,0 +1,14 @@
+{
+  "id": "sitecore",
+  "title": "Sitecore",
+  "subtitle": "Sitecore is a customer experience management company that provides web content management and multichannel marketing ...",
+  "tags": [
+    "cms"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1547936492/catalog/sitecore/icon128x128.png",
+  "website": "https://sitecore.net",
+  "docsUrl": "https://dev.sitecore.net"
+}

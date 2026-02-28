@@ -1,0 +1,13 @@
+{
+  "id": "zapier-manager",
+  "title": "Zapier Manager",
+  "subtitle": "Bolster your Zap housekeeping with Zapier Manager. Track Zap errors, invite members to your Team, and more!",
+  "tags": [
+    "zapier-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306567/catalog/zapier-manager/icon128x128.png",
+  "website": "https://zapier.com/"
+}

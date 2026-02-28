@@ -1,0 +1,13 @@
+{
+  "id": "postbank-de",
+  "title": "Postbank",
+  "subtitle": "Postbank is the retail banking division of Deutsche Bank, which was formed from the demerger of the postal savings di...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601755950/icons/postbank-de.jpg",
+  "website": "https://www.postbank.de/"
+}

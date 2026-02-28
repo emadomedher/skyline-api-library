@@ -1,0 +1,14 @@
+{
+  "id": "workllama",
+  "title": "WorkLLama",
+  "subtitle": "Recruitment technology to attract more candidates, hire more talent and engage employees in an AI-driven, all-in-one ...",
+  "tags": [
+    "hr",
+    "ats"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663261281/icons/workllama.png",
+  "website": "https://workllama.com/"
+}

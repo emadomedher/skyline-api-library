@@ -1,0 +1,13 @@
+{
+  "id": "antavo",
+  "title": "Antavo",
+  "subtitle": "Antavo is a loyalty management platform for retailers & brands. Reward purchases & gamify the customer journey online...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554718945/catalog/antavo/icon128x128.jpg",
+  "website": "https://antavo.com"
+}

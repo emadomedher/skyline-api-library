@@ -1,0 +1,14 @@
+{
+  "id": "zendesk-sell",
+  "title": "Zendesk Sell",
+  "subtitle": "Zendesk Sell is a sales CRM software tool that enhances productivity, processes, and pipeline visibility for sales te...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284663/catalog/zendesk-sell/icon128x128.png",
+  "website": "https://www.zendesk.com/sell/",
+  "docsUrl": "https://developers.getbase.com/"
+}

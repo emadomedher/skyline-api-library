@@ -1,0 +1,13 @@
+{
+  "id": "vizury",
+  "title": "Vizury",
+  "subtitle": "Vizury API integration",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554438349/catalog/vizury/icon128x128.png",
+  "website": "https://Vizury.com"
+}

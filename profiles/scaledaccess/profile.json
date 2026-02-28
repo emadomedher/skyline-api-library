@@ -1,0 +1,14 @@
+{
+  "id": "scaledaccess",
+  "title": "Scaled Access",
+  "subtitle": "Introducing the authorization cloud platform that empowers people to access and share your service. And helps you gro...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600803489/icons/scaledaccess.jpg",
+  "website": "https://www.scaledaccess.com/",
+  "docsUrl": "https://www.scaledaccess.com/developers"
+}

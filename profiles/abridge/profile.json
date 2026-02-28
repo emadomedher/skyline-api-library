@@ -1,0 +1,14 @@
+{
+  "id": "abridge",
+  "title": "Abridge",
+  "subtitle": "Remember the Doctor's Advice: Abridge helps you make the most of your next appointment by recording and transcribing ...",
+  "tags": [
+    "health",
+    "mobile"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566931702/catalog/abridge/icon128x128.png",
+  "website": "https://abridge.com/"
+}

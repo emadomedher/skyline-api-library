@@ -1,0 +1,15 @@
+{
+  "id": "wealthica",
+  "title": "Wealthica",
+  "subtitle": "Wealthica empowers investors to track their net worth and all their investments effortlessly in a single dashboard. T...",
+  "tags": [
+    "fintech",
+    "wealth-management"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574828758/catalog/wealthica/icon128x128.png",
+  "website": "https://wealthica.com/",
+  "docsUrl": "https://wealthica.com/developers"
+}

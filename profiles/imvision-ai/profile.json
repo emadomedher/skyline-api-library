@@ -1,0 +1,13 @@
+{
+  "id": "imvision-ai",
+  "title": "Imvision",
+  "subtitle": "Imvision provides the only full lifecycle API security platform that enables enterprises to automatically discover, t...",
+  "tags": [
+    "api-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627010771/icons/imvision-ai.png",
+  "website": "https://www.imvision.ai/"
+}

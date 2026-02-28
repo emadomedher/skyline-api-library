@@ -1,0 +1,13 @@
+{
+  "id": "amazon-luna",
+  "title": "Amazon Luna",
+  "subtitle": "Amazon Luna is an upcoming cloud gaming platform developed and operated by Amazon",
+  "tags": [
+    "cloud-gaming"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604753504/icons/amazon-luna.png",
+  "website": "https://www.amazon.com/luna"
+}

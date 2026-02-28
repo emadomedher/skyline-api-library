@@ -1,0 +1,15 @@
+{
+  "id": "decisionlogic",
+  "title": "DecisionLogic",
+  "subtitle": "DecisionLogic API integration",
+  "tags": [
+    "banking",
+    "fintech",
+    "data-aggregators"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573360778/catalog/decisionlogic/icon128x128.jpg",
+  "website": "https://www.decisionlogic.com/"
+}

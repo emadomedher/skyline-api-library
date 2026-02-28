@@ -1,0 +1,12 @@
+{
+  "id": "syntrus-achmea",
+  "title": "Syntrus Achmea",
+  "subtitle": "Syntrus Achmea beheert de volledige administratie van ruim 70 Nederlandse pensioenfondsen. Syntrus Achmea heeft een g...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256978/catalog/syntrus-achmea/icon128x128.jpg"
+}

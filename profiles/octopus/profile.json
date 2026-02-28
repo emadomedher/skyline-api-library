@@ -1,0 +1,15 @@
+{
+  "id": "octopus",
+  "title": "OctopusDeploy",
+  "subtitle": "Octopus Deploy is an automated deployment and release management tool used by leading continuous delivery teams world...",
+  "tags": [
+    "continuous-delivery",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591898023/icons/octopus.png",
+  "website": "https://octopus.com/",
+  "docsUrl": "https://octopus.com/docs/deployment-examples"
+}

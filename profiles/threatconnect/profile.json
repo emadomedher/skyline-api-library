@@ -1,0 +1,13 @@
+{
+  "id": "threatconnect",
+  "title": "ThreatConnect",
+  "subtitle": "ThreatConnect’s intelligence-driven security operations is the only solution with intelligence, automation, analytics...",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565222286/catalog/threatconnect/icon128x128.png",
+  "website": "https://threatconnect.com"
+}

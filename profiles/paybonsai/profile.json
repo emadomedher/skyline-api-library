@@ -1,0 +1,16 @@
+{
+  "id": "paybonsai",
+  "title": "bonsai",
+  "subtitle": "Bonsai is the payment app that plants trees. For every 10 payments you make with the bonsai app, we will plant a tree...",
+  "tags": [
+    "payments",
+    "payment-apps",
+    "climate"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605367955/icons/paybonsai.jpg",
+  "website": "https://www.paybonsai.com/",
+  "docsUrl": "https://www.paybonsai.com/coming-soon"
+}

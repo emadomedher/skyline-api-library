@@ -1,0 +1,13 @@
+{
+  "id": "wp-seo-hub",
+  "title": "WP SEO Hub",
+  "subtitle": "WP SEO Hub API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961918/catalog/wp-seo-hub/icon128x128.png",
+  "website": "https://wpseohub.com"
+}

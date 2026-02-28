@@ -1,0 +1,13 @@
+{
+  "id": "clinchpad",
+  "title": "ClinchPad",
+  "subtitle": "ClinchPad is a modern sales CRM built for small teams.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304639/catalog/clinchpad/icon128x128.png",
+  "website": "https://clinchpad.com/"
+}

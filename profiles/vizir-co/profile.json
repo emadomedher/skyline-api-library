@@ -1,0 +1,13 @@
+{
+  "id": "vizir-co",
+  "title": "Vizir",
+  "subtitle": "Vizir API integration",
+  "tags": [
+    "chat-bots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584562893/catalog/vizir-co/icon128x128.jpg",
+  "website": "https://www.vizir.co/"
+}

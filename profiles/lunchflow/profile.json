@@ -1,0 +1,14 @@
+{
+  "id": "lunchflow",
+  "title": "Lunch Flow",
+  "subtitle": "Lunch Flow lets you effortlessly sync transactions from banks in the US, Canada, Brazil, EU, UK, and Asia to Lunch Mo...",
+  "tags": [
+    "finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/icons/lunchflow",
+  "website": "https://www.lunchflow.app/",
+  "docsUrl": "https://docs.lunchflow.app"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "designstripe",
+  "title": "designstripe",
+  "subtitle": "A constantly growing library from our Studio team, all completely customizable online",
+  "tags": [
+    "stock-illustrations"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639854740/icons/designstripe.png",
+  "website": "https://designstripe.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "searchtrackr",
+  "title": "SearchTrackr",
+  "subtitle": "SearchTrackr API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962421/catalog/searchtrackr/icon128x128.png",
+  "website": "https://searchtrackr.com"
+}

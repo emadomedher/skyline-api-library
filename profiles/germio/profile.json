@@ -1,0 +1,13 @@
+{
+  "id": "germio",
+  "title": "Germ.io",
+  "subtitle": "germ.io is an ideation and project planning tool that lets you capture abstract ideas, collaboratively brainstorm and...",
+  "tags": [
+    "product-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434775/catalog/germio/icon128x128.png",
+  "website": "https://germ.io"
+}

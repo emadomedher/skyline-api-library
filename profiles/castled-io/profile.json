@@ -1,0 +1,13 @@
+{
+  "id": "castled-io",
+  "title": "Sync your customer data to business tools ",
+  "subtitle": "Castled lets you periodically sync insights from your cloud data warehouse to your favourite business operational tools",
+  "tags": [
+    "reverse-etl"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641990420/icons/castled-io.jpg",
+  "website": "https://castled.io/"
+}

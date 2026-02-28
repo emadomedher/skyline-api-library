@@ -1,0 +1,13 @@
+{
+  "id": "reelio",
+  "title": "Reelio",
+  "subtitle": "Reelio API integration",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436881/catalog/reelio/icon128x128.png",
+  "website": "https://reelio.com"
+}

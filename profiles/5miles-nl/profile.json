@@ -1,0 +1,13 @@
+{
+  "id": "5miles-nl",
+  "title": "5miles",
+  "subtitle": "Learn in-demand skills with over 700 online bite-sized challenges tailored for corporate professionals. Get the insig...",
+  "tags": [
+    "lms"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636023429/icons/5miles-nl.png",
+  "website": "https://www.5miles.nl/"
+}

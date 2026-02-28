@@ -1,0 +1,12 @@
+{
+  "id": "lexoffice",
+  "title": "lexoffice",
+  "subtitle": "lexoffice is a cloud app for german accounting. Writing offers or invoices, paying your bills or preparing your tax r...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305306/catalog/lexoffice/icon128x128.png"
+}

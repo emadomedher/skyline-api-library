@@ -1,0 +1,13 @@
+{
+  "id": "checktimezones",
+  "title": "Timezones.",
+  "subtitle": "  Cross-timezone meeting scheduling without a timezone converter! ",
+  "tags": [
+    "meeting-scheduling"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595551122/icons/checktimezones.jpg",
+  "website": "https://checktimezones.com/"
+}

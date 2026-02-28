@@ -1,0 +1,14 @@
+{
+  "id": "structurely",
+  "title": "Structurely",
+  "subtitle": "A conversational ai solution for sales and marketing teams, Aisa Holmes engages and qualifies your leads online throu...",
+  "tags": [
+    "real-estate",
+    "lead-bots"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207265/icons/structurely.jpg",
+  "website": "https://www.structurely.com/"
+}

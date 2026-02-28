@@ -1,0 +1,14 @@
+{
+  "id": "tufin",
+  "title": "Tufin",
+  "subtitle": "Tufin automates and orchestrates security policies across firewalls and hybrid cloud to meet the demands of the digit...",
+  "tags": [
+    "network-security"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643226773/icons/tufin.png",
+  "website": "https://www.tufin.com/",
+  "docsUrl": "https://www.tufin.com/developers"
+}

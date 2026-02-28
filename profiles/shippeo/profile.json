@@ -1,0 +1,13 @@
+{
+  "id": "shippeo",
+  "title": "Shippeo",
+  "subtitle": "The leading supply chain visibility platform in Europe, giving companies instant access to predictive and real-time i...",
+  "tags": [
+    "supply-chain"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616691099/icons/shippeo.jpg",
+  "website": "https://www.shippeo.com/"
+}

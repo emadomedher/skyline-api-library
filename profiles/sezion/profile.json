@@ -1,0 +1,12 @@
+{
+  "id": "sezion",
+  "title": "Sezion",
+  "subtitle": "Sezion helps you automatically generate thousands of personalized videos from any content feed in minutes.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306061/catalog/sezion/icon128x128.png"
+}

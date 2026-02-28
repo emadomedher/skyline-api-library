@@ -1,0 +1,14 @@
+{
+  "id": "pave",
+  "title": "Pave",
+  "subtitle": "Pave allows you to make smarter comp decisions and eliminate spreadsheets, powered by real-time integrations with you...",
+  "tags": [
+    "compensation-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617283007/icons/pave.jpg",
+  "website": "https://www.pave.com/",
+  "docsUrl": "https://cloud.google.com/firestore/docs/server-side-encryption"
+}

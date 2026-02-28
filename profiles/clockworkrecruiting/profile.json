@@ -1,0 +1,14 @@
+{
+  "id": "clockworkrecruiting",
+  "title": "Clockwork",
+  "subtitle": "A complete set of software and services for Executive Search that helps retained search firms, in-house executive rec...",
+  "tags": [
+    "ats",
+    "recruiting"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635215725/icons/clockworkrecruiting.png",
+  "website": "https://www.clockworkrecruiting.com/"
+}

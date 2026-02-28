@@ -1,0 +1,13 @@
+{
+  "id": "tix",
+  "title": "Tix",
+  "subtitle": "Tix offers event ticket management software and services. It is a leading online ticket sales solution provider for p...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722538/catalog/tix/icon128x128.png",
+  "website": "https://tix.com"
+}

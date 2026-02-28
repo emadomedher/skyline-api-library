@@ -1,0 +1,13 @@
+{
+  "id": "fieldinsight",
+  "title": "FieldInsight",
+  "subtitle": "FieldInsight is a flexible Field service and job management application. Manage complex job workflows with our easy t...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1659087011/icons/fieldinsight.jpg",
+  "website": "https://www.fieldinsight.com/"
+}

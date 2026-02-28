@@ -1,0 +1,16 @@
+{
+  "id": "arm",
+  "title": "Arm",
+  "subtitle": "Arm architects the pervasive intelligence. Arm-based chips and device architectures orchestrate the performance of th...",
+  "tags": [
+    "semiconductors",
+    "hardware",
+    "processors"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604015091/icons/arm.jpg",
+  "website": "https://www.arm.com/",
+  "docsUrl": "https://developer.arm.com/docs"
+}

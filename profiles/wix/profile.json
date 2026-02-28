@@ -1,0 +1,14 @@
+{
+  "id": "wix",
+  "title": "Wix ",
+  "subtitle": "Create a professional website with the Wix website builder. Choose a customizable designer-made template and add the ...",
+  "tags": [
+    "ecommerce-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555961939/catalog/wix/icon128x128.png",
+  "website": "https://wix.com",
+  "docsUrl": "https://dev.wix.com/"
+}

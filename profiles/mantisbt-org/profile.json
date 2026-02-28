@@ -1,0 +1,14 @@
+{
+  "id": "mantisbt-org",
+  "title": "MantisBT",
+  "subtitle": "MantisBT is a popular free web-based bug tracking system. It is written in PHP works with MySQL, MS SQL, and PostgreS...",
+  "tags": [
+    "bug-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565399393/catalog/mantisbt-org/icon128x128.png",
+  "website": "https://mantisbt.org",
+  "docsUrl": "https://www.mantisbt.org/documentation.php"
+}

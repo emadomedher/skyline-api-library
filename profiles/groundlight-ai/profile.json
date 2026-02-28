@@ -1,0 +1,14 @@
+{
+  "id": "groundlight-ai",
+  "title": "Groundlight",
+  "subtitle": "Groundlight API integration",
+  "tags": [
+    "computer-vision"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686868869/icons/groundlight-ai.png",
+  "website": "https://www.groundlight.ai/",
+  "docsUrl": "https://code.groundlight.ai/python-sdk"
+}

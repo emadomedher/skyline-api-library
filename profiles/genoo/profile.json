@@ -1,0 +1,13 @@
+{
+  "id": "genoo",
+  "title": "Genoo",
+  "subtitle": "Marketing Automation and Online Marketing Tools for small and midsized organizations.  Includes comprehensive lead da...",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305007/catalog/genoo/icon128x128.png",
+  "website": "https://genoo.com"
+}

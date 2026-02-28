@@ -1,0 +1,13 @@
+{
+  "id": "remesh",
+  "title": "Remesh",
+  "subtitle": "The Remesh Truth Discovery Platform empowers you to make better products, campaigns, and companies through agile rese...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721799/catalog/remesh/icon128x128.jpg",
+  "website": "https://remesh.ai"
+}

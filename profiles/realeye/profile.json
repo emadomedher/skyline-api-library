@@ -1,0 +1,13 @@
+{
+  "id": "realeye",
+  "title": "RealEye",
+  "subtitle": "Run professional Eye-Tracking tests with same day results. Use your testers webcams to get results. Online eye-tracki...",
+  "tags": [
+    "mobile-&-web-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436852/catalog/realeye/icon128x128.png",
+  "website": "https://realeye.io"
+}

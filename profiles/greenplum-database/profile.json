@@ -1,0 +1,14 @@
+{
+  "id": "greenplum-database",
+  "title": "Greenplum Database",
+  "subtitle": "Greenplum Database API integration",
+  "tags": [
+    "databases"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618222461/icons/greenplum-database.png",
+  "website": "https://greenplum.org/",
+  "docsUrl": "http://docs.greenplum.org/6-8/common/gpdb-features.html"
+}

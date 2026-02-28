@@ -1,0 +1,15 @@
+{
+  "id": "safebase-co",
+  "title": "SafeBase",
+  "subtitle": "SafeBase helps startups close enterprise sales by delivering a robust security program that builds instant credibilit...",
+  "tags": [
+    "compliance",
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644171677/icons/safebase-co.png",
+  "website": "https://www.safebase.co/",
+  "docsUrl": "https://www.safebase.co/blog"
+}

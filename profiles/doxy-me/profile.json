@@ -1,0 +1,14 @@
+{
+  "id": "doxy-me",
+  "title": "doxy.me",
+  "subtitle": "Join over 700,000 other healthcare professionals who love our easy to use, HIPAA compliant telemedicine software. Get...",
+  "tags": [
+    "telemedicine",
+    "telehealth"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528045/icons/doxy-me.jpg",
+  "website": "https://doxy.me/"
+}

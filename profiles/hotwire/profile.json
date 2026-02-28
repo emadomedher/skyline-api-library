@@ -1,0 +1,14 @@
+{
+  "id": "hotwire",
+  "title": "Hotwire",
+  "subtitle": "Find the best deals on the cheapest hotels, cars & flights with Hotwire. Save up to 60% on hotels and rent cars from ...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612450545/icons/hotwire.jpg",
+  "website": "https://www.hotwire.com/"
+}

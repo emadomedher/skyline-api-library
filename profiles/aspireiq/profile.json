@@ -1,0 +1,14 @@
+{
+  "id": "aspireiq",
+  "title": "AspireIQ",
+  "subtitle": "Stop transacting. Start interacting. From influencers to customers, form deep relationships with the people passionat...",
+  "tags": [
+    "influencers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719019/catalog/aspireiq/icon128x128.jpg",
+  "website": "https://aspireiq.com",
+  "docsUrl": "https://www.aspireiq.com/(https://developers.google.com/terms/api-services-user-data-policy)"
+}

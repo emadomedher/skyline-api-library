@@ -1,0 +1,14 @@
+{
+  "id": "revcontrol",
+  "title": "RevControl",
+  "subtitle": "RevControl offers all the information and tools a Revenue manager needs — in one single online application.",
+  "tags": [
+    "hotel-revenue-management",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612733233/icons/revcontrol.jpg",
+  "website": "https://www.revcontrol.com/"
+}

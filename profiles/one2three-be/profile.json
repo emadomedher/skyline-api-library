@@ -1,0 +1,13 @@
+{
+  "id": "one2three-be",
+  "title": "one2three",
+  "subtitle": "one2three API integration",
+  "tags": [
+    "food-ordering"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567089255/catalog/one2three-be/icon128x128.png",
+  "website": "https://one2three.be"
+}

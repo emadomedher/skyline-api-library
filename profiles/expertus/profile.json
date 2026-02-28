@@ -1,0 +1,13 @@
+{
+  "id": "expertus",
+  "title": "Expertus",
+  "subtitle": "The only LMS platform you’ll ever need, ExpertusONE is ranked the best LMS for engaging enterprise and extended enter...",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594230645/icons/expertus.jpg",
+  "website": "https://expertus.com"
+}

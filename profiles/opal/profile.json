@@ -1,0 +1,13 @@
+{
+  "id": "opal",
+  "title": "Opal",
+  "subtitle": "Opal is the platform for marketing collaboration making it simple to build, view, share and deliver highly effective ...",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946745/catalog/opal/icon128x128.jpg",
+  "website": "https://workwithopal.com"
+}

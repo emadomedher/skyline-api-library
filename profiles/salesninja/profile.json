@@ -1,0 +1,13 @@
+{
+  "id": "salesninja",
+  "title": "Salesninja",
+  "subtitle": "Sales Ninja Asia provides intensive Sales Training, Sales Motivation, Sales Seminars, Sales Courses, Sales Leadership...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437094/catalog/salesninja/icon128x128.png",
+  "website": "https://salesninja.asia"
+}

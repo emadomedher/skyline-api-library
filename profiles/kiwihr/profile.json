@@ -1,0 +1,13 @@
+{
+  "id": "kiwihr",
+  "title": "kiwiHR",
+  "subtitle": "HR software for small and medium-sized businesses. Digitise your processes and level up your employee management. Try...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1663543897/icons/kiwihr.jpg",
+  "website": "https://kiwihr.com/"
+}

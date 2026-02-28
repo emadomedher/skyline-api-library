@@ -1,0 +1,13 @@
+{
+  "id": "beampulse",
+  "title": "BeamPulse",
+  "subtitle": "Optimize your website conversion rate. Intuitive Web Analytics, Heatmaps, Funnels, Session Recording, AB Testing and ...",
+  "tags": [
+    "optimization-personalization-&-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719097/catalog/beampulse/icon128x128.jpg",
+  "website": "https://en.beampulse.com"
+}

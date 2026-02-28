@@ -1,0 +1,15 @@
+{
+  "id": "partnershipleaders",
+  "title": "Partnership Leaders",
+  "subtitle": "The top community for partnerships and alliance leaders looking to advance their career and improve their partner pro...",
+  "tags": [
+    "non-software",
+    "communities"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653426481/icons/partnershipleaders.png",
+  "website": "https://www.partnershipleaders.com/",
+  "docsUrl": "https://docs.google.com/document/d/e/2pacx-1vswaagfiq8ur2myw6oe1j7yi_oeanpnrsmgliwmwtlwda8yrwzqxbnr_sgteua03x-nlpbu2rmmjliw/pub"
+}

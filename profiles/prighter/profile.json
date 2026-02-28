@@ -1,0 +1,14 @@
+{
+  "id": "prighter",
+  "title": "Prighter",
+  "subtitle": " Prighter offers Privacy Representation & Software for EU and UK privacy law from 19€/month ✓Law Firm Expertise ✓DSR ...",
+  "tags": [
+    "compliance",
+    "data-privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640726490/icons/prighter.jpg",
+  "website": "https://prighter.com/"
+}

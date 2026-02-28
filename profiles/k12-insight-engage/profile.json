@@ -1,0 +1,12 @@
+{
+  "id": "k12-insight-engage",
+  "title": "K12 Insight Engage",
+  "subtitle": "K12 Insight Engage allows users to create, distribute, and analyze professional surveys, polls, and assessments.",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566829982/catalog/k12-insight-engage/icon128x128.png"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ilabank",
+  "title": "ila Bank",
+  "subtitle": " ila Bank is a digital, mobile only banking entity in Bahrain powered by Bank ABC, MENA's leading international bank.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600016311/icons/ilabank.jpg",
+  "website": "https://www.ilabank.com/",
+  "docsUrl": "https://developer.bank-abc.com"
+}

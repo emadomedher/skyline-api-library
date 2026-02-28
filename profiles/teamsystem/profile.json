@@ -1,0 +1,13 @@
+{
+  "id": "teamsystem",
+  "title": "TeamSystem",
+  "subtitle": "TeamSystem Group is the Italian leading management, ERP software and training services company for Enterprises, SME’s...",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584915989/catalog/teamsystem/icon128x128.png",
+  "website": "https://international.teamsystem.com"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "getseam",
+  "title": "Seam",
+  "subtitle": "Programmatically open doors, set thermostats, read sensors and more—using a single API that standardizes function cal...",
+  "tags": [
+    "iot-api",
+    "access-systems",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1656623493/icons/getseam.jpg",
+  "website": "https://www.getseam.com/",
+  "docsUrl": "https://getseam.com/developers"
+}

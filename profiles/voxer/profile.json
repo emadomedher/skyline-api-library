@@ -1,0 +1,12 @@
+{
+  "id": "voxer",
+  "title": "Voxer",
+  "subtitle": "Voxer is a walkie-talkie app for high-performance team communication. With Voxer, your team has secure, real-time com...",
+  "tags": [
+    "team-chat"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306456/catalog/voxer/icon128x128.png"
+}

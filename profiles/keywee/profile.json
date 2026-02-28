@@ -1,0 +1,13 @@
+{
+  "id": "keywee",
+  "title": "Keywee",
+  "subtitle": "Keywee API integration",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826715/catalog/keywee/icon128x128.png",
+  "website": "https://keywee.co"
+}

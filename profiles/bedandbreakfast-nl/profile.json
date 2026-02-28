@@ -1,0 +1,14 @@
+{
+  "id": "bedandbreakfast-nl",
+  "title": "Bedandbreakfast.eu",
+  "subtitle": "Search and Compare Extraordinary B&Bs in Inspiring destinations. Choose from over 4 million rooms and apartments Worl...",
+  "tags": [
+    "ota",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448066/icons/bedandbreakfast-nl.png",
+  "website": "https://www.bedandbreakfast.nl/"
+}

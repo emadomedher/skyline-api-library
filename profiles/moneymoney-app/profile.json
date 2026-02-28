@@ -1,0 +1,15 @@
+{
+  "id": "moneymoney-app",
+  "title": "MoneyMoney",
+  "subtitle": "Alle Bankkonten im Blick mit MoneyMoney. Finden Sie heraus, wo Ihr Geld herkommt und wo es hingeht.",
+  "tags": [
+    "accounting",
+    "budget-management",
+    "payments"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569370657/catalog/moneymoney-app/icon128x128.jpg",
+  "website": "https://moneymoney-app.com/"
+}

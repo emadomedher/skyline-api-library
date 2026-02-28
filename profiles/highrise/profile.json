@@ -1,0 +1,13 @@
+{
+  "id": "highrise",
+  "title": "Highrise",
+  "subtitle": "Highrise CRM helps you manage your contacts, keep track of who said what when, schedule follow-ups, set reminders, an...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305118/catalog/highrise/icon128x128.png",
+  "website": "https://highrisehq.com/"
+}

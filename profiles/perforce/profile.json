@@ -1,0 +1,14 @@
+{
+  "id": "perforce",
+  "title": "Perforce Software",
+  "subtitle": "Perforce Software provides enterprise-scale development tools. This includes version control, application lifecycle m...",
+  "tags": [
+    "development-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596813364/icons/perforce.jpg",
+  "website": "https://www.perforce.com/",
+  "docsUrl": "https://www.perforce.com/support/self-service-resources/documentation"
+}

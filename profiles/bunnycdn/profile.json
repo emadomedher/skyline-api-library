@@ -1,0 +1,13 @@
+{
+  "id": "bunnycdn",
+  "title": "BunnyCDN",
+  "subtitle": "BunnyCDN is a simple and powerful CDN, offering lightning fast performance for a fraction of the cost with free SSL, ...",
+  "tags": [
+    "cdn-(content-delivery-network)"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567507131/catalog/bunnycdn/icon128x128.png",
+  "website": "https://bunnycdn.com/"
+}

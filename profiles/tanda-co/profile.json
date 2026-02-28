@@ -1,0 +1,14 @@
+{
+  "id": "tanda-co",
+  "title": "Tanda",
+  "subtitle": "Cloud workforce management software inc. time & attendance, online rostering, timesheets, pay rates & payroll integra...",
+  "tags": [
+    "timetracking",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1564768961/catalog/tanda-co/icon128x128.jpg",
+  "website": "https://tanda.co"
+}

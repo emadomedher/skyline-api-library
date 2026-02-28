@@ -1,0 +1,13 @@
+{
+  "id": "huntington-bank",
+  "title": "Huntington Bank",
+  "subtitle": "Huntington Bancshares Incorporated is a bank holding company headquartered in Columbus, Ohio. The company is ranked 5...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630230751/icons/huntington-bank.jpg",
+  "website": "https://www.huntington.com/"
+}

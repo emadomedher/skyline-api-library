@@ -1,0 +1,15 @@
+{
+  "id": "zeal",
+  "title": "Zeal",
+  "subtitle": "Zeal powers modern payroll solutions for companies innovating new technology to pay workers in the digital age. Our A...",
+  "tags": [
+    "payroll-apis",
+    "embedded-payroll"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636511326/icons/zeal.png",
+  "website": "https://www.zeal.com/",
+  "docsUrl": "https://docs.zeal.com"
+}

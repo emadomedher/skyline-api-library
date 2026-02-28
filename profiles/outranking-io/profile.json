@@ -1,0 +1,14 @@
+{
+  "id": "outranking-io",
+  "title": "Outranking",
+  "subtitle": "Advanced AI-powered writing and researching platform to create high-quality SEO-optimized content in a fraction of th...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630633508/icons/outranking-io.jpg",
+  "website": "https://www.outranking.io/",
+  "docsUrl": "https://www.outranking.io/docs/documentation"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "privacygrader",
+  "title": "PrivacyGrader",
+  "subtitle": "PrivacyGrader API integration",
+  "tags": [
+    "security"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1608288010/icons/privacygrader.gif",
+  "website": "https://www.privacygrader.com/",
+  "docsUrl": "https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage"
+}

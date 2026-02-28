@@ -1,0 +1,13 @@
+{
+  "id": "thalamus-co",
+  "title": "Thalamus",
+  "subtitle": "Home to the largest ad vendor and buyer database in the world",
+  "tags": [
+    "through-channel-marketing-automation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594081801/icons/thalamus-co.png",
+  "website": "https://www.thalamus.co"
+}

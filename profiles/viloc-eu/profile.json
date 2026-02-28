@@ -1,0 +1,13 @@
+{
+  "id": "viloc-eu",
+  "title": "Viloc",
+  "subtitle": "Locate & Recover your assets without the need for traditional-, power-consuming and expensive GPS-systems. Viloc offe...",
+  "tags": [
+    "lorawan"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593641936/icons/viloc-eu.jpg",
+  "website": "https://www.viloc.eu/"
+}

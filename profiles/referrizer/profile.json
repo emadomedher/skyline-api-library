@@ -1,0 +1,13 @@
+{
+  "id": "referrizer",
+  "title": "Referrizer",
+  "subtitle": "Experience a surprisingly easy way to generate customer referrals, boost customer loyalty and enhance online reputati...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721793/catalog/referrizer/icon128x128.jpg",
+  "website": "https://referrizer.com"
+}

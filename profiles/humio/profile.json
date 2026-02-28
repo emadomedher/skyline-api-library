@@ -1,0 +1,15 @@
+{
+  "id": "humio",
+  "title": "Humio",
+  "subtitle": "Humio is a log management software, providing real-time, instant monitoring, analysis, and visibility of log data via...",
+  "tags": [
+    "log-management",
+    "devops"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566608130/catalog/humio/icon128x128.jpg",
+  "website": "https://www.humio.com/",
+  "docsUrl": "https://docs.humio.com"
+}

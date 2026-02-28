@@ -1,0 +1,13 @@
+{
+  "id": "polymerhq-io",
+  "title": "Polymer",
+  "subtitle": "NO-CODE Data Loss prevention (DLP) extend capabilities of your Compliance, Legal & Security Teams Real time risk obse...",
+  "tags": [
+    "data-loss-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646844775/icons/polymerhq-io.png",
+  "website": "https://www.polymerhq.io/"
+}

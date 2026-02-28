@@ -1,0 +1,14 @@
+{
+  "id": "open-metadata",
+  "title": "Open Metadata",
+  "subtitle": "Open Metadata API integration",
+  "tags": [
+    "metadata"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632075917/icons/open-metadata.jpg",
+  "website": "https://open-metadata.org/",
+  "docsUrl": "https://docs.open-metadata.org"
+}

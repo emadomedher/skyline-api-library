@@ -1,0 +1,13 @@
+{
+  "id": "setster",
+  "title": "Setster",
+  "subtitle": "Setster is an online appointment scheduling software built for complex enterprise booking needs, yet simple enough to...",
+  "tags": [
+    "scheduling"
+  ],
+  "category": "Scheduling",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830029/catalog/setster/icon128x128.png",
+  "website": "https://setster.com"
+}

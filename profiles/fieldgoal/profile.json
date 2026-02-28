@@ -1,0 +1,12 @@
+{
+  "id": "fieldgoal",
+  "title": "FieldGoal",
+  "subtitle": "FieldGoal provides form endpoints as a service, so your simple sites can stay simple.",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1535538989/catalog/fieldgoal/icon128x128.png"
+}

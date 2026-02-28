@@ -1,0 +1,13 @@
+{
+  "id": "tick",
+  "title": "Tick",
+  "subtitle": "Tick keeps projects on track so you make more money. It's time tracking worth everyone's time.",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306325/catalog/tick/icon128x128.png",
+  "website": "https://www.tickspot.com/"
+}

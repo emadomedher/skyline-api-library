@@ -1,0 +1,15 @@
+{
+  "id": "locoia",
+  "title": "Locoia",
+  "subtitle": "Automation ✓ Integration ✓ Analytics ✓ & Dashboarding ✓ - Steer your company to a growth path - with Locoia!",
+  "tags": [
+    "low-code",
+    "integration-platforms"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637093480/icons/locoia.png",
+  "website": "https://www.locoia.com/",
+  "docsUrl": "https://docs.locoia.com"
+}

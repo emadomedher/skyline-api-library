@@ -1,0 +1,12 @@
+{
+  "id": "mercury",
+  "title": "Mercury Connect",
+  "subtitle": "Mercury Connect is a CRM platform that lets you track people & opportunities, loan calculations, compare products, an...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305434/catalog/mercury/icon128x128.png"
+}

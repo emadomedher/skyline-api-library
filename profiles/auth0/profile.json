@@ -1,0 +1,14 @@
+{
+  "id": "auth0",
+  "title": "Auth0",
+  "subtitle": "Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by en...",
+  "tags": [
+    "identity-management"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557869596/catalog/auth0/icon128x128.jpg",
+  "website": "https://auth0.com",
+  "docsUrl": "https://auth0.com/docs"
+}

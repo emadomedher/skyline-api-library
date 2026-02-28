@@ -1,0 +1,13 @@
+{
+  "id": "abnamro",
+  "title": "ABN Amro",
+  "subtitle": "Welcome to ABN AMRO. ABN AMRO is an all-round Dutch bank that offers a full range of products and services to retail,...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563405294/catalog/abnamro/icon128x128.jpg",
+  "website": "https://abnamro.com"
+}

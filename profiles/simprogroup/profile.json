@@ -1,0 +1,14 @@
+{
+  "id": "simprogroup",
+  "title": "simPRO",
+  "subtitle": "simPRO is a cloud-based operations management software. Streamline field service management, business processes, conn...",
+  "tags": [
+    "field-service-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637851173/icons/simprogroup.png",
+  "website": "https://www.simprogroup.com/",
+  "docsUrl": "https://developer.simprogroup.com"
+}

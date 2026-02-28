@@ -1,0 +1,13 @@
+{
+  "id": "rasa-io",
+  "title": "rasa.io",
+  "subtitle": "Individualized newsletters created with curated content for each of your subscribers powered by AI.",
+  "tags": [
+    "newsletters"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593442123/icons/rasa-io.jpg",
+  "website": "https://rasa.io/"
+}

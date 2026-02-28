@@ -1,0 +1,14 @@
+{
+  "id": "saleo-io",
+  "title": "Saleo",
+  "subtitle": "Software sales is hard - don’t let generic or bad demo data interfere with winning deals. Deploy incredible, personal...",
+  "tags": [
+    "sales-demo",
+    "product-demo"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650227963/icons/saleo-io.jpg",
+  "website": "https://saleo.io/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "jortt",
+  "title": "jortt",
+  "subtitle": "Boekhoudprogramma met alles wat je nodig hebt. Jortt laat je Boekhouden met een Glimlach! ✓ Online ✓ Makkelijk en sne...",
+  "tags": [
+    "accounting"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562339836/catalog/jortt/icon128x128.png",
+  "website": "https://jortt.nl"
+}

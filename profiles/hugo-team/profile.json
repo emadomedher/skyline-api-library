@@ -1,0 +1,13 @@
+{
+  "id": "hugo-team",
+  "title": "Hugo",
+  "subtitle": "Centralized, searchable meeting notes that connect with your favorite tools.",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587645901/catalog/hugo-team/icon128x128.jpg",
+  "website": "https://www.hugo.team/"
+}

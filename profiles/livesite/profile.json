@@ -1,0 +1,13 @@
+{
+  "id": "livesite",
+  "title": "liveSite",
+  "subtitle": "The enterprise website solution without the enterprise price tag.",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826835/catalog/livesite/icon128x128.png",
+  "website": "https://livesite.com"
+}

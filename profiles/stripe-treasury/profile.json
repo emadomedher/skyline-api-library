@@ -1,0 +1,15 @@
+{
+  "id": "stripe-treasury",
+  "title": "Stripe Treasury",
+  "subtitle": "Stripe Treasury is a banking-as-a-service API that lets you embed financial services in your marketplace or platform,...",
+  "tags": [
+    "banking-as-a-service",
+    "embedded-finance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607045543/icons/stripe-treasury.png",
+  "website": "https://stripe.com/treasury",
+  "docsUrl": "https://stripe.com/docs"
+}

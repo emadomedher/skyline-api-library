@@ -1,0 +1,13 @@
+{
+  "id": "trust-hub",
+  "title": "Trust Hub",
+  "subtitle": "Secure personal data management technology, protect your customers and employees and ensure GDPR compliance with trus...",
+  "tags": [
+    "governance-compliance-and-privacy"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946445/catalog/trust-hub/icon128x128.jpg",
+  "website": "https://trust-hub.com"
+}

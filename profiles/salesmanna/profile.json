@@ -1,0 +1,13 @@
+{
+  "id": "salesmanna",
+  "title": "Salesmanna",
+  "subtitle": "Salesmanna is your Simple CRM for managing prospective customers and existing customer relationships. We include mark...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721917/catalog/salesmanna/icon128x128.jpg",
+  "website": "https://salesmanna.com"
+}

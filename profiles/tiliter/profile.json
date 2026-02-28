@@ -1,0 +1,14 @@
+{
+  "id": "tiliter",
+  "title": "Tiliter",
+  "subtitle": "Tiliter API integration",
+  "tags": [
+    "product-recognition",
+    "retail"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1603215543/icons/tiliter.jpg",
+  "website": "https://www.tiliter.com/"
+}

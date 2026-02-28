@@ -1,0 +1,12 @@
+{
+  "id": "amazon-kinesis",
+  "title": "Amazon Kinesis",
+  "subtitle": "Amazon Kinesis API integration",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439091/catalog/amazon-kinesis/icon128x128.svg"
+}

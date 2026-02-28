@@ -1,0 +1,12 @@
+{
+  "id": "adobe-creative-cloud",
+  "title": "Adobe Creative Cloud",
+  "subtitle": "Adobe Creative Cloud API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264734/catalog/adobe-creative-cloud/icon128x128.png"
+}

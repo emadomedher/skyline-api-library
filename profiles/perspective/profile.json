@@ -1,0 +1,13 @@
+{
+  "id": "perspective",
+  "title": "Perspective",
+  "subtitle": "Perspective is a mobile funnel builder which lets you create beautiful mobile experiences.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830009/catalog/perspective/icon128x128.png",
+  "website": "https://perspective.com.tr"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "macstadium",
+  "title": "MacStadium",
+  "subtitle": "Build faster with MacStadium's globally available, enterprise-grade Mac cloud solutions for CI/CD, Xcode, iOS builds,...",
+  "tags": [
+    "mac-infrastructure-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635528061/icons/macstadium.jpg",
+  "website": "https://www.macstadium.com/",
+  "docsUrl": "https://docs.macstadium.com"
+}

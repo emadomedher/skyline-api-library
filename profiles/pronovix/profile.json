@@ -1,0 +1,14 @@
+{
+  "id": "pronovix",
+  "title": "Pronovix",
+  "subtitle": "We are dedicated to the development and research of Developer Portals. We strive to be a full-service partner with in...",
+  "tags": [
+    "developer-documentation"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599270858/icons/pronovix.jpg",
+  "website": "https://pronovix.com/",
+  "docsUrl": "https://pronovix.com/developer-portals"
+}

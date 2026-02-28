@@ -1,0 +1,15 @@
+{
+  "id": "authzed",
+  "title": "authzed",
+  "subtitle": "authzed",
+  "tags": [
+    "acl",
+    "application-permissions"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1619030550/icons/authzed.jpg",
+  "website": "https://authzed.com/",
+  "docsUrl": "https://docs.authzed.com"
+}

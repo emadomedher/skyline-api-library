@@ -1,0 +1,14 @@
+{
+  "id": "ticketinghub",
+  "title": "TicketingHub",
+  "subtitle": "Cloud-Based tour and activity booking system & reservation software for different industries to run their online or o...",
+  "tags": [
+    "event-ticketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1635900776/icons/ticketinghub.jpg",
+  "website": "https://www.ticketinghub.com/",
+  "docsUrl": "https://legal.ticketinghub.com/docs"
+}

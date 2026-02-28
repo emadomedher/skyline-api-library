@@ -1,0 +1,14 @@
+{
+  "id": "belugacdn",
+  "title": "BelugaCDN",
+  "subtitle": "Cheap CDN with the best pricing plans. Easy to setup. Get started. BelugaCDN offers a high-performance, pay-as-you-go...",
+  "tags": [
+    "cdn-(content-delivery-network)"
+  ],
+  "category": "Cloud",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578049320/catalog/belugacdn/icon128x128.jpg",
+  "website": "https://www.belugacdn.com/",
+  "docsUrl": "https://docs.belugacdn.com"
+}

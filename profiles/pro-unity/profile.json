@@ -1,0 +1,15 @@
+{
+  "id": "pro-unity",
+  "title": "proUnity",
+  "subtitle": "Grâce à proUnity, vous centralisez tous les processus de recrutement et de gestion de vos collaborateurs externes sur...",
+  "tags": [
+    "hiring",
+    "recruiting",
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600431252/icons/pro-unity.jpg",
+  "website": "https://www.pro-unity.com/"
+}

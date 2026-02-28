@@ -1,0 +1,13 @@
+{
+  "id": "cebelca-biz",
+  "title": "Čebelca.biz",
+  "subtitle": "Čebelca.biz is a program that allows fast and simple invoicing, posting of incoming invoices, monitoring income and m...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612448055/icons/cebelca-biz.png",
+  "website": "https://www.cebelca.biz/"
+}

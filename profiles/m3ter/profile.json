@@ -1,0 +1,14 @@
+{
+  "id": "m3ter",
+  "title": "m3ter",
+  "subtitle": "m3ter enables software companies to intelligently deploy and manage usage-based pricing, helping eliminate billing op...",
+  "tags": [
+    "billing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646907558/icons/m3ter.jpg",
+  "website": "https://www.m3ter.com/",
+  "docsUrl": "https://www.m3ter.com/roles#developers"
+}

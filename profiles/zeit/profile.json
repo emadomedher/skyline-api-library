@@ -1,0 +1,14 @@
+{
+  "id": "zeit",
+  "title": "ZEIT",
+  "subtitle": "Our mission is to make cloud computing as easy and accessible as mobile computing.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557869590/catalog/zeit/icon128x128.png",
+  "website": "https://zeit.co",
+  "docsUrl": "https://zeit.co/docs"
+}

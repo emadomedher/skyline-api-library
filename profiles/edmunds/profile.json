@@ -1,0 +1,14 @@
+{
+  "id": "edmunds",
+  "title": "Edmunds",
+  "subtitle": "Research new and used cars including car prices, view incentives and dealer inventory listings, compare vehicles, get...",
+  "tags": [
+    "car-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645106644/icons/edmunds.jpg",
+  "website": "https://www.edmunds.com/",
+  "docsUrl": "https://developer.edmunds.com/api-documentation/vehicle/"
+}

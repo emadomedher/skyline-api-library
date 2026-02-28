@@ -1,0 +1,14 @@
+{
+  "id": "tackle-io",
+  "title": "Tackle",
+  "subtitle": "Tackle can help you list and sell your software in the AWS marketplace, with onboarding and reporting software built ...",
+  "tags": [
+    "channel-finance-pricing-and-inventory",
+    "cloud-marketplace-distribution"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571605465/catalog/tackle-io/icon128x128.jpg",
+  "website": "https://tackle.io/"
+}

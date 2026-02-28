@@ -1,0 +1,14 @@
+{
+  "id": "rdc",
+  "title": "RDC",
+  "subtitle": "RDC helps compliance teams around the world by delivering powerful, decision-ready risk intelligence and automated cu...",
+  "tags": [
+    "kyc",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597306191/icons/rdc.jpg",
+  "website": "https://rdc.com/"
+}

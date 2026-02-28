@@ -1,0 +1,13 @@
+{
+  "id": "affinilead",
+  "title": "Affinilead",
+  "subtitle": "La solution pour piloter vos actions de collecte et de génération de trafic à coût maitrisé !",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571004879/catalog/affinilead/icon128x128.png",
+  "website": "https://www.affinilead.com"
+}

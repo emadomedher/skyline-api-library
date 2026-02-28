@@ -1,0 +1,13 @@
+{
+  "id": "willful-co",
+  "title": "Willful",
+  "subtitle": "The smartest and easiest way to create your legal will and power of attorney online in Canada. Safe and secure. No la...",
+  "tags": [
+    "estate-planning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1640617429/icons/willful-co.jpg",
+  "website": "https://www.willful.co/"
+}

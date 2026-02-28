@@ -1,0 +1,13 @@
+{
+  "id": "kanboard",
+  "title": "Kanboard",
+  "subtitle": "Kanboard API integration",
+  "tags": [
+    "agile-&-lean-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720645/catalog/kanboard/icon128x128.png",
+  "website": "https://kanboard.net"
+}

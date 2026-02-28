@@ -1,0 +1,13 @@
+{
+  "id": "learningbank-io",
+  "title": "Learningbank A/S",
+  "subtitle": "Learningbank combines learning management, onboarding, e-learning and skill management in a user-friendly cloud based...",
+  "tags": [
+    "learning-management-system-(lms)"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585663008/catalog/learningbank-io/icon128x128.png",
+  "website": "https://www.learningbank.io/"
+}

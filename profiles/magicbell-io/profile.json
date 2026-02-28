@@ -1,0 +1,14 @@
+{
+  "id": "magicbell-io",
+  "title": "MagicBell",
+  "subtitle": "Add MagicBell's embeddable Notification Inbox to your product in an hour. Offer a real-time notification system to yo...",
+  "tags": [
+    "notifications"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609114659/icons/magicbell-io.jpg",
+  "website": "https://magicbell.io/",
+  "docsUrl": "https://developer.magicbell.io"
+}

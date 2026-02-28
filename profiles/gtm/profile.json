@@ -1,0 +1,13 @@
+{
+  "id": "gtm",
+  "title": "GTM Payroll Services",
+  "subtitle": "GTM Payroll Services is a premier provider of payroll, tax, insurance and human resources solutions for household emp...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626428655/icons/gtm.png",
+  "website": "https://gtm.com/"
+}

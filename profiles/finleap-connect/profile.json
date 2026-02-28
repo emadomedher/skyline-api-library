@@ -1,0 +1,15 @@
+{
+  "id": "finleap-connect",
+  "title": "finleap connect",
+  "subtitle": "We believe in empowering the future of financial technology together with you! Check out our financial products and c...",
+  "tags": [
+    "fintech",
+    "banking-as-a-service"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605746585/icons/finleap-connect.jpg",
+  "website": "https://connect.finleap.com/",
+  "docsUrl": "https://docs.finx.finleap.cloud"
+}

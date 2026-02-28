@@ -1,0 +1,13 @@
+{
+  "id": "oaknorth",
+  "title": "OakNorth Bank",
+  "subtitle": "OakNorth Bank API integration",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569632026/catalog/oaknorth/icon128x128.jpg",
+  "website": "https://www.oaknorth.com/"
+}

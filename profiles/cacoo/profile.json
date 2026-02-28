@@ -1,0 +1,15 @@
+{
+  "id": "cacoo",
+  "title": "Cacoo",
+  "subtitle": "Online diagram software to create and securely share flowcharts, wireframes, UML models, network diagram and more. Ov...",
+  "tags": [
+    "flowchart",
+    "diagramming"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598542096/icons/cacoo.jpg",
+  "website": "https://cacoo.com/",
+  "docsUrl": "http://developer.nulab.com/docs/cacoo"
+}

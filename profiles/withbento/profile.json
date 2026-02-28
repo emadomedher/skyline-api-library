@@ -1,0 +1,14 @@
+{
+  "id": "withbento",
+  "title": "Bento",
+  "subtitle": "Create your internal tools fast",
+  "tags": [
+    "internal-tools",
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1617908513/icons/withbento.jpg",
+  "website": "https://www.withbento.com/"
+}

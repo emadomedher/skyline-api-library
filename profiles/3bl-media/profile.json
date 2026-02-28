@@ -1,0 +1,14 @@
+{
+  "id": "3bl-media",
+  "title": "3BL Media",
+  "subtitle": "3BL Media API integration",
+  "tags": [
+    "pr",
+    "corporate-social-responsibility"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554432665/catalog/3bl-media/icon128x128.png",
+  "website": "https://3blmedia.com"
+}

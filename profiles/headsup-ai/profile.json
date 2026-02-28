@@ -1,0 +1,14 @@
+{
+  "id": "headsup-ai",
+  "title": "HeadsUp",
+  "subtitle": "HeadsUp pushes product analytics from Segment to Salesforce, surfacing usage metrics so you can proactively identify ...",
+  "tags": [
+    "product-led-sales"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1627010774/icons/headsup-ai.jpg",
+  "website": "https://www.headsup.ai/",
+  "docsUrl": "https://www.headsup.ai/docs-integrations-segment"
+}

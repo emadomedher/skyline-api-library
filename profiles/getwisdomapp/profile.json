@@ -1,0 +1,13 @@
+{
+  "id": "getwisdomapp",
+  "title": "Wisdom",
+  "subtitle": "Consult for businesses from your phone",
+  "tags": [
+    "knowledge-sharing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586894556/catalog/getwisdomapp/icon128x128.png",
+  "website": "https://getwisdomapp.com/"
+}

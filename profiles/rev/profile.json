@@ -1,0 +1,14 @@
+{
+  "id": "rev",
+  "title": "Rev",
+  "subtitle": "Affordable, accurate, easy-to-use speech-to-text solutions powered by people and A.I working together. Rev offers tra...",
+  "tags": [
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305879/catalog/rev/icon128x128.png",
+  "website": "https://www.rev.com",
+  "docsUrl": "https://www.rev.com/api/docs"
+}

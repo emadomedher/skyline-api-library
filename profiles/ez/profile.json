@@ -1,0 +1,13 @@
+{
+  "id": "ez",
+  "title": "eZ",
+  "subtitle": "Home",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947023/catalog/ez/icon128x128.png",
+  "website": "https://ez.no"
+}

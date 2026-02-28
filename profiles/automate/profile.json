@@ -1,0 +1,13 @@
+{
+  "id": "automate",
+  "title": "automate.io",
+  "subtitle": "Automate.io connects all your cloud applications with amazing ease. Automate marketing, sales processes, payments or ...",
+  "tags": [
+    "integration-platform"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719064/catalog/automate/icon128x128.jpg",
+  "website": "https://Automate.io"
+}

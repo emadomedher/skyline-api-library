@@ -1,0 +1,13 @@
+{
+  "id": "fetcher-ai",
+  "title": "Fetcher",
+  "subtitle": "Fetcher automated candidate sourcing combines machine learning and human intuition to source better talent 10x faster...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597268424/icons/fetcher-ai.png",
+  "website": "https://fetcher.ai"
+}

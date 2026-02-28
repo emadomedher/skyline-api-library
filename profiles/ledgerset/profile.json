@@ -1,0 +1,13 @@
+{
+  "id": "ledgerset",
+  "title": "Ledgerset",
+  "subtitle": "Ledgerset is a collaboration platform that helps retailers and suppliers discover new trading partners, create truste...",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1671583877/icons/ledgerset.png",
+  "website": "https://www.ledgerset.com/"
+}

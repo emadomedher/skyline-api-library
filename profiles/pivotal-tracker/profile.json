@@ -1,0 +1,14 @@
+{
+  "id": "pivotal-tracker",
+  "title": "Pivotal Tracker",
+  "subtitle": "Pivotal Tracker is the agile project management tool of choice for developers around the world for real-time collabor...",
+  "tags": [
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305691/catalog/pivotal-tracker/icon128x128.png",
+  "website": "https://www.pivotaltracker.com/",
+  "docsUrl": "https://www.pivotaltracker.com/help/api"
+}

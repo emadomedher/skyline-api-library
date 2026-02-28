@@ -1,0 +1,13 @@
+{
+  "id": "veelo",
+  "title": "Veelo",
+  "subtitle": "Veelo's award-winning sales enablement platform increases sales performance by predicatively guiding sellers on what ...",
+  "tags": [
+    "sales-automation-enablement-&-intelligence"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946406/catalog/veelo/icon128x128.jpg",
+  "website": "https://veeloinc.com"
+}

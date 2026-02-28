@@ -1,0 +1,15 @@
+{
+  "id": "shogun",
+  "title": "Shogun",
+  "subtitle": "Shogun is a drag and drop page builder for eCommerce platforms like Shopify and BigCommerce. Build beautiful custom p...",
+  "tags": [
+    "ecommerce-store-builder",
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555071082/catalog/shogun/icon128x128.jpg",
+  "website": "https://getshogun.com/",
+  "docsUrl": "https://developer.getshogun.com/"
+}

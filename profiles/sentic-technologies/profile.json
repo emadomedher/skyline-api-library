@@ -1,0 +1,13 @@
+{
+  "id": "sentic-technologies",
+  "title": "Sentic Technologies",
+  "subtitle": "A programmatic ad-buying digital marketing solution along with bid management, moment marketing, advertising automati...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946618/catalog/sentic-technologies/icon128x128.jpg",
+  "website": "https://sentictechnologies.com"
+}

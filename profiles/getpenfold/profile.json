@@ -1,0 +1,14 @@
+{
+  "id": "getpenfold",
+  "title": "Penfold",
+  "subtitle": "Penfold is the only pension built specifically for freelancers & contractors. Start with as much as you like or as li...",
+  "tags": [
+    "pension",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595242430/icons/getpenfold.png",
+  "website": "https://getpenfold.com/"
+}

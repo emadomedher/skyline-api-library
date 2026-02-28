@@ -1,0 +1,13 @@
+{
+  "id": "taskray",
+  "title": "TaskRay",
+  "subtitle": "TaskRay - More than Project Management. Customer Onboarding in Salesforce.",
+  "tags": [
+    "customer-onboarding"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563069297/catalog/taskray/icon128x128.jpg",
+  "website": "https://taskray.com"
+}

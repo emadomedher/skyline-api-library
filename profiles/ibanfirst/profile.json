@@ -1,0 +1,14 @@
+{
+  "id": "ibanfirst",
+  "title": "iBanFirst",
+  "subtitle": "iBanFirst provides international payment solutions based on cutting edge technology for any company that deserves the...",
+  "tags": [
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563415563/catalog/ibanfirst/icon128x128.jpg",
+  "website": "https://ibanfirst.com",
+  "docsUrl": "https://www.ibanfirst.com/open-api"
+}

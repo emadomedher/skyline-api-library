@@ -1,0 +1,13 @@
+{
+  "id": "invision",
+  "title": "InVision",
+  "subtitle": "InVision is the digital product design platform used to make the world’s best customer experiences.",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720543/catalog/invision/icon128x128.png",
+  "website": "https://invisionapp.com"
+}

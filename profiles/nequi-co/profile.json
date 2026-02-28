@@ -1,0 +1,13 @@
+{
+  "id": "nequi-co",
+  "title": "Nequi",
+  "subtitle": "Nequi is a Colombia-based Fintech that was first created by Bancolombia, one of the biggest bank in the country, to p...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611533830/icons/nequi-co.jpg",
+  "website": "https://www.nequi.com.co/"
+}

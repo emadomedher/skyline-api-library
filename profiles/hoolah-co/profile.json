@@ -1,0 +1,13 @@
+{
+  "id": "hoolah-co",
+  "title": "hoolah",
+  "subtitle": "Empowering consumers to buy now, pay later, while spending responsibly. 0% interest installments with both debit or c...",
+  "tags": [
+    "buy-now-pay-later"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643556231/icons/hoolah-co.jpg",
+  "website": "https://www.hoolah.co/"
+}

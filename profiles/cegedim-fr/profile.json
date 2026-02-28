@@ -1,0 +1,14 @@
+{
+  "id": "cegedim-fr",
+  "title": "Cegedim",
+  "subtitle": "Cegedim est une entreprise innovante de technologies et de services spécialisée dans la gestion des flux numériques d...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1670687119/icons/cegedim-fr.png",
+  "website": "https://www.cegedim.fr/",
+  "docsUrl": "https://www.cegedim.fr/finance/documentation/communiques/pages/default.aspx"
+}

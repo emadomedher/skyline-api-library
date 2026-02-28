@@ -1,0 +1,14 @@
+{
+  "id": "proliant",
+  "title": "Proliant",
+  "subtitle": "Proliant provides clients with powerful People Tools to simplify their Payroll and HR and delight their employees. Le...",
+  "tags": [
+    "payroll",
+    "hr"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582669841/catalog/proliant/icon128x128.jpg",
+  "website": "https://www.proliant.com/"
+}

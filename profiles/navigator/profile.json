@@ -1,0 +1,13 @@
+{
+  "id": "navigator",
+  "title": "Navigator",
+  "subtitle": "Productive, meaningful meetings are essential to getting things done—but they’re a lot of work pull off. Navigator is...",
+  "tags": [
+    "meetings"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561104755/catalog/navigator/icon128x128.png",
+  "website": "https://navigator.com"
+}

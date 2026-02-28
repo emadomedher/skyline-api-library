@@ -1,0 +1,14 @@
+{
+  "id": "stytch",
+  "title": "Stytch",
+  "subtitle": "Stytch - User infrastructure for modern applications",
+  "tags": [
+    "authentication",
+    "passwordless-auth"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610605001/icons/stytch.png",
+  "website": "https://stytch.com/"
+}

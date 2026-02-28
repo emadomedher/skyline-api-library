@@ -1,0 +1,13 @@
+{
+  "id": "kronos",
+  "title": "Kronos Incorporated",
+  "subtitle": "Kronos offers the powerful human capital management and workforce management solutions to help manage and engage your...",
+  "tags": [
+    "workforce-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604419124/icons/kronos.jpg",
+  "website": "https://www.kronos.com/"
+}

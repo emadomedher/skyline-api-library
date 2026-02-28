@@ -1,0 +1,13 @@
+{
+  "id": "vizcom-ai",
+  "title": "Vizcom",
+  "subtitle": "Vizcom is a creative tool that helps designers streamline the process of turning their concepts into physical products.",
+  "tags": [
+    "design"
+  ],
+  "category": "Design",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675801491/icons/vizcom-ai.png",
+  "website": "https://www.vizcom.ai/"
+}

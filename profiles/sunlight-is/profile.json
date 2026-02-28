@@ -1,0 +1,14 @@
+{
+  "id": "sunlight-is",
+  "title": "Sunlight",
+  "subtitle": "Sunlight API integration",
+  "tags": [
+    "microlearning"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676335606/icons/sunlight-is.png",
+  "website": "https://www.sunlight.is/",
+  "docsUrl": "http://docs.sunlight.is/#overview"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "smith-ai",
+  "title": "Smith.ai",
+  "subtitle": "Smith.ai is a superior receptionist & intake service for small & solo businesses. Our live, North America-based virtu...",
+  "tags": [
+    "virtual-receptionist-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589447823/catalog/smith-ai/icon128x128.png",
+  "website": "https://smith.ai/"
+}

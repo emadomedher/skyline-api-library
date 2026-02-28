@@ -1,0 +1,13 @@
+{
+  "id": "acubiz",
+  "title": "Acubiz",
+  "subtitle": "Our expense management service is for companies and organizations that want a better overview of their finances. Find...",
+  "tags": [
+    "expense-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1674652325/icons/acubiz.png",
+  "website": "https://www.acubiz.com/"
+}

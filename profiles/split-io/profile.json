@@ -1,0 +1,15 @@
+{
+  "id": "split-io",
+  "title": "Split",
+  "subtitle": "Split provides a unified solution for feature flags, experimentation and continuous delivery, centralizing feature fl...",
+  "tags": [
+    "feature-flags",
+    "continuous-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565395410/catalog/split-io/icon128x128.jpg",
+  "website": "https://split.io",
+  "docsUrl": "https://help.split.io/hc/en-us"
+}

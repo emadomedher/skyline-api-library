@@ -1,0 +1,13 @@
+{
+  "id": "datami",
+  "title": "Datami",
+  "subtitle": "Datami API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434119/catalog/datami/icon128x128.png",
+  "website": "https://Datami.com"
+}

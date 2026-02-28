@@ -1,0 +1,12 @@
+{
+  "id": "sepa-incasso",
+  "title": "SEPA Incasso",
+  "subtitle": "SEPA incasso is een Europees systeem voor automatische incasso waarmee bedrijven eurobetalingen kunnen incasseren van...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566509296/catalog/sepa-incasso/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dquip",
+  "title": "Dquip",
+  "subtitle": "List of CRMs for 17 industries. Get CRM pricing, CRM Hosting options, CRM Customisation, 17 CRM Demos and everything ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947123/catalog/dquip/icon128x128.png",
+  "website": "https://dquip.com"
+}

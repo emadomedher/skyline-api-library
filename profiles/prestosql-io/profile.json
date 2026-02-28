@@ -1,0 +1,16 @@
+{
+  "id": "prestosql-io",
+  "title": "Presto",
+  "subtitle": "Distributed SQL Query Engine for Big Data",
+  "tags": [
+    "sql",
+    "query-engines",
+    "big-data"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595706295/icons/prestosql-io.jpg",
+  "website": "https://prestosql.io/",
+  "docsUrl": "https://prestosql.io/docs/current"
+}

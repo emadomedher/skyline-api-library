@@ -1,0 +1,15 @@
+{
+  "id": "dastra-eu",
+  "title": "Dastra",
+  "subtitle": "Dastra is a data-driven, easy-to-use, and collaborative GDPR software, wish allows data protection officers in compan...",
+  "tags": [
+    "compliance",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1643226844/icons/dastra-eu.jpg",
+  "website": "https://www.dastra.eu/",
+  "docsUrl": "https://doc.dastra.eu/v/en"
+}

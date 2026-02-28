@@ -1,0 +1,13 @@
+{
+  "id": "popularbank",
+  "title": "Popular Bank",
+  "subtitle": "Popular Bank offers financial solutions tailored to meet the unique needs of our customers. We are here to help.",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630869000/icons/popularbank.jpg",
+  "website": "https://www.popularbank.com/"
+}

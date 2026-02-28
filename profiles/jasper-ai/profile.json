@@ -1,0 +1,14 @@
+{
+  "id": "jasper-ai",
+  "title": "Jasper (previously Jarvis)",
+  "subtitle": "Create content 5x faster with artificial intelligence. Jasper is the highest quality AI copywriting tool with over 3,...",
+  "tags": [
+    "copywriting"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1646844794/icons/jasper-ai.png",
+  "website": "https://www.jasper.ai/",
+  "docsUrl": "https://www.jasper.ai/contact-support"
+}

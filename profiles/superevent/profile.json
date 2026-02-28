@@ -1,0 +1,13 @@
+{
+  "id": "superevent",
+  "title": "SuperEvent",
+  "subtitle": "Create your free Event App with Superevent. Our easy to use platform allows you to set up your free App in minutes!",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722383/catalog/superevent/icon128x128.jpg",
+  "website": "https://superevent.com"
+}

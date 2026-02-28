@@ -1,0 +1,12 @@
+{
+  "id": "telesign-sms",
+  "title": "TeleSign SMS",
+  "subtitle": "TeleSign SMS enables apps to send global text messages. Add as another communications channel to send alerts, reminde...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545264847/catalog/telesign-sms/icon128x128.png"
+}

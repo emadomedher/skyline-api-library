@@ -1,0 +1,15 @@
+{
+  "id": "quizlet",
+  "title": "Quizlet",
+  "subtitle": "Quizlet makes simple learning tools that let you study anything. Start learning today with flashcards, games and lear...",
+  "tags": [
+    "learning-tools",
+    "flashcards",
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612234908/icons/quizlet.jpg",
+  "website": "https://quizlet.com/"
+}

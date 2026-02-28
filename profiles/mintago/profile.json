@@ -1,0 +1,13 @@
+{
+  "id": "mintago",
+  "title": "Mintago",
+  "subtitle": "Mintago is the UK’s most complete and inclusive financial wellbeing solution. Helping businesses support their employ...",
+  "tags": [
+    "financial-wellbeing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1687293169/icons/mintago.png",
+  "website": "https://mintago.com/"
+}

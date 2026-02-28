@@ -1,0 +1,13 @@
+{
+  "id": "lead-guerrilla",
+  "title": "Lead Guerrilla",
+  "subtitle": "Become a leader in your industry with Lead Guerrilla. Increase sales with targeted email campaigns, instead of bulk e...",
+  "tags": [
+    "marketing-automation-&-campaign/lead-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554435466/catalog/lead-guerrilla/icon128x128.png",
+  "website": "https://leadguerrilla.com"
+}

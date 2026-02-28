@@ -1,0 +1,13 @@
+{
+  "id": "trustbuilder",
+  "title": "TrustBuilder",
+  "subtitle": "Find all sorts of solutions for open banking, digital ecosystems and more for banking, insurance and mulitple other b...",
+  "tags": [
+    "identity"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609114320/icons/trustbuilder.jpg",
+  "website": "https://www.trustbuilder.com/"
+}

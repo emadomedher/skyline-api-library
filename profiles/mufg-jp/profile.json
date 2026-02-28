@@ -1,0 +1,14 @@
+{
+  "id": "mufg-jp",
+  "title": "MUFG Bank",
+  "subtitle": "Mitsubishi UFJ Financial Group is a leading  global financial services group and one of the largest banking institusi...",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563415560/catalog/mufg-jp/icon128x128.png",
+  "website": "https://www.bk.mufg.jp/",
+  "docsUrl": "https://developer.portal.bk.mufg.jp/"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tmetric",
+  "title": "TMetric",
+  "subtitle": "Work time tracker for freelancers and teams. Simple tracking, lots of integrations, billable rates, budgets, reportin...",
+  "tags": [
+    "time-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306346/catalog/tmetric/icon128x128.png"
+}

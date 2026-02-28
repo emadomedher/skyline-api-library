@@ -1,0 +1,13 @@
+{
+  "id": "just-social",
+  "title": "Just Social",
+  "subtitle": "Just Social is your digital workplace with all collaboration apps in one place.",
+  "tags": [
+    "collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720627/catalog/just-social/icon128x128.jpg",
+  "website": "https://just.social"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "whova",
+  "title": "Whova",
+  "subtitle": "Whova event app, online registration, event management software, and event marketing help you create the most engagin...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722882/catalog/whova/icon128x128.png",
+  "website": "https://whova.com"
+}

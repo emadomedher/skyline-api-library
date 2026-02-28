@@ -1,0 +1,16 @@
+{
+  "id": "multis-co",
+  "title": "Multis",
+  "subtitle": "A simple and powerful interface designed for your team to access, manage, and use your company's crypto. Set up your ...",
+  "tags": [
+    "cryptobanks",
+    "fintech",
+    "crypto",
+    "challenger-banks"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566774045/catalog/multis-co/icon128x128.png",
+  "website": "https://multis.co/"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "smartbear",
+  "title": "SmartBear",
+  "subtitle": "Testing and Development teams around the world use SmartBear's automation, development and monitoring tools to build ...",
+  "tags": [
+    "testing",
+    "developer-tools",
+    "application-performance-monitoring",
+    "api-management"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555962295/catalog/smartbear/icon128x128.png",
+  "website": "https://smartbear.com",
+  "docsUrl": "https://smartbear.com/product/testleft"
+}

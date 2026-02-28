@@ -1,0 +1,15 @@
+{
+  "id": "avaloq",
+  "title": "Avaloq",
+  "subtitle": "We digitize and automate the financial industry.",
+  "tags": [
+    "core-banking",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582233375/catalog/avaloq/icon128x128.png",
+  "website": "https://www.avaloq.com/",
+  "docsUrl": "https://www.avaloq.com/en/for-developers"
+}

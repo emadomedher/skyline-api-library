@@ -1,0 +1,13 @@
+{
+  "id": "logixone-cloud",
+  "title": "Logix One – Cloud Application Service",
+  "subtitle": "Logix One – Cloud Application Service API integration",
+  "tags": [
+    "erp"
+  ],
+  "category": "ERP",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616155007/icons/logixone-cloud.png",
+  "website": "https://logixone.cloud/"
+}

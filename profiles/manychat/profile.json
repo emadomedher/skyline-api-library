@@ -1,0 +1,13 @@
+{
+  "id": "manychat",
+  "title": "ManyChat",
+  "subtitle": "ManyChat is an all-in-one Messenger Marketing platform. Create your Facebook Messenger bot for marketing, sales and s...",
+  "tags": [
+    "social-media-management"
+  ],
+  "category": "Social Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456349/catalog/manychat/icon128x128.png",
+  "website": "https://manychat.com/"
+}

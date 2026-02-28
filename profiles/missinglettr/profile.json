@@ -1,0 +1,13 @@
+{
+  "id": "missinglettr",
+  "title": "MissingLettr",
+  "subtitle": "Clever social campaigns and engagement tools for companies that blog.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721139/catalog/missinglettr/icon128x128.png",
+  "website": "https://missinglettr.com"
+}

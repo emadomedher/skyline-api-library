@@ -1,0 +1,13 @@
+{
+  "id": "ramp",
+  "title": "Ramp",
+  "subtitle": "Grow more. Waste less. Enterprise corporate cards built from the ground up to save your company money: issue unlimite...",
+  "tags": [
+    "spend-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436804/catalog/ramp/icon128x128.png",
+  "website": "https://ramp.com"
+}

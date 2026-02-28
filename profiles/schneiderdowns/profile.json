@@ -1,0 +1,14 @@
+{
+  "id": "schneiderdowns",
+  "title": "Schneider Downs",
+  "subtitle": "Schneider Downs API integration",
+  "tags": [
+    "accounting-firms",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621864555/icons/schneiderdowns.jpg",
+  "website": "https://www.schneiderdowns.com/"
+}

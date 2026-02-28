@@ -1,0 +1,13 @@
+{
+  "id": "matera-eu",
+  "title": "Matera",
+  "subtitle": "Matera permet aux copropriétaires de gérer leur immeuble, sans passer par un syndic professionnel.",
+  "tags": [
+    "property-management"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579267001/catalog/matera-eu/icon128x128.png",
+  "website": "https://www.matera.eu/"
+}

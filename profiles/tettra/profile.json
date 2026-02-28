@@ -1,0 +1,13 @@
+{
+  "id": "tettra",
+  "title": "Tettra",
+  "subtitle": "Tettra is a company wiki for organizing & sharing knowledge with your team.",
+  "tags": [
+    "team-collaboration",
+    "documents"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284632/catalog/tettra/icon128x128.png"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "hired",
+  "title": "Hired",
+  "subtitle": "With Hired your job search has never been easier! Simply create a profile & vetted companies compete for you, reachin...",
+  "tags": [
+    "job-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1647698458/icons/hired.jpg",
+  "website": "https://hired.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "swiftstack",
+  "title": "SwiftStack",
+  "subtitle": "SwiftStack is the platform for intelligent data and enables deep learning at ultra-scale",
+  "tags": [
+    "data-storage"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583614331/catalog/swiftstack/icon128x128.jpg",
+  "website": "https://www.swiftstack.com/",
+  "docsUrl": "https://www.swiftstack.com/docs"
+}

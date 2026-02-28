@@ -1,0 +1,14 @@
+{
+  "id": "seba-swiss",
+  "title": "SEBA",
+  "subtitle": "SEBA is the world's first licensed and supervised Bank combining the new financial world of digital assets with tradi...",
+  "tags": [
+    "challenger-banks",
+    "crypto"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591559010/icons/seba-swiss.jpg",
+  "website": "https://www.seba.swiss/"
+}

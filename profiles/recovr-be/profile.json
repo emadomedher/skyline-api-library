@@ -1,0 +1,13 @@
+{
+  "id": "recovr-be",
+  "title": "recovr",
+  "subtitle": "Recovr révolutionne la gestion et le recouvrement de vos impayés. Nous suivons 100% de vos factures, à 0% de commissi...",
+  "tags": [
+    "debt-collection"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583982035/catalog/recovr-be/icon128x128.jpg",
+  "website": "https://www.recovr.be/"
+}

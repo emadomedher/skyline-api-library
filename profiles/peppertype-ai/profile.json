@@ -1,0 +1,13 @@
+{
+  "id": "peppertype-ai",
+  "title": "Peppertype.ai",
+  "subtitle": "Your virtual content assistant that helps you generate quality content within seconds.",
+  "tags": [
+    "content-generation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1614523272/icons/peppertype-ai.png",
+  "website": "http://peppertype.ai/"
+}

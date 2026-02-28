@@ -1,0 +1,15 @@
+{
+  "id": "azure-devops-server",
+  "title": "Azure DevOps Server",
+  "subtitle": "Share code, track work, and ship software using integrated developer tools, hosted on-premises with Azure DevOps Server",
+  "tags": [
+    "source-code-management",
+    "issue-tracking"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1598543615/icons/azure-devops-server.png",
+  "website": "https://azure.microsoft.com/en-us/services/devops/server/",
+  "docsUrl": "https://azure.microsoft.com/en-us/product-categories/developer-tools"
+}

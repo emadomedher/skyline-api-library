@@ -1,0 +1,15 @@
+{
+  "id": "homeaway-au",
+  "title": "HomeAway.com.au",
+  "subtitle": "Find stunning holiday rentals on HomeAway - a holiday homes leader ✓+2 million rentals worldwide ✓19+ million reviews...",
+  "tags": [
+    "travel",
+    "marketplaces",
+    "non-saas"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1610785336/icons/homeaway-au.png",
+  "website": "https://www.homeaway.com.au/"
+}

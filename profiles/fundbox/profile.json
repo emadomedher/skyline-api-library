@@ -1,0 +1,14 @@
+{
+  "id": "fundbox",
+  "title": "Fundbox",
+  "subtitle": "We build financial technology to help more business owners succeed. Our goal is to revolutionize the business economy...",
+  "tags": [
+    "b2b-credit",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569446917/catalog/fundbox/icon128x128.png",
+  "website": "https://fundbox.com"
+}

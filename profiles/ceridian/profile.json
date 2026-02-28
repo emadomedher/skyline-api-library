@@ -1,0 +1,16 @@
+{
+  "id": "ceridian",
+  "title": "Ceridian",
+  "subtitle": "Human capital management from Ceridian transforms your HR, business payroll, workforce management and talent manageme...",
+  "tags": [
+    "human-capital-management",
+    "hris",
+    "payroll"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1567369114/catalog/ceridian/icon128x128.jpg",
+  "website": "https://www.ceridian.com/",
+  "docsUrl": "https://www.ceridian.com/preference-center"
+}

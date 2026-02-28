@@ -1,0 +1,15 @@
+{
+  "id": "companies-house-uk",
+  "title": "Companies House",
+  "subtitle": "We incorporate and dissolve limited companies. We register company information and make it available to the public. C...",
+  "tags": [
+    "company-registers",
+    "registrars",
+    "government"
+  ],
+  "category": "Government",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1585314540/catalog/companies-house-uk/icon128x128.png",
+  "website": "https://www.gov.uk/government/organisations/companies-house"
+}

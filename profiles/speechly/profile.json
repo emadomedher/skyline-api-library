@@ -1,0 +1,14 @@
+{
+  "id": "speechly",
+  "title": "Speechly",
+  "subtitle": "Speechly enables developers with easy tools for building the next killer voice application",
+  "tags": [
+    "speech-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576794135/catalog/speechly/icon128x128.png",
+  "website": "https://www.speechly.com/",
+  "docsUrl": "https://www.speechly.com/careers/ui-developer"
+}

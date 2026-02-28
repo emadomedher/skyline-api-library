@@ -1,0 +1,12 @@
+{
+  "id": "miestro",
+  "title": "Miestro",
+  "subtitle": "Miestro is a membership platform for online education courses, where you can create powerful courses with free or pay...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305447/catalog/miestro/icon128x128.png"
+}

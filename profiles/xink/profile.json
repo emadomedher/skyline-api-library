@@ -1,0 +1,13 @@
+{
+  "id": "xink",
+  "title": "Xink",
+  "subtitle": "Leave professional and branded impressions in every email. Manage all company email signatures centrally and run targ...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946331/catalog/xink/icon128x128.jpg",
+  "website": "https://xink.io"
+}

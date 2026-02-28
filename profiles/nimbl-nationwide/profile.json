@@ -1,0 +1,13 @@
+{
+  "id": "nimbl-nationwide",
+  "title": "Nimbl by Nationwide",
+  "subtitle": "A smarter way out of debt - Nimbl by Nationwide is a free mobile app that helps users design a personalized plan to g...",
+  "tags": [
+    "personal-finance-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261125/icons/nimbl-nationwide.png",
+  "website": "https://nimbl.nationwide.com/"
+}

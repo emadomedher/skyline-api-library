@@ -1,0 +1,15 @@
+{
+  "id": "karmakitchen-co",
+  "title": "Karma Kitchen",
+  "subtitle": "Kitchen space and co-working. Commercial kitchens for catering, food and \ndrink in London.",
+  "tags": [
+    "dark-kitchens",
+    "cloud-kitchens",
+    "restech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594660411/icons/karmakitchen-co.jpg",
+  "website": "https://www.karmakitchen.co/"
+}

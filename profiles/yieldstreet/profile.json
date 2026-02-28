@@ -1,0 +1,14 @@
+{
+  "id": "yieldstreet",
+  "title": "YieldStreet",
+  "subtitle": "Yieldstreet is an alternative investment platform focused on generating passive income streams for accredited investors.",
+  "tags": [
+    "fintech",
+    "alternative-investment-platforms"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592519769/icons/yieldstreet.jpg",
+  "website": "https://www.yieldstreet.com/"
+}

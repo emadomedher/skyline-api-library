@@ -1,0 +1,14 @@
+{
+  "id": "credit-agricole-italia",
+  "title": "Crédit Agricole Italia",
+  "subtitle": "Crédit Agricole Italia API integration",
+  "tags": [
+    "banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1569631989/catalog/credit-agricole-italia/icon128x128.jpg",
+  "website": "https://www.credit-agricole.it/#",
+  "docsUrl": "https://www.creditagricolestore.fr/castore-data-provider/docs/V1/index.html"
+}

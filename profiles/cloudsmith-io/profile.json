@@ -1,0 +1,15 @@
+{
+  "id": "cloudsmith-io",
+  "title": "Cloudsmith",
+  "subtitle": "Get better DevOps with secure software delivery for: Alpine, Cargo, Composer, CRAN, Debian, Docker, Go, Helm, LuaRock...",
+  "tags": [
+    "package-management",
+    "oss"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574261268/catalog/cloudsmith-io/icon128x128.jpg",
+  "website": "https://cloudsmith.io/",
+  "docsUrl": "https://help.cloudsmith.io"
+}

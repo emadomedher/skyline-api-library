@@ -1,0 +1,14 @@
+{
+  "id": "tubitv",
+  "title": "Tubi",
+  "subtitle": "Tubi API integration",
+  "tags": [
+    "video-streaming",
+    "streaming-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1579380450/catalog/tubitv/icon128x128.jpg",
+  "website": "https://tubitv.com"
+}

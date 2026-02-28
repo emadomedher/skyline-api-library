@@ -1,0 +1,13 @@
+{
+  "id": "outdoorsy",
+  "title": "Outdoorsy",
+  "subtitle": "Rent an RV, motorhome, trailer, or campervan from Outdoorsy for your next adventure. Outdoorsy is the #1 most trusted...",
+  "tags": [
+    "rv-rental-marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616042039/icons/outdoorsy.png",
+  "website": "https://www.outdoorsy.com/"
+}

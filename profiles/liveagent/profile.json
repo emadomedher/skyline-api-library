@@ -1,0 +1,13 @@
+{
+  "id": "liveagent",
+  "title": "LiveAgent",
+  "subtitle": "LiveAgent is the only customer support app you will ever need. Helpdesk, Ticketing, Automation, Live Chat, Call Cente...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305308/catalog/liveagent/icon128x128.png",
+  "website": "https://www.ladesk.com/"
+}

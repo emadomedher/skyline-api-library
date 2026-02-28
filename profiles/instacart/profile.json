@@ -1,0 +1,14 @@
+{
+  "id": "instacart",
+  "title": "Instacart",
+  "subtitle": "Groceries delivered in as fast as 1 hour. Choose from stores like Publix, ALDI, Costco, Kroger, Wegmans, Petco and more.",
+  "tags": [
+    "grocery-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581132468/catalog/instacart/icon128x128.png",
+  "website": "https://www.instacart.com/",
+  "docsUrl": "https://docs.instacart.com/connect/"
+}

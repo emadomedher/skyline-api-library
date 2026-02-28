@@ -1,0 +1,15 @@
+{
+  "id": "outshifter",
+  "title": "Outshifter",
+  "subtitle": "Outshifter is the API for product data access. Give or get access to product data, and manage it all in one universal...",
+  "tags": [
+    "unified-apis",
+    "ecommerce-data"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664306229/icons/outshifter.jpg",
+  "website": "https://www.outshifter.com/",
+  "docsUrl": "https://docs.outshifter.com/welcome"
+}

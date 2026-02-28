@@ -1,0 +1,14 @@
+{
+  "id": "getcargo-io",
+  "title": "GetCargo",
+  "subtitle": "Cargo let you build your own revenue applications sitting on top of your company data. Join the waitlist to try the b...",
+  "tags": [
+    "revenue-orchestration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1675859900/icons/getcargo-io.png",
+  "website": "https://www.getcargo.io/",
+  "docsUrl": "https://technologytemplate.webflow.io/career/lead-backend-developer"
+}

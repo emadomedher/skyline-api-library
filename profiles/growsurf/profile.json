@@ -1,0 +1,14 @@
+{
+  "id": "growsurf",
+  "title": "GrowSurf",
+  "subtitle": "Grow your business with our powerful, highly customizable referral program software. Easily launch refer-a-friend cam...",
+  "tags": [
+    "referral-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1575925953/catalog/growsurf/icon128x128.png",
+  "website": "https://growsurf.com/",
+  "docsUrl": "https://docs.growsurf.com"
+}

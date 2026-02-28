@@ -1,0 +1,14 @@
+{
+  "id": "othersideai",
+  "title": "OthersideAI",
+  "subtitle": "Experience the future of email. Get through your inbox in record time with our next-generation AI that writes your em...",
+  "tags": [
+    "email-generation",
+    "sales"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605266459/icons/othersideai.jpg",
+  "website": "https://www.othersideai.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "xelda",
+  "title": "Xelda",
+  "subtitle": "The Finance Engine For Modern Business Get paid. Get instant access to funding. Stay on top of business finances. Xel...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1683273137/icons/xelda.jpg",
+  "website": "https://xelda.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "indent",
+  "title": "Indent",
+  "subtitle": "Designed to fit your infrastructure, tools and workflows. With Indent, companies can handle, audit and manage data ac...",
+  "tags": [
+    "internal-tools",
+    "access-control",
+    "compliance"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574028118/catalog/indent/icon128x128.png",
+  "website": "https://indent.com/"
+}

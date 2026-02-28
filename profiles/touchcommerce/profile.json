@@ -1,0 +1,13 @@
+{
+  "id": "touchcommerce",
+  "title": "TouchCommerce",
+  "subtitle": "View Nuance's digital customer engagement products to learn how this unified platform can help deliver the best custo...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722556/catalog/touchcommerce/icon128x128.jpg",
+  "website": "https://touchcommerce.com"
+}

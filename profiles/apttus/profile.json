@@ -1,0 +1,13 @@
+{
+  "id": "apttus",
+  "title": "Apttus",
+  "subtitle": "Apttus provides category-defining Quote-to-Cash software delivering CPQ, Contract Management, E-Commerce & Revenue Ma...",
+  "tags": [
+    "channel-incentives-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433085/catalog/apttus/icon128x128.png",
+  "website": "https://apttus.com"
+}

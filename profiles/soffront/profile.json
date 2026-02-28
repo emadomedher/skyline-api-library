@@ -1,0 +1,13 @@
+{
+  "id": "soffront",
+  "title": "Soffront",
+  "subtitle": "CRM & Marketing Automation to streamline your sales & marketing processes, so that you can capitalize on your busines...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554722233/catalog/soffront/icon128x128.jpg",
+  "website": "https://soffront.com"
+}

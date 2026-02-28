@@ -1,0 +1,15 @@
+{
+  "id": "rocket-chat",
+  "title": "Rocket.Chat",
+  "subtitle": "Lead with open source and keep your workflow going with the right team collaboration platform",
+  "tags": [
+    "team-messaging",
+    "open-source"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612573832/icons/rocket-chat.jpg",
+  "website": "https://rocket.chat/",
+  "docsUrl": "https://docs.rocket.chat"
+}

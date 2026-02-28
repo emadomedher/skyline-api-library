@@ -1,0 +1,14 @@
+{
+  "id": "gotoally",
+  "title": "Ally",
+  "subtitle": "Ally allows you to start tracking objectives and key results in under fifteen minutes",
+  "tags": [
+    "okr",
+    "performance-management-systems"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566429923/catalog/gotoally/icon128x128.png",
+  "website": "https://gotoally.com/"
+}

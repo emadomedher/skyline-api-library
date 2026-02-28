@@ -1,0 +1,14 @@
+{
+  "id": "teemly-net",
+  "title": "Teemly",
+  "subtitle": "Teemly - A virtual office for distributed teams",
+  "tags": [
+    "virtual-office",
+    "remote"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587324894/catalog/teemly-net/icon128x128.png",
+  "website": "https://teemly.net/"
+}

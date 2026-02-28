@@ -1,0 +1,14 @@
+{
+  "id": "bootstrap",
+  "title": "Bootstrap",
+  "subtitle": "The most popular HTML, CSS, and JS library in the world.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559937657/catalog/bootstrap/icon128x128.jpg",
+  "website": "https://getbootstrap.com",
+  "docsUrl": "https://getbootstrap.com/docs/4.3/getting-started/introduction"
+}

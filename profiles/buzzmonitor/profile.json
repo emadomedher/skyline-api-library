@@ -1,0 +1,13 @@
+{
+  "id": "buzzmonitor",
+  "title": "Buzzmonitor",
+  "subtitle": "social media monitoring, social analytics, social crm, customer care 2.0, social ads, social media influencers and so...",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719296/catalog/buzzmonitor/icon128x128.jpg",
+  "website": "https://getbuzzmonitor.com"
+}

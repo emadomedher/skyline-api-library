@@ -1,0 +1,13 @@
+{
+  "id": "mio",
+  "title": "Mio",
+  "subtitle": "Seamlessly chat with external contacts who use Slack, Microsoft Teams, Webex, and Zoom.",
+  "tags": [
+    "video-messaging"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1639471958/icons/mio.jpg",
+  "website": "https://m.io/"
+}

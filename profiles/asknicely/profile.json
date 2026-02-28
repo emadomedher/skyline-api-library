@@ -1,0 +1,13 @@
+{
+  "id": "asknicely",
+  "title": "AskNicely",
+  "subtitle": "AskNicely provides a platform for service businesses to empower their frontline teams, make every customer experience...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304425/catalog/asknicely/icon128x128.png",
+  "website": "https://www.asknice.ly/"
+}

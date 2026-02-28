@@ -1,0 +1,13 @@
+{
+  "id": "metrist-io",
+  "title": "Metrist",
+  "subtitle": "Metrist monitors the performance and availability of third party infrastructure and APIs, offering clear and definiti...",
+  "tags": [
+    "hosted-status-pages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653513031/icons/metrist-io.png",
+  "website": "https://metrist.io/"
+}

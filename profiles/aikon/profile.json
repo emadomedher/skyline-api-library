@@ -1,0 +1,14 @@
+{
+  "id": "aikon",
+  "title": "AIKON",
+  "subtitle": "AIKON is simplifying blockchain technology and providing intuitive products and services for enterprise companies.",
+  "tags": [
+    "blockchain"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1642055441/icons/aikon.jpg",
+  "website": "https://aikon.com/",
+  "docsUrl": "https://aikon.com/developers"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "openai",
+  "title": "OpenAI",
+  "subtitle": "OpenAI is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefi...",
+  "tags": [
+    "openai",
+    "machine-learning"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599819545/icons/openai.jpg",
+  "website": "https://openai.com/"
+}

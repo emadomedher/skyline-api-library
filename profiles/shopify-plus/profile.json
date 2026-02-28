@@ -1,0 +1,13 @@
+{
+  "id": "shopify-plus",
+  "title": "Shopfiy Plus",
+  "subtitle": "Shopify Plus is a completely hosted enterprise e-commerce platform aimed at high volume merchants",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555071081/catalog/shopify-plus/icon128x128.jpg",
+  "website": "https://www.shopify.com/plus"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "temper-works",
+  "title": "Temper",
+  "subtitle": "Temper: Bepaal zelf waar, wanneer en tegen welk tarief je werkt. Ga als FreeFlexer aan de slag bij 4.000 opdrachtgeve...",
+  "tags": [
+    "staffing-platforms"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1631974032/icons/temper-works.png",
+  "website": "https://temper.works/"
+}

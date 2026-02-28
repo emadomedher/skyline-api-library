@@ -1,0 +1,13 @@
+{
+  "id": "getbravo-io",
+  "title": "BRAVO! Employee Experience Management",
+  "subtitle": "BRAVO! Employee Experience Management API integration",
+  "tags": [
+    "employee-engagement"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1648679240/icons/getbravo-io.jpg",
+  "website": "https://getbravo.io/"
+}

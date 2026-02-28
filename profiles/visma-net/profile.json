@@ -1,0 +1,12 @@
+{
+  "id": "visma-net",
+  "title": "Visma.net",
+  "subtitle": "Met Visma.net beschikt u over een complete erp-cloudoplossing van volledig geïntegreerde diensten. Visma.net biedt di...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563056003/catalog/visma-net/icon128x128.jpg"
+}

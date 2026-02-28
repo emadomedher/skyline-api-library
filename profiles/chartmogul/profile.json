@@ -1,0 +1,14 @@
+{
+  "id": "chartmogul",
+  "title": "ChartMogul",
+  "subtitle": "SaaS & subscription reporting, analytics & metrics for Stripe, Braintree, Chargify, Recurly and PayPal. In one click ...",
+  "tags": [
+    "analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531055839/catalog/chartmogul/icon128x128.png",
+  "website": "https://chartmogul.com",
+  "docsUrl": "https://dev.chartmogul.com"
+}

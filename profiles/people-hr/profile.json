@@ -1,0 +1,14 @@
+{
+  "id": "people-hr",
+  "title": "People HR",
+  "subtitle": "Lightning-fast web-based HR software system crafted by HR experts, providing cutting-edge tools for tackling HR admin...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305649/catalog/people-hr/icon128x128.png",
+  "website": "https://www.peoplehr.com/",
+  "docsUrl": "https://apidocs.peoplehr.com/"
+}

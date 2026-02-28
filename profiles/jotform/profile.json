@@ -1,0 +1,14 @@
+{
+  "id": "jotform",
+  "title": "Jotform",
+  "subtitle": "If you need online forms for generating leads, distributing surveys, collecting payments and more, JotForm is for you...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686603004/icons/jotform.png",
+  "website": "https://www.jotform.com/",
+  "docsUrl": "https://www.jotform.com/developers"
+}

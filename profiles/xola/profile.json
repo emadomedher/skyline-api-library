@@ -1,0 +1,12 @@
+{
+  "id": "xola",
+  "title": "Xola",
+  "subtitle": "Xola is a powerful booking system built for tour and activity operators. Easily book customers and accept payments fo...",
+  "tags": [
+    "e-commerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306551/catalog/xola/icon128x128.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "quicktype-io",
+  "title": "quicktype",
+  "subtitle": "quicktype generates types and helper code for reading JSON in C#, Swift, JavaScript, Flow, Python, TypeScript, Go, Ru...",
+  "tags": [
+    "developer-tools",
+    "api",
+    "json"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571698519/catalog/quicktype-io/icon128x128.jpg",
+  "website": "https://quicktype.io/"
+}

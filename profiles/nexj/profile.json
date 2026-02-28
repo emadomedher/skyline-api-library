@@ -1,0 +1,13 @@
+{
+  "id": "nexj",
+  "title": "Nexj",
+  "subtitle": "We are the pioneers of Intelligent Customer Management (ICM) providing the best CRM solutions within the finance and ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721256/catalog/nexj/icon128x128.png",
+  "website": "https://nexj.com"
+}

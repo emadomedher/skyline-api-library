@@ -1,0 +1,15 @@
+{
+  "id": "datananas",
+  "title": "Datananas",
+  "subtitle": "Datananas is a sales engagement software that helps engage prospects to drive more pipeline and close more deals. 14-...",
+  "tags": [
+    "sales-engagement",
+    "lead-generation"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577441106/catalog/datananas/icon128x128.jpg",
+  "website": "https://www.datananas.com/",
+  "docsUrl": "https://docs.datananas.com/reference"
+}

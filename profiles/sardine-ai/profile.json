@@ -1,0 +1,14 @@
+{
+  "id": "sardine-ai",
+  "title": "Sardine",
+  "subtitle": "Build on our platform to stop fraud and increase revenue.",
+  "tags": [
+    "fraud-prevention"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1644525467/icons/sardine-ai.jpg",
+  "website": "https://www.sardine.ai/",
+  "docsUrl": "https://www.sardine.ai/developers"
+}

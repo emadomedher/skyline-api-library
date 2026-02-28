@@ -1,0 +1,15 @@
+{
+  "id": "ploi-io",
+  "title": "Ploi",
+  "subtitle": "Stop the Hassle. Start deploi'ing. Use Ploi.io for easy site deployments. We take all the difficult work out of your ...",
+  "tags": [
+    "deployment",
+    "developers"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566915644/catalog/ploi-io/icon128x128.png",
+  "website": "https://ploi.io/",
+  "docsUrl": "https://developers.ploi.io"
+}

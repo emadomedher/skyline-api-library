@@ -1,0 +1,14 @@
+{
+  "id": "standaard-be",
+  "title": "De Standaard",
+  "subtitle": "Het meest recente nieuws uit België en het buitenland, economie en geld, cultuur, sport en lifestyle. Lees online de ...",
+  "tags": [
+    "press",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584859575/catalog/standaard-be/icon128x128.jpg",
+  "website": "https://www.standaard.be/"
+}

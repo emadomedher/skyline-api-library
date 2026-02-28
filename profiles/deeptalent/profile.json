@@ -1,0 +1,13 @@
+{
+  "id": "deeptalent",
+  "title": "DeepTalent",
+  "subtitle": "Easy to use talent platform covering Performance Reviews, Goals, Recognition and Strengths Mapping. Build a culture o...",
+  "tags": [
+    "talent-management"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719765/catalog/deeptalent/icon128x128.jpg",
+  "website": "https://deeptalent.com"
+}

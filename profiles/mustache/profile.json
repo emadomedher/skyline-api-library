@@ -1,0 +1,13 @@
+{
+  "id": "mustache",
+  "title": "Mustache",
+  "subtitle": "Mustache.Website is a free service you can use to run your email campaigns, host your landing pages or send your tran...",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436012/catalog/mustache/icon128x128.png",
+  "website": "https://mustache.website"
+}

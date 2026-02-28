@@ -1,0 +1,14 @@
+{
+  "id": "act",
+  "title": "Act",
+  "subtitle": "Act! provides everything you need to market like a pro, turn leads into sales, and win raving fans for life. Get on t...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1545178346/catalog/act/icon128x128.png",
+  "website": "https://act.com",
+  "docsUrl": "https://developer.act.com/"
+}

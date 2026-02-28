@@ -1,0 +1,13 @@
+{
+  "id": "hellotrusty-io",
+  "title": "Trusty",
+  "subtitle": "La solution simple et intégrée. Engagez vos ambassadeurs. Multipliez les cooptations de vos collaborateurs. Facilitez...",
+  "tags": [
+    "employee-referral"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1641760607/icons/hellotrusty-io.png",
+  "website": "https://www.hellotrusty.io/"
+}

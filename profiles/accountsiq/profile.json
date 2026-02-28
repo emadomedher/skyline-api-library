@@ -1,0 +1,14 @@
+{
+  "id": "accountsiq",
+  "title": "AccountsIQ",
+  "subtitle": "Want to improve your finance teams productivity, streamline processes and grant your company greater business insight...",
+  "tags": [
+    "accounting",
+    "business-intelligence"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571041835/catalog/accountsiq/icon128x128.png",
+  "website": "https://accountsiq.com/"
+}

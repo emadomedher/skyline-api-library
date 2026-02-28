@@ -1,0 +1,15 @@
+{
+  "id": "microcks-io",
+  "title": "Microcks",
+  "subtitle": "Microcks.io",
+  "tags": [
+    "api-mocking",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1606568249/icons/microcks-io.jpg",
+  "website": "https://microcks.io/",
+  "docsUrl": "https://microcks.io/documentation"
+}

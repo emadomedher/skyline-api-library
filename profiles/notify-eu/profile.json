@@ -1,0 +1,14 @@
+{
+  "id": "notify-eu",
+  "title": "Notify",
+  "subtitle": "Sending impactful notifications to activate your customers and maximize user experience",
+  "tags": [
+    "chat-and-messaging-api"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1559908884/catalog/notify-eu/icon128x128.jpg",
+  "website": "https://notify.eu",
+  "docsUrl": "https://docs.notify.eu"
+}

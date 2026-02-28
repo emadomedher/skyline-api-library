@@ -1,0 +1,14 @@
+{
+  "id": "carnext",
+  "title": "CarNext.com",
+  "subtitle": "CarNext.com biedt een grote selectie tweedehands auto's van hoge kwaliteit.",
+  "tags": [
+    "car-finacing",
+    "car-marketplace"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1593520410/icons/carnext.png",
+  "website": "https://www.carnext.com/"
+}

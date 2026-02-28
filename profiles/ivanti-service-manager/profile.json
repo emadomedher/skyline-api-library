@@ -1,0 +1,12 @@
+{
+  "id": "ivanti-service-manager",
+  "title": "Ivanti Service Manager",
+  "subtitle": "Ivanti Service Manager is a native Cloud and On-Premise Service Management solution that transforms service and suppo...",
+  "tags": [
+    "customer-support"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305206/catalog/ivanti-service-manager/icon128x128.png"
+}

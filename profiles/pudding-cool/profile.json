@@ -1,0 +1,14 @@
+{
+  "id": "pudding-cool",
+  "title": "The Pudding",
+  "subtitle": "The Pudding explains ideas debated in culture with visual essays.",
+  "tags": [
+    "digital-publications",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621198608/icons/pudding-cool.jpg",
+  "website": "https://pudding.cool/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "parcellab",
+  "title": "parcelLab",
+  "subtitle": "parcelLab hilft Ihnen, alle Touchpoints der Customer Journey selbst zu managen und dadurch eine optimale Post-Purchas...",
+  "tags": [
+    "ecommerce",
+    "shipping"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594590533/icons/parcellab.jpg",
+  "website": "https://parcellab.com/"
+}

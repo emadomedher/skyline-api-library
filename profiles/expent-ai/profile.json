@@ -1,0 +1,13 @@
+{
+  "id": "expent-ai",
+  "title": "Expent",
+  "subtitle": "Vendor Lifecycle Management Platform",
+  "tags": [
+    "procurement"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650881537/icons/expent-ai.png",
+  "website": "https://www.expent.ai/"
+}

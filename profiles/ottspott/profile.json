@@ -1,0 +1,13 @@
+{
+  "id": "ottspott",
+  "title": "Ottspott",
+  "subtitle": "Add a powerful phone platform to G Suite and Slack. Instant set-up, no long term contracts. Secure, global, scalable....",
+  "tags": [
+    "live-chat-and-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721392/catalog/ottspott/icon128x128.jpg",
+  "website": "https://ottspott.co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "plezi",
+  "title": "Plezi",
+  "subtitle": "Plezi helps fast growing B2B companies to generate more leads thanks to their content.",
+  "tags": [
+    "marketing-automation"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566830013/catalog/plezi/icon128x128.png",
+  "website": "https://plezi.co"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "slashlead",
+  "title": "SlashLead",
+  "subtitle": "Slashlead is to help small and medium sized business owners to accelerate their business with more sales, in less time",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1561376407/catalog/slashlead/icon128x128.jpg",
+  "website": "https://slashlead.com"
+}

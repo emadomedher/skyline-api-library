@@ -1,0 +1,12 @@
+{
+  "id": "quicktapsurvey",
+  "title": "QuickTapSurvey",
+  "subtitle": "QuickTapSurvey lets you capture data in person using tablets and phones - no internet needed. The app is used for lea...",
+  "tags": [
+    "surveys"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305814/catalog/quicktapsurvey/icon128x128.png"
+}

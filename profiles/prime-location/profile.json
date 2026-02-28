@@ -1,0 +1,13 @@
+{
+  "id": "prime-location",
+  "title": "Prime Location",
+  "subtitle": "PrimeLocation.com is one of the UK's leading property websites, focussed on the middle and upper tiers of the market.",
+  "tags": [
+    "real-estate-portals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551227410/catalog/prime-location/icon128x128.jpg",
+  "website": "https://www.primelocation.com/"
+}

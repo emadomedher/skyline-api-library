@@ -1,0 +1,15 @@
+{
+  "id": "getcruise",
+  "title": "Cruise",
+  "subtitle": "We’re Cruise, a self-driving car service designed for the cities we love.",
+  "tags": [
+    "automotive",
+    "non-saas"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1611123674/icons/getcruise.png",
+  "website": "https://www.getcruise.com/",
+  "docsUrl": "https://docs.google.com/document/d/1fia0e50wbdwl8boc8p5djcety5hncdjbaneyelfpmvk/edit#bookmark=id.e5eet97nzx2g"
+}

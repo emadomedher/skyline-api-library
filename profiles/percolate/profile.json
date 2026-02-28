@@ -1,0 +1,13 @@
+{
+  "id": "percolate",
+  "title": "Percolate",
+  "subtitle": "Percolate is the leading Content Marketing Platform for the world’s largest and fastest growing brands. Percolate off...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554436413/catalog/percolate/icon128x128.png",
+  "website": "https://percolate.com"
+}

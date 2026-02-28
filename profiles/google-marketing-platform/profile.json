@@ -1,0 +1,14 @@
+{
+  "id": "google-marketing-platform",
+  "title": "Google Marketing Platform",
+  "subtitle": "Google Marketing Platform API integration",
+  "tags": [
+    "advertising",
+    "analytics"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578240435/catalog/google-marketing-platform/icon128x128.jpg",
+  "website": "https://marketingplatform.google.com/"
+}

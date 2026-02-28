@@ -1,0 +1,13 @@
+{
+  "id": "adelphic",
+  "title": "Adelphic",
+  "subtitle": "Adelphic API integration",
+  "tags": [
+    "mobile-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556939499/catalog/adelphic/icon128x128.png",
+  "website": "https://adelphic.com"
+}

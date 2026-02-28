@@ -1,0 +1,14 @@
+{
+  "id": "tail-at",
+  "title": "Tail",
+  "subtitle": "Cashback directly to your Starling or Monzo account. Simply pay with your linked card and enjoy up to 50% cashback at...",
+  "tags": [
+    "fintech",
+    "cashback"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1565587672/catalog/tail-at/icon128x128.png",
+  "website": "https://tail.at/"
+}

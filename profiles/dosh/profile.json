@@ -1,0 +1,13 @@
+{
+  "id": "dosh",
+  "title": "Dosh",
+  "subtitle": "Get effortless cash back whenever you shop & dine out at stores and restaurants near you. No points, no coupons, no r...",
+  "tags": [
+    "cash-back"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602106910/icons/dosh.jpg",
+  "website": "https://dosh.com/"
+}

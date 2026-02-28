@@ -1,0 +1,13 @@
+{
+  "id": "mopinion",
+  "title": "Mopinion",
+  "subtitle": "Mopinion is all-in-1 software to collect and analyse user feedback. Improve your digital channels such as websites an...",
+  "tags": [
+    "customer-experience-service-&-success"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963548/catalog/mopinion/icon128x128.png",
+  "website": "https://mopinion.com"
+}

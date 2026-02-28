@@ -1,0 +1,13 @@
+{
+  "id": "kount",
+  "title": "Kount",
+  "subtitle": "Learn how Kount detects and prevents fraud for online businesses; including preventing payments fraud, account creati...",
+  "tags": [
+    "security-&-fraud"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1562957801/catalog/kount/icon128x128.jpg",
+  "website": "https://kount.com"
+}

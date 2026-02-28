@@ -1,0 +1,13 @@
+{
+  "id": "buzzilla",
+  "title": "Buzzilla",
+  "subtitle": "Buzzilla API integration",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554719290/catalog/buzzilla/icon128x128.jpg",
+  "website": "https://buzzilla.com"
+}

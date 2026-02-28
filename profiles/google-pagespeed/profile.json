@@ -1,0 +1,13 @@
+{
+  "id": "google-pagespeed",
+  "title": "Pagespeed Insights",
+  "subtitle": "Get performance insights about your webpages",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1578381345/catalog/google-pagespeed/icon128x128.png",
+  "website": "https://developers.google.com/speed/pagespeed/insights/"
+}

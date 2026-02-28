@@ -1,0 +1,14 @@
+{
+  "id": "dowjones",
+  "title": "Dow Jones",
+  "subtitle": "Dow Jones publishes the world’s most trusted business news and financial information in a variety of media. It delive...",
+  "tags": [
+    "stock-market-indexes"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605533751/icons/dowjones.jpg",
+  "website": "https://www.dowjones.com/",
+  "docsUrl": "https://www.dowjones.com/product-category/the-dna-platform"
+}

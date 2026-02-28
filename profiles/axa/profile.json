@@ -1,0 +1,14 @@
+{
+  "id": "axa",
+  "title": "AXA",
+  "subtitle": "Present in 57 countries, AXA's 160,000 employees and distributors are committed to serving our 108 million clients. O...",
+  "tags": [
+    "insurance",
+    "non-software"
+  ],
+  "category": "Insurance",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1597100185/icons/axa.png",
+  "website": "https://www.axa.com/"
+}

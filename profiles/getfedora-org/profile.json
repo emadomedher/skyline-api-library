@@ -1,0 +1,14 @@
+{
+  "id": "getfedora-org",
+  "title": "Fedora",
+  "subtitle": "Choose Freedom. Choose Fedora. Pick a flavor of Fedora streamlined for your needs, and get to work right away.",
+  "tags": [
+    "operating-systems",
+    "linux"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1582529414/catalog/getfedora-org/icon128x128.png",
+  "website": "https://getfedora.org/"
+}

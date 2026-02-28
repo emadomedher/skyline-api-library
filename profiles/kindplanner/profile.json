@@ -1,0 +1,12 @@
+{
+  "id": "kindplanner",
+  "title": "Kindplanner",
+  "subtitle": "KindPlanner is een softwarebedrijf dat slimme oplossingen voor de kinderopvang realiseert. Vanuit de visie dat de bed...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256944/catalog/kindplanner/icon128x128.png"
+}

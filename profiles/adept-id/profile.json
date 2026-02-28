@@ -1,0 +1,14 @@
+{
+  "id": "adept-id",
+  "title": "AdeptID",
+  "subtitle": "AdeptID's models help applications and organizations identity and support hidden talent based on potential.",
+  "tags": [
+    "workforce-development"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1686735649/icons/adept-id.jpg",
+  "website": "https://www.adept-id.com/",
+  "docsUrl": "https://www.adept-id.com/#"
+}

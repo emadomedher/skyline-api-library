@@ -1,0 +1,15 @@
+{
+  "id": "stripe-atlas",
+  "title": "Stripe Atlas",
+  "subtitle": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for busines...",
+  "tags": [
+    "incorporation",
+    "legal"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581475566/catalog/stripe-atlas/icon128x128.jpg",
+  "website": "https://stripe.com/atlas",
+  "docsUrl": "https://stripe.com/docs"
+}

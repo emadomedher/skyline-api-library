@@ -1,0 +1,13 @@
+{
+  "id": "highq",
+  "title": "HighQ",
+  "subtitle": "HighQ provides secure project and client collaboration to legal and professional services to drive digital transforma...",
+  "tags": [
+    "cms-&-web-experience-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1556775173/catalog/highq/icon128x128.jpg",
+  "website": "https://highq.com"
+}

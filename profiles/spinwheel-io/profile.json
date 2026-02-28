@@ -1,0 +1,14 @@
+{
+  "id": "spinwheel-io",
+  "title": "Spinwheel",
+  "subtitle": "Spinwheel provides the infrastructure and the easiest way for apps and services to help Americans achieve their finan...",
+  "tags": [
+    "embedded-debt"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626026515/icons/spinwheel-io.png",
+  "website": "https://spinwheel.io/",
+  "docsUrl": "https://developer.spinwheel.io"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "smartalto",
+  "title": "Smart Alto",
+  "subtitle": "Smart Alto is a text messaging platform that follows up with online leads to set 15-minute phone appointments.",
+  "tags": [
+    "real-estate",
+    "inside-sales",
+    "lead-bots"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591207264/icons/smartalto.jpg",
+  "website": "https://www.smartalto.com/"
+}

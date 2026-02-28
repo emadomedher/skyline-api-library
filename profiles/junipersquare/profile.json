@@ -1,0 +1,14 @@
+{
+  "id": "junipersquare",
+  "title": "Juniper Square",
+  "subtitle": "Juniper Square is easy-to-use, all-in-one investment management software designed specifically for real estate. Autom...",
+  "tags": [
+    "real-estate-investment-management",
+    "proptech"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1607941971/icons/junipersquare.jpg",
+  "website": "https://www.junipersquare.com/"
+}

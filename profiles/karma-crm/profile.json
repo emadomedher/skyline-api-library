@@ -1,0 +1,13 @@
+{
+  "id": "karma-crm",
+  "title": "Karma CRM",
+  "subtitle": "Web Based Small Business CRM Software KarmaCRM",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720650/catalog/karma-crm/icon128x128.png",
+  "website": "https://karmacrm.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "thinkific",
+  "title": "Thinkific",
+  "subtitle": "Create online courses and membership sites with Thinkific and feel confident that you’ve got the easiest technology a...",
+  "tags": [
+    "education"
+  ],
+  "category": "Education",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595447200/icons/thinkific.jpg",
+  "website": "https://www.thinkific.com/",
+  "docsUrl": "https://support.thinkific.dev/hc/en-us/articles/5700872617111"
+}

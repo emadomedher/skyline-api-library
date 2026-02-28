@@ -1,0 +1,13 @@
+{
+  "id": "compte-nickel-fr",
+  "title": "Nickel (Compte Nickel)",
+  "subtitle": "Formerly known as Compte Nickel, Nickel is an alternative French banking service. Founded in 2014, the company sells ...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1577807271/catalog/compte-nickel-fr/icon128x128.jpg",
+  "website": "https://compte-nickel.fr/"
+}

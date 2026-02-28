@@ -1,0 +1,14 @@
+{
+  "id": "avo-app",
+  "title": "Avo",
+  "subtitle": "Collaborate on your tracking plan and use generated tracking snippets to instrument your code consistently across all...",
+  "tags": [
+    "product-analytics"
+  ],
+  "category": "Analytics",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1599025787/icons/avo-app.png",
+  "website": "https://www.avo.app/",
+  "docsUrl": "https://www.avo.app/docs/quickstart"
+}

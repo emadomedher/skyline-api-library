@@ -1,0 +1,12 @@
+{
+  "id": "uniconta",
+  "title": "Uniconta",
+  "subtitle": "Uniconta is een 100% cloud based ERP-systeem geschikt voor het bijhouden van de financiën, logistiek, projecten en pr...",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256982/catalog/uniconta/icon128x128.png"
+}

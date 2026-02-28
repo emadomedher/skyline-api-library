@@ -1,0 +1,14 @@
+{
+  "id": "overloop",
+  "title": "Overloop CRM",
+  "subtitle": "Overloop is the best free CRM for small and medium businesses. Start more conversations, close more deals.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1636723371/icons/overloop.png",
+  "website": "https://overloop.com/",
+  "docsUrl": "https://overloop.com/developers"
+}

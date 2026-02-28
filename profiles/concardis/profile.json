@@ -1,0 +1,13 @@
+{
+  "id": "concardis",
+  "title": "Concardis",
+  "subtitle": "Erfolg ist sexy. Bargeld nicht. Wählen Sie Concardis als Ihren Paymentdienstleister und setzen Sie auf die richtige K...",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1605381255/icons/concardis.png",
+  "website": "https://www.concardis.com/"
+}

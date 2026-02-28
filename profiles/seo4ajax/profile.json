@@ -1,0 +1,13 @@
+{
+  "id": "seo4ajax",
+  "title": "SEO4Ajax",
+  "subtitle": "SEO4Ajax API integration",
+  "tags": [
+    "seo"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437240/catalog/seo4ajax/icon128x128.png",
+  "website": "https://seo4ajax.com"
+}

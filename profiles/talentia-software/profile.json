@@ -1,0 +1,14 @@
+{
+  "id": "talentia-software",
+  "title": "Talentia Software",
+  "subtitle": "Talentia Software is an leading provider of Finance and HR Software solutions that simplify increasing complexities c...",
+  "tags": [
+    "hris"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1690989601/icons/talentia-software.jpg",
+  "website": "https://www.talentia-software.com/en/",
+  "docsUrl": "https://www.talentia-software.com/en/#"
+}

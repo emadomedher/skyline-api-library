@@ -1,0 +1,14 @@
+{
+  "id": "appearme",
+  "title": "AppearMe",
+  "subtitle": "Are you in need of an Appearance Attorney? Then you are in the right place! With AppearMe find appearance attorneys w...",
+  "tags": [
+    "attorneys-marketplace",
+    "marketplaces"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573233195/catalog/appearme/icon128x128.jpg",
+  "website": "https://www.appearme.com/"
+}

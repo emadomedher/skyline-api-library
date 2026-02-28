@@ -1,0 +1,14 @@
+{
+  "id": "123formbuilder",
+  "title": "123FormBuilder",
+  "subtitle": "Create online forms within minutes with a simple drag and drop interface. Build complex workflows, sell online, condu...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304331/catalog/123formbuilder/icon128x128.png",
+  "website": "https://www.123formbuilder.com/",
+  "docsUrl": "https://www.123formbuilder.com/docs"
+}

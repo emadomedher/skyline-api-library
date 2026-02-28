@@ -1,0 +1,13 @@
+{
+  "id": "strings-my",
+  "title": "Strings",
+  "subtitle": "Strings API integration",
+  "tags": [
+    "banking-api-aggregators"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1595809064/icons/strings-my.jpg",
+  "website": "https://strings.my/"
+}

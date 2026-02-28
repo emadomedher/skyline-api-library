@@ -1,0 +1,13 @@
+{
+  "id": "intapp",
+  "title": "Intapp",
+  "subtitle": "Intapp is a Professional Services Platform that answers the demands of clients by offering intelligent, efficient ser...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720515/catalog/intapp/icon128x128.jpg",
+  "website": "https://intapp.com"
+}

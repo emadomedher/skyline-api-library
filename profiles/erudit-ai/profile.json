@@ -1,0 +1,13 @@
+{
+  "id": "erudit-ai",
+  "title": "Erudit",
+  "subtitle": "Discover how AI technology enables you to make better decisions. Improve your company's culture and work environment.",
+  "tags": [
+    "workforce-analytics"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1685568755/icons/erudit-ai.jpg",
+  "website": "https://www.erudit.ai/"
+}

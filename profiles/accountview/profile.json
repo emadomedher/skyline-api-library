@@ -1,0 +1,12 @@
+{
+  "id": "accountview",
+  "title": "Accountview",
+  "subtitle": "AccountView (van Visma) vereenvoudigt boekhouden door het automatiseren van de administratieve processen.",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554256881/catalog/accountview/icon128x128.jpg"
+}

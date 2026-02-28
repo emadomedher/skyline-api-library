@@ -1,0 +1,13 @@
+{
+  "id": "phone",
+  "title": "Phone.com",
+  "subtitle": "Phone.com an affordable VoIP virtual business phone system that delivers cloud-based voice, video, SMS, MMS, fax and ...",
+  "tags": [
+    "voip"
+  ],
+  "category": "Communication",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1589177241/catalog/phone/icon128x128.png",
+  "website": "https://www.phone.com/"
+}

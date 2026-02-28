@@ -1,0 +1,13 @@
+{
+  "id": "time2dine-uk",
+  "title": "Time2Dine",
+  "subtitle": "Time2Dine API integration",
+  "tags": [
+    "restaurant-reservation"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1602094837/icons/time2dine-uk.jpg",
+  "website": "https://time2dine.uk/"
+}

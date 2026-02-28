@@ -1,0 +1,13 @@
+{
+  "id": "viator",
+  "title": "Viator",
+  "subtitle": "Tours, things to do, sightseeing tours, day trips and more from Viator. Find and book city tours, helicopter tours, d...",
+  "tags": [
+    "travel"
+  ],
+  "category": "Travel",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557152436/catalog/viator/icon128x128.png",
+  "website": "https://viator.com"
+}

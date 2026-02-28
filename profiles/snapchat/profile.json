@@ -1,0 +1,14 @@
+{
+  "id": "snapchat",
+  "title": "Snapchat",
+  "subtitle": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Li...",
+  "tags": [
+    "search-and-social-advertising"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437473/catalog/snapchat/icon128x128.png",
+  "website": "https://snapchat.com",
+  "docsUrl": "https://developers.snapchat.com/"
+}

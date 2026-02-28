@@ -1,0 +1,13 @@
+{
+  "id": "clientsuccess",
+  "title": "ClientSuccess",
+  "subtitle": "Customer success software that drives customer retention and growth across your entire company.",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304632/catalog/clientsuccess/icon128x128.png",
+  "website": "https://clientsuccess.com"
+}

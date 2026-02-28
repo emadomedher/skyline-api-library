@@ -1,0 +1,14 @@
+{
+  "id": "reve-chat",
+  "title": "Reve Chat",
+  "subtitle": "REVE Chat is an omni-channel customer engagement and live chat for businesses to deliver customer experience for onli...",
+  "tags": [
+    "live-chat-and-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946672/catalog/reve-chat/icon128x128.jpg",
+  "website": "https://revechat.com",
+  "docsUrl": "https://api.revechat.com"
+}

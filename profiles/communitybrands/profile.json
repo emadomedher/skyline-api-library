@@ -1,0 +1,13 @@
+{
+  "id": "communitybrands",
+  "title": "Community Brands",
+  "subtitle": "Leading technology for purpose-built organizations including associations, member-based organizations, nonprofits and...",
+  "tags": [
+    "channel-learning-and-readiness"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594230654/icons/communitybrands.jpg",
+  "website": "https://communitybrands.com"
+}

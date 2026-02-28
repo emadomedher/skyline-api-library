@@ -1,0 +1,14 @@
+{
+  "id": "stackify",
+  "title": "Stackify",
+  "subtitle": "Stackify offers the only solution that fully integrates application performance monitoring with errors and logs. Easi...",
+  "tags": [
+    "application-performance-monitoring"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571824335/catalog/stackify/icon128x128.jpg",
+  "website": "https://stackify.com/",
+  "docsUrl": "https://docs.stackify.com"
+}

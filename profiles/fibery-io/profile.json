@@ -1,0 +1,13 @@
+{
+  "id": "fibery-io",
+  "title": "Fibery",
+  "subtitle": "Build your own workspace with no code to replace isolated tools and bring everyone together.",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581535415/catalog/fibery-io/icon128x128.jpg",
+  "website": "https://fibery.io/"
+}

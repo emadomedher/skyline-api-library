@@ -1,0 +1,13 @@
+{
+  "id": "contentinsight",
+  "title": "ContentInsight",
+  "subtitle": "Content Insight, home of the industry leading Content Analysis Tool (CAT). CAT makes content inventories smarter, eas...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554826155/catalog/contentinsight/icon128x128.jpg",
+  "website": "https://content-insight.com"
+}

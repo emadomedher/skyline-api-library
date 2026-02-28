@@ -1,0 +1,15 @@
+{
+  "id": "flybits",
+  "title": "Flybits",
+  "subtitle": "Deliver hyper-personalized customer experiences with Flybits' contextual Digital Experience Platform.",
+  "tags": [
+    "fintech",
+    "personalization",
+    "recommendation-engines"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563298962/catalog/flybits/icon128x128.jpg",
+  "website": "https://flybits.com"
+}

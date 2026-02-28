@@ -1,0 +1,14 @@
+{
+  "id": "farfetch",
+  "title": "Farfetch",
+  "subtitle": "Farfetch Belgium offers a unique shopping experience. Shop from 400 boutiques with thousands of designer labels from ...",
+  "tags": [
+    "retailers",
+    "fashiontech"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1681298708/icons/farfetch.png",
+  "website": "https://www.farfetch.com/"
+}

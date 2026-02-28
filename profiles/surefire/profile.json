@@ -1,0 +1,12 @@
+{
+  "id": "surefire",
+  "title": "Surefire CRM",
+  "subtitle": "Surefire CRM is a multi-faceted mortgage industry CRM marketing platform that offers personalized database marketing ...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306230/catalog/surefire/icon128x128.png"
+}

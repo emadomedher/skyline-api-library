@@ -1,0 +1,14 @@
+{
+  "id": "tallemucrm",
+  "title": "Tall Emu CRM",
+  "subtitle": "Australian CRM Locally Owned & Supported. Wow Customers, Sell, Build, Pick, Pack & Ship. Try Tall Emu CRM for FREE or...",
+  "tags": [
+    "crm",
+    "email-marketing"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630350444/icons/tallemucrm.jpg",
+  "website": "https://tallemucrm.com/"
+}

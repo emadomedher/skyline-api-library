@@ -1,0 +1,15 @@
+{
+  "id": "finage-uk",
+  "title": "Finage",
+  "subtitle": "Get instant access to 100% secured real-time and historical stock APIs and websocket. Unlimited usage, 15+ years of h...",
+  "tags": [
+    "financial-market-data-apis",
+    "fintech"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1626155773/icons/finage-uk.jpg",
+  "website": "https://finage.co.uk/",
+  "docsUrl": "https://finage.co.uk/docs"
+}

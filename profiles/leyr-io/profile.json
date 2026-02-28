@@ -1,0 +1,15 @@
+{
+  "id": "leyr-io",
+  "title": "Leyr",
+  "subtitle": "Leyr provides unified API platform as a simple and secure way to connect to multiple Electronic Medical Records in on...",
+  "tags": [
+    "medical-data",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1679357943/icons/leyr-io.jpg",
+  "website": "https://leyr.io/",
+  "docsUrl": "https://docs.leyr.io"
+}

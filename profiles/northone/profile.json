@@ -1,0 +1,13 @@
+{
+  "id": "northone",
+  "title": "NorthOne",
+  "subtitle": "NorthOne is a bank account that helps small businesses save time and money. We empower you to take control of your fi...",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1584473328/catalog/northone/icon128x128.jpg",
+  "website": "https://northone.com/"
+}

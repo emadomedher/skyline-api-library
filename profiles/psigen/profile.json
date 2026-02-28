@@ -1,0 +1,15 @@
+{
+  "id": "psigen",
+  "title": "PSIGEN Software",
+  "subtitle": "Eliminate data entry and manual processing with PSIGEN's suite of document capture, AP and HR automation, OCR, RPA, a...",
+  "tags": [
+    "data-entry",
+    "migration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587572686/catalog/psigen/icon128x128.png",
+  "website": "https://www.psigen.com/",
+  "docsUrl": "https://info.psigen.com/emailPreference/e/322271"
+}

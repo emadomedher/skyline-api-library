@@ -1,0 +1,13 @@
+{
+  "id": "aplos",
+  "title": "Aplos",
+  "subtitle": "Aplos API integration",
+  "tags": [
+    "other"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554403243/catalog/aplos/icon128x128.jpg",
+  "website": "https://www.aplos.com/"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ecartapi",
+  "title": "API to every Ecommerce Cart and Marketplace",
+  "subtitle": "Unified API for developers looking to connect to multiple carts and marketplaces with a single Web Service. Connect w...",
+  "tags": [
+    "ecommerce-apis",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637983572/icons/ecartapi.png",
+  "website": "https://ecartapi.com/",
+  "docsUrl": "https://docs.envia.com/?version=latest#3c2b53ce-1b6a-4438-b04d-0d8171006614"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "syncsort",
+  "title": "Syncsort",
+  "subtitle": "Elevate ZPSaver reduces the workload on your mainframe’s CPU to save your business money and deliver ever-faster proc...",
+  "tags": [
+    "big-data",
+    "data-integration",
+    "audiencemarketing-data-and-data-enhancement"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437801/catalog/syncsort/icon128x128.png",
+  "website": "https://syncsort.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "multisafepay",
+  "title": "MultiSafepay",
+  "subtitle": "MultiSafepay is a collecting Payment Service Provider enabling webshops to easily accept online payments. View all th...",
+  "tags": [
+    "payments",
+    "payment-service-providers"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612641133/icons/multisafepay.jpg",
+  "website": "https://www.multisafepay.com/"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ltse-equity",
+  "title": "LTSE Equity",
+  "subtitle": "LTSE Equity is a full-lifecycle cap table management solution for planning, managing, and collaborating on startup eq...",
+  "tags": [
+    "equity-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1650227988/icons/ltse-equity.jpg",
+  "website": "https://equity.ltse.com/"
+}

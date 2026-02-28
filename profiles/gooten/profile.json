@@ -1,0 +1,14 @@
+{
+  "id": "gooten",
+  "title": "Gooten",
+  "subtitle": "Gooten is a print-on-demand company that offers smart supply chain solutions for brands looking to scale their eComme...",
+  "tags": [
+    "print-on-demand"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554434839/catalog/gooten/icon128x128.png",
+  "website": "https://gooten.com",
+  "docsUrl": "https://www.gooten.com/api-documentation/getting-started"
+}

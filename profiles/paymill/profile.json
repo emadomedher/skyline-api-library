@@ -1,0 +1,15 @@
+{
+  "id": "paymill",
+  "title": "PAYMILL",
+  "subtitle": "Kreditkarten- und Lastschrift-Zahlungen mit PAYMILL online abwickeln | PAYMILL GmbH.",
+  "tags": [
+    "payment-processing",
+    "payment-gateways"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305648/catalog/paymill/icon128x128.png",
+  "website": "https://www.paymill.com/",
+  "docsUrl": "https://paymill.docs.oppwa.com"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "conferences-io",
+  "title": "Conferences I/O",
+  "subtitle": "Conferences i/o delivers the best audience engagement platform for Conferences, Meetings and events, Continuing Educa...",
+  "tags": [
+    "virtual-events",
+    "attendee-management",
+    "events-meetings-and-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947196/catalog/conferences-io/icon128x128.png",
+  "website": "https://conferences.io"
+}

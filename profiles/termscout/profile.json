@@ -1,0 +1,15 @@
+{
+  "id": "termscout",
+  "title": "TermScout",
+  "subtitle": "TermScout is the contract rating company, providing free contract ratings for everyone and deep analyses for serious ...",
+  "tags": [
+    "contract-rating",
+    "legal",
+    "compliance"
+  ],
+  "category": "Legal",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612656354/icons/termscout.jpg",
+  "website": "https://termscout.com/"
+}

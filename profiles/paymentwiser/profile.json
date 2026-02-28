@@ -1,0 +1,13 @@
+{
+  "id": "paymentwiser",
+  "title": "Accept Every Card Payment ",
+  "subtitle": "Accept Every Card Payment  API integration",
+  "tags": [
+    "mobile-pos"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1638922146/icons/paymentwiser.png",
+  "website": "https://www.paymentwiser.com/"
+}

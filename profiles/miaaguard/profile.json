@@ -1,0 +1,14 @@
+{
+  "id": "miaaguard",
+  "title": "miaa Guard",
+  "subtitle": "Access-as-a-Service for MedTech, FinTech, IoT and RegTech. The cloud-based platform excels with its security, scalabi...",
+  "tags": [
+    "identity",
+    "medtech"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583509862/catalog/miaaguard/icon128x128.jpg",
+  "website": "https://miaaguard.com"
+}

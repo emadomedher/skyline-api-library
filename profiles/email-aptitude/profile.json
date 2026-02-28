@@ -1,0 +1,12 @@
+{
+  "id": "email-aptitude",
+  "title": "Email Aptitude",
+  "subtitle": "Email Aptitude API integration",
+  "tags": [
+    "email-marketing"
+  ],
+  "category": "Email",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1537439187/catalog/email-aptitude/icon128x128.svg"
+}

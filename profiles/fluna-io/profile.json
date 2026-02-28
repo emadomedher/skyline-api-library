@@ -1,0 +1,13 @@
+{
+  "id": "fluna-io",
+  "title": "Fluna",
+  "subtitle": "The first no-code platform for software developers. Fluna lets you create your own database, backend and frontend wit...",
+  "tags": [
+    "no-code"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649885655/icons/fluna-io.jpg",
+  "website": "https://www.fluna.io/"
+}

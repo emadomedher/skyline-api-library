@@ -1,0 +1,14 @@
+{
+  "id": "payslip",
+  "title": "Payslip",
+  "subtitle": "Multinational companies - from scaleups to large enterprises - achieve growth efficiency & digital transformation usi...",
+  "tags": [
+    "payroll-management",
+    "payroll"
+  ],
+  "category": "Accounting",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1649182456/icons/payslip.jpg",
+  "website": "https://payslip.com/"
+}

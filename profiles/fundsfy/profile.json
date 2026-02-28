@@ -1,0 +1,13 @@
+{
+  "id": "fundsfy",
+  "title": "Fundsfy",
+  "subtitle": "Fundsfy is on a mission to be the first neobank for investors.",
+  "tags": [
+    "challenger-banks"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1590770315/catalog/fundsfy/icon128x128.jpg",
+  "website": "https://www.fundsfy.com/"
+}

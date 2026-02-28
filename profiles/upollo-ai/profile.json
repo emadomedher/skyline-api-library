@@ -1,0 +1,14 @@
+{
+  "id": "upollo-ai",
+  "title": "Uplollo",
+  "subtitle": "Turn repeat signups and account sharers and more into happy paying customers",
+  "tags": [
+    "product-monetization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1669850052/icons/upollo-ai.jpg",
+  "website": "https://upollo.ai/",
+  "docsUrl": "https://upollo.ai/docs"
+}

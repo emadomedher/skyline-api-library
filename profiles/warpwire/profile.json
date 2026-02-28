@@ -1,0 +1,15 @@
+{
+  "id": "warpwire",
+  "title": "Warpwire",
+  "subtitle": "Built for education, Warpwire offers a robust platform for capturing, uploading and managing videos within your organ...",
+  "tags": [
+    "video-cms",
+    "education"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1609719575/icons/warpwire.jpg",
+  "website": "https://www.warpwire.com/",
+  "docsUrl": "https://www.warpwire.com/support/developers"
+}

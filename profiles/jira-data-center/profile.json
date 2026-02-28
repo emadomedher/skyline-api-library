@@ -1,0 +1,14 @@
+{
+  "id": "jira-data-center",
+  "title": "Jira Data Center",
+  "subtitle": "Jira Data Center supports the scale enterprise teams need to transform the way they work with high availability, perf...",
+  "tags": [
+    "issue-tracking",
+    "project-management"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1710613772/icons/jira-data-center.png",
+  "website": "https://www.atlassian.com/enterprise/data-center/jira"
+}

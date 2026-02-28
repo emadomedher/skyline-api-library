@@ -1,0 +1,13 @@
+{
+  "id": "besmartee",
+  "title": "BeSmartee",
+  "subtitle": "BeSimple. BeAutomated. BeSmart. Deliver a complete digital mortgage experience to your borrowers with BeSmartee.",
+  "tags": [
+    "mortgages"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571958131/catalog/besmartee/icon128x128.png",
+  "website": "https://www.besmartee.com/"
+}

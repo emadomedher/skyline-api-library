@@ -1,0 +1,13 @@
+{
+  "id": "sikich",
+  "title": "Sikich",
+  "subtitle": "Sikich offers a unique formula of technology and professional services to businesses and organizations. These service...",
+  "tags": [
+    "accounting-services"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1616460141/icons/sikich.jpg",
+  "website": "https://www.sikich.com/"
+}

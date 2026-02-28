@@ -1,0 +1,13 @@
+{
+  "id": "candis-io",
+  "title": "CANDIS",
+  "subtitle": "CANDIS ensures fast release processes, helps with booking and payment and is easy to implement. All booking data can ...",
+  "tags": [
+    "invoicing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1664247010/icons/candis-io.jpg",
+  "website": "https://en.candis.io/"
+}

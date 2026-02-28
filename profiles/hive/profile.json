@@ -1,0 +1,13 @@
+{
+  "id": "hive",
+  "title": "Hive",
+  "subtitle": "Hive provides simple automated workflow for teams. It brings all your different tools onto one dashboard and makes it...",
+  "tags": [
+    "team-collaboration"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305114/catalog/hive/icon128x128.png",
+  "website": "https://hive.com/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "uberduck-ai",
+  "title": "Uberduck",
+  "subtitle": "Voice automation, text-to-speech, synthetic media.",
+  "tags": [
+    "text-to-speech"
+  ],
+  "category": "AI & ML",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1676341195/icons/uberduck-ai.jpg",
+  "website": "https://uberduck.ai/",
+  "docsUrl": "https://uberduck.readme.io/docs"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "google-cloud-knative",
+  "title": "Google Cloud Knative",
+  "subtitle": "Google Cloud Knative API integration",
+  "tags": [
+    "kubernetes",
+    "serverless"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1573997787/catalog/google-cloud-knative/icon128x128.jpg",
+  "website": "https://cloud.google.com/knative/"
+}

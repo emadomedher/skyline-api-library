@@ -1,0 +1,13 @@
+{
+  "id": "gapple-amp",
+  "title": "Gapple AMP",
+  "subtitle": "GaggleAMP is an employee advocacy solution that helps companies amplify reach and marketing efforts by tapping into t...",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720194/catalog/gapple-amp/icon128x128.jpg",
+  "website": "https://gaggleamp.com"
+}

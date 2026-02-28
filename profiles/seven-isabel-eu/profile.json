@@ -1,0 +1,13 @@
+{
+  "id": "seven-isabel-eu",
+  "title": "Seven",
+  "subtitle": "Seven API integration",
+  "tags": [
+    "payments"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1563153235/catalog/seven-isabel-eu/icon128x128.png",
+  "website": "https://isabel.eu"
+}

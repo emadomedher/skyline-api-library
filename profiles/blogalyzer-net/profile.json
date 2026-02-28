@@ -1,0 +1,13 @@
+{
+  "id": "blogalyzer-net",
+  "title": "Blogalyzer",
+  "subtitle": "Our visual overview, 1 click metrics & weekly reports will show you which content works, when to distribute and what ...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583752312/catalog/blogalyzer-net/icon128x128.png",
+  "website": "https://blogalyzer.net/"
+}

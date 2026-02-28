@@ -1,0 +1,13 @@
+{
+  "id": "underpinned-co",
+  "title": "UnderPinned",
+  "subtitle": "UnderPinned is your freelance hub, built to drive your career forwards and inspire you.",
+  "tags": [
+    "freelancing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581066512/catalog/underpinned-co/icon128x128.jpg",
+  "website": "https://underpinned.co/"
+}

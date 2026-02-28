@@ -1,0 +1,13 @@
+{
+  "id": "iqpolls",
+  "title": "IQPolls",
+  "subtitle": "Ask questions and get real-time feedback from your audience. Your audience can participate by voting both with SMS an...",
+  "tags": [
+    "events-meetings-&-webinars"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720563/catalog/iqpolls/icon128x128.png",
+  "website": "https://iqpolls.com"
+}

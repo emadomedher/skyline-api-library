@@ -1,0 +1,14 @@
+{
+  "id": "h1insights",
+  "title": "H1",
+  "subtitle": "H1 enables industry, healthcare organizations, and healthcare professionals to connect with each other like never bef...",
+  "tags": [
+    "healthcare",
+    "databases"
+  ],
+  "category": "Healthcare",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1587645902/catalog/h1insights/icon128x128.jpg",
+  "website": "https://www.h1insights.com/"
+}

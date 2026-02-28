@@ -1,0 +1,13 @@
+{
+  "id": "motionpoint",
+  "title": "MotionPoint",
+  "subtitle": "MotionPoint solves the operational complexity and cost of website localization.",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555963542/catalog/motionpoint/icon128x128.png",
+  "website": "https://motionpoint.com"
+}

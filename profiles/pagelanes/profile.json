@@ -1,0 +1,13 @@
+{
+  "id": "pagelanes",
+  "title": "Pagelanes",
+  "subtitle": "Pagelanes is a social media management tool made for team-based collaboration.",
+  "tags": [
+    "social-media-marketing-&-monitoring"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555946726/catalog/pagelanes/icon128x128.png",
+  "website": "https://pagelanes.com"
+}

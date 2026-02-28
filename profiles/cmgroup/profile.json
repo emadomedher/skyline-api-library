@@ -1,0 +1,15 @@
+{
+  "id": "cmgroup",
+  "title": "CM Group",
+  "subtitle": "Founded in 2017, CM Group originated with three industry-leading email marketing brands. The portfolio continues to g...",
+  "tags": [
+    "marketing",
+    "groups",
+    "martech"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1621339541/icons/cmgroup.png",
+  "website": "https://cmgroup.com/"
+}

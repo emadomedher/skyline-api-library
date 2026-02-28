@@ -1,0 +1,13 @@
+{
+  "id": "obsidian-md",
+  "title": "Obsidian",
+  "subtitle": "Obsidian API integration",
+  "tags": [
+    "notes"
+  ],
+  "category": "Project Management",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://pbs.twimg.com/profile_images/1260649696822988800/WJMsPGnF_200x200.jpg",
+  "website": "https://obsidian.md/"
+}

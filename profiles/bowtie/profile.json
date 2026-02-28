@@ -1,0 +1,13 @@
+{
+  "id": "bowtie",
+  "title": "BowTie.io",
+  "subtitle": "BowTie ⋈ combines static hosting with preconfigured microservices to make launching your next application crazy fast....",
+  "tags": [
+    "websites"
+  ],
+  "category": "Media",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531304524/catalog/bowtie/icon128x128.png",
+  "website": "https://bowtie.io/features/"
+}

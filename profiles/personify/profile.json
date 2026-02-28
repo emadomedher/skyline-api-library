@@ -1,0 +1,13 @@
+{
+  "id": "personify",
+  "title": "Personify",
+  "subtitle": "Personify is the leading provider of constituent management software helping associations, nonprofits, and health and...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721457/catalog/personify/icon128x128.jpg",
+  "website": "https://personifycorp.com"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "uxlens",
+  "title": "UXLENS",
+  "subtitle": "Cloud/Self hosted visitor recording to see exactly what your users experience on your website. Major chunk of convers...",
+  "tags": [
+    "user-testing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1583849741/catalog/uxlens/icon128x128.png",
+  "website": "https://uxlens.com/",
+  "docsUrl": "https://uxlens.com/docs/v1"
+}

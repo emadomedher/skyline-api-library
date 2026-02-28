@@ -1,0 +1,13 @@
+{
+  "id": "sparkfun",
+  "title": "Sparkfun",
+  "subtitle": "Sparkfun API integration",
+  "tags": [
+    "retail-proximity-&-iot-marketing"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554437613/catalog/sparkfun/icon128x128.png",
+  "website": "https://sparkfun.com"
+}

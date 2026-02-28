@@ -1,0 +1,14 @@
+{
+  "id": "limecall",
+  "title": "Limecall",
+  "subtitle": "Limecall turns potential customers into qualified sales calls. Convert 80% web visitors into sales calls within 28 se...",
+  "tags": [
+    "callback-software",
+    "sales-enablement"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1560957395/catalog/limecall/icon128x128.jpg",
+  "website": "https://limecall.com"
+}

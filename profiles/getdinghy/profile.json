@@ -1,0 +1,14 @@
+{
+  "id": "getdinghy",
+  "title": "Dinghy",
+  "subtitle": "Low-cost freelancer insurance. Turn on or off, up or down. No fees. No contracts. Charged by the second for cover use...",
+  "tags": [
+    "business-insurance"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1576014977/catalog/getdinghy/icon128x128.jpg",
+  "website": "https://getdinghy.com/",
+  "docsUrl": "https://getdinghy.com/developer-insurance"
+}

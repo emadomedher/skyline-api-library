@@ -1,0 +1,13 @@
+{
+  "id": "sierrainteractive",
+  "title": "Sierra Interactive",
+  "subtitle": "Sierra Interactive is a complete real estate technology platform, purpose-built to help agents, teams, and brokerages...",
+  "tags": [
+    "real-estate"
+  ],
+  "category": "Real Estate",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1600853329/icons/sierrainteractive.png",
+  "website": "https://www.sierrainteractive.com/"
+}

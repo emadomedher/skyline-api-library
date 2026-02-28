@@ -1,0 +1,14 @@
+{
+  "id": "perforce-helix-swarm",
+  "title": "Helix Swarm",
+  "subtitle": "Helix Swarm is a free code review tool for Helix Core. You can use this web-based code review software to collaborate...",
+  "tags": [
+    "code-review-tools"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1596813365/icons/perforce-helix-swarm.jpg",
+  "website": "https://www.perforce.com/products/helix-swarm",
+  "docsUrl": "https://www.perforce.com/support/self-service-resources/documentation"
+}

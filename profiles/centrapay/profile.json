@@ -1,0 +1,14 @@
+{
+  "id": "centrapay",
+  "title": "CentraPay",
+  "subtitle": "A future where value is transferred as easily and efficiently as information. Centrapay enables businesses and consum...",
+  "tags": [
+    "payments",
+    "blockchain"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1592261146/icons/centrapay.jpg",
+  "website": "https://centrapay.com/"
+}

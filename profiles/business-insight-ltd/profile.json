@@ -1,0 +1,13 @@
+{
+  "id": "business-insight-ltd",
+  "title": "Business Insight Ltd",
+  "subtitle": "Business Insight Ltd API integration",
+  "tags": [
+    "business/customer-intelligence-&-data-science"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1581565601/catalog/business-insight-ltd/icon128x128.png",
+  "website": "https://business-insight.net"
+}

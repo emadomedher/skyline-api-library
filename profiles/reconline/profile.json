@@ -1,0 +1,14 @@
+{
+  "id": "reconline",
+  "title": "RecOnline",
+  "subtitle": "Online Hotel Distribution, GDS Representation",
+  "tags": [
+    "global-distribution-channels",
+    "non-software"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612751545/icons/reconline.jpg",
+  "website": "https://www.reconline.com/"
+}

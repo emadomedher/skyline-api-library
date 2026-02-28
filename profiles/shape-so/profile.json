@@ -1,0 +1,13 @@
+{
+  "id": "shape-so",
+  "title": "Shape",
+  "subtitle": "Shape API integration",
+  "tags": [
+    "icons"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1570354938/catalog/shape-so/icon128x128.png",
+  "website": "https://shape.so"
+}

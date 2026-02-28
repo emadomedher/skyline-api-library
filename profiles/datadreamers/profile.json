@@ -1,0 +1,13 @@
+{
+  "id": "datadreamers",
+  "title": "Datadreamers",
+  "subtitle": "Restaurant delivery software for satisfying customer experiences. Whether you run a restaurant delivery service or a ...",
+  "tags": [
+    "restaurant-delivery"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1645810166/icons/datadreamers.png",
+  "website": "https://www.datadreamers.com/"
+}

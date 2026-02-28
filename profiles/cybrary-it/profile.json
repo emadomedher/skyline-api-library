@@ -1,0 +1,13 @@
+{
+  "id": "cybrary-it",
+  "title": "Cybrary",
+  "subtitle": "Cybersecurity training from Cybrary will take your career to the next level. We have the cybersecurity courses that c...",
+  "tags": [
+    "cyber-security-training"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1637639873/icons/cybrary-it.jpg",
+  "website": "https://www.cybrary.it/"
+}

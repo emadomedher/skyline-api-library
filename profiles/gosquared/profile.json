@@ -1,0 +1,14 @@
+{
+  "id": "gosquared",
+  "title": "GoSquared",
+  "subtitle": "Real-time web analytics, live chat, and marketing automation software guaranteed to increase conversion.",
+  "tags": [
+    "marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1531305054/catalog/gosquared/icon128x128.png",
+  "website": "https://gosquared.com",
+  "docsUrl": "https://www.gosquared.com/docs"
+}

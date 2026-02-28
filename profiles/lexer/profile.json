@@ -1,0 +1,14 @@
+{
+  "id": "lexer",
+  "title": "Lexer",
+  "subtitle": "How retailers unify all their customer data, understand their customer, create segments, acquire new customers, and g...",
+  "tags": [
+    "customer-data-platform"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720817/catalog/lexer/icon128x128.png",
+  "website": "https://lexer.io",
+  "docsUrl": "https://learn.lexer.io"
+}

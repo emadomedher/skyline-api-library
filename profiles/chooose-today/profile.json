@@ -1,0 +1,14 @@
+{
+  "id": "chooose-today",
+  "title": "CHOOOSE",
+  "subtitle": "CHOOOSE builds digital tools so that we all can make climate action part of our everyday life.",
+  "tags": [
+    "carbon-removal",
+    "climate"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "oauth2",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1628557344/icons/chooose-today.png",
+  "website": "https://chooose.today/"
+}

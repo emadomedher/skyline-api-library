@@ -1,0 +1,13 @@
+{
+  "id": "exago-inc",
+  "title": "Exago Inc",
+  "subtitle": "Reporting is the bedrock of good BI, so we created a host of tools designed to give users of all technical background...",
+  "tags": [
+    "dashboards-&-data-visualization"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554720019/catalog/exago-inc/icon128x128.jpg",
+  "website": "https://exagoinc.com"
+}
