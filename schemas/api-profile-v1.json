@@ -75,6 +75,10 @@
         "jenkins",
         "grpc",
         "postman",
+        "asyncapi",
+        "raml",
+        "apiblueprint",
+        "insomnia",
         "auto-detect"
       ],
       "description": "The specification format. Use auto-detect when the spec type is probed at runtime."
