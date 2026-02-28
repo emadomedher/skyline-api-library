@@ -1,0 +1,15 @@
+{
+  "id": "logrocket",
+  "title": "LogRocket",
+  "subtitle": "LogRocket helps you understand problems affecting your users, so that you can get back to building great software.",
+  "tags": [
+    "logging",
+    "session-replay"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604973121/icons/logrocket.jpg",
+  "website": "https://logrocket.com/",
+  "docsUrl": "https://docs.logrocket.com"
+}

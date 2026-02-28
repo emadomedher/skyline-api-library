@@ -1,0 +1,13 @@
+{
+  "id": "ex-co",
+  "title": "EX.CO",
+  "subtitle": "EX.CO - content marketing platform used by 20,000+ publishers and businesses to author interactive experiences for co...",
+  "tags": [
+    "content-marketing"
+  ],
+  "category": "Marketing",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574193798/catalog/ex-co/icon128x128.jpg",
+  "website": "https://ex.co/"
+}

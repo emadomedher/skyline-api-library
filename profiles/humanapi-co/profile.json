@@ -1,0 +1,15 @@
+{
+  "id": "humanapi-co",
+  "title": "Human API",
+  "subtitle": "The easiest way for consumers to connect &amp; share health data with companies they trust    get in Touch",
+  "tags": [
+    "health-data",
+    "unified-apis"
+  ],
+  "category": "Integration",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1604326898/icons/humanapi-co.jpg",
+  "website": "https://www.humanapi.co/",
+  "docsUrl": "https://www.humanapi.co/for-developers"
+}

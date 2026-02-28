@@ -1,0 +1,13 @@
+{
+  "id": "webaccess1",
+  "title": "webaccess1.com",
+  "subtitle": "webaccess1.com API integration",
+  "tags": [
+    "fintech",
+    "credit"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1574296282/catalog/webaccess1/icon128x128.png"
+}

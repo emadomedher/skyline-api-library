@@ -1,0 +1,14 @@
+{
+  "id": "frontlineeducation",
+  "title": "Frontline Education",
+  "subtitle": "School administration software for recruiting, hiring, time tracking, absence management, professional development, s...",
+  "tags": [
+    "school-administration"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1586821139/catalog/frontlineeducation/icon128x128.jpg",
+  "website": "https://www.frontlineeducation.com/",
+  "docsUrl": "https://www.frontlineeducation.com/blog/service-documentation-schools"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "papertrail",
+  "title": "Papertrail",
+  "subtitle": "Frustration-free log management. Seamlessly manage logs from apps, servers, and cloud services.",
+  "tags": [
+    "developer-tools"
+  ],
+  "category": "DevOps",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1557869594/catalog/papertrail/icon128x128.png",
+  "website": "https://papertrailapp.com"
+}

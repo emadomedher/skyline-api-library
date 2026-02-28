@@ -1,0 +1,13 @@
+{
+  "id": "greetly",
+  "title": "Greetly",
+  "subtitle": "Office visitor registration made easy with Greetly! Award-winning visitor management and check-in software with insta...",
+  "tags": [
+    "forms"
+  ],
+  "category": "Forms & Surveys",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1551284527/catalog/greetly/icon128x128.png",
+  "website": "https://www.greetly.com/"
+}

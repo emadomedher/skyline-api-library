@@ -1,0 +1,14 @@
+{
+  "id": "hokusai-app",
+  "title": "Hokusai",
+  "subtitle": "Hokusai API integration",
+  "tags": [
+    "nft-infrastructure"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1632273592/icons/hokusai-app.png",
+  "website": "https://hokusai.app/",
+  "docsUrl": "https://docs.hokusai.app"
+}

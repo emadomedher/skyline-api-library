@@ -1,0 +1,14 @@
+{
+  "id": "chord-co",
+  "title": "Chord Commerce",
+  "subtitle": "Make commerce feel new again for your customers, with multi-platform customer engagement powered by headless ecommerc...",
+  "tags": [
+    "ecommerce",
+    "commerce-as-a-service"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1623660390/icons/chord-co.jpg",
+  "website": "https://chord.co/"
+}

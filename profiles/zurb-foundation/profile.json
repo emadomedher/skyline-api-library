@@ -1,0 +1,14 @@
+{
+  "id": "zurb-foundation",
+  "title": "Foundation",
+  "subtitle": "Foundation API integration",
+  "tags": [
+    "frontend-framework",
+    "open-source"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1571567198/catalog/zurb-foundation/icon128x128.jpg",
+  "website": "https://foundation.zurb.com/"
+}

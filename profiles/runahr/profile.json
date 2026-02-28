@@ -1,0 +1,13 @@
+{
+  "id": "runahr",
+  "title": "Runa",
+  "subtitle": "Realiza el cálculo de nómina fácilmente; además la administración de personal es más fácil porque tienes todo en un s...",
+  "tags": [
+    "hr"
+  ],
+  "category": "HR",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1601396555/icons/runahr.jpg",
+  "website": "https://runahr.com/"
+}

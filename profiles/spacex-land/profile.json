@@ -1,0 +1,15 @@
+{
+  "id": "spacex-land",
+  "title": "SpaceX Land",
+  "subtitle": "SpaceX Land API integration",
+  "tags": [
+    "spacetech",
+    "data-apis"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1653421332/icons/spacex-land.png",
+  "website": "https://spacex.land/",
+  "docsUrl": "https://api.spacex.land/graphql/"
+}

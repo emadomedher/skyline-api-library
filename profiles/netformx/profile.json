@@ -1,0 +1,13 @@
+{
+  "id": "netformx",
+  "title": "Netformx",
+  "subtitle": "Netformx helps Cisco partners & solution providers deliver multi-vendor IT solutions quickly & effectively while impr...",
+  "tags": [
+    "channel-incentives-management"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1594240664/icons/netformx.png",
+  "website": "https://netformx.com"
+}

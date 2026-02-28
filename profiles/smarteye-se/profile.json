@@ -1,0 +1,13 @@
+{
+  "id": "smarteye-se",
+  "title": "Smart Eye",
+  "subtitle": "Smart Eye API integration",
+  "tags": [
+    "eye-tracking"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1630613905/icons/smarteye-se.jpg",
+  "website": "https://smarteye.se/"
+}

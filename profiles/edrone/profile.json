@@ -1,0 +1,13 @@
+{
+  "id": "edrone",
+  "title": "edrone",
+  "subtitle": "Learn & Engage: Powerful Customer intelligence and marketing automation platform. Ready to use with plug and play sce...",
+  "tags": [
+    "crm"
+  ],
+  "category": "CRM",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1555947099/catalog/edrone/icon128x128.jpg",
+  "website": "https://edrone.me"
+}

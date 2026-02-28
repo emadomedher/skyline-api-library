@@ -1,0 +1,14 @@
+{
+  "id": "bolt",
+  "title": "Bolt",
+  "subtitle": "Create seamless buying experiences and stay protected against ecommerce fraud with the first checkout experience plat...",
+  "tags": [
+    "ecommerce"
+  ],
+  "category": "E-commerce",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554825917/catalog/bolt/icon128x128.png",
+  "website": "https://bolt.com",
+  "docsUrl": "https://docs.bolt.com"
+}

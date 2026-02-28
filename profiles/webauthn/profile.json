@@ -1,0 +1,14 @@
+{
+  "id": "webauthn",
+  "title": "WebAuthn",
+  "subtitle": "Web Authentication (WebAuthn) is a web standard published by the World Wide Web Consortium (W3C).[1][2][3] WebAuthn i...",
+  "tags": [
+    "authentication",
+    "web-standards"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1612173281/icons/webauthn.png",
+  "website": "https://en.wikipedia.org/wiki/WebAuthn"
+}

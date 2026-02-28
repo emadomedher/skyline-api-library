@@ -1,0 +1,13 @@
+{
+  "id": "antics-dms",
+  "title": "Antics DMS",
+  "subtitle": "Antics DMS is a powerful marketing cloud solution for automating and optimizing the customer journey.",
+  "tags": [
+    "advocacy-loyalty-&-referrals"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554433004/catalog/antics-dms/icon128x128.png",
+  "website": "https://anticsdms.com"
+}

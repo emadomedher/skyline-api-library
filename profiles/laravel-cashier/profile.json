@@ -1,0 +1,13 @@
+{
+  "id": "laravel-cashier",
+  "title": "Laravel Cashier",
+  "subtitle": "Laravel Cashier API integration",
+  "tags": [
+    "billing"
+  ],
+  "category": "Payments",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1566915843/catalog/laravel-cashier/icon128x128.png",
+  "website": "https://laravel.com/docs/5.8/billing"
+}

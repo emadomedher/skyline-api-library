@@ -1,0 +1,13 @@
+{
+  "id": "opinion-lab",
+  "title": "Opinion Lab",
+  "subtitle": "Make smarter and faster business decisions to improve the quality and consistency of your CX with OpinionLab. Give yo...",
+  "tags": [
+    "live-chat-&-chatbots"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1554721365/catalog/opinion-lab/icon128x128.png",
+  "website": "https://opinionlab.com"
+}

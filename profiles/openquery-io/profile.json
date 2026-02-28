@@ -1,0 +1,15 @@
+{
+  "id": "openquery-io",
+  "title": "OpenQuery",
+  "subtitle": "We build solutions that power the privacy-first AI revolution.",
+  "tags": [
+    "privacy-engineering",
+    "compliance",
+    "privacy"
+  ],
+  "category": "Security",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1591899506/icons/openquery-io.png",
+  "website": "https://www.openquery.io/"
+}

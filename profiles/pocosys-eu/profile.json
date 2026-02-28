@@ -1,0 +1,13 @@
+{
+  "id": "pocosys-eu",
+  "title": "Pocosys",
+  "subtitle": "Pocosys provides white label banking software and services",
+  "tags": [
+    "banking-as-a-service"
+  ],
+  "category": "Other",
+  "specType": "auto-detect",
+  "authType": "api-key",
+  "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074592/icons/pocosys-eu.png",
+  "website": "https://pocosys.eu/"
+}
