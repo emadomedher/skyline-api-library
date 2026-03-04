@@ -6,12 +6,12 @@
   "logo": "logos/gitlab.svg",
   "tags": ["devops", "git", "ci-cd", "project-management", "code-review", "containers"],
   "category": "DevOps",
-  "comments": "GitLab exposes both a REST API (OpenAPI spec) and a GraphQL API. The REST spec is fetched from the official repo. For self-hosted instances, the spec URL is {instance}/api/openapi.json. CRUD grouping optimization is auto-enabled for both REST and GraphQL.",
+  "comments": "GitLab exposes both a REST API (OpenAPI spec) and a GraphQL API. The REST spec is fetched from the official repo. For self-hosted instances, the spec URL is {instance}/api/openapi.json.",
   "specUrl": "https://gitlab.com/gitlab-org/gitlab/-/raw/master/doc/api/openapi/openapi_v2.yaml",
   "specType": "swagger2",
   "baseUrl": "https://gitlab.com",
   "authType": "bearer",
-  "authNotes": "Requires a Personal Access Token (PAT). Generate one at {instance}/-/user_settings/personal_access_tokens. The token is sent via the PRIVATE-TOKEN header.",
+  "authNotes": "Requires a Personal Access Token (PAT).",
   "website": "https://gitlab.com",
   "docsUrl": "https://docs.gitlab.com/ee/api/rest/",
   "selfHostable": true,
@@ -25,5 +25,15 @@
   "detectionHints": {
     "probePaths": ["/api/openapi.json"],
     "urlPatterns": ["gitlab"]
+  },
+  "setup": {
+    "fields": [
+      { "key": "instance_url", "label": "Instance URL", "type": "url", "default": "https://gitlab.com", "placeholder": "https://gitlab.com", "target": "base_url", "required": true },
+      { "key": "token", "label": "Personal Access Token", "type": "password", "placeholder": "glpat-...", "target": "auth.token", "required": true },
+      { "key": "name", "label": "API Name", "type": "text", "default": "GitLab", "placeholder": "GitLab", "target": "name" }
+    ],
+    "verify": { "service": "gitlab" },
+    "specUrlTemplate": "{instance_url}/api/openapi.json",
+    "tutorial": "1. Go to **Settings → Access Tokens** in your GitLab instance\n2. Create a token with the `api` scope\n3. Copy the token and paste it above"
   }
 }

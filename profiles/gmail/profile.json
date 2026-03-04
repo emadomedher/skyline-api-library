@@ -6,16 +6,30 @@
   "logo": "logos/gmail.svg",
   "tags": ["email", "google", "productivity", "oauth"],
   "category": "Email",
-  "comments": "Uses Google Discovery Document format instead of OpenAPI. Requires OAuth 2.0 with a Google Cloud project that has the Gmail API enabled. The PKCE flow is handled in the Skyline MCP admin UI.",
+  "comments": "Uses Google Discovery Document format instead of OpenAPI. Requires OAuth 2.0 with a Google Cloud project that has the Gmail API enabled.",
   "specUrl": "https://gmail.googleapis.com/$discovery/rest?version=v1",
   "specType": "google-discovery",
   "baseUrl": "https://gmail.googleapis.com",
   "authType": "oauth2",
-  "authNotes": "Requires a Google Cloud project with Gmail API enabled. Create OAuth 2.0 credentials (Web application type) at https://console.cloud.google.com/apis/credentials. The Skyline admin UI handles the consent flow to obtain a refresh token.",
+  "authNotes": "Requires a Google Cloud project with Gmail API enabled. Create OAuth 2.0 credentials at console.cloud.google.com.",
   "website": "https://mail.google.com",
   "docsUrl": "https://developers.google.com/gmail/api/reference/rest",
   "selfHostable": false,
   "detectionHints": {
     "urlPatterns": ["gmail\\.googleapis\\.com"]
+  },
+  "setup": {
+    "flow": "oauth2",
+    "fields": [
+      { "key": "client_id", "label": "OAuth Client ID", "type": "text", "placeholder": "123456789.apps.googleusercontent.com", "target": "auth.client_id", "required": true },
+      { "key": "client_secret", "label": "OAuth Client Secret", "type": "password", "placeholder": "GOCSPX-...", "target": "auth.client_secret", "required": true },
+      { "key": "name", "label": "API Name", "type": "text", "default": "Gmail", "placeholder": "Gmail", "target": "name" }
+    ],
+    "oauth": {
+      "scopes": "https://www.googleapis.com/auth/gmail.modify",
+      "provider": "google"
+    },
+    "verify": { "service": "gmail" },
+    "tutorial": "1. Go to [console.cloud.google.com](https://console.cloud.google.com)\n2. Enable the **Gmail API**\n3. Create **OAuth 2.0 credentials** (Web application type)\n4. Add your Skyline server URL as an authorized redirect URI\n5. Copy the Client ID and Client Secret above"
   }
 }

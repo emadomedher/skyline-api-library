@@ -6,42 +6,36 @@
   "logo": "logos/jira.svg",
   "tags": ["project-management", "issue-tracking", "agile", "scrum", "kanban", "atlassian"],
   "category": "Project Management",
-  "comments": "Supports both Jira Cloud (.atlassian.net) and Jira Server/Data Center. Cloud uses basic auth (email + API token), Server uses bearer PAT. The /rest/api/2/search and /rest/api/3/search endpoints are deprecated on Cloud (return HTTP 410) and are blocked by provider overrides.",
+  "comments": "Supports both Jira Cloud (.atlassian.net) and Jira Server/Data Center. Cloud uses basic auth (email + API token), Server uses bearer PAT.",
   "specUrl": "https://developer.atlassian.com/cloud/jira/platform/swagger-v3.v3.json",
   "specType": "openapi",
   "baseUrl": "https://your-domain.atlassian.net",
   "authType": "basic",
-  "authNotes": "Cloud: use your email + API token (generate at https://id.atlassian.com/manage-profile/security/api-tokens). Server/Data Center: use a Personal Access Token as bearer auth.",
+  "authNotes": "Cloud: use your email + API token. Server/Data Center: use a Personal Access Token as bearer auth.",
   "website": "https://www.atlassian.com/software/jira",
   "docsUrl": "https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/",
   "selfHostable": true,
   "providerOverrides": {
     "reason": "Deprecated search endpoints return HTTP 410 on Jira Cloud",
     "blockedOperations": [
-      {
-        "method": "GET",
-        "path": "/rest/api/2/search",
-        "reason": "Deprecated on Cloud, returns 410. Use /rest/api/2/search/jql instead."
-      },
-      {
-        "method": "POST",
-        "path": "/rest/api/2/search",
-        "reason": "Deprecated on Cloud, returns 410. Use /rest/api/2/search/jql instead."
-      },
-      {
-        "method": "GET",
-        "path": "/rest/api/3/search",
-        "reason": "Deprecated on Cloud, returns 410. Use /rest/api/3/search/jql instead."
-      },
-      {
-        "method": "POST",
-        "path": "/rest/api/3/search",
-        "reason": "Deprecated on Cloud, returns 410. Use /rest/api/3/search/jql instead."
-      }
+      { "method": "GET", "path": "/rest/api/2/search", "reason": "Deprecated on Cloud. Use /rest/api/2/search/jql instead." },
+      { "method": "POST", "path": "/rest/api/2/search", "reason": "Deprecated on Cloud. Use /rest/api/2/search/jql instead." },
+      { "method": "GET", "path": "/rest/api/3/search", "reason": "Deprecated on Cloud. Use /rest/api/3/search/jql instead." },
+      { "method": "POST", "path": "/rest/api/3/search", "reason": "Deprecated on Cloud. Use /rest/api/3/search/jql instead." }
     ]
   },
   "detectionHints": {
     "probePaths": ["/rest/api/3/serverInfo"],
     "urlPatterns": ["\\.atlassian\\.net"]
+  },
+  "setup": {
+    "fields": [
+      { "key": "instance_url", "label": "Jira URL", "type": "url", "default": "https://your-domain.atlassian.net", "placeholder": "https://your-domain.atlassian.net", "target": "base_url", "required": true },
+      { "key": "email", "label": "Email (Cloud only)", "type": "text", "placeholder": "you@company.com", "target": "auth.username" },
+      { "key": "token", "label": "API Token", "type": "password", "placeholder": "Your API token", "target": "auth.token", "required": true },
+      { "key": "name", "label": "API Name", "type": "text", "default": "Jira", "placeholder": "Jira", "target": "name" }
+    ],
+    "verify": { "service": "jira" },
+    "tutorial": "**Jira Cloud:** Generate an API token at [id.atlassian.com/manage-profile/security/api-tokens](https://id.atlassian.com/manage-profile/security/api-tokens)\n\n**Jira Server:** Create a Personal Access Token in your profile settings."
   }
 }

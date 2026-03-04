@@ -14,5 +14,12 @@
   "authNotes": "Requires a Slack Bot Token (xoxb-...) or User Token (xoxp-...). Create a Slack App at https://api.slack.com/apps and install it to your workspace to get a token.",
   "website": "https://slack.com",
   "docsUrl": "https://api.slack.com/docs",
-  "selfHostable": false
+  "selfHostable": false,
+  "setup": {
+    "fields": [
+      { "key": "token", "label": "Bot / User Token", "type": "password", "placeholder": "xoxb-...", "target": "auth.token", "required": true }
+    ],
+    "verify": { "service": "slack" },
+    "tutorial": "1. Go to [api.slack.com/apps](https://api.slack.com/apps) and create a new app\n2. Under **OAuth & Permissions**, add the scopes you need\n3. Click **Install to Workspace** and copy the Bot Token (starts with `xoxb-`)"
+  }
 }

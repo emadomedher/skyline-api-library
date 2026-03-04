@@ -3,13 +3,14 @@
  * Generates profiles-slim.json from profiles.json.
  * Run from repo root: node scripts/generate-slim.mjs
  *
- * Input:  profiles.json      — full index maintained by hand / scraper
- * Output: profiles-slim.json — compact index for skyline-mcp library loading
+ * Input:  profiles.json             — full index maintained by hand / scraper
+ *         profiles/{id}/profile.json — individual profiles (may contain setup fields)
+ * Output: profiles-slim.json        — compact index for skyline-mcp library loading
  *
  * Short keys: id, t=title, d=description, c=category, at=authType,
- *             su=specUrl, st=specType, bu=baseUrl, w=website
+ *             su=specUrl, st=specType, bu=baseUrl, w=website, s=setup
  */
-import { readFileSync, writeFileSync } from 'fs'
+import { readFileSync, writeFileSync, existsSync } from 'fs'
 import { join, dirname } from 'path'
 import { fileURLToPath } from 'url'
 
@@ -36,6 +37,21 @@ const slimEntries = profiles.map(p => {
   if (p.specType && p.specType !== 'auto-detect') slim.st = p.specType
   if (p.baseUrl) slim.bu = p.baseUrl
   if (p.website) slim.w = p.website
+
+  // Check for setup data in the individual profile.json
+  // (guided setup fields for auth, verification, tutorials)
+  if (p.setup) {
+    slim.s = p.setup
+  } else {
+    const profilePath = join(ROOT, 'profiles', p.id, 'profile.json')
+    if (existsSync(profilePath)) {
+      try {
+        const individual = JSON.parse(readFileSync(profilePath, 'utf-8'))
+        if (individual.setup) slim.s = individual.setup
+      } catch { /* ignore parse errors */ }
+    }
+  }
+
   return slim
 })
 
@@ -50,3 +66,5 @@ const slim = {
 writeFileSync(OUTPUT, JSON.stringify(slim) + '\n')
 const sizeKB = (Buffer.byteLength(JSON.stringify(slim)) / 1024).toFixed(0)
 console.log(`Generated profiles-slim.json — ${slimEntries.length} entries (${sizeKB} KB)`)
+const withSetup = slimEntries.filter(e => e.s).length
+if (withSetup) console.log(`  ${withSetup} profiles have guided setup fields`)
