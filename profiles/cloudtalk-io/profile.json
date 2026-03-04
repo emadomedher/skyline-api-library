@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1616155010/icons/cloudtalk-io.jpg",
   "specUrl": "https://developers.cloudtalk.io/swagger.json",
   "website": "https://www.cloudtalk.io/",
-  "docsUrl": "https://developers.cloudtalk.io"
+  "docsUrl": "https://developers.cloudtalk.io",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

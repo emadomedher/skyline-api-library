@@ -12,5 +12,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1618074607/icons/baserow-io.jpg",
   "specUrl": "https://api.baserow.io/api/schema.json",
   "website": "https://baserow.io/",
-  "docsUrl": "https://baserow.io/docs/index"
+  "docsUrl": "https://baserow.io/docs/index",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

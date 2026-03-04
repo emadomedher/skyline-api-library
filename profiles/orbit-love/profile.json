@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1595447205/icons/orbit-love.jpg",
   "specUrl": "https://app.orbit.love/api-docs/v1/swagger.json",
   "website": "https://orbit.love/",
-  "docsUrl": "https://docs.orbit.love/docs"
+  "docsUrl": "https://docs.orbit.love/docs",
+  "compatibility": "broken",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

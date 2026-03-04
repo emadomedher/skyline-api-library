@@ -12,5 +12,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1621196011/icons/bbc-news.png",
   "specUrl": "https://ik.imagekit.io/ably/s3/xchg_products/async_api_specs/000/000/013/original/bbc.yaml",
   "website": "https://www.bbc.com/news",
-  "docsUrl": "http://www.bbc.co.uk/developer/technology/apis.html"
+  "docsUrl": "http://www.bbc.co.uk/developer/technology/apis.html",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

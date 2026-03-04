@@ -12,5 +12,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1594375623/icons/gitter-im.png",
   "specUrl": "https://raw.githubusercontent.com/asyncapi/spec/master/examples/1.2.0/gitter-streaming.yml",
   "website": "https://gitter.im/",
-  "docsUrl": "https://developer.gitter.im/docs/welcome"
+  "docsUrl": "https://developer.gitter.im/docs/welcome",
+  "compatibility": "broken",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

@@ -8,7 +8,8 @@
  * Output: profiles-slim.json        — compact index for skyline-mcp library loading
  *
  * Short keys: id, t=title, d=description, c=category, at=authType,
- *             su=specUrl, st=specType, bu=baseUrl, w=website, s=setup
+ *             su=specUrl, st=specType, bu=baseUrl, w=website, s=setup,
+ *             cp=compatibility, te=tested
  */
 import { readFileSync, writeFileSync, existsSync } from 'fs'
 import { join, dirname } from 'path'
@@ -38,19 +39,25 @@ const slimEntries = profiles.map(p => {
   if (p.baseUrl) slim.bu = p.baseUrl
   if (p.website) slim.w = p.website
 
-  // Check for setup data in the individual profile.json
-  // (guided setup fields for auth, verification, tutorials)
+  // Merge data from individual profile.json (setup, compatibility, tested)
+  const profilePath = join(ROOT, 'profiles', p.id, 'profile.json')
+  let individual = null
+  if (existsSync(profilePath)) {
+    try { individual = JSON.parse(readFileSync(profilePath, 'utf-8')) } catch { /* ignore */ }
+  }
+
+  // Setup (guided setup fields for auth, verification, tutorials)
   if (p.setup) {
     slim.s = p.setup
-  } else {
-    const profilePath = join(ROOT, 'profiles', p.id, 'profile.json')
-    if (existsSync(profilePath)) {
-      try {
-        const individual = JSON.parse(readFileSync(profilePath, 'utf-8'))
-        if (individual.setup) slim.s = individual.setup
-      } catch { /* ignore parse errors */ }
-    }
+  } else if (individual?.setup) {
+    slim.s = individual.setup
   }
+
+  // Compatibility tags
+  const compat = p.compatibility || individual?.compatibility
+  const tested = p.tested ?? individual?.tested
+  if (compat) slim.cp = compat
+  if (tested) slim.te = true
 
   return slim
 })
@@ -68,3 +75,7 @@ const sizeKB = (Buffer.byteLength(JSON.stringify(slim)) / 1024).toFixed(0)
 console.log(`Generated profiles-slim.json — ${slimEntries.length} entries (${sizeKB} KB)`)
 const withSetup = slimEntries.filter(e => e.s).length
 if (withSetup) console.log(`  ${withSetup} profiles have guided setup fields`)
+const tested = slimEntries.filter(e => e.te).length
+const working = slimEntries.filter(e => e.cp === 'working').length
+const broken = slimEntries.filter(e => e.cp === 'broken').length
+if (tested) console.log(`  ${tested} tested (${working} working, ${broken} broken, ${tested - working - broken} unknown)`)

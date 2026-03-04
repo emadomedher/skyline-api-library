@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1632097547/icons/box.jpg",
   "specUrl": "https://raw.githubusercontent.com/box/box-openapi/en/openapi.json",
   "website": "https://www.box.com/",
-  "docsUrl": "https://developer.box.com/"
+  "docsUrl": "https://developer.box.com/",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

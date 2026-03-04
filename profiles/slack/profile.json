@@ -4,7 +4,13 @@
   "title": "Slack",
   "subtitle": "Team messaging and workflow automation platform",
   "logo": "logos/slack.svg",
-  "tags": ["communication", "messaging", "productivity", "webhooks", "bots"],
+  "tags": [
+    "communication",
+    "messaging",
+    "productivity",
+    "webhooks",
+    "bots"
+  ],
   "category": "Communication",
   "comments": "Using spec directly from the GitHub repo (slackapi/slack-api-specs) because the deployed version at api.slack.com/specs is outdated and causes parsing errors with Skyline's Swagger 2.0 parser.",
   "specUrl": "https://raw.githubusercontent.com/slackapi/slack-api-specs/master/web-api/slack_web_openapi_v2.json",
@@ -17,9 +23,21 @@
   "selfHostable": false,
   "setup": {
     "fields": [
-      { "key": "token", "label": "Bot / User Token", "type": "password", "placeholder": "xoxb-...", "target": "auth.token", "required": true }
+      {
+        "key": "token",
+        "label": "Bot / User Token",
+        "type": "password",
+        "placeholder": "xoxb-...",
+        "target": "auth.token",
+        "required": true
+      }
     ],
-    "verify": { "service": "slack" },
+    "verify": {
+      "service": "slack"
+    },
     "tutorial": "1. Go to [api.slack.com/apps](https://api.slack.com/apps) and create a new app\n2. Under **OAuth & Permissions**, add the scopes you need\n3. Click **Install to Workspace** and copy the Bot Token (starts with `xoxb-`)"
-  }
+  },
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

@@ -12,5 +12,8 @@
   "specUrl": "https://swagger.hrapi.co.uk/swagger.json",
   "baseUrl": "https://api.iris.co.uk/hr/v2",
   "website": "https://www.iris.co.uk/products/iris-cascade-b/",
-  "docsUrl": "https://help.iris.co.uk/hr/cascade/api/home.htm"
+  "docsUrl": "https://help.iris.co.uk/hr/cascade/api/home.htm",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

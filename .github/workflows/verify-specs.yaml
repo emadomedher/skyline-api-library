@@ -1,0 +1,64 @@
+name: Verify API Specs
+
+on:
+  # Manual trigger with optional inputs
+  workflow_dispatch:
+    inputs:
+      ids:
+        description: 'Comma-separated profile IDs to test (empty = untested only)'
+        required: false
+        default: ''
+      retest:
+        description: 'Retest all profiles (including already tested)'
+        required: false
+        type: boolean
+        default: false
+
+  # Auto-run when profiles change
+  push:
+    branches: [main]
+    paths:
+      - 'profiles/*/profile.json'
+      - 'compatibility-overrides.json'
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install js-yaml
+        run: npm install --no-save js-yaml
+
+      - name: Run spec verification
+        run: |
+          ARGS=""
+          if [ "${{ inputs.retest }}" = "true" ]; then
+            ARGS="$ARGS --retest"
+          fi
+          if [ -n "${{ inputs.ids }}" ]; then
+            ARGS="$ARGS --ids=${{ inputs.ids }}"
+          fi
+          # Don't fail the workflow on broken specs — we want to commit the results
+          node scripts/verify-specs.mjs $ARGS --concurrency=3 --timeout=30000 || true
+
+      - name: Regenerate slim index
+        run: node scripts/generate-slim.mjs
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add compatibility-results.json profiles-slim.json profiles/*/profile.json
+          git diff --cached --quiet && echo "No changes" && exit 0
+          git commit -m "chore: update spec compatibility results [skip ci]"
+          git push

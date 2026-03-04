@@ -1,0 +1,500 @@
+{
+  "lastRun": "2026-03-04T19:14:12.686Z",
+  "totalTested": 47,
+  "working": 41,
+  "broken": 6,
+  "results": {
+    "1password": {
+      "id": "1password",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.0",
+      "title": "Events API",
+      "pathCount": 5,
+      "responseSize": 22582,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "24sessions": {
+      "id": "24sessions",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "24sessions API",
+      "pathCount": 19,
+      "responseSize": 64961,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "airbyte-io": {
+      "id": "airbyte-io",
+      "compatibility": "broken",
+      "tested": true,
+      "error": "HTTP 404 Not Found",
+      "statusCode": 404,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "baserow-io": {
+      "id": "baserow-io",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.3",
+      "title": "Baserow API spec",
+      "pathCount": 267,
+      "responseSize": 5408185,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "bbc-news": {
+      "id": "bbc-news",
+      "compatibility": "working",
+      "tested": true,
+      "format": "asyncapi",
+      "version": "2.0.0",
+      "title": "BBC News on Ably Hub",
+      "pathCount": 1,
+      "responseSize": 3531,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "box": {
+      "id": "box",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.2",
+      "title": "Box Platform API",
+      "pathCount": 186,
+      "responseSize": 1741123,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "cascade-hr": {
+      "id": "cascade-hr",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.1",
+      "title": "HR API",
+      "pathCount": 39,
+      "responseSize": 418819,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "cloudtalk-io": {
+      "id": "cloudtalk-io",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.1",
+      "title": "CloudTalk API",
+      "pathCount": 56,
+      "responseSize": 292836,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "digital-ocean": {
+      "id": "digital-ocean",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.0",
+      "title": "DigitalOcean API",
+      "pathCount": 369,
+      "responseSize": 92932,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "ebay": {
+      "id": "ebay",
+      "compatibility": "working",
+      "tested": true,
+      "format": "asyncapi",
+      "version": "2.0.0",
+      "title": "eBay Notifications",
+      "pathCount": 1,
+      "responseSize": 2306,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "facebook": {
+      "id": "facebook",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "Facebook Conversions API (for Web)",
+      "pathCount": 1,
+      "responseSize": 14156,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "facebook-business": {
+      "id": "facebook-business",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "Facebook Conversions API (for Web)",
+      "pathCount": 1,
+      "responseSize": 14156,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "fintual-cl": {
+      "id": "fintual-cl",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "API V1",
+      "pathCount": 15,
+      "responseSize": 14213,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "gemini": {
+      "id": "gemini",
+      "compatibility": "broken",
+      "tested": true,
+      "error": "HTTP 404 Not Found",
+      "statusCode": 404,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "github": {
+      "id": "github",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.3",
+      "title": "GitHub v3 REST API",
+      "pathCount": 720,
+      "responseSize": 66423328,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "gitlab": {
+      "id": "gitlab",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "GitLab API",
+      "pathCount": 874,
+      "responseSize": 2232269,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "gitter-im": {
+      "id": "gitter-im",
+      "compatibility": "broken",
+      "tested": true,
+      "error": "HTTP 404 Not Found",
+      "statusCode": 404,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "gmail": {
+      "id": "gmail",
+      "compatibility": "working",
+      "tested": true,
+      "format": "google-discovery",
+      "version": "v1",
+      "title": "Gmail API",
+      "pathCount": 79,
+      "responseSize": 205892,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "insightly": {
+      "id": "insightly",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "Insightly API v3.1",
+      "pathCount": 303,
+      "responseSize": 1008342,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "intercom": {
+      "id": "intercom",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.1",
+      "title": "Intercom API",
+      "pathCount": 69,
+      "responseSize": 533919,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "journy-io": {
+      "id": "journy-io",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.3",
+      "title": "Developer documentation",
+      "pathCount": 15,
+      "responseSize": 139418,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "launchdarkly": {
+      "id": "launchdarkly",
+      "compatibility": "broken",
+      "tested": true,
+      "error": "HTTP 404 Not Found",
+      "statusCode": 404,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "lob": {
+      "id": "lob",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.3",
+      "title": "Lob",
+      "pathCount": 56,
+      "responseSize": 1025029,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "loket-nl": {
+      "id": "loket-nl",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.1.0",
+      "title": "Loket.nl API",
+      "pathCount": 698,
+      "responseSize": 4697383,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "mailchimp": {
+      "id": "mailchimp",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "Mailchimp Marketing API",
+      "pathCount": 172,
+      "responseSize": 71015,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "notion": {
+      "id": "notion",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.1.0",
+      "title": "Notion API",
+      "pathCount": 16,
+      "responseSize": 66449,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "onsched": {
+      "id": "onsched",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.1",
+      "title": "OnSched Consumer API",
+      "pathCount": 33,
+      "responseSize": 169764,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "openweathermap-org": {
+      "id": "openweathermap-org",
+      "compatibility": "working",
+      "tested": true,
+      "format": "asyncapi",
+      "version": "2.0.0",
+      "title": "OpenWeatherMap on Ably Hub",
+      "pathCount": 1,
+      "responseSize": 5268,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "orbit-love": {
+      "id": "orbit-love",
+      "compatibility": "broken",
+      "tested": true,
+      "error": "HTTP 530 <none>",
+      "statusCode": 530,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "personio": {
+      "id": "personio",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.0",
+      "title": "Personnel Data",
+      "pathCount": 20,
+      "responseSize": 193208,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "pipedrive": {
+      "id": "pipedrive",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.1",
+      "title": "Pipedrive API v1",
+      "pathCount": 143,
+      "responseSize": 1744282,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "prisync": {
+      "id": "prisync",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "Welcome to Prisync API Documentation",
+      "pathCount": 19,
+      "responseSize": 80830,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "slack": {
+      "id": "slack",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "Slack Web API",
+      "pathCount": 174,
+      "responseSize": 1237332,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "square": {
+      "id": "square",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.0",
+      "title": "Square",
+      "pathCount": 249,
+      "responseSize": 3205457,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "storecove": {
+      "id": "storecove",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "Storecove API",
+      "pathCount": 31,
+      "responseSize": 235513,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "stripe": {
+      "id": "stripe",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.0",
+      "title": "Stripe API",
+      "pathCount": 414,
+      "responseSize": 6079883,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "teamleader": {
+      "id": "teamleader",
+      "compatibility": "broken",
+      "tested": true,
+      "error": "Could not parse response as JSON or YAML",
+      "responseSize": 401150,
+      "contentType": "text/plain; charset=utf-8",
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "telnyx": {
+      "id": "telnyx",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.1.0",
+      "title": "Telnyx API",
+      "pathCount": 646,
+      "responseSize": 3259489,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "twilio": {
+      "id": "twilio",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.1",
+      "title": "Twilio - Accounts",
+      "pathCount": 11,
+      "responseSize": 63128,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "twitter": {
+      "id": "twitter",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.0",
+      "title": "X API v2",
+      "pathCount": 133,
+      "responseSize": 754598,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "victorops": {
+      "id": "victorops",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "VictorOps API",
+      "pathCount": 64,
+      "responseSize": 172410,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "xero": {
+      "id": "xero",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.0.0",
+      "title": "Xero OAuth 2 Identity Service API",
+      "pathCount": 2,
+      "responseSize": 5329,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "yousign": {
+      "id": "yousign",
+      "compatibility": "working",
+      "tested": true,
+      "format": "swagger2",
+      "version": "2.0",
+      "title": "Yousign API Swagger",
+      "pathCount": 40,
+      "responseSize": 178820,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "zapier": {
+      "id": "zapier",
+      "compatibility": "working",
+      "tested": true,
+      "format": "openapi",
+      "version": "3.1.0",
+      "title": "Zapier AI Actions (Dynamic)",
+      "pathCount": 5,
+      "responseSize": 8511,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "zorabots": {
+      "id": "zorabots",
+      "compatibility": "working",
+      "tested": true,
+      "format": "asyncapi",
+      "version": "2.0.0",
+      "title": "ZBOS MQTT API",
+      "pathCount": 617,
+      "responseSize": 686900,
+      "testedAt": "2026-03-04T19:14:12.686Z"
+    },
+    "kubernetes": {
+      "id": "kubernetes",
+      "compatibility": "working",
+      "tested": true,
+      "reason": "Manually verified — spec served dynamically per cluster",
+      "testedAt": "2026-03-04T19:13:09.587Z"
+    },
+    "jira": {
+      "id": "jira",
+      "compatibility": "working",
+      "tested": true,
+      "reason": "Manually verified — Jira Cloud and Server",
+      "testedAt": "2026-03-04T19:13:09.587Z"
+    }
+  }
+}

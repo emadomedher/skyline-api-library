@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1612922036/icons/onsched.jpg",
   "specUrl": "https://sandbox-api.onsched.com/swagger/consumer/swagger.json",
   "website": "https://www.onsched.com/",
-  "docsUrl": "https://onsched.readme.io"
+  "docsUrl": "https://onsched.readme.io",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

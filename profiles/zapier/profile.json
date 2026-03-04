@@ -12,5 +12,8 @@
   "specUrl": "https://nla.zapier.com/api/v1/dynamic/openapi.json",
   "baseUrl": "https://nla.zapier.com",
   "website": "https://zapier.com/",
-  "docsUrl": "https://zapier.com/developer/"
+  "docsUrl": "https://zapier.com/developer/",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

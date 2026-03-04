@@ -12,5 +12,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1531306175/catalog/square/icon128x128.png",
   "specUrl": "https://raw.githubusercontent.com/square/connect-api-specification/master/api.json",
   "website": "https://squareup.com/",
-  "docsUrl": "https://developer.squareup.com/docs"
+  "docsUrl": "https://developer.squareup.com/docs",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

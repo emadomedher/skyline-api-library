@@ -13,5 +13,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456076/catalog/stripe/icon128x128.png",
   "specUrl": "https://raw.githubusercontent.com/stripe/openapi/master/openapi/spec3.yaml",
   "website": "https://stripe.com/",
-  "docsUrl": "https://stripe.com/docs"
+  "docsUrl": "https://stripe.com/docs",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

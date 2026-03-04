@@ -4,7 +4,12 @@
   "title": "Gmail",
   "subtitle": "Google email service with full read/write API access",
   "logo": "logos/gmail.svg",
-  "tags": ["email", "google", "productivity", "oauth"],
+  "tags": [
+    "email",
+    "google",
+    "productivity",
+    "oauth"
+  ],
   "category": "Email",
   "comments": "Uses Google Discovery Document format instead of OpenAPI. Requires OAuth 2.0 with a Google Cloud project that has the Gmail API enabled.",
   "specUrl": "https://gmail.googleapis.com/$discovery/rest?version=v1",
@@ -16,20 +21,48 @@
   "docsUrl": "https://developers.google.com/gmail/api/reference/rest",
   "selfHostable": false,
   "detectionHints": {
-    "urlPatterns": ["gmail\\.googleapis\\.com"]
+    "urlPatterns": [
+      "gmail\\.googleapis\\.com"
+    ]
   },
   "setup": {
     "flow": "oauth2",
     "fields": [
-      { "key": "client_id", "label": "OAuth Client ID", "type": "text", "placeholder": "123456789.apps.googleusercontent.com", "target": "auth.client_id", "required": true },
-      { "key": "client_secret", "label": "OAuth Client Secret", "type": "password", "placeholder": "GOCSPX-...", "target": "auth.client_secret", "required": true },
-      { "key": "name", "label": "API Name", "type": "text", "default": "Gmail", "placeholder": "Gmail", "target": "name" }
+      {
+        "key": "client_id",
+        "label": "OAuth Client ID",
+        "type": "text",
+        "placeholder": "123456789.apps.googleusercontent.com",
+        "target": "auth.client_id",
+        "required": true
+      },
+      {
+        "key": "client_secret",
+        "label": "OAuth Client Secret",
+        "type": "password",
+        "placeholder": "GOCSPX-...",
+        "target": "auth.client_secret",
+        "required": true
+      },
+      {
+        "key": "name",
+        "label": "API Name",
+        "type": "text",
+        "default": "Gmail",
+        "placeholder": "Gmail",
+        "target": "name"
+      }
     ],
     "oauth": {
       "scopes": "https://www.googleapis.com/auth/gmail.modify",
       "provider": "google"
     },
-    "verify": { "service": "gmail" },
+    "verify": {
+      "service": "gmail"
+    },
     "tutorial": "1. Go to [console.cloud.google.com](https://console.cloud.google.com)\n2. Enable the **Gmail API**\n3. Create **OAuth 2.0 credentials** (Web application type)\n4. Add your Skyline server URL as an authorized redirect URI\n5. Copy the Client ID and Client Secret above"
-  }
+  },
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

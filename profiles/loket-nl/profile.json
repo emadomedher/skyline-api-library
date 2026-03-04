@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1586187637/catalog/loket-nl/icon128x128.png",
   "specUrl": "https://developer.loket.nl/swagger.json",
   "website": "https://www.loket.nl/",
-  "docsUrl": "https://developer.loket.nl/"
+  "docsUrl": "https://developer.loket.nl/",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

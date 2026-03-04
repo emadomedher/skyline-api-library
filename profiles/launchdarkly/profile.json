@@ -13,5 +13,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1567510943/catalog/launchdarkly/icon128x128.jpg",
   "specUrl": "https://launchdarkly.github.io/ld-openapi/openapi.yaml",
   "website": "https://launchdarkly.com/",
-  "docsUrl": "https://docs.launchdarkly.com/docs"
+  "docsUrl": "https://docs.launchdarkly.com/docs",
+  "compatibility": "broken",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

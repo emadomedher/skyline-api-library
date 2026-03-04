@@ -189,6 +189,22 @@
         }
       },
       "description": "Hints for Skyline MCP to auto-detect this API type from a base URL"
+    },
+    "compatibility": {
+      "type": "string",
+      "enum": ["working", "broken", "unknown"],
+      "default": "unknown",
+      "description": "Whether Skyline can successfully fetch and parse this API's spec. Set by automated verification or manual testing."
+    },
+    "tested": {
+      "type": "boolean",
+      "default": false,
+      "description": "Whether this profile has been verified (automated spec fetch or manual user testing)."
+    },
+    "testedAt": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 timestamp of the last verification run."
     }
   }
 }

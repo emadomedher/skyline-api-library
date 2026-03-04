@@ -13,5 +13,8 @@
   "specUrl": "https://raw.githubusercontent.com/makenotion/notion-mcp-server/main/scripts/notion-openapi.json",
   "baseUrl": "https://api.notion.com",
   "website": "https://notion.so",
-  "docsUrl": "https://developers.notion.com/"
+  "docsUrl": "https://developers.notion.com/",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

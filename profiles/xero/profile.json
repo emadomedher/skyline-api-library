@@ -48,5 +48,8 @@
       "specUrl": "https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_bankfeeds.yaml",
       "specType": "openapi"
     }
-  ]
+  ],
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

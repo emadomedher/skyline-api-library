@@ -4,7 +4,14 @@
   "title": "Kubernetes",
   "subtitle": "Container orchestration platform API for managing clusters and workloads",
   "logo": "logos/kubernetes.svg",
-  "tags": ["cloud", "containers", "orchestration", "devops", "infrastructure", "networking"],
+  "tags": [
+    "cloud",
+    "containers",
+    "orchestration",
+    "devops",
+    "infrastructure",
+    "networking"
+  ],
   "category": "Cloud",
   "comments": "No fixed spec URL -- the OpenAPI spec is served dynamically by each cluster at /openapi/v2 or /openapi/v3. Skyline auto-detects by probing both endpoints.",
   "specType": "auto-detect",
@@ -14,16 +21,50 @@
   "docsUrl": "https://kubernetes.io/docs/reference/kubernetes-api/",
   "selfHostable": true,
   "detectionHints": {
-    "probePaths": ["/openapi/v2", "/openapi/v3"],
-    "urlPatterns": ["kubernetes\\.default\\.svc", ":\\d+/api(s)?/"]
+    "probePaths": [
+      "/openapi/v2",
+      "/openapi/v3"
+    ],
+    "urlPatterns": [
+      "kubernetes\\.default\\.svc",
+      ":\\d+/api(s)?/"
+    ]
   },
   "setup": {
     "fields": [
-      { "key": "instance_url", "label": "Cluster API URL", "type": "url", "default": "https://localhost:6443", "placeholder": "https://your-cluster:6443", "target": "base_url", "required": true },
-      { "key": "token", "label": "Service Account Token", "type": "password", "placeholder": "eyJhbGciOiJSUzI1NiIs...", "target": "auth.token", "required": true },
-      { "key": "name", "label": "API Name", "type": "text", "default": "Kubernetes", "placeholder": "Kubernetes", "target": "name" }
+      {
+        "key": "instance_url",
+        "label": "Cluster API URL",
+        "type": "url",
+        "default": "https://localhost:6443",
+        "placeholder": "https://your-cluster:6443",
+        "target": "base_url",
+        "required": true
+      },
+      {
+        "key": "token",
+        "label": "Service Account Token",
+        "type": "password",
+        "placeholder": "eyJhbGciOiJSUzI1NiIs...",
+        "target": "auth.token",
+        "required": true
+      },
+      {
+        "key": "name",
+        "label": "API Name",
+        "type": "text",
+        "default": "Kubernetes",
+        "placeholder": "Kubernetes",
+        "target": "name"
+      }
     ],
-    "verify": { "service": "kubernetes", "method": "detect" },
+    "verify": {
+      "service": "kubernetes",
+      "method": "detect"
+    },
     "tutorial": "Run these commands against your cluster:\n```\nkubectl create serviceaccount skyline -n default\nkubectl create clusterrolebinding skyline-admin --clusterrole=admin --serviceaccount=default:skyline\nkubectl create token skyline -n default --duration=8760h\n```\nCopy the output token and paste it above."
-  }
+  },
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:13:09.587Z"
 }

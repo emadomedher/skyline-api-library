@@ -13,5 +13,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1554586088/catalog/personio/icon128x128.jpg",
   "specUrl": "https://raw.githubusercontent.com/personio/api-docs/master/personio-personnel-data-api-oa3.yaml",
   "website": "https://www.personio.com/",
-  "docsUrl": "https://developer.personio.de/"
+  "docsUrl": "https://developer.personio.de/",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

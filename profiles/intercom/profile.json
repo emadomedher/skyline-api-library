@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456145/catalog/intercom/icon128x128.png",
   "specUrl": "https://raw.githubusercontent.com/intercom/Intercom-OpenAPI/main/descriptions/2.8/api.intercom.io.yaml",
   "website": "https://www.intercom.com/",
-  "docsUrl": "https://developers.intercom.com/"
+  "docsUrl": "https://developers.intercom.com/",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

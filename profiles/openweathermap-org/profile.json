@@ -12,5 +12,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1576975935/catalog/openweathermap-org/icon128x128.jpg",
   "specUrl": "https://ik.imagekit.io/ably/s3/xchg_products/async_api_specs/000/000/019/original/weather.yaml",
   "website": "https://openweathermap.org/",
-  "docsUrl": "https://openweathermap.org/api"
+  "docsUrl": "https://openweathermap.org/api",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

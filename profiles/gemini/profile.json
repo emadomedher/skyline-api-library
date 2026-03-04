@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1621550556/icons/gemini.jpg",
   "specUrl": "https://raw.githubusercontent.com/asyncapi/spec/master/examples/2.0.0/websocket-gemini.yml",
   "website": "https://www.gemini.com/",
-  "docsUrl": "https://docs.gemini.com/rest-api"
+  "docsUrl": "https://docs.gemini.com/rest-api",
+  "compatibility": "broken",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

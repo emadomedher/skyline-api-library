@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1529455916/catalog/mailchimp/icon128x128.png",
   "specUrl": "https://api.mailchimp.com/schema/3.0/Swagger.json",
   "website": "https://mailchimp.com/",
-  "docsUrl": "https://mailchimp.com/developer"
+  "docsUrl": "https://mailchimp.com/developer",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

@@ -12,5 +12,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1615487653/icons/fintual-cl.jpg",
   "specUrl": "https://fintual.cl/api-docs/v1/swagger.json",
   "website": "https://fintual.cl/",
-  "docsUrl": "https://fintual.cl/api-docs"
+  "docsUrl": "https://fintual.cl/api-docs",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

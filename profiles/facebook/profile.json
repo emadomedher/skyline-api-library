@@ -12,5 +12,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456711/catalog/facebook/icon128x128.png",
   "specUrl": "https://raw.githubusercontent.com/facebookincubator/Facebook-Server-Side-API-Swagger/master/server-side-api.yaml",
   "website": "https://www.facebook.com/",
-  "docsUrl": "https://developers.facebook.com/docs/"
+  "docsUrl": "https://developers.facebook.com/docs/",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

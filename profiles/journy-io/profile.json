@@ -13,5 +13,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1581689599/catalog/journy-io/icon128x128.png",
   "specUrl": "https://api.journy.io/spec.json",
   "website": "https://www.journy.io/",
-  "docsUrl": "https://developers.journy.io"
+  "docsUrl": "https://developers.journy.io",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

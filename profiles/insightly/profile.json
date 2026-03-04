@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1529456661/catalog/insightly/icon128x128.png",
   "specUrl": "https://api.na1.insightly.com/v3.1/swagger/docs/v3.1",
   "website": "https://www.insightly.com/features/",
-  "docsUrl": "https://api.insightly.com/v3.1/Help"
+  "docsUrl": "https://api.insightly.com/v3.1/Help",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

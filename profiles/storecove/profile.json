@@ -11,5 +11,8 @@
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1616750583/icons/storecove.png",
   "specUrl": "https://www.storecove.com/api/v2/openapi.json",
   "website": "https://www.storecove.com/",
-  "docsUrl": "https://www.storecove.com/be/en/docs"
+  "docsUrl": "https://www.storecove.com/be/en/docs",
+  "compatibility": "working",
+  "tested": true,
+  "testedAt": "2026-03-04T19:14:12.686Z"
 }

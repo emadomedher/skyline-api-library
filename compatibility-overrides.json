@@ -1,0 +1,7 @@
+{
+  "$comment": "Manual compatibility overrides. These take precedence over automated spec verification. Add entries here for APIs verified by human testing or known to be broken despite having a valid spec.",
+  "overrides": {
+    "kubernetes": { "compatibility": "working", "tested": true, "reason": "Manually verified — spec served dynamically per cluster" },
+    "jira": { "compatibility": "working", "tested": true, "reason": "Manually verified — Jira Cloud and Server" }
+  }
+}
