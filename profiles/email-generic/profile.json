@@ -1,0 +1,50 @@
+{
+  "$schema": "../../schemas/api-profile-v1.json",
+  "id": "email-generic",
+  "title": "Email (Generic)",
+  "subtitle": "Send and read email via SMTP/IMAP with any email provider",
+  "logo": "logos/email.svg",
+  "tags": [
+    "email",
+    "smtp",
+    "imap",
+    "communication",
+    "messaging"
+  ],
+  "category": "Communication",
+  "comments": "Built-in email protocol handler. Auto-detects provider (Gmail, Outlook, Yahoo, etc.) from email address via DNS/MX lookup. Falls back to manual server configuration for unknown providers.",
+  "specType": "email",
+  "authType": "none",
+  "authNotes": "Email address and password (or app password) are configured through the email setup. For Gmail, use an App Password (https://myaccount.google.com/apppasswords). For Outlook/Hotmail, enable IMAP in settings.",
+  "website": "https://skylinemcp.com",
+  "selfHostable": false,
+  "setup": {
+    "fields": [
+      {
+        "key": "email",
+        "label": "Email Address",
+        "type": "text",
+        "placeholder": "you@example.com",
+        "required": true
+      },
+      {
+        "key": "password",
+        "label": "Password / App Password",
+        "type": "password",
+        "placeholder": "Your email password or app-specific password",
+        "required": true
+      },
+      {
+        "key": "name",
+        "label": "API Name",
+        "type": "text",
+        "placeholder": "email",
+        "default": "email",
+        "target": "name"
+      }
+    ],
+    "tutorial": "1. Enter your email address and password\n2. For Gmail: Go to myaccount.google.com/apppasswords and generate an App Password\n3. For Outlook: Enable IMAP in Settings > Mail > Sync email\n4. For Yahoo: Generate an App Password in Account Security settings\n5. Skyline auto-detects your email provider and fills in server settings\n6. For custom/corporate email, you may need to enter server details manually"
+  },
+  "compatibility": "untested",
+  "tested": false
+}
