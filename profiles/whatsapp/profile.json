@@ -1,14 +1,36 @@
 {
   "id": "whatsapp",
   "title": "WhatsApp",
-  "subtitle": "WhatsApp Messenger: More than 2 billion people in over 180 countries use WhatsApp to stay in touch with friends and f...",
-  "tags": [
-    "messaging"
-  ],
+  "subtitle": "Pair a personal WhatsApp account via QR — server holds the socket, agents send/receive via MCP. Plaintext only; not WhatsApp Business API.",
+  "tags": ["messaging"],
   "category": "Communication",
-  "specType": "auto-detect",
-  "authType": "api-key",
+  "specType": "whatsapp",
+  "authType": "whatsapp-pair",
   "logo": "https://res.cloudinary.com/apideck/image/upload/v1557247700/catalog/whatsapp/icon128x128.png",
   "website": "https://whatsapp.com",
-  "docsUrl": "https://developers.facebook.com/docs/whatsapp"
+  "docsUrl": "https://developers.facebook.com/docs/whatsapp",
+  "setup": {
+    "tos": {
+      "title": "WhatsApp connector — high-risk disclosure",
+      "body": "This integration uses the WhatsApp Web protocol via the open-source **whatsmeow** library — the same protocol the official WhatsApp Web and Desktop apps use. It is **not** WhatsApp Business API.\n\nThe connector is **not authorized, supported, sponsored, or endorsed by WhatsApp LLC, Meta Platforms, Inc., or any of their affiliates**.\n\nUse of unofficial WhatsApp clients may violate WhatsApp's Terms of Service. Connecting your WhatsApp account through Skyline may result in warnings, temporary restrictions, or **permanent bans** of your WhatsApp account, including for low-volume or read-only use.\n\n- **Safe:** personal assistant, small-team bots, normal-volume messaging\n- **Risky:** bulk broadcast, cold outreach, spam, unattended reconnect loops\n\nYou connect at your own risk and accept full responsibility for any consequences to your WhatsApp account. Skyline logs every send in the audit log so you always know what went out.",
+      "requiresAccept": true,
+      "acceptLabel": "I understand the WhatsApp account-ban risk and accept full responsibility"
+    },
+    "fields": [],
+    "flow": {
+      "kind": "session",
+      "startEndpoint": "POST /whatsapp/sessions",
+      "saveAs": { "name": "whatsapp", "type": "whatsapp" },
+      "successHint": "The Skyline server is now holding this WhatsApp session on your behalf. It survives reboots — systemd will reconnect on next start.",
+      "stream": {
+        "endpoint": "GET /whatsapp/sessions/{id}/qr",
+        "events": {
+          "qr":     { "handler": "render-svg", "field": "svg" },
+          "paired": { "handler": "success",    "captureFields": ["phone", "push_name", "jid", "device_id", "platform"] },
+          "failed": { "handler": "failure",    "messageField": "error" }
+        }
+      }
+    },
+    "tutorial": "1. Read the disclosure above and accept the risk.\n2. Open WhatsApp on your phone → Settings → Linked Devices → Link a Device.\n3. Scan the QR code that appears on the next screen.\n4. Each QR rotates every ~20s; the pairing window closes after ~160s if no scan happens.\n5. After pairing, agents can send_text / send_image / list_chats / get_messages."
+  }
 }
