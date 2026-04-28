@@ -1,0 +1,25 @@
+project: 'Skyline MCP'
+component: skyline-api-library
+type: library
+platform: gitea
+remote: https://gittea.projex.cc/skyline/skyline-api-library.git
+
+implements:
+  - UC-001
+  - UC-002
+  - UC-017
+
+# CI/CD commands — fill these in after writing code.
+# trellis push will block until lint_command AND test_command are set.
+# Use: trellis set-manifest skyline-api-library --lint-command "ruff check ." --test-command "pytest -v" --build-command "docker build -t skyline-api-library ."
+lint_command: "echo 'No lint'"  # e.g., "ruff check .", "eslint src/", "go vet ./..." (REQUIRED for push)
+test_command: "node scripts/verify-specs.mjs"  # e.g., "pytest -v", "npm test", "go test ./..." (REQUIRED for push)
+build_command: ""       # e.g., "docker build -t skyline-api-library .", "npm run build"
+migrate_command: ""     # e.g., "alembic upgrade head", "npx prisma migrate deploy" (optional)
+
+# Dockerfile best practices (when writing your Dockerfile):
+# - Use multi-stage builds (builder stage + minimal runtime stage)
+# - Run as non-root user: RUN adduser -D appuser && USER appuser
+# - Add HEALTHCHECK: HEALTHCHECK CMD curl -f http://localhost:8000/health || exit 1
+# - Pin base image versions (no :latest)
+# - Use .dockerignore to exclude .git, .venv, node_modules

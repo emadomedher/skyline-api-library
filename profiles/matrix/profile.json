@@ -1,0 +1,54 @@
+{
+  "id": "matrix",
+  "title": "Matrix",
+  "subtitle": "Open federated chat protocol — agents log in to a homeserver, list rooms, send messages, react. Plaintext rooms only in v1; E2EE forthcoming.",
+  "tags": ["messaging", "federation", "open-protocol"],
+  "category": "Communication",
+  "specType": "matrix",
+  "authType": "matrix-login",
+  "logo": "https://matrix.org/images/matrix-logo.svg",
+  "website": "https://matrix.org",
+  "docsUrl": "https://spec.matrix.org/",
+  "setup": {
+    "tos": {
+      "title": "Before you log in to Matrix",
+      "body": "Skyline talks to your Matrix homeserver via `m.login.password`.\n\nThe server keeps the resulting **access_token + device_id** on disk. Your password is never stored.\n\n- **Plaintext only:** messages send in unencrypted rooms. Encrypted (E2EE) rooms are refused with a clear error.\n- **One account per profile:** to rotate creds, delete the session first.\n- **Need to revoke?** Delete the Skyline matrix session — it calls `/logout` on the homeserver.",
+      "requiresAccept": true,
+      "acceptLabel": "I understand — Skyline will not encrypt my messages"
+    },
+    "fields": [
+      {
+        "key": "homeserver_url",
+        "label": "Homeserver URL",
+        "type": "url",
+        "placeholder": "https://matrix.example.org",
+        "required": true,
+        "help": "The URL of your homeserver — usually https://matrix.<domain>."
+      },
+      {
+        "key": "user_id",
+        "label": "Matrix user ID",
+        "type": "text",
+        "placeholder": "@you:example.org",
+        "required": true,
+        "pattern": "^@.+:.+$",
+        "help": "Full user ID including the @ and the :server.",
+        "monospace": true
+      },
+      {
+        "key": "password",
+        "label": "Password",
+        "type": "password",
+        "required": true
+      }
+    ],
+    "flow": {
+      "kind": "session",
+      "startEndpoint": "POST /matrix/sessions",
+      "saveAs": { "name": "matrix", "type": "matrix" },
+      "successFromResponse": ["user_id", "homeserver_url", "device_id"],
+      "successHint": "Skyline holds the access_token on your behalf. The session survives reboots — systemd reconnects on next start."
+    },
+    "tutorial": "1. Enter the URL of your Matrix homeserver (e.g. https://matrix.org)\n2. Enter your full Matrix user ID (e.g. @you:matrix.org)\n3. Enter your account password — Skyline trades it for an access_token at login time and never stores the password itself\n4. After login, agents can list_rooms, send_text, react, and fetch_messages immediately\n5. Encrypted rooms are refused server-side until E2EE support ships"
+  }
+}
